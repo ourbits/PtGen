@@ -1,79 +1,546 @@
 {
     "id": "105651",
+    "aka": [
+        "虹彩六號：圍攻行動",
+        "Rainbow 6: Siege"
+    ],
     "alt": "https://bgm.tv/subject/105651",
+    "eps": 0,
     "sid": "105651",
     "cast": [
-        "西莫斯·考登:栉田泰道",
-        "麦克·贝克:榊孝辅",
-        "马克·R·詹达:田坂浩树",
-        "乔丹·特雷斯:佳月大人",
-        "迈尔斯·坎贝尔:丸山壮史",
-        "艾曼纽·碧尚:永木贵依子",
-        "吉尔斯·图雷:间宫康弘",
-        "古斯塔夫·卡特伯:山本兼平",
-        "尤里安·尼赞:寸石和弘",
-        "舒赫拉特·怯薛巴耶夫:金子修",
-        "亚历山大·谢纳维耶夫:广田稔",
-        "埃利亚斯·科茨:苍谷和树",
-        "莫妮卡·怀斯:高森奈绪",
-        "玛留斯·斯特来赫:驹谷昌男",
-        "多米尼克·布伦斯迈尔:西健亮",
-        "塞巴斯蒂安·科特:前田一世",
-        "克雷格·詹森:原田晃",
-        "文森特·索萨:佳月大人",
-        "今川由美子:壹岐绍未",
-        "拉亚德·拉米雷斯·阿尔·哈萨尔:高山春夫",
-        "索菲娅·博萨克:下田玲",
-        "艾尔兹贝塔·博萨克:三木美",
-        "格蕾丝·南:世户沙织",
-        "奥利维尔·弗拉芒:白熊宽嗣",
-        "蕾拉·梅尔尼科娃:志田有彩",
-        "阿丽娅·德·卢卡:石田嘉代",
-        "阿德里亚诺·马特罗:克兰西·布朗",
-        "埃里克·索恩:藤井启辅",
-        "莫罗娃·埃文斯:石田嘉代",
-        "贾拉尔·伊·费西:山野井仁",
-        "麦克斯·古兹:矢野智也",
-        "科林·麦金利:黑田崇矢",
-        "詹姆斯·波特:",
-        "伊莉莎·柯翰:",
-        "杰克·埃斯特拉达:",
-        "帖木儿·格拉兹科夫:",
-        "马克西姆·巴苏达:",
-        "蒂娜·莲·曾:",
-        "梅根·J·卡斯蒂亚诺:",
-        "泰娜·佩雷拉:",
-        "江夏优:",
-        "艾莲娜·玛利亚·阿尔瓦雷斯:",
-        "萧美莲:",
-        "廖子朗:",
-        "化哲敬:",
-        "萨娜·伊·马克托布:",
-        "托莉·塔莉奥·费尔卢斯:",
-        "NØKK:",
-        "山姆·费舍尔:"
+        {
+            "id": 65502,
+            "name": "Sledge",
+            "actors": [
+                {
+                    "id": 5561,
+                    "name": "櫛田泰道"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65503,
+            "name": "Thatcher",
+            "actors": [
+                {
+                    "id": 24773,
+                    "name": "さかき孝輔"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65504,
+            "name": "Smoke",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 65505,
+            "name": "Mute",
+            "actors": [
+                {
+                    "id": 25354,
+                    "name": "田坂浩樹"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65506,
+            "name": "Ash",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 65507,
+            "name": "Thermite",
+            "actors": [
+                {
+                    "id": 5715,
+                    "name": "佳月大人"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65509,
+            "name": "Castle",
+            "actors": [
+                {
+                    "id": 5184,
+                    "name": "丸山壮史"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65510,
+            "name": "Pulse",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 65511,
+            "name": "Twitch",
+            "actors": [
+                {
+                    "id": 18939,
+                    "name": "永木貴依子"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65513,
+            "name": "Montagne",
+            "actors": [
+                {
+                    "id": 5218,
+                    "name": "間宮康弘"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65514,
+            "name": "Doc",
+            "actors": [
+                {
+                    "id": 7559,
+                    "name": "山本兼平"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65515,
+            "name": "Rook",
+            "actors": [
+                {
+                    "id": 30971,
+                    "name": "寸石和弘"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65516,
+            "name": "Glaz",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 65517,
+            "name": "Fuze",
+            "actors": [
+                {
+                    "id": 14130,
+                    "name": "金子修"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65518,
+            "name": "Kapkan",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 65519,
+            "name": "Tachanka",
+            "actors": [
+                {
+                    "id": 13785,
+                    "name": "広田みのる"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65520,
+            "name": "Blitz",
+            "actors": [
+                {
+                    "id": 24371,
+                    "name": "蒼谷和樹"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65521,
+            "name": "I.Q.",
+            "actors": [
+                {
+                    "id": 18092,
+                    "name": "高森奈緒"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65522,
+            "name": "Jäger",
+            "actors": [
+                {
+                    "id": 18940,
+                    "name": "駒谷昌男"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65523,
+            "name": "Bandit",
+            "actors": [
+                {
+                    "id": 5219,
+                    "name": "西健亮"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65524,
+            "name": "Buck",
+            "actors": [
+                {
+                    "id": 34422,
+                    "name": "前田一世"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65525,
+            "name": "Frost",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 65526,
+            "name": "Blackbeard",
+            "actors": [
+                {
+                    "id": 5043,
+                    "name": "原田晃"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65527,
+            "name": "Valkyrie",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 65528,
+            "name": "Capitão",
+            "actors": [
+                {
+                    "id": 5715,
+                    "name": "佳月大人"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65529,
+            "name": "Caveira",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 65530,
+            "name": "Hibana",
+            "actors": [
+                {
+                    "id": 16087,
+                    "name": "壹岐紹未"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65531,
+            "name": "Echo",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 65532,
+            "name": "Jackal",
+            "actors": [
+                {
+                    "id": 24406,
+                    "name": "高山春夫"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65533,
+            "name": "Mira",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 65534,
+            "name": "Ying",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 65535,
+            "name": "Lesion",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 65536,
+            "name": "Zofia",
+            "actors": [
+                {
+                    "id": 24873,
+                    "name": "下田レイ"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65537,
+            "name": "Ela",
+            "actors": [
+                {
+                    "id": 40141,
+                    "name": "三木美"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65538,
+            "name": "Dokkaebi",
+            "actors": [
+                {
+                    "id": 4964,
+                    "name": "世戸さおり"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65539,
+            "name": "Vigil",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 65540,
+            "name": "Lion",
+            "actors": [
+                {
+                    "id": 4607,
+                    "name": "白熊寛嗣"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65541,
+            "name": "Finka",
+            "actors": [
+                {
+                    "id": 19269,
+                    "name": "志田有彩"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65542,
+            "name": "Alibi",
+            "actors": [
+                {
+                    "id": 21164,
+                    "name": "石田嘉代"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65543,
+            "name": "Maestro",
+            "actors": [
+                {
+                    "id": 38613,
+                    "name": "Clancy Brown"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 67104,
+            "name": "Maverick",
+            "actors": [
+                {
+                    "id": 15905,
+                    "name": "藤井啓輔"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 67105,
+            "name": "Clash",
+            "actors": [
+                {
+                    "id": 21164,
+                    "name": "石田嘉代"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 68868,
+            "name": "Kaid",
+            "actors": [
+                {
+                    "id": 4650,
+                    "name": "山野井仁"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 68869,
+            "name": "Nomad",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 68905,
+            "name": "Gridlock",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 68906,
+            "name": "Mozzie",
+            "actors": [
+                {
+                    "id": 23822,
+                    "name": "矢野智也"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 70852,
+            "name": "NØKK",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 70853,
+            "name": "Warden",
+            "actors": [
+                {
+                    "id": 4225,
+                    "name": "黒田崇矢"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 104892,
+            "name": "Sam Fisher",
+            "actors": [],
+            "relation": "客串"
+        }
     ],
+    "date": "2015-12-01",
+    "name": "Tom Clancy's Rainbow Six Siege",
     "site": "bangumi",
-    "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a4/105651_w7W9w.jpg",
+    "cover": "https://lain.bgm.tv/pic/cover/l/1a/a4/105651_w7W9w.jpg",
     "staff": [
-        "中文名:彩虹六号：围攻",
-        "开发:Ubisoft Montreal(Ubisoft Entertainment)",
-        "发行:Ubisoft Entertainment",
-        "原作:Tom Clancy",
-        "协力:上海育碧",
-        "别名:虹彩六號：圍攻行動别名:Rainbow 6: Siege",
-        "别名:虹彩六號：圍攻行動",
-        "别名:Rainbow 6: Siege",
-        "平台:PCPS5Xbox Series X/SPS4Xbox One",
-        "平台:",
-        "PCPS5Xbox Series X/SPS4Xbox One",
-        "游戏类型:FPS",
-        "游戏引擎:AnvilNext / Havok Vision Engine",
-        "游玩人数:单人/多人",
-        "发行日期:2015年12月1日",
-        "售价:$59.99",
-        "官方网站:rainbow6.ubisoft.com/siege/"
+        {
+            "key": "开发",
+            "value": "Ubisoft Montreal(Ubisoft Entertainment)"
+        },
+        {
+            "key": "发行",
+            "value": "Ubisoft Entertainment"
+        },
+        {
+            "key": "原作",
+            "value": "Tom Clancy"
+        },
+        {
+            "key": "协力",
+            "value": "上海育碧"
+        }
     ],
     "story": "《彩虹六号：围攻》是育碧蒙特利尔工作室旗下即将推出的知名第一人称射击模拟系列游戏的最新作品，专为新一代游戏机和主机开发，属于《彩虹六号》系列。该作灵感来源于现实世界中的反恐行动，《彩虹六号：围攻》诚邀玩家掌控破坏的艺术，游戏核心是对激烈的近距离对抗，高杀伤力，战术，团队合作和爆破行动。《彩虹六号：围攻》的多人模式继承系列前作的精髓，为激烈的交火和战略交锋创造了新场所。",
-    "update_at": "2024-12-02T17:20:06"
+    "rating": {
+        "rank": 1860,
+        "count": {
+            "1": 5,
+            "2": 2,
+            "3": 7,
+            "4": 6,
+            "5": 19,
+            "6": 67,
+            "7": 201,
+            "8": 238,
+            "9": 77,
+            "10": 14
+        },
+        "score": 7.4,
+        "total": 636
+    },
+    "name_cn": "彩虹六号：围攻",
+    "platform": "游戏",
+    "collection": {
+        "wish": 70,
+        "doing": 175,
+        "collect": 658,
+        "dropped": 49,
+        "on_hold": 66
+    },
+    "infobox_other": [
+        {
+            "key": "平台",
+            "value": "PC / PS5 / Xbox Series X/S / PS4 / Xbox One"
+        },
+        {
+            "key": "游戏类型",
+            "value": "FPS"
+        },
+        {
+            "key": "游戏引擎",
+            "value": "AnvilNext / Havok Vision Engine"
+        },
+        {
+            "key": "游玩人数",
+            "value": "单人/多人"
+        },
+        {
+            "key": "发行日期",
+            "value": "2015年12月1日"
+        },
+        {
+            "key": "售价",
+            "value": "$59.99"
+        },
+        {
+            "key": "website",
+            "value": "https://rainbow6.ubisoft.com/siege/"
+        }
+    ],
+    "update_at": "2025-01-20T12:22:34"
 }

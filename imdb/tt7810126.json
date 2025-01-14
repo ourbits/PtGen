@@ -5,37 +5,44 @@
     "site": "imdb",
     "year": "2017",
     "@type": "Movie",
-    "genre": "Documentary",
+    "genre": [
+        "Documentary"
+    ],
+    "critic": 0,
     "poster": null,
     "details": {
-        "Color": "Color",
-        "Country": "Palestine",
-        "Language": "Arabic | Hebrew",
-        "Release Date": "8 April 2017 (USA)"
+        "Languages": [
+            "Arabic",
+            "Hebrew"
+        ],
+        "Release date": [
+            "April 8, 2017 (United States)"
+        ],
+        "Country of origin": [
+            "Occupied Palestinian Territory"
+        ]
     },
     "imdb_id": "tt7810126",
+    "reviews": 0,
     "duration": null,
     "keywords": [
         ""
     ],
     "directors": [
         {
-            "url": "/name/nm0534502/",
+            "url": "https://www.imdb.com/name/nm0534502/",
             "name": "Cynthia Madansky"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt7810126/",
+    "metascore": null,
     "imdb_votes": 0,
+    "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [
-        {
-            "date": "8 April 2017",
-            "country": "USA"
-        }
-    ],
+    "release_date": [],
     "contentRating": null,
     "datePublished": "2017-04-08",
     "imdb_rating_average": 0,
-    "update_at": "2024-05-27T15:20:03"
+    "update_at": "2025-01-17T09:40:08"
 }

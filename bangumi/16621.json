@@ -1,22 +1,91 @@
 {
     "id": "16621",
     "alt": "https://bgm.tv/subject/16621",
+    "eps": 14,
     "sid": "16621",
     "cast": [
-        "斯坦·马希:特雷·帕克",
-        "肯尼·麦克康米克:马特·斯通",
-        "席拉·布罗福洛夫斯基:莫娜·马歇尔",
-        "蓝迪·马许:"
+        {
+            "id": 28036,
+            "name": "Stan Marsh",
+            "actors": [
+                {
+                    "id": 27916,
+                    "name": "Trey Parker"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 29350,
+            "name": "Kenny McCormick",
+            "actors": [
+                {
+                    "id": 27917,
+                    "name": "Matt Stone"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 1996,
+            "name": "Randy Marsh",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 30812,
+            "name": "Sheila Broflovski",
+            "actors": [
+                {
+                    "id": 51875,
+                    "name": "Mona Marshall"
+                }
+            ],
+            "relation": "配角"
+        }
     ],
+    "date": "2011-04-27",
+    "name": "South Park Season 15",
     "site": "bangumi",
-    "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1a/5e/16621_a4ZJW.jpg",
+    "cover": "https://lain.bgm.tv/pic/cover/l/1a/5e/16621_a4ZJW.jpg",
     "staff": [
-        "中文名:南方公园 第15季",
-        "话数:14",
-        "放送开始:2011年4月27日",
-        "製作:MTV",
-        "特别鸣谢:Paramount Pictures、Dr.Pepper"
+        {
+            "key": "製作",
+            "value": "MTV"
+        }
     ],
     "story": "《南方公园/South Park》是美国喜剧中心(Comedy Central)制作的一部动画剧集，由Matt Stone和Trey Parker创作,讲述的是美国科罗拉多州一个叫南方公园的小镇上四个8岁的男孩和其他镇民疯狂的生活。此剧针砭时弊，对名流政客和社会现象的讽刺百无禁忌、不遗余力。这里是美国人大方展示自己乃至全人类的愚蠢、幼稚、自私、暴力的地方，充满着自嘲的意味。在南方公园里，荒谬是常态，贱人才可爱。许多情节看似荒诞不经，却能在潜移默化中让观者多少摆脱掉一些条条框框的思维定势，享受藐视权威、自由YY的乐趣。",
-    "update_at": "2024-11-17T03:40:02"
+    "rating": {
+        "rank": 408,
+        "count": {
+            "1": 6,
+            "2": 0,
+            "3": 1,
+            "4": 2,
+            "5": 2,
+            "6": 21,
+            "7": 82,
+            "8": 143,
+            "9": 76,
+            "10": 35
+        },
+        "score": 7.9,
+        "total": 368
+    },
+    "name_cn": "南方公园 第15季",
+    "platform": "TV",
+    "collection": {
+        "wish": 130,
+        "doing": 44,
+        "collect": 580,
+        "dropped": 52,
+        "on_hold": 38
+    },
+    "infobox_other": [
+        {
+            "key": "放送开始",
+            "value": "2011年4月27日"
+        }
+    ],
+    "update_at": "2025-01-20T12:42:24"
 }

@@ -1,46 +1,248 @@
 {
     "id": "186031",
     "alt": "https://bgm.tv/subject/186031",
+    "eps": 0,
     "sid": "186031",
     "cast": [
-        "蝙蝠侠:凯文·康瑞",
-        "超人:",
-        "绿箭侠:艾伦·图代克",
-        "猫女:格蕾·德丽斯勒",
-        "毒藤女:塔西娅·瓦伦扎",
-        "哈莉·奎茵:塔拉·斯特朗",
-        "海王:菲尔·拉马",
-        "绿灯侠:史蒂夫·布鲁姆、菲尔·拉马",
-        "死亡射手:马修·麦瑟",
-        "贝恩:弗雷德·塔特西奥",
-        "卢修斯·福克斯:菲尔·拉马",
-        "闪电侠:",
-        "稻草人:",
-        "神奇女侠:",
-        "大猩猩古鲁德:",
-        "达米安·韦恩:",
-        "钢骨:",
-        "急冻人:",
-        "小丑:"
+        {
+            "id": 18645,
+            "name": "Batman",
+            "actors": [
+                {
+                    "id": 14617,
+                    "name": "Kevin Conroy"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 41974,
+            "name": "Superman",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 22383,
+            "name": "The Flash",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 26069,
+            "name": "Green Arrow",
+            "actors": [
+                {
+                    "id": 41712,
+                    "name": "Alan Tudyk"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 30119,
+            "name": "Catwoman",
+            "actors": [
+                {
+                    "id": 33127,
+                    "name": "Grey Griffin"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 30121,
+            "name": "Poison Ivy",
+            "actors": [
+                {
+                    "id": 34254,
+                    "name": "Tasia Valenza"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 30122,
+            "name": "Scarecrow",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 35252,
+            "name": "Harley Quinn",
+            "actors": [
+                {
+                    "id": 18562,
+                    "name": "Tara Strong"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 43963,
+            "name": "Wonder Woman",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 43964,
+            "name": "Aquaman",
+            "actors": [
+                {
+                    "id": 49683,
+                    "name": "Phil LaMarr"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 43965,
+            "name": "Green Lantern",
+            "actors": [
+                {
+                    "id": 28677,
+                    "name": "Steven Blum"
+                },
+                {
+                    "id": 49683,
+                    "name": "Phil LaMarr"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 54639,
+            "name": "Deadshot",
+            "actors": [
+                {
+                    "id": 25879,
+                    "name": "Matthew Mercer"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 64265,
+            "name": "Gorilla Grodd",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 64267,
+            "name": "Damian Wayne",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 64268,
+            "name": "Bane",
+            "actors": [
+                {
+                    "id": 25891,
+                    "name": "Fred Tatasciore"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 70627,
+            "name": "Cyborg",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 91353,
+            "name": "Lucius Fox",
+            "actors": [
+                {
+                    "id": 49683,
+                    "name": "Phil LaMarr"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 101127,
+            "name": "Mr. Freeze",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 30109,
+            "name": "Joker",
+            "actors": [],
+            "relation": "客串"
+        }
     ],
+    "date": "2017-05-16",
+    "name": "Injustice 2",
     "site": "bangumi",
-    "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0d/61/186031_94Vsy.jpg",
+    "cover": "https://lain.bgm.tv/pic/cover/l/0d/61/186031_94Vsy.jpg",
     "staff": [
-        "中文名:不义联盟2",
-        "开发:NetherRealm Studios",
-        "发行:Warner Bros. Interactive Entertainment",
-        "平台:PC",
-        "平台:Android",
-        "平台:iOS",
-        "平台:Xbox One",
-        "平台:PS4",
-        "游戏类型:FTG",
-        "游戏引擎:Unreal Engine 3",
-        "游玩人数:单人/多人",
-        "发行日期:2017年5月16日",
-        "售价:$59.99",
-        "官方网站:http://www.injustice.com/"
+        {
+            "key": "开发",
+            "value": "NetherRealm Studios"
+        },
+        {
+            "key": "发行",
+            "value": "Warner Bros. Interactive Entertainment"
+        }
     ],
     "story": "",
-    "update_at": "2024-09-23T11:40:07"
+    "rating": {
+        "rank": 3442,
+        "count": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 2,
+            "6": 7,
+            "7": 15,
+            "8": 9,
+            "9": 1,
+            "10": 0
+        },
+        "score": 6.9,
+        "total": 35
+    },
+    "name_cn": "不义联盟2",
+    "platform": "游戏",
+    "collection": {
+        "wish": 12,
+        "doing": 3,
+        "collect": 52,
+        "dropped": 5,
+        "on_hold": 7
+    },
+    "infobox_other": [
+        {
+            "key": "平台",
+            "value": "PC / Android / iOS / Xbox One / PS4"
+        },
+        {
+            "key": "游戏类型",
+            "value": "FTG"
+        },
+        {
+            "key": "游戏引擎",
+            "value": "Unreal Engine 3"
+        },
+        {
+            "key": "游玩人数",
+            "value": "单人/多人"
+        },
+        {
+            "key": "发行日期",
+            "value": "2017年5月16日"
+        },
+        {
+            "key": "售价",
+            "value": "$59.99"
+        },
+        {
+            "key": "website",
+            "value": "http://www.injustice.com/"
+        }
+    ],
+    "update_at": "2025-01-20T12:47:38"
 }

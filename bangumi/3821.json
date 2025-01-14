@@ -1,70 +1,1182 @@
 {
     "id": "3821",
+    "aka": [
+        "妖怪连络簿",
+        "妖怪联络簿"
+    ],
     "alt": "https://bgm.tv/subject/3821",
+    "eps": 0,
     "sid": "3821",
     "cast": [
-        "夏目贵志:",
-        "喵老师斑:",
-        "狸追:",
-        "牛顔の中級妖怪:",
-        "三栗:",
-        "时雨:",
-        "露神:",
-        "燕:",
-        "菱垣:",
-        "長耳の妖怪:",
-        "花:",
-        "ススギ:",
-        "一つ目の鬼:",
-        "三篠:",
-        "少女:",
-        "田沼的爸爸:",
-        "河童:",
-        "三斗:",
-        "垂申:",
-        "谷尾崎:",
-        "牛頭の青鬼:",
-        "一つ目の赤鬼:",
-        "教师:",
-        "杉野章史:",
-        "婚約者:",
-        "口の大きな水妖:",
-        "巨顔の妖怪:",
-        "アカガネ:",
-        "丸顔の妖怪:",
-        "民子:",
-        "猿猴:",
-        "印使いの邪鬼:",
-        "玄:",
-        "夏目玲子:",
-        "多轨透:",
-        "笹田纯:",
-        "田沼要:",
-        "西村悟:",
-        "北本笃史:",
-        "名取周一:",
-        "藤原塔子:",
-        "藤原滋:",
-        "柊:",
-        "丙:",
-        "的场静司:",
-        "三筱:",
-        "子狐:",
-        "ちょびひげ:"
+        {
+            "id": 74,
+            "name": "夏目貴志",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 75,
+            "name": "ニャンコ先生/斑",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 76,
+            "name": "夏目レイコ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 3149,
+            "name": "笹田純",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 4351,
+            "name": "多軌透",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 4425,
+            "name": "西村悟",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 4426,
+            "name": "藤原塔子",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 4427,
+            "name": "藤原滋",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 8469,
+            "name": "紅峰",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 8470,
+            "name": "リオウ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 8473,
+            "name": "ちょびひげ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 8476,
+            "name": "牛顔の中級妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 8478,
+            "name": "柊",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 8479,
+            "name": "子狐",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 8480,
+            "name": "みくり",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 8481,
+            "name": "時雨",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 8482,
+            "name": "露神",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 24932,
+            "name": "田沼要",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 37211,
+            "name": "名取周一",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 37212,
+            "name": "的場静司",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 41162,
+            "name": "北本篤史",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 47430,
+            "name": "少女妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 65341,
+            "name": "ヒノエ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 66936,
+            "name": "三篠",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 69151,
+            "name": "笹後",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 69152,
+            "name": "瓜姫",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 69153,
+            "name": "一つ目の中級妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 69154,
+            "name": "河童",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 126225,
+            "name": "燕",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 126227,
+            "name": "ひしがき",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 126229,
+            "name": "木の上の妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 156141,
+            "name": "面に憑かれた女祓い人",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 157858,
+            "name": "長耳の妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 157864,
+            "name": "ハナ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 157866,
+            "name": "ススギ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 157867,
+            "name": "一つ目の鬼",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 157871,
+            "name": "カナワ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 157873,
+            "name": "少女",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 157874,
+            "name": "田沼の父",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 157907,
+            "name": "六花",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 157908,
+            "name": "さんと",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 157909,
+            "name": "垂申",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 157910,
+            "name": "谷尾崎",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 157944,
+            "name": "牛頭の青鬼",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 157945,
+            "name": "一つ目の赤鬼",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 157946,
+            "name": "教師",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 157947,
+            "name": "杉野章史",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 157948,
+            "name": "婚約者",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 157949,
+            "name": "口の大きな水妖",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 157957,
+            "name": "巨顔の妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 157958,
+            "name": "アカガネ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 157979,
+            "name": "丸顔の妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 158245,
+            "name": "民子",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 158246,
+            "name": "猿猴",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 158288,
+            "name": "印使いの邪鬼",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 158770,
+            "name": "玄",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 160164,
+            "name": "スミエ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 160165,
+            "name": "三ツ目の妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 160187,
+            "name": "磯月のネズミ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 160206,
+            "name": "霧葉",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 160207,
+            "name": "額傷の妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 160215,
+            "name": "千津",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 160216,
+            "name": "春地蔵",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 160217,
+            "name": "八坂",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 160245,
+            "name": "七瀬",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 160249,
+            "name": "石尾カイ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 160307,
+            "name": "アオクチナシ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 160308,
+            "name": "黒い大きな妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 160417,
+            "name": "サダメ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 160418,
+            "name": "柴田克巳",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 161206,
+            "name": "羽の妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 161207,
+            "name": "着物の女妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 164255,
+            "name": "辻",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 164259,
+            "name": "髪の長い一つ目妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 164733,
+            "name": "壺に封じられた猿面",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 164734,
+            "name": "東方の猿面",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 164735,
+            "name": "顎髭のある妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 164747,
+            "name": "アマナ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 164763,
+            "name": "ケマリ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 164940,
+            "name": "ヨウコ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 164941,
+            "name": "隆彦",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 164942,
+            "name": "ヨビコ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 164943,
+            "name": "カリカミ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 164965,
+            "name": "緒方ユリコ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 164966,
+            "name": "順子",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 164967,
+            "name": "みさ江",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 164968,
+            "name": "ユリコの母",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 164969,
+            "name": "黒鎌の妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 164970,
+            "name": "鬼猿面の妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 164971,
+            "name": "獣面の妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165133,
+            "name": "夏目の父",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165134,
+            "name": "蒼井三世子",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165135,
+            "name": "三世子の父",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165136,
+            "name": "三世子の母",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165137,
+            "name": "三世子の友人",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165138,
+            "name": "ムシクイ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165169,
+            "name": "カヤツボ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165170,
+            "name": "どんぐり好きの妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165171,
+            "name": "口髭の小妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165172,
+            "name": "クロサキソウゴ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165173,
+            "name": "クロサキナナコ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165269,
+            "name": "髭の祓い人",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165270,
+            "name": "若い祓い人",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165433,
+            "name": "モサモサした妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165434,
+            "name": "アワユキ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165435,
+            "name": "タケミツ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165436,
+            "name": "ひだか",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165437,
+            "name": "毛むくじゃらの妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165438,
+            "name": "イト",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165439,
+            "name": "サトミ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165440,
+            "name": "結木",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165441,
+            "name": "三野（母）",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165442,
+            "name": "三野（娘）",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165443,
+            "name": "朱先",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165444,
+            "name": "畑中",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165445,
+            "name": "大高",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165474,
+            "name": "タクマ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165475,
+            "name": "名取の祖父",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165476,
+            "name": "名取の父",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165477,
+            "name": "スミ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165478,
+            "name": "天崎",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165479,
+            "name": "天崎の式",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165480,
+            "name": "三ツ皿",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165481,
+            "name": "朱遠",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165482,
+            "name": "口の大きな妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165484,
+            "name": "サナ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165487,
+            "name": "オオツノ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165491,
+            "name": "遊蔓",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165587,
+            "name": "ナナマキ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165588,
+            "name": "アズマ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165589,
+            "name": "ネズミ顔の妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165729,
+            "name": "二体さま",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165730,
+            "name": "月子",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165731,
+            "name": "銀露",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165732,
+            "name": "ジンベ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165740,
+            "name": "紅紐",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165743,
+            "name": "西村の母",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165744,
+            "name": "西村の兄",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165745,
+            "name": "北本の父",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165746,
+            "name": "真奈",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165747,
+            "name": "ゴモチ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165748,
+            "name": "ヒャッコ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165749,
+            "name": "センキ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165750,
+            "name": "キブネ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165751,
+            "name": "屋根の上の妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165752,
+            "name": "ウサギ顔の妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165774,
+            "name": "葵",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165775,
+            "name": "園川香",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165776,
+            "name": "鳥妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165913,
+            "name": "野宮先生",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165914,
+            "name": "面の妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165915,
+            "name": "山神",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 165916,
+            "name": "神主",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166056,
+            "name": "箱崎紅子",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166057,
+            "name": "会宮",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166058,
+            "name": "黒い目の妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166060,
+            "name": "鷲鼻の妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166067,
+            "name": "龍",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166071,
+            "name": "ハクヒ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166072,
+            "name": "タマミ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166122,
+            "name": "ミツミ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166123,
+            "name": "岩鉄",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166124,
+            "name": "ササメ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166125,
+            "name": "神主",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166126,
+            "name": "渋面の妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166144,
+            "name": "しだ姫様",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166145,
+            "name": "箱守り",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166155,
+            "name": "依島",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166156,
+            "name": "雨沢",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166157,
+            "name": "案山子",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166263,
+            "name": "カエダ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166264,
+            "name": "でい",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166265,
+            "name": "古本屋の店主",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166476,
+            "name": "翁面の妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166766,
+            "name": "ヒトクビ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166767,
+            "name": "黒い妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 167166,
+            "name": "多軌勇",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 167168,
+            "name": "祖父",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 167169,
+            "name": "首の長い妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 167930,
+            "name": "一つ目の妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 168193,
+            "name": "三春政清",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 168480,
+            "name": "守永蒼子",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 168481,
+            "name": "ソラノメ",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 169217,
+            "name": "旅妖怪",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 169218,
+            "name": "オリガミ",
+            "actors": [],
+            "relation": "配角"
+        }
     ],
+    "date": "2005-10-05",
+    "name": "夏目友人帳",
     "site": "bangumi",
-    "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c0/4c/3821_0rC5R.jpg",
+    "cover": "https://lain.bgm.tv/pic/cover/l/c0/4c/3821_0rC5R.jpg",
     "staff": [
-        "中文名:夏目友人帐",
-        "作者:緑川ゆき",
-        "出版社:白泉社、東立出版社、安徽少年儿童出版社",
-        "连载杂志:LaLa、LaLa DX",
-        "别名:妖怪连络簿",
-        "别名:妖怪联络簿",
-        "发售日:2005-10-05",
-        "开始:2003年7月号",
-        "公式站:http://www.hakusensha.co.jp/natsume/"
+        {
+            "key": "作者",
+            "value": "緑川ゆき"
+        },
+        {
+            "key": "出版社",
+            "value": "白泉社"
+        },
+        {
+            "key": "连载杂志",
+            "value": "LaLa"
+        }
     ],
-    "story": "孤獨的少年‧夏目擁有看得見妖怪的這項秘密。有一天，他得到了外婆鈴子留下的，和妖怪們之間的契約書「聯絡簿」。從此以後，就陷入被妖怪們追趕的窘境！於是夏目展開了和保鏢（自稱）貓咪老師一同將名字還給妖怪們的日子──？《夏目友人帐》是绿川幸的漫画作品。在《LaLa》、《LaLa DX》（白泉社）连载。在《LaLa》的多期杂志附有Drama CD，内容为原作部分故事和原创故事。初出は『LaLa DX』2003年7月号。同誌2005年1月号から読み切りのシリーズとして隔月連載され、一部作品は『LaLa』に掲載された。2007年9月号から『LaLa』で連載。2009年以降は、一つのストーリーが読み切りではなく、前後編や3話から4話に渡って描かれる傾向にある。",
-    "update_at": "2024-06-12T23:00:08"
+    "story": "　　孤獨的少年‧夏目擁有看得見妖怪的這項秘密。有一天，他得到了外婆鈴子留下的，和妖怪們之間的契約書「聯絡簿」。從此以後，就陷入被妖怪們追趕的窘境！於是夏目展開了和保鏢（自稱）貓咪老師一同將名字還給妖怪們的日子──？\n\n　　《夏目友人帐》是绿川幸的漫画作品。在《LaLa》、《LaLa DX》（白泉社）连载。\n　　在《LaLa》的多期杂志附有Drama CD，内容为原作部分故事和原创故事。\n\n　　初出は『LaLa DX』2003年7月号。同誌2005年1月号から読み切りのシリーズとして隔月連載され、一部作品は『LaLa』に掲載された。2007年9月号から『LaLa』で連載。2009年以降は、一つのストーリーが読み切りではなく、前後編や3話から4話に渡って描かれる傾向にある。",
+    "rating": {
+        "rank": 484,
+        "count": {
+            "1": 1,
+            "2": 0,
+            "3": 2,
+            "4": 0,
+            "5": 3,
+            "6": 14,
+            "7": 36,
+            "8": 96,
+            "9": 55,
+            "10": 33
+        },
+        "score": 8.1,
+        "total": 240
+    },
+    "name_cn": "夏目友人帐",
+    "platform": "漫画",
+    "collection": {
+        "wish": 164,
+        "doing": 170,
+        "collect": 185,
+        "dropped": 24,
+        "on_hold": 70
+    },
+    "infobox_other": [
+        {
+            "key": "发售日",
+            "value": "2005-10-05"
+        },
+        {
+            "key": "开始",
+            "value": "2003年7月号"
+        },
+        {
+            "key": "公式站",
+            "value": "http://www.hakusensha.co.jp/natsume/"
+        }
+    ],
+    "update_at": "2025-01-20T13:49:03"
 }
