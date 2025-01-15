@@ -13,13 +13,13 @@ Please Note:
 
 ## Update Status
 
-- Last update at: `2025-01-14 03:00:02` (CET, UTC+01:00)
+- Last update at: `2025-01-15 03:00:04` (CET, UTC+01:00)
 - Last data summary:
 
 | Source Site | Count |
 |:----:|----:|
-| douban | 71019 |
-| imdb | 28552 |
+| douban | 71025 |
+| imdb | 28605 |
 | bangumi | 1986 |
 | steam | 1417 |
 | indienova | 150 |
