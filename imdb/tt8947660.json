@@ -5,44 +5,52 @@
     "site": "imdb",
     "year": "2019",
     "@type": "Movie",
-    "genre": "Adventure",
+    "genre": [
+        "Adventure"
+    ],
     "actors": [
         {
-            "url": "/name/nm10377633/",
+            "url": "https://www.imdb.com/name/nm10377633/",
             "name": "Debapriya Basu"
         },
         {
-            "url": "/name/nm10377631/",
+            "url": "https://www.imdb.com/name/nm10377631/",
             "name": "Joybrata Das"
         },
         {
-            "url": "/name/nm0244900/",
+            "url": "https://www.imdb.com/name/nm0244900/",
             "name": "Rajatabha Dutta"
-        },
-        {
-            "url": "/name/nm10377628/",
-            "name": "Adhiraj Ganguly"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDllNWZhNTAtZWYwNi00MmRmLWI5YmEtMzJkYjcwMWZiNTkxXkEyXkFqcGdeQXVyODc0ODEwODk@._V1_.jpg",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDg0NDg1ZWEtZTAzYS00MzVmLThmZDItODE0MzUyNDc0M2Y2XkEyXkFqcGc@._V1_.jpg",
     "details": {
-        "Color": "Color",
-        "Budget": "INR7,500,000 (estimated)",
-        "Country": "India",
-        "Runtime": "92 min",
-        "Language": "Bengali",
-        "Release Date": "4 January 2019 (India)",
-        "Production Co": "G V Tech Solutions , G V Tech Solutions",
-        "Official Sites": "Facebook",
-        "Filming Locations": "India"
+        "Language": [
+            "Bengali"
+        ],
+        "Release date": [
+            "January 4, 2019 (India)"
+        ],
+        "Official site": [
+            "Facebook - http://www.facebook.com/GoyendaTatarFilm"
+        ],
+        "Country of origin": [
+            "India"
+        ],
+        "Filming locations": [
+            "India"
+        ],
+        "Production companies": [
+            "G V Tech Solutions",
+            "G V Tech Solutions"
+        ]
     },
     "imdb_id": "tt8947660",
-    "reviews": 8,
+    "reviews": 10,
     "creators": [
         {
-            "url": "/name/nm10097614/",
-            "name": "Sashthi Pada Chattapaddhyay"
+            "url": "https://www.imdb.com/name/nm10097614/",
+            "name": "Sasthipada Chattopadhyay"
         }
     ],
     "duration": "PT1H32M",
@@ -51,22 +59,19 @@
     ],
     "directors": [
         {
-            "url": "/name/nm10097606/",
+            "url": "https://www.imdb.com/name/nm10097606/",
             "name": "Srikanta Galui"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt8947660/",
-    "imdb_votes": 26,
-    "description": "Goyenda Tatar is a movie starring Debapriya Basu, Joybrata Das, and Rajatabha Dutta. A bunch of adventurous kids and detective Tatar are dragged into a mysterious kidnapping case. They are helped by an ex-dacoit, Suleiman, in...",
-    "imdb_rating": "7.3/10 from 26 users",
-    "release_date": [
-        {
-            "date": "4 January 2019",
-            "country": "India"
-        }
-    ],
+    "metascore": null,
+    "imdb_votes": 44,
+    "popularity": 0,
+    "description": "A bunch of adventurous kids and detective Tatar are dragged into a mysterious kidnapping case. They are helped by an ex-dacoit, Suleiman, in solving the case.",
+    "imdb_rating": "6.5/10 from 44 users",
+    "release_date": [],
     "contentRating": null,
     "datePublished": "2019-01-04",
-    "imdb_rating_average": "7.3",
-    "update_at": "2024-05-25T08:00:13"
+    "imdb_rating_average": 6.5,
+    "update_at": "2025-01-15T05:40:18"
 }
