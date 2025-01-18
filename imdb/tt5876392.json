@@ -5,48 +5,53 @@
     "site": "imdb",
     "year": "2016",
     "@type": "Movie",
-    "genre": "Adventure",
+    "genre": [
+        "Adventure"
+    ],
     "actors": [
         {
-            "url": "/name/nm8282208/",
+            "url": "https://www.imdb.com/name/nm8282208/",
             "name": "Bijulal"
         },
         {
-            "url": "/name/nm0704694/",
+            "url": "https://www.imdb.com/name/nm0704694/",
             "name": "Vijay Raaz"
         }
     ],
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTc2MjA3NzYtYzAwNC00NmYxLTg2NDQtZWQ0ODBkMTcyOGI2XkEyXkFqcGdeQXVyNjUxOTI4MDk@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzEzYzQyNmYtZjY4Yy00YjZmLWEwYTktYTZlOWU2ZmVkNjllXkEyXkFqcGc@._V1_.jpg",
     "details": {
-        "Color": "Color",
-        "Budget": "INR40,000,000 (estimated)",
-        "Country": "India",
-        "Language": "Hindi",
-        "Release Date": "29 July 2016 (India)"
+        "Language": [
+            "Hindi"
+        ],
+        "Release date": [
+            "July 29, 2016 (India)"
+        ],
+        "Country of origin": [
+            "India"
+        ]
     },
     "imdb_id": "tt5876392",
+    "reviews": 0,
     "duration": null,
     "keywords": [
         "tiger"
     ],
     "directors": [
         {
-            "url": "/name/nm8282207/",
+            "url": "https://www.imdb.com/name/nm8282207/",
             "name": "Dipu Karunakaran"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt5876392/",
-    "imdb_votes": 5,
-    "description": "Mission Tiger is a movie starring Bijulal and Vijay Raaz. Mission Tiger is the first film featuring the root cause of tiger poaching in India and intends to impart a message- Save the tiger.",
-    "imdb_rating": "4.8/10 from 5 users",
-    "release_date": [
-        {
-            "date": "29 July 2016",
-            "country": "India"
-        }
-    ],
+    "metascore": null,
+    "imdb_votes": 13,
+    "popularity": 0,
+    "description": "Mission Tiger is the first film featuring the root cause of tiger poaching in India and intends to impart a message- Save the tiger.",
+    "imdb_rating": "5.6/10 from 13 users",
+    "release_date": [],
     "contentRating": null,
     "datePublished": "2016-07-29",
-    "imdb_rating_average": "4.8",
-    "update_at": "2024-05-27T19:20:03"
+    "imdb_rating_average": 5.6,
+    "update_at": "2025-01-17T13:20:11"
 }
