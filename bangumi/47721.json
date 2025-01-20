@@ -1,49 +1,603 @@
 {
     "id": "47721",
+    "aka": [
+        "变形金刚电影版",
+        "Transformers: The Movie",
+        "トランスフォーマー ザ・ムービー"
+    ],
     "alt": "https://bgm.tv/subject/47721",
+    "eps": 1,
     "sid": "47721",
     "cast": [
-        "擎天柱:彼得·库伦",
-        "威震天:",
-        "星星叫:"
+        {
+            "id": 70772,
+            "name": "Optimus Prime",
+            "actors": [
+                {
+                    "id": 34997,
+                    "name": "Peter Cullen"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 70775,
+            "name": "Megatron",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 167282,
+            "name": "Spike Witwicky",
+            "actors": [
+                {
+                    "id": 4164,
+                    "name": "江原正士"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 102504,
+            "name": "Starscream",
+            "actors": [
+                {
+                    "id": 3989,
+                    "name": "鈴置洋孝"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 131628,
+            "name": "Ironhide",
+            "actors": [
+                {
+                    "id": 3898,
+                    "name": "速水奨"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 131629,
+            "name": "Ratchet",
+            "actors": [
+                {
+                    "id": 4164,
+                    "name": "江原正士"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 131630,
+            "name": "Jazz",
+            "actors": [
+                {
+                    "id": 4133,
+                    "name": "稲葉実"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 131631,
+            "name": "Bonecrusher",
+            "actors": [
+                {
+                    "id": 35399,
+                    "name": "Michael Bell"
+                },
+                {
+                    "id": 44500,
+                    "name": "Neil Ross"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 166566,
+            "name": "Brawn",
+            "actors": [
+                {
+                    "id": 4133,
+                    "name": "稲葉実"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 166567,
+            "name": "Gears",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166569,
+            "name": "Huffer",
+            "actors": [
+                {
+                    "id": 4288,
+                    "name": "島香裕"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 166570,
+            "name": "Cliffjumper",
+            "actors": [
+                {
+                    "id": 4117,
+                    "name": "喜多川拓郎"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 166571,
+            "name": "Windcharger",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166572,
+            "name": "Prowl",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166575,
+            "name": "Wheeljack",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166711,
+            "name": "Bluestreak",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166712,
+            "name": "Grimlock",
+            "actors": [
+                {
+                    "id": 4117,
+                    "name": "喜多川拓郎"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 166713,
+            "name": "Slag",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166714,
+            "name": "Sludge",
+            "actors": [
+                {
+                    "id": 34998,
+                    "name": "Frank Welker"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 166715,
+            "name": "Snarl",
+            "actors": [
+                {
+                    "id": 5055,
+                    "name": "城山堅"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 166716,
+            "name": "Swoop",
+            "actors": [
+                {
+                    "id": 1452,
+                    "name": "塩屋翼"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 166718,
+            "name": "Thundercracker",
+            "actors": [
+                {
+                    "id": 4288,
+                    "name": "島香裕"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 166720,
+            "name": "Skywarp",
+            "actors": [
+                {
+                    "id": 4164,
+                    "name": "江原正士"
+                },
+                {
+                    "id": 34998,
+                    "name": "Frank Welker"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 166790,
+            "name": "Shockwave",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166796,
+            "name": "Soundwave",
+            "actors": [
+                {
+                    "id": 5386,
+                    "name": "政宗一成"
+                },
+                {
+                    "id": 34998,
+                    "name": "Frank Welker"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 166805,
+            "name": "Laserbeak",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166806,
+            "name": "Buzzsaw",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 166807,
+            "name": "Rumble",
+            "actors": [
+                {
+                    "id": 5357,
+                    "name": "山口健"
+                },
+                {
+                    "id": 34998,
+                    "name": "Frank Welker"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 166808,
+            "name": "Frenzy",
+            "actors": [
+                {
+                    "id": 34998,
+                    "name": "Frank Welker"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 166849,
+            "name": "Ravage",
+            "actors": [
+                {
+                    "id": 34998,
+                    "name": "Frank Welker"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 167202,
+            "name": "Hook",
+            "actors": [
+                {
+                    "id": 4164,
+                    "name": "江原正士"
+                },
+                {
+                    "id": 44500,
+                    "name": "Neil Ross"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 167203,
+            "name": "Long Haul",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 167204,
+            "name": "Mixmaster",
+            "actors": [
+                {
+                    "id": 34998,
+                    "name": "Frank Welker"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 167205,
+            "name": "Scavenger",
+            "actors": [
+                {
+                    "id": 4143,
+                    "name": "難波圭一"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 167206,
+            "name": "Scrapper",
+            "actors": [
+                {
+                    "id": 4143,
+                    "name": "難波圭一"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 167207,
+            "name": "Devastator",
+            "actors": [
+                {
+                    "id": 4288,
+                    "name": "島香裕"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 167288,
+            "name": "Blaster",
+            "actors": [
+                {
+                    "id": 4143,
+                    "name": "難波圭一"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 167289,
+            "name": "Perceptor",
+            "actors": [
+                {
+                    "id": 5055,
+                    "name": "城山堅"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 166576,
+            "name": "Mirage",
+            "actors": [],
+            "relation": "客串"
+        },
+        {
+            "id": 166577,
+            "name": "Hound",
+            "actors": [],
+            "relation": "客串"
+        },
+        {
+            "id": 166710,
+            "name": "Sunstreaker",
+            "actors": [],
+            "relation": "客串"
+        },
+        {
+            "id": 166850,
+            "name": "Viewfinder",
+            "actors": [],
+            "relation": "客串"
+        },
+        {
+            "id": 166851,
+            "name": "Spectro",
+            "actors": [],
+            "relation": "客串"
+        },
+        {
+            "id": 166852,
+            "name": "Spyglass",
+            "actors": [],
+            "relation": "客串"
+        },
+        {
+            "id": 166854,
+            "name": "Shrapnel",
+            "actors": [],
+            "relation": "客串"
+        },
+        {
+            "id": 166855,
+            "name": "Bombshell",
+            "actors": [],
+            "relation": "客串"
+        },
+        {
+            "id": 166875,
+            "name": "Kickback",
+            "actors": [
+                {
+                    "id": 1452,
+                    "name": "塩屋翼"
+                }
+            ],
+            "relation": "客串"
+        }
     ],
+    "date": "1986-08-08",
+    "name": "The Transformers: The Movie",
     "site": "bangumi",
-    "cover": "https://lain.bgm.tv/r/400/pic/cover/l/04/37/47721_g7usE.jpg",
+    "cover": "https://lain.bgm.tv/pic/cover/l/04/37/47721_g7usE.jpg",
     "staff": [
-        "中文名:变形金刚大电影",
-        "话数:1",
-        "原作:タカラトミー、Hasbro",
-        "作画监督:角田紘一",
-        "摄影监督:福井政利",
-        "原画:佐々門信芳、藤高栄光、福田浩一、湖山禎崇、兼森義則、稲野義信、白南烈、辻清光、筱雅律、森利夫、長崎重信、上井やすよし、的場茂夫、山口聡、三井洋一、村上茂、三木佳人、加々美高浩、うるし原智志",
-        "背景美术:Gabriel Hoyos、Fred Carrillo、Rico Rival、Del Barras (Delfin Barras)、Romeo Francisco、Lew Ott、Romeo Tanghal、Pat Agnasin、Ernie Guanlao、Eufronio R. Cruz、Mike Sekowsky、沢田隆夫、佐貫利勝、海老澤一男",
-        "制作管理:目黒宏",
-        "製作:Hasbro、Sunbow Entertainment、Marvel Productions、東映アニメーション製作担当 - Gerald L. Moeller、中村悟、五十嵐卓哉、目黒宏",
-        "执行制片人:Margaret Loesch、Lee Gunther、森下孝三",
-        "助理制片人:江藤昌治、福本智雄",
-        "动画制作:東映アニメーション",
-        "摄影:片山幸男、坂西勝",
-        "作画监督助理:兵頭敬、大倉雅彦、林和男、越智一裕、榎本明広、宇佐美俊和、白承均",
-        "演出助理:山内重保、伊藤政雄、Baik Seung Kyun、宇田鋼之介（ノンクレジット）",
-        "别名:变形金刚电影版别名:Transformers: The Movie别名:トランスフォーマー ザ・ムービー",
-        "别名:变形金刚电影版",
-        "别名:Transformers: The Movie",
-        "别名:トランスフォーマー ザ・ムービー",
-        "上映年度:1986年8月8日",
-        "片长:84分钟",
-        "导演:신능균",
-        "脚本:Ron Friedman",
-        "制片人:Joe Bacal、Tom Griffin",
-        "音乐:Vince DiCola",
-        "剪辑:David Hankins",
-        "人物设定:Gabriel Hoyos、Fred Carrillo、Rico Rival、Del Barras (Delfin Barras)、Romeo Francisco、Lew Ott、Romeo Tanghal、Pat Agnasin、Ernie Guanlao、Eufronio R. Cruz、Mike Sekowsky",
-        "分镜:피터정、金周仁、Jeong-hwan Oh、朴時沃、沈相日、Sang Il Sim、鄭秀龍、David Shin、Del Barras、Jim Gomez、Ernie Guanlao、Doug Lefler、Rico Rival、Romeo Tanghal",
-        "演出:John Patrick Freeman、Norm McCabe、Gerald L. Moeller、Bob Matz、Margaret Nichols",
-        "特效:河内正行、佐藤章二",
-        "监修:Jay Bacal",
-        "制作协力:Sunbow Entertainment",
-        "发行:De Laurentiis Entertainment Group"
+        {
+            "key": "原作",
+            "value": "タカラトミー / Hasbro"
+        },
+        {
+            "key": "导演",
+            "value": "신능균"
+        },
+        {
+            "key": "脚本",
+            "value": "Ron Friedman"
+        },
+        {
+            "key": "分镜",
+            "value": "피터정、金周仁、Jeong-hwan Oh、朴時沃、沈相日、Sang Il Sim、鄭秀龍、David Shin、Del Barras、Jim Gomez、Ernie Guanlao、Doug Lefler、Rico Rival、Romeo Tanghal"
+        },
+        {
+            "key": "演出",
+            "value": "John Patrick Freeman、Norm McCabe、Gerald L. Moeller、Bob Matz、Margaret Nichols"
+        },
+        {
+            "key": "音乐",
+            "value": "Vince DiCola"
+        },
+        {
+            "key": "人物设定",
+            "value": "Gabriel Hoyos、Fred Carrillo、Rico Rival、Del Barras (Delfin Barras)、Romeo Francisco、Lew Ott、Romeo Tanghal、Pat Agnasin、Ernie Guanlao、Eufronio R. Cruz、Mike Sekowsky"
+        },
+        {
+            "key": "作画监督",
+            "value": "角田紘一"
+        },
+        {
+            "key": "摄影监督",
+            "value": "福井政利"
+        },
+        {
+            "key": "监修",
+            "value": "Jay Bacal"
+        },
+        {
+            "key": "原画",
+            "value": "佐々門信芳、藤高栄光、福田浩一、湖山禎崇、兼森義則、稲野義信、白南烈、辻清光、筱雅律、森利夫、長崎重信、上井やすよし、的場茂夫、山口聡、三井洋一、村上茂、三木佳人、加々美高浩"
+        },
+        {
+            "key": "助理制片人",
+            "value": "江藤昌治、福本智雄"
+        },
+        {
+            "key": "背景美术",
+            "value": "Gabriel Hoyos、Fred Carrillo、Rico Rival、Del Barras (Delfin Barras)、Romeo Francisco、Lew Ott、Romeo Tanghal、Pat Agnasin、Ernie Guanlao、Eufronio R. Cruz、Mike Sekowsky、沢田隆夫、佐貫利勝"
+        },
+        {
+            "key": "剪辑",
+            "value": "David Hankins"
+        },
+        {
+            "key": "制作管理",
+            "value": "五十嵐卓哉 / 目黒宏"
+        },
+        {
+            "key": "製作",
+            "value": "Hasbro、Sunbow Entertainment、Marvel Productions、東映アニメーション 製作担当 - Gerald L. Moeller、中村悟、五十嵐卓哉、目黒宏"
+        },
+        {
+            "key": "特效",
+            "value": "河内正行、佐藤章二"
+        },
+        {
+            "key": "执行制片人",
+            "value": "Margaret Loesch、Lee Gunther、森下孝三"
+        },
+        {
+            "key": "助理制片人",
+            "value": "江藤昌治、福本智雄"
+        },
+        {
+            "key": "制片人",
+            "value": "Joe Bacal、Tom Griffin"
+        },
+        {
+            "key": "动画制作",
+            "value": "東映アニメーション"
+        },
+        {
+            "key": "制作协力",
+            "value": "Sunbow Entertainment"
+        },
+        {
+            "key": "摄影",
+            "value": "片山幸男、坂西勝"
+        },
+        {
+            "key": "作画监督助理",
+            "value": "兵頭敬、大倉雅彦、林和男、越智一裕、榎本明広、宇佐美俊和、白承均"
+        }
     ],
-    "story": "2005年，经过多年的正邪之争，汽车人终于将霸天虎赶出地球。然而威震天却率领部众入侵了汽车人的总部塞伯坦行星，擎天柱留下通天晓等战士驻守地球，自己则带人马于塞伯坦旁边的两颗卫星建立秘密基地，计划对霸天虎施以致命一击。但是计划被霸天虎侦得，威震天率先对行星和地球的汽车人发起攻击。战斗中擎天柱不幸牺牲，威震天也伤势严重。弥留之际，擎天柱将领导模块传给通天晓。而邪恶的宇宙大帝为了摧毁阻碍自己的领导模块，拯救了被红蜘蛛背叛和抛弃的威震天，将其改造为更为强大的惊破天。汽车人和霸天虎新一代领导人相继浮出水面，正邪大战不断升级……",
-    "update_at": "2024-10-23T05:20:15"
+    "story": "     2005年，经过多年的正邪之争，汽车人终于将霸天虎赶出地球。然而威震天却率领部众入侵了汽车人的总部塞伯坦行星，擎天柱留下通天晓等战士驻守地球，自己则带人马于塞伯坦旁边的两颗卫星建立秘密基地，计划对霸天虎施以致命一击。但是计划被霸天虎侦得，威震天率先对行星和地球的汽车人发起攻击。战斗中擎天柱不幸牺牲，威震天也伤势严重。\n    弥留之际，擎天柱将领导模块传给通天晓。而邪恶的宇宙大帝为了摧毁阻碍自己的领导模块，拯救了被红蜘蛛背叛和抛弃的威震天，将其改造为更为强大的惊破天。汽车人和霸天虎新一代领导人相继浮出水面，正邪大战不断升级……",
+    "rating": {
+        "rank": 1468,
+        "count": {
+            "1": 0,
+            "2": 1,
+            "3": 0,
+            "4": 0,
+            "5": 8,
+            "6": 21,
+            "7": 51,
+            "8": 47,
+            "9": 13,
+            "10": 7
+        },
+        "score": 7.4,
+        "total": 148
+    },
+    "name_cn": "变形金刚大电影",
+    "platform": "剧场版",
+    "collection": {
+        "wish": 24,
+        "doing": 3,
+        "collect": 245,
+        "dropped": 14,
+        "on_hold": 7
+    },
+    "infobox_other": [
+        {
+            "key": "上映年度",
+            "value": "1986年8月8日"
+        },
+        {
+            "key": "片长",
+            "value": "84分钟"
+        },
+        {
+            "key": "演出助理",
+            "value": "山内重保、伊藤政雄、Baik Seung Kyun、宇田鋼之介（ノンクレジット）"
+        },
+        {
+            "key": "发行",
+            "value": "De Laurentiis Entertainment Group"
+        }
+    ],
+    "update_at": "2025-01-20T13:55:14"
 }

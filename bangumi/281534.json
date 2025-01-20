@@ -1,56 +1,234 @@
 {
     "id": "281534",
     "alt": "https://bgm.tv/subject/281534",
+    "eps": 1,
     "sid": "281534",
     "cast": [
-        "神龙:成龙",
-        "路人:张博恒、陈喆、刘若班、苏柏丽"
+        {
+            "id": 112037,
+            "name": "Long",
+            "actors": [
+                {
+                    "id": 17184,
+                    "name": "成龍"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 17529,
+            "name": "モブキャラクター",
+            "actors": [
+                {
+                    "id": 29572,
+                    "name": "张博恒"
+                },
+                {
+                    "id": 39319,
+                    "name": "陈喆"
+                },
+                {
+                    "id": 40081,
+                    "name": "刘若班"
+                },
+                {
+                    "id": 46652,
+                    "name": "苏柏丽"
+                }
+            ],
+            "relation": "客串"
+        }
     ],
+    "date": "2021-01-15",
+    "name": "Wish Dragon",
     "site": "bangumi",
-    "cover": "https://lain.bgm.tv/r/400/pic/cover/l/33/6f/281534_FjWNj.jpg",
+    "cover": "https://lain.bgm.tv/pic/cover/l/33/6f/281534_FjWNj.jpg",
     "staff": [
-        "中文名:许愿神龙",
-        "话数:1",
-        "製作:出品：北京耀莱影视文化传媒有限公司、腾讯影业文化传播有限公司、索尼动画（美国）(Sony Pictures Animation)、上海倍视文化传媒有限公司；联合出品：耀莱文娱发展有限公司（中国香港）、哥伦比亚电影制作（亚洲）有限公司（中国香港）(Columbia Pictures(Asia))",
-        "音效:SKYWALKER SOUND",
-        "制片人:Aron Warner、Chris Bremble、成龍",
-        "动画制作:联合摄制：北京耀莱影视文化传媒有限公司、腾讯影业文化传播有限公司、索尼动画（美国）(Sony Pictures Animation)、上海倍视文化传媒有限公司",
-        "协力:张上",
-        "上映年度:2021年1月15日",
-        "片长:99分钟",
-        "官方网站:sonypicturesanimation.com/projects/films/wish-dragon",
-        "Copyright:©2020 哥伦比亚电影制作（亚洲）有限公司（中国香港）、北京耀莱影视文化传媒有限公司、腾讯影业文化传播有限公司、上海倍视文化传媒有限公司 版权所有",
-        "imdb_id:tt5562070",
-        "公映许可证:电审动字[2020]第022号",
-        "出品人:周茂非、程武",
-        "联合出品人:王森",
-        "导演:Chris Appelhans",
-        "编剧:Chris Appelhans",
-        "监制:谭祖慧、陈洪伟、Ian Sugarman、蔡敏、肖璇",
-        "联合制片人:Ken Tsumura、李萌、佘文馨",
-        "音乐:Philip Klein",
-        "美术指导:Arthur Fong、万敏",
-        "剪辑:Ranjan Kurian Periakottil",
-        "角色设计:Catia Chien、Borja Montoro、Heidi Smith、黄志刚",
-        "故事板负责人:Josh Lieberman、Radford Sechrist",
-        "三维构图负责人:Kyle Jefferson",
-        "动画导演:Olivier Staphylas",
-        "动画指导:Riyad C.M.、Sujit Chatterjee、Alexander Li",
-        "制片经理:Aditya Deosthale、汪露曦、陈建华、吴乐乐",
-        "数字特效总监:Milton E. Rodriguez-Rios",
-        "策划:樊英桥、毛怡君、吴昊云",
-        "故事板艺术家:Jeff Biancalana、敬然、Gabriel Lee、Bridget Underwood、Zane Yarborough、Emma Coats、Ryan O'Laughlin、Toniko Pantoja、Darren Webb、Bob Suarez、朱晓",
-        "中文对白顾问:刘小草、马铭远、冯子龙、付晓璐、丁丁、包欧",
-        "制片监督:孟岩",
-        "视觉开发组长:April Liu、Wanchana Intrasombat",
-        "视觉开发艺术家:Kei Acedera、陈明珏、Gregory Georges、Alvin Kunlam Ho、Kong Kuan Hung、Vincent Lau、Weichang Li、宋宇森、Jeff Turley、Dasen Zhang、张上、Vahe Yefremian",
-        "其他剪辑:Darren Holmes, ACE",
-        "联合剪辑:Jess Fulton、Mike Matzdorff",
-        "助理剪辑:Gustav Lindquist",
-        "中文对白剪辑:郑翰博",
-        "制片统筹:张仲成",
-        "发行:Sony Pictures Entertainment Inc."
+        {
+            "key": "导演",
+            "value": "Chris Appelhans"
+        },
+        {
+            "key": "音乐",
+            "value": "Philip Klein"
+        },
+        {
+            "key": "剪辑",
+            "value": "Ranjan Kurian Periakottil"
+        },
+        {
+            "key": "製作",
+            "value": "出品：北京耀莱影视文化传媒有限公司、腾讯影业文化传播有限公司、索尼动画（美国）(Sony Pictures Animation)、上海倍视文化传媒有限公司；联合出品：耀莱文娱发展有限公司（中国香港）、哥伦比亚电影制作（亚洲）有限公司（中国香港）(Columbia Pictures (Asia))"
+        },
+        {
+            "key": "音效",
+            "value": "SKYWALKER SOUND"
+        },
+        {
+            "key": "制片人",
+            "value": "Aron Warner、Chris Bremble、成龍"
+        },
+        {
+            "key": "联合制片人",
+            "value": "Ken Tsumura、李萌、佘文馨"
+        },
+        {
+            "key": "动画制作",
+            "value": "联合摄制：北京耀莱影视文化传媒有限公司、腾讯影业文化传播有限公司、索尼动画（美国）(Sony Pictures Animation)、上海倍视文化传媒有限公司"
+        },
+        {
+            "key": "监制",
+            "value": "谭祖慧、陈洪伟、Ian Sugarman、蔡敏、肖璇"
+        },
+        {
+            "key": "协力",
+            "value": "张上"
+        }
     ],
     "story": "你知道这世上仅存一条粉红色的许愿神龙吗？他能够实现许愿者任何逆天改命的愿望。这样的神力引得不少人在暗中寻找神龙的踪迹，然而普普通通的上海小青年丁思齐误打误撞打开了神龙的封印。千年代沟引发连串爆笑经历，被绑定的一人一龙踏上了一段妙想天开又惊险万分的旅途…",
-    "update_at": "2025-01-05T15:20:06"
+    "rating": {
+        "rank": 0,
+        "count": {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 5,
+            "5": 3,
+            "6": 9,
+            "7": 2,
+            "8": 3,
+            "9": 0,
+            "10": 1
+        },
+        "score": 5.8,
+        "total": 24
+    },
+    "name_cn": "许愿神龙",
+    "platform": "剧场版",
+    "collection": {
+        "wish": 12,
+        "doing": 1,
+        "collect": 47,
+        "dropped": 8,
+        "on_hold": 2
+    },
+    "infobox_other": [
+        {
+            "key": "上映年度",
+            "value": "2021年1月15日"
+        },
+        {
+            "key": "片长",
+            "value": "99分钟"
+        },
+        {
+            "key": "官方网站",
+            "value": "https://www.sonypicturesanimation.com/projects/films/wish-dragon"
+        },
+        {
+            "key": "Copyright",
+            "value": "©2020 哥伦比亚电影制作（亚洲）有限公司（中国香港）、北京耀莱影视文化传媒有限公司、腾讯影业文化传播有限公司、上海倍视文化传媒有限公司 版权所有"
+        },
+        {
+            "key": "imdb_id",
+            "value": "tt5562070"
+        },
+        {
+            "key": "公映许可证",
+            "value": "电审动字[2020]第022号"
+        },
+        {
+            "key": "出品人",
+            "value": "周茂非、程武"
+        },
+        {
+            "key": "联合出品人",
+            "value": "王森"
+        },
+        {
+            "key": "编剧",
+            "value": "Chris Appelhans"
+        },
+        {
+            "key": "美术指导",
+            "value": "Arthur Fong、万敏"
+        },
+        {
+            "key": "角色设计",
+            "value": "Catia Chien、Borja Montoro、Heidi Smith、黄志刚"
+        },
+        {
+            "key": "故事板负责人",
+            "value": "Josh Lieberman、Radford Sechrist"
+        },
+        {
+            "key": "三维构图负责人",
+            "value": "Kyle Jefferson"
+        },
+        {
+            "key": "动画导演",
+            "value": "Olivier Staphylas"
+        },
+        {
+            "key": "动画指导",
+            "value": "Riyad C.M.、Sujit Chatterjee、Alexander Li"
+        },
+        {
+            "key": "制片经理",
+            "value": "Aditya Deosthale、汪露曦、陈建华、吴乐乐"
+        },
+        {
+            "key": "数字特效总监",
+            "value": "Milton E. Rodriguez-Rios"
+        },
+        {
+            "key": "策划",
+            "value": "樊英桥、毛怡君、吴昊云"
+        },
+        {
+            "key": "故事板艺术家",
+            "value": "Jeff Biancalana、敬然、Gabriel Lee、Bridget Underwood、Zane Yarborough、Emma Coats、Ryan O'Laughlin、Toniko Pantoja、Darren Webb、Bob Suarez、朱晓"
+        },
+        {
+            "key": "中文对白顾问",
+            "value": "刘小草、马铭远、冯子龙、付晓璐、丁丁、包欧"
+        },
+        {
+            "key": "制片监督",
+            "value": "孟岩"
+        },
+        {
+            "key": "视觉开发组长",
+            "value": "April Liu、Wanchana Intrasombat"
+        },
+        {
+            "key": "视觉开发艺术家",
+            "value": "Kei Acedera、陈明珏、Gregory Georges、Alvin Kunlam Ho、Kong Kuan Hung、Vincent Lau、Weichang Li、宋宇森、Jeff Turley、Dasen Zhang、张上、Vahe Yefremian"
+        },
+        {
+            "key": "其他剪辑",
+            "value": "Darren Holmes, ACE"
+        },
+        {
+            "key": "联合剪辑",
+            "value": "Jess Fulton、Mike Matzdorff"
+        },
+        {
+            "key": "助理剪辑",
+            "value": "Gustav Lindquist"
+        },
+        {
+            "key": "中文对白剪辑",
+            "value": "郑翰博"
+        },
+        {
+            "key": "制片统筹",
+            "value": "张仲成"
+        },
+        {
+            "key": "发行",
+            "value": "Sony Pictures Entertainment Inc."
+        }
+    ],
+    "update_at": "2025-01-20T13:22:54"
 }

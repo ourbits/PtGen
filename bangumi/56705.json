@@ -1,57 +1,240 @@
 {
     "id": "56705",
+    "aka": [
+        "横行霸道5",
+        "GTA V",
+        "GTA5",
+        "侠盗飞车5",
+        "三男一狗"
+    ],
     "alt": "https://bgm.tv/subject/56705",
+    "eps": 0,
     "sid": "56705",
     "cast": [
-        "麦克·迪圣塔:东地宏树、内德·卢克",
-        "富兰克林·克林顿:肖恩·方蒂诺",
-        "崔佛·菲利普:史蒂文·奥格",
-        "路人:Michael Shapiro",
-        "阿曼达·迪圣塔:",
-        "吉米·迪圣塔:",
-        "崔西·迪圣塔:",
-        "莱斯特·克瑞斯特:",
-        "戴维·诺顿:",
-        "强尼·克雷比兹:",
-        "拉玛·戴维斯:",
-        "罗纳多·雅考斯基:",
-        "广播:比尔·拉特纳",
-        "尼克·贝里克:"
+        {
+            "id": 21471,
+            "name": "Trevor Philips",
+            "actors": [
+                {
+                    "id": 40005,
+                    "name": "Steven Ogg"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 21472,
+            "name": "Franklin Clinton",
+            "actors": [
+                {
+                    "id": 40159,
+                    "name": "Shawn Fonteno"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 21475,
+            "name": "Michael De Santa",
+            "actors": [
+                {
+                    "id": 4658,
+                    "name": "東地宏樹"
+                },
+                {
+                    "id": 40002,
+                    "name": "Ned Luke"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 17529,
+            "name": "モブキャラクター",
+            "actors": [
+                {
+                    "id": 38812,
+                    "name": "Michael Shapiro"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 53517,
+            "name": "Amanda De Santa",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 53518,
+            "name": "Jimmy De Santa",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 53519,
+            "name": "Tracey De Santa",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 75124,
+            "name": "Lester Crest",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 75125,
+            "name": "David Norton",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 75142,
+            "name": "Johnny Klebitz",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 75146,
+            "name": "Lamar Davis",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 75147,
+            "name": "Ronald Jakowski",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 28115,
+            "name": "アナウンス",
+            "actors": [
+                {
+                    "id": 40538,
+                    "name": "Bill Ratner"
+                }
+            ],
+            "relation": "客串"
+        },
+        {
+            "id": 75141,
+            "name": "Niko Bellic",
+            "actors": [],
+            "relation": "客串"
+        }
     ],
+    "date": "2013-09-17",
+    "name": "Grand Theft Auto V",
     "site": "bangumi",
-    "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b4/79/56705_eFoam.jpg",
+    "cover": "https://lain.bgm.tv/pic/cover/l/b4/79/56705_eFoam.jpg",
     "staff": [
-        "中文名:侠盗猎车手5",
-        "开发:Rockstar North (Rockstar Games)",
-        "发行:Rockstar Games",
-        "剧本:Dan Houser、Rupert Humphries、Michael Unsworth",
-        "别名:横行霸道5别名:GTA V别名:GTA5别名:侠盗飞车5别名:三男一狗",
-        "别名:横行霸道5",
-        "别名:GTA V",
-        "别名:GTA5",
-        "别名:侠盗飞车5",
-        "别名:三男一狗",
-        "平台:Xbox 360PS3Xbox OnePS4PCXbox Series X/SPS5",
-        "平台:",
-        "Xbox 360PS3Xbox OnePS4PCXbox Series X/SPS5",
-        "游戏类型:AAVG",
-        "游戏引擎:RAGE",
-        "游玩人数:1人 / 多人（线上模式）",
-        "发行日期:2013年9月17日（PS3/Xbox 360）",
-        "售价:$59.99 / 119元",
-        "官方网站:rockstargames.com/gta-v",
-        "其他发行日期:2014年9月18日(PS4/Xbox One)其他发行日期:2015年4月14日(PC)其他发行日期:2022年3月15日 (PS5/Xbox Series X)",
-        "其他发行日期:2014年9月18日(PS4/Xbox One)",
-        "其他发行日期:2015年4月14日(PC)",
-        "其他发行日期:2022年3月15日 (PS5/Xbox Series X)",
-        "导演:Leslie Benzies",
-        "执行制作人:Leslie Benzies",
-        "联合制作人:Imran Sarwar",
-        "首席脚本:Benjamin Rollinson、Kenneth Ross、Matthew Booton、Robert Bray、Ross Wallace",
-        "技术总监:Adam Fowler、Klass Schilstra、Phil Hooker",
-        "音乐总监:Craig Conner",
-        "美术总监:Aaron Garbut、Michael Kane、Adam Cochrane"
+        {
+            "key": "开发",
+            "value": "Rockstar Games"
+        },
+        {
+            "key": "发行",
+            "value": "Rockstar Games"
+        },
+        {
+            "key": "剧本",
+            "value": "Dan Houser、Rupert Humphries、Michael Unsworth"
+        },
+        {
+            "key": "导演",
+            "value": "Leslie Benzies"
+        }
     ],
-    "story": "洛圣都——一个辽阔的阳光之都，充斥着自强不息的大师、明日之星或是光芒不再的昔日名人。它曾是让西方世界羡慕不已的耀眼都会，但在这个经济不稳、廉价电视真人秀大行其道的年代，也只能挣扎求生。在这样混乱的世道中，有三个性格迥异的罪犯各怀鬼胎，努力追求生存和成功：富兰克林，一名街头混混，为了赚大钱而一心追求真正发达的机会；麦克，有前科的职业罪犯，但退休生活远不如他想象中美好；崔佛，受廉价毒品和大干一票的欲望驱使，是个狂暴的疯子。越来越身不由己的这帮人，只能不顾一切投入一连串大胆而危险的抢劫任务，就算会惹祸上身也在所不惜。Grand Theft Auto V 是迄今为止规模最大、最有活力且最为多元化的开放世界游戏，以崭新的方式融合了叙事和游玩，让玩家可以切换三个主要角色，经历他们的生活，以不同的角度体验游戏中错综复杂的故事。此开创性系列的所有经典重头戏都会再度重现，包括令人叹为观止的细节设计，以及 GTA 对现代文化的黑色幽默讽刺，另外还有全新且立志高远的开放世界多人游戏。",
-    "update_at": "2024-11-20T14:00:26"
+    "story": "洛圣都——一个辽阔的阳光之都，充斥着自强不息的大师、明日之星或是光芒不再的昔日名人。它曾是让西方世界羡慕不已的耀眼都会，但在这个经济不稳、廉价电视真人秀大行其道的年代，也只能挣扎求生。\n\n在这样混乱的世道中，有三个性格迥异的罪犯各怀鬼胎，努力追求生存和成功：富兰克林，一名街头混混，为了赚大钱而一心追求真正发达的机会；麦克，有前科的职业罪犯，但退休生活远不如他想象中美好；崔佛，受廉价毒品和大干一票的欲望驱使，是个狂暴的疯子。越来越身不由己的这帮人，只能不顾一切投入一连串大胆而危险的抢劫任务，就算会惹祸上身也在所不惜。\n\nGrand Theft Auto V 是迄今为止规模最大、最有活力且最为多元化的开放世界游戏，以崭新的方式融合了叙事和游玩，让玩家可以切换三个主要角色，经历他们的生活，以不同的角度体验游戏中错综复杂的故事。\n\n此开创性系列的所有经典重头戏都会再度重现，包括令人叹为观止的细节设计，以及 GTA 对现代文化的黑色幽默讽刺，另外还有全新且立志高远的开放世界多人游戏。",
+    "rating": {
+        "rank": 74,
+        "count": {
+            "1": 3,
+            "2": 4,
+            "3": 2,
+            "4": 8,
+            "5": 23,
+            "6": 110,
+            "7": 362,
+            "8": 821,
+            "9": 1143,
+            "10": 668
+        },
+        "score": 8.6,
+        "total": 3144
+    },
+    "name_cn": "侠盗猎车手5",
+    "platform": "游戏",
+    "collection": {
+        "wish": 412,
+        "doing": 366,
+        "collect": 3748,
+        "dropped": 99,
+        "on_hold": 268
+    },
+    "infobox_other": [
+        {
+            "key": "平台",
+            "value": "Xbox 360 / PS3 / Xbox One / PS4 / PC / Xbox Series X/S / PS5"
+        },
+        {
+            "key": "游戏类型",
+            "value": "AAVG"
+        },
+        {
+            "key": "游戏引擎",
+            "value": "RAGE"
+        },
+        {
+            "key": "游玩人数",
+            "value": "1人 / 多人（线上模式）"
+        },
+        {
+            "key": "发行日期",
+            "value": "2013年9月17日（PS3/Xbox 360）"
+        },
+        {
+            "key": "售价",
+            "value": "$59.99 / 119元"
+        },
+        {
+            "key": "website",
+            "value": "https://www.rockstargames.com/gta-v"
+        },
+        {
+            "key": "游戏开发商",
+            "value": "Rockstar North (Rockstar Games)"
+        },
+        {
+            "key": "其他发行日期",
+            "value": "2014年9月18日(PS4/Xbox One) / 2015年4月14日(PC) / 2022年3月15日 (PS5/Xbox Series X)"
+        },
+        {
+            "key": "执行制作人",
+            "value": "Leslie Benzies"
+        },
+        {
+            "key": "联合制作人",
+            "value": "Imran Sarwar"
+        },
+        {
+            "key": "首席脚本",
+            "value": "Benjamin Rollinson、Kenneth Ross、Matthew Booton、Robert Bray、Ross Wallace"
+        },
+        {
+            "key": "技术总监",
+            "value": "Adam Fowler、Klass Schilstra、Phil Hooker"
+        },
+        {
+            "key": "音乐总监",
+            "value": "Craig Conner"
+        },
+        {
+            "key": "美术总监",
+            "value": "Aaron Garbut、Michael Kane、Adam Cochrane"
+        }
+    ],
+    "update_at": "2025-01-20T14:00:53"
 }

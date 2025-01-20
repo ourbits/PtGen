@@ -1,65 +1,710 @@
 {
     "id": "117206",
+    "aka": [
+        "鬥陣特攻",
+        "オーバーウォッチ",
+        "오버워치"
+    ],
     "alt": "https://bgm.tv/subject/117206",
+    "eps": 0,
     "sid": "117206",
     "cast": [
-        "安娜:榊原良子、Aysha Selim、武向彤",
-        "末日铁拳:中田让治、刘琮",
-        "莫伊拉:园崎未惠、吉娜薇·欧瑞丽、李世荣",
-        "布丽吉塔:张琦",
-        "破坏球:间宫康弘、冯盛、한복현",
-        "艾什:珍妮弗·黑尔、常蓉珊",
-        "西格玛:岛田岳洋、刘以嘉",
-        "巴蒂斯特:咲野俊介、马洋",
-        "回声:叶知秋",
-        "雾子:天城莎莉、菲鲁兹·蓝、陈婷婷（配音演员）",
-        "士兵76:大川透、弗雷德·塔特西奥",
-        "死神:竹内良太、Keith Ferguson",
-        "法老之鹰:朴璐美、Jen Cohn、祝俊、赵玄正",
-        "源氏:川原庆久、Gaku Space、彭博、김혜성",
-        "猎空:加藤英美里、Cara Theobold、朴信姬",
-        "卡西迪:小杉十郎太、马修·麦瑟、郭允相",
-        "黑影:斋藤千和、蒋丽",
-        "半藏:阪口周平、Paul Nakauchi、刘北辰、한신",
-        "堡垒:",
-        "黑百合:伊藤静、Chloe Hollings、杨梦露、李智贤",
-        "美:林恩、张昱、全淑京",
-        "托比昂:高冈瓶瓶、基思·西尔弗斯坦、贾邱",
-        "狂鼠:后藤弘树、Christopher L. Parson、张欣",
-        "宋哈娜:种田梨沙、Charlet Chung、陶典、金炫志",
-        "路霸:楠见尚己、Josh Petersdorf、孟祥龙",
-        "查莉娅:斋贺光希、Dolya Gavanski、洪海天",
-        "温斯顿:伊丸冈笃、克里斯平·弗里曼、孟祥龙",
-        "莱因哈特:乃村健次、Darin De Paul、袁国庆",
-        "奥丽莎:种崎敦美、韩娇娇",
-        "天使:大原沙耶香、Lucie Pohl、李炫真、陶典、叶知秋",
-        "禅雅塔:Feodor Chin、猛犸西尾、李元韬",
-        "卢西奥:兴津和幸、孙晔、Jonny Cruz、李镐山",
-        "秩序之光:生天目仁美、张昱、Anjali Bhimani、林允善",
-        "迪卡·凯恩:Michael Gough"
+        {
+            "id": 41810,
+            "name": "Tracer",
+            "actors": [
+                {
+                    "id": 4850,
+                    "name": "加藤英美里"
+                },
+                {
+                    "id": 25886,
+                    "name": "Cara Theobold"
+                },
+                {
+                    "id": 42408,
+                    "name": "박신희"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 42247,
+            "name": "D.Va",
+            "actors": [
+                {
+                    "id": 8138,
+                    "name": "種田梨沙"
+                },
+                {
+                    "id": 25876,
+                    "name": "Charlet Chung"
+                },
+                {
+                    "id": 33587,
+                    "name": "陶典"
+                },
+                {
+                    "id": 42169,
+                    "name": "김현지"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 43771,
+            "name": "Lucio",
+            "actors": [
+                {
+                    "id": 5007,
+                    "name": "興津和幸"
+                },
+                {
+                    "id": 23020,
+                    "name": "孙晔"
+                },
+                {
+                    "id": 25880,
+                    "name": "Jonny Cruz"
+                },
+                {
+                    "id": 32955,
+                    "name": "이호산"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 43772,
+            "name": "Mercy",
+            "actors": [
+                {
+                    "id": 3890,
+                    "name": "大原さやか"
+                },
+                {
+                    "id": 25882,
+                    "name": "Lucie Pohl"
+                },
+                {
+                    "id": 32956,
+                    "name": "이현진"
+                },
+                {
+                    "id": 33587,
+                    "name": "陶典"
+                },
+                {
+                    "id": 38696,
+                    "name": "叶知秋"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 43773,
+            "name": "Pharah",
+            "actors": [
+                {
+                    "id": 4027,
+                    "name": "朴璐美"
+                },
+                {
+                    "id": 25883,
+                    "name": "Jen Cohn"
+                },
+                {
+                    "id": 40267,
+                    "name": "鬼月"
+                },
+                {
+                    "id": 54460,
+                    "name": "조현정"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 43774,
+            "name": "Hanzo",
+            "actors": [
+                {
+                    "id": 5434,
+                    "name": "阪口周平"
+                },
+                {
+                    "id": 25877,
+                    "name": "Paul Nakauchi"
+                },
+                {
+                    "id": 39828,
+                    "name": "刘北辰"
+                },
+                {
+                    "id": 54426,
+                    "name": "한신"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 43775,
+            "name": "Genji",
+            "actors": [
+                {
+                    "id": 5178,
+                    "name": "川原慶久"
+                },
+                {
+                    "id": 25878,
+                    "name": "Gaku Space"
+                },
+                {
+                    "id": 39272,
+                    "name": "彭博"
+                },
+                {
+                    "id": 54343,
+                    "name": "김혜성"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 43776,
+            "name": "Mei",
+            "actors": [
+                {
+                    "id": 15497,
+                    "name": "Lynn"
+                },
+                {
+                    "id": 25881,
+                    "name": "张昱"
+                },
+                {
+                    "id": 48257,
+                    "name": "전숙경"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 43777,
+            "name": "Ana",
+            "actors": [
+                {
+                    "id": 3940,
+                    "name": "榊原良子"
+                },
+                {
+                    "id": 25890,
+                    "name": "Aysha Selim"
+                },
+                {
+                    "id": 39827,
+                    "name": "武向彤"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 43778,
+            "name": "Soldier: 76",
+            "actors": [
+                {
+                    "id": 4131,
+                    "name": "大川透"
+                },
+                {
+                    "id": 25891,
+                    "name": "Fred Tatasciore"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 45981,
+            "name": "Cassidy",
+            "actors": [
+                {
+                    "id": 4302,
+                    "name": "小杉十郎太"
+                },
+                {
+                    "id": 25879,
+                    "name": "Matthew Mercer"
+                },
+                {
+                    "id": 42412,
+                    "name": "곽윤상"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 45982,
+            "name": "Reaper",
+            "actors": [
+                {
+                    "id": 5211,
+                    "name": "竹内良太"
+                },
+                {
+                    "id": 25885,
+                    "name": "Keith Ferguson"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 45983,
+            "name": "Bastion",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 45984,
+            "name": "Junkrat",
+            "actors": [
+                {
+                    "id": 7602,
+                    "name": "後藤ヒロキ"
+                },
+                {
+                    "id": 25892,
+                    "name": "Christopher L. Parson"
+                },
+                {
+                    "id": 39823,
+                    "name": "张欣"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 45985,
+            "name": "Torbjörn",
+            "actors": [
+                {
+                    "id": 5166,
+                    "name": "高岡瓶々"
+                },
+                {
+                    "id": 25894,
+                    "name": "Keith Silverstein"
+                },
+                {
+                    "id": 41308,
+                    "name": "贾邱"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 45986,
+            "name": "Widowmaker",
+            "actors": [
+                {
+                    "id": 4272,
+                    "name": "伊藤静"
+                },
+                {
+                    "id": 25887,
+                    "name": "Chloe Hollings"
+                },
+                {
+                    "id": 37138,
+                    "name": "杨梦露"
+                },
+                {
+                    "id": 42410,
+                    "name": "이지현"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 46914,
+            "name": "Reinhardt",
+            "actors": [
+                {
+                    "id": 4443,
+                    "name": "乃村健次"
+                },
+                {
+                    "id": 25893,
+                    "name": "Darin De Paul"
+                },
+                {
+                    "id": 39856,
+                    "name": "袁国庆"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 46915,
+            "name": "Roadhog",
+            "actors": [
+                {
+                    "id": 5036,
+                    "name": "楠見尚己"
+                },
+                {
+                    "id": 25895,
+                    "name": "Josh Petersdorf"
+                },
+                {
+                    "id": 39852,
+                    "name": "孟祥龙"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 46916,
+            "name": "Winston",
+            "actors": [
+                {
+                    "id": 4621,
+                    "name": "伊丸岡篤"
+                },
+                {
+                    "id": 25896,
+                    "name": "Crispin Freeman"
+                },
+                {
+                    "id": 39852,
+                    "name": "孟祥龙"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 46917,
+            "name": "Zarya",
+            "actors": [
+                {
+                    "id": 3924,
+                    "name": "斎賀みつき"
+                },
+                {
+                    "id": 25888,
+                    "name": "Dolya Gavanski"
+                },
+                {
+                    "id": 39812,
+                    "name": "洪海天"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 46918,
+            "name": "Symmetra",
+            "actors": [
+                {
+                    "id": 4394,
+                    "name": "生天目仁美"
+                },
+                {
+                    "id": 25881,
+                    "name": "张昱"
+                },
+                {
+                    "id": 25884,
+                    "name": "Anjali Bhimani"
+                },
+                {
+                    "id": 42358,
+                    "name": "임윤선"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 46919,
+            "name": "Zenyatta",
+            "actors": [
+                {
+                    "id": 25889,
+                    "name": "Feodor Chin"
+                },
+                {
+                    "id": 27857,
+                    "name": "マンモス西尾"
+                },
+                {
+                    "id": 39747,
+                    "name": "李元韬"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 51180,
+            "name": "Sombra",
+            "actors": [
+                {
+                    "id": 4249,
+                    "name": "斎藤千和"
+                },
+                {
+                    "id": 39266,
+                    "name": "小N"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 51895,
+            "name": "Orisa",
+            "actors": [
+                {
+                    "id": 7575,
+                    "name": "種﨑敦美"
+                },
+                {
+                    "id": 39899,
+                    "name": "韩娇娇"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 57689,
+            "name": "Doomfist",
+            "actors": [
+                {
+                    "id": 3971,
+                    "name": "中田譲治"
+                },
+                {
+                    "id": 31978,
+                    "name": "刘琮"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 62709,
+            "name": "Moira",
+            "actors": [
+                {
+                    "id": 3943,
+                    "name": "園崎未恵"
+                },
+                {
+                    "id": 43529,
+                    "name": "Genevieve O'Reilly"
+                },
+                {
+                    "id": 53019,
+                    "name": "李世荣"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 62710,
+            "name": "Brigitte",
+            "actors": [
+                {
+                    "id": 37144,
+                    "name": "张琦"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65232,
+            "name": "Wrecking Ball",
+            "actors": [
+                {
+                    "id": 5218,
+                    "name": "間宮康弘"
+                },
+                {
+                    "id": 28622,
+                    "name": "图特哈蒙"
+                },
+                {
+                    "id": 60445,
+                    "name": "한복현"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 67097,
+            "name": "Ashe",
+            "actors": [
+                {
+                    "id": 26079,
+                    "name": "川﨑芽衣子"
+                },
+                {
+                    "id": 33059,
+                    "name": "Jennifer Hale"
+                },
+                {
+                    "id": 35812,
+                    "name": "常蓉珊"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 109538,
+            "name": "Sigma",
+            "actors": [
+                {
+                    "id": 18630,
+                    "name": "島田岳洋"
+                },
+                {
+                    "id": 39807,
+                    "name": "刘以嘉"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 109539,
+            "name": "Baptiste",
+            "actors": [
+                {
+                    "id": 4951,
+                    "name": "咲野俊介"
+                },
+                {
+                    "id": 39650,
+                    "name": "马洋"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 109540,
+            "name": "Echo",
+            "actors": [
+                {
+                    "id": 38696,
+                    "name": "叶知秋"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 127483,
+            "name": "Kiriko",
+            "actors": [
+                {
+                    "id": 31776,
+                    "name": "天城サリー"
+                },
+                {
+                    "id": 34397,
+                    "name": "ファイルーズあい"
+                },
+                {
+                    "id": 39750,
+                    "name": "陈婷婷"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 115929,
+            "name": "Deckard Cain",
+            "actors": [
+                {
+                    "id": 47875,
+                    "name": "Michael Gough"
+                }
+            ],
+            "relation": "配角"
+        }
     ],
+    "date": "2016-05-24",
+    "name": "OVERWATCH",
     "site": "bangumi",
-    "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c9/a1/117206_ElQql.jpg",
+    "cover": "https://lain.bgm.tv/pic/cover/l/c9/a1/117206_ElQql.jpg",
     "staff": [
-        "中文名:守望先锋",
-        "开发:Blizzard Entertainment",
-        "发行:网易游戏、Blizzard Entertainment",
-        "导演:Chris Metzen",
-        "协力:Kevin Martens",
-        "别名:鬥陣特攻",
-        "别名:オーバーウォッチ",
-        "别名:오버워치",
-        "平台:Nintendo Switch",
-        "平台:PC",
-        "平台:Xbox One",
-        "平台:PS4",
-        "游戏类型:MMOFPS",
-        "游戏引擎:暴雪自制引擎",
-        "游玩人数:6v6",
-        "发行日期:2016年5月24日",
-        "售价:$39.99 (￥198)",
-        "官方网站:https://playoverwatch.com/"
+        {
+            "key": "开发",
+            "value": "Blizzard Entertainment"
+        },
+        {
+            "key": "发行",
+            "value": "Blizzard Entertainment / 网易游戏"
+        },
+        {
+            "key": "导演",
+            "value": "Chris Metzen"
+        },
+        {
+            "key": "协力",
+            "value": "Kevin Martens"
+        }
     ],
     "story": "《守望先锋™》是一款团队射击游戏，英雄们在一个战火纷飞的世界相互厮杀。在《守望先锋™》中，你可以看到许多风格迥异的英雄。从可以时间跳跃的冒险家、挥舞火箭重锤的重装骑士到超凡的机械僧侣等等。每个英雄的战斗方式各不相同，要发挥其最大战斗力就必须掌握并善用他们的技能。每个英雄都是独一无二的。",
-    "update_at": "2024-06-17T23:20:13"
+    "rating": {
+        "rank": 2915,
+        "count": {
+            "1": 14,
+            "2": 6,
+            "3": 8,
+            "4": 19,
+            "5": 53,
+            "6": 162,
+            "7": 320,
+            "8": 287,
+            "9": 99,
+            "10": 42
+        },
+        "score": 7.1,
+        "total": 1010
+    },
+    "name_cn": "守望先锋",
+    "platform": "游戏",
+    "collection": {
+        "wish": 36,
+        "doing": 151,
+        "collect": 1095,
+        "dropped": 99,
+        "on_hold": 54
+    },
+    "infobox_other": [
+        {
+            "key": "平台",
+            "value": "Nintendo Switch / PC / Xbox One / PS4"
+        },
+        {
+            "key": "游戏类型",
+            "value": "MMOFPS"
+        },
+        {
+            "key": "游戏引擎",
+            "value": "暴雪自制引擎"
+        },
+        {
+            "key": "游玩人数",
+            "value": "6v6"
+        },
+        {
+            "key": "发行日期",
+            "value": "2016年5月24日"
+        },
+        {
+            "key": "售价",
+            "value": "$39.99 (￥198)"
+        },
+        {
+            "key": "website",
+            "value": "https://playoverwatch.com/"
+        }
+    ],
+    "update_at": "2025-01-20T12:26:34"
 }

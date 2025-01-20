@@ -1,43 +1,226 @@
 {
     "id": "133243",
     "alt": "https://bgm.tv/subject/133243",
+    "eps": 1,
     "sid": "133243",
     "cast": [
-        "蜘蛛侠:汤姆·赫兰德",
-        "托尔·奥丁森:克里斯·海姆斯沃斯",
-        "钢铁侠:小罗伯特·唐尼",
-        "鹰眼:杰瑞米·雷纳",
-        "美国队长:克里斯·埃文斯",
-        "黑寡妇:斯嘉丽·约翰逊",
-        "星爵:克里斯·帕拉特",
-        "格鲁特:范·迪塞尔",
-        "洛基·劳菲森:汤姆·希德勒斯顿",
-        "佩吉·卡特:海莉·阿特维尔"
+        {
+            "id": 23102,
+            "name": "Spider-Man",
+            "actors": [
+                {
+                    "id": 43799,
+                    "name": "Tom Holland"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 59479,
+            "name": "Thor Odinson",
+            "actors": [
+                {
+                    "id": 40163,
+                    "name": "Chris Hemsworth"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 65342,
+            "name": "Tony Stark",
+            "actors": [
+                {
+                    "id": 35106,
+                    "name": "Robert Downey Jr."
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 83181,
+            "name": "Captain America",
+            "actors": [
+                {
+                    "id": 43511,
+                    "name": "Chris Evans"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 99301,
+            "name": "Peter Quill",
+            "actors": [
+                {
+                    "id": 42482,
+                    "name": "Chris Pratt"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 99866,
+            "name": "Black Widow",
+            "actors": [
+                {
+                    "id": 35108,
+                    "name": "Scarlett Johansson"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 127695,
+            "name": "Hawkeye",
+            "actors": [
+                {
+                    "id": 44064,
+                    "name": "Jeremy Renner"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 59478,
+            "name": "Loki Laufeyson",
+            "actors": [
+                {
+                    "id": 31492,
+                    "name": "Tom Hiddleston"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 99114,
+            "name": "Groot",
+            "actors": [
+                {
+                    "id": 42431,
+                    "name": "Vin Diesel"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 158719,
+            "name": "Peggy Carter",
+            "actors": [
+                {
+                    "id": 64578,
+                    "name": "Hayley Atwell"
+                }
+            ],
+            "relation": "客串"
+        }
     ],
+    "date": "2019-04-24",
+    "name": "Avengers: Endgame",
     "site": "bangumi",
-    "cover": "https://lain.bgm.tv/r/400/pic/cover/l/19/9c/133243_zQy4i.jpg",
+    "cover": "https://lain.bgm.tv/pic/cover/l/19/9c/133243_zQy4i.jpg",
     "staff": [
-        "中文名:复仇者联盟4：终局之战",
-        "原作:Marvel Comics",
-        "音乐:Alan Silvestri",
-        "执行制片人:Jon Favreau、James Gunn",
-        "制片人/制作人:Kevin Feige",
-        "主演:Robert Downey Jr.、Chris Evans、Mark Ruffalo、Chris Hemsworth、Scarlett Johansson、Jeremy Renner、Josh Brolin",
-        "配角:Don Cheadle、Paul Rudd、Brie Larson、Karen Gillan、Danai Gurira、Benedict Wong、Jon Favreau、Bradley Cooper、Gwyneth Paltrow、Benedict Cumberbatch、Chadwick Boseman、Tom Holland、Zoe Saldana、Elizabeth Olsen、Anthony Mackie、Sebastian Stan、Tom Hiddleston、Pom Klementieff、Dave Bautista、Letitia Wright、William Hurt、Cobie Smulders、Winston Duke、Tom Vaughan-Lawlor、Jacob Batalon、Vin Diesel、Chris Pratt、Samuel L. Jackson、Evangeline Lilly、Tessa Thompson、Rene Russo、Tilda Swinton、Hayley Atwell、Stan Lee、Natalie Portman、真田広之",
-        "制作:Walt Disney Pictures、Marvel Studios",
-        "出品:Walt Disney Pictures",
-        "上映日:2019年4月24日（中国大陆）、2019年4月26日(美国)",
-        "片长:180分钟",
-        "类型:动作、科幻、冒险、战争",
-        "国家/地区:美国",
-        "语言:英语",
-        "imdb_id:tt4154796",
-        "集数:1",
-        "首播国家:美国",
-        "首播地区:2019-04-22(Los Angeles Convention Center)",
-        "导演:Anthony Russo、Joe Russo",
-        "编剧:Christopher Markus、Stephen McFeely"
+        {
+            "key": "原作",
+            "value": "Marvel Comics"
+        },
+        {
+            "key": "导演",
+            "value": "Anthony Russo、Joe Russo"
+        },
+        {
+            "key": "编剧",
+            "value": "Christopher Markus、Stephen McFeely"
+        },
+        {
+            "key": "音乐",
+            "value": "Alan Silvestri"
+        },
+        {
+            "key": "执行制片人",
+            "value": "James Gunn / Jon Favreau"
+        },
+        {
+            "key": "制片人/制作人",
+            "value": "Kevin Feige"
+        },
+        {
+            "key": "主演",
+            "value": "Robert Downey Jr.、Chris Evans、Mark Ruffalo、Chris Hemsworth、Scarlett Johansson、Jeremy Renner、Josh Brolin"
+        },
+        {
+            "key": "配角",
+            "value": "Don Cheadle、Paul Rudd、Brie Larson、Karen Gillan、Danai Gurira、Benedict Wong、Jon Favreau、Bradley Cooper、Gwyneth Paltrow、Benedict Cumberbatch、Chadwick Boseman、Tom Holland、Zoe Saldana、Elizabeth Olsen、Anthony Mackie、Sebastian Stan、Tom Hiddleston、Pom Klementieff、Dave Bautista、Letitia Wright、William Hurt、Cobie Smulders、Winston Duke、Tom Vaughan-Lawlor、Jacob Batalon、Vin Diesel、Chris Pratt、Samuel L. Jackson、Evangeline Lilly、Tessa Thompson、Rene Russo、Tilda Swinton、Hayley Atwell"
+        },
+        {
+            "key": "制作",
+            "value": "Marvel Studios / Walt Disney Pictures"
+        },
+        {
+            "key": "出品",
+            "value": "Walt Disney Pictures"
+        }
     ],
     "story": "灭霸弹指间毁灭宇宙一半的生物后，仅存的复仇者们必须重整旗鼓，背水一战，为仅存的信念而战。",
-    "update_at": "2024-09-04T15:20:08"
+    "rating": {
+        "rank": 1016,
+        "count": {
+            "1": 2,
+            "2": 2,
+            "3": 4,
+            "4": 7,
+            "5": 23,
+            "6": 79,
+            "7": 176,
+            "8": 209,
+            "9": 42,
+            "10": 45
+        },
+        "score": 7.4,
+        "total": 589
+    },
+    "name_cn": "复仇者联盟4：终局之战",
+    "platform": "电影",
+    "collection": {
+        "wish": 34,
+        "doing": 3,
+        "collect": 871,
+        "dropped": 4,
+        "on_hold": 1
+    },
+    "infobox_other": [
+        {
+            "key": "上映日",
+            "value": "2019年4月24日（中国大陆）、2019年4月26日(美国)"
+        },
+        {
+            "key": "片长",
+            "value": "180分钟"
+        },
+        {
+            "key": "类型",
+            "value": "动作、科幻、冒险、战争"
+        },
+        {
+            "key": "国家/地区",
+            "value": "美国"
+        },
+        {
+            "key": "语言",
+            "value": "英语"
+        },
+        {
+            "key": "imdb_id",
+            "value": "tt4154796"
+        },
+        {
+            "key": "首播国家",
+            "value": "美国"
+        },
+        {
+            "key": "首播地区",
+            "value": "2019-04-22(Los Angeles Convention Center)"
+        }
+    ],
+    "update_at": "2025-01-20T12:33:01"
 }

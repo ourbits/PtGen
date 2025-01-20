@@ -1,59 +1,357 @@
 {
     "id": "185181",
+    "aka": [
+        "デス・ストランディング",
+        "死亡之绊",
+        "デススト"
+    ],
     "alt": "https://bgm.tv/subject/185181",
+    "eps": 0,
     "sid": "185181",
     "cast": [
-        "山姆:津田健次郎、诺曼·瑞杜斯",
-        "老头子:阿尔明·谢摩尔曼",
-        "布里吉斯婴:",
-        "克里夫:山路和弘、麦斯·米科尔森",
-        "亡人:石住昭彦、Jesse Corti",
-        "芙拉吉尔:水树奈奈、蕾雅·赛杜",
-        "亚美利:井上喜久子、艾蜜莉·欧布莱恩",
-        "希格斯:三上哲、特罗伊·贝克",
-        "硬汉:大冢明夫、汤米·厄尔·詹金斯",
-        "玛玛:坂本真绫、玛格丽特·库利",
-        "洛克妮:坂本真绫、玛格丽特·库利",
-        "心人:大冢芳忠、Darren Jacobs",
-        "布莉姬:琳赛·华格纳",
-        "Bridges:",
-        "美利坚联众国:",
-        "芙拉吉尔速递:",
-        "路登斯迷:马修·麦瑟",
-        "音乐家:星野源",
-        "角色扮演家:杉田智和、柯南·奥布莱恩",
-        "开罗尔艺术家:摩根·玛拉"
+        {
+            "id": 71534,
+            "name": "Sam",
+            "actors": [
+                {
+                    "id": 3977,
+                    "name": "津田健次郎"
+                },
+                {
+                    "id": 35479,
+                    "name": "Norman Reedus"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 71535,
+            "name": "Bridges",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 71536,
+            "name": "Heartman",
+            "actors": [
+                {
+                    "id": 3879,
+                    "name": "大塚芳忠"
+                },
+                {
+                    "id": 35494,
+                    "name": "Darren Jacobs"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 71537,
+            "name": "Bridge baby",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 71546,
+            "name": "Mama",
+            "actors": [
+                {
+                    "id": 3877,
+                    "name": "坂本真綾"
+                },
+                {
+                    "id": 35486,
+                    "name": "Margaret Qualley"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 71831,
+            "name": "Amelie",
+            "actors": [
+                {
+                    "id": 3945,
+                    "name": "井上喜久子"
+                },
+                {
+                    "id": 35484,
+                    "name": "Emily O'Brien"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 71837,
+            "name": "Fragile",
+            "actors": [
+                {
+                    "id": 1,
+                    "name": "水樹奈々"
+                },
+                {
+                    "id": 35480,
+                    "name": "Léa Seydoux"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 71839,
+            "name": "Die-Hardman",
+            "actors": [
+                {
+                    "id": 3832,
+                    "name": "大塚明夫"
+                },
+                {
+                    "id": 35481,
+                    "name": "Tommie Earl Jenkins"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 71840,
+            "name": "Cliff",
+            "actors": [
+                {
+                    "id": 5503,
+                    "name": "山路和弘"
+                },
+                {
+                    "id": 35485,
+                    "name": "Mads Mikkelsen"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 71841,
+            "name": "United Cities of America",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 71842,
+            "name": "Bridget",
+            "actors": [
+                {
+                    "id": 35483,
+                    "name": "Lindsay Wagner"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 71843,
+            "name": "Higgs",
+            "actors": [
+                {
+                    "id": 15653,
+                    "name": "三上哲"
+                },
+                {
+                    "id": 35488,
+                    "name": "Troy Baker"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 71845,
+            "name": "Deadman",
+            "actors": [
+                {
+                    "id": 5044,
+                    "name": "石住昭彦"
+                },
+                {
+                    "id": 35495,
+                    "name": "Jesse Corti"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 71850,
+            "name": "Fragile Express",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 90897,
+            "name": "Lockne",
+            "actors": [
+                {
+                    "id": 3877,
+                    "name": "坂本真綾"
+                },
+                {
+                    "id": 35486,
+                    "name": "Margaret Qualley"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 104216,
+            "name": "Elder",
+            "actors": [
+                {
+                    "id": 43923,
+                    "name": "Armin Shimerman"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 71849,
+            "name": "Ludens Fan",
+            "actors": [
+                {
+                    "id": 25879,
+                    "name": "Matthew Mercer"
+                }
+            ],
+            "relation": "客串"
+        },
+        {
+            "id": 71852,
+            "name": "Musician",
+            "actors": [
+                {
+                    "id": 10398,
+                    "name": "星野源"
+                }
+            ],
+            "relation": "客串"
+        },
+        {
+            "id": 72889,
+            "name": "Wandering MC",
+            "actors": [
+                {
+                    "id": 4513,
+                    "name": "杉田智和"
+                },
+                {
+                    "id": 35813,
+                    "name": "Conan O'Brien"
+                }
+            ],
+            "relation": "客串"
+        },
+        {
+            "id": 86446,
+            "name": "Chiral Artist",
+            "actors": [
+                {
+                    "id": 39833,
+                    "name": "Morgan Mala"
+                }
+            ],
+            "relation": "客串"
+        }
     ],
+    "date": "2019-11-08",
+    "name": "DEATH STRANDING",
     "site": "bangumi",
-    "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3f/98/185181_J11NM.jpg",
+    "cover": "https://lain.bgm.tv/pic/cover/l/3f/98/185181_J11NM.jpg",
     "staff": [
-        "中文名:死亡搁浅",
-        "开发:KOJIMA PRODUCTIONS",
-        "发行:Sony Interactive Entertainment、505 Games（PC）",
-        "游戏设计师:小島秀夫",
-        "剧本:小島秀夫、野島一人、村田周陽",
-        "美工:新川洋司",
-        "音乐:Ludvig Forssell",
-        "人物设定:新川洋司",
-        "导演:小島秀夫",
-        "制作人:小島秀夫、今泉健一郎、James Vance、Ken Mendoza",
-        "别名:デス・ストランディング",
-        "别名:死亡之绊",
-        "别名:デススト",
-        "平台:iOS",
-        "平台:PS5",
-        "平台:PS4",
-        "平台:PC",
-        "游戏类型:ACT, Strand Game",
-        "游戏引擎:Decima",
-        "游玩人数:1人",
-        "发行日期:2019年11月8日",
-        "售价:通常版：6,900円＋税 / HK$468 / 298元",
-        "官方网站:http://www.kojimaproductions.jp/sp/death_stranding.html",
-        "其他发行日期:2021年9月23日 (导演剪辑版)",
-        "分级:CERO：D（17才以上対象）",
-        "分级:ESRB：M（17歳以上）"
+        {
+            "key": "开发",
+            "value": "KOJIMA PRODUCTIONS"
+        },
+        {
+            "key": "发行",
+            "value": "Sony Interactive Entertainment、505 Games（PC）"
+        },
+        {
+            "key": "剧本",
+            "value": "小島秀夫、野島一人、村田周陽"
+        },
+        {
+            "key": "美工",
+            "value": "新川洋司"
+        },
+        {
+            "key": "音乐",
+            "value": "Ludvig Forssell"
+        },
+        {
+            "key": "人物设定",
+            "value": "新川洋司"
+        },
+        {
+            "key": "导演",
+            "value": "小島秀夫"
+        },
+        {
+            "key": "制作人",
+            "value": "小島秀夫、今泉健一郎、James Vance、Ken Mendoza"
+        }
     ],
-    "story": "《死亡搁浅》是小岛制作 从Konami独立后发表的首部游戏作品。传奇游戏制作人小岛秀夫为玩家带来颠覆传统游戏题材的全新体验。山姆·布里吉斯必须直面因死亡搁浅而面目全非的世界。他手握残存的希望碎片，踏上征途，逐步重建已分崩离析的世界。鬼魅横行，人类濒临灭亡。山姆身负重任，横跨满目疮痍的大陆，拯救面临灭顶之灾的人类。死亡搁浅的真相是什么？前行之路上，山姆会有何发现？你将在前所未有的游戏体验中找到答案。诺曼·瑞杜斯 (Norman Reedus)、麦斯·米科尔森 (Mads Mikkelsen)、蕾雅·赛杜 (Léa Seydoux)、琳赛·瓦格纳 (Lindsay Wagner)倾情出演。",
-    "update_at": "2024-06-08T20:20:10"
+    "story": "《死亡搁浅》是小岛制作 从Konami独立后发表的首部游戏作品。\n\n传奇游戏制作人小岛秀夫为玩家带来颠覆传统游戏题材的全新体验。\n\n山姆·布里吉斯必须直面因死亡搁浅而面目全非的世界。他手握残存的希望碎片，踏上征途，逐步重建已分崩离析的世界。\n\n鬼魅横行，人类濒临灭亡。山姆身负重任，横跨满目疮痍的大陆，拯救面临灭顶之灾的人类。\n\n死亡搁浅的真相是什么？前行之路上，山姆会有何发现？你将在前所未有的游戏体验中找到答案。\n\n诺曼·瑞杜斯 (Norman Reedus)、麦斯·米科尔森 (Mads Mikkelsen)、蕾雅·赛杜 (Léa Seydoux)、琳赛·瓦格纳 (Lindsay Wagner)倾情出演。",
+    "rating": {
+        "rank": 220,
+        "count": {
+            "1": 4,
+            "2": 0,
+            "3": 4,
+            "4": 13,
+            "5": 22,
+            "6": 84,
+            "7": 223,
+            "8": 540,
+            "9": 522,
+            "10": 192
+        },
+        "score": 8.2,
+        "total": 1604
+    },
+    "name_cn": "死亡搁浅",
+    "platform": "游戏",
+    "collection": {
+        "wish": 577,
+        "doing": 332,
+        "collect": 1789,
+        "dropped": 68,
+        "on_hold": 327
+    },
+    "infobox_other": [
+        {
+            "key": "平台",
+            "value": "PS4 / PC"
+        },
+        {
+            "key": "游戏类型",
+            "value": "ACT, Strand Game"
+        },
+        {
+            "key": "游戏引擎",
+            "value": "Decima"
+        },
+        {
+            "key": "游玩人数",
+            "value": "1人"
+        },
+        {
+            "key": "发行日期",
+            "value": "2019年11月8日"
+        },
+        {
+            "key": "售价",
+            "value": "通常版：6,900円＋税 / HK$468 / 298元"
+        },
+        {
+            "key": "website",
+            "value": "http://www.kojimaproductions.jp/sp/death_stranding.html"
+        },
+        {
+            "key": "其他发行日期",
+            "value": "2020年7月14日（PC）"
+        }
+    ],
+    "update_at": "2025-01-20T12:47:15"
 }

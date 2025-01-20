@@ -1,41 +1,190 @@
 {
     "id": "126801",
     "alt": "https://bgm.tv/subject/126801",
+    "eps": 16,
     "sid": "126801",
     "cast": [
-        "达里尔·迪克森:诺曼·瑞杜斯",
-        "瑞克·格莱姆斯:",
-        "卡尔·格莱姆斯:",
-        "格伦·李仁济:",
-        "卡萝尔:",
-        "玛姬:",
-        "米琼恩:",
-        "亚伯拉罕·福特:",
-        "摩根·琼斯:",
-        "萨沙:",
-        "尤金:",
-        "尼根:杰弗里·迪恩·摩根",
-        "塔拉:",
-        "罗西塔:",
-        "加百利:",
-        "艾伦:"
+        {
+            "id": 32996,
+            "name": "Rick Grimes",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 32997,
+            "name": "Carl Grimes",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 32998,
+            "name": "Glenn Rhee",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 32999,
+            "name": "Carol Peletier",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 33000,
+            "name": "Daryl Dixon",
+            "actors": [
+                {
+                    "id": 35479,
+                    "name": "Norman Reedus"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 33001,
+            "name": "Maggie Greene",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 33002,
+            "name": "Michonne",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 33003,
+            "name": "Abraham Ford",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 33007,
+            "name": "Morgan Jones",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 33011,
+            "name": "Sasha",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 33014,
+            "name": "Eugene Porter",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 33012,
+            "name": "Tara Chambler",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 33013,
+            "name": "Rosita Espinosa",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 33015,
+            "name": "Gabriel Stokes",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 47736,
+            "name": "Negan",
+            "actors": [
+                {
+                    "id": 65026,
+                    "name": "Jeffrey Dean Morgan"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 47737,
+            "name": "Aaron",
+            "actors": [],
+            "relation": "配角"
+        }
     ],
+    "date": "2015-10-11",
+    "name": "The Walking Dead Season 6",
     "site": "bangumi",
-    "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1a/b1/126801_puNI9.jpg",
+    "cover": "https://lain.bgm.tv/pic/cover/l/1a/b1/126801_puNI9.jpg",
     "staff": [
-        "中文名:行尸走肉 第六季",
-        "主演:Norman Reedus",
-        "配角:Xander Berkeley、Jeffrey Dean Morgan、Steven Ogg、Major Dodson",
-        "集数:16",
-        "开始:2015-10-11",
-        "类型:剧情 / 惊悚 / 恐怖",
-        "国家/地区:美国",
-        "语言:英语",
-        "每集长:44min",
-        "电视台:AMC",
-        "台湾名称:阴尸路 第六季",
-        "imdb_id:tt4211958"
+        {
+            "key": "主演",
+            "value": "Norman Reedus"
+        },
+        {
+            "key": "配角",
+            "value": "Steven Ogg / Major Dodson / Jeffrey Dean Morgan / Xander Berkeley"
+        }
     ],
     "story": "",
-    "update_at": "2024-10-23T17:40:14"
+    "rating": {
+        "rank": 933,
+        "count": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 6,
+            "6": 10,
+            "7": 47,
+            "8": 49,
+            "9": 10,
+            "10": 6
+        },
+        "score": 7.5,
+        "total": 129
+    },
+    "name_cn": "行尸走肉 第六季",
+    "platform": "欧美剧",
+    "collection": {
+        "wish": 13,
+        "doing": 18,
+        "collect": 166,
+        "dropped": 3,
+        "on_hold": 13
+    },
+    "infobox_other": [
+        {
+            "key": "开始",
+            "value": "2015-10-11"
+        },
+        {
+            "key": "类型",
+            "value": "剧情 / 惊悚 / 恐怖"
+        },
+        {
+            "key": "国家/地区",
+            "value": "美国"
+        },
+        {
+            "key": "语言",
+            "value": "英语"
+        },
+        {
+            "key": "每集长",
+            "value": "44min"
+        },
+        {
+            "key": "电视台",
+            "value": "AMC"
+        },
+        {
+            "key": "台湾名称",
+            "value": "阴尸路 第六季"
+        },
+        {
+            "key": "imdb_id",
+            "value": "tt4211958"
+        }
+    ],
+    "update_at": "2025-01-20T12:30:28"
 }

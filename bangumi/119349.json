@@ -1,26 +1,123 @@
 {
     "id": "119349",
     "alt": "https://bgm.tv/subject/119349",
+    "eps": 1,
     "sid": "119349",
     "cast": [
-        "岛津朔邪:木户衣吹",
-        "浅野真一郎:河本启佑",
-        "玉子:佐土原香织",
-        "相马抚子:藏合纱惠子",
-        "岛津须世璃:市道真央"
+        {
+            "id": 29306,
+            "name": "島津朔邪",
+            "actors": [
+                {
+                    "id": 7734,
+                    "name": "木戸衣吹"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 29307,
+            "name": "浅野真一郎",
+            "actors": [
+                {
+                    "id": 12490,
+                    "name": "河本啓佑"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 29308,
+            "name": "タマ子",
+            "actors": [
+                {
+                    "id": 6869,
+                    "name": "佐土原かおり"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 29309,
+            "name": "相馬撫子",
+            "actors": [
+                {
+                    "id": 5183,
+                    "name": "藏合紗恵子"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 29310,
+            "name": "島津須世璃",
+            "actors": [
+                {
+                    "id": 10887,
+                    "name": "M・A・O"
+                }
+            ],
+            "relation": "配角"
+        }
     ],
+    "date": "2015-08-26",
+    "name": "ISUCA OAD",
     "site": "bangumi",
-    "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9e/79/119349_RDTGE.jpg",
+    "cover": "https://lain.bgm.tv/pic/cover/l/9e/79/119349_RDTGE.jpg",
     "staff": [
-        "中文名:伊斯卡 OAD",
-        "话数:1",
-        "原作:高橋脩",
-        "导演:岩永彰",
-        "分镜:西島克彦",
-        "演出:川西泰二",
-        "动画制作:ARMS",
-        "发售日:2015-08-26"
+        {
+            "key": "原作",
+            "value": "高橋脩"
+        },
+        {
+            "key": "导演",
+            "value": "岩永彰"
+        },
+        {
+            "key": "分镜",
+            "value": "西島克彦"
+        },
+        {
+            "key": "演出",
+            "value": "川西泰二"
+        },
+        {
+            "key": "动画制作",
+            "value": "ARMS"
+        }
     ],
     "story": "漫画单行本第7卷将推出同捆OAD的限定版。",
-    "update_at": "2024-09-15T15:20:01"
+    "rating": {
+        "rank": 8453,
+        "count": {
+            "1": 3,
+            "2": 11,
+            "3": 14,
+            "4": 28,
+            "5": 77,
+            "6": 50,
+            "7": 17,
+            "8": 2,
+            "9": 1,
+            "10": 2
+        },
+        "score": 5,
+        "total": 205
+    },
+    "name_cn": "伊斯卡 OAD",
+    "platform": "OVA",
+    "collection": {
+        "wish": 80,
+        "doing": 8,
+        "collect": 357,
+        "dropped": 31,
+        "on_hold": 18
+    },
+    "infobox_other": [
+        {
+            "key": "发售日",
+            "value": "2015-08-26"
+        }
+    ],
+    "update_at": "2025-01-20T12:27:27"
 }

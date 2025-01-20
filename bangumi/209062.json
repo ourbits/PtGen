@@ -1,21 +1,75 @@
 {
     "id": "209062",
     "alt": "https://bgm.tv/subject/209062",
+    "eps": 10,
     "sid": "209062",
     "cast": [
-        "席拉·布罗福洛夫斯基:莫娜·马歇尔"
+        {
+            "id": 30812,
+            "name": "Sheila Broflovski",
+            "actors": [
+                {
+                    "id": 51875,
+                    "name": "Mona Marshall"
+                }
+            ],
+            "relation": "配角"
+        }
     ],
+    "date": "2018-09-26",
+    "name": "South Park Season 22",
     "site": "bangumi",
-    "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d1/83/209062_mi0eN.jpg",
+    "cover": "https://lain.bgm.tv/pic/cover/l/d1/83/209062_mi0eN.jpg",
     "staff": [
-        "中文名:南方公园 第22季",
-        "话数:10",
-        "放送开始:2018年9月26日",
-        "放送星期:星期三",
-        "製作:MTV",
-        "官方网站:southpark.cc.com/",
-        "播放电视台:Comedy Central"
+        {
+            "key": "製作",
+            "value": "MTV"
+        }
     ],
     "story": "Comedy Central再次宣布直接续订《南方公园》三季。",
-    "update_at": "2024-12-20T16:20:05"
+    "rating": {
+        "rank": 1915,
+        "count": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 6,
+            "6": 20,
+            "7": 30,
+            "8": 34,
+            "9": 4,
+            "10": 3
+        },
+        "score": 7.2,
+        "total": 97
+    },
+    "name_cn": "南方公园 第22季",
+    "platform": "TV",
+    "collection": {
+        "wish": 32,
+        "doing": 6,
+        "collect": 174,
+        "dropped": 22,
+        "on_hold": 8
+    },
+    "infobox_other": [
+        {
+            "key": "放送开始",
+            "value": "2018年9月26日"
+        },
+        {
+            "key": "放送星期",
+            "value": "星期三"
+        },
+        {
+            "key": "官方网站",
+            "value": "http://southpark.cc.com/"
+        },
+        {
+            "key": "播放电视台",
+            "value": "Comedy Central"
+        }
+    ],
+    "update_at": "2025-01-20T12:54:05"
 }

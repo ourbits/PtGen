@@ -8,18 +8,20 @@ If you want to use all archive for other purposes, We recommend you use `Downloa
 
 ## Update Status
 
-- Last update at: `2025-01-20 03:00:16` (CET, UTC+01:00)
+- Last update at: `2025-01-21 00:17:35` (CET, UTC+01:00)
 - Last data summary:
 
 | Source Site | Count |
 |:----:|----:|
-| douban | 71111 |
-| douban_celebrity | 4354 |
-| imdb | 28955 |
-| bangumi | 2201 |
+| douban | 71166 |
+| douban_celebrity | 5097 |
+| imdb | 29097 |
+| bangumi | 2258 |
 | steam | 1417 |
 | indienova | 150 |
 | epic | 13 |
+
+- Report: [Monthly Create](/internal_status/monthly_create.csv) , [Daily Update](/internal_status/daily_update.csv)
 
 ## Usage
 
@@ -34,12 +36,29 @@ If you want to use all archive for other purposes, We recommend you use `Downloa
     | Ourhelp API | [![Ourhelp API](https://img.shields.io/website?url=https%3A%2F%2Fapi.ourhelp.club%2Finfogen)](https://api.ourhelp.club/infogen) | `https://api.ourhelp.club/infogen?site=<site>&sid=<sid>` | Dynamic, CORS, Ratelimit |
    
    - Build Workflow: **`Ourhelp API`** -> static export -> **`Ourhelp CDN`** -> git push -> **`Github Pages`** -> sync -> **`Vercel, Netlify`**
+
+2. The `site` and `sid` items in **`Link Format`** follow the description in the table below: 
+
+   | Site | Link Regexp | Note |
+   |:---:|:----|:-----|
+   | douban | `(https?://)?((movie\|www)\.)?douban\.com/(subject\|movie)/(?P<sid>\d+)/?` | |
+   | douban_celebrity | `(https?://)?movie\.douban\.com/celebrity/(?P<sid>\d+)/?` | |
+   | douban_personage | `(https?://)?www\.douban\.com/personage/(?P<sid>\d+)/?` | **Ourhelp API Only** |
+   | imdb | `(https?://)?www\.imdb\.com/title/(?P<sid>tt\d+)` | |
+   | bangumi | `(https?://)?(bgm\.tv\|bangumi\.tv\|chii\.in)/subject/(?P<sid>\d+)/?` | |
+   | steam | `(https?://)?(store\.)?steam(powered\|community)\.com/app/(?P<sid>\d+)/?` | |
+   | indienova | `(https?://)?indienova\.com/game/(?P<sid>\S+)` | |
+   | epic | `(https?://)?www\.epicgames\.com/store/[a-zA-Z-]+/product/(?P<sid>\S+)/\S?` | |
+
+   - For `douban_personage`, **Ourhelp API** only supports which created from `douban_celebrity` and cached in database.
+
 3. The exported JSON format content is basically the same as that provided by the **Ourhelp API** ([documentation](https://github.com/Rhilip/PT-help/tree/master/modules/infogen)).
    - The fields such as `success, error, copyright, version, format` are not provided in the exported file.
    - The value format of some fields may vary in the export, This is mainly due to the update of PtGen Scrape and outdated crawling cache.
 4. If there is no corresponding site data in current static export, you may try to access the **Ourhelp API** as fallback to auto-generate it.
 5. Additional internal maps are provided only in `internal_map` folder.
-   - Douban Celebrity to Personage Map ([douban_celebrity_map.json](/internal_map/douban_celebrity_map.json)) 
+   - Douban Celebrity to Personage Map ([douban_celebrity_map.json](/internal_map/douban_celebrity_map.json)),
+     since douban only provide `celebrity -> personage` but not `personage -> celebrity`. 
    ```json5
    [
      {
@@ -50,7 +69,8 @@ If you want to use all archive for other purposes, We recommend you use `Downloa
    ]
    ```
     
-    - DoubanId to IMDbId Map ([douban_imdb_map.json](/internal_map/douban_imdb_map.json))	
+    - DoubanId to IMDbId Map ([douban_imdb_map.json](/internal_map/douban_imdb_map.json)),
+      since imdb don't provide `->douban` but douban provide `->imdb`
     ```json5
     [
       {

@@ -1,51 +1,210 @@
 {
     "id": "83551",
+    "aka": [
+        "哈比人：不思議之旅（港）",
+        "哈比人：意外旅程（台）",
+        "The Hobbit: Part 1"
+    ],
     "alt": "https://bgm.tv/subject/83551",
+    "eps": 1,
     "sid": "83551",
     "cast": [
-        "比尔博·巴金斯:马丁·弗瑞曼",
-        "甘道夫:",
-        "莱戈拉斯:",
-        "咕噜姆:安迪·瑟金斯",
-        "萨鲁曼:",
-        "埃尔隆德:",
-        "凯兰崔尔:",
-        "Frodo Baggins:伊利亚·伍德",
-        "吉姆利:"
+        {
+            "id": 70075,
+            "name": "Gandalf",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 95418,
+            "name": "Bilbo Baggins",
+            "actors": [
+                {
+                    "id": 40610,
+                    "name": "Martin Freeman"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 95554,
+            "name": "Legolas",
+            "actors": [],
+            "relation": "主角"
+        },
+        {
+            "id": 69979,
+            "name": "Gollum",
+            "actors": [
+                {
+                    "id": 34596,
+                    "name": "Andy Serkis"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 70117,
+            "name": "Saruman",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 95557,
+            "name": "Elrond",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 118738,
+            "name": "Galadriel",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 95547,
+            "name": "Gimli",
+            "actors": [],
+            "relation": "客串"
+        },
+        {
+            "id": 95621,
+            "name": "Frodo Baggins",
+            "actors": [
+                {
+                    "id": 41654,
+                    "name": "Elijah Wood"
+                }
+            ],
+            "relation": "客串"
+        }
     ],
+    "date": "2012-12-12",
+    "name": "The Hobbit: An Unexpected Journey",
     "site": "bangumi",
-    "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9c/93/83551_fy45d.jpg",
+    "cover": "https://lain.bgm.tv/pic/cover/l/9c/93/83551_fy45d.jpg",
     "staff": [
-        "中文名:霍比特人1：意外之旅",
-        "原作:J.R.R. Tolkien",
-        "导演:Peter Jackson",
-        "编剧:Fran Walsh、Philippa Boyens、Peter Jackson、Guillermo del Toro",
-        "制片人/制作人:Peter Jackson",
-        "副制作人/制作顾问:Andy Serkis",
-        "主演:Martin Freeman、Ian McKellen、Richard Armitage",
-        "配角:Ken Stott、Graham McTavish、Aidan Turner、Dean O'Gorman、Mark Hadlow、Jed Brophy、Adam Brown、John Callen、Peter Hambleton、William Kircher、James Nesbitt、Stephen Hunter、Cate Blanchett、Hugo Weaving、Christopher Lee、Elijah Wood、Ian Holm、Sylvester McCoy、Andy Serkis、Luke Evans、Benedict Cumberbatch、Peter Jackson、Lee Pace、Orlando Bloom",
-        "制作:New Line Cinema、Metro-Goldwyn-Mayer Pictures、WingNut Films",
-        "出品:Warner Bros. Entertainment, Inc",
-        "别名:哈比人：不思議之旅（港）别名:哈比人：意外旅程（台）别名:The Hobbit: Part 1",
-        "别名:哈比人：不思議之旅（港）",
-        "别名:哈比人：意外旅程（台）",
-        "别名:The Hobbit: Part 1",
-        "上映日:2012年12月12日(新西兰) 、2012年12月13日(英国) 、2012年12月14日(美国) 、2013年2月22日(中国大陆)",
-        "片长:169分钟、182分钟(加长版)",
-        "类型:动作、奇幻、冒险",
-        "国家/地区:新西兰、英国、美国",
-        "语言:英语",
-        "官方网站:www.thehobbit.com",
-        "imdb_id:tt0903624",
-        "集数:1",
-        "首播国家:新西兰",
-        "首播地区:2012-11-28(惠灵顿首映)",
-        "音乐:Howard Shore",
-        "摄影:Andrew Lesnie",
-        "剪辑:Jabez Olssen",
-        "制片商:Warner Bros. Pictures",
-        "发行:Warner Bros. Pictures"
+        {
+            "key": "原作",
+            "value": "J.R.R. Tolkien"
+        },
+        {
+            "key": "导演",
+            "value": "Peter Jackson"
+        },
+        {
+            "key": "编剧",
+            "value": "Fran Walsh、Philippa Boyens、Peter Jackson、Guillermo del Toro"
+        },
+        {
+            "key": "音乐",
+            "value": "Howard Shore"
+        },
+        {
+            "key": "制片人/制作人",
+            "value": "Peter Jackson"
+        },
+        {
+            "key": "副制作人/制作顾问",
+            "value": "Andy Serkis"
+        },
+        {
+            "key": "剪辑",
+            "value": "Jabez Olssen"
+        },
+        {
+            "key": "摄影",
+            "value": "Andrew Lesnie"
+        },
+        {
+            "key": "主演",
+            "value": "Martin Freeman、Ian McKellen、Richard Armitage"
+        },
+        {
+            "key": "配角",
+            "value": "Ken Stott、Graham McTavish、Aidan Turner、Dean O'Gorman、Mark Hadlow、Jed Brophy、Adam Brown、John Callen、Peter Hambleton、William Kircher、James Nesbitt、Stephen Hunter、Cate Blanchett、Hugo Weaving、Christopher Lee、Elijah Wood、Ian Holm、Sylvester McCoy、Andy Serkis、Luke Evans、Benedict Cumberbatch"
+        },
+        {
+            "key": "制作",
+            "value": "New Line Cinema、Metro-Goldwyn-Mayer Pictures、WingNut Films"
+        },
+        {
+            "key": "出品",
+            "value": "Warner Bros. Entertainment, Inc"
+        }
     ],
-    "story": "中土最后一座矮人王国埃尔波尔，巍峨壮丽，庄严雄伟。老国王索尔积聚大量财富，却引来恶龙史茅革的觊觎和荼毒，最终导致这座城池陷落。许多年后，灰袍巫师甘道夫（伊恩·麦凯伦 Ian McKellen 饰）找到弗罗多的舅舅——霍比特人比尔博·巴金斯（马丁·弗里曼 Martin John C. Freeman 饰），邀请他加入由13名矮人组成的远征队伍。原来史茅革已多年不见声息，背负家国仇恨的矮人王子索林（理查德·阿米蒂奇 Richard Armitage 饰）希望借此机会收复故土。经过一番考虑，巴金斯决定加入。令他想不到的是，远征旅途多灾多难，与索林结下深仇大恨的苍白半兽人及其爪牙阴魂不散，更有食人鬼和石人制造的无数艰险。而在旅途中，巴金斯也意外得到了日后影响整个中土的重要宝物……本片根据J.R.R·托尔金的同名原著改编。",
-    "update_at": "2024-09-27T10:00:09"
+    "story": "　　中土最后一座矮人王国埃尔波尔，巍峨壮丽，庄严雄伟。老国王索尔积聚大量财富，却引来恶龙史茅革的觊觎和荼毒，最终导致这座城池陷落。许多年后，灰袍巫师甘道夫（伊恩·麦凯伦 Ian McKellen 饰）找到弗罗多的舅舅——霍比特人比尔博·巴金斯（马丁·弗里曼 Martin John C. Freeman 饰），邀请他加入由13名矮人组成的远征队伍。原来史茅革已多年不见声息，背负家国仇恨的矮人王子索林（理查德·阿米蒂奇 Richard Armitage 饰）希望借此机会收复故土。经过一番考虑，巴金斯决定加入。令他想不到的是，远征旅途多灾多难，与索林结下深仇大恨的苍白半兽人及其爪牙阴魂不散，更有食人鬼和石人制造的无数艰险。而在旅途中，巴金斯也意外得到了日后影响整个中土的重要宝物…… \n　　本片根据J.R.R·托尔金的同名原著改编。",
+    "rating": {
+        "rank": 607,
+        "count": {
+            "1": 1,
+            "2": 0,
+            "3": 1,
+            "4": 0,
+            "5": 4,
+            "6": 27,
+            "7": 117,
+            "8": 147,
+            "9": 33,
+            "10": 22
+        },
+        "score": 7.7,
+        "total": 352
+    },
+    "name_cn": "霍比特人1：意外之旅",
+    "platform": "电影",
+    "collection": {
+        "wish": 28,
+        "doing": 3,
+        "collect": 551,
+        "dropped": 2,
+        "on_hold": 0
+    },
+    "infobox_other": [
+        {
+            "key": "上映日",
+            "value": "2012年12月12日(新西兰) 、2012年12月13日(英国) 、2012年12月14日(美国) 、2013年2月22日(中国大陆)"
+        },
+        {
+            "key": "片长",
+            "value": "169分钟、182分钟(加长版)"
+        },
+        {
+            "key": "类型",
+            "value": "动作、奇幻、冒险"
+        },
+        {
+            "key": "国家/地区",
+            "value": "新西兰、英国、美国"
+        },
+        {
+            "key": "语言",
+            "value": "英语"
+        },
+        {
+            "key": "官方网站",
+            "value": "www.thehobbit.com"
+        },
+        {
+            "key": "imdb_id",
+            "value": "tt0903624"
+        },
+        {
+            "key": "首播国家",
+            "value": "新西兰"
+        },
+        {
+            "key": "首播地区",
+            "value": "2012-11-28(惠灵顿首映)"
+        },
+        {
+            "key": "制片商",
+            "value": "Warner Bros. Pictures"
+        },
+        {
+            "key": "发行",
+            "value": "Warner Bros. Pictures"
+        }
+    ],
+    "update_at": "2025-01-20T14:11:29"
 }

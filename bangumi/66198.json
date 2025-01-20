@@ -1,76 +1,583 @@
 {
     "id": "66198",
+    "aka": [
+        "猎魔人3：狂猎",
+        "The Witcher 3 Wild Hunt",
+        "Wiedzmin 3: Dziki Gon"
+    ],
     "alt": "https://bgm.tv/subject/66198",
+    "eps": 0,
     "sid": "66198",
     "cast": [
-        "利维亚的杰洛特:山路和弘、道格·科克尔、陈昊天",
-        "Marabella:Clare Corbett",
-        "温格堡的叶妮芙:田中敦子（声优）、洪海天",
-        "特莉丝·梅利葛德:逢泽由利香、谢莹、Jaimi Barbakoff",
-        "希瑞菈:泽城美雪、张安琪、Jo Wyatt、Anna Cieslak、沈念慈",
-        "维瑟米尔:小形满、程玉珠、威廉·罗伯茨",
-        "丹德里恩:新垣樽助、蒋可、John Schwab",
-        "普西拉:冰青、古川玲、蒋丽",
-        "卓尔坦·齐瓦:楠见尚己、袁国庆、Alexander Morton",
-        "兰伯特:三轮隆博、刘照坤",
-        "艾斯凯尔:福松进纱、贾邱",
-        "恩希尔·恩瑞斯:土师孝也、查尔斯·丹斯、李传缨",
-        "菲利普·斯特伦格:楠见尚己、彭博",
-        "塔玛菈·斯特伦格:陶典",
-        "拉多维德五世:樊俊航、Nico Lennon",
-        "西吉斯蒙德·迪科斯徹:福松进纱、Richard Hawley",
-        "艾瑞汀·布里克·格拉斯:秋元羊介、孟祥龙",
-        "弗农·罗契:赵洋",
-        "克拉奇·奎特:三轮隆博、袁国庆",
-        "凯瑞丝·奎特:加隈亚衣、穆雪婷",
-        "莫尔凡·符里斯:贾邱",
-        "莫斯萨克:安齐一博、符冲",
-        "菲丽芭·艾哈特:汪滢滢",
-        "凯拉·梅兹:田中久美、张琦",
-        "芙琳吉拉·薇歌:",
-        "玛丽·露意莎·拉·瓦雷第:",
-        "Carlo Varese:Alastair Parker",
-        "阿瓦拉克:大川透、季鹤宏",
-        "鹿首精:",
-        "刚特·欧迪姆:刘以嘉",
-        "爱米尔·雷吉斯·洛赫雷课·塔吉夫:许棕哲",
-        "弗尔泰斯特:",
-        "古勒塔的雷索:"
+        {
+            "id": 25981,
+            "name": "Geralt of Rivia",
+            "actors": [
+                {
+                    "id": 5503,
+                    "name": "山路和弘"
+                },
+                {
+                    "id": 39780,
+                    "name": "Doug Cockle"
+                },
+                {
+                    "id": 39841,
+                    "name": "陈昊天"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 33066,
+            "name": "Keira Metz",
+            "actors": [
+                {
+                    "id": 15384,
+                    "name": "たなか久美"
+                },
+                {
+                    "id": 37144,
+                    "name": "张琦"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 42731,
+            "name": "Cirilla",
+            "actors": [
+                {
+                    "id": 4244,
+                    "name": "沢城みゆき"
+                },
+                {
+                    "id": 39844,
+                    "name": "张安琪"
+                },
+                {
+                    "id": 48214,
+                    "name": "Jo Wyatt"
+                },
+                {
+                    "id": 49489,
+                    "name": "Anna Cieslak"
+                },
+                {
+                    "id": 52890,
+                    "name": "沈念慈"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 54087,
+            "name": "Yennefer of Vengerberg",
+            "actors": [
+                {
+                    "id": 3873,
+                    "name": "田中敦子"
+                },
+                {
+                    "id": 39812,
+                    "name": "洪海天"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 54088,
+            "name": "Triss Merigold",
+            "actors": [
+                {
+                    "id": 15785,
+                    "name": "逢沢ゆりか"
+                },
+                {
+                    "id": 39752,
+                    "name": "谢莹"
+                },
+                {
+                    "id": 57519,
+                    "name": "Jaimi Barbakoff"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 54089,
+            "name": "Jaskier/Dandelion",
+            "actors": [
+                {
+                    "id": 5000,
+                    "name": "新垣樽助"
+                },
+                {
+                    "id": 39940,
+                    "name": "蒋可"
+                },
+                {
+                    "id": 57642,
+                    "name": "John Schwab"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 54090,
+            "name": "Zoltan Chivay",
+            "actors": [
+                {
+                    "id": 5036,
+                    "name": "楠見尚己"
+                },
+                {
+                    "id": 39856,
+                    "name": "袁国庆"
+                },
+                {
+                    "id": 57641,
+                    "name": "Alexander Morton"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 54091,
+            "name": "Eredin Bréacc Glas",
+            "actors": [
+                {
+                    "id": 4144,
+                    "name": "秋元羊介"
+                },
+                {
+                    "id": 39852,
+                    "name": "孟祥龙"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 54974,
+            "name": "Emhyr var Emreis",
+            "actors": [
+                {
+                    "id": 4378,
+                    "name": "土師孝也"
+                },
+                {
+                    "id": 42298,
+                    "name": "Charles Dance"
+                },
+                {
+                    "id": 52892,
+                    "name": "李传缨"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 54975,
+            "name": "Avallac‘h",
+            "actors": [
+                {
+                    "id": 4131,
+                    "name": "大川透"
+                },
+                {
+                    "id": 37143,
+                    "name": "海帆"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 54976,
+            "name": "Vesemir",
+            "actors": [
+                {
+                    "id": 4310,
+                    "name": "小形満"
+                },
+                {
+                    "id": 39806,
+                    "name": "程玉珠"
+                },
+                {
+                    "id": 43526,
+                    "name": "William Roberts"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 55000,
+            "name": "Phillip Strenger",
+            "actors": [
+                {
+                    "id": 5036,
+                    "name": "楠見尚己"
+                },
+                {
+                    "id": 39272,
+                    "name": "彭博"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 55006,
+            "name": "Lambert",
+            "actors": [
+                {
+                    "id": 29468,
+                    "name": "三輪隆博"
+                },
+                {
+                    "id": 44222,
+                    "name": "刘照坤"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 55017,
+            "name": "Crach an Craite",
+            "actors": [
+                {
+                    "id": 29468,
+                    "name": "三輪隆博"
+                },
+                {
+                    "id": 39856,
+                    "name": "袁国庆"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 55018,
+            "name": "Eskel",
+            "actors": [
+                {
+                    "id": 4748,
+                    "name": "ふくまつ進紗"
+                },
+                {
+                    "id": 41308,
+                    "name": "贾邱"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 55019,
+            "name": "Sigismund Dijkstra",
+            "actors": [
+                {
+                    "id": 4748,
+                    "name": "ふくまつ進紗"
+                },
+                {
+                    "id": 49490,
+                    "name": "Richard Hawley"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 55021,
+            "name": "Cerys an Craite",
+            "actors": [
+                {
+                    "id": 10806,
+                    "name": "加隈亜衣"
+                },
+                {
+                    "id": 39749,
+                    "name": "穆雪婷"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 63424,
+            "name": "Priscilla",
+            "actors": [
+                {
+                    "id": 4937,
+                    "name": "氷青"
+                },
+                {
+                    "id": 32580,
+                    "name": "古川玲"
+                },
+                {
+                    "id": 39266,
+                    "name": "小N"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 63425,
+            "name": "Mousesack/Ermion",
+            "actors": [
+                {
+                    "id": 32246,
+                    "name": "安斉一博"
+                },
+                {
+                    "id": 39816,
+                    "name": "符冲"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 70419,
+            "name": "Leshy",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 86257,
+            "name": "Morvran Voorhis",
+            "actors": [
+                {
+                    "id": 41308,
+                    "name": "贾邱"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 86272,
+            "name": "Fringilla Vigo",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 86274,
+            "name": "Tamara Strenger",
+            "actors": [
+                {
+                    "id": 33587,
+                    "name": "陶典"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 86275,
+            "name": "Radovid V",
+            "actors": [
+                {
+                    "id": 39831,
+                    "name": "樊俊航"
+                },
+                {
+                    "id": 46363,
+                    "name": "Nico Lennon"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 86276,
+            "name": "Philippa Eilhart",
+            "actors": [
+                {
+                    "id": 41304,
+                    "name": "大汪"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 86279,
+            "name": "Vernon Roche",
+            "actors": [
+                {
+                    "id": 51555,
+                    "name": "赵洋"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 86280,
+            "name": "Maria Louisa La Valette",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 114612,
+            "name": "Carlo Varese",
+            "actors": [
+                {
+                    "id": 47468,
+                    "name": "Alastair Parker"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 141986,
+            "name": "Marabella",
+            "actors": [
+                {
+                    "id": 58113,
+                    "name": "Clare Corbett"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 70922,
+            "name": "Gaunter O'Dimm",
+            "actors": [
+                {
+                    "id": 39807,
+                    "name": "刘以嘉"
+                }
+            ],
+            "relation": "客串"
+        },
+        {
+            "id": 70927,
+            "name": "Emiel Regis Rohellec Terzieff-Godefroy",
+            "actors": [
+                {
+                    "id": 42579,
+                    "name": "许棕哲"
+                }
+            ],
+            "relation": "客串"
+        },
+        {
+            "id": 74561,
+            "name": "Foltest",
+            "actors": [],
+            "relation": "客串"
+        },
+        {
+            "id": 86277,
+            "name": "Letho of Gulet",
+            "actors": [],
+            "relation": "客串"
+        }
     ],
+    "date": "2015-05-19",
+    "name": "The Witcher 3: Wild Hunt",
     "site": "bangumi",
-    "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d4/31/66198_xKTZC.jpg",
+    "cover": "https://lain.bgm.tv/pic/cover/l/d4/31/66198_xKTZC.jpg",
     "staff": [
-        "中文名:巫师3：狂猎",
-        "开发:CD ProjektRed、Saber Interactive(NS移植)",
-        "发行:CD Projekt(波兰)、Warner Bros. Interactive Entertainment(北美)、バンダイナムコエンターテインメント(西欧)、スパイク・チュンソフト(日本)",
-        "原作:Andrzej Sapkowski",
-        "别名:猎魔人3：狂猎",
-        "别名:The Witcher 3 Wild Hunt",
-        "别名:Wiedzmin 3: Dziki Gon",
-        "平台:PC",
-        "平台:PS4",
-        "平台:Xbox One",
-        "平台:Nintendo Switch",
-        "平台:PS5",
-        "平台:Xbox Series X/S",
-        "游戏类型:ARPG",
-        "游戏引擎:REDengine 3",
-        "游玩人数:1人",
-        "发行日期:2015年5月19日",
-        "售价:$59.99",
-        "官方网站:http://www.thewitcher.com",
-        "其他发行日期:2016年8月30日(年度版)",
-        "其他发行日期:2019年10月15日(NS)",
-        "其他发行日期:2022年12月14日(PS5, Xbox Series X/S 次时代版)",
-        "总监:Konrad Tomaszkiewicz、Mateusz Kanik、Sebastian Stępień",
-        "制作人:Piotr Krzywonosiuk、Jędrzej Mróz",
-        "剧本:Marcin Blacha、Mateusz Tomaszkiewicz",
-        "游戏设计师:Grzegorz Mocarski",
-        "美工:Marian Chomiak",
-        "音乐:Marcin Przybylowicz、Mikolai Stroinski",
-        "摄影:Robert Stoneman",
-        "配音导演:Damien Goodwin、Michal Konarski、Kate Saxon"
+        {
+            "key": "开发",
+            "value": "CD Projekt Red、Saber Interactive(NS移植)"
+        },
+        {
+            "key": "发行",
+            "value": "CD Projekt (波兰)、Warner Bros. Interactive Entertainment (北美)、バンダイナムコエンターテインメント(西欧)、スパイク・チュンソフト(日本)"
+        },
+        {
+            "key": "游戏设计师",
+            "value": "Grzegorz Mocarski"
+        },
+        {
+            "key": "剧本",
+            "value": "Marcin Blacha、Mateusz Tomaszkiewicz"
+        },
+        {
+            "key": "美工",
+            "value": "Marian Chomiak"
+        },
+        {
+            "key": "音乐",
+            "value": "Marcin Przybylowicz、Mikolai Stroinski"
+        },
+        {
+            "key": "原作",
+            "value": "Andrzej Sapkowski"
+        },
+        {
+            "key": "制作人",
+            "value": "Piotr Krzywonosiuk、Jędrzej Mróz"
+        }
     ],
-    "story": "《巫师3：狂猎》是一款由波兰游戏工作室CD Projekt RED开发并发行的开放世界动作角色扮演游戏，于2013年2月公布。游戏于2015年5月19日在Microsoft Windows、PlayStation 4和Xbox One平台发布，这也是首款在PlayStation平台发布的巫师系列游戏。本作是巫师系列的第三部作品，同样改编自波兰奇幻小说作家安杰伊·萨普科夫斯基的同名系列小说（中译《猎魔人》），但剧情发生在小说之后。游戏在商业上取得了成功并受到了广泛的赞誉，在六周内销量超过600万，亦获得2015年游戏大奖的最佳年度游戏，以及最佳角色扮演游戏。本作是一款情节驱动的开放世界角色扮演游戏。故事发生在一个令人目眩神迷的奇幻宇宙里，玩家做出的每一个选择都意义重大，同时也要面对影响深远的后果。在《巫师》这个广袤的开放世界中，您可以尽情探索商业都市、海盗岛屿、危险的山隘和被遗忘的洞窟。而随着北方领域战乱四起，您接下了此生最为重大的一笔委托：找到预言之子，一件足以改变世界面貌的活生生的武器。◇ 扮演一名训练有素，收钱办事的怪物杀手猎魔人身处的世界怪物横行。作为一支制衡力量，他们自小接受训练，通过变异来获得超人类的战斗技巧、力量和反应。扮演一名职业怪物杀手，装备一系列可以升级的武器、变种魔药和战斗法术，无情地把对手大卸八块。凶残的野兽徘徊于山间，狡猾的灵异掠食者潜伏在人烟稠密的城镇暗处，而您则要捕杀这些各色的奇异怪物。把您赚取的奖赏用来升级武器，购买订制的盔甲，或者花在赛马、打牌、拳击，还有其它的夜间娱乐生活上。◇ 探索道德沦丧的开放式奇幻世界巫师宏大的开放世界为玩家带来无尽的冒险，并且在规模、深度和复杂性等方面树立了新的标准。遍历奇幻的开放世界：探索被遗忘的废墟、洞穴和沉船，与城市里的商人和矮人工匠做买卖，在开阔的平原、山地和海洋上进行狩猎。与谋反的将领、阴险的女巫还有腐败的皇室打交道，替他们去完成见不得光的危险勾当。做出超越善恶的选择，直面影响深远的后果。◇ 追寻预言之子接下最为重要的一笔委托，追寻预言之子。那是一个可以拯救或是摧毁这个世界的关键。根据古代精灵的预言，预言之子强大无比，是一件活生生的武器。而您则要在纷飞的战火中找到对方的下落。和一心想要控制这个世界的残暴统治者、野外的精怪，乃至于来自来世的威胁斗智斗勇。在这个或许并不值得拯救的世界里，左右自己的命运。◇ 次世代机能的全面发挥专为次世代硬件量身打造的 REDengine 3，把《巫师》的逼真奇幻世界渲染得细腻生动。动态的天气系统和日夜循环，将会改变城镇居民以及野外怪兽的行为模式。通过主线和支线的丰富剧情选择，玩家可以通过前所未有的方式，影响这个宏大的开放世界。",
-    "update_at": "2024-08-23T00:40:12"
+    "story": "《巫师3：狂猎》是一款由波兰游戏工作室CD Projekt RED开发并发行的开放世界动作角色扮演游戏，于2013年2月公布。游戏于2015年5月19日在Microsoft Windows、PlayStation 4和Xbox One平台发布，这也是首款在PlayStation平台发布的巫师系列游戏。\n\n本作是巫师系列的第三部作品，同样改编自波兰奇幻小说作家安杰伊·萨普科夫斯基的同名系列小说（中译《猎魔人》），但剧情发生在小说之后。游戏在商业上取得了成功并受到了广泛的赞誉，在六周内销量超过600万，亦获得2015年游戏大奖的最佳年度游戏，以及最佳角色扮演游戏。\n\n本作是一款情节驱动的开放世界角色扮演游戏。故事发生在一个令人目眩神迷的奇幻宇宙里，玩家做出的每一个选择都意义重大，同时也要面对影响深远的后果。在《巫师》这个广袤的开放世界中，您可以尽情探索商业都市、海盗岛屿、危险的山隘和被遗忘的洞窟。而随着北方领域战乱四起，您接下了此生最为重大的一笔委托：找到预言之子，一件足以改变世界面貌的活生生的武器。\n\n◇ 扮演一名训练有素，收钱办事的怪物杀手\n猎魔人身处的世界怪物横行。作为一支制衡力量，他们自小接受训练，通过变异来获得超人类的战斗技巧、力量和反应。\n扮演一名职业怪物杀手，装备一系列可以升级的武器、变种魔药和战斗法术，无情地把对手大卸八块。\n凶残的野兽徘徊于山间，狡猾的灵异掠食者潜伏在人烟稠密的城镇暗处，而您则要捕杀这些各色的奇异怪物。\n把您赚取的奖赏用来升级武器，购买订制的盔甲，或者花在赛马、打牌、拳击，还有其它的夜间娱乐生活上。\n\n◇ 探索道德沦丧的开放式奇幻世界\n巫师宏大的开放世界为玩家带来无尽的冒险，并且在规模、深度和复杂性等方面树立了新的标准。\n遍历奇幻的开放世界：探索被遗忘的废墟、洞穴和沉船，与城市里的商人和矮人工匠做买卖，在开阔的平原、山地和海洋上进行狩猎。\n与谋反的将领、阴险的女巫还有腐败的皇室打交道，替他们去完成见不得光的危险勾当。\n做出超越善恶的选择，直面影响深远的后果。\n\n◇ 追寻预言之子\n接下最为重要的一笔委托，追寻预言之子。那是一个可以拯救或是摧毁这个世界的关键。\n根据古代精灵的预言，预言之子强大无比，是一件活生生的武器。而您则要在纷飞的战火中找到对方的下落。\n和一心想要控制这个世界的残暴统治者、野外的精怪，乃至于来自来世的威胁斗智斗勇。\n在这个或许并不值得拯救的世界里，左右自己的命运。\n\n◇ 次世代机能的全面发挥\n专为次世代硬件量身打造的 REDengine 3，把《巫师》的逼真奇幻世界渲染得细腻生动。\n动态的天气系统和日夜循环，将会改变城镇居民以及野外怪兽的行为模式。\n通过主线和支线的丰富剧情选择，玩家可以通过前所未有的方式，影响这个宏大的开放世界。",
+    "rating": {
+        "rank": 110,
+        "count": {
+            "1": 7,
+            "2": 1,
+            "3": 5,
+            "4": 12,
+            "5": 41,
+            "6": 130,
+            "7": 381,
+            "8": 899,
+            "9": 1133,
+            "10": 619
+        },
+        "score": 8.5,
+        "total": 3228
+    },
+    "name_cn": "巫师3：狂猎",
+    "platform": "游戏",
+    "collection": {
+        "wish": 662,
+        "doing": 754,
+        "collect": 3501,
+        "dropped": 207,
+        "on_hold": 766
+    },
+    "infobox_other": [
+        {
+            "key": "平台",
+            "value": "PC / PS4 / Xbox One / Nintendo Switch / PS5 / Xbox Series X/S"
+        },
+        {
+            "key": "游戏类型",
+            "value": "ARPG"
+        },
+        {
+            "key": "游戏引擎",
+            "value": "REDengine 3"
+        },
+        {
+            "key": "游玩人数",
+            "value": "1人"
+        },
+        {
+            "key": "发行日期",
+            "value": "2015年5月19日"
+        },
+        {
+            "key": "售价",
+            "value": "$59.99"
+        },
+        {
+            "key": "website",
+            "value": "http://www.thewitcher.com"
+        },
+        {
+            "key": "其他发行日期",
+            "value": "2016年8月30日(年度版) / 2019年10月15日(NS) / 2022年12月14日(PS5, Xbox Series X/S 次时代版)"
+        },
+        {
+            "key": "总监",
+            "value": "Konrad Tomaszkiewicz、Mateusz Kanik、Sebastian Stępień"
+        },
+        {
+            "key": "摄影",
+            "value": "Robert Stoneman"
+        },
+        {
+            "key": "配音导演",
+            "value": "Damien Goodwin、Michal Konarski、Kate Saxon"
+        }
+    ],
+    "update_at": "2025-01-20T14:03:22"
 }

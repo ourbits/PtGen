@@ -1,21 +1,97 @@
 {
     "id": "10197",
     "alt": "https://bgm.tv/subject/10197",
+    "eps": 14,
     "sid": "10197",
     "cast": [
-        "斯坦·马希:特雷·帕克",
-        "肯尼·麦克康米克:马特·斯通",
-        "席拉·布罗福洛夫斯基:莫娜·马歇尔",
-        "蓝迪·马许:"
+        {
+            "id": 28036,
+            "name": "Stan Marsh",
+            "actors": [
+                {
+                    "id": 27916,
+                    "name": "Trey Parker"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 29350,
+            "name": "Kenny McCormick",
+            "actors": [
+                {
+                    "id": 27917,
+                    "name": "Matt Stone"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 1996,
+            "name": "Randy Marsh",
+            "actors": [],
+            "relation": "配角"
+        },
+        {
+            "id": 30812,
+            "name": "Sheila Broflovski",
+            "actors": [
+                {
+                    "id": 51875,
+                    "name": "Mona Marshall"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 157195,
+            "name": "Freddy Krueger",
+            "actors": [],
+            "relation": "客串"
+        }
     ],
+    "date": "2010-03-17",
+    "name": "South Park Season 14",
     "site": "bangumi",
-    "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ea/67/10197_MJR3T.jpg",
+    "cover": "https://lain.bgm.tv/pic/cover/l/ea/67/10197_MJR3T.jpg",
     "staff": [
-        "中文名:南方公园 第14季",
-        "话数:14",
-        "放送开始:2010年3月17日",
-        "製作:MTV"
+        {
+            "key": "製作",
+            "value": "MTV"
+        }
     ],
     "story": "",
-    "update_at": "2024-11-17T03:20:09"
+    "rating": {
+        "rank": 482,
+        "count": {
+            "1": 2,
+            "2": 0,
+            "3": 1,
+            "4": 1,
+            "5": 2,
+            "6": 9,
+            "7": 59,
+            "8": 109,
+            "9": 40,
+            "10": 19
+        },
+        "score": 7.9,
+        "total": 242
+    },
+    "name_cn": "南方公园 第14季",
+    "platform": "TV",
+    "collection": {
+        "wish": 64,
+        "doing": 8,
+        "collect": 436,
+        "dropped": 43,
+        "on_hold": 16
+    },
+    "infobox_other": [
+        {
+            "key": "放送开始",
+            "value": "2010年3月17日"
+        }
+    ],
+    "update_at": "2025-01-20T12:19:00"
 }

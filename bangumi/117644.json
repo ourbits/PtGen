@@ -1,39 +1,175 @@
 {
     "id": "117644",
     "alt": "https://bgm.tv/subject/117644",
+    "eps": 1,
     "sid": "117644",
     "cast": [
-        "钢铁侠:小罗伯特·唐尼",
-        "鹰眼:杰瑞米·雷纳",
-        "美国队长:克里斯·埃文斯",
-        "黑寡妇:斯嘉丽·约翰逊",
-        "佩吉·卡特:海莉·阿特维尔"
+        {
+            "id": 65342,
+            "name": "Tony Stark",
+            "actors": [
+                {
+                    "id": 35106,
+                    "name": "Robert Downey Jr."
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 83181,
+            "name": "Captain America",
+            "actors": [
+                {
+                    "id": 43511,
+                    "name": "Chris Evans"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 99866,
+            "name": "Black Widow",
+            "actors": [
+                {
+                    "id": 35108,
+                    "name": "Scarlett Johansson"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 127695,
+            "name": "Hawkeye",
+            "actors": [
+                {
+                    "id": 44064,
+                    "name": "Jeremy Renner"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 158719,
+            "name": "Peggy Carter",
+            "actors": [
+                {
+                    "id": 64578,
+                    "name": "Hayley Atwell"
+                }
+            ],
+            "relation": "客串"
+        }
     ],
+    "date": "2015-04-24",
+    "name": "Avengers: Age of Ultron",
     "site": "bangumi",
-    "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2a/d3/117644_BzTpy.jpg",
+    "cover": "https://lain.bgm.tv/pic/cover/l/2a/d3/117644_BzTpy.jpg",
     "staff": [
-        "中文名:复仇者联盟2：奥创纪元",
-        "放送星期:星期五",
-        "原作:Marvel Comics",
-        "导演:Joss Whedon",
-        "编剧:Stan Lee、Joss Whedon",
-        "音乐:Brian Tyler、Danny Elfman、Alan Silvestri",
-        "执行制片人:Jon Favreau",
-        "制片人/制作人:Kevin Feige",
-        "主演:Robert Downey Jr.、Chris Hemsworth、Mark Ruffalo、Chris Evans、Scarlett Johansson、Jeremy Renner",
-        "配角:Don Cheadle、Aaron Taylor-Johnson、Elizabeth Olsen、Paul Bettany、Cobie Smulders、Anthony Mackie、Hayley Atwell、Idris Elba、Linda Cardellini、Stellan Skarsgård、James Spader、Samuel L. Jackson、Andy Serkis、Stan Lee",
-        "制作:Marvel Studios",
-        "出品:Walt Disney Pictures",
-        "上映日:2015年4月24日(英国)、2015年5月1日(美国)、2015年5月12日(中国大陆)",
-        "片长:142分钟",
-        "类型:动作、科幻、奇幻、冒险",
-        "国家/地区:美国",
-        "语言:英语",
-        "imdb_id:tt2395427",
-        "集数:1",
-        "首播国家:美国",
-        "首播地区:2015-04-13（杜比剧院）"
+        {
+            "key": "原作",
+            "value": "Marvel Comics"
+        },
+        {
+            "key": "导演",
+            "value": "Joss Whedon"
+        },
+        {
+            "key": "编剧",
+            "value": "Joss Whedon / Stan Lee"
+        },
+        {
+            "key": "音乐",
+            "value": "Brian Tyler、Danny Elfman"
+        },
+        {
+            "key": "执行制片人",
+            "value": "Jon Favreau"
+        },
+        {
+            "key": "制片人/制作人",
+            "value": "Kevin Feige"
+        },
+        {
+            "key": "主演",
+            "value": "Robert Downey Jr.、Chris Hemsworth、Mark Ruffalo、Chris Evans、Scarlett Johansson、Jeremy Renner"
+        },
+        {
+            "key": "配角",
+            "value": "Don Cheadle、Aaron Taylor-Johnson、Elizabeth Olsen、Paul Bettany、Cobie Smulders、Anthony Mackie、Hayley Atwell、Idris Elba、Linda Cardellini、Stellan Skarsgård、James Spader、Samuel L. Jackson"
+        },
+        {
+            "key": "制作",
+            "value": "Marvel Studios"
+        },
+        {
+            "key": "出品",
+            "value": "Walt Disney Pictures"
+        }
     ],
-    "story": "托尼·史塔克想要启动一个搁置的维护世界和平的项目，但搞砸了。地球命悬一刻，复联成员除了需要对付老“朋友”奥创，还得分神应对两个神秘而强大的新“对手”：猩红女巫与快银。",
-    "update_at": "2024-09-04T15:20:07"
+    "story": "　　托尼·史塔克想要启动一个搁置的维护世界和平的项目，但搞砸了。地球命悬一刻，复联成员除了需要对付老“朋友”奥创，还得分神应对两个神秘而强大的新“对手”：猩红女巫与快银。 ",
+    "rating": {
+        "rank": 2708,
+        "count": {
+            "1": 1,
+            "2": 3,
+            "3": 8,
+            "4": 12,
+            "5": 53,
+            "6": 166,
+            "7": 161,
+            "8": 48,
+            "9": 5,
+            "10": 4
+        },
+        "score": 6.4,
+        "total": 461
+    },
+    "name_cn": "复仇者联盟2：奥创纪元",
+    "platform": "电影",
+    "collection": {
+        "wish": 7,
+        "doing": 2,
+        "collect": 755,
+        "dropped": 2,
+        "on_hold": 1
+    },
+    "infobox_other": [
+        {
+            "key": "上映日",
+            "value": "2015年4月24日(英国)、2015年5月1日(美国)、2015年5月12日(中国大陆)"
+        },
+        {
+            "key": "片长",
+            "value": "142分钟"
+        },
+        {
+            "key": "类型",
+            "value": "动作、科幻、奇幻、冒险"
+        },
+        {
+            "key": "国家/地区",
+            "value": "美国"
+        },
+        {
+            "key": "语言",
+            "value": "英语"
+        },
+        {
+            "key": "imdb_id",
+            "value": "tt2395427"
+        },
+        {
+            "key": "放送星期",
+            "value": "星期五"
+        },
+        {
+            "key": "首播国家",
+            "value": "美国"
+        },
+        {
+            "key": "首播地区",
+            "value": "2015-04-13（杜比剧院）"
+        }
+    ],
+    "update_at": "2025-01-20T12:26:41"
 }

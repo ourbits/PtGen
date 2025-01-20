@@ -1,29 +1,176 @@
 {
     "id": "265712",
     "alt": "https://bgm.tv/subject/265712",
+    "eps": 10,
     "sid": "265712",
     "cast": [
-        "ラルフ・Ｃ・ベルモンド:置鲇龙太郎、理查德·阿米蒂奇",
-        "サイファ・ヴェルナンデス:亚历贾德拉·雷诺索",
-        "阿鲁卡多:三木真一郎、詹姆斯·卡利斯",
-        "德古拉:内田直哉、格拉汉姆·麦克泰维什",
-        "赫克托:樱井孝宏、西奥·詹姆斯",
-        "丽诺尔:黑木彩加",
-        "Sumi:宫本佳那子、福岛莉拉",
-        "卡蜜拉:吉米-莫瑞"
+        {
+            "id": 10834,
+            "name": "アルカード",
+            "actors": [
+                {
+                    "id": 4101,
+                    "name": "三木眞一郎"
+                },
+                {
+                    "id": 43193,
+                    "name": "James Callis"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 99037,
+            "name": "ラルフ・Ｃ・ベルモンド",
+            "actors": [
+                {
+                    "id": 3976,
+                    "name": "置鮎龍太郎"
+                },
+                {
+                    "id": 42386,
+                    "name": "Richard Armitage"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 111040,
+            "name": "サイファ・ヴェルナンデス",
+            "actors": [
+                {
+                    "id": 46229,
+                    "name": "Alejandra Reynoso"
+                }
+            ],
+            "relation": "主角"
+        },
+        {
+            "id": 10845,
+            "name": "ドラキュラ",
+            "actors": [
+                {
+                    "id": 3888,
+                    "name": "内田直哉"
+                },
+                {
+                    "id": 47053,
+                    "name": "Graham McTavish"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 100135,
+            "name": "ヘクター",
+            "actors": [
+                {
+                    "id": 4015,
+                    "name": "櫻井孝宏"
+                },
+                {
+                    "id": 43192,
+                    "name": "Theo James"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 101237,
+            "name": "Lenore",
+            "actors": [
+                {
+                    "id": 43589,
+                    "name": "黒木彩加"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 110106,
+            "name": "Sumi",
+            "actors": [
+                {
+                    "id": 7057,
+                    "name": "宮本佳那子"
+                },
+                {
+                    "id": 45493,
+                    "name": "福島リラ"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 111039,
+            "name": "カーミラ",
+            "actors": [
+                {
+                    "id": 46225,
+                    "name": "Jaime Murray"
+                }
+            ],
+            "relation": "配角"
+        }
     ],
+    "date": "2020-03-05",
+    "name": "Castlevania Season 3",
     "site": "bangumi",
-    "cover": "https://lain.bgm.tv/r/400/pic/cover/l/27/3b/265712_hv6i4.jpg",
+    "cover": "https://lain.bgm.tv/pic/cover/l/27/3b/265712_hv6i4.jpg",
     "staff": [
-        "中文名:恶魔城 第三季",
-        "话数:10",
-        "放送开始:2020年3月5日",
-        "原作:KONAMI",
-        "制作:Netflix",
-        "动画制作:Frederator Studios",
-        "播放网站:Netflix",
-        "imdb_id:tt9217782"
+        {
+            "key": "原作",
+            "value": "KONAMI"
+        },
+        {
+            "key": "制作",
+            "value": "Netflix"
+        },
+        {
+            "key": "动画制作",
+            "value": "Frederator Studios"
+        }
     ],
     "story": "贝尔蒙特和赛法尔在一个藏有邪恶秘密的村庄里安顿下来。阿鲁卡多为一对仰慕者提供指导。艾萨克开始寻找赫克托的下落。",
-    "update_at": "2024-08-25T07:40:02"
+    "rating": {
+        "rank": 4043,
+        "count": {
+            "1": 2,
+            "2": 1,
+            "3": 3,
+            "4": 5,
+            "5": 21,
+            "6": 75,
+            "7": 90,
+            "8": 30,
+            "9": 7,
+            "10": 7
+        },
+        "score": 6.6,
+        "total": 241
+    },
+    "name_cn": "恶魔城 第三季",
+    "platform": "WEB",
+    "collection": {
+        "wish": 131,
+        "doing": 20,
+        "collect": 370,
+        "dropped": 24,
+        "on_hold": 18
+    },
+    "infobox_other": [
+        {
+            "key": "放送开始",
+            "value": "2020年3月5日"
+        },
+        {
+            "key": "播放网站",
+            "value": "Netflix"
+        },
+        {
+            "key": "imdb_id",
+            "value": "tt9217782"
+        }
+    ],
+    "update_at": "2025-01-20T13:15:10"
 }
