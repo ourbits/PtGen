@@ -5,47 +5,46 @@
     "site": "imdb",
     "year": "2020",
     "@type": "Movie",
-    "genre": "Short",
+    "genre": [
+        "Short"
+    ],
+    "critic": 0,
     "poster": null,
     "details": {
-        "Color": "Color",
-        "Country": "Germany",
-        "Runtime": "11 min",
-        "Language": "English",
-        "Release Date": "28 September 2020 (USA)",
-        "Official Sites": "Page on Director's Website"
+        "Language": [
+            "English"
+        ],
+        "Release date": [
+            "September 28, 2020 (United States)"
+        ],
+        "Official site": [
+            "Page on Director's Website - http://www.sylviaschedelbauer.com/films/labor_of_love/index.html"
+        ],
+        "Country of origin": [
+            "Germany"
+        ]
     },
     "imdb_id": "tt13219352",
+    "reviews": 0,
     "duration": "PT11M",
     "keywords": [
         ""
     ],
     "directors": [
         {
-            "url": "/name/nm2540336/",
+            "url": "https://www.imdb.com/name/nm2540336/",
             "name": "Sylvia Schedelbauer"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt13219352/",
-    "imdb_votes": 0,
-    "description": null,
-    "imdb_rating": "0/10 from 0 users",
-    "release_date": [
-        {
-            "date": "28 September 2020",
-            "country": "USA"
-        },
-        {
-            "date": "19 March 2021",
-            "country": "Spain"
-        },
-        {
-            "date": "24 March 2021",
-            "country": "Mexico"
-        }
-    ],
+    "metascore": null,
+    "imdb_votes": 12,
+    "popularity": 0,
+    "description": "An expanding feeling, unfolding new inflections - forever different, forever changing.",
+    "imdb_rating": "7.6/10 from 12 users",
+    "release_date": [],
     "contentRating": null,
     "datePublished": "2020-09-28",
-    "imdb_rating_average": 0,
-    "update_at": "2024-07-10T09:00:04"
+    "imdb_rating_average": 7.6,
+    "update_at": "2025-01-21T15:11:22"
 }

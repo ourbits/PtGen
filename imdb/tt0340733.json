@@ -4,24 +4,31 @@
     "name": "Gong min cong zhe li dan sheng",
     "site": "imdb",
     "@type": "Movie",
-    "genre": "Drama",
+    "genre": [
+        "Drama"
+    ],
     "actors": [
         {
-            "url": "/name/nm1280150/",
+            "url": "https://www.imdb.com/name/nm1280150/",
             "name": "Ying Lin"
         },
         {
-            "url": "/name/nm1253834/",
+            "url": "https://www.imdb.com/name/nm1253834/",
             "name": "Ping Yu"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Color": "Color",
-        "Country": "China",
-        "Language": "Mandarin",
-        "Production Co": "Youth Film Studio"
+        "Language": [
+            "Mandarin"
+        ],
+        "Country of origin": [
+            "China"
+        ],
+        "Production company": [
+            "Youth Film Studio"
+        ]
     },
     "imdb_id": "tt0340733",
     "reviews": 1,
@@ -32,17 +39,19 @@
     ],
     "directors": [
         {
-            "url": "/name/nm1253699/",
+            "url": "https://www.imdb.com/name/nm1253699/",
             "name": "Shuihan Wang"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0340733/",
+    "metascore": null,
     "imdb_votes": 0,
+    "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
     "datePublished": null,
     "imdb_rating_average": 0,
-    "update_at": "2024-06-11T23:40:16"
+    "update_at": "2025-01-21T06:11:12"
 }

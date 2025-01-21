@@ -8,15 +8,15 @@ If you want to use all archive for other purposes, We recommend you use `Downloa
 
 ## Update Status
 
-- Last update at: `2025-01-21 00:17:35` (CET, UTC+01:00)
+- Last update at: `2025-01-21 23:00:18` (CET, UTC+01:00)
 - Last data summary:
 
 | Source Site | Count |
 |:----:|----:|
-| douban | 71166 |
-| douban_celebrity | 5097 |
-| imdb | 29097 |
-| bangumi | 2258 |
+| douban | 71389 |
+| douban_celebrity | 5972 |
+| imdb | 29504 |
+| bangumi | 7659 |
 | steam | 1417 |
 | indienova | 150 |
 | epic | 13 |
@@ -57,25 +57,24 @@ If you want to use all archive for other purposes, We recommend you use `Downloa
    - The value format of some fields may vary in the export, This is mainly due to the update of PtGen Scrape and outdated crawling cache.
 4. If there is no corresponding site data in current static export, you may try to access the **Ourhelp API** as fallback to auto-generate it.
 5. Additional internal maps are provided only in `internal_map` folder.
-   - Douban Celebrity to Personage Map ([douban_celebrity_map.json](/internal_map/douban_celebrity_map.json)),
-     since douban only provide `celebrity -> personage` but not `personage -> celebrity`. 
-   ```json5
-   [
-     {
-       "cid": 1000167,                        // id in link: https://movie.douban.com/celebrity/{cid}/
-       "pid": 27205857,                       // id in link: https://www.douban.com/personage/{pid}/
-       "name": "艾米·塞德丽丝 Amy Sedaris"    // quick note of 'name' for this map
-     },
-   ]
-   ```
-    
-    - DoubanId to IMDbId Map ([douban_imdb_map.json](/internal_map/douban_imdb_map.json)),
-      since imdb don't provide `->douban` but douban provide `->imdb`
+   - [douban_celebrity_map.json](/internal_map/douban_celebrity_map.json) for `douban_celebrity <-> douban_personage <-> imdb_id`
     ```json5
     [
       {
-        "dbid": 10000796,                     // id in link: https://movie.douban.com/subject/{dbid}/
-        "imdbid": "tt1247209",                // id in link: https://www.imdb.com/title/{imdbid}/
+        "cid": 1000167,                        // for link: https://movie.douban.com/celebrity/{cid}/
+        "pid": 27205857,                       // for link: https://www.douban.com/personage/{pid}/
+        "imdb_id": "nm0781238",                // for link: https://www.imdb.com/name/{imdb_id}/
+        "name": "艾米·塞德丽丝 Amy Sedaris"    // quick note of 'name' for this map
+      },
+    ]
+    ```
+    
+    - [douban_imdb_map.json](/internal_map/douban_imdb_map.json) for `douban_id <-> imdb_id`
+    ```json5
+    [
+      {
+        "dbid": 10000796,                     // for link: https://movie.douban.com/subject/{dbid}/
+        "imdbid": "tt1247209",                // for link: https://www.imdb.com/title/{imdbid}/
         "name": "Hola?",                      // quick note of 'name' for this map
         "year": "2008"                        // quick note of 'year' for this map
       },
