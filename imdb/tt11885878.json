@@ -1,40 +1,44 @@
 {
     "aka": [],
-    "sid": "11885878",
+    "sid": "tt11885878",
     "name": "Ochir",
     "site": "imdb",
     "year": "1933",
     "@type": "Movie",
-    "genre": "Drama",
+    "genre": [
+        "Drama"
+    ],
     "actors": [
         {
-            "url": "/name/nm0451950/",
+            "url": "https://www.imdb.com/name/nm0451950/",
             "name": "Nikolai Khryashchikov"
         },
         {
-            "url": "/name/nm11389429/",
+            "url": "https://www.imdb.com/name/nm11389429/",
             "name": "B. Kushlykov"
         },
         {
-            "url": "/name/nm11389428/",
+            "url": "https://www.imdb.com/name/nm11389428/",
             "name": "S. Musov"
-        },
-        {
-            "url": "/name/nm0620473/",
-            "name": "Zula Nakhashkiyev"
         }
     ],
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmY0YjgzNjMtYjM5MS00NTY1LWJkMGUtNDFmYmM0NGZhNGEwXkEyXkFqcGdeQXVyNTAxMTUwNDQ@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmJiMDlmMTktMTQ1My00ZmU1LWI2NDEtMzA1MmQxYjU0N2ExXkEyXkFqcGc@._V1_.jpg",
     "details": {
-        "Color": "Black and White",
-        "Language": "Russian",
-        "Release Date": "13 July 1933 (Soviet Union)",
-        "Official Sites": "Web Site (Russian)"
+        "Language": [
+            "Russian"
+        ],
+        "Release date": [
+            "July 13, 1933 (Soviet Union)"
+        ],
+        "Official site": [
+            "Web Site - https://www.kino-teatr.ru/kino/movie/sov/85397/annot/"
+        ]
     },
-    "imdb_id": "tt11885878",
+    "reviews": 0,
     "creators": [
         {
-            "url": "/name/nm1466064/",
+            "url": "https://www.imdb.com/name/nm1466064/",
             "name": "Darya Shpirkan"
         }
     ],
@@ -44,22 +48,19 @@
     ],
     "directors": [
         {
-            "url": "/name/nm1466064/",
+            "url": "https://www.imdb.com/name/nm1466064/",
             "name": "Darya Shpirkan"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt11885878/",
-    "imdb_votes": 0,
+    "metascore": null,
+    "imdb_votes": 5,
+    "popularity": 0,
     "description": null,
-    "imdb_rating": "0/10 from 0 users",
-    "release_date": [
-        {
-            "date": "13 July 1933",
-            "country": "Soviet Union"
-        }
-    ],
+    "imdb_rating": "3.4/10 from 5 users",
+    "release_date": [],
     "contentRating": null,
     "datePublished": "1933-07-13",
-    "imdb_rating_average": 0,
-    "update_at": "2024-07-01T05:00:22"
+    "imdb_rating_average": 3.4,
+    "update_at": "2025-01-28T22:33:16"
 }
