@@ -1,57 +1,78 @@
 {
     "aka": [],
-    "sid": "11418274",
+    "sid": "tt11418274",
     "name": "Our Nature",
     "site": "imdb",
     "year": "2019",
     "@type": "Movie",
-    "genre": "Documentary",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmNmY2MxMjctZmIzZC00NTk2LTgxYWYtNzI3MGI0MGI5NjY4XkEyXkFqcGdeQXVyNjgwNjY1Mw@@._V1_.jpg",
+    "genre": [
+        "Documentary"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm5249690/",
+            "name": "John J. Malone"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4242556/",
+            "name": "Rainer Schöne"
+        }
+    ],
+    "critic": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzgwYzI0MTMtOWE4NS00MDJiLThmMjAtZGU0Y2QwOWI3OTVjXkEyXkFqcGc@._V1_.jpg",
     "details": {
-        "Color": "Color",
-        "Country": "Germany",
-        "Language": "English",
-        "Release Date": "25 January 2019 (Germany)",
-        "Production Co": "Little Brother Films",
-        "Official Sites": "link to the official site of lb films"
+        "Language": [
+            "English"
+        ],
+        "Release date": [
+            "January 25, 2019 (Germany)"
+        ],
+        "Official site": [
+            "link to the official site of lb films - https://lbfilms.de/"
+        ],
+        "Country of origin": [
+            "Germany"
+        ],
+        "Production companies": [
+            "Lausbuben Films",
+            "Little Brother Films",
+            "Vision Films"
+        ]
     },
-    "imdb_id": "tt11418274",
+    "reviews": 0,
     "creators": [
         {
-            "url": "/name/nm9223593/",
+            "url": "https://www.imdb.com/name/nm9223593/",
             "name": "Ekrem Engizek"
         },
         {
-            "url": "/name/nm1698961/",
+            "url": "https://www.imdb.com/name/nm1698961/",
             "name": "Timo Joh. Mayer"
         }
     ],
-    "duration": null,
+    "duration": "PT49M",
     "keywords": [
         ""
     ],
     "directors": [
         {
-            "url": "/name/nm9223593/",
+            "url": "https://www.imdb.com/name/nm9223593/",
             "name": "Ekrem Engizek"
         },
         {
-            "url": "/name/nm1698961/",
+            "url": "https://www.imdb.com/name/nm1698961/",
             "name": "Timo Joh. Mayer"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt11418274/",
-    "imdb_votes": 5,
-    "description": null,
-    "imdb_rating": "5.0/10 from 5 users",
-    "release_date": [
-        {
-            "date": "25 January 2019",
-            "country": "Germany"
-        }
-    ],
+    "metascore": null,
+    "imdb_votes": 50,
+    "popularity": 0,
+    "description": "A documentary about the wild nature we coexist with, this short film sheds light on the many different animals of the sea, sky, and land that are important to our ecosystem and how we&apos;ve treated them for centuries.",
+    "imdb_rating": "5.6/10 from 50 users",
+    "release_date": [],
     "contentRating": null,
     "datePublished": "2019-01-25",
-    "imdb_rating_average": "5.0",
-    "update_at": "2024-08-09T07:00:13"
+    "imdb_rating_average": 5.6,
+    "update_at": "2025-02-20T03:00:10"
 }
