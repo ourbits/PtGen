@@ -1,45 +1,50 @@
 {
     "aka": [],
-    "sid": "1334455",
+    "sid": "tt1334455",
     "name": "Hit Parade",
     "site": "imdb",
     "year": "2010",
     "@type": "Movie",
-    "genre": "Crime",
+    "genre": [
+        "Crime"
+    ],
     "actors": [
         {
-            "url": "/name/nm2112361/",
+            "url": "https://www.imdb.com/name/nm2112361/",
             "name": "Jonathan Browning"
         },
         {
-            "url": "/name/nm0108563/",
+            "url": "https://www.imdb.com/name/nm0108563/",
             "name": "Scott Brick"
         },
         {
-            "url": "/name/nm1736049/",
+            "url": "https://www.imdb.com/name/nm1736049/",
             "name": "Mariah Robinson"
-        },
-        {
-            "url": "/name/nm0486834/",
-            "name": "Nicholas Lanier"
         }
     ],
     "critic": 0,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTA1Nzk1MTY3NDdeQTJeQWpwZ15BbWU4MDM0MDMwNjAx._V1_.jpg",
     "details": {
-        "Color": "Color",
-        "Country": "USA",
-        "Language": "English",
-        "Aspect Ratio": "2.35 : 1",
-        "Release Date": "13 July 2010 (USA)",
-        "Production Co": "Man of Action",
-        "Official Sites": "Official site"
+        "Language": [
+            "English"
+        ],
+        "Release date": [
+            "July 13, 2010 (United States)"
+        ],
+        "Official site": [
+            "Official site - http://www.hitparadethemovie.com/"
+        ],
+        "Country of origin": [
+            "United States"
+        ],
+        "Production company": [
+            "Man of Action"
+        ]
     },
-    "imdb_id": "tt1334455",
     "reviews": 1,
     "creators": [
         {
-            "url": "/name/nm1424524/",
+            "url": "https://www.imdb.com/name/nm1424524/",
             "name": "Joe Casey"
         }
     ],
@@ -49,22 +54,19 @@
     ],
     "directors": [
         {
-            "url": "/name/nm1424524/",
+            "url": "https://www.imdb.com/name/nm1424524/",
             "name": "Joe Casey"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1334455/",
-    "imdb_votes": 47,
-    "description": "Hit Parade is a movie starring Jonathan Browning, Scott Brick, and Mariah Robinson. Jerome Archer is a retired hit man living the straight life as a retail bookstore manager. When he is coerced by a pair of industrious United States...",
-    "imdb_rating": "4.8/10 from 47 users",
-    "release_date": [
-        {
-            "date": "13 July 2010",
-            "country": "USA"
-        }
-    ],
+    "metascore": null,
+    "imdb_votes": 60,
+    "popularity": 0,
+    "description": "Jerome Archer is a retired hit man living the straight life as a retail bookstore manager. When he is coerced by a pair of industrious United States Census Bureau agents to hunt down a dangerous, young contract killer, Jerome sudd...",
+    "imdb_rating": "4.7/10 from 60 users",
+    "release_date": [],
     "contentRating": "Not Rated",
     "datePublished": "2010-07-13",
-    "imdb_rating_average": "4.8",
-    "update_at": "2024-10-06T10:00:03"
+    "imdb_rating_average": 4.7,
+    "update_at": "2025-03-07T03:49:04"
 }
