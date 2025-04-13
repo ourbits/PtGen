@@ -8,14 +8,14 @@ If you want to use all archive for other purposes, We recommend you use `Downloa
 
 ## Update Status
 
-- Last update at: `2025-04-12 23:01:05` (CET, UTC+01:00)
+- Last update at: `2025-04-13 23:01:15` (CET, UTC+01:00)
 - Last data summary:
 
 | Source Site | Count |
 |:----:|----:|
-| douban | 227086 |
-| douban_celebrity | 186941 |
-| imdb | 115799 |
+| douban | 229048 |
+| douban_celebrity | 188913 |
+| imdb | 116603 |
 | bangumi | 8463 |
 | steam | 1417 |
 | indienova | 150 |
