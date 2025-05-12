@@ -8,14 +8,14 @@ If you want to use all archive for other purposes, We recommend you use `Downloa
 
 ## Update Status
 
-- Last update at: `2025-05-11 23:01:01` (CET, UTC+01:00)
+- Last update at: `2025-05-12 23:01:09` (CET, UTC+01:00)
 - Last data summary:
 
 | Source Site | Count |
 |:----:|----:|
-| douban | 280029 |
-| douban_celebrity | 240821 |
-| imdb | 141919 |
+| douban | 281794 |
+| douban_celebrity | 242629 |
+| imdb | 142952 |
 | bangumi | 8463 |
 | steam | 1417 |
 | indienova | 150 |
@@ -30,10 +30,10 @@ If you want to use all archive for other purposes, We recommend you use `Downloa
     | Provider | Status | Link Format | Note |
     | :----: | :----: | :---- | :---- |
     | Github Pages | [![Github Pages](https://github.com/ourbits/PtGen/actions/workflows/pages/pages-build-deployment/badge.svg)](https://ourbits.github.io/PtGen/) | `https://ourbits.github.io/PtGen/<site>/<sid>.json` | Static |
-    | Vercel | [![Vercel](https://deploy-badge.vercel.app/vercel/pt-gen)](https://pt-gen.vercel.app/) | `https://pt-gen.vercel.app/<site>/<sid>.json` | Static |
-    | Netlify | [![Netlify Status](https://api.netlify.com/api/v1/badges/2c38014e-a216-48f3-ae25-457672166279/deploy-status)](https://pt-gen.netlify.app/) | `https://pt-gen.netlify.app/<site>/<sid>.json` | Static |
     | Ourhelp CDN | [![Ourhelp CDN](https://img.shields.io/website?url=https%3A%2F%2Fcdn.ourhelp.club%2Fptgen%2FREADME.md)](https://cdn.ourhelp.club/ptgen/) | `https://cdn.ourhelp.club/ptgen/<site>/<sid>.json` | Static, Selfhosted |
     | Ourhelp API | [![Ourhelp API](https://img.shields.io/website?url=https%3A%2F%2Fapi.ourhelp.club%2Finfogen)](https://api.ourhelp.club/infogen) | `https://api.ourhelp.club/infogen?site=<site>&sid=<sid>` | Dynamic, CORS, Ratelimit |
+    | ~~Vercel~~ | [![Vercel](https://img.shields.io/badge/Build-Out_Dated-red)](https://pt-gen.vercel.app/) | `https://pt-gen.vercel.app/<site>/<sid>.json` | Static |
+    | ~~Netlify~~ | [![Netlify Status](https://img.shields.io/badge/Build-Out_Dated-red)](https://pt-gen.netlify.app/) | `https://pt-gen.netlify.app/<site>/<sid>.json` | Static |
    
    - Build Workflow: **`Ourhelp API`** -> static export -> **`Ourhelp CDN`** -> git push -> **`Github Pages`** -> sync -> **`Vercel, Netlify`**
 
