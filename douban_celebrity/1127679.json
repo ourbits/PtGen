@@ -16,104 +16,74 @@
     "birth_place": "美国,加利福尼亚州",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1305430/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2568674602.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "愤怒管理",
-            "subject_id": "1305430"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5128337/",
+            "id": 5128337,
             "year": "2002",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2151311485.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
             "title": "鲁巴琼斯的学校生活",
-            "subject_id": "5128337"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4184147/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873977108.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "What's New, Scooby-Doo?",
-            "subject_id": "4184147"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1303248/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512169537.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "迈克斯的壮举",
-            "subject_id": "1303248"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1937410/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539472818.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "武士杰克 第一季",
-            "subject_id": "1937410"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1306144/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1347989514.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "两个故事一个启示",
-            "subject_id": "1306144"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3057402/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2541999486.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "滑板少年2",
-            "subject_id": "3057402"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5094017/",
+            "id": 5094017,
             "year": "1999",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2573248520.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Payne",
-            "subject_id": "5094017"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1890057/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2552175861.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "女法官艾米 第一季",
-            "subject_id": "1890057"
+            "id": 4184147,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873977108.jpg",
+            "title": "What's New, Scooby-Doo?",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3001829/",
+            "id": 3057402,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2541999486.jpg",
+            "title": "滑板少年2",
+            "release": 1
+        },
+        {
+            "id": 3001829,
             "year": "1999",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2890731268.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "一周八天",
-            "subject_id": "3001829"
+            "release": 1
+        },
+        {
+            "id": 1937410,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539472818.jpg",
+            "title": "武士杰克 第一季",
+            "release": 1
+        },
+        {
+            "id": 1890057,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2552175861.jpg",
+            "title": "女法官艾米 第一季",
+            "release": 1
+        },
+        {
+            "id": 1306144,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1347989514.jpg",
+            "title": "两个故事一个启示",
+            "release": 1
+        },
+        {
+            "id": 1305430,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2568674602.jpg",
+            "title": "愤怒管理",
+            "release": 1
+        },
+        {
+            "id": 1303248,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512169537.jpg",
+            "title": "迈克斯的壮举",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -126,5 +96,5 @@
     "name_more_other": [
         "Jonathan Stuart Osser (本名)"
     ],
-    "update_at": "2025-01-15T16:06:29"
+    "update_at": "2025-06-16T11:28:10"
 }

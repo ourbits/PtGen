@@ -17,120 +17,81 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35288801/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2639616844.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "平面图",
-            "subject_id": "35288801"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35343840/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2631649668.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "伤心蛋糕",
-            "subject_id": "35343840"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35441648/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2641772749.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "骨头与篝火",
-            "subject_id": "35441648"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30388205/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868231745.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "她房间里的云",
-            "subject_id": "30388205"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35441651/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2641772818.jpg",
-            "roles": [
-                "演员",
-                "导演",
-                "编剧"
-            ],
-            "title": "在梦",
-            "subject_id": "35441651"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35441641/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2641772633.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "蓝洞",
-            "subject_id": "35441641"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35441655/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2641772937.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "活生",
-            "subject_id": "35441655"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36309530/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2889902903.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "模仿生活II：红苹果乐园",
-            "subject_id": "36309530"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26942859/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2514256370.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "模仿生活",
-            "subject_id": "26942859"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36310053/",
+            "id": 36310053,
             "year": "2016",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899057673.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "模仿生活II：丢失的王子",
-            "subject_id": "36310053"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35234557/",
+            "id": 36309530,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2889902903.jpg",
+            "title": "模仿生活II：红苹果乐园",
+            "release": 1
+        },
+        {
+            "id": 35441655,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2641772937.jpg",
+            "title": "活生",
+            "release": 1
+        },
+        {
+            "id": 35441651,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2641772818.jpg",
+            "title": "在梦",
+            "release": 1
+        },
+        {
+            "id": 35441648,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2641772749.jpg",
+            "title": "骨头与篝火",
+            "release": 1
+        },
+        {
+            "id": 35441641,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2641772633.jpg",
+            "title": "蓝洞",
+            "release": 1
+        },
+        {
+            "id": 35343840,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2631649668.jpg",
+            "title": "伤心蛋糕",
+            "release": 1
+        },
+        {
+            "id": 35288801,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2922271685.jpg",
+            "title": "平面图",
+            "release": 1
+        },
+        {
+            "id": 35234557,
             "year": "2027",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2624192653.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "扔你的猫",
-            "subject_id": "35234557"
+            "release": 0
+        },
+        {
+            "id": 30388205,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868231745.jpg",
+            "title": "她房间里的云",
+            "release": 1
+        },
+        {
+            "id": 26942859,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2514256370.jpg",
+            "title": "模仿生活",
+            "release": 1
         }
     ],
     "introduction": "陈轴永远是一个新导演",
@@ -141,5 +102,5 @@
     "personage_link": "https://www.douban.com/personage/30282812/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-15T16:30:39"
+    "update_at": "2025-06-16T06:21:11"
 }

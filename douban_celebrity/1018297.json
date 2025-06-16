@@ -19,116 +19,81 @@
     "birth_place": "美国,密苏里州,大学城",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/34960014/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2583400838.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "寻找明日",
-            "subject_id": "34960014"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36209107/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2886231937.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "怒之电玩煞星 第十六季",
-            "subject_id": "36209107"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36705856/",
+            "id": 36705856,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2902492135.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Expedition: Back to the Future Season 1",
-            "subject_id": "36705856"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30240062/",
+            "id": 36209107,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2886231937.jpg",
+            "title": "怒之电玩煞星 第十六季",
+            "release": 1
+        },
+        {
+            "id": 35138508,
+            "year": "2028",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "回到未来：永恒",
+            "release": 0
+        },
+        {
+            "id": 34960014,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875729251.jpg",
+            "title": "寻找明日",
+            "release": 1
+        },
+        {
+            "id": 30240062,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2551154849.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "创造约翰·德罗宁",
-            "subject_id": "30240062"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26970810/",
+            "id": 26970810,
             "year": "2010",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2425812499.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "来自未来的故事",
-            "subject_id": "26970810"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4232369/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "Looking Back at the Future",
-            "subject_id": "4232369"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6774215/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2709395181.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "制作“回到未来”三部曲",
-            "subject_id": "6774215"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1299270/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2492755305.jpg",
-            "roles": [
-                "导演",
-                "制片人",
-                "编剧"
-            ],
-            "title": "神采公路",
-            "subject_id": "1299270"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1301572/",
-            "year": "1996",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2395606125.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "青楼禁地",
-            "subject_id": "1301572"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26687788/",
+            "id": 26687788,
             "year": "1996",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2716707315.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "《一九四一》制作纪录",
-            "subject_id": "26687788"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35138508/",
-            "year": "2028",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "编剧"
-            ],
-            "title": "回到未来：永恒",
-            "subject_id": "35138508"
+            "id": 6774215,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2709395181.jpg",
+            "title": "制作“回到未来”三部曲",
+            "release": 1
+        },
+        {
+            "id": 4232369,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Looking Back at the Future",
+            "release": 1
+        },
+        {
+            "id": 1301572,
+            "year": "1996",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2395606125.jpg",
+            "title": "青楼禁地",
+            "release": 1
+        },
+        {
+            "id": 1299270,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2492755305.jpg",
+            "title": "神采公路",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -141,5 +106,5 @@
     "name_more_other": [
         "Michael Robert Gale (本名)"
     ],
-    "update_at": "2025-01-15T20:06:26"
+    "update_at": "2025-06-16T04:00:11"
 }

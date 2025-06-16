@@ -17,118 +17,74 @@
     "birth_place": "加拿大,马尼托巴,温尼伯",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35632326/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "Jagged Winter",
-            "subject_id": "35632326"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36894439/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908252362.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "死亡清点",
-            "subject_id": "36894439"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35632321/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "Your Life Is Mine",
-            "subject_id": "35632321"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35439475/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "Shadowy Lines",
-            "subject_id": "35439475"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35632340/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2841125845.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "双妹救世界",
-            "subject_id": "35632340"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35439474/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2688507435.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "新睡衣晚会大屠杀",
-            "subject_id": "35439474"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35082074/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2604961588.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "骇人秘事波比特",
-            "subject_id": "35082074"
-        },
-        {
-            "url": "https://movie.douban.com/subject/33418724/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2566472909.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "香蕉劈裂",
-            "subject_id": "33418724"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30334122/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2549923514.jpg",
-            "roles": [
-                "导演 - Attached",
-                "编剧"
-            ],
-            "title": "芳龄十六",
-            "subject_id": "30334122"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26972336/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2535817950.jpg",
-            "roles": [
-                "副导演"
-            ],
-            "title": "零异频道 第四季",
-            "subject_id": "26972336"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37192647/",
+            "id": 37192647,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2917222234.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "狙击精英: 背水一战",
-            "subject_id": "37192647"
+            "title": "狙击精英：背水一战",
+            "release": 1
+        },
+        {
+            "id": 36894439,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908252362.jpg",
+            "title": "死亡清点",
+            "release": 1
+        },
+        {
+            "id": 35632340,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2841125845.jpg",
+            "title": "双妹救世界",
+            "release": 1
+        },
+        {
+            "id": 35632326,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Jagged Winter",
+            "release": 1
+        },
+        {
+            "id": 35632321,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Your Life Is Mine",
+            "release": 1
+        },
+        {
+            "id": 35439475,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Shadowy Lines",
+            "release": 1
+        },
+        {
+            "id": 35439474,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2688507435.jpg",
+            "title": "新睡衣晚会大屠杀",
+            "release": 1
+        },
+        {
+            "id": 35082074,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2604961588.jpg",
+            "title": "骇人秘事波比特",
+            "release": 1
+        },
+        {
+            "id": 33418724,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2566472909.jpg",
+            "title": "香蕉劈裂",
+            "release": 1
+        },
+        {
+            "id": 30334122,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2549923514.jpg",
+            "title": "芳龄十六",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -139,5 +95,5 @@
     "personage_link": "https://www.douban.com/personage/30358700/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-15T16:36:31"
+    "update_at": "2025-06-16T07:07:22"
 }

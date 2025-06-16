@@ -17,105 +17,74 @@
     "birth_place": "美国,亚利桑那州,威廉姆斯",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36216378/",
+            "id": 36216378,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2886539680.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Rose Season 1",
-            "subject_id": "36216378"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5236376/",
+            "id": 5236376,
             "year": "2004",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "制片人"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "A ForesTale",
-            "subject_id": "5236376"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1830130/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2199527672.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "加菲猫和他的朋友们 第一季",
-            "subject_id": "1830130"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5137304/",
-            "year": "1987",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "Fraggle Rock",
-            "subject_id": "5137304"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5119591/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "The Glo Friends",
-            "subject_id": "5119591"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5134226/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2910845126.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "Moon Dreamers",
-            "subject_id": "5134226"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5144407/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "Potato Head Kids",
-            "subject_id": "5144407"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5093501/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2559872209.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "小马驹",
-            "subject_id": "5093501"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3290740/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2513373192.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "魔怪",
-            "subject_id": "3290740"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5184162/",
+            "id": 5184162,
             "year": "1985",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518272828.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "小马驹：逃出卡特里娜",
-            "subject_id": "5184162"
+            "release": 1
+        },
+        {
+            "id": 5144407,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Potato Head Kids",
+            "release": 1
+        },
+        {
+            "id": 5137304,
+            "year": "1987",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Fraggle Rock",
+            "release": 1
+        },
+        {
+            "id": 5134226,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2910845126.jpg",
+            "title": "Moon Dreamers",
+            "release": 1
+        },
+        {
+            "id": 5119591,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Glo Friends",
+            "release": 1
+        },
+        {
+            "id": 5093501,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2559872209.jpg",
+            "title": "小马驹",
+            "release": 1
+        },
+        {
+            "id": 3290740,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2513373192.jpg",
+            "title": "魔怪",
+            "release": 1
+        },
+        {
+            "id": 1830130,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2199527672.jpg",
+            "title": "加菲猫和他的朋友们 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -133,5 +102,5 @@
     "name_more_other": [
         "Thomas Archer Ray (本名)"
     ],
-    "update_at": "2025-01-15T21:18:17"
+    "update_at": "2025-06-16T14:28:07"
 }

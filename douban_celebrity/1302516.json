@@ -15,114 +15,81 @@
     "birth_place": "西班牙,马德里",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36441713/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893235364.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "四星酒店",
-            "subject_id": "36441713"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30307074/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2531982916.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "面对面 第三季",
-            "subject_id": "30307074"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26797393/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509419872.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "面对面 第二季",
-            "subject_id": "26797393"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37045632/",
+            "id": 37045632,
             "year": "2015",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2913179455.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "红鹰时代 第一季",
-            "subject_id": "37045632"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26372639/",
+            "id": 37039450,
+            "year": "2025",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "El Talento",
+            "release": 0
+        },
+        {
+            "id": 36441713,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893235364.jpg",
+            "title": "四星酒店",
+            "release": 1
+        },
+        {
+            "id": 30307074,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2531982916.jpg",
+            "title": "面对面 第三季",
+            "release": 1
+        },
+        {
+            "id": 26797393,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509419872.jpg",
+            "title": "面对面 第二季",
+            "release": 1
+        },
+        {
+            "id": 26372639,
             "year": "2015",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2355015879.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "面对面 第一季",
-            "subject_id": "26372639"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5186347/",
+            "id": 5186347,
             "year": "2009",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2507624709.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "此为耻辱",
-            "subject_id": "5186347"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2059321/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2561852043.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "破碎的拥抱",
-            "subject_id": "2059321"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3545316/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2699199741.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "食男人肉的女议员",
-            "subject_id": "3545316"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2301655/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2198642889.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "13朵玫瑰",
-            "subject_id": "2301655"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4328296/",
+            "id": 4328296,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881986221.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "公园的女人们",
-            "subject_id": "4328296"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/37039450/",
-            "year": "2025",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "El Talento",
-            "subject_id": "37039450"
+            "id": 3545316,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2699199741.jpg",
+            "title": "食男人肉的女议员",
+            "release": 1
+        },
+        {
+            "id": 2301655,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2198642889.jpg",
+            "title": "13朵玫瑰",
+            "release": 1
+        },
+        {
+            "id": 2059321,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2561852043.jpg",
+            "title": "破碎的拥抱",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -135,5 +102,5 @@
     "personage_link": "https://www.douban.com/personage/27530796/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-15T19:06:28"
+    "update_at": "2025-06-16T11:07:21"
 }

@@ -15,104 +15,74 @@
     "birth_place": "西班牙,加泰罗尼亚,巴塞罗那",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/6116514/",
+            "id": 36501152,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2918286699.jpg",
+            "title": "Tu madre o la mía",
+            "release": 1
+        },
+        {
+            "id": 6116514,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1403971298.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "加德满都，天空之镜",
-            "subject_id": "6116514"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3292069/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635125310.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Doctor Mateo",
-            "subject_id": "3292069"
+            "id": 5228510,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Geerbtes Glück",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3739330/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2883841136.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Cuenta Atrás",
-            "subject_id": "3739330"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3528873/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2557667561.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "家庭生活",
-            "subject_id": "3528873"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3172246/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508796424.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "男人区",
-            "subject_id": "3172246"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5220315/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Sin ti",
-            "subject_id": "5220315"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2061821/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872344269.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Vorvik",
-            "subject_id": "2061821"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5223044/",
+            "id": 5223044,
             "year": "2004",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2884910987.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "梅格雷探案系列之阴影重重",
-            "subject_id": "5223044"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5228510/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Geerbtes Glück",
-            "subject_id": "5228510"
+            "id": 5220315,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Sin ti",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1309095/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2378846831.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "熊崽",
-            "subject_id": "1309095"
+            "id": 3739330,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2883841136.jpg",
+            "title": "倒计时",
+            "release": 1
+        },
+        {
+            "id": 3528873,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2557667561.jpg",
+            "title": "家庭生活",
+            "release": 1
+        },
+        {
+            "id": 3292069,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635125310.jpg",
+            "title": "Doctor Mateo",
+            "release": 1
+        },
+        {
+            "id": 3172246,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508796424.jpg",
+            "title": "男人区",
+            "release": 1
+        },
+        {
+            "id": 2061821,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872344269.jpg",
+            "title": "Vorvik",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -125,5 +95,5 @@
     "name_more_other": [
         "Montserrat Alcoverro Marco (本名)"
     ],
-    "update_at": "2025-01-15T15:48:30"
+    "update_at": "2025-06-16T10:28:21"
 }

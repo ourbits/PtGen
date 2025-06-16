@@ -19,114 +19,81 @@
     "birth_place": "加拿大,安大略省,渥太华",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36899330/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914812984.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "槲寄生谋杀案",
-            "subject_id": "36899330"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35811742/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2888978489.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "超人和露易丝 第三季",
-            "subject_id": "35811742"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35816457/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2890606225.jpg",
-            "roles": [
-                "演员 (饰 Eobard Thawne / Reverse-Flash / Dr. Harrison Wells)"
-            ],
-            "title": "闪电侠 第九季",
-            "subject_id": "35816457"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36086867/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2879779275.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "比特币",
-            "subject_id": "36086867"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35609359/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871838474.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "纠正措施",
-            "subject_id": "35609359"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35397515/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2745551125.jpg",
-            "roles": [
-                "演员 (饰 Eobard Thawne / Reverse-Flash)"
-            ],
-            "title": "闪电侠 第八季",
-            "subject_id": "35397515"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34941656/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2632714061.jpg",
-            "roles": [
-                "演员 (饰 Harrison 'Nash' Wells / Harrison Wells / Eobard Thawne / Reverse-Flash)"
-            ],
-            "title": "闪电侠 第七季",
-            "subject_id": "34941656"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34881451/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2631620003.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "超人和露易丝 第一季",
-            "subject_id": "34881451"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34914951/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2580364814.jpg",
-            "roles": [
-                "演员 (饰 Pariah)"
-            ],
-            "title": "CW无限地球危机",
-            "subject_id": "34914951"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27043939/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2573033592.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "白烂贱客2",
-            "subject_id": "27043939"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37084726/",
+            "id": 37084726,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914519460.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Don't Move",
-            "subject_id": "37084726"
+            "release": 0
+        },
+        {
+            "id": 36899330,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914812984.jpg",
+            "title": "槲寄生谋杀案 第一季",
+            "release": 1
+        },
+        {
+            "id": 36442561,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911243996.jpg",
+            "title": "超人和露易丝 第四季",
+            "release": 1
+        },
+        {
+            "id": 36086867,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2879779275.jpg",
+            "title": "比特币",
+            "release": 1
+        },
+        {
+            "id": 35816457,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2890606225.jpg",
+            "title": "闪电侠 第九季",
+            "release": 1
+        },
+        {
+            "id": 35811742,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2888978489.jpg",
+            "title": "超人和露易丝 第三季",
+            "release": 1
+        },
+        {
+            "id": 35609359,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871838474.jpg",
+            "title": "纠正措施",
+            "release": 1
+        },
+        {
+            "id": 35397515,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2745551125.jpg",
+            "title": "闪电侠 第八季",
+            "release": 1
+        },
+        {
+            "id": 34941656,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2632714061.jpg",
+            "title": "闪电侠 第七季",
+            "release": 1
+        },
+        {
+            "id": 34914951,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2580364814.jpg",
+            "title": "CW无限地球危机",
+            "release": 1
+        },
+        {
+            "id": 34881451,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2631620003.jpg",
+            "title": "超人和露易丝 第一季",
+            "release": 1
         }
     ],
     "introduction": "1963年，汤姆出生在加拿大的一个天主教家庭。他的家庭是爱尔兰血统。汤姆小时候一家就搬到了加纳共和国的温尼巴。后来他们一家又搬回了加拿大魁北克省的伦诺克斯维尔，汤姆在那里读高中。汤姆还在希尔布鲁克市加入了私立机构Séminaire de Sherbrooke，在那里他用法语学习。汤姆随后在香普兰学院读了预科。在皇后大学就读期间，汤姆热爱打冰上曲棍球，为大学篮球队效力，还喜欢上了戏剧与音乐。毕业时获得了英语、生物和教育的学位。2000年，在NBC剧集《艾德》中饰演主人公艾德，该剧共播出四季，于2004年2月结束。2002年，参演情景喜剧《实习医生风云》，饰演主角的哥哥丹·多里安，这也是由于汤姆与扎克·布拉夫在长相上相似。2014年起，在CW电视台的真人剧集《闪电侠》中成为系列常驻，饰演多个不同版本的哈里森·威尔斯博士。",
@@ -140,5 +107,5 @@
         "Thomas Cavanagh",
         "Tom Cavanaugh"
     ],
-    "update_at": "2025-01-15T15:30:36"
+    "update_at": "2025-06-16T07:21:23"
 }

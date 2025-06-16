@@ -15,54 +15,39 @@
     "birth_place": "巴西,里约热内卢",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/25962732/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2276934972.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "蝎子王4：争权夺利",
-            "subject_id": "25962732"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26341310/",
+            "id": 26341310,
             "year": "2013",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2601478475.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "为一代人而战：UFC20周年",
-            "subject_id": "26341310"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5186378/",
+            "id": 25962732,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2276934972.jpg",
+            "title": "蝎子王4：争权夺利",
+            "release": 1
+        },
+        {
+            "id": 5186378,
             "year": "2010",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2041225131.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "Os Gracies e o Nascimento do Vale Tudo",
-            "subject_id": "5186378"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4061240/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "神拳太保",
-            "subject_id": "4061240"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5133749/",
+            "id": 5133749,
             "year": "2001",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2903645077.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "罪恶追踪",
-            "subject_id": "5133749"
+            "release": 1
+        },
+        {
+            "id": 4061240,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2921017487.jpg",
+            "title": "神拳太保",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -77,5 +62,5 @@
     "name_more_other": [
         "Hoyce Gracie"
     ],
-    "update_at": "2025-01-15T17:36:16"
+    "update_at": "2025-06-16T00:00:24"
 }

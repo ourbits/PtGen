@@ -16,104 +16,74 @@
     "birth_place": "奥地利维也纳",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5172233/",
-            "year": "1966",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Der Fall Auer/Ranneth - Unschuldig hinter Gittern",
-            "subject_id": "5172233"
+            "id": 5189673,
+            "year": "1965",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Dem Himmel näher",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5137516/",
+            "id": 5172233,
+            "year": "1966",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Der Fall Auer/Ranneth - Unschuldig hinter Gittern",
+            "release": 1
+        },
+        {
+            "id": 5159162,
+            "year": "1962",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Funken in der Asche",
+            "release": 1
+        },
+        {
+            "id": 5137516,
             "year": "1965",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900555213.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "拉德斯基进行曲",
-            "subject_id": "5137516"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5189673/",
-            "year": "1965",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Dem Himmel näher",
-            "subject_id": "5189673"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5059114/",
-            "year": "1962",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899041476.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Hochzeitsnacht im Paradies",
-            "subject_id": "5059114"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5159162/",
-            "year": "1962",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Funken in der Asche",
-            "subject_id": "5159162"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5060697/",
-            "year": "1958",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905953787.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Hoch klingt der Radetzkymarsch",
-            "subject_id": "5060697"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5060579/",
-            "year": "1958",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899653571.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Der Priester und das Mädchen",
-            "subject_id": "5060579"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1297644/",
-            "year": "1957",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539792218.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "茜茜公主3",
-            "subject_id": "1297644"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5061417/",
-            "year": "1956",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897967529.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Kronprinz Rudolfs letzte Liebe",
-            "subject_id": "5061417"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5061418/",
+            "id": 5061418,
             "year": "1956",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2567289331.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Liebe, die den Kopf verliert",
-            "subject_id": "5061418"
+            "release": 1
+        },
+        {
+            "id": 5061417,
+            "year": "1956",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897967529.jpg",
+            "title": "Kronprinz Rudolfs letzte Liebe",
+            "release": 1
+        },
+        {
+            "id": 5060697,
+            "year": "1958",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905953787.jpg",
+            "title": "Hoch klingt der Radetzkymarsch",
+            "release": 1
+        },
+        {
+            "id": 5060579,
+            "year": "1958",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899653571.jpg",
+            "title": "Der Priester und das Mädchen",
+            "release": 1
+        },
+        {
+            "id": 5059114,
+            "year": "1962",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899041476.jpg",
+            "title": "Hochzeitsnacht im Paradies",
+            "release": 1
+        },
+        {
+            "id": 1297644,
+            "year": "1957",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539792218.jpg",
+            "title": "茜茜公主3",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -131,5 +101,5 @@
     "name_more_other": [
         "Karl Ehman"
     ],
-    "update_at": "2025-01-15T18:00:21"
+    "update_at": "2025-06-16T00:35:06"
 }

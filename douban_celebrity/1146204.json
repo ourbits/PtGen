@@ -15,104 +15,74 @@
     "birth_place": "波兰",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5225847/",
+            "id": 5225847,
             "year": "1964",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "The Sleeper",
-            "subject_id": "5225847"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2240461/",
-            "year": "1964",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2558155664.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "木乃伊魔咒",
-            "subject_id": "2240461"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5100130/",
+            "id": 5100130,
             "year": "1963",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Crane",
-            "subject_id": "5100130"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4236908/",
-            "year": "1963",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2610482426.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Espionage",
-            "subject_id": "4236908"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2270298/",
-            "year": "1961",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539784493.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "天才梦",
-            "subject_id": "2270298"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5060437/",
-            "year": "1959",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Third Man",
-            "subject_id": "5060437"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5060624/",
-            "year": "1958",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Mark of the Phoenix",
-            "subject_id": "5060624"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3744644/",
-            "year": "1958",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912135038.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "杀人命令",
-            "subject_id": "3744644"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5061201/",
-            "year": "1957",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2298009017.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "陈查理的新冒险",
-            "subject_id": "5061201"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5061441/",
+            "id": 5061441,
             "year": "1956",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2910882157.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "美好世界",
-            "subject_id": "5061441"
+            "release": 1
+        },
+        {
+            "id": 5061201,
+            "year": "1957",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2298009017.jpg",
+            "title": "陈查理的新冒险",
+            "release": 1
+        },
+        {
+            "id": 5060624,
+            "year": "1958",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Mark of the Phoenix",
+            "release": 1
+        },
+        {
+            "id": 5060437,
+            "year": "1959",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Third Man",
+            "release": 1
+        },
+        {
+            "id": 4236908,
+            "year": "1963",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2610482426.jpg",
+            "title": "Espionage",
+            "release": 1
+        },
+        {
+            "id": 3744644,
+            "year": "1958",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912067251.jpg",
+            "title": "杀人命令",
+            "release": 1
+        },
+        {
+            "id": 2270298,
+            "year": "1961",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539784493.jpg",
+            "title": "天才梦",
+            "release": 1
+        },
+        {
+            "id": 2240461,
+            "year": "1964",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2558155664.jpg",
+            "title": "木乃伊魔咒",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -128,5 +98,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-15T18:18:29"
+    "update_at": "2025-06-16T14:21:08"
 }

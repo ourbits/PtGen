@@ -15,24 +15,18 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/2135981/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p462058001.jpg",
-            "roles": [
-                "演员 (饰 大小姐)"
-            ],
-            "title": "画皮",
-            "subject_id": "2135981"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2327479/",
+            "id": 2327479,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2278822437.jpg",
-            "roles": [
-                "其它"
-            ],
             "title": "换子成龙",
-            "subject_id": "2327479"
+            "release": 1
+        },
+        {
+            "id": 2135981,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p462058001.jpg",
+            "title": "画皮",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -43,5 +37,5 @@
     "personage_link": "https://www.douban.com/personage/27561815/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-15T17:06:30"
+    "update_at": "2025-06-16T11:28:13"
 }

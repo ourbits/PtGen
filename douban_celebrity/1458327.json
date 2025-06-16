@@ -16,24 +16,18 @@
     "birth_place": "韩国",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/33457597/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2661539085.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "第八天之夜",
-            "subject_id": "33457597"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35680962/",
+            "id": 35680962,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2753257303.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "矮人射出的小球",
-            "subject_id": "35680962"
+            "release": 1
+        },
+        {
+            "id": 33457597,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2661539085.jpg",
+            "title": "第八天之夜",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -46,5 +40,5 @@
     "name_more_other": [
         "김태형"
     ],
-    "update_at": "2025-01-15T18:54:27"
+    "update_at": "2025-06-16T11:42:12"
 }

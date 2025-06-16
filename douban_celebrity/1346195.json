@@ -16,105 +16,74 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/4238952/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p849778120.jpg",
-            "roles": [
-                "演员",
-                "编剧"
-            ],
-            "title": "汲取月光",
-            "subject_id": "4238952"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1389978/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2298854550.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "下流人生",
-            "subject_id": "1389978"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5126648/",
-            "year": "1992",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2869983523.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "明子，秋子，索尼亚",
-            "subject_id": "5126648"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27173226/",
+            "id": 27173226,
             "year": "1989",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2502226257.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "아낌없이 주련다",
-            "subject_id": "27173226"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5124967/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2323569610.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "美国 美国",
-            "subject_id": "5124967"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1294444/",
-            "year": "1987",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1759809332.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "借种",
-            "subject_id": "1294444"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4247341/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2878061782.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "票",
-            "subject_id": "4247341"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4247354/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2603903643.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "离别泪",
-            "subject_id": "4247354"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27115279/",
+            "id": 27115279,
             "year": "1985",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2496508239.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "그때 죽어도 좋았다",
-            "subject_id": "27115279"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5049751/",
+            "id": 5126648,
+            "year": "1992",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2869983523.jpg",
+            "title": "明子，秋子，索尼亚",
+            "release": 1
+        },
+        {
+            "id": 5124967,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2323569610.jpg",
+            "title": "美国 美国",
+            "release": 1
+        },
+        {
+            "id": 5049751,
             "year": "1983",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2452205804.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "火的女儿",
-            "subject_id": "5049751"
+            "release": 1
+        },
+        {
+            "id": 4247354,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2603903643.jpg",
+            "title": "离别泪",
+            "release": 1
+        },
+        {
+            "id": 4247341,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2878061782.jpg",
+            "title": "票",
+            "release": 1
+        },
+        {
+            "id": 4238952,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p849778120.jpg",
+            "title": "汲取月光",
+            "release": 1
+        },
+        {
+            "id": 1389978,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2298854550.jpg",
+            "title": "下流人生",
+            "release": 1
+        },
+        {
+            "id": 1294444,
+            "year": "1987",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2878569337.jpg",
+            "title": "借种",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -127,5 +96,5 @@
     "name_more_other": [
         "송길한"
     ],
-    "update_at": "2025-01-15T16:24:33"
+    "update_at": "2025-06-16T02:21:09"
 }

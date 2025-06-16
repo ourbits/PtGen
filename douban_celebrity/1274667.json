@@ -22,138 +22,88 @@
     "birth_place": "中国,陕西,延安",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30427473/",
+            "id": 30427473,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2545095501.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "恐龙蛋",
-            "subject_id": "30427473"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/11593592/",
+            "id": 27115317,
+            "year": "2049",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "美国之墙",
+            "release": 0
+        },
+        {
+            "id": 26973618,
+            "year": "2049",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "卡尔·马克思：最后的旅程",
+            "release": 0
+        },
+        {
+            "id": 11593592,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2199932308.jpg",
-            "roles": [
-                "演员 - 自己",
-                "导演"
-            ],
             "title": "将令",
-            "subject_id": "11593592"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4718369/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1624660243.jpg",
-            "roles": [
-                "导演",
-                "剪辑",
-                "制片人",
-                "编剧"
-            ],
-            "title": "白鹿原",
-            "subject_id": "4718369"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4290915/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p727912138.jpg",
-            "roles": [
-                "导演",
-                "剪辑",
-                "编剧"
-            ],
-            "title": "纺织姑娘",
-            "subject_id": "4290915"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4284085/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2128713173.jpg",
-            "roles": [
-                "导演",
-                "制片人",
-                "编剧"
-            ],
-            "title": "团圆",
-            "subject_id": "4284085"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4707212/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532637823.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "中国电影的前世今生",
-            "subject_id": "4707212"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1966460/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p581291401.jpg",
-            "roles": [
-                "导演",
-                "剪辑",
-                "编剧"
-            ],
-            "title": "图雅的婚事",
-            "subject_id": "1966460"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1478936/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p727952033.jpg",
-            "roles": [
-                "导演",
-                "制片人",
-                "编剧"
-            ],
-            "title": "惊蛰",
-            "subject_id": "1478936"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1306709/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1315394894.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "月蚀",
-            "subject_id": "1306709"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6506187/",
+            "id": 6506187,
             "year": "1991",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2516455520.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "雪山义侠",
-            "subject_id": "6506187"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26973618/",
-            "year": "2049",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "卡尔·马克思：最后的旅程",
-            "subject_id": "26973618"
+            "id": 4718369,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1624660243.jpg",
+            "title": "白鹿原",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27115317/",
-            "year": "2049",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "美国之墙",
-            "subject_id": "27115317"
+            "id": 4707212,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532637823.jpg",
+            "title": "中国电影的前世今生",
+            "release": 1
+        },
+        {
+            "id": 4290915,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p727912138.jpg",
+            "title": "纺织姑娘",
+            "release": 1
+        },
+        {
+            "id": 4284085,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2128713173.jpg",
+            "title": "团圆",
+            "release": 1
+        },
+        {
+            "id": 1966460,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p581291401.jpg",
+            "title": "图雅的婚事",
+            "release": 1
+        },
+        {
+            "id": 1478936,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p727952033.jpg",
+            "title": "惊蛰",
+            "release": 1
+        },
+        {
+            "id": 1306709,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1315394894.jpg",
+            "title": "月蚀",
+            "release": 1
         }
     ],
     "introduction": "王全安，1965年10月26日出生于延安，中国男导演。2000年自编自导的第一部作品《月蚀》获得了第22届莫斯科国际电影节国际评委大奖。2007年凭借《图雅的婚事》荣获第57届柏林国际电影节最佳影片金熊奖。2012年9月，王全安导演改编自作家陈忠实小说的同名电影《白鹿原》上映。",
@@ -166,5 +116,5 @@
     "personage_link": "https://www.douban.com/personage/27492112/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-15T19:48:17"
+    "update_at": "2025-06-16T11:21:10"
 }

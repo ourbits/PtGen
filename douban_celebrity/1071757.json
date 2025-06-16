@@ -16,104 +16,74 @@
     "birth_place": "丹麦",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/20469542/",
+            "id": 20469542,
             "year": "2011",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2516135463.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "不会游泳的男孩",
-            "subject_id": "20469542"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5189716/",
+            "id": 5189716,
             "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "The Lost Treasure of the Knights Templar III: The Mystery of the Snake Crown",
-            "subject_id": "5189716"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5179837/",
+            "id": 5179837,
             "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "The Huma-Porcellone-Syndrome",
-            "subject_id": "5179837"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2075399/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1484053527.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "埃里克·尼采的早年生活",
-            "subject_id": "2075399"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1428068/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1108753913.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "疯狂农庄",
-            "subject_id": "1428068"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3080185/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2891405361.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "安徒生讲故事",
-            "subject_id": "3080185"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5138237/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Mit liv som Bent",
-            "subject_id": "5138237"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5137477/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Pyrus i alletiders eventyr",
-            "subject_id": "5137477"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5143670/",
+            "id": 5143670,
             "year": "2000",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2498450026.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "法贝尔酒店",
-            "subject_id": "5143670"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5084271/",
+            "id": 5138237,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Mit liv som Bent",
+            "release": 1
+        },
+        {
+            "id": 5137477,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Pyrus i alletiders eventyr",
+            "release": 1
+        },
+        {
+            "id": 5084271,
             "year": "1999",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Olsen-bandens første kup",
-            "subject_id": "5084271"
+            "release": 1
+        },
+        {
+            "id": 3080185,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2891405361.jpg",
+            "title": "安徒生讲故事",
+            "release": 1
+        },
+        {
+            "id": 2075399,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1484053527.jpg",
+            "title": "埃里克·尼采的早年生活",
+            "release": 1
+        },
+        {
+            "id": 1428068,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1108753913.jpg",
+            "title": "疯狂农庄",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -124,5 +94,5 @@
     "personage_link": "https://www.douban.com/personage/27277506/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-15T17:48:28"
+    "update_at": "2025-06-16T08:07:07"
 }

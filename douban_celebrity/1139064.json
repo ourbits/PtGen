@@ -15,104 +15,74 @@
     "birth_place": "美国,伊利诺伊州,芝加哥",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3637235/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p500766722.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "抚爱伤痛",
-            "subject_id": "3637235"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5223138/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904871163.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "In the Game",
-            "subject_id": "5223138"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4604208/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "我爱八十年代的3D电影",
-            "subject_id": "4604208"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1309057/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p899504956.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "疯狂金车",
-            "subject_id": "1309057"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5227281/",
+            "id": 5227281,
             "year": "2004",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Naughty or Nice",
-            "subject_id": "5227281"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5225498/",
+            "id": 5225498,
             "year": "2004",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2571704320.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "《地狱男爵》：创造种子",
-            "subject_id": "5225498"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1308760/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1361599048.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "三千大佬",
-            "subject_id": "1308760"
+            "id": 5223138,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904871163.jpg",
+            "title": "In the Game",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1306043/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2198718532.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "爱情非卖品",
-            "subject_id": "1306043"
+            "id": 4604208,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "我爱八十年代的3D电影",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3645220/",
+            "id": 3645220,
             "year": "2002",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536225681.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "我爱八零年代",
-            "subject_id": "3645220"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1308063/",
+            "id": 3637235,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p500766722.jpg",
+            "title": "抚爱伤痛",
+            "release": 1
+        },
+        {
+            "id": 1309057,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p899504956.jpg",
+            "title": "疯狂金车",
+            "release": 1
+        },
+        {
+            "id": 1308760,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1361599048.jpg",
+            "title": "三千大佬",
+            "release": 1
+        },
+        {
+            "id": 1308063,
             "year": "2002",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2561601320.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "乐鼓热线",
-            "subject_id": "1308063"
+            "release": 1
+        },
+        {
+            "id": 1306043,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2198718532.jpg",
+            "title": "爱情非卖品",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -125,5 +95,5 @@
     "name_more_other": [
         "Stu (昵称)"
     ],
-    "update_at": "2025-01-15T15:54:36"
+    "update_at": "2025-06-16T08:49:15"
 }

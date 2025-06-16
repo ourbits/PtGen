@@ -16,114 +16,81 @@
     "birth_place": "中国,湖北,武汉",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35195819/",
+            "id": 35195819,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2621205026.jpg",
-            "roles": [
-                "演员 - 嘉宾"
-            ],
             "title": "嗨唱转起来 第二季",
-            "subject_id": "35195819"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26877436/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2382104851.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "中国情歌汇",
-            "subject_id": "26877436"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3286475/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2329949666.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "无法结局",
-            "subject_id": "3286475"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2245506/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2455413749.jpg",
-            "roles": [
-                "演员 (饰 凤龙簪)"
-            ],
-            "title": "谈谈心恋恋爱",
-            "subject_id": "2245506"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1438851/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1847942056.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "青春爱人事件",
-            "subject_id": "1438851"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3609158/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2646309142.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "风云争霸",
-            "subject_id": "3609158"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2229606/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2371425348.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "快嘴李翠莲2",
-            "subject_id": "2229606"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2568018/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2375046407.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "闲人马大姐",
-            "subject_id": "2568018"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2228627/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2879020129.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "平安事务所",
-            "subject_id": "2228627"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5916685/",
-            "year": "1996",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2677845566.jpg",
-            "roles": [
-                "演员 (饰 帅哥)"
-            ],
-            "title": "雨天有故事",
-            "subject_id": "5916685"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26903786/",
+            "id": 26903786,
             "year": "2028",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2457956045.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "大娃娃小娃娃",
-            "subject_id": "26903786"
+            "release": 0
+        },
+        {
+            "id": 26877436,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2382104851.jpg",
+            "title": "中国情歌汇",
+            "release": 1
+        },
+        {
+            "id": 5916685,
+            "year": "1996",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2677845566.jpg",
+            "title": "雨天有故事",
+            "release": 1
+        },
+        {
+            "id": 3609158,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2646309142.jpg",
+            "title": "风云争霸",
+            "release": 1
+        },
+        {
+            "id": 3286475,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2329949666.jpg",
+            "title": "无法结局",
+            "release": 1
+        },
+        {
+            "id": 2568018,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2375046407.jpg",
+            "title": "闲人马大姐",
+            "release": 1
+        },
+        {
+            "id": 2245506,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2455413749.jpg",
+            "title": "谈谈心恋恋爱",
+            "release": 1
+        },
+        {
+            "id": 2229606,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2371425348.jpg",
+            "title": "快嘴李翠莲2",
+            "release": 1
+        },
+        {
+            "id": 2228627,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2879020129.jpg",
+            "title": "平安事务所",
+            "release": 1
+        },
+        {
+            "id": 1438851,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1847942056.jpg",
+            "title": "青春爱人事件",
+            "release": 1
         }
     ],
     "introduction": "\"黄格选，1970年2月出生于湖北省武汉市，歌手。1993年到1995年间获得了武汉、南京、济南等地金曲大奖和最受欢迎男歌手称号。成名歌曲有《春水流》、《伤心是一种说不出的痛》、《爱你和从前一样》等；在影视方面主演电视剧《孟姜女》等。\"",
@@ -143,5 +110,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-15T18:48:28"
+    "update_at": "2025-06-16T05:14:16"
 }

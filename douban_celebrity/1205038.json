@@ -16,105 +16,74 @@
     "birth_place": "美国,加利福尼亚州,林伍德",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/10342838/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2155312017.jpg",
-            "roles": [
-                "演员 (饰 President's Bodyguard)"
-            ],
-            "title": "弯刀杀戮",
-            "subject_id": "10342838"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30334802/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2535165264.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "冰激凌姐妹",
-            "subject_id": "30334802"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5189029/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "制片人"
-            ],
-            "title": "Metal Church",
-            "subject_id": "5189029"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5195405/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "Disposable Hero: The Brian Deegan Story",
-            "subject_id": "5195405"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5218812/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "制片人"
-            ],
-            "title": "Joe Kid on a Stingray",
-            "subject_id": "5218812"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1309032/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1138058480.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "鬼哭神嚎",
-            "subject_id": "1309032"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5233799/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己",
-                "制片人"
-            ],
-            "title": "Motorcycle Mania III",
-            "subject_id": "5233799"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1300378/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1466503338.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "极速酷客",
-            "subject_id": "1300378"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37015167/",
+            "id": 37015167,
             "year": "2003",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912142118.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "明星整人秀 第二季",
-            "subject_id": "37015167"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2064379/",
+            "id": 30334802,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2535165264.jpg",
+            "title": "冰激凌姐妹",
+            "release": 1
+        },
+        {
+            "id": 10342838,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2155312017.jpg",
+            "title": "弯刀杀戮",
+            "release": 1
+        },
+        {
+            "id": 5233799,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Motorcycle Mania III",
+            "release": 1
+        },
+        {
+            "id": 5218812,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Joe Kid on a Stingray",
+            "release": 1
+        },
+        {
+            "id": 5195405,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Disposable Hero: The Brian Deegan Story",
+            "release": 1
+        },
+        {
+            "id": 5189029,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Metal Church",
+            "release": 1
+        },
+        {
+            "id": 2064379,
             "year": "2002",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "制片人"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
             "title": "魔兽车库 第一季",
-            "subject_id": "2064379"
+            "release": 1
+        },
+        {
+            "id": 1309032,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1138058480.jpg",
+            "title": "鬼哭神嚎",
+            "release": 1
+        },
+        {
+            "id": 1300378,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1466503338.jpg",
+            "title": "极速酷客",
+            "release": 1
         }
     ],
     "introduction": "Jesse Gregory James (born April 19, 1969) is an American television personality and former CEO of Austin, Texas-based Austin Speed Shop. James was the host of the reality TV shows Jesse James Is a Dead Man on Spike TV and Monster Garage on the Discovery Channel, and the focus of the documentary Motorcycle Mania, also on Discovery. Jesse James also appeared in the Tony Hawk's Underground 2 video game, and was the focus of a show chronicling some of the custom builds at Austin Speed Shop in his TV series, Jesse James: Outlaw Garage, which ran a shortened single season in 2012 on the Discovery Channel before being canceled.",
@@ -132,5 +101,5 @@
     "name_more_other": [
         "Jesse Gregory James (本名)"
     ],
-    "update_at": "2025-01-15T20:00:30"
+    "update_at": "2025-06-16T08:42:17"
 }
