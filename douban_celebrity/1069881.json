@@ -1,5 +1,5 @@
 {
-    "sid": 1069881,
+    "sid": "1069881",
     "name": "弗兰克·霍尔·克雷恩",
     "site": "douban_celebrity",
     "roles": [
@@ -17,104 +17,74 @@
     "birth_place": "美国,加利福尼亚州,旧金山",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5071014/",
-            "year": "1939",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2644671835.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "卿本佳人",
-            "subject_id": "5071014"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3667226/",
-            "year": "1938",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Dick Tracy Returns",
-            "subject_id": "3667226"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5071862/",
-            "year": "1938",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Gang Bullets",
-            "subject_id": "5071862"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3228559/",
-            "year": "1937",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2391285041.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "纽约的酒宴",
-            "subject_id": "3228559"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5072906/",
-            "year": "1936",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912569362.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "良宵良缘",
-            "subject_id": "5072906"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35101458/",
-            "year": "1936",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2609375104.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Step on It",
-            "subject_id": "35101458"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35101457/",
-            "year": "1936",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Speed Reporter",
-            "subject_id": "35101457"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5073377/",
-            "year": "1935",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911877685.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "皆曰可杀",
-            "subject_id": "5073377"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5073414/",
-            "year": "1935",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905706377.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "巧遇佳偶",
-            "subject_id": "5073414"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35101459/",
+            "id": 35101459,
             "year": "1935",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2609375201.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "牢狱访员",
-            "subject_id": "35101459"
+            "release": 1
+        },
+        {
+            "id": 35101458,
+            "year": "1936",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2609375104.jpg",
+            "title": "Step on It",
+            "release": 1
+        },
+        {
+            "id": 35101457,
+            "year": "1936",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Speed Reporter",
+            "release": 1
+        },
+        {
+            "id": 5073414,
+            "year": "1935",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905706377.jpg",
+            "title": "巧遇佳偶",
+            "release": 1
+        },
+        {
+            "id": 5073377,
+            "year": "1935",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911877685.jpg",
+            "title": "皆曰可杀",
+            "release": 1
+        },
+        {
+            "id": 5072906,
+            "year": "1936",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912569362.jpg",
+            "title": "良宵良缘",
+            "release": 1
+        },
+        {
+            "id": 5071862,
+            "year": "1938",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Gang Bullets",
+            "release": 1
+        },
+        {
+            "id": 5071014,
+            "year": "1939",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2644671835.jpg",
+            "title": "卿本佳人",
+            "release": 1
+        },
+        {
+            "id": 3667226,
+            "year": "1938",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "Dick Tracy Returns",
+            "release": 1
+        },
+        {
+            "id": 3228559,
+            "year": "1937",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2391285041.jpg",
+            "title": "纽约的酒宴",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -134,5 +104,5 @@
         "Frank Crane",
         "Frank Crayne"
     ],
-    "update_at": "2025-01-16T14:56:30"
+    "update_at": "2025-06-17T00:14:15"
 }

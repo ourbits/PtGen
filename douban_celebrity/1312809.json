@@ -1,5 +1,5 @@
 {
-    "sid": 1312809,
+    "sid": "1312809",
     "name": "藤井美菜",
     "site": "douban_celebrity",
     "roles": [
@@ -15,114 +15,74 @@
     "birth_place": "美国,加利福尼亚州,圣迭戈市",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36544553/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897688067.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "駐在刑事SP 2023",
-            "subject_id": "36544553"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36493982/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "小静与爸爸 再编辑版",
-            "subject_id": "36493982"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36118067/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915408979.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "血战 第二季",
-            "subject_id": "36118067"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36117726/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2882028709.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "駐在刑事SP 2022",
-            "subject_id": "36117726"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35606339/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875361599.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "夜鹰的单相思",
-            "subject_id": "35606339"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35731693/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872884790.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "小静与爸爸",
-            "subject_id": "35731693"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35744891/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2857151242.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "LONG-TERM COFFEE BREAK",
-            "subject_id": "35744891"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35681338/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881262598.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "驻在刑警3",
-            "subject_id": "35681338"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35376165/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2655395590.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "理想男子",
-            "subject_id": "35376165"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35223550/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2622778672.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "はぐれ刑事三世",
-            "subject_id": "35223550"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37060887/",
+            "id": 37060887,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2916732691.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "诚实房地产Minerva 特别篇",
-            "subject_id": "37060887"
+            "release": 1
+        },
+        {
+            "id": 36544553,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897688067.jpg",
+            "title": "駐在刑事SP 2023",
+            "release": 1
+        },
+        {
+            "id": 36493982,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "小静与爸爸 再编辑版",
+            "release": 1
+        },
+        {
+            "id": 36118067,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915408979.jpg",
+            "title": "血战 第二季",
+            "release": 1
+        },
+        {
+            "id": 36117726,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2882028709.jpg",
+            "title": "駐在刑事SP 2022",
+            "release": 1
+        },
+        {
+            "id": 35744891,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2857151242.jpg",
+            "title": "LONG-TERM COFFEE BREAK",
+            "release": 1
+        },
+        {
+            "id": 35731693,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872884790.jpg",
+            "title": "小静与爸爸",
+            "release": 1
+        },
+        {
+            "id": 35681338,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881262598.jpg",
+            "title": "驻在刑警3",
+            "release": 1
+        },
+        {
+            "id": 35606339,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875361599.jpg",
+            "title": "夜鹰的单相思",
+            "release": 1
+        },
+        {
+            "id": 35376165,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2655395590.jpg",
+            "title": "理想男子",
+            "release": 1
         }
     ],
     "introduction": "藤井美菜（Fujii Mina；ふじい みな），日本女演员。藤井美菜身世比较特殊，她出生在美国加利福尼亚州圣迭戈市，出生后10个月后返回日本，小学4年级时候从千叶县千叶市转到新泻县居住。高中以后，住在神奈川县。现在藤井在庆应义塾大学文学系学习中，一边学习一边参与演艺活动。2006年藤井成为日本全国高等学校野球选手権大会（甲子园）海报模特，2008年出演TBS和东宝合作制作的热门电视剧《血色星期一》。演艺经历电影：シムソンズ（2006年2月18日上映） - 饰演 尾中美希未来予想図（2007年10月6日上映） - 饰演 宫本あすか雨の翼（2008年2月9日上映） - 主演・池上透花犬と私の10の约束（狗狗和我的十个约定）饰演 海边的女子高中生（2008年3月15日上映）电视连续剧：ブロッコリー （2007年1月20日、富士CX电视台）- 主演・山下いなほ鹿男あをによし（鹿男与美丽的奈良）（2008年1月-3月、富士CX电视台） - 饰演 佐仓雅代ブラッディ・マンデイ（Bloody Monday，血色星期一）（2008年10月-、TBS） - 饰演 朝田あおい舞台剧シャンポーの森で眠る（1998年）スクルージ（1999年）小公女セーラ（2000年）ファデット（2001年）半神（2002年）ドラマリーディング・シリーズ Vol.1『サロメ』 演出:铃木胜秀（2007年8月7・8日、パルコ剧场）ラジオレコメン! - 日本一自由な自由研究（2006年8月、文化放送）JOMO あの人の物语（2008年3月31日 - 、TBSラジオ）广告CMインテル The Box サボテン篇（2005年）NTTドコモ関西 スポットライトの中で篇（2005年）ブルボン 牛乳でおいしくホットなココア（2006年 - ）朝日新闻 （2006年）富士ゼロックス beat（2007年） beat公式サイト Web CM甲子园海报日本ビクター 第27回「ビクター・甲子园ポスター」キャンペーンイメージキャラクター（2006年，日本全国高等学校野球选手権大会（甲子园）海报模特））オルビス 新CM 海辺のカフェ 篇（2007年） - 与 安田成美 共同出演三菱UFJニコス 企业（2007年）PVINFINITY16 welcomez MINMI,10-FEET『真夏のオリオン』（2007年）东方神起 どうして君を好きになってしまったんだろう?（为什么会喜欢你？） （2008年）杂志日経エンタテインメント! ビジュアル别册 NEXT GIRL（2006年7月14日发行）ノスタルジック写真物语 キミト、ドコカへ（2006年8月30日）写真集藤井美菜写真集（2009年2月19日发行、学习研究社、ISBN 978-4054035997）",
@@ -135,5 +95,5 @@
     "name_more_other": [
         "ふじい みな"
     ],
-    "update_at": "2025-01-16T23:56:06"
+    "update_at": "2025-06-17T17:42:06"
 }

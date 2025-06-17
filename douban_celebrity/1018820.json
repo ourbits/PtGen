@@ -1,5 +1,5 @@
 {
-    "sid": 1018820,
+    "sid": "1018820",
     "name": "李曼",
     "site": "douban_celebrity",
     "roles": [
@@ -15,144 +15,102 @@
     "birth_place": "中国,辽宁鞍山",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35522243/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899324055.jpg",
-            "roles": [
-                "演员 (饰 主管夫人甲)"
-            ],
-            "title": "为有暗香来",
-            "subject_id": "35522243"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26614141/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510278445.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "惊天岳雷",
-            "subject_id": "26614141"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36119121/",
+            "id": 36119121,
             "year": "2023",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2888692661.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "民国女神探",
-            "subject_id": "36119121"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35778738/",
+            "id": 35778738,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868779607.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "红纸鹤",
-            "subject_id": "35778738"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35073142/",
+            "id": 35522243,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899324055.jpg",
+            "title": "为有暗香来",
+            "release": 1
+        },
+        {
+            "id": 35073142,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2668261789.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "青山遮不住",
-            "subject_id": "35073142"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27011418/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2601492947.jpg",
-            "roles": [
-                "演员 (饰 何樱)"
-            ],
-            "title": "秋蝉",
-            "subject_id": "27011418"
-        },
-        {
-            "url": "https://movie.douban.com/subject/33404150/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2553200279.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "异星怪兽之荒野求生",
-            "subject_id": "33404150"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27186313/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2558527708.jpg",
-            "roles": [
-                "演员 (饰 阿宁)"
-            ],
-            "title": "盗墓笔记之怒海潜沙&秦岭神树",
-            "subject_id": "27186313"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26956031/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2494923060.jpg",
-            "roles": [
-                "演员 (饰 小青)"
-            ],
-            "title": "天乩之白蛇传说",
-            "subject_id": "26956031"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26774772/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2364921137.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "情况不妙",
-            "subject_id": "26774772"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26940052/",
-            "year": "2030",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2493240197.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "封神之天启",
-            "subject_id": "26940052"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34925477/",
+            "id": 34925477,
             "year": "2030",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2578664045.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "一江水",
-            "subject_id": "34925477"
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/25799485/",
+            "id": 33404150,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2553200279.jpg",
+            "title": "异星怪兽之荒野求生",
+            "release": 1
+        },
+        {
+            "id": 27186313,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2558527708.jpg",
+            "title": "盗墓笔记之怒海潜沙&秦岭神树",
+            "release": 1
+        },
+        {
+            "id": 27011418,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2601492947.jpg",
+            "title": "秋蝉",
+            "release": 1
+        },
+        {
+            "id": 26956031,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2494923060.jpg",
+            "title": "天乩之白蛇传说",
+            "release": 1
+        },
+        {
+            "id": 26940052,
             "year": "2030",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2170212696.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "大唐文宗",
-            "subject_id": "25799485"
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2493240197.jpg",
+            "title": "封神之天启",
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/26755500/",
+            "id": 26774772,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2364921137.jpg",
+            "title": "情况不妙",
+            "release": 1
+        },
+        {
+            "id": 26755500,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2533673281.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "不婚",
-            "subject_id": "26755500"
+            "release": 0
+        },
+        {
+            "id": 26614141,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510278445.jpg",
+            "title": "惊天岳雷",
+            "release": 1
+        },
+        {
+            "id": 25799485,
+            "year": "2030",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2170212696.jpg",
+            "title": "大唐文宗",
+            "release": 0
         }
     ],
     "introduction": "中国内地女演员，毕业于中央戏剧学院表演系本科。2006年，出演张艺谋执导的古装片《满城尽带黄金甲》，凭借该片提名金鸡百花电影节最佳新人奖。主演民国爱情剧《梦幻天堂》、《新京华烟云》，谍战剧《江城令》、《秋蝉》，偶像剧《致单身男女》，古装神话剧《天乩之白蛇传说》，悬疑探险剧《怒海潜沙",
@@ -167,5 +125,5 @@
     "name_more_other": [
         "无"
     ],
-    "update_at": "2025-01-16T19:35:06"
+    "update_at": "2025-06-17T12:07:22"
 }

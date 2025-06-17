@@ -1,5 +1,5 @@
 {
-    "sid": 1010074,
+    "sid": "1010074",
     "name": "阿达库·奥诺诺博",
     "site": "douban_celebrity",
     "roles": [
@@ -16,55 +16,39 @@
     "birth_place": "英国,伦敦",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26358321/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871775116.jpg",
-            "roles": [
-                "演员 (饰 Fariha)"
-            ],
-            "title": "惊奇少女",
-            "subject_id": "26358321"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30183811/",
+            "id": 30183811,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2601855621.jpg",
-            "roles": [
-                "演员 (饰 Kaze)"
-            ],
             "title": "天命之咒",
-            "subject_id": "30183811"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26710532/",
+            "id": 26710532,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512965746.jpg",
-            "roles": [
-                "演员 (饰 Sheena)"
-            ],
             "title": "杰西卡·琼斯 第二季",
-            "subject_id": "26710532"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5180919/",
+            "id": 26358321,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871775116.jpg",
+            "title": "惊奇少女",
+            "release": 1
+        },
+        {
+            "id": 5180919,
             "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员",
-                "制片人"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Mr. Luv",
-            "subject_id": "5180919"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3005365/",
+            "id": 3005365,
             "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p719411750.jpg",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2919416848.jpg",
             "title": "蓝调传奇",
-            "subject_id": "3005365"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -81,5 +65,5 @@
         "Tasha (昵称)",
         "Natasha Ononogbo"
     ],
-    "update_at": "2025-01-16T16:00:29"
+    "update_at": "2025-06-17T21:35:14"
 }

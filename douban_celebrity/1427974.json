@@ -1,5 +1,5 @@
 {
-    "sid": 1427974,
+    "sid": "1427974",
     "name": "海蒂·克拉格滕",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36910489/",
+            "id": 36910489,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911129581.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
             "title": "史努比露营记",
-            "subject_id": "36910489"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36421560/",
+            "id": 36421560,
             "year": "2023",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911130964.jpg",
-            "roles": [
-                "演员 - 配音 (配 Sally)"
-            ],
             "title": "史努比秀 第三季",
-            "subject_id": "36421560"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36032758/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2877098098.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "露西的学校",
-            "subject_id": "36032758"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35856757/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871668865.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "好事一小朵，查理·布朗",
-            "subject_id": "35856757"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35681373/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2773424338.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "史努比特辑：友谊地久天长",
-            "subject_id": "35681373"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36141322/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908698604.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "睡衣小英雄 第五季",
-            "subject_id": "36141322"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36116708/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881661928.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "爹地的完美女孩",
-            "subject_id": "36116708"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35213619/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2632478808.jpg",
-            "roles": [
-                "演员 (饰 Sally)"
-            ],
-            "title": "史努比秀 第一季",
-            "subject_id": "35213619"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35271759/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Santa Squad",
-            "subject_id": "35271759"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36398082/",
+            "id": 36398082,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2891740396.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "柯恩与珮格 第二季",
-            "subject_id": "36398082"
+            "release": 1
+        },
+        {
+            "id": 36141322,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908698604.jpg",
+            "title": "睡衣小英雄 第五季",
+            "release": 1
+        },
+        {
+            "id": 36116708,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881661928.jpg",
+            "title": "爹地的完美女孩",
+            "release": 1
+        },
+        {
+            "id": 36032758,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2877098098.jpg",
+            "title": "露西的学校",
+            "release": 1
+        },
+        {
+            "id": 35856757,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871668865.jpg",
+            "title": "好事一小朵，查理·布朗",
+            "release": 1
+        },
+        {
+            "id": 35681373,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2773424338.jpg",
+            "title": "史努比特辑：友谊地久天长",
+            "release": 1
+        },
+        {
+            "id": 35271759,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Santa Squad",
+            "release": 1
+        },
+        {
+            "id": 35213619,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2632478808.jpg",
+            "title": "史努比秀 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -124,5 +94,5 @@
     "personage_link": "https://www.douban.com/personage/34914410/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T22:28:21"
+    "update_at": "2025-06-17T22:21:20"
 }

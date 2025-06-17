@@ -1,5 +1,5 @@
 {
-    "sid": 1055301,
+    "sid": "1055301",
     "name": "丽莎·德尔·门多",
     "site": "douban_celebrity",
     "roles": [
@@ -17,104 +17,74 @@
     "birth_place": "美国,加利福尼亚,圣地亚哥",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35018488/",
+            "id": 35018488,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2882098775.jpg",
-            "roles": [
-                "演员 - 配音 (配 Additional Voices)"
-            ],
             "title": "奇异世界",
-            "subject_id": "35018488"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34804147/",
+            "id": 34804147,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2628052135.jpg",
-            "roles": [
-                "演员 - 配音 (配 Additional Voices)"
-            ],
             "title": "寻龙传说",
-            "subject_id": "34804147"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3076008/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2889144994.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "蒙塔纳亚马逊",
-            "subject_id": "3076008"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3793707/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2218542231.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "金刚狼与X战警",
-            "subject_id": "3793707"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5168365/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Cranberry Christmas",
-            "subject_id": "5168365"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3096379/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2556790388.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "网络小主播 第一季",
-            "subject_id": "3096379"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5364138/",
+            "id": 5364138,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2256391804.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
             "title": "里克和史蒂夫: 全世界最快乐的同志伴侣 第一季",
-            "subject_id": "5364138"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1980881/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509200083.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "地狱男爵动画版：风暴之剑",
-            "subject_id": "1980881"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2061893/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2867462720.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "魔力W.I.T.C.H.",
-            "subject_id": "2061893"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5228156/",
+            "id": 5228156,
             "year": "2004",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536447650.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Second Time Around",
-            "subject_id": "5228156"
+            "release": 1
+        },
+        {
+            "id": 5168365,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Cranberry Christmas",
+            "release": 1
+        },
+        {
+            "id": 3793707,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2218542231.jpg",
+            "title": "金刚狼与X战警",
+            "release": 1
+        },
+        {
+            "id": 3096379,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2556790388.jpg",
+            "title": "网络小主播 第一季",
+            "release": 1
+        },
+        {
+            "id": 3076008,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2889144994.jpg",
+            "title": "蒙塔纳亚马逊",
+            "release": 1
+        },
+        {
+            "id": 2061893,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2867462720.jpg",
+            "title": "魔力W.I.T.C.H.",
+            "release": 1
+        },
+        {
+            "id": 1980881,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509200083.jpg",
+            "title": "地狱男爵动画版：风暴之剑",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -127,5 +97,5 @@
     "name_more_other": [
         "Lisa Del Mundo"
     ],
-    "update_at": "2025-01-16T17:21:24"
+    "update_at": "2025-06-17T20:00:16"
 }

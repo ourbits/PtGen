@@ -1,5 +1,5 @@
 {
-    "sid": 1398100,
+    "sid": "1398100",
     "name": "特奥特·库伦特基斯",
     "site": "douban_celebrity",
     "roles": [
@@ -15,34 +15,25 @@
     "birth_place": "希腊,雅典",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/34977898/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2601358556.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "列夫·朗道：三日",
-            "subject_id": "34977898"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5331284/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2588146299.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "列夫·朗道",
-            "subject_id": "5331284"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34979229/",
+            "id": 34979229,
             "year": "2016",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2588387645.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "库伦吉斯：古典乐界的叛逆",
-            "subject_id": "34979229"
+            "release": 1
+        },
+        {
+            "id": 34977898,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2601358556.jpg",
+            "title": "列夫·朗道：三日",
+            "release": 1
+        },
+        {
+            "id": 5331284,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2588146299.jpg",
+            "title": "列夫·朗道",
+            "release": 1
         }
     ],
     "introduction": "希腊指挥家和演员，生于雅典，儿时学钢琴和小提琴，12岁入国立音乐学院。22岁赴圣彼得堡跟随伊利亚·穆辛学习。后在俄国新西伯利亚和彼尔姆担任当地歌剧院和乐团的首席指挥，并组建了“音乐永恒”乐团。2009年他参演电影《朗道》，饰演主角苏联物理学家列夫·朗道。",
@@ -55,5 +46,5 @@
     "personage_link": "https://www.douban.com/personage/30283791/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T12:56:22"
+    "update_at": "2025-06-17T14:28:17"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1182799,
+    "sid": "1182799",
     "name": "Jake Newton",
     "site": "douban_celebrity",
     "roles": [
@@ -16,45 +16,32 @@
     "birth_place": "美国,加利福尼亚州,萨克拉门托",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3320903/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "伯克利",
-            "subject_id": "3320903"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1777619/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2378461365.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "恋恋师情",
-            "subject_id": "1777619"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5201259/",
+            "id": 5201259,
             "year": "2004",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Table Manners",
-            "subject_id": "5201259"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5180893/",
+            "id": 5180893,
             "year": "1998",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2590526745.jpg",
-            "roles": [
-                "演员",
-                "音乐"
-            ],
             "title": "聚于金门家庭旅馆",
-            "subject_id": "5180893"
+            "release": 1
+        },
+        {
+            "id": 3320903,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2922004416.jpg",
+            "title": "伯克利",
+            "release": 1
+        },
+        {
+            "id": 1777619,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2378461365.jpg",
+            "title": "恋恋师情",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -67,5 +54,5 @@
     "name_more_other": [
         "Jacob Marshall Newton (本名)"
     ],
-    "update_at": "2025-01-16T12:16:09"
+    "update_at": "2025-06-17T21:21:12"
 }

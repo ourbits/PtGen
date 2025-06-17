@@ -1,5 +1,5 @@
 {
-    "sid": 1320734,
+    "sid": "1320734",
     "name": "魏娜·莎德",
     "site": "douban_celebrity",
     "roles": [
@@ -17,123 +17,81 @@
     "birth_place": "加拿大,多伦多",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/10514184/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "编剧"
-            ],
-            "title": "新版深闺疑云",
-            "subject_id": "10514184"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34851836/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2593639060.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "陌生人",
-            "subject_id": "34851836"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30143144/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2620586537.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "谎言",
-            "subject_id": "30143144"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26896959/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508327716.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "七秒",
-            "subject_id": "26896959"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25772602/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2193154378.jpg",
-            "roles": [
-                "制片人",
-                "编剧"
-            ],
-            "title": "谋杀 第四季",
-            "subject_id": "25772602"
-        },
-        {
-            "url": "https://movie.douban.com/subject/20471804/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1949294911.jpg",
-            "roles": [
-                "制片人",
-                "编剧"
-            ],
-            "title": "谋杀 第三季",
-            "subject_id": "20471804"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6534230/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1446489091.jpg",
-            "roles": [
-                "导演",
-                "制片人",
-                "编剧"
-            ],
-            "title": "谋杀 第二季",
-            "subject_id": "6534230"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4826178/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p940418128.jpg",
-            "roles": [
-                "制片人",
-                "编剧"
-            ],
-            "title": "谋杀 第一季",
-            "subject_id": "4826178"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3737034/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2776741822.jpg",
-            "roles": [
-                "制片人",
-                "编剧"
-            ],
-            "title": "铁证悬案 第五季",
-            "subject_id": "3737034"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3737021/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509454393.jpg",
-            "roles": [
-                "制片人",
-                "编剧"
-            ],
-            "title": "铁证悬案 第四季",
-            "subject_id": "3737021"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35087489/",
+            "id": 35087489,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899982546.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "龙纹身的女孩(剧版)",
-            "subject_id": "35087489"
+            "release": 0
+        },
+        {
+            "id": 34851836,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2593639060.jpg",
+            "title": "陌生人",
+            "release": 1
+        },
+        {
+            "id": 30143144,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2678203432.jpg",
+            "title": "谎言",
+            "release": 1
+        },
+        {
+            "id": 26896959,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508327716.jpg",
+            "title": "七秒",
+            "release": 1
+        },
+        {
+            "id": 25772602,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2193154378.jpg",
+            "title": "谋杀 第四季",
+            "release": 1
+        },
+        {
+            "id": 20471804,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1949294911.jpg",
+            "title": "谋杀 第三季",
+            "release": 1
+        },
+        {
+            "id": 10514184,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "新版深闺疑云",
+            "release": 1
+        },
+        {
+            "id": 6534230,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1446489091.jpg",
+            "title": "谋杀 第二季",
+            "release": 1
+        },
+        {
+            "id": 4826178,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p940418128.jpg",
+            "title": "谋杀 第一季",
+            "release": 1
+        },
+        {
+            "id": 3737034,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2776741822.jpg",
+            "title": "铁证悬案 第五季",
+            "release": 1
+        },
+        {
+            "id": 3737021,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509454393.jpg",
+            "title": "铁证悬案 第四季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -144,5 +102,5 @@
     "personage_link": "https://www.douban.com/personage/27566180/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T11:56:14"
+    "update_at": "2025-06-17T22:07:18"
 }

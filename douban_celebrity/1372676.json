@@ -15,114 +15,81 @@
     "birth_place": "意大利,罗马",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36449013/",
+            "id": 36449013,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915542431.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Il Visionario",
-            "subject_id": "36449013"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35969662/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908779447.jpg",
-            "roles": [
-                "演员 (饰 Marco)"
-            ],
-            "title": "她的重生",
-            "subject_id": "35969662"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36150095/",
+            "id": 36150095,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2883326579.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "他",
-            "subject_id": "36150095"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35616967/",
+            "id": 35969662,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908779447.jpg",
+            "title": "她的重生",
+            "release": 1
+        },
+        {
+            "id": 35616967,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2691848450.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "我是圣诞老人",
-            "subject_id": "35616967"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35387986/",
+            "id": 35387986,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2634826565.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "凡尼亚地震：寻找契诃夫",
-            "subject_id": "35387986"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30213349/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2522710347.jpg",
-            "roles": [
-                "演员 (饰 Senatore Valori)"
-            ],
-            "title": "他们2",
-            "subject_id": "30213349"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30311117/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532417644.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "法布里齐奥·德·安德烈:自由王子",
-            "subject_id": "30311117"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30476729/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2549533586.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Blue Kids",
-            "subject_id": "30476729"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26728685/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2326734632.jpg",
-            "roles": [
-                "演员 (饰 埃托雷·米洛提 Ettore Minotti)"
-            ],
-            "title": "意大利赛车",
-            "subject_id": "26728685"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10760030/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1955988617.jpg",
-            "roles": [
-                "演员 (饰 Uomo Coppia Esibizionista)"
-            ],
-            "title": "绝美之城",
-            "subject_id": "10760030"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34261638/",
+            "id": 34261638,
             "year": "2026",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2794365387.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "风之所向",
-            "subject_id": "34261638"
+            "release": 0
+        },
+        {
+            "id": 30476729,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2549533586.jpg",
+            "title": "Blue Kids",
+            "release": 1
+        },
+        {
+            "id": 30311117,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532417644.jpg",
+            "title": "法布里齐奥·德·安德烈:自由王子",
+            "release": 1
+        },
+        {
+            "id": 30213349,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2522710347.jpg",
+            "title": "他们2",
+            "release": 1
+        },
+        {
+            "id": 26728685,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2326734632.jpg",
+            "title": "意大利赛车",
+            "release": 1
+        },
+        {
+            "id": 10760030,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1955988617.jpg",
+            "title": "绝美之城",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -133,5 +100,5 @@
     "personage_link": "https://www.douban.com/personage/27584768/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T07:24:06"
+    "update_at": "2025-06-17T08:42:15"
 }

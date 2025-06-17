@@ -1,5 +1,5 @@
 {
-    "sid": 1348971,
+    "sid": "1348971",
     "name": "张午郎",
     "site": "douban_celebrity",
     "roles": [
@@ -17,106 +17,74 @@
     "birth_place": "中国，广东",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/4915135/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2633671760.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "李小龙我的兄弟",
-            "subject_id": "4915135"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1308970/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359111443.jpg",
-            "roles": [
-                "其它"
-            ],
-            "title": "龙腾虎跃",
-            "subject_id": "1308970"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10810333/",
+            "id": 10810333,
             "year": "2000",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2356032571.jpg",
-            "roles": [
-                "演员",
-                "导演",
-                "编剧"
-            ],
             "title": "潜龙夺宝",
-            "subject_id": "10810333"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1307437/",
-            "year": "1995",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509629375.jpg",
-            "roles": [
-                "动作特技"
-            ],
-            "title": "超级火力",
-            "subject_id": "1307437"
+            "id": 4915135,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2633671760.jpg",
+            "title": "李小龙我的兄弟",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1302801/",
-            "year": "1994",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635975206.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "刑侦风云",
-            "subject_id": "1302801"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4274385/",
+            "id": 4274385,
             "year": "1994",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2454584699.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "轰天密令",
-            "subject_id": "4274385"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1302040/",
-            "year": "1994",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2244844088.jpg",
-            "roles": [
-                "动作特技"
-            ],
-            "title": "我爱法拉利",
-            "subject_id": "1302040"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1295218/",
-            "year": "1994",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2484304771.jpg",
-            "roles": [
-                "动作特技"
-            ],
-            "title": "九七风云",
-            "subject_id": "1295218"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1302486/",
-            "year": "1994",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2482977468.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "终极风暴",
-            "subject_id": "1302486"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2340440/",
+            "id": 2340440,
             "year": "1993",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2172967213.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "解密高手",
-            "subject_id": "2340440"
+            "release": 1
+        },
+        {
+            "id": 1308970,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359111443.jpg",
+            "title": "龙腾虎跃",
+            "release": 1
+        },
+        {
+            "id": 1307437,
+            "year": "1995",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509629375.jpg",
+            "title": "超级火力",
+            "release": 1
+        },
+        {
+            "id": 1302801,
+            "year": "1994",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635975206.jpg",
+            "title": "刑侦风云",
+            "release": 1
+        },
+        {
+            "id": 1302486,
+            "year": "1994",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2482977468.jpg",
+            "title": "终极风暴",
+            "release": 1
+        },
+        {
+            "id": 1302040,
+            "year": "1994",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2244844088.jpg",
+            "title": "我爱法拉利",
+            "release": 1
+        },
+        {
+            "id": 1295218,
+            "year": "1994",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2484304771.jpg",
+            "title": "九七风云",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -129,5 +97,5 @@
     "name_more_other": [
         "John Cheung Ng-Long"
     ],
-    "update_at": "2025-01-16T19:56:06"
+    "update_at": "2025-06-17T15:56:13"
 }

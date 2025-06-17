@@ -4,7 +4,8 @@
     "site": "douban_celebrity",
     "roles": [
         "演员",
-        "配音"
+        "配音",
+        "作者"
     ],
     "awards": [],
     "gender": "女",
@@ -16,104 +17,74 @@
     "birth_place": "日本,琦玉,鸠谷",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35009736/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2595214311.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "天邪鬼 前外科医生杀手 最后的战斗",
-            "subject_id": "35009736"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4603533/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p693292259.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "再见暑假",
-            "subject_id": "4603533"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5156113/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876657002.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "书道教授",
-            "subject_id": "5156113"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3014387/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2152399730.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "女人四十",
-            "subject_id": "3014387"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27072732/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2464443476.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "新書 ワル2 挑戦篇",
-            "subject_id": "27072732"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2144077/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2618315316.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "バッシュメント",
-            "subject_id": "2144077"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5185825/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895563427.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "外遇调查员・片山由美３ 京都艺妓杀人事件",
-            "subject_id": "5185825"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3448685/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2627944809.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "音乐小彗星",
-            "subject_id": "3448685"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1782180/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2603706457.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "虚线的恶意",
-            "subject_id": "1782180"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36489926/",
+            "id": 36489926,
             "year": "1998",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895997984.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "减肥三姐妹的旅情事件簿2",
-            "subject_id": "36489926"
+            "release": 1
+        },
+        {
+            "id": 35009736,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2595214311.jpg",
+            "title": "天邪鬼 前外科医生杀手 最后的战斗",
+            "release": 1
+        },
+        {
+            "id": 27072732,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2464443476.jpg",
+            "title": "新書 ワル2 挑戦篇",
+            "release": 1
+        },
+        {
+            "id": 5185825,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895563427.jpg",
+            "title": "外遇调查员・片山由美３ 京都艺妓杀人事件",
+            "release": 1
+        },
+        {
+            "id": 5156113,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876657002.jpg",
+            "title": "书道教授",
+            "release": 1
+        },
+        {
+            "id": 4603533,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p693292259.jpg",
+            "title": "再见暑假",
+            "release": 1
+        },
+        {
+            "id": 3448685,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2627944809.jpg",
+            "title": "音乐小彗星",
+            "release": 1
+        },
+        {
+            "id": 3014387,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2152399730.jpg",
+            "title": "女人四十",
+            "release": 1
+        },
+        {
+            "id": 2144077,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2618315316.jpg",
+            "title": "バッシュメント",
+            "release": 1
+        },
+        {
+            "id": 1782180,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2603706457.jpg",
+            "title": "虚线的恶意",
+            "release": 1
         }
     ],
     "introduction": "日本歌手、演员、心理咨询师。",
@@ -127,5 +98,5 @@
         "大場久美子",
         "おおば くみこ"
     ],
-    "update_at": "2025-01-16T05:56:15"
+    "update_at": "2025-06-17T03:00:08"
 }

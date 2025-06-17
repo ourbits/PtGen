@@ -1,5 +1,5 @@
 {
-    "sid": 1045328,
+    "sid": "1045328",
     "name": "大卫·哈特曼",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "美国,罗德岛,波塔基特",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5151730/",
+            "id": 5236139,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "ABC电视台50周年庆典",
+            "release": 1
+        },
+        {
+            "id": 5151730,
             "year": "2010",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2516242541.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "变形金刚：领袖之证 第一季",
-            "subject_id": "5151730"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3067848/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2427656537.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "小熊维尼与跳跳虎：好朋友齐摆尾",
-            "subject_id": "3067848"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5236139/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "ABC电视台50周年庆典",
-            "subject_id": "5236139"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2133745/",
-            "year": "1975",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2625237226.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "早安美国",
-            "subject_id": "2133745"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5054634/",
-            "year": "1974",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Lucas Tanner",
-            "subject_id": "5054634"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1294869/",
-            "year": "1974",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2629076960.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "世界上最高的岛屿",
-            "subject_id": "1294869"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5054799/",
-            "year": "1973",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1090511127.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Miracle on 34th Street",
-            "subject_id": "5054799"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5083706/",
+            "id": 5083706,
             "year": "1973",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635109050.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "神秘客",
-            "subject_id": "5083706"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5054655/",
-            "year": "1973",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2625887301.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "杀妻奇案",
-            "subject_id": "5054655"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5055724/",
+            "id": 5055724,
             "year": "1971",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2648505686.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "妇权万岁",
-            "subject_id": "5055724"
+            "release": 1
+        },
+        {
+            "id": 5054799,
+            "year": "1973",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1090511127.jpg",
+            "title": "Miracle on 34th Street",
+            "release": 1
+        },
+        {
+            "id": 5054655,
+            "year": "1973",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2625887301.jpg",
+            "title": "杀妻奇案",
+            "release": 1
+        },
+        {
+            "id": 5054634,
+            "year": "1974",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Lucas Tanner",
+            "release": 1
+        },
+        {
+            "id": 3067848,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2427656537.jpg",
+            "title": "小熊维尼与跳跳虎：好朋友齐摆尾",
+            "release": 1
+        },
+        {
+            "id": 2133745,
+            "year": "1975",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2625237226.jpg",
+            "title": "早安美国",
+            "release": 1
+        },
+        {
+            "id": 1294869,
+            "year": "1974",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2629076960.jpg",
+            "title": "世界上最高的岛屿",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -126,5 +96,5 @@
     "name_more_other": [
         "David Downs Hartman (本名)"
     ],
-    "update_at": "2025-01-16T19:00:17"
+    "update_at": "2025-06-17T14:00:18"
 }

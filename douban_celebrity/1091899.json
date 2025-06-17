@@ -15,104 +15,74 @@
     "birth_place": "美国,加利福尼亚州,Oildale",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1302240/",
-            "year": "1990",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2592877308.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "勇闯时空",
-            "subject_id": "1302240"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5115469/",
+            "id": 5115469,
             "year": "1989",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515790272.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Mancuso, FBI",
-            "subject_id": "5115469"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5047071/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "TV 101",
-            "subject_id": "5047071"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5047117/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Heartbeat",
-            "subject_id": "5047117"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3912165/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2501457517.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "死亡使者",
-            "subject_id": "3912165"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3214769/",
-            "year": "1987",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870020632.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "杰克和福特曼 第一季",
-            "subject_id": "3214769"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2076320/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2462359821.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "辩护律师",
-            "subject_id": "2076320"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1871852/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2493488295.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "罪恶芝加哥",
-            "subject_id": "1871852"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5049587/",
-            "year": "1984",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2406478312.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "飞狼 第一季",
-            "subject_id": "5049587"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5050369/",
+            "id": 5050369,
             "year": "1983",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2671672600.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "汽车旅馆",
-            "subject_id": "5050369"
+            "release": 1
+        },
+        {
+            "id": 5049587,
+            "year": "1984",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2406478312.jpg",
+            "title": "飞狼 第一季",
+            "release": 1
+        },
+        {
+            "id": 5047117,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Heartbeat",
+            "release": 1
+        },
+        {
+            "id": 5047071,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "TV 101",
+            "release": 1
+        },
+        {
+            "id": 3912165,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2501457517.jpg",
+            "title": "死亡使者",
+            "release": 1
+        },
+        {
+            "id": 3214769,
+            "year": "1987",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870020632.jpg",
+            "title": "杰克和福特曼 第一季",
+            "release": 1
+        },
+        {
+            "id": 2076320,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2462359821.jpg",
+            "title": "辩护律师",
+            "release": 1
+        },
+        {
+            "id": 1871852,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2493488295.jpg",
+            "title": "罪恶芝加哥",
+            "release": 1
+        },
+        {
+            "id": 1302240,
+            "year": "1990",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2592877308.jpg",
+            "title": "勇闯时空",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27297670/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T05:00:27"
+    "update_at": "2025-06-17T05:35:18"
 }

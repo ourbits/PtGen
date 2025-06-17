@@ -1,5 +1,5 @@
 {
-    "sid": 1037859,
+    "sid": "1037859",
     "name": "前原一辉",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "日本,京都",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/24844958/",
+            "id": 24844958,
             "year": "2014",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2156548137.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "圈套剧场版4：最后的舞台",
-            "subject_id": "24844958"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4312206/",
+            "id": 4312206,
             "year": "2010",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2208758561.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "警部補 矢部謙三",
-            "subject_id": "4312206"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2296649/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p919083357.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "演技者 疯狂处女路",
-            "subject_id": "2296649"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2209022/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2228350428.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "圈套剧场版1",
-            "subject_id": "2209022"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1465687/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2886007241.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "圈套2",
-            "subject_id": "1465687"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1400276/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2614822905.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "溺水的鱼",
-            "subject_id": "1400276"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1465679/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2339493712.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "圈套",
-            "subject_id": "1465679"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1465284/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p813209945.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "池袋西口公园",
-            "subject_id": "1465284"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1942314/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2152421272.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "怪医黑杰克",
-            "subject_id": "1942314"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4070261/",
+            "id": 4070261,
             "year": "2000",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2882760868.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "救急战队GoGo Ｖ vs 银河人",
-            "subject_id": "4070261"
+            "release": 1
+        },
+        {
+            "id": 2296649,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p919083357.jpg",
+            "title": "演技者 疯狂处女路",
+            "release": 1
+        },
+        {
+            "id": 2209022,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2228350428.jpg",
+            "title": "圈套剧场版1",
+            "release": 1
+        },
+        {
+            "id": 1942314,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2152421272.jpg",
+            "title": "怪医黑杰克",
+            "release": 1
+        },
+        {
+            "id": 1465687,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2886007241.jpg",
+            "title": "圈套2",
+            "release": 1
+        },
+        {
+            "id": 1465679,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2339493712.jpg",
+            "title": "圈套",
+            "release": 1
+        },
+        {
+            "id": 1465284,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p813209945.jpg",
+            "title": "池袋西口公园",
+            "release": 1
+        },
+        {
+            "id": 1400276,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2614822905.jpg",
+            "title": "溺水的鱼",
+            "release": 1
         }
     ],
     "introduction": "京都府舞鶴市出身の元俳優である。本名は浜口 義之（はまぐち よしゆき）。元古舘プロジェクト所属。身長180cm。血液型はO型。愛称はマエチャン。",
@@ -130,5 +100,5 @@
     "name_more_other": [
         "Yoshiyuki Hamaguchi (本名)"
     ],
-    "update_at": "2025-01-16T14:07:28"
+    "update_at": "2025-06-17T21:49:17"
 }

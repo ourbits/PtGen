@@ -1,5 +1,5 @@
 {
-    "sid": 1436818,
+    "sid": "1436818",
     "name": "娜妲阿芮查·布拉帕吉迪",
     "site": "douban_celebrity",
     "roles": [
@@ -15,114 +15,74 @@
     "birth_place": "泰国,曼谷",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36882114/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915728214.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "心跳节拍",
-            "subject_id": "36882114"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36613078/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2917350319.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "冥王星爱恋",
-            "subject_id": "36613078"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36166229/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912563609.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "世界倾斜23.5度",
-            "subject_id": "36166229"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36166285/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904126768.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "我的ID是江南美人(泰版)",
-            "subject_id": "36166285"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35684189/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2884445709.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "扭曲效应",
-            "subject_id": "35684189"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35280743/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873789167.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "酒吧大姐大",
-            "subject_id": "35280743"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35684045/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2757843434.jpg",
-            "roles": [
-                "演员 (饰 Tingting)"
-            ],
-            "title": "星空恋人",
-            "subject_id": "35684045"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35280561/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2745236283.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "重返15岁",
-            "subject_id": "35280561"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35212176/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2662481415.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "46天婚礼大作战",
-            "subject_id": "35212176"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35461238/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2892161298.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "键盘侠",
-            "subject_id": "35461238"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37134259/",
+            "id": 37134259,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915807038.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "恋爱男孩",
-            "subject_id": "37134259"
+            "release": 1
+        },
+        {
+            "id": 36882114,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915728214.jpg",
+            "title": "心跳节拍",
+            "release": 1
+        },
+        {
+            "id": 36613078,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2917350319.jpg",
+            "title": "冥王星爱恋",
+            "release": 1
+        },
+        {
+            "id": 36166285,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2918426730.jpg",
+            "title": "我的ID是江南美人(泰版)",
+            "release": 1
+        },
+        {
+            "id": 36166229,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912563609.jpg",
+            "title": "世界倾斜23.5度",
+            "release": 1
+        },
+        {
+            "id": 35684189,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2884445709.jpg",
+            "title": "扭曲效应",
+            "release": 1
+        },
+        {
+            "id": 35684045,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2757843434.jpg",
+            "title": "星空恋人",
+            "release": 1
+        },
+        {
+            "id": 35280743,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873789167.jpg",
+            "title": "酒吧大姐大",
+            "release": 1
+        },
+        {
+            "id": 35280561,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2745236283.jpg",
+            "title": "重返15岁",
+            "release": 1
+        },
+        {
+            "id": 35212176,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2662481415.jpg",
+            "title": "46天婚礼大作战",
+            "release": 1
         }
     ],
     "introduction": "娜妲阿芮查·布拉帕吉迪（Ciize），1999年9月23日出生于泰国曼谷，泰国女演员、歌手，女子组合SIZZY成员，毕业于曼谷大学中文国际学院。",
@@ -143,5 +103,5 @@
         "ไซซี",
         "Saisee"
     ],
-    "update_at": "2025-01-16T21:28:13"
+    "update_at": "2025-06-17T18:07:07"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1123562,
+    "sid": "1123562",
     "name": "拉尔夫·曼扎",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "美国,加利福尼亚州,旧金山",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3057995/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2874337882.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "The Tangerine Bear",
-            "subject_id": "3057995"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1421758/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2676927959.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "谁在煮食",
-            "subject_id": "1421758"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4133349/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2594469428.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Can't Be Heaven",
-            "subject_id": "4133349"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1904140/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2464021612.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "圣女魔咒 第一季",
-            "subject_id": "1904140"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3286538/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2330977709.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "老友记  第五季",
-            "subject_id": "3286538"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1305439/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2531743112.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "四海兄弟情",
-            "subject_id": "1305439"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5109540/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Alright Already",
-            "subject_id": "5109540"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5110183/",
-            "year": "1996",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2651782468.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Viper",
-            "subject_id": "5110183"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5110189/",
+            "id": 5110189,
             "year": "1996",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881623751.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Tracey Takes On...",
-            "subject_id": "5110189"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5109930/",
+            "id": 5110183,
+            "year": "1996",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2651782468.jpg",
+            "title": "Viper",
+            "release": 1
+        },
+        {
+            "id": 5109930,
             "year": "1996",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2659324693.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Her Last Chance",
-            "subject_id": "5109930"
+            "release": 1
+        },
+        {
+            "id": 5109540,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Alright Already",
+            "release": 1
+        },
+        {
+            "id": 4133349,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2594469428.jpg",
+            "title": "Can't Be Heaven",
+            "release": 1
+        },
+        {
+            "id": 3286538,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2330977709.jpg",
+            "title": "老友记  第五季",
+            "release": 1
+        },
+        {
+            "id": 3057995,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2874337882.jpg",
+            "title": "The Tangerine Bear",
+            "release": 1
+        },
+        {
+            "id": 1904140,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2464021612.jpg",
+            "title": "圣女魔咒 第一季",
+            "release": 1
+        },
+        {
+            "id": 1421758,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2676927959.jpg",
+            "title": "谁在煮食",
+            "release": 1
+        },
+        {
+            "id": 1305439,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2531743112.jpg",
+            "title": "四海兄弟情",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -132,5 +102,5 @@
         "Ralph A. Manza Jr.",
         "Ralph B. Manza"
     ],
-    "update_at": "2025-01-16T19:49:13"
+    "update_at": "2025-06-17T15:00:29"
 }

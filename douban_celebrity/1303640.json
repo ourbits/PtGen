@@ -1,5 +1,5 @@
 {
-    "sid": 1303640,
+    "sid": "1303640",
     "name": "Martin Richter",
     "site": "douban_celebrity",
     "roles": [
@@ -16,64 +16,46 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5150683/",
+            "id": 5150683,
             "year": "2010",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "制片人"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Der letzte schöne Herbsttag",
-            "subject_id": "5150683"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3921703/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539602419.jpg",
-            "roles": [
-                "制片人"
-            ],
-            "title": "停火",
-            "subject_id": "3921703"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3583175/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1148466471.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "天天都是星期天",
-            "subject_id": "3583175"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4861291/",
+            "id": 4861291,
             "year": "2008",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2867566465.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "睡魔号角",
-            "subject_id": "4861291"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2256966/",
+            "id": 3921703,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539602419.jpg",
+            "title": "停火",
+            "release": 1
+        },
+        {
+            "id": 3583175,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1148466471.jpg",
+            "title": "天天都是星期天",
+            "release": 1
+        },
+        {
+            "id": 2256966,
             "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "制片人"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "找爱5分钟",
-            "subject_id": "2256966"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1297702/",
+            "id": 1297702,
             "year": "1985",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1983960425.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "女人和陌生人",
-            "subject_id": "1297702"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -84,5 +66,5 @@
     "personage_link": "https://www.douban.com/personage/27531920/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T15:28:11"
+    "update_at": "2025-06-17T18:00:13"
 }

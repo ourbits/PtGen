@@ -1,5 +1,5 @@
 {
-    "sid": 1375463,
+    "sid": "1375463",
     "name": "梅甘·盖伊",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "新西兰,霍克湾大区,内皮尔",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35024496/",
+            "id": 35657820,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "亚洲隐秘生活 第二季",
+            "release": 1
+        },
+        {
+            "id": 35024496,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868121552.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "托斯卡纳的夏天",
-            "subject_id": "35024496"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35657820/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "亚洲隐秘生活 第二季",
-            "subject_id": "35657820"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26754113/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2523797917.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "瑞士人克里斯",
-            "subject_id": "26754113"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27155360/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2902122149.jpg",
-            "roles": [
-                "演员 (饰 Principal)"
-            ],
-            "title": "忘记尼克",
-            "subject_id": "27155360"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26245360/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2250072222.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "感化院",
-            "subject_id": "26245360"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25859409/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 (饰 Jane)"
-            ],
-            "title": "Weak heart drop",
-            "subject_id": "25859409"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27078015/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2472329520.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "亚洲隐秘生活",
-            "subject_id": "27078015"
-        },
-        {
-            "url": "https://movie.douban.com/subject/22637441/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2256429655.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "不死鸟",
-            "subject_id": "22637441"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25921741/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2190336316.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "十四本第一次世界大战日记",
-            "subject_id": "25921741"
-        },
-        {
-            "url": "https://movie.douban.com/subject/31255242/",
+            "id": 31255242,
             "year": "2013",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2551088004.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "艺术女孩",
-            "subject_id": "31255242"
+            "release": 1
+        },
+        {
+            "id": 27155360,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2902122149.jpg",
+            "title": "忘记尼克",
+            "release": 1
+        },
+        {
+            "id": 27078015,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2472329520.jpg",
+            "title": "亚洲隐秘生活",
+            "release": 1
+        },
+        {
+            "id": 26754113,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2523797917.jpg",
+            "title": "瑞士人克里斯",
+            "release": 1
+        },
+        {
+            "id": 26245360,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2250072222.jpg",
+            "title": "感化院",
+            "release": 1
+        },
+        {
+            "id": 25921741,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2190336316.jpg",
+            "title": "十四本第一次世界大战日记",
+            "release": 1
+        },
+        {
+            "id": 25859409,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Weak heart drop",
+            "release": 1
+        },
+        {
+            "id": 22637441,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2256429655.jpg",
+            "title": "不死鸟",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -124,5 +94,5 @@
     "personage_link": "https://www.douban.com/personage/27486910/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T19:00:07"
+    "update_at": "2025-06-17T18:00:27"
 }

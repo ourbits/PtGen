@@ -15,124 +15,81 @@
     "birth_place": "韩国",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36118431/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893484452.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "有院子的家",
-            "subject_id": "36118431"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35521951/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2888059793.jpg",
-            "roles": [
-                "演员 (饰 Sergeant Shin)"
-            ],
-            "title": "杀死福顺",
-            "subject_id": "35521951"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36105110/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2883841890.jpg",
-            "roles": [
-                "演员 (饰 车武弈)"
-            ],
-            "title": "纸钞屋(韩版) 第二季",
-            "subject_id": "36105110"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35773714/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2879768083.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "危机的X",
-            "subject_id": "35773714"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35732282/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2883615826.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "最终兵器爱丽丝",
-            "subject_id": "35732282"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35273085/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873662360.jpg",
-            "roles": [
-                "演员 (饰 Cha Moohyuk)"
-            ],
-            "title": "纸钞屋(韩版)",
-            "subject_id": "35273085"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27601500/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2610574561.jpg",
-            "roles": [
-                "演员 (饰 朴秘书)"
-            ],
-            "title": "王者制造",
-            "subject_id": "27601500"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35009757/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2841883182.jpg",
-            "roles": [
-                "演员 (饰 姜燮)"
-            ],
-            "title": "海盗2：鬼怪的旗帜",
-            "subject_id": "35009757"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35574177/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2680039830.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "借你带轮子的家",
-            "subject_id": "35574177"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35043211/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2632094547.jpg",
-            "roles": [
-                "演员 (饰 李孙)"
-            ],
-            "title": "LUCA：起源",
-            "subject_id": "35043211"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36804040/",
+            "id": 36804040,
             "year": "2025",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912260254.jpg",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2921807136.jpg",
             "title": "下流大盗",
-            "subject_id": "36804040"
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/36404195/",
+            "id": 36404195,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2916790467.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "漫画威龙2",
-            "subject_id": "36404195"
+            "release": 1
+        },
+        {
+            "id": 36118431,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893484452.jpg",
+            "title": "有院子的家",
+            "release": 1
+        },
+        {
+            "id": 36105110,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2883841890.jpg",
+            "title": "纸钞屋(韩版) 第二季",
+            "release": 1
+        },
+        {
+            "id": 35773714,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2879768083.jpg",
+            "title": "危机的X",
+            "release": 1
+        },
+        {
+            "id": 35732282,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2883615826.jpg",
+            "title": "最终兵器爱丽丝",
+            "release": 1
+        },
+        {
+            "id": 35574177,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2680039830.jpg",
+            "title": "借你带轮子的家",
+            "release": 1
+        },
+        {
+            "id": 35521951,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2888059793.jpg",
+            "title": "杀死福顺",
+            "release": 1
+        },
+        {
+            "id": 35273085,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873662360.jpg",
+            "title": "纸钞屋(韩版)",
+            "release": 1
+        },
+        {
+            "id": 35009757,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2841883182.jpg",
+            "title": "海盗2：鬼怪的旗帜",
+            "release": 1
+        },
+        {
+            "id": 27601500,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2610574561.jpg",
+            "title": "王者制造",
+            "release": 1
         }
     ],
     "introduction": "金成武 Seong-oh Kim（김성오）韩国，男， 生于1978年 ，演员。主要作品有《秘密花园》《白夜行》《大叔》等",
@@ -150,5 +107,5 @@
     "name_more_other": [
         "김성오（本名）"
     ],
-    "update_at": "2025-01-16T08:08:10"
+    "update_at": "2025-06-17T01:35:05"
 }

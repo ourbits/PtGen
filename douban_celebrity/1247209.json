@@ -1,5 +1,5 @@
 {
-    "sid": 1247209,
+    "sid": "1247209",
     "name": "Laura Renault",
     "site": "douban_celebrity",
     "roles": [
@@ -15,54 +15,39 @@
     "birth_place": "美国",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5189426/",
+            "id": 5189426,
             "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "An American Tragedy",
-            "subject_id": "5189426"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1860580/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2513733273.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "人间蒸发",
-            "subject_id": "1860580"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1300474/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2638904294.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "蒙面与匿名",
-            "subject_id": "1300474"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5134951/",
+            "id": 5134951,
             "year": "2001",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "朝鲜战争",
-            "subject_id": "5134951"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1899664/",
+            "id": 1899664,
             "year": "2001",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1102945614.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "星际旅行：进取号 第一季",
-            "subject_id": "1899664"
+            "release": 1
+        },
+        {
+            "id": 1860580,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2513733273.jpg",
+            "title": "人间蒸发",
+            "release": 1
+        },
+        {
+            "id": 1300474,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2638904294.jpg",
+            "title": "蒙面与匿名",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -73,5 +58,5 @@
     "personage_link": "https://www.douban.com/personage/27453198/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T17:56:22"
+    "update_at": "2025-06-17T13:21:06"
 }

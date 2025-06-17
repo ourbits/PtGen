@@ -1,5 +1,5 @@
 {
-    "sid": 1028450,
+    "sid": "1028450",
     "name": "Richard Christian Matheson",
     "site": "douban_celebrity",
     "roles": [
@@ -17,104 +17,74 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/27149791/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554616579.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "噩梦影院",
-            "subject_id": "27149791"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26160013/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2498600335.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "大司机",
-            "subject_id": "26160013"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6803181/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2073151018.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "欲情",
-            "subject_id": "6803181"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5158313/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2555334853.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "Splatter",
-            "subject_id": "5158313"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5177969/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "编剧"
-            ],
-            "title": "Abused",
-            "subject_id": "5177969"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10480979/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518579280.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "恐怖大师 第二季",
-            "subject_id": "10480979"
-        },
-        {
-            "url": "https://movie.douban.com/subject/33444859/",
+            "id": 33444859,
             "year": "2006",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2556277485.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "The Damned Thing",
-            "subject_id": "33444859"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1829040/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2375145120.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "梦魇幻景录",
-            "subject_id": "1829040"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5220929/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2877515111.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "Tsunami Aid: A Concert of Hope",
-            "subject_id": "5220929"
-        },
-        {
-            "url": "https://movie.douban.com/subject/33444846/",
+            "id": 33444846,
             "year": "2005",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2556277435.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "死亡之舞",
-            "subject_id": "33444846"
+            "release": 1
+        },
+        {
+            "id": 27149791,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2563471064.jpg",
+            "title": "噩梦影院",
+            "release": 1
+        },
+        {
+            "id": 26160013,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2498600335.jpg",
+            "title": "大司机",
+            "release": 1
+        },
+        {
+            "id": 10480979,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518579280.jpg",
+            "title": "恐怖大师 第二季",
+            "release": 1
+        },
+        {
+            "id": 6803181,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2073151018.jpg",
+            "title": "欲情",
+            "release": 1
+        },
+        {
+            "id": 5220929,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2877515111.jpg",
+            "title": "Tsunami Aid: A Concert of Hope",
+            "release": 1
+        },
+        {
+            "id": 5177969,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Abused",
+            "release": 1
+        },
+        {
+            "id": 5158313,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2555334853.jpg",
+            "title": "Splatter",
+            "release": 1
+        },
+        {
+            "id": 1829040,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2375145120.jpg",
+            "title": "梦魇幻景录",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -128,5 +98,5 @@
         "Matheson Chris",
         "Chris Matheson"
     ],
-    "update_at": "2025-01-16T18:42:09"
+    "update_at": "2025-06-17T05:42:23"
 }

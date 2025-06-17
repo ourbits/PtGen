@@ -1,5 +1,5 @@
 {
-    "sid": 1028135,
+    "sid": "1028135",
     "name": "基隆·摩尔",
     "site": "douban_celebrity",
     "roles": [
@@ -17,105 +17,74 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5054123/",
-            "year": "1974",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872224238.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Zoo Gang",
-            "subject_id": "5054123"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5055428/",
-            "year": "1972",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635594155.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "保护者",
-            "subject_id": "5055428"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5055473/",
-            "year": "1972",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2630562262.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Adventurer",
-            "subject_id": "5055473"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5055859/",
-            "year": "1971",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512272821.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Jason King",
-            "subject_id": "5055859"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5088885/",
-            "year": "1970",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员",
-                "编剧"
-            ],
-            "title": "Ryan International",
-            "subject_id": "5088885"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5056693/",
-            "year": "1969",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2559041978.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "秘密指令",
-            "subject_id": "5056693"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3865126/",
-            "year": "1969",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2867664331.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "鬼探",
-            "subject_id": "3865126"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5058158/",
-            "year": "1967",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2523424314.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Bikini Paradise",
-            "subject_id": "5058158"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34453657/",
+            "id": 34453657,
             "year": "1967",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2561434275.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "钻石走私黑吃黑",
-            "subject_id": "34453657"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5230773/",
+            "id": 5230773,
             "year": "1967",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Boy Meets Girl",
-            "subject_id": "5230773"
+            "release": 1
+        },
+        {
+            "id": 5088885,
+            "year": "1970",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Ryan International",
+            "release": 1
+        },
+        {
+            "id": 5058158,
+            "year": "1967",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2523424314.jpg",
+            "title": "Bikini Paradise",
+            "release": 1
+        },
+        {
+            "id": 5056693,
+            "year": "1969",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2559041978.jpg",
+            "title": "秘密指令",
+            "release": 1
+        },
+        {
+            "id": 5055859,
+            "year": "1971",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512272821.jpg",
+            "title": "Jason King",
+            "release": 1
+        },
+        {
+            "id": 5055473,
+            "year": "1972",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2630562262.jpg",
+            "title": "The Adventurer",
+            "release": 1
+        },
+        {
+            "id": 5055428,
+            "year": "1972",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635594155.jpg",
+            "title": "保护者",
+            "release": 1
+        },
+        {
+            "id": 5054123,
+            "year": "1974",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872224238.jpg",
+            "title": "The Zoo Gang",
+            "release": 1
+        },
+        {
+            "id": 3865126,
+            "year": "1969",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2867664331.jpg",
+            "title": "鬼探",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -135,5 +104,5 @@
     "name_more_other": [
         "Kieron O'Hanrahan (本名)"
     ],
-    "update_at": "2025-01-16T20:14:19"
+    "update_at": "2025-06-17T10:35:06"
 }

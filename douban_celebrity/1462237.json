@@ -17,104 +17,74 @@
     "birth_place": "丹麦,哥本哈根",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35230529/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2686824649.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "在天堂的你",
-            "subject_id": "35230529"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34881001/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2661497581.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "信誓",
-            "subject_id": "34881001"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35613904/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2688890950.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "如果所有颜色都是蓝色？",
-            "subject_id": "35613904"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35613911/",
+            "id": 35613911,
             "year": "2018",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
             "title": "Klaphat",
-            "subject_id": "35613911"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27598365/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2520212549.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "惨雨 第一季",
-            "subject_id": "27598365"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35613908/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2688891718.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "En kæreste",
-            "subject_id": "35613908"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26717480/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2409816541.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "轰鸣中的鸟儿",
-            "subject_id": "26717480"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26553315/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2405564136.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "血色青春",
-            "subject_id": "26553315"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26296024/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2309301769.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "决斗",
-            "subject_id": "26296024"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35613909/",
+            "id": 35613909,
             "year": "2015",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2688892382.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "至暗之月",
-            "subject_id": "35613909"
+            "release": 1
+        },
+        {
+            "id": 35613908,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2688891718.jpg",
+            "title": "En kæreste",
+            "release": 1
+        },
+        {
+            "id": 35613904,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2688890950.jpg",
+            "title": "如果所有颜色都是蓝色？",
+            "release": 1
+        },
+        {
+            "id": 35230529,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2686824649.jpg",
+            "title": "在天堂的你",
+            "release": 1
+        },
+        {
+            "id": 34881001,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2661497581.jpg",
+            "title": "信誓",
+            "release": 1
+        },
+        {
+            "id": 27598365,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2520212549.jpg",
+            "title": "惨雨 第一季",
+            "release": 1
+        },
+        {
+            "id": 26717480,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2409816541.jpg",
+            "title": "轰鸣中的鸟儿",
+            "release": 1
+        },
+        {
+            "id": 26553315,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2405564136.jpg",
+            "title": "血色青春",
+            "release": 1
+        },
+        {
+            "id": 26296024,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2309301769.jpg",
+            "title": "决斗",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -125,5 +95,5 @@
     "personage_link": "https://www.douban.com/personage/35613572/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T08:00:21"
+    "update_at": "2025-06-17T20:07:08"
 }

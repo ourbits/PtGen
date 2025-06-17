@@ -1,5 +1,5 @@
 {
-    "sid": 1467422,
+    "sid": "1467422",
     "name": "阿努克 · 塞缪尔",
     "site": "douban_celebrity",
     "roles": [
@@ -15,24 +15,18 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/34463874/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2835775600.jpg",
-            "roles": [
-                "演员 (饰 Lisa)"
-            ],
-            "title": "亢奋 第二季",
-            "subject_id": "34463874"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35474355/",
+            "id": 35474355,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2652564555.jpg",
-            "roles": [
-                "演员 (饰 Kyra)"
-            ],
             "title": "逃离51区",
-            "subject_id": "35474355"
+            "release": 1
+        },
+        {
+            "id": 34463874,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2835775600.jpg",
+            "title": "亢奋 第二季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -43,5 +37,5 @@
     "personage_link": "https://www.douban.com/personage/35749832/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T23:14:04"
+    "update_at": "2025-06-17T10:21:17"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1361480,
+    "sid": "1361480",
     "name": "罗伯特·休斯",
     "site": "douban_celebrity",
     "roles": [
@@ -15,24 +15,25 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26804581/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2376090542.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "米洛·墨菲的法则 第一季",
-            "subject_id": "26804581"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37143042/",
+            "id": 37143042,
             "year": "2005",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2916019218.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "Billy and Mandy Save Christmas",
-            "subject_id": "37143042"
+            "release": 1
+        },
+        {
+            "id": 26804581,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2376090542.jpg",
+            "title": "米洛·墨菲的法则 第一季",
+            "release": 1
+        },
+        {
+            "id": 24870692,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2050404036.jpg",
+            "title": "飞哥与小佛 第四季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -43,5 +44,5 @@
     "personage_link": "https://www.douban.com/personage/27578865/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T14:14:24"
+    "update_at": "2025-06-17T13:21:09"
 }

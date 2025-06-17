@@ -1,5 +1,5 @@
 {
-    "sid": 1107582,
+    "sid": "1107582",
     "name": "安德鲁·诺",
     "site": "douban_celebrity",
     "roles": [
@@ -17,114 +17,81 @@
     "birth_place": "英国,英格兰,大曼彻斯特,索尔福德",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35797275/",
+            "id": 35797275,
             "year": "2023",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893198851.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "玛丽的世界",
-            "subject_id": "35797275"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35545609/",
+            "id": 35545609,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2883685796.jpg",
-            "roles": [
-                "演员 (饰 Daren)"
-            ],
             "title": "哺乳动物",
-            "subject_id": "35545609"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34862797/",
+            "id": 34862797,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2634199520.jpg",
-            "roles": [
-                "演员 (饰 Alfonso)"
-            ],
             "title": "列奥纳多",
-            "subject_id": "34862797"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27035601/",
+            "id": 34817108,
+            "year": "2030",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "恼怒",
+            "release": 0
+        },
+        {
+            "id": 27035601,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2523978939.jpg",
-            "roles": [
-                "演员 (饰 Alan)"
-            ],
             "title": "大叔花样游泳队",
-            "subject_id": "27035601"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26635987/",
+            "id": 26635987,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2457596229.jpg",
-            "roles": [
-                "演员 (饰 约书亚 Joshua)"
-            ],
             "title": "浮生梦",
-            "subject_id": "26635987"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26271090/",
+            "id": 26271090,
             "year": "2016",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2321805382.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "牧师神探 第二季",
-            "subject_id": "26271090"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/25986287/",
+            "id": 25986287,
             "year": "2015",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2217237904.jpg",
-            "roles": [
-                "演员 (饰 Eddie)"
-            ],
             "title": "香蕉",
-            "subject_id": "25986287"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/10562327/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2175914446.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "斯派克岛冒险之旅——致一群迷弟的青春",
-            "subject_id": "10562327"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4813493/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2196369839.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "挑战者联盟",
-            "subject_id": "4813493"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25760611/",
+            "id": 25760611,
             "year": "2013",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2157249962.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "英国国家剧院50周年庆典",
-            "subject_id": "25760611"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34817108/",
-            "year": "2030",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "编剧"
-            ],
-            "title": "恼怒",
-            "subject_id": "34817108"
+            "id": 10562327,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2175914446.jpg",
+            "title": "斯派克岛冒险之旅——致一群迷弟的青春",
+            "release": 1
+        },
+        {
+            "id": 4813493,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2196369839.jpg",
+            "title": "挑战者联盟",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -135,5 +102,5 @@
     "personage_link": "https://www.douban.com/personage/27313400/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T21:00:24"
+    "update_at": "2025-06-17T14:35:16"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1322721,
+    "sid": "1322721",
     "name": "江洪",
     "site": "douban_celebrity",
     "roles": [
@@ -17,76 +17,53 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35605392/",
+            "id": 35605392,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2691036812.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "水星的逆行",
-            "subject_id": "35605392"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26742714/",
+            "id": 26945252,
+            "year": "1976",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "四大金刚",
+            "release": 1
+        },
+        {
+            "id": 26742714,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2571979217.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "好友",
-            "subject_id": "26742714"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/6721659/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509415408.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "金手指",
-            "subject_id": "6721659"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2259830/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2375018558.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "神医喜来乐",
-            "subject_id": "2259830"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25841982/",
+            "id": 25841982,
             "year": "2002",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2555808464.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "关汉卿传奇",
-            "subject_id": "25841982"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/19974017/",
+            "id": 19974017,
             "year": "1978",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2609959758.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "忠烈精武门",
-            "subject_id": "19974017"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26945252/",
-            "year": "1976",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "编剧"
-            ],
-            "title": "四大金刚",
-            "subject_id": "26945252"
+            "id": 6721659,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509415408.jpg",
+            "title": "金手指",
+            "release": 1
+        },
+        {
+            "id": 2259830,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2375018558.jpg",
+            "title": "神医喜来乐",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -97,5 +74,5 @@
     "personage_link": "https://www.douban.com/personage/27567228/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T16:07:16"
+    "update_at": "2025-06-17T12:00:07"
 }

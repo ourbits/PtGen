@@ -1,5 +1,5 @@
 {
-    "sid": 1122097,
+    "sid": "1122097",
     "name": "鲁俊谷",
     "site": "douban_celebrity",
     "roles": [
@@ -17,105 +17,74 @@
     "birth_place": "中国,福建",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30263938/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554418561.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "巨人游戏",
-            "subject_id": "30263938"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26730499/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542307296.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "淫贱四大才子",
-            "subject_id": "26730499"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26865560/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2377348117.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "复仇者",
-            "subject_id": "26865560"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26575225/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2366934330.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "97江湖情",
-            "subject_id": "26575225"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26865942/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "女保镖",
-            "subject_id": "26865942"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3715749/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2232305393.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "血仍是冷",
-            "subject_id": "3715749"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26820407/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2360669282.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "无敌铁沙掌",
-            "subject_id": "26820407"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36638124/",
+            "id": 36638124,
             "year": "1995",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900481980.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "红花将",
-            "subject_id": "36638124"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2056130/",
-            "year": "1993",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2376255947.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "干将莫邪绝情",
-            "subject_id": "2056130"
+            "id": 30263938,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554418561.jpg",
+            "title": "巨人游戏",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4317153/",
+            "id": 26865942,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "女保镖",
+            "release": 1
+        },
+        {
+            "id": 26865560,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2377348117.jpg",
+            "title": "复仇者",
+            "release": 1
+        },
+        {
+            "id": 26820407,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2360669282.jpg",
+            "title": "无敌铁沙掌",
+            "release": 1
+        },
+        {
+            "id": 26730499,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542307296.jpg",
+            "title": "淫贱四大才子",
+            "release": 1
+        },
+        {
+            "id": 26575225,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2366934330.jpg",
+            "title": "97江湖情",
+            "release": 1
+        },
+        {
+            "id": 4317153,
             "year": "1993",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2456343444.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "火种",
-            "subject_id": "4317153"
+            "release": 1
+        },
+        {
+            "id": 3715749,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2232305393.jpg",
+            "title": "血仍是冷",
+            "release": 1
+        },
+        {
+            "id": 2056130,
+            "year": "1993",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2376255947.jpg",
+            "title": "干将莫邪绝情",
+            "release": 1
         }
     ],
     "introduction": "鲁俊谷，原名王振仰，福建金门人，1946年出生，1962年移居香港。鲁俊谷任演员时以「鲁俊」为艺名，1970年考进国泰机构演员训练班，不久签约为基本演员，国泰宣布开拍重头戏《观音客栈》，力捧高大硬朗、武打出色的鲁俊为男主角。 三个月后，国泰财政紧缩，《观音客栈》宣布流产，前途未明的鲁俊转投长江，在第一出作品《财色惊魂》中演一名奸角，虽然占戏不多，但表现出色。翌年鲁俊担大旗主演《龙兄虎弟》一片，崭露头角，随后在《盲拳》、《铁指唐手》中亦有出色表现。1974年，鲁俊开始涉足幕后工作，曾任罗马的副导演。1979年，鲁俊改名鲁俊谷，并於同年加盟邵氏公司，成为旗下导演。约满邵氏后，鲁俊谷出外任自由导演，近年已淡出影圈，偶在台湾拍戏。",
@@ -129,5 +98,5 @@
     "personage_link": "https://www.douban.com/personage/27327941/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T15:00:30"
+    "update_at": "2025-06-17T01:14:15"
 }

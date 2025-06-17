@@ -1,5 +1,5 @@
 {
-    "sid": 1037748,
+    "sid": "1037748",
     "name": "陈好",
     "site": "douban_celebrity",
     "roles": [
@@ -16,124 +16,81 @@
     "birth_place": "中国,山东,青岛",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/37019052/",
+            "id": 37019052,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912300255.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "花儿与少年 第六季",
-            "subject_id": "37019052"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36971155/",
+            "id": 36971155,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2910881902.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "花少看世界2024",
-            "subject_id": "36971155"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36098684/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2903998835.jpg",
-            "roles": [
-                "演员 (饰 戴静)"
-            ],
-            "title": "欢乐家长群",
-            "subject_id": "36098684"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34951103/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2689493412.jpg",
-            "roles": [
-                "演员 (饰 李世英)"
-            ],
-            "title": "功勋",
-            "subject_id": "34951103"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25872948/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2204206870.jpg",
-            "roles": [
-                "演员 (饰 文雅)"
-            ],
-            "title": "待嫁老爸",
-            "subject_id": "25872948"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10514849/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2021176143.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "新编辑部故事",
-            "subject_id": "10514849"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5905768/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2540614204.jpg",
-            "roles": [
-                "演员 (饰 孙红)"
-            ],
-            "title": "美丽鲜花在开放",
-            "subject_id": "5905768"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3237723/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2415710866.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "三国",
-            "subject_id": "3237723"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3543690/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1039534802.jpg",
-            "roles": [
-                "演员 (饰 傅冬菊)"
-            ],
-            "title": "建国大业",
-            "subject_id": "3543690"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3742094/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2374759468.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "马兰花",
-            "subject_id": "3742094"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25851756/",
-            "year": "2030",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539336754.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "秀才豆腐",
-            "subject_id": "25851756"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36923876/",
+            "id": 36923876,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915254177.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "欢乐家长群2",
-            "subject_id": "36923876"
+            "release": 0
+        },
+        {
+            "id": 36098684,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2903998835.jpg",
+            "title": "欢乐家长群",
+            "release": 1
+        },
+        {
+            "id": 34951103,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2689493412.jpg",
+            "title": "功勋",
+            "release": 1
+        },
+        {
+            "id": 25872948,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2204206870.jpg",
+            "title": "待嫁老爸",
+            "release": 1
+        },
+        {
+            "id": 10514849,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2021176143.jpg",
+            "title": "新编辑部故事",
+            "release": 1
+        },
+        {
+            "id": 5905768,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2540614204.jpg",
+            "title": "美丽鲜花在开放",
+            "release": 1
+        },
+        {
+            "id": 3742094,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2374759468.jpg",
+            "title": "马兰花",
+            "release": 1
+        },
+        {
+            "id": 3543690,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1039534802.jpg",
+            "title": "建国大业",
+            "release": 1
+        },
+        {
+            "id": 3237723,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2415710866.jpg",
+            "title": "三国",
+            "release": 1
         }
     ],
     "introduction": "陈好，中国著名女演员、歌手，1979年12月9日出生于山东青岛，1997年考入中央戏剧学院表演系本科班。中国电视艺术家协会演员工会副会长。因出演《粉红女郎》中的万人迷而成名，并获得中国电视金鹰奖观众最喜爱女演员奖。凭电影《求求你表扬我》获博鳌亚洲论坛中国电影杰出贡献奖。在《纸醉金迷》中，陈好凭借在该剧中的上佳表演，获得第四届首尔国际电视节最高奖项评审团特别奖，2010年《三国》出演貂蝉，备受关注。2010年和刘海峰结婚，2011年5月生下一女儿。2012年复出拍摄郑晓龙导演作品《新编辑部故事》。",
@@ -148,5 +105,5 @@
     "name_more_other": [
         "Chen Hao"
     ],
-    "update_at": "2025-01-16T21:21:06"
+    "update_at": "2025-06-17T02:42:12"
 }

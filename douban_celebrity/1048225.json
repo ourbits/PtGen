@@ -21,112 +21,74 @@
     "birth_place": "意大利,西西里岛,Bisacquino",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30462419/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2901699887.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "The Directors Season 1",
-            "subject_id": "30462419"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5053053/",
-            "year": "1977",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2588648329.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "圣诞情缘",
-            "subject_id": "5053053"
-        },
-        {
-            "url": "https://movie.douban.com/subject/24875939/",
-            "year": "1973",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915710279.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "电影制作人：弗兰克·卡普拉",
-            "subject_id": "24875939"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34960106/",
+            "id": 34960106,
             "year": "1964",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915710310.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "太空约会",
-            "subject_id": "34960106"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1303296/",
-            "year": "1961",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2558776748.jpg",
-            "roles": [
-                "导演",
-                "制片人"
-            ],
-            "title": "锦囊妙计",
-            "subject_id": "1303296"
+            "id": 30462419,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2901699887.jpg",
+            "title": "The Directors Season 1",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1294850/",
-            "year": "1959",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554253990.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "合家欢",
-            "subject_id": "1294850"
+            "id": 24875939,
+            "year": "1973",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915710279.jpg",
+            "title": "电影制作人：弗兰克·卡普拉",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5100914/",
-            "year": "1958",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2505534557.jpg",
-            "roles": [
-                "制片人",
-                "编剧"
-            ],
-            "title": "奔放的女神",
-            "subject_id": "5100914"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5101087/",
+            "id": 5101087,
             "year": "1957",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876759500.jpg",
-            "roles": [
-                "导演",
-                "制片人",
-                "编剧"
-            ],
             "title": "Hemo the Magnificent",
-            "subject_id": "5101087"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5100938/",
+            "id": 5100938,
             "year": "1957",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876748630.jpg",
-            "roles": [
-                "导演",
-                "制片人",
-                "编剧"
-            ],
             "title": "The Strange Case of the Cosmic Rays",
-            "subject_id": "5100938"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5100220/",
+            "id": 5100914,
+            "year": "1958",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2505534557.jpg",
+            "title": "奔放的女神",
+            "release": 1
+        },
+        {
+            "id": 5100220,
             "year": "1956",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912135082.jpg",
-            "roles": [
-                "导演",
-                "制片人",
-                "编剧"
-            ],
             "title": "Our Mr. Sun",
-            "subject_id": "5100220"
+            "release": 1
+        },
+        {
+            "id": 5053053,
+            "year": "1977",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2588648329.jpg",
+            "title": "圣诞情缘",
+            "release": 1
+        },
+        {
+            "id": 1303296,
+            "year": "1961",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2558776748.jpg",
+            "title": "锦囊妙计",
+            "release": 1
+        },
+        {
+            "id": 1294850,
+            "year": "1959",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554253990.jpg",
+            "title": "合家欢",
+            "release": 1
         }
     ],
     "introduction": "\"1897年5月18日，弗兰克·卡普拉出生在意大利西西里的Bisacquino。6年后，卡普拉全家登上开往纽约的客轮，去美国加州投奔弗兰克的哥哥本杰明，而当时全家两个大人和六个孩子对英语都一窍不通，在开往洛衫矶的火车上，一家人以面包和香蕉充饥，因为无法用英语交流。\\r\\n\\r\\n　　1909年，弗兰克进入洛衫矶的手工技术中学就读，放学后靠卖报纸赚钱，有时为了引起行人的注意多卖些报纸，弗兰克不惜和兄弟在街头撕打起来。后来弗兰克和别人组建了二人乐队，在洛衫矶的红灯区卖唱。弗兰克的家人劝他辍学打工，而怀有美国梦的弗兰克深知要出人头地就必须完成学业。1915年，弗兰克到Throop技术学院继续深造，在那里他因为蒙田的作品开始喜欢上诗歌。\\r\\n\\r\\n　　1917年4月，美国向德国宣战，弗兰克也应征入伍，成为一名军需官，不过在一战尾声的任务中，弗兰克染上了西班牙流感，这种流感曾在全世界夺走2000万人的生命，弗兰克也不得不离开部队。在康复期间，弗兰克成为了约翰·福特执导的一部影片的临时演员，在片中扮演一个苦力，谁也不曾料到，就是这个苦力在20年后成为了好莱坞的头号导演。\\r\\n\\r\\n　　在随后的日子里，弗兰克依然不知疲倦的从事不同职业，从修剪果树的工人到家庭教师，但大多时候他都处在失业当中，闲暇之余，他开始创作短篇故事，后来被用作剧本。1921年在旧金山，弗兰克被雇用帮助拍摄短片。1923年，弗兰克与第一任妻子移居好莱坞。\\r\\n\\r\\n　　1924年，弗兰克开始为著名喜剧演员哈里·朗东(Harry Langdon)的影片编写笑料，并被朗东看中，朗东后来指定弗兰克来执导1926年的《The Strong Man》，影片成为当年的热门。尽管已经步入影坛，但弗兰克的电影之路并非一帆风顺，他被人解雇、拖欠工资，直到哥伦比亚公司老板哈里·柯恩以1000美元的报酬聘他作导演，弗兰克不拘一格的执导风格很快被柯恩看中，一系列影片应运而生，随着弗兰克的声名日盛，片酬和投入也随之飙升，制片公司更借机迅速壮大。\\r\\n\\r\\n　　1933年，弗兰克以30万美元的投入拍摄了《一日贵妇》，首次博得奥斯卡的关注，获最佳导演奖提名，也由此奏响了他在好莱坞扬名立万的序曲。之后，卡普拉又凭借《一夜风流》、《浮生若梦》、《迪兹先生进城》、《史密斯先生到华盛顿》和《风云人物》获得了五次奥斯卡最佳导演提名，并凭借《一夜风流》、《浮生若梦》和《迪兹先生进城》三次捧起小金人。在电影界的大师地位从此确立无疑。\\r\\n\\r\\n　　在1936至1939年间，弗兰克曾任美国电影艺术与科学学院主席，1958年任柏林国际电影节评委会主席，在1960至1961年间任美国导演工会主席，1982年被美国电影学会授予终生成就奖。即使是在二战期间，弗兰克仍然身先士卒，开始拍摄宣传片，他的作品成为战争中最优秀的美国宣传片。\\r\\n\\r\\n　　1991年9月3日，在留给世人50余部在时间长河中历久弥新的作品之后，高龄94岁的弗兰克因心脏病在梦乡中永辞人世。（来源：时光网）\"",
@@ -147,5 +109,5 @@
     "name_more_other": [
         "Francesco Rosario Capra (本名)"
     ],
-    "update_at": "2025-01-16T06:56:20"
+    "update_at": "2025-06-17T05:14:09"
 }

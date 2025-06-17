@@ -1,5 +1,5 @@
 {
-    "sid": 1451435,
+    "sid": "1451435",
     "name": "Candace Mabry",
     "site": "douban_celebrity",
     "roles": [
@@ -15,24 +15,18 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26345350/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2238743866.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "怪物来我家",
-            "subject_id": "26345350"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26926437/",
+            "id": 26926437,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2482407749.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "追缉：炸弹客 第一季",
-            "subject_id": "26926437"
+            "release": 1
+        },
+        {
+            "id": 26345350,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2238743866.jpg",
+            "title": "怪物来我家",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -43,5 +37,5 @@
     "personage_link": "https://www.douban.com/personage/35360155/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T12:16:13"
+    "update_at": "2025-06-17T07:28:19"
 }

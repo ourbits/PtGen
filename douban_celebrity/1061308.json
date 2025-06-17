@@ -15,104 +15,74 @@
     "birth_place": "英国,伦敦",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5227748/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Disappeared",
-            "subject_id": "5227748"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2143882/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2243877297.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "法官约翰·迪德 第一季",
-            "subject_id": "2143882"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3887563/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2326968721.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "霍尔比市 第一季",
-            "subject_id": "3887563"
-        },
-        {
-            "url": "https://movie.douban.com/subject/24882759/",
+            "id": 24882759,
             "year": "1998",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2575264522.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "猫",
-            "subject_id": "24882759"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2148322/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2368754385.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "幻术大师 第一季",
-            "subject_id": "2148322"
+            "id": 5227748,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Disappeared",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1941203/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2255182533.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "心之所在 第一季",
-            "subject_id": "1941203"
+            "id": 3887563,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2326968721.jpg",
+            "title": "霍尔比市 第一季",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2348334/",
-            "year": "1996",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2176870902.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "达耳齐尔与帕斯科 第一季",
-            "subject_id": "2348334"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3432496/",
-            "year": "1977",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2910634865.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "在我忘却之前",
-            "subject_id": "3432496"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3433776/",
+            "id": 3433776,
             "year": "1992",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2557962658.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "心跳 第一季",
-            "subject_id": "3433776"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1301581/",
+            "id": 3432496,
+            "year": "1977",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2910634865.jpg",
+            "title": "在我忘却之前",
+            "release": 1
+        },
+        {
+            "id": 2348334,
+            "year": "1996",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2176870902.jpg",
+            "title": "达耳齐尔与帕斯科 第一季",
+            "release": 1
+        },
+        {
+            "id": 2148322,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2368754385.jpg",
+            "title": "幻术大师 第一季",
+            "release": 1
+        },
+        {
+            "id": 2143882,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2243877297.jpg",
+            "title": "法官约翰·迪德 第一季",
+            "release": 1
+        },
+        {
+            "id": 1941203,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2255182533.jpg",
+            "title": "心之所在 第一季",
+            "release": 1
+        },
+        {
+            "id": 1301581,
             "year": "1989",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508730155.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "神机妙探",
-            "subject_id": "1301581"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27267046/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T03:48:20"
+    "update_at": "2025-06-17T02:28:15"
 }

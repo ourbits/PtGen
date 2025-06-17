@@ -1,5 +1,5 @@
 {
-    "sid": 1154419,
+    "sid": "1154419",
     "name": "约什·托德",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "美国,加利福尼亚州,洛杉矶",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/2264715/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p620088759.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "鹰眼",
-            "subject_id": "2264715"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5223094/",
+            "id": 5223094,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508793317.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "The Still Life",
-            "subject_id": "5223094"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1427819/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p579870973.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "识骨寻踪 第一季",
-            "subject_id": "1427819"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2302029/",
+            "id": 2302029,
             "year": "2004",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871349128.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "萤火虫",
-            "subject_id": "2302029"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1307889/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2481902588.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "热力师奶",
-            "subject_id": "1307889"
+            "id": 2264715,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p620088759.jpg",
+            "title": "鹰眼",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2153567/",
+            "id": 2153567,
             "year": "2002",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "老鹰捉小鸡真人秀",
-            "subject_id": "2153567"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1306737/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p972392728.jpg",
-            "roles": [
-                "演员 (饰 Party Attendee with Boxing Gloves)"
-            ],
-            "title": "极限特工",
-            "subject_id": "1306737"
+            "id": 1427819,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p579870973.jpg",
+            "title": "识骨寻踪 第一季",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1301068/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1161427829.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "新丁驾到",
-            "subject_id": "1301068"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1417487/",
+            "id": 1417487,
             "year": "2002",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2341413936.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "盾牌 第一季",
-            "subject_id": "1417487"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1308641/",
+            "id": 1308641,
             "year": "2002",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2173828514.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "万里追凶",
-            "subject_id": "1308641"
+            "release": 1
+        },
+        {
+            "id": 1307889,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2481902588.jpg",
+            "title": "热力师奶",
+            "release": 1
+        },
+        {
+            "id": 1306737,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p972392728.jpg",
+            "title": "极限特工",
+            "release": 1
+        },
+        {
+            "id": 1301068,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1161427829.jpg",
+            "title": "新丁驾到",
+            "release": 1
         }
     ],
     "introduction": "约什·托德·格鲁伯（Joshua Todd Gruber）专业称为乔什·托德（Josh Todd），是美国音乐家，歌手，作曲家和演员，最著名的是美国摇滚乐队Buckcherry的主唱。",
@@ -125,5 +95,5 @@
     "name_more_other": [
         "Joshua Todd Gruber (本名)"
     ],
-    "update_at": "2025-01-16T18:35:18"
+    "update_at": "2025-06-17T08:21:10"
 }

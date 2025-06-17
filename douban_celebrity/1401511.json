@@ -1,5 +1,5 @@
 {
-    "sid": 1401511,
+    "sid": "1401511",
     "name": "红优",
     "site": "douban_celebrity",
     "roles": [
@@ -16,116 +16,74 @@
     "birth_place": "日本,大阪",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35904140/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900358511.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "ARGONAVIS剧场版：AXIA",
-            "subject_id": "35904140"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35322565/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871014695.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "ARGONAVIS剧场版：流星的伴奏",
-            "subject_id": "35322565"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35401287/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2660544801.jpg",
-            "roles": [
-                "其它 - 顾问"
-            ],
-            "title": "幻变梦境",
-            "subject_id": "35401287"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25802596/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2176410728.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "歌之☆王子殿下 真爱2000% TV未放送第14话",
-            "subject_id": "25802596"
-        },
-        {
-            "url": "https://movie.douban.com/subject/11610914/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1948138034.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "歌之☆王子殿下 真爱2000%",
-            "subject_id": "11610914"
-        },
-        {
-            "url": "https://movie.douban.com/subject/7005193/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1515345644.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "Smile光之美少女！",
-            "subject_id": "7005193"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5967021/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2176410253.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "歌之☆王子殿下 真爱1000%",
-            "subject_id": "5967021"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4195714/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2535765226.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "逆转监督",
-            "subject_id": "4195714"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3679613/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2869762261.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "海物语",
-            "subject_id": "3679613"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3138561/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2390559006.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "零之使魔3～三美姬的轮舞～",
-            "subject_id": "3138561"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36932249/",
+            "id": 36932249,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909560752.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "罪恶装备 奋战: 两位裁决者",
-            "subject_id": "36932249"
+            "release": 1
+        },
+        {
+            "id": 35904140,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900358511.jpg",
+            "title": "ARGONAVIS剧场版：AXIA",
+            "release": 1
+        },
+        {
+            "id": 35401287,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2660544801.jpg",
+            "title": "幻变梦境",
+            "release": 1
+        },
+        {
+            "id": 35322565,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871014695.jpg",
+            "title": "ARGONAVIS剧场版：流星的伴奏",
+            "release": 1
+        },
+        {
+            "id": 25802596,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2176410728.jpg",
+            "title": "歌之☆王子殿下 真爱2000% TV未放送第14话",
+            "release": 1
+        },
+        {
+            "id": 11610914,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1948138034.jpg",
+            "title": "歌之☆王子殿下 真爱2000%",
+            "release": 1
+        },
+        {
+            "id": 7005193,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1515345644.jpg",
+            "title": "Smile光之美少女！",
+            "release": 1
+        },
+        {
+            "id": 5967021,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2176410253.jpg",
+            "title": "歌之☆王子殿下 真爱1000%",
+            "release": 1
+        },
+        {
+            "id": 4195714,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2869762839.jpg",
+            "title": "逆转监督",
+            "release": 1
+        },
+        {
+            "id": 3679613,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2869762261.jpg",
+            "title": "海物语",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -145,5 +103,5 @@
         "湊屋夢吉",
         "Minatoya Yumekichi"
     ],
-    "update_at": "2025-01-16T20:00:19"
+    "update_at": "2025-06-17T12:21:21"
 }

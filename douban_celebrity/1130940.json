@@ -1,5 +1,5 @@
 {
-    "sid": 1130940,
+    "sid": "1130940",
     "name": "克里斯蒂娜·佩雷拉",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "巴西,圣保罗",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30301264/",
+            "id": 30301264,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2592684336.jpg",
-            "roles": [
-                "演员 (饰 Cecília)"
-            ],
             "title": "看不见的女人",
-            "subject_id": "30301264"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27621889/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509666619.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "别逗了，老妈！",
-            "subject_id": "27621889"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27625632/",
+            "id": 27625632,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510114892.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Pega Pega",
-            "subject_id": "27625632"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5176477/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510067295.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "法律与犯罪",
-            "subject_id": "5176477"
+            "id": 27621889,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509666619.jpg",
+            "title": "别逗了，老妈！",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5159756/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "O Sal da Terra",
-            "subject_id": "5159756"
+            "id": 5226456,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Começar de Novo",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5198747/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Vidas Opostas",
-            "subject_id": "5198747"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2127810/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529467567.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "连环骗",
-            "subject_id": "2127810"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5218317/",
+            "id": 5218317,
             "year": "2005",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2737064387.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Mais Uma Vez Amor",
-            "subject_id": "5218317"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5216611/",
+            "id": 5216611,
             "year": "2005",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "A Lua Me Disse",
-            "subject_id": "5216611"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5226456/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Começar de Novo",
-            "subject_id": "5226456"
+            "id": 5198747,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Vidas Opostas",
+            "release": 1
+        },
+        {
+            "id": 5176477,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510067295.jpg",
+            "title": "法律与犯罪",
+            "release": 1
+        },
+        {
+            "id": 5159756,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "O Sal da Terra",
+            "release": 1
+        },
+        {
+            "id": 2127810,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529467567.jpg",
+            "title": "连环骗",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -125,5 +95,5 @@
     "name_more_other": [
         "Maria Cristina Teixeira Pereira (本名)"
     ],
-    "update_at": "2025-01-16T23:00:16"
+    "update_at": "2025-06-17T09:14:06"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1231885,
+    "sid": "1231885",
     "name": "Jay Schmitt",
     "site": "douban_celebrity",
     "roles": [
@@ -15,54 +15,39 @@
     "birth_place": "美国,纽约,长岛,湾岸",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3213240/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2549992642.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "博尔登",
-            "subject_id": "3213240"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4302700/",
+            "id": 4302700,
             "year": "2010",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2204341595.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "血签名",
-            "subject_id": "4302700"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1994878/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1159848233.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "马克·皮斯的经历",
-            "subject_id": "1994878"
+            "id": 3213240,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2549992642.jpg",
+            "title": "博尔登",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2139200/",
+            "id": 2139200,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2462490784.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "阳光会再来",
-            "subject_id": "2139200"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1394822/",
+            "id": 1994878,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1159848233.jpg",
+            "title": "马克·皮斯的经历",
+            "release": 1
+        },
+        {
+            "id": 1394822,
             "year": "2003",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2375141000.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "篮球兄弟 第一季",
-            "subject_id": "1394822"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -75,5 +60,5 @@
     "name_more_other": [
         "Jay Arthur Schmitt (本名)"
     ],
-    "update_at": "2025-01-16T13:32:13"
+    "update_at": "2025-06-17T13:14:15"
 }

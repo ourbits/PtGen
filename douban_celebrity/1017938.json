@@ -17,104 +17,74 @@
     "birth_place": "美国,俄亥俄州,斯托本维尔",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30144230/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2513164274.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "埃尔维斯·普雷斯利：思索者",
-            "subject_id": "30144230"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34899464/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2575130693.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Ocean's Eleven Story",
-            "subject_id": "34899464"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34899457/",
-            "year": "1992",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2575130605.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Martin & Lewis: Their Golden Age of Comedy Season 1",
-            "subject_id": "34899457"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34925359/",
+            "id": 34925359,
             "year": "1992",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2578248836.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "The Martin & Lewis Story: The Last Great Comedy Team",
-            "subject_id": "34925359"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5048763/",
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2541089927.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "半个尼尔森",
-            "subject_id": "5048763"
+            "id": 34899464,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2575130693.jpg",
+            "title": "The Ocean's Eleven Story",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26852629/",
+            "id": 34899457,
+            "year": "1992",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2575130605.jpg",
+            "title": "Martin & Lewis: Their Golden Age of Comedy Season 1",
+            "release": 1
+        },
+        {
+            "id": 30144230,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2513164274.jpg",
+            "title": "埃尔维斯·普雷斯利：思索者",
+            "release": 1
+        },
+        {
+            "id": 26852629,
             "year": "1985",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2599123531.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Half Nelson",
-            "subject_id": "26852629"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1293629/",
-            "year": "1984",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1969432244.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "炮弹飞车2",
-            "subject_id": "1293629"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1295948/",
-            "year": "1981",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1969428542.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "炮弹飞车",
-            "subject_id": "1295948"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5123155/",
+            "id": 5123155,
             "year": "1980",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Shirley MacLaine... 'Every Little Movement'",
-            "subject_id": "5123155"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5052109/",
+            "id": 5052109,
             "year": "1979",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2599132748.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "洛博警长的不幸",
-            "subject_id": "5052109"
+            "release": 1
+        },
+        {
+            "id": 5048763,
+            "year": "1985",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2541089927.jpg",
+            "title": "半个尼尔森",
+            "release": 1
+        },
+        {
+            "id": 1295948,
+            "year": "1981",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1969428542.jpg",
+            "title": "炮弹飞车",
+            "release": 1
+        },
+        {
+            "id": 1293629,
+            "year": "1984",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1969432244.jpg",
+            "title": "炮弹飞车2",
+            "release": 1
         }
     ],
     "introduction": "迪恩·马丁（Dean Martin，1917年6月7日－1995年12月25日），是一位美国歌手、演员、笑星和电影制片人。马丁以看似轻松的魅力和自恃被昵称为“酷王”。他是20世纪中期最为流行和持久的美国艺人之一。他和杰利·路易斯是合作伙伴，成为流行的喜剧团队“马丁和路易斯”。",
@@ -135,5 +105,5 @@
         "Dino Paul Crocetti (本名)",
         "Dino (昵称)"
     ],
-    "update_at": "2025-01-16T04:08:44"
+    "update_at": "2025-06-17T08:14:11"
 }

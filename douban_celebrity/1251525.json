@@ -15,54 +15,39 @@
     "birth_place": "丹麦,哥本哈根",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5180265/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Mille",
-            "subject_id": "5180265"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3274416/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "金号角",
-            "subject_id": "3274416"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5203869/",
+            "id": 5203869,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2162845696.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "丹麦版谋杀 第一季",
-            "subject_id": "5203869"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5198310/",
+            "id": 5198310,
             "year": "2006",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Absalons hemmelighed",
-            "subject_id": "5198310"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5125014/",
+            "id": 5180265,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Mille",
+            "release": 1
+        },
+        {
+            "id": 5125014,
             "year": "2004",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2172311267.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "编年史",
-            "subject_id": "5125014"
+            "release": 1
+        },
+        {
+            "id": 3274416,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "金号角",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -75,5 +60,5 @@
     "name_more_other": [
         "Victoria Kavsman Bergh (本名)"
     ],
-    "update_at": "2025-01-16T03:56:10"
+    "update_at": "2025-06-17T22:28:16"
 }

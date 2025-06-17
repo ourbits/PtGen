@@ -1,10 +1,10 @@
 {
-    "sid": 1388568,
+    "sid": "1388568",
     "name": "克里斯·考克斯",
     "site": "douban_celebrity",
     "roles": [
-        "演员",
-        "配音"
+        "配音",
+        "演员"
     ],
     "awards": [],
     "gender": "男",
@@ -16,84 +16,67 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/34418203/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2641221021.jpg",
-            "roles": [
-                "演员 - 配音 (配 Male Backgound)"
-            ],
-            "title": "爱，死亡和机器人 第二季",
-            "subject_id": "34418203"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30313878/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2633924081.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "外星也难民 第二季",
-            "subject_id": "30313878"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35181083/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2630490645.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "蝙蝠侠：龙之魂",
-            "subject_id": "35181083"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30312909/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2600469202.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "外星也难民 第一季",
-            "subject_id": "30312909"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27090813/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508472121.jpg",
-            "roles": [
-                "演员 - 配音 (配 卡拉汉 Father Callahan)"
-            ],
-            "title": "蝙蝠侠：煤气灯下的哥谭",
-            "subject_id": "27090813"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35684009/",
+            "id": 35684009,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2757085405.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "彼得罗夫的决定",
-            "subject_id": "35684009"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30226766/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Greenboy: Prescription for Death",
-            "subject_id": "30226766"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35482936/",
+            "id": 35482936,
             "year": "2011",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
             "title": "Dick and Dom's Funny Business Season 1",
-            "subject_id": "35482936"
+            "release": 1
+        },
+        {
+            "id": 35181083,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2630490645.jpg",
+            "title": "蝙蝠侠：龙之魂",
+            "release": 1
+        },
+        {
+            "id": 34418203,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2641221021.jpg",
+            "title": "爱，死亡和机器人 第二季",
+            "release": 1
+        },
+        {
+            "id": 30313878,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2633924081.jpg",
+            "title": "外星也难民 第二季",
+            "release": 1
+        },
+        {
+            "id": 30312909,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2600469202.jpg",
+            "title": "外星也难民 第一季",
+            "release": 1
+        },
+        {
+            "id": 30226766,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Greenboy: Prescription for Death",
+            "release": 1
+        },
+        {
+            "id": 27090813,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508472121.jpg",
+            "title": "蝙蝠侠：煤气灯下的哥谭",
+            "release": 1
+        },
+        {
+            "id": 22622846,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2917577253.jpg",
+            "title": "复仇者集结 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -104,5 +87,5 @@
     "personage_link": "https://www.douban.com/personage/30145279/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T11:50:34"
+    "update_at": "2025-06-17T06:42:19"
 }

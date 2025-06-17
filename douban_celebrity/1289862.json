@@ -1,5 +1,5 @@
 {
-    "sid": 1289862,
+    "sid": "1289862",
     "name": "梁华生",
     "site": "douban_celebrity",
     "roles": [
@@ -21,114 +21,81 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35158157/",
+            "id": 35158157,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2627274455.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "好好拍电影",
-            "subject_id": "35158157"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27170611/",
+            "id": 27170611,
             "year": "2017",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "一夜再成名",
-            "subject_id": "27170611"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26556228/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2256602640.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "元气传2",
-            "subject_id": "26556228"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26366467/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2244975590.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "元气传",
-            "subject_id": "26366467"
-        },
-        {
-            "url": "https://movie.douban.com/subject/24754062/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2504313040.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "深宫怨灵",
-            "subject_id": "24754062"
-        },
-        {
-            "url": "https://movie.douban.com/subject/24380665/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1952529212.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "时差",
-            "subject_id": "24380665"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1427343/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359915273.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "大无畏",
-            "subject_id": "1427343"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1307875/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1252494363.jpg",
-            "roles": [
-                "美术 - 美术指导"
-            ],
-            "title": "公元2000 AD",
-            "subject_id": "1307875"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1302425/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2579932167.jpg",
-            "roles": [
-                "美术 - 美术顾问"
-            ],
-            "title": "喜剧之王",
-            "subject_id": "1302425"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1295481/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2520357477.jpg",
-            "roles": [
-                "美术 - 美术设计"
-            ],
-            "title": "碧血蓝天",
-            "subject_id": "1295481"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27125443/",
+            "id": 27125443,
             "year": "2030",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2497773174.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "困兽",
-            "subject_id": "27125443"
+            "release": 0
+        },
+        {
+            "id": 26556228,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2256602640.jpg",
+            "title": "元气传2",
+            "release": 1
+        },
+        {
+            "id": 26366467,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2244975590.jpg",
+            "title": "元气传",
+            "release": 1
+        },
+        {
+            "id": 24754062,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2504313040.jpg",
+            "title": "深宫怨灵",
+            "release": 1
+        },
+        {
+            "id": 24380665,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1952529212.jpg",
+            "title": "时差",
+            "release": 1
+        },
+        {
+            "id": 1427343,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359915273.jpg",
+            "title": "大无畏",
+            "release": 1
+        },
+        {
+            "id": 1307875,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1252494363.jpg",
+            "title": "公元2000 AD",
+            "release": 1
+        },
+        {
+            "id": 1302425,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2579932167.jpg",
+            "title": "喜剧之王",
+            "release": 1
+        },
+        {
+            "id": 1295481,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2520357477.jpg",
+            "title": "碧血蓝天",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -139,5 +106,5 @@
     "personage_link": "https://www.douban.com/personage/27518141/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T23:07:21"
+    "update_at": "2025-06-17T11:42:13"
 }

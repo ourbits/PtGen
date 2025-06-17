@@ -1,5 +1,5 @@
 {
-    "sid": 1010746,
+    "sid": "1010746",
     "name": "劳伦斯·普莱斯曼",
     "site": "douban_celebrity",
     "roles": [
@@ -17,104 +17,81 @@
     "birth_place": "美国,肯塔基州,辛西亚纳",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35733443/",
+            "id": 36620853,
             "year": "2023",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "守护天使",
-            "subject_id": "35733443"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36620853/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2901383468.jpg",
-            "roles": [
-                "演员 - 配音 (配 Bernard Kohl)"
-            ],
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2901601069.jpg",
             "title": "凯洛的末日日常",
-            "subject_id": "36620853"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/25824854/",
+            "id": 35733443,
+            "year": "2026",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2919693636.jpg",
+            "title": "守护天使",
+            "release": 0
+        },
+        {
+            "id": 25824854,
             "year": "2014",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2198061683.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "透明家庭 第一季",
-            "subject_id": "25824854"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5189733/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1973777187.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Tickling Leo",
-            "subject_id": "5189733"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3008671/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p650097258.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "母与子",
-            "subject_id": "3008671"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3657538/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1073265652.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "护士长的故事 第一季",
-            "subject_id": "3657538"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3141950/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2003242326.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "超感神探 第一季",
-            "subject_id": "3141950"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2122928/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2867510798.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "格蕾丝的救赎 第一季",
-            "subject_id": "2122928"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5217114/",
+            "id": 5217114,
             "year": "2006",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1958677476.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "导师",
-            "subject_id": "5217114"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2216973/",
+            "id": 5189733,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1973777187.jpg",
+            "title": "Tickling Leo",
+            "release": 1
+        },
+        {
+            "id": 3657538,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1073265652.jpg",
+            "title": "护士长的故事 第一季",
+            "release": 1
+        },
+        {
+            "id": 3141950,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2003242326.jpg",
+            "title": "超感神探 第一季",
+            "release": 1
+        },
+        {
+            "id": 3008671,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p650097258.jpg",
+            "title": "母与子",
+            "release": 1
+        },
+        {
+            "id": 2216973,
             "year": "2006",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2316001797.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "浩劫余生",
-            "subject_id": "2216973"
+            "release": 1
+        },
+        {
+            "id": 2122928,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2867510798.jpg",
+            "title": "格蕾丝的救赎 第一季",
+            "release": 1
+        },
+        {
+            "id": 1755972,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1894796133.jpg",
+            "title": "美国梦",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -127,5 +104,5 @@
     "name_more_other": [
         "David M. Pressman (本名)"
     ],
-    "update_at": "2025-01-16T12:00:22"
+    "update_at": "2025-06-17T06:14:21"
 }

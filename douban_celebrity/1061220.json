@@ -1,5 +1,5 @@
 {
-    "sid": 1061220,
+    "sid": "1061220",
     "name": "Jim Bentley",
     "site": "douban_celebrity",
     "roles": [
@@ -15,44 +15,32 @@
     "birth_place": "美国,加利福尼亚州",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3286543/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2228920659.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "老友记  第六季",
-            "subject_id": "3286543"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2134021/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359483445.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "It's Like, You Know",
-            "subject_id": "2134021"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3286536/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2375152053.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "老友记  第四季",
-            "subject_id": "3286536"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5218287/",
+            "id": 5218287,
             "year": "1985",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2902210086.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Thinking Big",
-            "subject_id": "5218287"
+            "release": 1
+        },
+        {
+            "id": 3286543,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2228920659.jpg",
+            "title": "老友记  第六季",
+            "release": 1
+        },
+        {
+            "id": 3286536,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2375152053.jpg",
+            "title": "老友记  第四季",
+            "release": 1
+        },
+        {
+            "id": 2134021,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359483445.jpg",
+            "title": "It's Like, You Know",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -65,5 +53,5 @@
     "name_more_other": [
         "James Bending (本名)"
     ],
-    "update_at": "2025-01-16T13:16:21"
+    "update_at": "2025-06-17T15:28:18"
 }

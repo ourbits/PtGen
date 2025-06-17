@@ -16,104 +16,74 @@
     "birth_place": "美国,马萨诸塞州,塞勒姆",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1868595/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1305800316.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "战争与回忆",
-            "subject_id": "1868595"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1298727/",
-            "year": "1982",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1227337378.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "空前绝后满天飞2：瞒天过海飞飞飞",
-            "subject_id": "1298727"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5051069/",
-            "year": "1981",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2626903830.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Private Benjamin",
-            "subject_id": "5051069"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5051055/",
-            "year": "1981",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2152535627.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "西蒙兄弟",
-            "subject_id": "5051055"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1950715/",
-            "year": "1981",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2379978812.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "豪门恩怨 第一季",
-            "subject_id": "1950715"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1305385/",
-            "year": "1979",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2423173225.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "鬼哭神嚎",
-            "subject_id": "1305385"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5052142/",
-            "year": "1979",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2878731946.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "杜克兄弟",
-            "subject_id": "5052142"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5052558/",
-            "year": "1978",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2624095746.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "杏林罪魁",
-            "subject_id": "5052558"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5052635/",
+            "id": 5052635,
             "year": "1978",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872931362.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Vega$",
-            "subject_id": "5052635"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4300646/",
+            "id": 5052558,
+            "year": "1978",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2624095746.jpg",
+            "title": "杏林罪魁",
+            "release": 1
+        },
+        {
+            "id": 5052142,
+            "year": "1979",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2878731946.jpg",
+            "title": "杜克兄弟",
+            "release": 1
+        },
+        {
+            "id": 5051069,
+            "year": "1981",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2626903830.jpg",
+            "title": "Private Benjamin",
+            "release": 1
+        },
+        {
+            "id": 5051055,
+            "year": "1981",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2152535627.jpg",
+            "title": "西蒙兄弟",
+            "release": 1
+        },
+        {
+            "id": 4300646,
             "year": "1978",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2460242754.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "陨石大灾难",
-            "subject_id": "4300646"
+            "release": 1
+        },
+        {
+            "id": 1950715,
+            "year": "1981",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2379978812.jpg",
+            "title": "豪门恩怨 第一季",
+            "release": 1
+        },
+        {
+            "id": 1868595,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1305800316.jpg",
+            "title": "战争与回忆",
+            "release": 1
+        },
+        {
+            "id": 1305385,
+            "year": "1979",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2423173225.jpg",
+            "title": "鬼哭神嚎",
+            "release": 1
+        },
+        {
+            "id": 1298727,
+            "year": "1982",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1227337378.jpg",
+            "title": "空前绝后满天飞2：瞒天过海飞飞飞",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -129,5 +99,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-16T07:00:24"
+    "update_at": "2025-06-17T21:07:22"
 }

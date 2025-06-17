@@ -17,69 +17,46 @@
     "birth_place": "美国,新泽西州,哈肯萨克",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5165799/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Opening Night of the Living Dead",
-            "subject_id": "5165799"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5199057/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员",
-                "制片人",
-                "副导演"
-            ],
-            "title": "Reaped",
-            "subject_id": "5199057"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5201103/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员",
-                "制片人"
-            ],
-            "title": "Nothin's Plenty",
-            "subject_id": "5201103"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5229896/",
+            "id": 5229896,
             "year": "2004",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员",
-                "制片人",
-                "副导演"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Camera Shy",
-            "subject_id": "5229896"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4853266/",
+            "id": 5201103,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Nothin's Plenty",
+            "release": 1
+        },
+        {
+            "id": 5199057,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Reaped",
+            "release": 1
+        },
+        {
+            "id": 5165799,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Opening Night of the Living Dead",
+            "release": 1
+        },
+        {
+            "id": 4853266,
             "year": "1976",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
             "title": "周六夜现场",
-            "subject_id": "4853266"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1887452/",
+            "id": 1887452,
             "year": "1975",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2503284915.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "周六夜现场 第一季",
-            "subject_id": "1887452"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -90,5 +67,5 @@
     "personage_link": "https://www.douban.com/personage/27406100/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T06:24:09"
+    "update_at": "2025-06-17T14:07:14"
 }

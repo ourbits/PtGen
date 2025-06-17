@@ -16,104 +16,74 @@
     "birth_place": "法国,巴黎",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5152663/",
+            "id": 5152663,
             "year": "2010",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Quartier latin",
-            "subject_id": "5152663"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5150832/",
+            "id": 5150832,
             "year": "2010",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Big Jim",
-            "subject_id": "5150832"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4730827/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2193568263.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "不留痕迹",
-            "subject_id": "4730827"
+            "id": 5147579,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Les enfants du printemps",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4196152/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "犯罪",
-            "subject_id": "4196152"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1898524/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2516249406.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "高老头",
-            "subject_id": "1898524"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5136904/",
+            "id": 5136904,
             "year": "2001",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2606090271.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Thérèse et Léon",
-            "subject_id": "5136904"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5147579/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Les enfants du printemps",
-            "subject_id": "5147579"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1441563/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2368413664.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "幽情秘恋",
-            "subject_id": "1441563"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1301670/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554803835.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "追忆似水年华",
-            "subject_id": "1301670"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5097697/",
+            "id": 5097697,
             "year": "1996",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2372857499.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "女侦缉队长",
-            "subject_id": "5097697"
+            "release": 1
+        },
+        {
+            "id": 4730827,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2193568263.jpg",
+            "title": "不留痕迹",
+            "release": 1
+        },
+        {
+            "id": 4196152,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "犯罪",
+            "release": 1
+        },
+        {
+            "id": 1898524,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2516249406.jpg",
+            "title": "高老头",
+            "release": 1
+        },
+        {
+            "id": 1441563,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2368413664.jpg",
+            "title": "幽情秘恋",
+            "release": 1
+        },
+        {
+            "id": 1301670,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554803835.jpg",
+            "title": "追忆似水年华",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -124,5 +94,5 @@
     "personage_link": "https://www.douban.com/personage/27254231/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T05:56:20"
+    "update_at": "2025-06-17T09:35:12"
 }

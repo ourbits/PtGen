@@ -1,5 +1,5 @@
 {
-    "sid": 1046256,
+    "sid": "1046256",
     "name": "麦·安迪",
     "site": "douban_celebrity",
     "roles": [
@@ -17,61 +17,39 @@
     "birth_place": "美国,纽约",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3699265/",
-            "year": "1981",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2517002266.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "纪录说谎家",
-            "subject_id": "3699265"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1304740/",
-            "year": "1973",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2333036982.jpg",
-            "roles": [
-                "演员",
-                "导演",
-                "编剧"
-            ],
-            "title": "日本沉没",
-            "subject_id": "1304740"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3591753/",
-            "year": "1972",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2374524282.jpg",
-            "roles": [
-                "演员",
-                "导演",
-                "编剧"
-            ],
-            "title": "蛇变惊魂夜",
-            "subject_id": "3591753"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5140691/",
+            "id": 5140691,
             "year": "1970",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "剪辑",
-                "制片人",
-                "编剧"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "The Sky Pirate",
-            "subject_id": "5140691"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5058004/",
+            "id": 5058004,
             "year": "1966",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2882090541.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "Match Girl",
-            "subject_id": "5058004"
+            "release": 1
+        },
+        {
+            "id": 3699265,
+            "year": "1981",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2517002266.jpg",
+            "title": "纪录说谎家",
+            "release": 1
+        },
+        {
+            "id": 3591753,
+            "year": "1972",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2374524282.jpg",
+            "title": "蛇变惊魂夜",
+            "release": 1
+        },
+        {
+            "id": 1304740,
+            "year": "1973",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2333036982.jpg",
+            "title": "日本沉没",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -89,5 +67,5 @@
     "name_more_other": [
         "Andrew C. Meyer"
     ],
-    "update_at": "2025-01-16T20:42:20"
+    "update_at": "2025-06-17T03:42:05"
 }

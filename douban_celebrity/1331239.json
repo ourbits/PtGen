@@ -15,104 +15,74 @@
     "birth_place": "中国,香港",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/25783417/",
-            "year": "1993",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895868095.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "初恋三十年",
-            "subject_id": "25783417"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2294261/",
-            "year": "1992",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1902987875.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "神仙老爸",
-            "subject_id": "2294261"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26709653/",
-            "year": "1991",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2319808039.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "黑色缉毒令",
-            "subject_id": "26709653"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3221598/",
-            "year": "1991",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2523087994.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "京城四少",
-            "subject_id": "3221598"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36494260/",
+            "id": 36494260,
             "year": "1990",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2896122573.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "百劫红颜未了情",
-            "subject_id": "36494260"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4207092/",
-            "year": "1987",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2575173590.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "昨日梦已远",
-            "subject_id": "4207092"
+            "id": 26709653,
+            "year": "1991",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2319808039.jpg",
+            "title": "黑色缉毒令",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3066854/",
-            "year": "1987",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2204693117.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "厉鬼缠身",
-            "subject_id": "3066854"
+            "id": 25783417,
+            "year": "1993",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895868095.jpg",
+            "title": "初恋三十年",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1464936/",
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2913664876.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "何必有我？",
-            "subject_id": "1464936"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5108802/",
+            "id": 5108802,
             "year": "1985",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2004739869.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "疯狂游戏",
-            "subject_id": "5108802"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1307371/",
+            "id": 4207092,
+            "year": "1987",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2575173590.jpg",
+            "title": "昨日梦已远",
+            "release": 1
+        },
+        {
+            "id": 3221598,
+            "year": "1991",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2523087994.jpg",
+            "title": "京城四少",
+            "release": 1
+        },
+        {
+            "id": 3066854,
+            "year": "1987",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2204693117.jpg",
+            "title": "厉鬼缠身",
+            "release": 1
+        },
+        {
+            "id": 2294261,
+            "year": "1992",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1902987875.jpg",
+            "title": "神仙老爸",
+            "release": 1
+        },
+        {
+            "id": 1464936,
+            "year": "1985",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2913664876.jpg",
+            "title": "何必有我？",
+            "release": 1
+        },
+        {
+            "id": 1307371,
             "year": "1984",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1995000284.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "开心鬼",
-            "subject_id": "1307371"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27542442/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T05:48:10"
+    "update_at": "2025-06-17T01:42:11"
 }

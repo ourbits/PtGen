@@ -1,5 +1,5 @@
 {
-    "sid": 1069148,
+    "sid": "1069148",
     "name": "拉尔夫克兰顿",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "美国,加利福尼亚州,弗雷斯诺",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1301553/",
-            "year": "1983",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2407369895.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "颠倒乾坤",
-            "subject_id": "1301553"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5095631/",
+            "id": 5095631,
             "year": "1982",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904870533.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "美国剧场",
-            "subject_id": "5095631"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1302268/",
-            "year": "1975",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2457008809.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "生命的怒吼",
-            "subject_id": "1302268"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2349045/",
-            "year": "1972",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2570481187.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "伟大的表演 第一季",
-            "subject_id": "2349045"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3067436/",
-            "year": "1971",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2492765383.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "迷幻侦探",
-            "subject_id": "3067436"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5056255/",
-            "year": "1970",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Somerset",
-            "subject_id": "5056255"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4051893/",
-            "year": "1964",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870046329.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "另一个世界",
-            "subject_id": "4051893"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5059269/",
-            "year": "1962",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Beachcomber",
-            "subject_id": "5059269"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3641171/",
-            "year": "1962",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2440330753.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "逃亡喋血",
-            "subject_id": "3641171"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5059667/",
+            "id": 5059667,
             "year": "1961",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2613908532.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Hazel",
-            "subject_id": "5059667"
+            "release": 1
+        },
+        {
+            "id": 5059269,
+            "year": "1962",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Beachcomber",
+            "release": 1
+        },
+        {
+            "id": 5056255,
+            "year": "1970",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Somerset",
+            "release": 1
+        },
+        {
+            "id": 4051893,
+            "year": "1964",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870046329.jpg",
+            "title": "另一个世界",
+            "release": 1
+        },
+        {
+            "id": 3641171,
+            "year": "1962",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2440330753.jpg",
+            "title": "零年的恐慌",
+            "release": 1
+        },
+        {
+            "id": 3067436,
+            "year": "1971",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2492765383.jpg",
+            "title": "迷幻侦探",
+            "release": 1
+        },
+        {
+            "id": 2349045,
+            "year": "1972",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2570481187.jpg",
+            "title": "伟大的表演 第一季",
+            "release": 1
+        },
+        {
+            "id": 1302268,
+            "year": "1975",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2457008809.jpg",
+            "title": "生命的怒吼",
+            "release": 1
+        },
+        {
+            "id": 1301553,
+            "year": "1983",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2407369895.jpg",
+            "title": "颠倒乾坤",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -129,5 +99,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-16T12:00:11"
+    "update_at": "2025-06-17T18:35:08"
 }

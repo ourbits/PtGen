@@ -1,5 +1,5 @@
 {
-    "sid": 1003908,
+    "sid": "1003908",
     "name": "孙瑜",
     "site": "douban_celebrity",
     "roles": [
@@ -19,109 +19,74 @@
     "birth_place": "中国,四川,重庆",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1293414/",
-            "year": "1991",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p768817927.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "阮玲玉",
-            "subject_id": "1293414"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30301820/",
+            "id": 30301820,
             "year": "1983",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2531204808.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "中国的电影",
-            "subject_id": "30301820"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/6518756/",
-            "year": "1960",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2345648022.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "秦娘美",
-            "subject_id": "6518756"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2375631/",
-            "year": "1958",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2548396909.jpg",
-            "roles": [
-                "导演",
-                "剪辑"
-            ],
-            "title": "鲁班的传说",
-            "subject_id": "2375631"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5122160/",
-            "year": "1957",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2548013877.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "乘风破浪",
-            "subject_id": "5122160"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2136122/",
-            "year": "1955",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2548600182.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "宋景诗",
-            "subject_id": "2136122"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1432824/",
-            "year": "1951",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1576044853.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "武训传",
-            "subject_id": "1432824"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2142731/",
-            "year": "1941",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2535977341.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "火的洗礼",
-            "subject_id": "2142731"
-        },
-        {
-            "url": "https://movie.douban.com/subject/11625170/",
+            "id": 11625170,
             "year": "1940",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539276702.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "长空万里",
-            "subject_id": "11625170"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1466033/",
+            "id": 6518756,
+            "year": "1960",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2345648022.jpg",
+            "title": "秦娘美",
+            "release": 1
+        },
+        {
+            "id": 5122160,
+            "year": "1957",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2548013877.jpg",
+            "title": "乘风破浪",
+            "release": 1
+        },
+        {
+            "id": 2375631,
+            "year": "1958",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2548396909.jpg",
+            "title": "鲁班的传说",
+            "release": 1
+        },
+        {
+            "id": 2142731,
+            "year": "1941",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2535977341.jpg",
+            "title": "火的洗礼",
+            "release": 1
+        },
+        {
+            "id": 2136122,
+            "year": "1955",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2548600182.jpg",
+            "title": "宋景诗",
+            "release": 1
+        },
+        {
+            "id": 1466033,
             "year": "1937",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2327250073.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "联华交响曲",
-            "subject_id": "1466033"
+            "release": 1
+        },
+        {
+            "id": 1432824,
+            "year": "1951",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1576044853.jpg",
+            "title": "武训传",
+            "release": 1
+        },
+        {
+            "id": 1293414,
+            "year": "1991",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p768817927.jpg",
+            "title": "阮玲玉",
+            "release": 1
         }
     ],
     "introduction": "孙瑜，编剧、导演。幼年曾随家人到过上海，在上海的一家戏院中第一次接触到电影。1914年孙瑜入南开中学，与少年周恩来曾同过四年学。当时周恩来在学校编演《一圆钱》进步话剧，孙瑜对他佩服得五体投地。一天，孙瑜在校园里偶然遇见了周恩来，他一下子站了起来。专心看文稿的周恩来停步，好像看出孙瑜要和他讲话，便对他笑笑。孙瑜脱口而出：“《一圆钱》真棒！演得真棒。”周恩来就笑着和他谈了起来。30多年后，1949年在北京第一次全国文代会期间，在全国电影协会的盛大晚宴上，周总理和孙瑜再度相逢，以惊人的记忆力说出了孙瑜当时的学名，并为他题字“为人民的电影事业而努力”。中学毕业后孙瑜考入清华大学，迷上了电影和诗歌。三年级时他参加了当时影评比赛还获了大奖，评委中有后来成为中国电影一代名家的朱石麟和费穆，而主办人就是后来改写中国电影史的联华影业公司的老板之一罗明佑。清华毕业后孙瑜去了美国威斯康辛大学，毕业论文是《论英译李白诗歌》。后即去纽约摄影学院学习摄影，1926年回上海正式开始他的电影生涯。其实孙瑜第一次的电影尝试是做编剧，他去明星公司应聘却遭拒绝。第二年才进长城画片公司，并于1928年编导了处女作《潇湘泪》。第二年因公司不景气而转至民新影片公司。当时中国电影正处于危机状态，纯以商业利益为目的的制片商粗制滥造了许多电影，令世道不济，上海近百家电影公司纷纷倒闭。此时，罗明佑和民新公司经理黎民伟组成联华影业公司，欲使联华成为“复兴国片之革命军、对抗舶来影片之先锋队”，邀孙瑜拍摄公司创业作《故都春梦》。由于影片真实地反映了现实生活中旧知识分子的苦难历程，民众反响强烈，公映后立即打破各埠卖座纪录。孙瑜也因劳累过度胃出血昏倒在片场。《故都春梦》成功后，孙瑜的另一部作品《野草闲花》也获得了同样的轰动。1932年，孙瑜执导了《野玫瑰》，为表现片中上海下层市民住的“鸽笼”般的弄堂房子，孙瑜请了一个同济大学毕业的技术员造了一架有四丈高的摄影升降机，这是中国电影史上第一架也是当时唯一的一架升降机。从1932年到1934年，孙瑜以旺盛的创作力先后执导了《野玫瑰》、《火山情血》、《天明》、《小玩意》、《体育皇后》、《大路》六部电影，绝大部分都成为了默片时代的经典作，这其中又以《大路》成就最高，连孙瑜也自称此片是其代表作。抗日战争爆发后，孙瑜与家人回了重庆。拍摄了《长空万里》、《火的洗礼》，后辗转去了美国养病。1947年回国后开始构思《武训传》，讲述清末历史人物武训拿自己做乞丐要饭得的钱为穷孩子办不收学费的“义学”的故事，被这个故事感动得痛哭流涕的赵丹答应出演武训。经过三年的艰苦拍摄，期间换了中制、昆仑两家投资公司，《武训传》终于于1950年底完成。1951年2月，影片在上海和南京公映，叫好叫座。孙瑜带片进京放映，周恩来、朱德等出席观摩，评价甚好。不料时隔三个月，1951年5月20日，《人民日报》发表社论〈应当重视电影《武训传》的讨论〉，指出《武训传》“狂热地宣传封建文化”，“向反动的封建统治者投降”，由此展开了一场全国规模的对《武训传》的批判运动。批判《武训传》是新中国建立初期文化界的一件大事，影响深远。对于孙瑜而言，则意味着创作上的止步。此后，他完成的作品中真正公映的只有《乘风破浪》（1957）和《鲁班的传说》（1958）。文革期间，孙瑜受到了无数次地抄家、批斗，身体更为虚弱，被干校批准回家养病，但仍被批斗多次。粉碎“四人帮”以后，孙瑜年事已高，无力执导电影。在1981年出版了《孙瑜电影剧本选集》和《李白诗新译》（英文）后，次年9月，“孙瑜从影50周年纪念会”在新光电影院举行。1987年5月，孙瑜自传《银海泛舟——回忆我的一生》出版。1990年，自传易名《大路之歌》在台湾及海外出版，同年7月11日，孙瑜逝世。这位中国电影史上传奇人物近半个世纪的璀璨光华像流星般一去不复返了。",
@@ -139,5 +104,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-16T15:07:09"
+    "update_at": "2025-06-17T03:42:09"
 }

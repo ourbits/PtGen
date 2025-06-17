@@ -1,5 +1,5 @@
 {
-    "sid": 1212537,
+    "sid": "1212537",
     "name": "纳塔利娅·卡波迪斯里亚",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "希腊,雅典",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/2078507/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2199960335.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "鱼的故事",
-            "subject_id": "2078507"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5182691/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Aristidis o Alopekas",
-            "subject_id": "5182691"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1340528/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2134761381.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "香料共和国",
-            "subject_id": "1340528"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2990300/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "古希腊奥运会",
-            "subject_id": "2990300"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36181136/",
+            "id": 36181136,
             "year": "2002",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2884882904.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Thelma",
-            "subject_id": "36181136"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5129730/",
+            "id": 5182691,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Aristidis o Alopekas",
+            "release": 1
+        },
+        {
+            "id": 5139422,
+            "year": "1990",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Red Daisy",
+            "release": 1
+        },
+        {
+            "id": 5132525,
+            "year": "1996",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "O kakos veziris",
+            "release": 1
+        },
+        {
+            "id": 5129730,
             "year": "2001",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2618837894.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Alexandria",
-            "subject_id": "5129730"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5128205/",
+            "id": 5128205,
             "year": "1999",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Every Saturday",
-            "subject_id": "5128205"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5132525/",
-            "year": "1996",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "O kakos veziris",
-            "subject_id": "5132525"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5119065/",
+            "id": 5119065,
             "year": "1995",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Ta psathina kapela",
-            "subject_id": "5119065"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5139422/",
-            "year": "1990",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Red Daisy",
-            "subject_id": "5139422"
+            "id": 2990300,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "古希腊奥运会",
+            "release": 1
+        },
+        {
+            "id": 2078507,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2199960335.jpg",
+            "title": "鱼的故事",
+            "release": 1
+        },
+        {
+            "id": 1340528,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2134761381.jpg",
+            "title": "香料共和国",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27418504/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T19:07:14"
+    "update_at": "2025-06-17T12:07:17"
 }

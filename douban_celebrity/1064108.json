@@ -17,104 +17,74 @@
     "birth_place": "美国,纽约",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5098446/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900506033.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "David and Goliath",
-            "subject_id": "5098446"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5048145/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2065785134.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "I-Man",
-            "subject_id": "5048145"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5049008/",
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2624745440.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Hail to the Chief",
-            "subject_id": "5049008"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26667187/",
+            "id": 26667187,
             "year": "1985",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2285472163.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "女作家与谋杀案：国会罪案",
-            "subject_id": "26667187"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5049481/",
-            "year": "1984",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "Almonds and Raisins",
-            "subject_id": "5049481"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4723160/",
-            "year": "1984",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868198746.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "天使在人间",
-            "subject_id": "4723160"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2270091/",
-            "year": "1984",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2247221131.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "女作家与谋杀案 第一季",
-            "subject_id": "2270091"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5051365/",
-            "year": "1981",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2533988064.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "商场冤家",
-            "subject_id": "5051365"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5052181/",
-            "year": "1979",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "$weepstake$",
-            "subject_id": "5052181"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5131672/",
+            "id": 5131672,
             "year": "1978",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2878578002.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Actor",
-            "subject_id": "5131672"
+            "release": 1
+        },
+        {
+            "id": 5098446,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900506033.jpg",
+            "title": "David and Goliath",
+            "release": 1
+        },
+        {
+            "id": 5052181,
+            "year": "1979",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "$weepstake$",
+            "release": 1
+        },
+        {
+            "id": 5051365,
+            "year": "1981",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2533988064.jpg",
+            "title": "商场冤家",
+            "release": 1
+        },
+        {
+            "id": 5049481,
+            "year": "1984",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Almonds and Raisins",
+            "release": 1
+        },
+        {
+            "id": 5049008,
+            "year": "1985",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2624745440.jpg",
+            "title": "Hail to the Chief",
+            "release": 1
+        },
+        {
+            "id": 5048145,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2065785134.jpg",
+            "title": "I-Man",
+            "release": 1
+        },
+        {
+            "id": 4723160,
+            "year": "1984",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868198746.jpg",
+            "title": "天使在人间",
+            "release": 1
+        },
+        {
+            "id": 2270091,
+            "year": "1984",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2247221131.jpg",
+            "title": "女作家与谋杀案 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -132,5 +102,5 @@
     "name_more_other": [
         "Hesch (昵称)"
     ],
-    "update_at": "2025-01-16T05:00:14"
+    "update_at": "2025-06-17T16:35:29"
 }

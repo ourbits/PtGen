@@ -1,5 +1,5 @@
 {
-    "sid": 1301555,
+    "sid": "1301555",
     "name": "余家安",
     "site": "douban_celebrity",
     "roles": [
@@ -8,8 +8,8 @@
         "化妆"
     ],
     "awards": [
-        "2025年 第18届亚洲电影大奖 最佳造型设计 (提名) 九龙城寨之围城",
-        "2024年 第42届香港电影金像奖 最佳美术指导 (提名)",
+        "2025年 第43届香港电影金像奖 最佳服装造型设计 九龙城寨之围城",
+        "2024年 第42届香港电影金像奖 最佳美术指导 (提名) 命案",
         "2022年 第40届香港电影金像奖 最佳服装造型设计 (提名) 智齿"
     ],
     "gender": "男",
@@ -17,98 +17,78 @@
     "imdb_id": "nm0950469",
     "name_en": "Bruce Yu",
     "name_full": "余家安 Bruce Yu",
-    "birth_date": "",
+    "birth_date": "1961年",
     "birth_place": "中国，香港",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/24284175/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2907242293.jpg",
-            "roles": [
-                "服装 - 服装设计"
-            ],
-            "title": "九龙城寨之围城",
-            "subject_id": "24284175"
+            "id": 35524438,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2890179685.jpg",
+            "title": "命案",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35013359/",
+            "id": 35013359,
             "year": "2023",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2892914259.jpg",
-            "roles": [
-                "服装 - 造型顾问"
-            ],
             "title": "扫毒3：人在天涯",
-            "subject_id": "35013359"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26909783/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2558596651.jpg",
-            "roles": [
-                "服装 - 服装设计"
-            ],
-            "title": "天目危机",
-            "subject_id": "26909783"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30376977/",
+            "id": 30376977,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2566474488.jpg",
-            "roles": [
-                "美术 - 艺术指导"
-            ],
             "title": "小Q",
-            "subject_id": "30376977"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26035290/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2475060299.jpg",
-            "roles": [
-                "化妆"
-            ],
-            "title": "悟空传",
-            "subject_id": "26035290"
+            "id": 26909783,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2558596651.jpg",
+            "title": "天目危机",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26263919/",
+            "id": 26263919,
             "year": "2016",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2318807517.jpg",
-            "roles": [
-                "服装 - 造型指导"
-            ],
             "title": "谋杀似水年华",
-            "subject_id": "26263919"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/19944106/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2316177058.jpg",
-            "roles": [
-                "美术 - 美术设计"
-            ],
-            "title": "美人鱼",
-            "subject_id": "19944106"
+            "id": 26035290,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2475060299.jpg",
+            "title": "悟空传",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/7003416/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2223365653.jpg",
-            "roles": [
-                "服装"
-            ],
-            "title": "冲上云霄",
-            "subject_id": "7003416"
+            "id": 24284175,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2920653336.jpg",
+            "title": "九龙城寨之围城",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/21359619/",
+            "id": 21359619,
             "year": "2014",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2209656483.jpg",
-            "roles": [
-                "美术 - 美术设计"
-            ],
             "title": "单身男女2",
-            "subject_id": "21359619"
+            "release": 1
+        },
+        {
+            "id": 19944106,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2316177058.jpg",
+            "title": "美人鱼",
+            "release": 1
+        },
+        {
+            "id": 7003416,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2223365653.jpg",
+            "title": "冲上云霄",
+            "release": 1
         }
     ],
     "introduction": "美术指导，造型设计，曾为多位娱乐红星的御用造型师。",
@@ -126,5 +106,5 @@
     "name_more_other": [
         "Yu Ka-On"
     ],
-    "update_at": "2025-01-16T20:14:10"
+    "update_at": "2025-06-17T17:35:23"
 }

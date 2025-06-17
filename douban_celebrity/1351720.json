@@ -16,115 +16,88 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36413487/",
+            "id": 36413487,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905663709.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "黑暗城市：清扫魔",
-            "subject_id": "36413487"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35342059/",
+            "id": 36240773,
+            "year": "2025",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2910532521.jpg",
+            "title": "斯巴达克斯：亚述家族",
+            "release": 0
+        },
+        {
+            "id": 35342059,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2827523830.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "皇室造型",
-            "subject_id": "35342059"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27616751/",
+            "id": 27616751,
             "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2551806130.jpg",
-            "roles": [
-                "导演"
-            ],
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2918270466.jpg",
             "title": "骑士陨落 第二季",
-            "subject_id": "27616751"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26891592/",
+            "id": 26891592,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511166502.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "鬼玩人 第三季",
-            "subject_id": "26891592"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26654029/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2376091106.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "鬼玩人 第二季",
-            "subject_id": "26654029"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26258117/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2263470249.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "鬼玩人 第一季",
-            "subject_id": "26258117"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10781865/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1628803131.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "斯巴达克斯：诅咒者之战 第三季",
-            "subject_id": "10781865"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6017331/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1698806385.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "斯巴达克斯：复仇 第二季",
-            "subject_id": "6017331"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5370010/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p718620592.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "斯巴达克斯：竞技场之神",
-            "subject_id": "5370010"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3754940/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1709123388.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "斯巴达克斯：血与沙 第一季",
-            "subject_id": "3754940"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26683004/",
+            "id": 26683004,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2355550966.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "第八航空队",
-            "subject_id": "26683004"
+            "release": 0
+        },
+        {
+            "id": 26654029,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2376091106.jpg",
+            "title": "鬼玩人 第二季",
+            "release": 1
+        },
+        {
+            "id": 26258117,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2263470249.jpg",
+            "title": "鬼玩人 第一季",
+            "release": 1
+        },
+        {
+            "id": 10781865,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1628803131.jpg",
+            "title": "斯巴达克斯：诅咒者之战 第三季",
+            "release": 1
+        },
+        {
+            "id": 6017331,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1698806385.jpg",
+            "title": "斯巴达克斯：复仇 第二季",
+            "release": 1
+        },
+        {
+            "id": 5370010,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p718620592.jpg",
+            "title": "斯巴达克斯：竞技场之神",
+            "release": 1
+        },
+        {
+            "id": 3754940,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1709123388.jpg",
+            "title": "斯巴达克斯：血与沙 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -135,5 +108,5 @@
     "personage_link": "https://www.douban.com/personage/27546718/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T05:48:19"
+    "update_at": "2025-06-17T11:14:21"
 }

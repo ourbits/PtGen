@@ -1,5 +1,5 @@
 {
-    "sid": 1104084,
+    "sid": "1104084",
     "name": "Mark Jones",
     "site": "douban_celebrity",
     "roles": [
@@ -17,104 +17,74 @@
     "birth_place": "美国,加利福尼亚州,洛杉矶",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/25793378/",
+            "id": 25793378,
             "year": "2013",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906837711.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "蔑视：残酷不伦史",
-            "subject_id": "25793378"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1293669/",
-            "year": "1993",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2260552770.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "鬼精灵",
-            "subject_id": "1293669"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1441941/",
-            "year": "1970",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2205880526.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "乱世一家人",
-            "subject_id": "1441941"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5071280/",
-            "year": "1939",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2167260582.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "好莱坞车队",
-            "subject_id": "5071280"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5143168/",
-            "year": "1926",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Pay the Cashier",
-            "subject_id": "5143168"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5222098/",
+            "id": 5222098,
             "year": "1926",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2366593193.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Don't Butt In",
-            "subject_id": "5222098"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5214315/",
+            "id": 5214315,
             "year": "1926",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Soft Pedal",
-            "subject_id": "5214315"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5139074/",
+            "id": 5143168,
+            "year": "1926",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Pay the Cashier",
+            "release": 1
+        },
+        {
+            "id": 5139074,
             "year": "1925",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Are Parents Pickles?",
-            "subject_id": "5139074"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4792671/",
+            "id": 5071280,
+            "year": "1939",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2167260582.jpg",
+            "title": "好莱坞车队",
+            "release": 1
+        },
+        {
+            "id": 4792671,
             "year": "1923",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "橘子与柠檬",
-            "subject_id": "4792671"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1939090/",
+            "id": 1939090,
             "year": "1923",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912041613.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "空城计",
-            "subject_id": "1939090"
+            "release": 1
+        },
+        {
+            "id": 1441941,
+            "year": "1970",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2205880526.jpg",
+            "title": "乱世一家人",
+            "release": 1
+        },
+        {
+            "id": 1293669,
+            "year": "1993",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2260552770.jpg",
+            "title": "鬼精灵",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -130,5 +100,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-16T20:49:08"
+    "update_at": "2025-06-17T03:49:14"
 }

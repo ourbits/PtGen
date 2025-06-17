@@ -1,5 +1,5 @@
 {
-    "sid": 1076377,
+    "sid": "1076377",
     "name": "大卫·布克",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "英国,利物浦",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35320666/",
+            "id": 35320666,
             "year": "2020",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Jumping the Gun",
-            "subject_id": "35320666"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3071546/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2276807365.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "耶稣基督：走出埃及",
-            "subject_id": "3071546"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27197497/",
+            "id": 27197497,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2504847144.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "真实的歇洛克·福尔摩斯",
-            "subject_id": "27197497"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3008659/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1428335743.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "临终千言",
-            "subject_id": "3008659"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5156706/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1376016799.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "黑衣女人",
-            "subject_id": "5156706"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5298377/",
+            "id": 5298377,
             "year": "2010",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2587004219.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "爱与怀疑",
-            "subject_id": "5298377"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3318656/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1237213600.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Summer House",
-            "subject_id": "3318656"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5199085/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Random Quest",
-            "subject_id": "5199085"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5198038/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511472843.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "13号房间",
-            "subject_id": "5198038"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5209042/",
+            "id": 5209042,
             "year": "2005",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2462106457.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "山丘奇景",
-            "subject_id": "5209042"
+            "release": 1
+        },
+        {
+            "id": 5199085,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Random Quest",
+            "release": 1
+        },
+        {
+            "id": 5198038,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511472843.jpg",
+            "title": "13号房间",
+            "release": 1
+        },
+        {
+            "id": 5156706,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1376016799.jpg",
+            "title": "黑衣女人",
+            "release": 1
+        },
+        {
+            "id": 3318656,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1237213600.jpg",
+            "title": "The Summer House",
+            "release": 1
+        },
+        {
+            "id": 3071546,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2276807365.jpg",
+            "title": "耶稣基督：走出埃及",
+            "release": 1
+        },
+        {
+            "id": 3008659,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1428335743.jpg",
+            "title": "临终千言",
+            "release": 1
         }
     ],
     "introduction": "David Burke (born 25 May 1934)[1] is an English actor, known for playing Dr. John Watson in the initial series of Granada Television's 1980s The Adventures of Sherlock Holmes, which starred Jeremy Brett in the title role.[2] He also starred as Josef Stalin in the last two episodes of Reilly, Ace of Spies.[3]",
@@ -127,5 +97,5 @@
     "personage_link": "https://www.douban.com/personage/27282134/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T19:35:14"
+    "update_at": "2025-06-17T20:21:14"
 }

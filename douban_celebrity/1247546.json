@@ -1,5 +1,5 @@
 {
-    "sid": 1247546,
+    "sid": "1247546",
     "name": "Mike Tyrell",
     "site": "douban_celebrity",
     "roles": [
@@ -15,54 +15,39 @@
     "birth_place": "加拿大,安大略省,康沃尔",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/25997956/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2246239692.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "扫兴者 第一季",
-            "subject_id": "25997956"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26381798/",
+            "id": 26381798,
             "year": "2015",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2243131939.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "玛丽莲·梦露的秘密生活",
-            "subject_id": "26381798"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5154367/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Jesus on a Fish Stick",
-            "subject_id": "5154367"
+            "id": 25997956,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2246239692.jpg",
+            "title": "扫兴者 第一季",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5189728/",
+            "id": 5189728,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870033999.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "乔恩·多尔秀 第一季",
-            "subject_id": "5189728"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1462333/",
+            "id": 5154367,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Jesus on a Fish Stick",
+            "release": 1
+        },
+        {
+            "id": 1462333,
             "year": "2002",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2535347232.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "慧眼女特工 第一季",
-            "subject_id": "1462333"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -75,5 +60,5 @@
     "name_more_other": [
         "Michael Tyrell (本名)"
     ],
-    "update_at": "2025-01-16T17:07:29"
+    "update_at": "2025-06-17T11:28:18"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1461420,
+    "sid": "1461420",
     "name": "金祺承",
     "site": "douban_celebrity",
     "roles": [
@@ -15,114 +15,81 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35235539/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2889960329.jpg",
-            "roles": [
-                "演员 (饰 卫霖)"
-            ],
-            "title": "看见缘分的少女",
-            "subject_id": "35235539"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35230923/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873823534.jpg",
-            "roles": [
-                "演员 (饰 周小阳)"
-            ],
-            "title": "加油！妈妈",
-            "subject_id": "35230923"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35206449/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2778455221.jpg",
-            "roles": [
-                "演员 (饰 盲童)"
-            ],
-            "title": "我是岁月你是星辰",
-            "subject_id": "35206449"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30464528/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2724380900.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "皎若云间月",
-            "subject_id": "30464528"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35161378/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2680878099.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "住我对面的小哥哥",
-            "subject_id": "35161378"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35391278/",
+            "id": 35391278,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635820310.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "致白小琪的奇妙幻想",
-            "subject_id": "35391278"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34880044/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2627411862.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "小风暴之时间的玫瑰",
-            "subject_id": "34880044"
+            "id": 35235539,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2889960329.jpg",
+            "title": "看见缘分的少女",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30290650/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2575466041.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "了不起的儿科医生",
-            "subject_id": "30290650"
+            "id": 35230923,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873823534.jpg",
+            "title": "加油！妈妈",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34995666/",
+            "id": 35206449,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2778455221.jpg",
+            "title": "我是岁月你是星辰",
+            "release": 1
+        },
+        {
+            "id": 35161378,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2680878099.jpg",
+            "title": "住我对面的小哥哥",
+            "release": 1
+        },
+        {
+            "id": 34995666,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2625276089.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "离人心上",
-            "subject_id": "34995666"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/32581194/",
+            "id": 34880044,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2627411862.jpg",
+            "title": "小风暴之时间的玫瑰",
+            "release": 1
+        },
+        {
+            "id": 32581194,
             "year": "2030",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
             "title": "高铁作证",
-            "subject_id": "32581194"
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/30249029/",
-            "year": "2028",
+            "id": 30464528,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2724380900.jpg",
+            "title": "皎若云间月",
+            "release": 1
+        },
+        {
+            "id": 30290650,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2575466041.jpg",
+            "title": "了不起的儿科医生",
+            "release": 1
+        },
+        {
+            "id": 30249029,
+            "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2612137546.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "烽火流金",
-            "subject_id": "30249029"
+            "release": 0
         }
     ],
     "introduction": "金祺承，中国内地男演员英文名：Alan小名：承承出生日期：2015.02.23籍贯：中国星座：双鱼座代表作：《小风暴之时间的玫瑰》饰演小宝；《妈妈的战争》饰演周小阳影视经历：在电视剧《逢火流金》中饰演童年长庚 导演：周远舟 合作演员：陈哲远 檀健次在电视剧《妈妈的战争》中饰周小阳 导演：刘一志 合作演员 ：张雨绮，吴越 ，李泽锋在电视剧《看见缘分的少女 》中饰卫霖 导演：沈金飞合作老师：戚砚笛 敖瑞鹏在电视剧《小风暴之时间的玫瑰》中 饰小宝 导演：成志超 合作演员：胡一天 乔欣在电视剧《我的百岁恋人》 中饰小培 导演：黄俊文 合作演员：陈意涵 刘海宽在电视剧《离人心上》 中饰薛盟  导演：高琮凯 合作演员：郑业成 胡意旋在电视剧《皎若云间月》中饰夜天赐  导演：郭虎 合作演员：张芷溪 佟梦实在电视剧《了不起的儿科医生》中饰演嘟嘟 导演：杨磊 合作演员：陈晓 王子文在电影《高铁作证》中饰演强强 导演：陈国军 合作演员：艾东 王子伊在电视剧《住我对面的小哥哥》中饰女一儿子 导演：田甜 合作演员：赵弈钦 丁一一在电视剧《致白小琪的奇妙幻想》中饰演仔仔广告经历：广告飞利浦儿童剃发器广告饰演:小男一广告朱家尖旅游宣传片饰演:小男一广告苏泊尔COCO锅广告饰演:小男一广告永康本元舜庄企业形象片饰演:小男一广告稠州银行宣传片饰演:小男一广告爱玛微电影广告小男一安安",
@@ -133,5 +100,5 @@
     "personage_link": "https://www.douban.com/personage/35585239/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T17:56:10"
+    "update_at": "2025-06-17T07:21:06"
 }

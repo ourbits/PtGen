@@ -1,5 +1,5 @@
 {
-    "sid": 1155150,
+    "sid": "1155150",
     "name": "约瑟夫·索姆尔",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26906870/",
+            "id": 26906870,
             "year": "2016",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529590610.jpg",
-            "roles": [
-                "演员 - 配音 (配 Professor René Kaderábek)"
-            ],
             "title": "奇怪的袜子精灵",
-            "subject_id": "26906870"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5173378/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Dáblova lest",
-            "subject_id": "5173378"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5178952/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2457103629.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "战地婚礼",
-            "subject_id": "5178952"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5180641/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "I'm All Good",
-            "subject_id": "5180641"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3266755/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2517437849.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "父母和孩子",
-            "subject_id": "3266755"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5207349/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Strazce dusi",
-            "subject_id": "5207349"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3195169/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "被流放的天使",
-            "subject_id": "3195169"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3199436/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510912070.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "天堂的过客",
-            "subject_id": "3199436"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5149756/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Místo nahore",
-            "subject_id": "5149756"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5214859/",
+            "id": 5214859,
             "year": "2004",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2109882329.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "最终目的地",
-            "subject_id": "5214859"
+            "release": 1
+        },
+        {
+            "id": 5207349,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Strazce dusi",
+            "release": 1
+        },
+        {
+            "id": 5180641,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "I'm All Good",
+            "release": 1
+        },
+        {
+            "id": 5178952,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2457103629.jpg",
+            "title": "战地婚礼",
+            "release": 1
+        },
+        {
+            "id": 5173378,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Dáblova lest",
+            "release": 1
+        },
+        {
+            "id": 5149756,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Místo nahore",
+            "release": 1
+        },
+        {
+            "id": 3266755,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2517437849.jpg",
+            "title": "父母和孩子",
+            "release": 1
+        },
+        {
+            "id": 3199436,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510912070.jpg",
+            "title": "天堂的过客",
+            "release": 1
+        },
+        {
+            "id": 3195169,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "被流放的天使",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -126,5 +96,5 @@
     "name_more_other": [
         "J. Somr"
     ],
-    "update_at": "2025-01-16T18:21:17"
+    "update_at": "2025-06-17T04:21:07"
 }

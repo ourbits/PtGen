@@ -1,5 +1,5 @@
 {
-    "sid": 1314148,
+    "sid": "1314148",
     "name": "王夫棠",
     "site": "douban_celebrity",
     "roles": [
@@ -17,107 +17,74 @@
     "birth_place": "中国,河南,南阳",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3032502/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536660214.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "梦开始的地方",
-            "subject_id": "3032502"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3736890/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515040016.jpg",
-            "roles": [
-                "演员 (饰 所长)"
-            ],
-            "title": "离婚",
-            "subject_id": "3736890"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6118301/",
-            "year": "1994",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2869994464.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "天网",
-            "subject_id": "6118301"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36829031/",
-            "year": "1990",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906191940.jpg",
-            "roles": [
-                "演员",
-                "导演",
-                "编剧"
-            ],
-            "title": "福兮祸兮",
-            "subject_id": "36829031"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1307574/",
-            "year": "1990",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2533383877.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "9600万双眼睛",
-            "subject_id": "1307574"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36500045/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914992624.jpg",
-            "roles": [
-                "演员",
-                "导演"
-            ],
-            "title": "酒仙杜康",
-            "subject_id": "36500045"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36948478/",
+            "id": 36948478,
             "year": "1988",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2910073013.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "不要问我从哪里来",
-            "subject_id": "36948478"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35004897/",
+            "id": 36829031,
+            "year": "1990",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906191940.jpg",
+            "title": "福兮祸兮",
+            "release": 1
+        },
+        {
+            "id": 36500045,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914992624.jpg",
+            "title": "酒仙杜康",
+            "release": 1
+        },
+        {
+            "id": 35004897,
             "year": "1988",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2643733163.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "柏油路上的战争",
-            "subject_id": "35004897"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/11498192/",
-            "year": "1987",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2555807373.jpg",
-            "roles": [
-                "演员 (饰 潘月亭)"
-            ],
-            "title": "齐天乐",
-            "subject_id": "11498192"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30207951/",
+            "id": 30207951,
             "year": "1986",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900563545.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "南国星泪",
-            "subject_id": "30207951"
+            "release": 1
+        },
+        {
+            "id": 11498192,
+            "year": "1987",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2555807373.jpg",
+            "title": "齐天乐",
+            "release": 1
+        },
+        {
+            "id": 6118301,
+            "year": "1994",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2869994464.jpg",
+            "title": "天网",
+            "release": 1
+        },
+        {
+            "id": 3736890,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515040016.jpg",
+            "title": "离婚",
+            "release": 1
+        },
+        {
+            "id": 3032502,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536660214.jpg",
+            "title": "梦开始的地方",
+            "release": 1
+        },
+        {
+            "id": 1307574,
+            "year": "1990",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2533383877.jpg",
+            "title": "9600万双眼睛",
+            "release": 1
         }
     ],
     "introduction": "王夫棠（1932—2005）男，曾用名王福堂，1932年1月8日生，河南省南阳县人。中国青年艺术剧院话剧演员。因家贫读书至初中即辍学当工人。1949年3月参加中国人民解放军第四野战军，曾任文化教员、文化干事。1952年调公安十一师文工队，任演员、分队长等职。1953年8月加入中国共产党。1955年转业至中国建筑文工团，任演员、歌剧队副队长。后调海政文工团工作，1965年毕业于中国人民解放军艺术学院。在海政文工团时期，曾主演《夜海战歌》、《海空雄鹰》、《赤道战鼓》（饰姆旺卡）、《郑和下西洋》（饰郑和）等剧目，曾任海政话剧团团长。1978年11月转业到中国青年艺术剧院任演员。曾饰演电影《日出》潘经理、《八仙的传说》曹国舅、《破袭战》日军司令官松木，电视剧《春的信息》省委第一书记钟波、《阿团》贺龙、《西游记》牛魔王。1993年起任中国人口文化促进会常务副会长。2005年12月1日在北京逝世，享年73岁。",
@@ -135,5 +102,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-16T15:35:13"
+    "update_at": "2025-06-17T16:00:16"
 }

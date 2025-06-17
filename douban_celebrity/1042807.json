@@ -1,5 +1,5 @@
 {
-    "sid": 1042807,
+    "sid": "1042807",
     "name": "埃迪·萨塔",
     "site": "douban_celebrity",
     "roles": [
@@ -17,105 +17,74 @@
     "birth_place": "美国,宾夕法尼亚州,费城",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3063429/",
-            "year": "1993",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876937914.jpg",
-            "roles": [
-                "制片人"
-            ],
-            "title": "海狼",
-            "subject_id": "3063429"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3432298/",
-            "year": "1981",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2389658000.jpg",
-            "roles": [
-                "制片人"
-            ],
-            "title": "加州玩偶",
-            "subject_id": "3432298"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5051334/",
-            "year": "1980",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2522917441.jpg",
-            "roles": [
-                "制片人"
-            ],
-            "title": "易容大侦探",
-            "subject_id": "5051334"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3327496/",
-            "year": "1974",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870233193.jpg",
-            "roles": [
-                "制片人"
-            ],
-            "title": "Get Christie Love",
-            "subject_id": "3327496"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2055663/",
-            "year": "1973",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2525585241.jpg",
-            "roles": [
-                "导演",
-                "制片人"
-            ],
-            "title": "死亡医生",
-            "subject_id": "2055663"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1299978/",
-            "year": "1972",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2590285196.jpg",
-            "roles": [
-                "制片人"
-            ],
-            "title": "难补情天恨",
-            "subject_id": "1299978"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1305109/",
-            "year": "1971",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2886310586.jpg",
-            "roles": [
-                "副导演"
-            ],
-            "title": "布里安之歌",
-            "subject_id": "1305109"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5057431/",
-            "year": "1967",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876084982.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "独行侠荡寇誌",
-            "subject_id": "5057431"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5057262/",
-            "year": "1967",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2525585470.jpg",
-            "roles": [
-                "副导演"
-            ],
-            "title": "空手道杀手",
-            "subject_id": "5057262"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5083650/",
+            "id": 5083650,
             "year": "1966",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2525745461.jpg",
-            "roles": [
-                "副导演"
-            ],
             "title": "虎猛龙威",
-            "subject_id": "5083650"
+            "release": 1
+        },
+        {
+            "id": 5057431,
+            "year": "1967",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876084982.jpg",
+            "title": "Hondo",
+            "release": 1
+        },
+        {
+            "id": 5057262,
+            "year": "1967",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2525585470.jpg",
+            "title": "空手道杀手",
+            "release": 1
+        },
+        {
+            "id": 5051334,
+            "year": "1980",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2522917441.jpg",
+            "title": "易容大侦探",
+            "release": 1
+        },
+        {
+            "id": 3432298,
+            "year": "1981",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2389658000.jpg",
+            "title": "加州玩偶",
+            "release": 1
+        },
+        {
+            "id": 3327496,
+            "year": "1974",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870233193.jpg",
+            "title": "Get Christie Love",
+            "release": 1
+        },
+        {
+            "id": 3063429,
+            "year": "1993",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876937914.jpg",
+            "title": "海狼",
+            "release": 1
+        },
+        {
+            "id": 2055663,
+            "year": "1973",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2525585241.jpg",
+            "title": "死亡医生",
+            "release": 1
+        },
+        {
+            "id": 1305109,
+            "year": "1971",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2886310586.jpg",
+            "title": "布里安之歌",
+            "release": 1
+        },
+        {
+            "id": 1299978,
+            "year": "1972",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2590285196.jpg",
+            "title": "难补情天恨",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -135,5 +104,5 @@
         "Edward M. Saeta",
         "Edwin M. Saeta"
     ],
-    "update_at": "2025-01-16T12:00:27"
+    "update_at": "2025-06-17T21:49:13"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1007060,
+    "sid": "1007060",
     "name": "哈维·科曼",
     "site": "douban_celebrity",
     "roles": [
@@ -17,104 +17,74 @@
     "birth_place": "美国,伊利诺伊州,芝加哥",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5220078/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "The 3rd Annual TV Land Awards",
-            "subject_id": "5220078"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5232807/",
+            "id": 5232807,
             "year": "2003",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "CBS at 75",
-            "subject_id": "5232807"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5130596/",
+            "id": 5220078,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The 3rd Annual TV Land Awards",
+            "release": 1
+        },
+        {
+            "id": 5130596,
             "year": "2001",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Carol Burnett: Show Stoppers",
-            "subject_id": "5130596"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5130164/",
+            "id": 5130164,
             "year": "2001",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "The Ruby Princess Runs Away",
-            "subject_id": "5130164"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4047713/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2916886786.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "巴斯光年的星际使命",
-            "subject_id": "4047713"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1306393/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2630966343.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "石头族乐园2：赌城万岁",
-            "subject_id": "1306393"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5095308/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2447669153.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "休伊的复活节大冒险",
-            "subject_id": "5095308"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3088647/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875957415.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "真情可贵",
-            "subject_id": "3088647"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3059285/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2903032660.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "凶杀案后",
-            "subject_id": "3059285"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5097060/",
+            "id": 5097060,
             "year": "1998",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2642855595.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
             "title": "鼠谭秘奇 2",
-            "subject_id": "5097060"
+            "release": 1
+        },
+        {
+            "id": 5095308,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2447669153.jpg",
+            "title": "休伊的复活节大冒险",
+            "release": 1
+        },
+        {
+            "id": 4047713,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2916886786.jpg",
+            "title": "巴斯光年的星际使命",
+            "release": 1
+        },
+        {
+            "id": 3088647,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875957415.jpg",
+            "title": "真情可贵",
+            "release": 1
+        },
+        {
+            "id": 3059285,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2903032660.jpg",
+            "title": "凶杀案后",
+            "release": 1
+        },
+        {
+            "id": 1306393,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2630966343.jpg",
+            "title": "石头族乐园2：赌城万岁",
+            "release": 1
         }
     ],
     "introduction": "哈维·科尔曼是一位身材瘦长、深受欢迎的电视喜剧老手，有着广泛的喜剧特征，在卡罗尔·伯内特的节目中，他作为男主角和第二个出色的香蕉闪耀了十年。哈维·赫歇尔·科尔曼出生于伊利诺伊州的芝加哥，她的父亲是艾伦和销售员西里尔·雷蒙德·科尔曼。他的父母都是移民，都来自俄罗斯犹太家庭。自20世纪60年代初以来，科尔曼一直在电视上露面，他第一次休假是在丹尼·凯节目中担任特约演员，这是一个生动的音乐综艺节目，科尔曼开始以他很快就会掌握的形式工作，为一位多才多艺的明星在各种各样的喜剧小品中提供强有力的支持。科曼有着巨大的、富于表现力的特点和变化无常的嗓音，他可以扮演各种各样的角色。也许他的第一个经典人物刻画是为《燧石》提供的，在那里，他是伟大的伽苏人独特的傲慢的声音，一个戴着头盔的太空人从未来被交付到地球的过去，以惩罚他的罪行。科尔曼多年来与卡罗尔·伯内特合作，获得四项艾美奖。具有讽刺意味的是，科曼再也找不到如此成功的展示才华的机会了，尽管他确实尝试过，出现在几部轰动一时的飞行员和短命情景喜剧中。他几乎完全是一个喜剧演员，在令人失望的电视传记片《巴德和卢》中，他在巴迪·哈克特的《卢·科斯特洛》的对手戏中扮演了直男巴德·阿伯特。他导演和/或制作情景喜剧和电视喜剧特辑。作为电影中的临时演员，科尔曼在《最后的特务》中首次出演配角。几部电影的角色接踵而至，直到他在梅尔布鲁克斯的经典西部恶作剧《炽热的马鞍》中以一个主要配角获得了最广泛的曝光。他在布鲁克斯的《高度焦虑》和《世界历史：第一部分》中表现良好。1994年，他出演了两部影片：轰动一时的《弗林茨tones》真人版（提供录音机的声音）和收视率不高但制作奢华的《Radioland谋杀。",
@@ -132,5 +102,5 @@
     "name_more_other": [
         "Harvey Herschel Korman (本名)"
     ],
-    "update_at": "2025-01-16T18:35:14"
+    "update_at": "2025-06-17T03:00:12"
 }

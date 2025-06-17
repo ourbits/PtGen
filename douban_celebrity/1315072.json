@@ -1,5 +1,5 @@
 {
-    "sid": 1315072,
+    "sid": "1315072",
     "name": "沙玉华",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3065423/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2236963763.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "大宋奇案之狸猫换太子传奇",
-            "subject_id": "3065423"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2997426/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2375038511.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "有泪尽情流",
-            "subject_id": "2997426"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2130011/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871055697.jpg",
-            "roles": [
-                "演员 (饰 白素英)"
-            ],
-            "title": "惊涛骇浪",
-            "subject_id": "2130011"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2568018/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2375046407.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "闲人马大姐",
-            "subject_id": "2568018"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2338326/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2451675512.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "万家轶事",
-            "subject_id": "2338326"
-        },
-        {
-            "url": "https://movie.douban.com/subject/24719549/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "有困难找民警",
-            "subject_id": "24719549"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36978497/",
+            "id": 36978497,
             "year": "1997",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911070126.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "我心中的故事",
-            "subject_id": "36978497"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4935089/",
+            "id": 24719549,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "有困难找民警",
+            "release": 1
+        },
+        {
+            "id": 4935089,
             "year": "1996",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508911112.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "隋唐演义",
-            "subject_id": "4935089"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4305873/",
+            "id": 4305873,
             "year": "1995",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2538958539.jpg",
-            "roles": [
-                "演员 (饰 国子妈)"
-            ],
             "title": "警官崔大庆",
-            "subject_id": "4305873"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3603823/",
+            "id": 3603823,
             "year": "1995",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2559810021.jpg",
-            "roles": [
-                "演员 (饰 王寡妇)"
-            ],
             "title": "马三立",
-            "subject_id": "3603823"
+            "release": 1
+        },
+        {
+            "id": 3065423,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2236963763.jpg",
+            "title": "大宋奇案之狸猫换太子传奇",
+            "release": 1
+        },
+        {
+            "id": 2997426,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2375038511.jpg",
+            "title": "有泪尽情流",
+            "release": 1
+        },
+        {
+            "id": 2568018,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2375046407.jpg",
+            "title": "闲人马大姐",
+            "release": 1
+        },
+        {
+            "id": 2338326,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2451675512.jpg",
+            "title": "万家轶事",
+            "release": 1
+        },
+        {
+            "id": 2130011,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871055697.jpg",
+            "title": "惊涛骇浪",
+            "release": 1
         }
     ],
     "introduction": "沙玉华，女，话剧、影视演员。因在央视87版电视剧《红楼梦》中饰演刘姥姥，广为人知。",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27487504/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T12:32:10"
+    "update_at": "2025-06-17T19:42:20"
 }

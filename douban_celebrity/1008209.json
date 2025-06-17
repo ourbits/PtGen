@@ -1,5 +1,5 @@
 {
-    "sid": 1008209,
+    "sid": "1008209",
     "name": "卡特琳·萨米",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "法国,巴黎",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/27619771/",
+            "id": 27619771,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510063411.jpg",
-            "roles": [
-                "演员 (饰 Gisèle)"
-            ],
             "title": "公路冤家",
-            "subject_id": "27619771"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26614197/",
+            "id": 26614197,
             "year": "2016",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2319953138.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "来自火星的消息",
-            "subject_id": "26614197"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5154097/",
+            "id": 5226034,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Les femmes savantes",
+            "release": 1
+        },
+        {
+            "id": 5154097,
             "year": "2010",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "The Venitian",
-            "subject_id": "5154097"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3009168/",
+            "id": 5140473,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Deux femmes à Paris",
+            "release": 1
+        },
+        {
+            "id": 3009168,
             "year": "2010",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p539195395.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "不朽",
-            "subject_id": "3009168"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2143928/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2463361248.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "吃，这是我的身体",
-            "subject_id": "2143928"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1466779/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2556473726.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "天使爱杀人",
-            "subject_id": "1466779"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1419637/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2179572896.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "鬼魂",
-            "subject_id": "1419637"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5226034/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Les femmes savantes",
-            "subject_id": "5226034"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2890954/",
+            "id": 2890954,
             "year": "2002",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2519348496.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "最后的信",
-            "subject_id": "2890954"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5140473/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Deux femmes à Paris",
-            "subject_id": "5140473"
+            "id": 2143928,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2463361248.jpg",
+            "title": "吃，这是我的身体",
+            "release": 1
+        },
+        {
+            "id": 1466779,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2556473726.jpg",
+            "title": "天使爱杀人",
+            "release": 1
+        },
+        {
+            "id": 1419637,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2179572896.jpg",
+            "title": "鬼魂",
+            "release": 1
         }
     ],
     "introduction": "获得了法国公民的最高荣誉， 法兰西荣誉军团勋章（大军官级）",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27213900/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T12:40:21"
+    "update_at": "2025-06-17T03:28:06"
 }

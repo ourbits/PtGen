@@ -1,5 +1,5 @@
 {
-    "sid": 1344015,
+    "sid": "1344015",
     "name": "扎比特·梅梅托夫",
     "site": "douban_celebrity",
     "roles": [
@@ -15,24 +15,18 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1293236/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2176669838.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "黑猫白猫",
-            "subject_id": "1293236"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1303525/",
+            "id": 1303525,
             "year": "1988",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2384320756.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "流浪者之歌",
-            "subject_id": "1303525"
+            "release": 1
+        },
+        {
+            "id": 1293236,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2176669838.jpg",
+            "title": "黑猫白猫",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -43,5 +37,5 @@
     "personage_link": "https://www.douban.com/personage/27489643/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T16:35:17"
+    "update_at": "2025-06-17T16:28:15"
 }

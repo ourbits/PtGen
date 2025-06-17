@@ -1,5 +1,5 @@
 {
-    "sid": 1447166,
+    "sid": "1447166",
     "name": "雷纳·福斯特",
     "site": "douban_celebrity",
     "roles": [
@@ -15,24 +15,18 @@
     "birth_place": "波兰",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26428356/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911704228.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "孤立",
-            "subject_id": "26428356"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26607530/",
+            "id": 26607530,
             "year": "2015",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2267075280.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "夏至",
-            "subject_id": "26607530"
+            "release": 1
+        },
+        {
+            "id": 26428356,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911704228.jpg",
+            "title": "孤立",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -43,5 +37,5 @@
     "personage_link": "https://www.douban.com/personage/35254650/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T22:14:08"
+    "update_at": "2025-06-17T17:42:18"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1057419,
+    "sid": "1057419",
     "name": "珀·埃吉尔·埃斯克",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26791681/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2602870532.jpg",
-            "roles": [
-                "演员 (饰 Bjørn)"
-            ],
-            "title": "超能追缉",
-            "subject_id": "26791681"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30363710/",
+            "id": 30363710,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2580628804.jpg",
-            "roles": [
-                "演员 (饰 Christian)"
-            ],
             "title": "夺命隧道",
-            "subject_id": "30363710"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30361895/",
+            "id": 30361895,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2902085571.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "自杀游客",
-            "subject_id": "30361895"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5173463/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532151394.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Karl III",
-            "subject_id": "5173463"
+            "id": 26791681,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2602870532.jpg",
+            "title": "超能追缉",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3613067/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885139025.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "冰吻",
-            "subject_id": "3613067"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5192974/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Størst av alt",
-            "subject_id": "5192974"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5194535/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Codename Hunter",
-            "subject_id": "5194535"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1947655/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1457124466.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "遥远的北方",
-            "subject_id": "1947655"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2032724/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871689013.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "佩德森同志",
-            "subject_id": "2032724"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5223307/",
+            "id": 5223307,
             "year": "2005",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2507547851.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "寻宝",
-            "subject_id": "5223307"
+            "release": 1
+        },
+        {
+            "id": 5194535,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Codename Hunter",
+            "release": 1
+        },
+        {
+            "id": 5192974,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Størst av alt",
+            "release": 1
+        },
+        {
+            "id": 5173463,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532151394.jpg",
+            "title": "Karl III",
+            "release": 1
+        },
+        {
+            "id": 3613067,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885139025.jpg",
+            "title": "冰吻",
+            "release": 1
+        },
+        {
+            "id": 2032724,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871689013.jpg",
+            "title": "佩德森同志",
+            "release": 1
+        },
+        {
+            "id": 1947655,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1457124466.jpg",
+            "title": "遥远的北方",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27263154/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T13:00:17"
+    "update_at": "2025-06-17T19:00:09"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1325129,
+    "sid": "1325129",
     "name": "柳荻",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "中国",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30181316/",
-            "year": "1991",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906671568.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "爱与仇",
-            "subject_id": "30181316"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1300190/",
-            "year": "1990",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868188501.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "大毁灭",
-            "subject_id": "1300190"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6101727/",
-            "year": "1990",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2535705514.jpg",
-            "roles": [
-                "演员 (饰 林小颖)"
-            ],
-            "title": "紧急追捕",
-            "subject_id": "6101727"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30181313/",
+            "id": 30197580,
             "year": "1989",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906633565.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "月是故乡明",
-            "subject_id": "30181313"
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "情锁",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30197576/",
+            "id": 30197576,
             "year": "1989",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2882410329.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "危险年龄",
-            "subject_id": "30197576"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30197580/",
+            "id": 30181316,
+            "year": "1991",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906671568.jpg",
+            "title": "爱与仇",
+            "release": 1
+        },
+        {
+            "id": 30181313,
             "year": "1989",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "情锁",
-            "subject_id": "30197580"
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906633565.jpg",
+            "title": "月是故乡明",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1919225/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2157718016.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "轮回",
-            "subject_id": "1919225"
-        },
-        {
-            "url": "https://movie.douban.com/subject/20431738/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "远方有绿灯",
-            "subject_id": "20431738"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26325512/",
+            "id": 26325512,
             "year": "1986",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2528963023.jpg",
-            "roles": [
-                "演员 (饰 乔萌萌)"
-            ],
             "title": "残酷的情人",
-            "subject_id": "26325512"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/20395254/",
+            "id": 20431738,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2922567218.jpg",
+            "title": "远方有绿灯",
+            "release": 1
+        },
+        {
+            "id": 20395254,
             "year": "1986",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2778022959.jpg",
-            "roles": [
-                "演员 (饰 林兰兰)"
-            ],
             "title": "十九年华",
-            "subject_id": "20395254"
+            "release": 1
+        },
+        {
+            "id": 6101727,
+            "year": "1990",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2535705514.jpg",
+            "title": "紧急追捕",
+            "release": 1
+        },
+        {
+            "id": 1919225,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2157718016.jpg",
+            "title": "轮回",
+            "release": 1
+        },
+        {
+            "id": 1300190,
+            "year": "1990",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868188501.jpg",
+            "title": "大毁灭",
+            "release": 1
         }
     ],
     "introduction": "柳荻，演员。原是北京打字协会职员，在影片《世界奇案的最后线索》中初踏影坛，剧中扮演日本姑娘铃木信子。1986年在影片《残酷的情人》中饰乔萌萌，后在影片《十九年华》中塑造了任性、泼辣的现代女青年林兰兰的形象。",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27569383/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T18:42:19"
+    "update_at": "2025-06-17T20:14:19"
 }
