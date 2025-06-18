@@ -1,5 +1,5 @@
 {
-    "sid": 1356006,
+    "sid": "1356006",
     "name": "罗宾·普劳特",
     "site": "douban_celebrity",
     "roles": [
@@ -16,77 +16,53 @@
     "birth_place": "比利时",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35575465/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2882139657.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "夜店无极限",
-            "subject_id": "35575465"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35884639/",
+            "id": 35884639,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872430827.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "De bunker 2",
-            "subject_id": "35884639"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35351388/",
+            "id": 35575465,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2882139657.jpg",
+            "title": "夜店无极限",
+            "release": 1
+        },
+        {
+            "id": 35351388,
             "year": "2021",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "导演"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
             "title": "Lockdown",
-            "subject_id": "35351388"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30216114/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2610789507.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "沉默",
-            "subject_id": "30216114"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34937103/",
+            "id": 34937103,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2579683387.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "绿林侠盗",
-            "subject_id": "34937103"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/21652704/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2563062599.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "阿登高地",
-            "subject_id": "21652704"
+            "id": 30216114,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2610789507.jpg",
+            "title": "沉默",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26779171/",
+            "id": 26779171,
             "year": "2010",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2339438276.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "Injury Time",
-            "subject_id": "26779171"
+            "release": 1
+        },
+        {
+            "id": 21652704,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2563062599.jpg",
+            "title": "阿登高地",
+            "release": 1
         }
     ],
     "introduction": "Robin Pront is a wirter and director known for Plan B (2008, short), Injury Time (2010, short), 19:00 (2010, short), D’Ardennen/The Ardennes (2015).",
@@ -97,5 +73,5 @@
     "personage_link": "https://www.douban.com/personage/27501678/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T06:00:13"
+    "update_at": "2025-06-18T13:49:06"
 }

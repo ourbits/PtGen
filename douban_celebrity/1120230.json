@@ -1,5 +1,5 @@
 {
-    "sid": 1120230,
+    "sid": "1120230",
     "name": "Dani Minnick",
     "site": "douban_celebrity",
     "roles": [
@@ -17,105 +17,74 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30237540/",
+            "id": 30237540,
             "year": "2018",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "The Needs of Kim Stanley",
-            "subject_id": "30237540"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3645115/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "Falling Like This",
-            "subject_id": "3645115"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5111031/",
-            "year": "1995",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2533764040.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Pointman",
-            "subject_id": "5111031"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5112753/",
-            "year": "1993",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Against the Grain",
-            "subject_id": "5112753"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3226177/",
-            "year": "1990",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511504879.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "忘记猛鬼街",
-            "subject_id": "3226177"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5115262/",
+            "id": 5115262,
             "year": "1989",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870634761.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "惊魂迷离夜",
-            "subject_id": "5115262"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2150453/",
-            "year": "1989",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512946533.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "魔界奇谭 第一季",
-            "subject_id": "2150453"
+            "id": 5112753,
+            "year": "1993",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Against the Grain",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5095282/",
+            "id": 5111031,
+            "year": "1995",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2533764040.jpg",
+            "title": "Pointman",
+            "release": 1
+        },
+        {
+            "id": 5095282,
             "year": "1986",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Doctor Duck's Super Secret All-Purpose Sauce",
-            "subject_id": "5095282"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1303158/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2593636558.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "应召名花",
-            "subject_id": "1303158"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5049587/",
+            "id": 5049587,
             "year": "1984",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2406478312.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "飞狼 第一季",
-            "subject_id": "5049587"
+            "release": 1
+        },
+        {
+            "id": 3645115,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Falling Like This",
+            "release": 1
+        },
+        {
+            "id": 3226177,
+            "year": "1990",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511504879.jpg",
+            "title": "忘记猛鬼街",
+            "release": 1
+        },
+        {
+            "id": 2150453,
+            "year": "1989",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512946533.jpg",
+            "title": "魔界奇谭 第一季",
+            "release": 1
+        },
+        {
+            "id": 1303158,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2593636558.jpg",
+            "title": "应召名花",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -126,5 +95,5 @@
     "personage_link": "https://www.douban.com/personage/27326073/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T11:56:21"
+    "update_at": "2025-06-18T03:00:15"
 }

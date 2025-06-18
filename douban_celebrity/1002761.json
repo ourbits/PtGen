@@ -1,5 +1,5 @@
 {
-    "sid": 1002761,
+    "sid": "1002761",
     "name": "彼得·乌斯蒂诺夫",
     "site": "douban_celebrity",
     "roles": [
@@ -21,104 +21,74 @@
     "birth_place": "英国,伦敦",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26383272/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2916325499.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "Max par Marcel",
-            "subject_id": "26383272"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1859347/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868298046.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "阿加莎·克里斯蒂密码",
-            "subject_id": "1859347"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2040585/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "冬至",
-            "subject_id": "2040585"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1458424/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532447318.jpg",
-            "roles": [
-                "演员 (饰 Frederick the Wise)"
-            ],
-            "title": "路德传",
-            "subject_id": "1458424"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34855569/",
+            "id": 34855569,
             "year": "2003",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2571341486.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "查理·卓别林：被遗忘的岁月",
-            "subject_id": "34855569"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3800667/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2864444196.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "女巫大审判",
-            "subject_id": "3800667"
+            "id": 26383272,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2916325499.jpg",
+            "title": "Max par Marcel",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5132494/",
+            "id": 5132494,
             "year": "2001",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2378700878.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "The 100 Greatest Kids TV Shows",
-            "subject_id": "5132494"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1308881/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872896729.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "斯坦利·库布里克：电影人生",
-            "subject_id": "1308881"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1443634/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1669911716.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "维多利亚与艾伯特",
-            "subject_id": "1443634"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5088295/",
+            "id": 5088295,
             "year": "2000",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2488564705.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "Majestät brauchen Sonne",
-            "subject_id": "5088295"
+            "release": 1
+        },
+        {
+            "id": 3800667,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2864444196.jpg",
+            "title": "女巫大审判",
+            "release": 1
+        },
+        {
+            "id": 2040585,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "冬至",
+            "release": 1
+        },
+        {
+            "id": 1859347,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868298046.jpg",
+            "title": "阿加莎·克里斯蒂密码",
+            "release": 1
+        },
+        {
+            "id": 1458424,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532447318.jpg",
+            "title": "路德传",
+            "release": 1
+        },
+        {
+            "id": 1443634,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1669911716.jpg",
+            "title": "维多利亚与艾伯特",
+            "release": 1
+        },
+        {
+            "id": 1308881,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872896729.jpg",
+            "title": "斯坦利·库布里克：电影人生",
+            "release": 1
         }
     ],
     "introduction": "彼得乌斯蒂诺夫，英国男演员，最著名的荧幕形象是扮演了著名比利时侦探波罗。",
@@ -138,5 +108,5 @@
     "name_more_other": [
         "Peter Alexander Freiherr von Ustinov (本名)"
     ],
-    "update_at": "2025-01-17T00:56:12"
+    "update_at": "2025-06-18T11:14:11"
 }

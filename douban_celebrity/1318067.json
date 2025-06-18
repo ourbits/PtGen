@@ -1,11 +1,11 @@
 {
-    "sid": 1318067,
+    "sid": "1318067",
     "name": "龚艺群",
     "site": "douban_celebrity",
     "roles": [
         "导演",
-        "演员",
-        "副导演"
+        "副导演",
+        "演员"
     ],
     "awards": [],
     "gender": "男",
@@ -17,104 +17,74 @@
     "birth_place": "中国,重庆,万州",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/21327737/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2625314386.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "战犯",
-            "subject_id": "21327737"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6808710/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2296915266.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "乡里彩虹城里雨",
-            "subject_id": "6808710"
-        },
-        {
-            "url": "https://movie.douban.com/subject/24846475/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2550874859.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "军婚姐妹",
-            "subject_id": "24846475"
-        },
-        {
-            "url": "https://movie.douban.com/subject/20266804/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2549495837.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "真情真义",
-            "subject_id": "20266804"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4202067/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2169920707.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "一代大商孟洛川",
-            "subject_id": "4202067"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3093223/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2258350240.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "大明奇才",
-            "subject_id": "3093223"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26615641/",
+            "id": 26615641,
             "year": "2008",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2268413929.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "民族英雄马本斋",
-            "subject_id": "26615641"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/6721666/",
+            "id": 24846475,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2550874859.jpg",
+            "title": "军婚姐妹",
+            "release": 1
+        },
+        {
+            "id": 21327737,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2625314386.jpg",
+            "title": "战犯",
+            "release": 1
+        },
+        {
+            "id": 20266804,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2549495837.jpg",
+            "title": "真情真义",
+            "release": 1
+        },
+        {
+            "id": 6808710,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2296915266.jpg",
+            "title": "乡里彩虹城里雨",
+            "release": 1
+        },
+        {
+            "id": 6721666,
             "year": "2006",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2541747958.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "红旗飘飘",
-            "subject_id": "6721666"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3008305/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2373054140.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "龙票",
-            "subject_id": "3008305"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5985904/",
+            "id": 5985904,
             "year": "2004",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2551530586.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "霹雳彩虹",
-            "subject_id": "5985904"
+            "release": 1
+        },
+        {
+            "id": 4202067,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2169920707.jpg",
+            "title": "一代大商孟洛川",
+            "release": 1
+        },
+        {
+            "id": 3093223,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2258350240.jpg",
+            "title": "大明奇才",
+            "release": 1
+        },
+        {
+            "id": 3008305,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2373054140.jpg",
+            "title": "龙票",
+            "release": 1
         }
     ],
     "introduction": "龚艺群，中国八一制片厂导演。电影作品1998年《岱山秘案》导演，合作导演：孙鑫源1999年《流泪的野樱花》导演2006年《红旗飘飘》导演电视作品1990年《小龙人》导演1993年《豫东之战/华中保卫战》导演，合作导演：景慕逵1994年《上官婉儿》导演2001年《西厢传奇》导演2002年《霹雳彩虹》导演2004年《龙票》导演2005年《大明奇才》导演2008年《马本斋》导演2009年《一代大商孟洛川》导演2010年《乡里彩虹城里雨》导演2011年《战犯》导演",
@@ -125,5 +95,5 @@
     "personage_link": "https://www.douban.com/personage/27483083/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T23:07:16"
+    "update_at": "2025-06-18T05:49:14"
 }

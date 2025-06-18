@@ -1,5 +1,5 @@
 {
-    "sid": 1331066,
+    "sid": "1331066",
     "name": "余积廉",
     "site": "douban_celebrity",
     "roles": [
@@ -17,112 +17,74 @@
     "birth_place": "中国,广东",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/25766532/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2239753302.jpg",
-            "roles": [
-                "演员",
-                "导演",
-                "制片人 - 监制",
-                "编剧"
-            ],
-            "title": "踏雪寻梅",
-            "subject_id": "25766532"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26747911/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "孔子归来",
-            "subject_id": "26747911"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25986100/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2255727460.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "冷暖人生",
-            "subject_id": "25986100"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26822042/",
+            "id": 26822042,
             "year": "1998",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2361234667.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "勇探",
-            "subject_id": "26822042"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3221643/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870178758.jpg",
-            "roles": [
-                "摄影"
-            ],
-            "title": "职业大贼",
-            "subject_id": "3221643"
+            "id": 26747911,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "孔子归来",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5110337/",
-            "year": "1995",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2352241445.jpg",
-            "roles": [
-                "演员",
-                "导演",
-                "编剧"
-            ],
-            "title": "盲侠之再踏江湖",
-            "subject_id": "5110337"
+            "id": 25986100,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2255727460.jpg",
+            "title": "冷暖人生",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1482717/",
-            "year": "1993",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2356635253.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "决战天门",
-            "subject_id": "1482717"
+            "id": 25766532,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2239753302.jpg",
+            "title": "踏雪寻梅",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1968499/",
-            "year": "1993",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2014660984.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "云雨生死恋",
-            "subject_id": "1968499"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2075715/",
-            "year": "1990",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2357149611.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "少林达摩",
-            "subject_id": "2075715"
-        },
-        {
-            "url": "https://movie.douban.com/subject/21948925/",
+            "id": 21948925,
             "year": "1991",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2564653992.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "布局",
-            "subject_id": "21948925"
+            "release": 1
+        },
+        {
+            "id": 5110337,
+            "year": "1995",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2352241445.jpg",
+            "title": "盲侠之再踏江湖",
+            "release": 1
+        },
+        {
+            "id": 3221643,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870178758.jpg",
+            "title": "职业大贼",
+            "release": 1
+        },
+        {
+            "id": 2075715,
+            "year": "1990",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2357149611.jpg",
+            "title": "少林达摩",
+            "release": 1
+        },
+        {
+            "id": 1968499,
+            "year": "1993",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2014660984.jpg",
+            "title": "云雨生死恋",
+            "release": 1
+        },
+        {
+            "id": 1482717,
+            "year": "1993",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2356635253.jpg",
+            "title": "决战天门",
+            "release": 1
         }
     ],
     "introduction": "余积廉1940年出生于广东，15岁到香港，17岁开始接触电影。从练习生到摄影机机工，到第二摄助，到第一摄助，再到摄影师，最后到导演，他在香港电影圈摸爬滚打了三十多年，于1987年成立唯益影业公司，担任独立制片人。他曾在电影《欢颜》、电视连续剧《天蚕变》等红极一时的影视作品中担任摄影师，并导演了《决战天门》、《云雨生死恋》、《少林达摩》、《摩登大食懒》等电影。20世纪90年代中期，香港电影业遭到重创。因盗版猖獗，数百家电影公司因此倒闭。1995年，一部《盲侠之再踏江湖》让余积廉亏损近100万港币，他自此元气大伤。1997年，在《省港双雄》上映后不久，余积廉突然从香港电影圈消失了。当香港电影业越来越低迷时，余积廉决定歇影。1998年，余积廉随蒋雪梅第一次踏上重庆的土地。当看到被群山环抱的天府小镇，看到秀美的缙云山和滚滚的嘉陵江，他醉了。年底，二人领取了结婚证，从此隐居。",
@@ -140,5 +102,5 @@
         "Chick Lim Yu",
         "Chik Lim Chui"
     ],
-    "update_at": "2025-01-17T17:56:16"
+    "update_at": "2025-06-18T14:42:21"
 }

@@ -15,104 +15,74 @@
     "birth_place": "爱尔兰,都柏林",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1293675/",
-            "year": "1979",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2231937501.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "电钻杀手",
-            "subject_id": "1293675"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3929882/",
-            "year": "1970",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2639302759.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Immortal",
-            "subject_id": "3929882"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5056266/",
-            "year": "1970",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875581458.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Nanny and the Professor",
-            "subject_id": "5056266"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1308364/",
-            "year": "1966",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2257217346.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "原野豪杰",
-            "subject_id": "1308364"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3259453/",
-            "year": "1966",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895246498.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "蝙蝠侠 第一季",
-            "subject_id": "3259453"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5058152/",
-            "year": "1965",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2545068113.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "心狂智乱",
-            "subject_id": "5058152"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1297965/",
-            "year": "1964",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512379618.jpg",
-            "roles": [
-                "演员 (饰 Costermonger)"
-            ],
-            "title": "窈窕淑女",
-            "subject_id": "1297965"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1949422/",
-            "year": "1964",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2181475956.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "安邦定国志",
-            "subject_id": "1949422"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5083631/",
+            "id": 5083631,
             "year": "1964",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2573243566.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Gomer Pyle, U.S.M.C.",
-            "subject_id": "5083631"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4000507/",
+            "id": 5058152,
+            "year": "1965",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2545068113.jpg",
+            "title": "心狂智乱",
+            "release": 1
+        },
+        {
+            "id": 5056266,
+            "year": "1970",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875581458.jpg",
+            "title": "Nanny and the Professor",
+            "release": 1
+        },
+        {
+            "id": 4000507,
             "year": "1964",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2878711021.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Daniel Boone",
-            "subject_id": "4000507"
+            "release": 1
+        },
+        {
+            "id": 3929882,
+            "year": "1970",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2639302759.jpg",
+            "title": "The Immortal",
+            "release": 1
+        },
+        {
+            "id": 3259453,
+            "year": "1966",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895246498.jpg",
+            "title": "蝙蝠侠 第一季",
+            "release": 1
+        },
+        {
+            "id": 1949422,
+            "year": "1964",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2181475956.jpg",
+            "title": "安邦定国志",
+            "release": 1
+        },
+        {
+            "id": 1308364,
+            "year": "1966",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2257217346.jpg",
+            "title": "原野豪杰",
+            "release": 1
+        },
+        {
+            "id": 1297965,
+            "year": "1964",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p842376184.jpg",
+            "title": "窈窕淑女",
+            "release": 1
+        },
+        {
+            "id": 1293675,
+            "year": "1979",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2231937501.jpg",
+            "title": "电钻杀手",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -130,5 +100,5 @@
     "name_more_other": [
         "James FitzSimons (本名)"
     ],
-    "update_at": "2025-01-16T07:24:11"
+    "update_at": "2025-06-17T23:07:20"
 }

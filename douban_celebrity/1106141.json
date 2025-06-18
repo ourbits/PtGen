@@ -1,5 +1,5 @@
 {
-    "sid": 1106141,
+    "sid": "1106141",
     "name": "片冈千惠藏 ",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "日本,群马县,Yabuzukahonmachi",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36897409/",
+            "id": 36897409,
             "year": "1981",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "清水次郎長1 勢揃い清水港",
-            "subject_id": "36897409"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3163179/",
-            "year": "1979",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2630528907.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "真田幸村之谋略",
-            "subject_id": "3163179"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2136635/",
-            "year": "1978",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2544772159.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "日本的首领：完结篇",
-            "subject_id": "2136635"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36151456/",
+            "id": 36151456,
             "year": "1972",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2883446269.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "世なおし奉行",
-            "subject_id": "36151456"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3158922/",
-            "year": "1972",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2551977549.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "関東緋桜一家",
-            "subject_id": "3158922"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2122800/",
-            "year": "1972",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2151803609.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "红牡丹赌徒：仁义通过",
-            "subject_id": "2122800"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3418115/",
-            "year": "1969",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2552626293.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "昭和残侠传：杀手唐狮子",
-            "subject_id": "3418115"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6047348/",
+            "id": 6047348,
             "year": "1969",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2527813902.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "日本暗杀秘录",
-            "subject_id": "6047348"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1862450/",
-            "year": "1965",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2634583917.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "宫本武藏 岩流岛的决斗",
-            "subject_id": "1862450"
+            "id": 3418115,
+            "year": "1969",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2552626293.jpg",
+            "title": "昭和残侠传：杀手唐狮子",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3358596/",
+            "id": 3358596,
             "year": "1964",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2527814647.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "御金蔵破り",
-            "subject_id": "3358596"
+            "release": 1
+        },
+        {
+            "id": 3163179,
+            "year": "1979",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2630528907.jpg",
+            "title": "真田幸村之谋略",
+            "release": 1
+        },
+        {
+            "id": 3158922,
+            "year": "1972",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2551977549.jpg",
+            "title": "関東緋桜一家",
+            "release": 1
+        },
+        {
+            "id": 2136635,
+            "year": "1978",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2544772159.jpg",
+            "title": "日本的首领：完结篇",
+            "release": 1
+        },
+        {
+            "id": 2122800,
+            "year": "1972",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2151803609.jpg",
+            "title": "红牡丹赌徒：仁义通过",
+            "release": 1
+        },
+        {
+            "id": 1862450,
+            "year": "1965",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2634583917.jpg",
+            "title": "宫本武藏 岩流岛的决斗",
+            "release": 1
         }
     ],
     "introduction": "少年歌舞伎を経て、歌舞伎役者になるが、歌舞伎界の因習を嫌悪する気持ちから映画界入り、以後時代劇のトップスターになる。1951年市川右太衛門とともに東映の取締役にも選任された。",
@@ -136,5 +106,5 @@
         "かたおか ちえぞう",
         "うえき まさよし(本名)"
     ],
-    "update_at": "2025-01-17T08:28:15"
+    "update_at": "2025-06-18T13:07:09"
 }

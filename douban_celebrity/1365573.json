@@ -1,5 +1,5 @@
 {
-    "sid": 1365573,
+    "sid": "1365573",
     "name": "约翰·特伦戈夫",
     "site": "douban_celebrity",
     "roles": [
@@ -21,117 +21,81 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36289822/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906754610.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "善意谎言",
-            "subject_id": "36289822"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35505261/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900186472.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "男气管制",
-            "subject_id": "35505261"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35930211/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "黑水镇 第三季",
-            "subject_id": "35930211"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34927016/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2623957255.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "所有死者",
-            "subject_id": "34927016"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35930196/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "黑水镇 第二季",
-            "subject_id": "35930196"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26949364/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2507733113.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "伤口",
-            "subject_id": "26949364"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35930185/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "黑水镇 第一季",
-            "subject_id": "35930185"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25825822/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900856821.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "iBhokhwe",
-            "subject_id": "25825822"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36656442/",
+            "id": 36656442,
             "year": "2010",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2901073117.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "Hopeville",
-            "subject_id": "36656442"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5240522/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "Hopeville",
-            "subject_id": "5240522"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36549790/",
+            "id": 36549790,
             "year": "2025",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "A Shadow Creeps in Silver Trees",
-            "subject_id": "36549790"
+            "release": 0
+        },
+        {
+            "id": 36289822,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906754610.jpg",
+            "title": "善意谎言",
+            "release": 1
+        },
+        {
+            "id": 35930211,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "黑水镇 第三季",
+            "release": 1
+        },
+        {
+            "id": 35930196,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "黑水镇 第二季",
+            "release": 1
+        },
+        {
+            "id": 35930185,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "黑水镇 第一季",
+            "release": 1
+        },
+        {
+            "id": 35505261,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900186472.jpg",
+            "title": "男气管制",
+            "release": 1
+        },
+        {
+            "id": 34927016,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2623957255.jpg",
+            "title": "所有死者",
+            "release": 1
+        },
+        {
+            "id": 26949364,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2507733113.jpg",
+            "title": "伤口",
+            "release": 1
+        },
+        {
+            "id": 25825822,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900856821.jpg",
+            "title": "iBhokhwe",
+            "release": 1
+        },
+        {
+            "id": 5240522,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Hopeville",
+            "release": 1
         }
     ],
     "introduction": "1978年生于南非，以剧场、电视、纪录片、广告拍摄起家，身兼导演、编剧、制片。2017年首部长片《割爱》入选圣丹斯影展、柏林影展电影大观单元，并获多个国际奖项肯定。《男气管制》为其第二部长片，入选柏林影展正式竞赛。",
@@ -142,5 +106,5 @@
     "personage_link": "https://www.douban.com/personage/27550464/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T19:21:05"
+    "update_at": "2025-06-18T15:14:15"
 }

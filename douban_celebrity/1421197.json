@@ -1,9 +1,10 @@
 {
-    "sid": 1421197,
+    "sid": "1421197",
     "name": "刘成柱",
     "site": "douban_celebrity",
     "roles": [
-        "演员"
+        "演员",
+        "编剧"
     ],
     "awards": [],
     "gender": "男",
@@ -15,124 +16,88 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36810718/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914728104.jpg",
-            "roles": [
-                "演员 (饰 白义勇)"
-            ],
-            "title": "现在拨打的电话",
-            "subject_id": "36810718"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35503392/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911494317.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "幸福的国家",
-            "subject_id": "35503392"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36823455/",
+            "id": 36823455,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908218332.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "母亲的王国",
-            "subject_id": "36823455"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35712804/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905141611.jpg",
-            "roles": [
-                "演员 (饰 闵昇培)"
-            ],
-            "title": "首尔之春",
-            "subject_id": "35712804"
+            "id": 36810718,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914728104.jpg",
+            "title": "现在拨打的电话",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35516524/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2889336418.jpg",
-            "roles": [
-                "演员 (饰 师团长)"
-            ],
-            "title": "放学后战争活动 第一季",
-            "subject_id": "35516524"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35679989/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875956503.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "朝鲜精神科医师刘世丰",
-            "subject_id": "35679989"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35248786/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872855712.jpg",
-            "roles": [
-                "演员 (饰 徐荣焕)"
-            ],
-            "title": "Link：尽情吃，用力爱",
-            "subject_id": "35248786"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35248792/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2867989683.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "少年法庭",
-            "subject_id": "35248792"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35041036/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2745268900.jpg",
-            "roles": [
-                "演员 (饰 黄次长)"
-            ],
-            "title": "寂静之海",
-            "subject_id": "35041036"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34812928/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2677934359.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "鱿鱼游戏 第一季",
-            "subject_id": "34812928"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36310161/",
-            "year": "2028",
+            "id": 36310161,
+            "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899009114.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "只有上帝知道一切",
-            "subject_id": "36310161"
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/36158351/",
+            "id": 36158351,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904107487.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "寻找国王",
-            "subject_id": "36158351"
+            "release": 0
+        },
+        {
+            "id": 35712804,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905141611.jpg",
+            "title": "首尔之春",
+            "release": 1
+        },
+        {
+            "id": 35679989,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875956503.jpg",
+            "title": "朝鲜精神科医师刘世丰",
+            "release": 1
+        },
+        {
+            "id": 35516524,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2889336418.jpg",
+            "title": "放学后战争活动 第一季",
+            "release": 1
+        },
+        {
+            "id": 35503392,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911494317.jpg",
+            "title": "幸福的国家",
+            "release": 1
+        },
+        {
+            "id": 35248792,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2869137200.jpg",
+            "title": "少年法庭",
+            "release": 1
+        },
+        {
+            "id": 35248786,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872855712.jpg",
+            "title": "Link：尽情吃，用力爱",
+            "release": 1
+        },
+        {
+            "id": 35041036,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2745268900.jpg",
+            "title": "寂静之海",
+            "release": 1
+        },
+        {
+            "id": 34812928,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2677934359.jpg",
+            "title": "鱿鱼游戏 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -147,5 +112,5 @@
     "name_more_other": [
         "유성주"
     ],
-    "update_at": "2025-01-17T16:21:17"
+    "update_at": "2025-06-18T19:56:22"
 }

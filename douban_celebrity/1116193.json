@@ -1,5 +1,5 @@
 {
-    "sid": 1116193,
+    "sid": "1116193",
     "name": "Joanna McCallum",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "英国,英格兰",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3069346/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509123147.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "法律与秩序(英版) 第一季",
-            "subject_id": "3069346"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1306687/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2574865790.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "暴风前夕",
-            "subject_id": "1306687"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3057518/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2506563678.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "医者心 第一季",
-            "subject_id": "3057518"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3887563/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2326968721.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "霍尔比市 第一季",
-            "subject_id": "3887563"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5107947/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Knight School",
-            "subject_id": "5107947"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3022927/",
-            "year": "1994",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2484410086.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Class Act",
-            "subject_id": "3022927"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5111903/",
+            "id": 5111903,
             "year": "1994",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537866962.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Moving Story",
-            "subject_id": "5111903"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1297792/",
-            "year": "1994",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2582207940.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "诗人与他的情人",
-            "subject_id": "1297792"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5108750/",
+            "id": 5108750,
             "year": "1992",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881524079.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "A Masculine Ending",
-            "subject_id": "5108750"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5089274/",
+            "id": 5107947,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Knight School",
+            "release": 1
+        },
+        {
+            "id": 5089274,
             "year": "1992",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Moon and Son",
-            "subject_id": "5089274"
+            "release": 1
+        },
+        {
+            "id": 3887563,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2326968721.jpg",
+            "title": "霍尔比市 第一季",
+            "release": 1
+        },
+        {
+            "id": 3069346,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509123147.jpg",
+            "title": "法律与秩序(英版) 第一季",
+            "release": 1
+        },
+        {
+            "id": 3057518,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2506563678.jpg",
+            "title": "医者心 第一季",
+            "release": 1
+        },
+        {
+            "id": 3022927,
+            "year": "1994",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2484410086.jpg",
+            "title": "Class Act",
+            "release": 1
+        },
+        {
+            "id": 1306687,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2574865790.jpg",
+            "title": "暴风前夕",
+            "release": 1
+        },
+        {
+            "id": 1297792,
+            "year": "1994",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2582207940.jpg",
+            "title": "诗人与他的情人",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -127,5 +97,5 @@
     "personage_link": "https://www.douban.com/personage/27322035/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T17:28:20"
+    "update_at": "2025-06-18T09:07:05"
 }

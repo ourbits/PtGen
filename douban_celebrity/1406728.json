@@ -1,5 +1,5 @@
 {
-    "sid": 1406728,
+    "sid": "1406728",
     "name": "尤里·霍尔布诺夫",
     "site": "douban_celebrity",
     "roles": [
@@ -16,24 +16,18 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26992446/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542552017.jpg",
-            "roles": [
-                "演员 - 配音 (配 基特 Kit Vchenyy)"
-            ],
-            "title": "森林奇缘",
-            "subject_id": "26992446"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27031575/",
+            "id": 27031575,
             "year": "2016",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2456996932.jpg",
-            "roles": [
-                "演员 (饰 Corporate party host)"
-            ],
             "title": "人民公仆2",
-            "subject_id": "27031575"
+            "release": 1
+        },
+        {
+            "id": 26992446,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542552017.jpg",
+            "title": "森林奇缘",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -44,5 +38,5 @@
     "personage_link": "https://www.douban.com/personage/30402734/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T08:28:18"
+    "update_at": "2025-06-18T02:07:08"
 }

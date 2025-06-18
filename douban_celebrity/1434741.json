@@ -1,5 +1,5 @@
 {
-    "sid": 1434741,
+    "sid": "1434741",
     "name": "杨柏尘",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/2353699/",
+            "id": 3041667,
+            "year": "1975",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2918133894.jpg",
+            "title": "恶霸",
+            "release": 1
+        },
+        {
+            "id": 2353699,
             "year": "1975",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2348210797.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "镖旗飞扬",
-            "subject_id": "2353699"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1302187/",
-            "year": "1975",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2074940101.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "荡寇志",
-            "subject_id": "1302187"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3041667/",
-            "year": "1975",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2220869509.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "恶霸",
-            "subject_id": "3041667"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1308257/",
-            "year": "1975",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2880767887.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "后生",
-            "subject_id": "1308257"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1308103/",
-            "year": "1974",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2340879426.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "洪拳与咏春",
-            "subject_id": "1308103"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1292782/",
-            "year": "1974",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2412196889.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "七金尸",
-            "subject_id": "1292782"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2071447/",
-            "year": "1974",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2620107002.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "吸毒者",
-            "subject_id": "2071447"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1302170/",
-            "year": "1974",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2559793965.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "五虎将",
-            "subject_id": "1302170"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1306975/",
-            "year": "1973",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2340148145.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "大刀王五",
-            "subject_id": "1306975"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2277133/",
+            "id": 2277133,
             "year": "1973",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2339791939.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "黄飞鸿",
-            "subject_id": "2277133"
+            "release": 1
+        },
+        {
+            "id": 2071447,
+            "year": "1974",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2620107002.jpg",
+            "title": "吸毒者",
+            "release": 1
+        },
+        {
+            "id": 1308257,
+            "year": "1975",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2880767887.jpg",
+            "title": "后生",
+            "release": 1
+        },
+        {
+            "id": 1308103,
+            "year": "1974",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2340879426.jpg",
+            "title": "洪拳与咏春",
+            "release": 1
+        },
+        {
+            "id": 1306975,
+            "year": "1973",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2340148145.jpg",
+            "title": "大刀王五",
+            "release": 1
+        },
+        {
+            "id": 1302187,
+            "year": "1975",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2074940101.jpg",
+            "title": "荡寇志",
+            "release": 1
+        },
+        {
+            "id": 1302170,
+            "year": "1974",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2559793965.jpg",
+            "title": "五虎将",
+            "release": 1
+        },
+        {
+            "id": 1292782,
+            "year": "1974",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2412196889.jpg",
+            "title": "七金尸",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/35005138/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T00:35:06"
+    "update_at": "2025-06-18T14:00:10"
 }

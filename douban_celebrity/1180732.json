@@ -1,5 +1,5 @@
 {
-    "sid": 1180732,
+    "sid": "1180732",
     "name": "Christopher Goddard",
     "site": "douban_celebrity",
     "roles": [
@@ -15,34 +15,25 @@
     "birth_place": "加拿大,安大略省,卢肯",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3415481/",
+            "id": 5233900,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Outhouse",
+            "release": 1
+        },
+        {
+            "id": 3415481,
             "year": "2009",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2891612449.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "重回昨日 第一季",
-            "subject_id": "3415481"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5233900/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Outhouse",
-            "subject_id": "5233900"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3143067/",
+            "id": 3143067,
             "year": "1999",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539334637.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "基情二加一 第一季",
-            "subject_id": "3143067"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -55,5 +46,5 @@
     "name_more_other": [
         "Gino (昵称)"
     ],
-    "update_at": "2025-01-17T17:35:16"
+    "update_at": "2025-06-18T15:49:09"
 }

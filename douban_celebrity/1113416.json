@@ -1,5 +1,5 @@
 {
-    "sid": 1113416,
+    "sid": "1113416",
     "name": "韦弗·里库克",
     "site": "douban_celebrity",
     "roles": [
@@ -16,107 +16,77 @@
     "birth_place": "加拿大,蒙特利尔",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36930673/",
+            "id": 36930673,
             "year": "2024",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Legend of the Lost Locket",
-            "subject_id": "36930673"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30345721/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2568331902.jpg",
-            "roles": [
-                "演员 (饰 Limetown Announcer)"
-            ],
-            "title": "莱姆镇",
-            "subject_id": "30345721"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30279863/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2567190571.jpg",
-            "roles": [
-                "演员 (饰 Bobby Reeves)"
-            ],
-            "title": "蝙蝠女侠 第一季",
-            "subject_id": "30279863"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30316979/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2634072013.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "烂人劳德缪克 第二季",
-            "subject_id": "30316979"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26348106/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "生人勿近",
-            "subject_id": "26348106"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26884492/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2495336326.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "烂人劳德缪克 第一季",
-            "subject_id": "26884492"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27168776/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2834089527.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "亚当：镜子",
-            "subject_id": "27168776"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26882688/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Marrying the Family",
-            "subject_id": "26882688"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36666826/",
+            "id": 36666826,
             "year": "2016",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2901418111.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "海莉·迪恩之谜",
-            "subject_id": "36666826"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26705560/",
+            "id": 30345721,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2568331902.jpg",
+            "title": "莱姆镇",
+            "release": 1
+        },
+        {
+            "id": 30316979,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2634072013.jpg",
+            "title": "烂人劳德缪克 第二季",
+            "release": 1
+        },
+        {
+            "id": 30279863,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2567190571.jpg",
+            "title": "蝙蝠女侠 第一季",
+            "release": 1
+        },
+        {
+            "id": 27168776,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2834089527.jpg",
+            "title": "亚当：镜子",
+            "release": 1
+        },
+        {
+            "id": 26884492,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2495336326.jpg",
+            "title": "烂人劳德缪克 第一季",
+            "release": 1
+        },
+        {
+            "id": 26882688,
             "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2407221654.jpg",
-            "roles": [
-                "演员 (饰 Gripps)"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Marrying the Family",
+            "release": 1
+        },
+        {
+            "id": 26705560,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2388110162.jpg",
             "title": "全能侦探社 第一季",
-            "subject_id": "26705560"
+            "release": 1
+        },
+        {
+            "id": 26348106,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "生人勿近",
+            "release": 1
         }
     ],
-    "introduction": "暂无",
+    "introduction": "orn in Montreal and based in Vancouver, Viv Leacock has been part of the acting scene for almost 20 years. His big break came in 2002, in the Eddie Murphy action comedy, I Spy, where he was personally chosen by his comedic idol to play his right-hand man. Following this role, Viv continued his comedy work on a number of film and TV shows including Intern Academy (Dave Thomas and Dave Foley), Are we There Yet? and Are we Done Yet? (Ice Cube and Nia Long), Hot Tub Time Machine (Craig Robertson and John Cusack) and This Means War (Chris Pine, Tom Hardy and Reese Witherspoon). Viv would earn a Leo nomination for best supporting actor in a dramatic role in the environmental thriller The Thaw starring Val Kilmer. One of his notable characters in BBC America's Dirk Gently's Holistic Detective Agency, Viv plays Gripps, one of the members of the ballistic band of misfits called \"The Rowdy 3\". Viv also had the privilege and pleasure working with The Green Book's, Peter Farrelly, for 3 seasons on a hilarious series called Loudermilk, following the lives of an AA group led by Ron Livingston. In Netflix's juggernaut, Lost In Space, starring Toby Stephens, Molly Parker and Parker Posey, Viv portrays Reese, one of the colonists trying to find new planet to call home. As a long-time member of the Hallmark film and TV family, Viv plays Detective Fincher Garland on Hailey Dean Mysteries alongside Kellie Martin. Switching up the time period, you can find Viv and two of his children, Vienna and Elias, in the upcoming season of When Calls The Heart, one of Hallmark's longest running series. Viv enjoys life with his wife of 27 years, Divina and their 3 children, Vienna, Lennox and Elias.",
     "name_more_cn": [],
     "personage_id": "27319248",
     "family_member": [],
@@ -124,5 +94,5 @@
     "personage_link": "https://www.douban.com/personage/27319248/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T17:07:22"
+    "update_at": "2025-06-18T14:42:08"
 }

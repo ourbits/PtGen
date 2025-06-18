@@ -1,5 +1,5 @@
 {
-    "sid": 1049767,
+    "sid": "1049767",
     "name": "艾德蒙·奥布莱恩",
     "site": "douban_celebrity",
     "roles": [
@@ -21,104 +21,74 @@
     "birth_place": "美国,纽约",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/2068290/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539304594.jpg",
-            "roles": [
-                "演员 (饰 Pat Mullins)"
-            ],
-            "title": "风的另一边",
-            "subject_id": "2068290"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4832341/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p980878258.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "光影艳红菱",
-            "subject_id": "4832341"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1297571/",
-            "year": "1974",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2506223116.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "九死一生",
-            "subject_id": "1297571"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5055009/",
-            "year": "1973",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871204934.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "警察故事",
-            "subject_id": "5055009"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5054850/",
-            "year": "1973",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2625841077.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "杀机满布",
-            "subject_id": "5054850"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1452061/",
-            "year": "1973",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1963889493.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "教父之祖",
-            "subject_id": "1452061"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5055671/",
+            "id": 5055671,
             "year": "1972",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911724466.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Jigsaw",
-            "subject_id": "5055671"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5055418/",
+            "id": 5055418,
             "year": "1972",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "The New Temperatures Rising Show",
-            "subject_id": "5055418"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1300425/",
-            "year": "1972",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2407023335.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "碧海浮尸",
-            "subject_id": "1300425"
+            "id": 5055009,
+            "year": "1973",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871204934.jpg",
+            "title": "警察故事",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4265844/",
+            "id": 5054850,
+            "year": "1973",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2625841077.jpg",
+            "title": "杀机满布",
+            "release": 1
+        },
+        {
+            "id": 4832341,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p980878258.jpg",
+            "title": "光影艳红菱",
+            "release": 1
+        },
+        {
+            "id": 4265844,
             "year": "1972",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2491141979.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "旧金山风物记 第一季",
-            "subject_id": "4265844"
+            "release": 1
+        },
+        {
+            "id": 2068290,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539304594.jpg",
+            "title": "风的另一边",
+            "release": 1
+        },
+        {
+            "id": 1452061,
+            "year": "1973",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1963889493.jpg",
+            "title": "教父之祖",
+            "release": 1
+        },
+        {
+            "id": 1300425,
+            "year": "1972",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2407023335.jpg",
+            "title": "碧海浮尸",
+            "release": 1
+        },
+        {
+            "id": 1297571,
+            "year": "1974",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2506223116.jpg",
+            "title": "九死一生",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -137,5 +107,5 @@
         "Redmond O'Brien (本名)",
         "Eddy (昵称)"
     ],
-    "update_at": "2025-01-17T15:14:08"
+    "update_at": "2025-06-18T05:21:07"
 }

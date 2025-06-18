@@ -1,5 +1,5 @@
 {
-    "sid": 1279952,
+    "sid": "1279952",
     "name": "查尔斯·L·坎贝尔",
     "site": "douban_celebrity",
     "roles": [
@@ -20,54 +20,39 @@
     "birth_place": "美国,密歇根州,底特律",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/34994739/",
+            "id": 34994739,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2591034962.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "向往的生活",
-            "subject_id": "34994739"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/6053731/",
+            "id": 6053731,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1376559436.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "超能失控",
-            "subject_id": "6053731"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3168089/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p959856833.jpg",
-            "roles": [
-                "演员 (饰 News Voice)"
-            ],
-            "title": "X战警：第一战",
-            "subject_id": "3168089"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1300555/",
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909061136.jpg",
-            "roles": [
-                "演员 - 配音 (配 1955 Radio Announcer)"
-            ],
-            "title": "回到未来",
-            "subject_id": "1300555"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5052152/",
+            "id": 5052152,
             "year": "1979",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876752313.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "西部一家人",
-            "subject_id": "5052152"
+            "release": 1
+        },
+        {
+            "id": 3168089,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p959856833.jpg",
+            "title": "X战警：第一战",
+            "release": 1
+        },
+        {
+            "id": 1300555,
+            "year": "1985",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p475869074.jpg",
+            "title": "回到未来",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -83,5 +68,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-17T19:56:07"
+    "update_at": "2025-06-18T20:14:05"
 }

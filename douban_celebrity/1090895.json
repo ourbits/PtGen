@@ -1,5 +1,5 @@
 {
-    "sid": 1090895,
+    "sid": "1090895",
     "name": "降旗康男",
     "site": "douban_celebrity",
     "roles": [
@@ -21,108 +21,74 @@
     "birth_place": "日本,长野,松本",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26752764/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2439826757.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "追忆",
-            "subject_id": "26752764"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26771110/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2382864332.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "高仓健",
-            "subject_id": "26771110"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10540062/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1841248096.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "少年H",
-            "subject_id": "10540062"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30425929/",
+            "id": 30425929,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2564674619.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "行家本色 高仓健特辑",
-            "subject_id": "30425929"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/6814906/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1861030042.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "致亲爱的你",
-            "subject_id": "6814906"
+            "id": 26771110,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2382864332.jpg",
+            "title": "高仓健",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1964707/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p794255166.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "凭神",
-            "subject_id": "1964707"
+            "id": 26752764,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2439826757.jpg",
+            "title": "追忆",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1422952/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p659660201.jpg",
-            "roles": [
-                "导演 - 联合执导",
-                "副导演"
-            ],
-            "title": "千里走单骑",
-            "subject_id": "1422952"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1775102/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2677178389.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "赤月",
-            "subject_id": "1775102"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1305241/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1757342595.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "萤火虫",
-            "subject_id": "1305241"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26719672/",
+            "id": 26719672,
             "year": "2000",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2564675065.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "第23届日本电影学院奖",
-            "subject_id": "26719672"
+            "release": 1
+        },
+        {
+            "id": 10540062,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1841248096.jpg",
+            "title": "少年H",
+            "release": 1
+        },
+        {
+            "id": 6814906,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1861030042.jpg",
+            "title": "致亲爱的你",
+            "release": 1
+        },
+        {
+            "id": 1964707,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p794255166.jpg",
+            "title": "凭神",
+            "release": 1
+        },
+        {
+            "id": 1775102,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2677178389.jpg",
+            "title": "赤月",
+            "release": 1
+        },
+        {
+            "id": 1422952,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p659660201.jpg",
+            "title": "千里走单骑",
+            "release": 1
+        },
+        {
+            "id": 1305241,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1757342595.jpg",
+            "title": "萤火虫",
+            "release": 1
         }
     ],
     "introduction": "降旗康男 Yasuo Furuhata　，日本电影导演，　1934年8月19日出生于长野县 松本市。降旗的父亲降旗徳弥曾是松本市的市长、长野广播台的总经理，战后第一届通信大臣。降旗从松本深志高中毕业后，考入东京大学法语系。1957年，降旗完成学业后，进入了东映株式会社。他开始为佐伯清、佐藤纯弥等人做助手，以此积累经验。1966年，降旗与高仓健、三国连太郎等合作，推出了首部自己执导的电影《地狱无明天》（不良少女洋子）一举成名。1968年退出东映，成为东映合同导演。在东映黑帮电影全盛时期，降旗成为该时期代表导演之一。并在东映侠客片中以“现代黑社会”系列片独树一帜，代表作《与太者的规章》(1969)、《与太者仁义》(1969)。并以这二部作品推出了武打片明星菅原文太。以后他又突破已形成的侠客片套路，开创了以新英雄形象为代表的《新网走番外地》的系列片、现代黑道》系列等。从70年代后半期开始，降旗开始参与电视连续剧的制作，其中包括了由山口百惠主演的著名电视连续剧红色系列(《血疑》、《红色命运》、《红色羁绊》)。1978年，降旗退出了东映公司。成为自由导演后，又回到拍影院用故事片的路上来，拍摄了《冬之华》。该片以法国黑色电影的潇洒手法，描写一个黑社会人物一直关心曾被自己杀死的黑帮头头的女儿，表现出与东映以往的侠客片完全不同的风格，并从此确立了他与高仓健的亲密合作。1981年《车站》是部富有情节性的枪战片，成为其作品的最高杰作。该片除获日本《电影旬报》十佳作品奖外还获日本奥斯卡作品奖等几乎所有的国内电影奖。并成为日本当年十大卖座片之一。1982年降旗因此片获亚洲国际电影节最佳导演奖。国内影响较大的作品还有：《兆治小酒店》、《夜叉》等。他的电视电影杰作《雨日的访问者》令人十分难忘。90年代他仍然以传统情节片与动作片活跃于日本影坛。1995年执导描写孤独的女人一生的作品《酒窖》，受到高度评价，获《电影旬报》读者评选十佳作品奖第九位。 1999年的《铁道员》更是大放异彩，在日本影坛连映6个月之久[1]。一举囊括了学院奖的9个奖项，降旗凭借此片获得了最佳导演和最佳剧本奖，该片的票房收入打进了年度三甲；两年后的《萤火虫》又是成绩斐然。2005年，降旗与张艺谋携手，负责《千里走单骑》日本部分的执导工作。降旗导演一直孜孜不倦地活跃于日本电影的第一线。他早期擅长拍摄紧张激烈充满魄力的动作片，而晚期则更注重对人物内心情感的刻画，他的作品塑造出一个个经典的男子汉形象，著名演员高仓健是他的老搭档，而表现女性坚强性格的《藏》则是他诸多作品中的一朵奇葩。",
@@ -138,5 +104,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-17T03:56:25"
+    "update_at": "2025-06-18T04:35:20"
 }

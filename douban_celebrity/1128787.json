@@ -1,5 +1,5 @@
 {
-    "sid": 1128787,
+    "sid": "1128787",
     "name": "吉姆·穆迪",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "美国,弗吉尼亚州,朴次茅斯",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1856868/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2561577747.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "法律与秩序：犯罪倾向 第一季",
-            "subject_id": "1856868"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1958770/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2867509542.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "城市守护者第三梯队 第一季",
-            "subject_id": "1958770"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1292752/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2160142919.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "伴郎",
-            "subject_id": "1292752"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3067233/",
-            "year": "1994",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511738046.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "纽约卧底警察",
-            "subject_id": "3067233"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4028780/",
-            "year": "1993",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2666647511.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "警网双雄",
-            "subject_id": "4028780"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1297030/",
-            "year": "1992",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2553180289.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "最后的审判",
-            "subject_id": "1297030"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1498178/",
-            "year": "1990",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2172711173.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "法律与秩序 第一季",
-            "subject_id": "1498178"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1294683/",
-            "year": "1989",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635438420.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "铁腕校长",
-            "subject_id": "1294683"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5048923/",
+            "id": 5048923,
             "year": "1985",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2595621022.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Brass",
-            "subject_id": "5048923"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2133096/",
+            "id": 4028780,
+            "year": "1993",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2666647511.jpg",
+            "title": "警网双雄",
+            "release": 1
+        },
+        {
+            "id": 3067233,
+            "year": "1994",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511738046.jpg",
+            "title": "纽约卧底警察",
+            "release": 1
+        },
+        {
+            "id": 2133096,
             "year": "1985",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2321287430.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "龙拳小子",
-            "subject_id": "2133096"
+            "release": 1
+        },
+        {
+            "id": 1958770,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2867509542.jpg",
+            "title": "城市守护者第三梯队 第一季",
+            "release": 1
+        },
+        {
+            "id": 1856868,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2561577747.jpg",
+            "title": "法律与秩序：犯罪倾向 第一季",
+            "release": 1
+        },
+        {
+            "id": 1498178,
+            "year": "1990",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2172711173.jpg",
+            "title": "法律与秩序 第一季",
+            "release": 1
+        },
+        {
+            "id": 1297030,
+            "year": "1992",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2553180289.jpg",
+            "title": "最后的审判",
+            "release": 1
+        },
+        {
+            "id": 1294683,
+            "year": "1989",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635438420.jpg",
+            "title": "铁腕校长",
+            "release": 1
+        },
+        {
+            "id": 1292752,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2160142919.jpg",
+            "title": "伴郎",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27334633/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T13:14:18"
+    "update_at": "2025-06-18T22:42:21"
 }

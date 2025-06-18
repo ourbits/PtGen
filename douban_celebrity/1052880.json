@@ -1,5 +1,5 @@
 {
-    "sid": 1052880,
+    "sid": "1052880",
     "name": "Alexander Smirnov",
     "site": "douban_celebrity",
     "roles": [
@@ -16,44 +16,32 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5175060/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "Zveroboy",
-            "subject_id": "5175060"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4842254/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2176415788.jpg",
-            "roles": [
-                "摄影"
-            ],
-            "title": "灰色华尔兹",
-            "subject_id": "4842254"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5193936/",
+            "id": 5193936,
             "year": "2005",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2186963412.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "亲爱的玛莎•别列金娜",
-            "subject_id": "5193936"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1793230/",
+            "id": 5175060,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Zveroboy",
+            "release": 1
+        },
+        {
+            "id": 4842254,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2176415788.jpg",
+            "title": "灰色华尔兹",
+            "release": 1
+        },
+        {
+            "id": 1793230,
             "year": "2003",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2592096191.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "情迷彼得堡",
-            "subject_id": "1793230"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -64,5 +52,5 @@
     "personage_link": "https://www.douban.com/personage/27258647/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T20:28:21"
+    "update_at": "2025-06-18T02:42:16"
 }

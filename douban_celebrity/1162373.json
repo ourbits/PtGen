@@ -1,5 +1,5 @@
 {
-    "sid": 1162373,
+    "sid": "1162373",
     "name": "埃德·温",
     "site": "douban_celebrity",
     "roles": [
@@ -19,104 +19,74 @@
     "birth_place": "美国,宾夕法尼亚州,费城",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35524156/",
+            "id": 35524156,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2677291371.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "日落大道！好莱坞故事",
-            "subject_id": "35524156"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5057293/",
-            "year": "1967",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2524981846.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "神仙车",
-            "subject_id": "5057293"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3302537/",
-            "year": "1966",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2506236684.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "幻想家",
-            "subject_id": "3302537"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3792183/",
-            "year": "1965",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2504206595.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "神猫密探队",
-            "subject_id": "3792183"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1305301/",
-            "year": "1965",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2647096065.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "翠谷天伦",
-            "subject_id": "1305301"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3321582/",
-            "year": "1965",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2504996435.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "运财童子",
-            "subject_id": "3321582"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5058543/",
-            "year": "1964",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Slattery's People",
-            "subject_id": "5058543"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1292658/",
-            "year": "1964",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2576772285.jpg",
-            "roles": [
-                "演员 (饰 艾伯特叔叔 Uncle Albert)"
-            ],
-            "title": "欢乐满人间",
-            "subject_id": "1292658"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3176059/",
-            "year": "1964",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508948678.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "荒唐大明星",
-            "subject_id": "3176059"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5058864/",
+            "id": 5058864,
             "year": "1963",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2165018334.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Vacation Playhouse",
-            "subject_id": "5058864"
+            "release": 1
+        },
+        {
+            "id": 5058543,
+            "year": "1964",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Slattery's People",
+            "release": 1
+        },
+        {
+            "id": 5057293,
+            "year": "1967",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2524981846.jpg",
+            "title": "神仙车",
+            "release": 1
+        },
+        {
+            "id": 3792183,
+            "year": "1965",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2504206595.jpg",
+            "title": "神猫密探队",
+            "release": 1
+        },
+        {
+            "id": 3321582,
+            "year": "1965",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2504996435.jpg",
+            "title": "运财童子",
+            "release": 1
+        },
+        {
+            "id": 3302537,
+            "year": "1966",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2506236684.jpg",
+            "title": "幻想家",
+            "release": 1
+        },
+        {
+            "id": 3176059,
+            "year": "1964",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508948678.jpg",
+            "title": "荒唐大明星",
+            "release": 1
+        },
+        {
+            "id": 1305301,
+            "year": "1965",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2647096065.jpg",
+            "title": "翠谷天伦",
+            "release": 1
+        },
+        {
+            "id": 1292658,
+            "year": "1964",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2576772285.jpg",
+            "title": "欢乐满人间",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -135,5 +105,5 @@
         "Isaiah Edwin Leopold (本名)",
         "The Perfect Fool (昵称)"
     ],
-    "update_at": "2025-01-17T06:49:10"
+    "update_at": "2025-06-18T02:56:07"
 }

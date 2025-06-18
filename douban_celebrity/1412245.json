@@ -1,5 +1,5 @@
 {
-    "sid": 1412245,
+    "sid": "1412245",
     "name": "谢雨辰",
     "site": "douban_celebrity",
     "roles": [
@@ -15,114 +15,81 @@
     "birth_place": "中国,浙江,杭州",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26852901/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905317795.jpg",
-            "roles": [
-                "演员 (饰 李玉儿)"
-            ],
-            "title": "宣武门",
-            "subject_id": "26852901"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26986845/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2527822919.jpg",
-            "roles": [
-                "演员 (饰 丐帮帮主)"
-            ],
-            "title": "胭脂债",
-            "subject_id": "26986845"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30227465/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2615159377.jpg",
-            "roles": [
-                "演员 (饰 霍东媛)"
-            ],
-            "title": "大侠霍元甲",
-            "subject_id": "30227465"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26951639/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2553640843.jpg",
-            "roles": [
-                "演员 (饰 小葛晴)"
-            ],
-            "title": "因法之名",
-            "subject_id": "26951639"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25865815/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539428717.jpg",
-            "roles": [
-                "演员 (饰 小殷离)"
-            ],
-            "title": "倚天屠龙记",
-            "subject_id": "25865815"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27594303/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2543774455.jpg",
-            "roles": [
-                "演员 (饰 少年苏宇)"
-            ],
-            "title": "姥姥的饺子馆",
-            "subject_id": "27594303"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25723583/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2499135561.jpg",
-            "roles": [
-                "演员 (饰 成龙的女儿)"
-            ],
-            "title": "英伦对决",
-            "subject_id": "25723583"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26688489/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2528366921.jpg",
-            "roles": [
-                "演员 (饰 小青女 / 冬妹)"
-            ],
-            "title": "开封府",
-            "subject_id": "26688489"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35073686/",
+            "id": 35073686,
             "year": "2016",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2603617709.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "嘭！发射",
-            "subject_id": "35073686"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26219597/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2220045985.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "相爱穿梭千年",
-            "subject_id": "26219597"
+            "id": 30227465,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2615159377.jpg",
+            "title": "大侠霍元甲",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26995680/",
+            "id": 27594303,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2543774455.jpg",
+            "title": "姥姥的饺子馆",
+            "release": 1
+        },
+        {
+            "id": 26995680,
             "year": "2026",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2456606238.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "一步登天",
-            "subject_id": "26995680"
+            "release": 0
+        },
+        {
+            "id": 26986845,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2527822919.jpg",
+            "title": "胭脂债",
+            "release": 1
+        },
+        {
+            "id": 26951639,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2553640843.jpg",
+            "title": "因法之名",
+            "release": 1
+        },
+        {
+            "id": 26852901,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905317795.jpg",
+            "title": "宣武门",
+            "release": 1
+        },
+        {
+            "id": 26688489,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2528366921.jpg",
+            "title": "开封府",
+            "release": 1
+        },
+        {
+            "id": 26219597,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2220045985.jpg",
+            "title": "相爱穿梭千年",
+            "release": 1
+        },
+        {
+            "id": 25865815,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539428717.jpg",
+            "title": "倚天屠龙记",
+            "release": 1
+        },
+        {
+            "id": 25723583,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2499135561.jpg",
+            "title": "英伦对决",
+            "release": 1
         }
     ],
     "introduction": "谢雨辰，2005年11月7日出生于中国杭州，中国大陆女演员。2014年，出演湖南卫视自制剧《相爱穿梭千年》而出道。2015年，参演迷城传奇古装剧《开封府传奇》。9月，出演电影《二十比十六》。2016年2月，参演迷城传奇古装剧《开封府传奇》。2016年4月，参演由马丁·坎贝尔执导的动作类影片《英伦对决》。7月，参演民国传奇电视剧《舞樱》。9月，出演爱情网剧《大侠日天》，饰演童年时期的小语嫣。11月，出演涉案电视剧《因法之名》，饰演小葛晴一角。",
@@ -135,5 +102,5 @@
     "name_more_other": [
         "Shirley"
     ],
-    "update_at": "2025-01-17T04:00:11"
+    "update_at": "2025-06-18T21:28:08"
 }

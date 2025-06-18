@@ -1,5 +1,5 @@
 {
-    "sid": 1079190,
+    "sid": "1079190",
     "name": "Rosey Edeh",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "英国,伦敦",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/2018078/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635424764.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "夜间电波",
-            "subject_id": "2018078"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5212483/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "Entertainment Tonight Canada",
-            "subject_id": "5212483"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3390600/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "致命隔绝",
-            "subject_id": "3390600"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5238707/",
+            "id": 5238707,
             "year": "2004",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Destiny Files",
-            "subject_id": "5238707"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2268023/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2633129857.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "天使降临",
-            "subject_id": "2268023"
+            "id": 5212483,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Entertainment Tonight Canada",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1947356/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "温情公寓",
-            "subject_id": "1947356"
+            "id": 3390600,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "致命隔绝",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3073336/",
+            "id": 3073336,
             "year": "2004",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876032144.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "律政先锋",
-            "subject_id": "3073336"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1308779/",
+            "id": 2268023,
             "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2209602029.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "后天",
-            "subject_id": "1308779"
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2633129857.jpg",
+            "title": "天使降临",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1309168/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510941700.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "诱捕",
-            "subject_id": "1309168"
+            "id": 2018078,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635424764.jpg",
+            "title": "夜间电波",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1997816/",
+            "id": 1997816,
             "year": "2004",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2602282836.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "坏苹果",
-            "subject_id": "1997816"
+            "release": 1
+        },
+        {
+            "id": 1947356,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "温情公寓",
+            "release": 1
+        },
+        {
+            "id": 1309168,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510941700.jpg",
+            "title": "诱捕",
+            "release": 1
+        },
+        {
+            "id": 1308779,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2209602029.jpg",
+            "title": "后天",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27284948/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T11:14:19"
+    "update_at": "2025-06-18T14:14:12"
 }

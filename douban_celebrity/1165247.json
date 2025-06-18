@@ -1,5 +1,5 @@
 {
-    "sid": 1165247,
+    "sid": "1165247",
     "name": "Ernestyna Winnicka",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "波兰,Zary",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/27111063/",
+            "id": 27111063,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2617881027.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "美丽的图画",
-            "subject_id": "27111063"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3267041/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870331769.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "尼娜的旅行",
-            "subject_id": "3267041"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3262515/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Lawstorant",
-            "subject_id": "3262515"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5226725/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Psie serce",
-            "subject_id": "5226725"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5108996/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1985187542.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "异邦人",
-            "subject_id": "5108996"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5229789/",
-            "year": "1990",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Sceny nocne",
-            "subject_id": "5229789"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1440567/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2600962091.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "小提琴不再演奏了",
-            "subject_id": "1440567"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5097730/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2896363983.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Zmiennicy",
-            "subject_id": "5097730"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5048448/",
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635288609.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "战争与爱情",
-            "subject_id": "5048448"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26860291/",
+            "id": 26860291,
             "year": "1985",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2610794541.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "偶像",
-            "subject_id": "26860291"
+            "release": 1
+        },
+        {
+            "id": 5229789,
+            "year": "1990",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Sceny nocne",
+            "release": 1
+        },
+        {
+            "id": 5226725,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Psie serce",
+            "release": 1
+        },
+        {
+            "id": 5108996,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1985187542.jpg",
+            "title": "异邦人",
+            "release": 1
+        },
+        {
+            "id": 5097730,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2896363983.jpg",
+            "title": "Zmiennicy",
+            "release": 1
+        },
+        {
+            "id": 5048448,
+            "year": "1985",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635288609.jpg",
+            "title": "战争与爱情",
+            "release": 1
+        },
+        {
+            "id": 3267041,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870331769.jpg",
+            "title": "尼娜的旅行",
+            "release": 1
+        },
+        {
+            "id": 3262515,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Lawstorant",
+            "release": 1
+        },
+        {
+            "id": 1440567,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2600962091.jpg",
+            "title": "小提琴不再演奏了",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27371143/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T00:00:12"
+    "update_at": "2025-06-18T19:21:13"
 }

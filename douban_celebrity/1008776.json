@@ -1,5 +1,5 @@
 {
-    "sid": 1008776,
+    "sid": "1008776",
     "name": "相马刚三",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "日本,秋田",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5124177/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881657978.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Parco Fiction",
-            "subject_id": "5124177"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1998681/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2112131591.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "午夜凶铃：最终章",
-            "subject_id": "1998681"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36228680/",
-            "year": "1995",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2887365338.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "十津川警部系列（9）松島・蔵王殺人事件",
-            "subject_id": "36228680"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36424313/",
+            "id": 36424313,
             "year": "1991",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2901286924.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "山岳推理（4）津轻龙飞岬风的杀意",
-            "subject_id": "36424313"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36135204/",
+            "id": 36228680,
+            "year": "1995",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2887365338.jpg",
+            "title": "十津川警部系列（9）松島・蔵王殺人事件",
+            "release": 1
+        },
+        {
+            "id": 36135204,
             "year": "1989",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2882718636.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "阿寒湖绿球藻杀人事件",
-            "subject_id": "36135204"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1302030/",
-            "year": "1987",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2605234009.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "首都消失",
-            "subject_id": "1302030"
+            "id": 5124177,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881657978.jpg",
+            "title": "Parco Fiction",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5121708/",
+            "id": 5121708,
             "year": "1986",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2603593938.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "玄海舞曲",
-            "subject_id": "5121708"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1394515/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509321821.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "火宅之人",
-            "subject_id": "1394515"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2010018/",
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2225555726.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "火祭",
-            "subject_id": "2010018"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3026786/",
+            "id": 3026786,
             "year": "1985",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2269875990.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "櫂",
-            "subject_id": "3026786"
+            "release": 1
+        },
+        {
+            "id": 2010018,
+            "year": "1985",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2225555726.jpg",
+            "title": "火祭",
+            "release": 1
+        },
+        {
+            "id": 1998681,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2112131591.jpg",
+            "title": "午夜凶铃：最终章",
+            "release": 1
+        },
+        {
+            "id": 1394515,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509321821.jpg",
+            "title": "火宅之人",
+            "release": 1
+        },
+        {
+            "id": 1302030,
+            "year": "1987",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2605234009.jpg",
+            "title": "首都消失",
+            "release": 1
         }
     ],
     "introduction": "相马刚三（1930年2月10日－2004年5月21日），日本男演员。 出生于秋田县北秋田郡高须町。 高须农林高中毕业。 在东映演员中心工作后，晚年隶属于株式会社Jobo。 高中毕业后，在秋田县农地整备课工作，后毕业于日本电影学校编剧系。 1951年，凭借电影《新星映画》出道。 之后，他隶属于东映东京工作室和东映演员中心，主要在东映制作的电影和电视剧中担任配角。 1993年，为表彰他作为演员43年，他获得了第37届Eiga Nihon长期服务奖章。 她的特长是滑雪和说东北方言。 在北海道拍摄电视剧《特战战线》期间，他在没有配音的情况下展示了自己的滑雪技巧。 2004年5月21日去世。 74岁去世",
@@ -129,5 +99,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-17T06:00:22"
+    "update_at": "2025-06-18T09:35:18"
 }

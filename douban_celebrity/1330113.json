@@ -1,5 +1,5 @@
 {
-    "sid": 1330113,
+    "sid": "1330113",
     "name": "郑基训",
     "site": "douban_celebrity",
     "roles": [
@@ -10,7 +10,7 @@
     "awards": [
         "2010年 第13届上海国际电影节 亚洲新人奖 最佳影片 (提名) 爱子",
         "2010年 第13届上海国际电影节 亚洲新人奖 最佳导演 爱子",
-        "2010年 第46届百想艺术大赏 电影类 最佳新人导演 (提名) 爱子"
+        "2010年 第46届百想艺术大赏 最佳新人导演 (提名) 爱子"
     ],
     "gender": "男",
     "poster": "https://img1.doubanio.com/view/celebrity/m/public/p1412913540.38.jpg",
@@ -21,57 +21,39 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26108385/",
+            "id": 26108385,
             "year": "2015",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2283274922.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "假装热情",
-            "subject_id": "26108385"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/10439235/",
+            "id": 10439235,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1768410538.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "创可贴",
-            "subject_id": "10439235"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3992376/",
+            "id": 3992376,
             "year": "2009",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p556997752.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "爱子",
-            "subject_id": "3992376"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3150346/",
+            "id": 3150346,
             "year": "2008",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p823683705.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "考死：血之期中考试",
-            "subject_id": "3150346"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1304598/",
+            "id": 1304598,
             "year": "2003",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2039581093.jpg",
-            "roles": [
-                "副导演"
-            ],
             "title": "汉城警事",
-            "subject_id": "1304598"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -86,5 +68,5 @@
     "name_more_other": [
         "정기훈"
     ],
-    "update_at": "2025-01-17T06:35:09"
+    "update_at": "2025-06-18T00:56:19"
 }

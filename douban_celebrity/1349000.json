@@ -1,5 +1,5 @@
 {
-    "sid": 1349000,
+    "sid": "1349000",
     "name": "朴奎利",
     "site": "douban_celebrity",
     "roles": [
@@ -17,114 +17,81 @@
     "birth_place": "韩国,首尔",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/37134877/",
+            "id": 37134877,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915816630.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "最爱的最爱",
-            "subject_id": "37134877"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36823945/",
+            "id": 36823945,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906203138.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "不能只有我，KARA",
-            "subject_id": "36823945"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36432081/",
+            "id": 36432081,
             "year": "2023",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893066285.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "R U Next?",
-            "subject_id": "36432081"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27192266/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2504376148.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Bowling Bling",
-            "subject_id": "27192266"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27160636/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2550666346.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "各自的美食",
-            "subject_id": "27160636"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26857981/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2546954157.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "我的特工欧巴",
-            "subject_id": "26857981"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27005262/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2460657076.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "無窮花開了",
-            "subject_id": "27005262"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26823021/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2399244040.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "如何与我的猫分手",
-            "subject_id": "26823021"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26599177/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2328382278.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "两个恋爱",
-            "subject_id": "26599177"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30148223/",
+            "id": 30148223,
             "year": "2015",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2892209071.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "4种秀 第二季",
-            "subject_id": "30148223"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26657442/",
+            "id": 27192266,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2504376148.jpg",
+            "title": "Bowling Bling",
+            "release": 1
+        },
+        {
+            "id": 27160636,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2550666346.jpg",
+            "title": "各自的美食",
+            "release": 1
+        },
+        {
+            "id": 27005262,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2460657076.jpg",
+            "title": "無窮花開了",
+            "release": 1
+        },
+        {
+            "id": 26857981,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2546954157.jpg",
+            "title": "我的特工欧巴",
+            "release": 1
+        },
+        {
+            "id": 26823021,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2399244040.jpg",
+            "title": "如何与我的猫分手",
+            "release": 1
+        },
+        {
+            "id": 26657442,
             "year": "2025",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "密约",
-            "subject_id": "26657442"
+            "release": 0
+        },
+        {
+            "id": 26599177,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2328382278.jpg",
+            "title": "两个恋爱",
+            "release": 1
         }
     ],
     "introduction": "朴奎利（Park Gyuri），1988年5月21日出生于韩国首尔市，韩国女歌手、演员、主持人，女子演唱组合KARA队长。1995年在《今天是个好日子》中饰演姜虎东弟弟的小女朋友，从此开启了对演艺事业的兴趣。2001年再次参与演出，在《女人天下》饰演金延恩的幼年时期角色。在出道前经历数次经纪公司变动，2007年3月29日，以韩国DSP公司推出的四人女子组合KARA[1] 成员正式出道，并担任队长与主唱。2008年，KARA组合的前成员金成熙退出后加入两名新成员，以五人形式重新出发。2010年与神童担任MBC电台节目《深深打破》固定主持人。2011年首次参演音乐剧《美女的烦恼》。2013年初次担正女主角出演MBC Queen电视剧《美甲店Paris》，并在该剧挑战女扮男装。",
@@ -142,5 +109,5 @@
         "Gyuri Park",
         "パク・ギュリ"
     ],
-    "update_at": "2025-01-17T21:21:15"
+    "update_at": "2025-06-18T04:07:06"
 }

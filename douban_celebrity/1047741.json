@@ -1,5 +1,5 @@
 {
-    "sid": 1047741,
+    "sid": "1047741",
     "name": "Michael Rothery",
     "site": "douban_celebrity",
     "roles": [
@@ -16,44 +16,32 @@
     "birth_place": "英国,英格兰,柴郡,伯肯黑德",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1296421/",
-            "year": "1989",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2158875933.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "陷阱边缘",
-            "subject_id": "1296421"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2143699/",
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2296477534.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "希区柯克悬念故事集",
-            "subject_id": "2143699"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5052136/",
+            "id": 5052136,
             "year": "1979",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2283239382.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "义犬荷贝",
-            "subject_id": "5052136"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3880893/",
+            "id": 3880893,
             "year": "1978",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2335940607.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "截拳道",
-            "subject_id": "3880893"
+            "release": 1
+        },
+        {
+            "id": 2143699,
+            "year": "1985",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2296477534.jpg",
+            "title": "希区柯克悬念故事集",
+            "release": 1
+        },
+        {
+            "id": 1296421,
+            "year": "1989",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2158875933.jpg",
+            "title": "陷阱边缘",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -64,5 +52,5 @@
     "personage_link": "https://www.douban.com/personage/27253502/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T04:49:17"
+    "update_at": "2025-06-18T18:42:22"
 }

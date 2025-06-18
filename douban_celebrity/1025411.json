@@ -1,5 +1,5 @@
 {
-    "sid": 1025411,
+    "sid": "1025411",
     "name": "杰拉德·达米亚诺",
     "site": "douban_celebrity",
     "roles": [
@@ -17,126 +17,74 @@
     "birth_place": "美国,纽约,布朗克斯",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1309048/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900360678.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "深喉揭密",
-            "subject_id": "1309048"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4749806/",
-            "year": "1991",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "尤物莫阿娜",
-            "subject_id": "4749806"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2246490/",
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2624458278.jpg",
-            "roles": [
-                "导演",
-                "制片人",
-                "编剧"
-            ],
-            "title": "Cravings",
-            "subject_id": "2246490"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4749800/",
-            "year": "1984",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2522917640.jpg",
-            "roles": [
-                "演员",
-                "导演",
-                "制片人",
-                "编剧"
-            ],
-            "title": "深喉: 12年后",
-            "subject_id": "4749800"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4032624/",
-            "year": "1982",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2892765007.jpg",
-            "roles": [
-                "演员 - 自己",
-                "导演",
-                "剪辑",
-                "制片人"
-            ],
-            "title": "情趣成年",
-            "subject_id": "4032624"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2244438/",
-            "year": "1981",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2590717220.jpg",
-            "roles": [
-                "导演",
-                "剪辑",
-                "制片人",
-                "编剧"
-            ],
-            "title": "超乎你最疯狂的梦",
-            "subject_id": "2244438"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1853989/",
-            "year": "1980",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p774391602.jpg",
-            "roles": [
-                "演员 - 自己",
-                "导演",
-                "剪辑",
-                "美术",
-                "制片人",
-                "编剧"
-            ],
-            "title": "蓝色女神",
-            "subject_id": "1853989"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4749793/",
-            "year": "1979",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868765390.jpg",
-            "roles": [
-                "导演",
-                "剪辑",
-                "制片人",
-                "编剧"
-            ],
-            "title": "幻想",
-            "subject_id": "4749793"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35240949/",
+            "id": 35240949,
             "year": "1978",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2624459024.jpg",
-            "roles": [
-                "演员",
-                "导演",
-                "编剧"
-            ],
             "title": "情色片商",
-            "subject_id": "35240949"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35240947/",
+            "id": 35240947,
             "year": "1977",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2624458610.jpg",
-            "roles": [
-                "演员",
-                "导演"
-            ],
             "title": "合资企业",
-            "subject_id": "35240947"
+            "release": 1
+        },
+        {
+            "id": 4749806,
+            "year": "1991",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2919264076.jpg",
+            "title": "尤物莫阿娜",
+            "release": 1
+        },
+        {
+            "id": 4749800,
+            "year": "1984",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2522917640.jpg",
+            "title": "深喉: 12年后",
+            "release": 1
+        },
+        {
+            "id": 4749793,
+            "year": "1979",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868765390.jpg",
+            "title": "幻想",
+            "release": 1
+        },
+        {
+            "id": 4032624,
+            "year": "1982",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2892765007.jpg",
+            "title": "情趣成年",
+            "release": 1
+        },
+        {
+            "id": 2246490,
+            "year": "1985",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2624458278.jpg",
+            "title": "Cravings",
+            "release": 1
+        },
+        {
+            "id": 2244438,
+            "year": "1981",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2590717220.jpg",
+            "title": "超乎你最疯狂的梦",
+            "release": 1
+        },
+        {
+            "id": 1853989,
+            "year": "1980",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p774391602.jpg",
+            "title": "蓝色女神",
+            "release": 1
+        },
+        {
+            "id": 1309048,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900360678.jpg",
+            "title": "深喉揭密",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -154,5 +102,5 @@
     "name_more_other": [
         "Gerardo Rocco Damiano (本名)"
     ],
-    "update_at": "2025-01-17T13:21:08"
+    "update_at": "2025-06-18T22:49:09"
 }

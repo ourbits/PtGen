@@ -1,5 +1,5 @@
 {
-    "sid": 1014767,
+    "sid": "1014767",
     "name": "安东尼奥·彼得兰杰利",
     "site": "douban_celebrity",
     "roles": [
@@ -20,111 +20,74 @@
     "birth_place": "意大利,罗马",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5056984/",
+            "id": 5056984,
             "year": "1969",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2459548685.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "艳妇偷情",
-            "subject_id": "5056984"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1300400/",
-            "year": "1967",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510777901.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "四美图",
-            "subject_id": "1300400"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2294897/",
-            "year": "1965",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2516932280.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "知己知彼",
-            "subject_id": "2294897"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3595515/",
-            "year": "1964",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537560915.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "想入非非",
-            "subject_id": "3595515"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4709167/",
+            "id": 4709167,
             "year": "1963",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2500868929.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "来访者",
-            "subject_id": "4709167"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2257522/",
-            "year": "1963",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2037149394.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "La Parmigiana",
-            "subject_id": "2257522"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4707962/",
-            "year": "1961",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2565480478.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "Il carabiniere a cavallo",
-            "subject_id": "4707962"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2135939/",
-            "year": "1961",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2562039448.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "罗马幽魂",
-            "subject_id": "2135939"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2055218/",
-            "year": "1960",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554904037.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "阿朵拉和她的朋友们",
-            "subject_id": "2055218"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4708261/",
+            "id": 4708261,
             "year": "1960",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2565943959.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "生于三月",
-            "subject_id": "4708261"
+            "release": 1
+        },
+        {
+            "id": 4707962,
+            "year": "1961",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2565480478.jpg",
+            "title": "Il carabiniere a cavallo",
+            "release": 1
+        },
+        {
+            "id": 3595515,
+            "year": "1964",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537560915.jpg",
+            "title": "想入非非",
+            "release": 1
+        },
+        {
+            "id": 2294897,
+            "year": "1965",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2516932280.jpg",
+            "title": "知己知彼",
+            "release": 1
+        },
+        {
+            "id": 2257522,
+            "year": "1963",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2037149394.jpg",
+            "title": "La Parmigiana",
+            "release": 1
+        },
+        {
+            "id": 2135939,
+            "year": "1961",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2562039448.jpg",
+            "title": "罗马幽魂",
+            "release": 1
+        },
+        {
+            "id": 2055218,
+            "year": "1960",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554904037.jpg",
+            "title": "阿朵拉和她的朋友们",
+            "release": 1
+        },
+        {
+            "id": 1300400,
+            "year": "1967",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510777901.jpg",
+            "title": "四美图",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -140,5 +103,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-17T03:49:27"
+    "update_at": "2025-06-18T18:42:09"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1316425,
+    "sid": "1316425",
     "name": "张立",
     "site": "douban_celebrity",
     "roles": [
@@ -15,114 +15,81 @@
     "birth_place": "中国，河南，许昌",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36803624/",
+            "id": 36803624,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911770160.jpg",
-            "roles": [
-                "演员 (饰 老九)"
-            ],
             "title": "金色少年",
-            "subject_id": "36803624"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35242872/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908333792.jpg",
-            "roles": [
-                "演员 (饰 羊大)"
-            ],
-            "title": "狗阵",
-            "subject_id": "35242872"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36741560/",
+            "id": 36741560,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2903955731.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "五尺神探",
-            "subject_id": "36741560"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36720968/",
+            "id": 36720968,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2902993767.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "豆包县令",
-            "subject_id": "36720968"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26958394/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870605886.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "百家拳之津门八卦掌",
-            "subject_id": "26958394"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26282499/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2216866455.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "地雷战",
-            "subject_id": "26282499"
-        },
-        {
-            "url": "https://movie.douban.com/subject/21319204/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1877031934.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "杨光的快乐生活",
-            "subject_id": "21319204"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10448951/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2521476933.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "阳光路上",
-            "subject_id": "10448951"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4082544/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p593548934.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "西风烈",
-            "subject_id": "4082544"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4858770/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2541004835.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "墨子",
-            "subject_id": "4858770"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36522680/",
+            "id": 36522680,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897126137.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "海原大地震",
-            "subject_id": "36522680"
+            "release": 0
+        },
+        {
+            "id": 35242872,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908333792.jpg",
+            "title": "狗阵",
+            "release": 1
+        },
+        {
+            "id": 26958394,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870605886.jpg",
+            "title": "百家拳之津门八卦掌",
+            "release": 1
+        },
+        {
+            "id": 26282499,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2216866455.jpg",
+            "title": "地雷战",
+            "release": 1
+        },
+        {
+            "id": 21319204,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1877031934.jpg",
+            "title": "杨光的快乐生活",
+            "release": 1
+        },
+        {
+            "id": 10448951,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2521476933.jpg",
+            "title": "阳光路上",
+            "release": 1
+        },
+        {
+            "id": 4858770,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2541004835.jpg",
+            "title": "墨子",
+            "release": 1
+        },
+        {
+            "id": 4082544,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p593548934.jpg",
+            "title": "西风烈",
+            "release": 1
         }
     ],
     "introduction": "《燕子李三》饰 李云龙",
@@ -135,5 +102,5 @@
     "name_more_other": [
         "Leo Lee"
     ],
-    "update_at": "2025-01-17T04:07:22"
+    "update_at": "2025-06-18T18:14:23"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1053555,
+    "sid": "1053555",
     "name": "贾德·帕达里克",
     "site": "douban_celebrity",
     "roles": [
@@ -17,124 +17,95 @@
     "birth_place": "美国,德克萨斯州,圣安东尼奥",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36402102/",
+            "id": 37202835,
+            "year": "2027",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "Fire Country: Surfside",
+            "release": 0
+        },
+        {
+            "id": 37200041,
+            "year": "2026",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "Untitled Jared Padalecki & Anna Fricke/CBS Project",
+            "release": 0
+        },
+        {
+            "id": 36402102,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906686021.jpg",
-            "roles": [
-                "演员 (饰 Cordell Walker)"
-            ],
             "title": "得州巡警 第四季",
-            "subject_id": "36402102"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35693354/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2879445920.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "得州巡警：独立",
-            "subject_id": "35693354"
+            "id": 36343491,
+            "year": "2026",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2910807417.jpg",
+            "title": "黑袍纠察队 第五季",
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/36116217/",
+            "id": 36116217,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881784408.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "德州巡警 第三季",
-            "subject_id": "36116217"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35606007/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2710115934.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "德州巡警 第二季",
-            "subject_id": "35606007"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34841474/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2628691259.jpg",
-            "roles": [
-                "演员 (饰 Cordell Walker)"
-            ],
-            "title": "德州巡警 第一季",
-            "subject_id": "34841474"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30450247/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2564856425.jpg",
-            "roles": [
-                "演员 (饰 Sam Winchester)"
-            ],
-            "title": "邪恶力量 第十五季",
-            "subject_id": "30450247"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30176699/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2534080608.jpg",
-            "roles": [
-                "演员 (饰 Sam Winchester)"
-            ],
-            "title": "邪恶力量 第十四季",
-            "subject_id": "30176699"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26952093/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2499260032.jpg",
-            "roles": [
-                "演员 (饰 Sam Winchester)"
-            ],
-            "title": "邪恶力量 第十三季",
-            "subject_id": "26952093"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35769238/",
+            "id": 35769238,
             "year": "2016",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868245292.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "邪恶力量粉丝群",
-            "subject_id": "35769238"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26719320/",
+            "id": 35693354,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2879445920.jpg",
+            "title": "得州巡警：独立",
+            "release": 1
+        },
+        {
+            "id": 35606007,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2710115934.jpg",
+            "title": "德州巡警 第二季",
+            "release": 1
+        },
+        {
+            "id": 34841474,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2628691259.jpg",
+            "title": "德州巡警 第一季",
+            "release": 1
+        },
+        {
+            "id": 30450247,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2564856425.jpg",
+            "title": "邪恶力量 第十五季",
+            "release": 1
+        },
+        {
+            "id": 30176699,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2534080608.jpg",
+            "title": "邪恶力量 第十四季",
+            "release": 1
+        },
+        {
+            "id": 26952093,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2499260032.jpg",
+            "title": "邪恶力量 第十三季",
+            "release": 1
+        },
+        {
+            "id": 26719320,
             "year": "2016",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2390733605.jpg",
-            "roles": [
-                "演员 (饰 Dean Forester)"
-            ],
             "title": "吉尔莫女孩：生命中的一年",
-            "subject_id": "26719320"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37202835/",
-            "year": "2027",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Fire Country: Surfside",
-            "subject_id": "37202835"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37200041/",
-            "year": "2026",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Untitled Jared Padalecki & Anna Fricke/CBS Project",
-            "subject_id": "37200041"
+            "release": 1
         }
     ],
     "introduction": "贾德·帕达里克，美国影视演员。父母的职业分别是高中英文老师和税务主管。作为一位品学兼优的学生，高中时他曾被推选为2000年总统奖学金的候选人之一，还曾和搭档Chris Cardenas一起在全国即席演讲联盟（National Forensic League）举办的全国性高中生演讲竞赛中获得“双人组口译”（Duo Interpretation）的冠军。1999年，帕达里克在叔叔的鼓励之下参加了由福克斯电视网赞助的选秀比赛“Claim to Fame”，赢得了比赛并且参加了当年的青少年选择奖颁奖礼，不久后他便被现在的经纪人签下。2000年高中即将毕业之前，帕达里克放弃了入学德克萨斯大学的计划，搬家到洛洛衫机寻求演艺发展。1999年，通过一部名为《A Little Inside》的影片他的名字首次出现在了演员表上，次年便得到了电视剧《吉尔莫女孩》中新搬到镇子上来、与害羞的女主角相爱的Dean Forester的角色。他是本剧的主要演员中年纪最小的一位，也是个子第二高的一位，五年的出演时间里从无名小卒逐渐成长为了在青少年观众中享有极高知名度的青春偶像。与此同时，贾德·帕达里克还亮相了《Silent Witness》、《Close to Home》、《A Ring of Endless Light》、《Young MacGyver》等几部小成本的电视电影，03年的卖座家庭喜剧片《儿女一箩筐》中也可以短暂见到他的身影。2004年，帕达里克出演了奥尔森双胞胎领衔的《纽约时刻》一片，丹尼斯·奎德和泰瑞斯·吉布森主演的动作惊悚片《凤凰劫》中也有一个小角色，05年在伊丽莎·库斯伯特、查德·迈克尔·墨瑞以及帕丽斯·希尔顿主演的《蜡像院魔王》以及另一部校园恐怖片《狼来了》中担任配角。同样在05年，贾德·帕达里克得到了WB奇幻剧集《邪恶力量》中较为理性和敏感的弟弟Sam Winchester的角色，这也成为了他继《吉尔莫女孩》之后又一个成功的角色，为此赢得了更为广泛的粉丝基础。接下来，贾德·帕达里克还将在艾什顿·库彻制片的MTV频道恐怖片真人秀节目《Room 401》中担任主持人。",
@@ -153,5 +124,5 @@
         "J-Rod (昵称)",
         "Jare (昵称)"
     ],
-    "update_at": "2025-01-17T23:35:07"
+    "update_at": "2025-06-18T11:56:11"
 }

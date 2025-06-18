@@ -1,9 +1,10 @@
 {
-    "sid": 1029525,
+    "sid": "1029525",
     "name": "林元熙",
     "site": "douban_celebrity",
     "roles": [
-        "演员"
+        "演员",
+        "编剧"
     ],
     "awards": [],
     "gender": "男",
@@ -15,104 +16,74 @@
     "birth_place": "韩国,首尔",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35193100/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908493162.jpg",
-            "roles": [
-                "演员 (饰 Seong-bin's little grandfather - Special appearance)"
-            ],
-            "title": "帅哥们",
-            "subject_id": "35193100"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35559207/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868786484.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "疯狂爱情",
-            "subject_id": "35559207"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35352149/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2745860279.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "花开时想月",
-            "subject_id": "35352149"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35352245/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2658381449.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "来魔女食堂吧",
-            "subject_id": "35352245"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35525520/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2880042722.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "脱鞋恢单4men",
-            "subject_id": "35525520"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34929977/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2641916348.jpg",
-            "roles": [
-                "演员 (饰 吴显彰)"
-            ],
-            "title": "Move to Heaven：我是遗物整理师",
-            "subject_id": "34929977"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34965118/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2641393668.jpg",
-            "roles": [
-                "演员 (饰 朴率日)"
-            ],
-            "title": "黑洞",
-            "subject_id": "34965118"
-        },
-        {
-            "url": "https://movie.douban.com/subject/32576076/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2621437486.jpg",
-            "roles": [
-                "演员 (饰 铲怪)"
-            ],
-            "title": "盗墓同盟",
-            "subject_id": "32576076"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36107577/",
+            "id": 36107577,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881421613.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "朴张约所",
-            "subject_id": "36107577"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34839400/",
+            "id": 35559207,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868786484.jpg",
+            "title": "疯狂爱情",
+            "release": 1
+        },
+        {
+            "id": 35525520,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2880042722.jpg",
+            "title": "脱鞋恢单4men",
+            "release": 1
+        },
+        {
+            "id": 35352245,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2658381449.jpg",
+            "title": "来魔女食堂吧",
+            "release": 1
+        },
+        {
+            "id": 35352149,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2745860279.jpg",
+            "title": "花开时想月",
+            "release": 1
+        },
+        {
+            "id": 35193100,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908493162.jpg",
+            "title": "帅哥们",
+            "release": 1
+        },
+        {
+            "id": 34965118,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2641393668.jpg",
+            "title": "黑洞",
+            "release": 1
+        },
+        {
+            "id": 34929977,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2641916348.jpg",
+            "title": "Move to Heaven：我是遗物整理师",
+            "release": 1
+        },
+        {
+            "id": 34839400,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2580328559.jpg",
-            "roles": [
-                "演员 (饰 张基泰)"
-            ],
             "title": "浪漫医生金师傅2",
-            "subject_id": "34839400"
+            "release": 1
+        },
+        {
+            "id": 32576076,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2621437486.jpg",
+            "title": "盗墓同盟",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -129,5 +100,5 @@
         "Won-Hee Lim",
         "임원희"
     ],
-    "update_at": "2025-01-17T20:56:14"
+    "update_at": "2025-06-18T22:21:15"
 }

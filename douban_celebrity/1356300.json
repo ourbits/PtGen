@@ -1,5 +1,5 @@
 {
-    "sid": 1356300,
+    "sid": "1356300",
     "name": "杨祖青",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "中国,上海",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/25859591/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2232102844.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "青春无季",
-            "subject_id": "25859591"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27034867/",
+            "id": 27034867,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2457773700.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "异兽来袭",
-            "subject_id": "27034867"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26356316/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "麻辣主播",
-            "subject_id": "26356316"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26384874/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2458764859.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "铁血将军",
-            "subject_id": "26384874"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26287121/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2258829087.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "拥抱星星的月亮",
-            "subject_id": "26287121"
-        },
-        {
-            "url": "https://movie.douban.com/subject/20395163/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2457535506.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "蝴蝶劫",
-            "subject_id": "20395163"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25795309/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2236202343.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "想明白了再结婚",
-            "subject_id": "25795309"
-        },
-        {
-            "url": "https://movie.douban.com/subject/20395156/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2183201449.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "邻居也疯狂",
-            "subject_id": "20395156"
-        },
-        {
-            "url": "https://movie.douban.com/subject/16522602/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1748778898.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "金牌，小姐和猫",
-            "subject_id": "16522602"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26538746/",
+            "id": 26538746,
             "year": "2011",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2602784257.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "红色恋歌",
-            "subject_id": "26538746"
+            "release": 1
+        },
+        {
+            "id": 26384874,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2458764859.jpg",
+            "title": "铁血将军",
+            "release": 1
+        },
+        {
+            "id": 26356316,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "麻辣主播",
+            "release": 1
+        },
+        {
+            "id": 26287121,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2258829087.jpg",
+            "title": "拥抱星星的月亮",
+            "release": 1
+        },
+        {
+            "id": 25859591,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2232102844.jpg",
+            "title": "青春无季",
+            "release": 1
+        },
+        {
+            "id": 25795309,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2236202343.jpg",
+            "title": "想明白了再结婚",
+            "release": 1
+        },
+        {
+            "id": 20395163,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2457535506.jpg",
+            "title": "蝴蝶劫",
+            "release": 1
+        },
+        {
+            "id": 20395156,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2183201449.jpg",
+            "title": "邻居也疯狂",
+            "release": 1
+        },
+        {
+            "id": 16522602,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1748778898.jpg",
+            "title": "金牌，小姐和猫",
+            "release": 1
         }
     ],
     "introduction": "2009年，出演古装剧《黛玉传》开始演艺事业。同年，参演情感剧《大爱无敌》。2012年，参演都市喜剧《邻居也疯狂》饰演许多。2014年，在青春励志剧《青春无季》中饰演治安大队队员李露西，并在《麻辣主播》中饰演电台主播亚弯。2015年，参演爱情剧《想明白了再结婚》饰演陈淼。之后，接拍了电视剧《铁血将军》饰演抗战志士陆菁菁，出演《拥抱星星的月亮》中的物质女。2016年，参演古装剧《锦绣未央》饰演死士红罗。",
@@ -125,5 +95,5 @@
     "personage_link": "https://www.douban.com/personage/27558111/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T02:42:06"
+    "update_at": "2025-06-18T05:35:25"
 }

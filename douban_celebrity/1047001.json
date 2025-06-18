@@ -1,5 +1,5 @@
 {
-    "sid": 1047001,
+    "sid": "1047001",
     "name": "邱林",
     "site": "douban_celebrity",
     "roles": [
@@ -21,115 +21,81 @@
     "birth_place": "中国,云南,丽江",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/33428657/",
+            "id": 33428657,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2591356937.jpg",
-            "roles": [
-                "演员 (饰 夏雪)"
-            ],
             "title": "一个都不能少",
-            "subject_id": "33428657"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27098654/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529396288.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "执行利剑",
-            "subject_id": "27098654"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26841305/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511292095.jpg",
-            "roles": [
-                "演员 (饰 小小爸)"
-            ],
-            "title": "那年八岁",
-            "subject_id": "26841305"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27145130/",
+            "id": 27145130,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2502390706.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "六年，六天",
-            "subject_id": "27145130"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26615905/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2268530266.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "妈妈，让我再爱你一次",
-            "subject_id": "26615905"
+            "id": 27098654,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529396288.jpg",
+            "title": "执行利剑",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26331933/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2229831494.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "赌约",
-            "subject_id": "26331933"
+            "id": 26841305,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511292095.jpg",
+            "title": "那年八岁",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5044650/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2376915594.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "刀客外传",
-            "subject_id": "5044650"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4237879/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p500548437.jpg",
-            "roles": [
-                "演员 (饰 村长)"
-            ],
-            "title": "人在囧途",
-            "subject_id": "4237879"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5176165/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "剪辑"
-            ],
-            "title": "Dog Stories",
-            "subject_id": "5176165"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3418610/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2660167126.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "不许抢劫",
-            "subject_id": "3418610"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26692735/",
+            "id": 26692735,
             "year": "2030",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536037268.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "昨日重现",
-            "subject_id": "26692735"
+            "release": 0
+        },
+        {
+            "id": 26615905,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2268530266.jpg",
+            "title": "妈妈，让我再爱你一次",
+            "release": 1
+        },
+        {
+            "id": 26331933,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2229831494.jpg",
+            "title": "赌约",
+            "release": 1
+        },
+        {
+            "id": 5176165,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Dog Stories",
+            "release": 1
+        },
+        {
+            "id": 5044650,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2376915594.jpg",
+            "title": "刀客外传",
+            "release": 1
+        },
+        {
+            "id": 4237879,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p500548437.jpg",
+            "title": "人在囧途",
+            "release": 1
+        },
+        {
+            "id": 3418610,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2660167126.jpg",
+            "title": "不许抢劫",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -140,5 +106,5 @@
     "personage_link": "https://www.douban.com/personage/27252762/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T10:21:16"
+    "update_at": "2025-06-18T09:42:11"
 }

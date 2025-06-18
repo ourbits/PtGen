@@ -1,5 +1,5 @@
 {
-    "sid": 1025431,
+    "sid": "1025431",
     "name": "阿兰·科诺",
     "site": "douban_celebrity",
     "roles": [
@@ -18,112 +18,77 @@
     "name_en": "Alain Corneau",
     "name_full": "阿兰·科诺 Alain Corneau",
     "birth_date": "1943年8月7日",
-    "birth_place": "法国,卢瓦雷",
+    "birth_place": "法国,卢瓦尔河畔,默恩",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/7046937/",
+            "id": 27115868,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "法国电影的记忆，从解放到今天",
+            "release": 1
+        },
+        {
+            "id": 7046937,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2020971589.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "激情",
-            "subject_id": "7046937"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3808643/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1130489654.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "罪爱",
-            "subject_id": "3808643"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3069326/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359790309.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "法姐之战",
-            "subject_id": "3069326"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1825930/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509062216.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "第二次呼吸",
-            "subject_id": "1825930"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27115868/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "法国电影的记忆，从解放到今天",
-            "subject_id": "27115868"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1353726/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2874785853.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "蓝色的字",
-            "subject_id": "1353726"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1303240/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2265207200.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "战战兢兢",
-            "subject_id": "1303240"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4243792/",
+            "id": 4243792,
             "year": "2002",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2884611358.jpg",
-            "roles": [
-                "制片人"
-            ],
             "title": "Les ramoneurs cérébraux",
-            "subject_id": "4243792"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1783750/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "法国电影生活一日",
-            "subject_id": "1783750"
+            "id": 3808643,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1130489654.jpg",
+            "title": "罪爱",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1997605/",
+            "id": 3069326,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359790309.jpg",
+            "title": "法姐之战",
+            "release": 1
+        },
+        {
+            "id": 1997605,
             "year": "2000",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2575324655.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "太平洋王子",
-            "subject_id": "1997605"
+            "release": 1
+        },
+        {
+            "id": 1825930,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509062216.jpg",
+            "title": "第二次呼吸",
+            "release": 1
+        },
+        {
+            "id": 1783750,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "法国电影生活一日",
+            "release": 1
+        },
+        {
+            "id": 1353726,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2874785853.jpg",
+            "title": "蓝色的字",
+            "release": 1
+        },
+        {
+            "id": 1303240,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2265207200.jpg",
+            "title": "战战兢兢",
+            "release": 1
         }
     ],
     "introduction": "阿兰•柯诺，法国著名导演，被誉为继梅尔维尔之后法国“黑色电影”的代表人物。一共拍摄了17部作品，广受法国民众好评。代表作有《黑色系列》（Série noire, 1977），《萨岗堡》（Fort Saganne, 1984），《日出前让悲伤终结》（Tous matins du monde, 1991），《战战兢兢》（Stupeur et tremblements , 2002）等。",
@@ -137,9 +102,9 @@
     "property_other": [
         {
             "label": "去世日期",
-            "value": "2010年8月29日"
+            "value": "2010年8月30日"
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-16T18:49:18"
+    "update_at": "2025-06-17T23:21:11"
 }

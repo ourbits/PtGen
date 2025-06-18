@@ -1,5 +1,5 @@
 {
-    "sid": 1051729,
+    "sid": "1051729",
     "name": "森迫永依",
     "site": "douban_celebrity",
     "roles": [
@@ -16,114 +16,74 @@
     "birth_place": "日本,千叶县",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36416231/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2894044967.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "妆红人生",
-            "subject_id": "36416231"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36189230/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893580417.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "天使之耳～交通警察之夜",
-            "subject_id": "36189230"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35316483/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2634667581.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "来杯咖啡如何",
-            "subject_id": "35316483"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35197758/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2630794558.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "岁月的童话",
-            "subject_id": "35197758"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34949726/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2602221769.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "然后，百合子就独自一人了",
-            "subject_id": "34949726"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30433627/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2545734556.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "学园孤岛 番外篇",
-            "subject_id": "30433627"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27115274/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2501770238.jpg",
-            "roles": [
-                "演员 (饰 李雨欣)"
-            ],
-            "title": "相棒 第16季",
-            "subject_id": "27115274"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27045259/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515611386.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "光之崖",
-            "subject_id": "27045259"
-        },
-        {
-            "url": "https://movie.douban.com/subject/21309681/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2197524540.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "幽灵女友",
-            "subject_id": "21309681"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10521668/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1485103706.jpg",
-            "roles": [
-                "演员 (饰 西野爱实(Ep. 7))"
-            ],
-            "title": "上锁的房间",
-            "subject_id": "10521668"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36988626/",
+            "id": 36988626,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2917468723.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "合奏",
-            "subject_id": "36988626"
+            "release": 1
+        },
+        {
+            "id": 36416231,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2894044967.jpg",
+            "title": "妆红人生",
+            "release": 1
+        },
+        {
+            "id": 36189230,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893580417.jpg",
+            "title": "天使之耳～交通警察之夜",
+            "release": 1
+        },
+        {
+            "id": 35316483,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2878924478.jpg",
+            "title": "来杯咖啡如何",
+            "release": 1
+        },
+        {
+            "id": 35197758,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2630794558.jpg",
+            "title": "岁月的童话",
+            "release": 1
+        },
+        {
+            "id": 34949726,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2602221769.jpg",
+            "title": "然后，百合子就独自一人了",
+            "release": 1
+        },
+        {
+            "id": 30433627,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2545734556.jpg",
+            "title": "学园孤岛 番外篇",
+            "release": 1
+        },
+        {
+            "id": 27115274,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2501770238.jpg",
+            "title": "相棒 第16季",
+            "release": 1
+        },
+        {
+            "id": 27045259,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515611386.jpg",
+            "title": "光之崖",
+            "release": 1
+        },
+        {
+            "id": 21309681,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2197524540.jpg",
+            "title": "幽灵女友",
+            "release": 1
         }
     ],
     "introduction": "森迫永依，儿童演员，属太田Project（之前为COSMOS剧团所属）。她的母亲是一位中国人。2002年，年仅5岁的永依就凭借着在电视剧《忍风戦队》中饰演幼年时期的鸣子而踏入演艺圈。随后又在多部电视剧中有着精彩的表现，如大受好评的《明天好天气》等等。2006年，在由人气动画《樱桃小丸子》改编而成的真人版电视剧中出演主角小丸子，创下22.8%的收视纪录，并借此一路人气高升。此外，永依还活跃在电影及广告等多个领域，2007年6月份上映的电影《凭神》中，永依饰演一位1200岁的死神，她高超的演技赢得了剧组的赞赏。",
@@ -134,5 +94,5 @@
     "personage_link": "https://www.douban.com/personage/27257493/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T00:35:21"
+    "update_at": "2025-06-18T17:35:22"
 }

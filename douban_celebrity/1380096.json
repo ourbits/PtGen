@@ -1,5 +1,5 @@
 {
-    "sid": 1380096,
+    "sid": "1380096",
     "name": "津田尚克",
     "site": "douban_celebrity",
     "roles": [
@@ -16,116 +16,81 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36801964/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908800805.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "再见龙生，你好人生",
-            "subject_id": "36801964"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35639136/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2708637394.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "东京24区",
-            "subject_id": "35639136"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27666505/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536255775.jpg",
-            "roles": [
-                "导演 - 总导演"
-            ],
-            "title": "JOJO的奇妙冒险 黄金之风",
-            "subject_id": "27666505"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26774016/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2394470593.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "星之人",
-            "subject_id": "26774016"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26765297/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2334222872.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "星之梦",
-            "subject_id": "26765297"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26650051/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2327887093.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "JOJO的奇妙冒险 不灭钻石",
-            "subject_id": "26650051"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25984031/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2254773041.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "JOJO的奇妙冒险 星尘斗士 埃及篇",
-            "subject_id": "25984031"
-        },
-        {
-            "url": "https://movie.douban.com/subject/23774708/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2154661839.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "JOJO的奇妙冒险 星尘斗士",
-            "subject_id": "23774708"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25853076/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2175870320.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "超次元游戏 海王星 TV未放送第13话",
-            "subject_id": "25853076"
-        },
-        {
-            "url": "https://movie.douban.com/subject/11498785/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1636473642.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "JOJO的奇妙冒险",
-            "subject_id": "11498785"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36901885/",
+            "id": 36901885,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915551256.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "达尔文事变",
-            "subject_id": "36901885"
+            "release": 0
+        },
+        {
+            "id": 36801964,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908800805.jpg",
+            "title": "再见龙生，你好人生",
+            "release": 1
+        },
+        {
+            "id": 35639136,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2708637394.jpg",
+            "title": "东京24区",
+            "release": 1
+        },
+        {
+            "id": 27666505,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536255775.jpg",
+            "title": "JOJO的奇妙冒险 黄金之风",
+            "release": 1
+        },
+        {
+            "id": 26774016,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2394470593.jpg",
+            "title": "星之人",
+            "release": 1
+        },
+        {
+            "id": 26765297,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2334222872.jpg",
+            "title": "星之梦",
+            "release": 1
+        },
+        {
+            "id": 26650051,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2327887093.jpg",
+            "title": "JOJO的奇妙冒险 不灭钻石",
+            "release": 1
+        },
+        {
+            "id": 25984031,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2254773041.jpg",
+            "title": "JOJO的奇妙冒险 星尘斗士 埃及篇",
+            "release": 1
+        },
+        {
+            "id": 25853076,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2175870320.jpg",
+            "title": "超次元游戏 海王星 TV未放送第13话",
+            "release": 1
+        },
+        {
+            "id": 23774708,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2154661839.jpg",
+            "title": "JOJO的奇妙冒险 星尘斗士",
+            "release": 1
+        },
+        {
+            "id": 11498785,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1636473642.jpg",
+            "title": "JOJO的奇妙冒险",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -136,5 +101,5 @@
     "personage_link": "https://www.douban.com/personage/27586026/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T17:42:14"
+    "update_at": "2025-06-18T08:56:15"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1129981,
+    "sid": "1129981",
     "name": "奥尔佳·奥斯特罗乌莫娃",
     "site": "douban_celebrity",
     "roles": [
@@ -17,104 +17,74 @@
     "birth_place": "俄罗斯,Buguruslan",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36929499/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909393658.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "面对面",
-            "subject_id": "36929499"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10549943/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1948304379.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "传奇17号",
-            "subject_id": "10549943"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37065117/",
+            "id": 37065117,
             "year": "2011",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2913961289.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "去意已决",
-            "subject_id": "37065117"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3102174/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2209606431.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "无畏上将高尔察克",
-            "subject_id": "3102174"
+            "id": 36929499,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909393658.jpg",
+            "title": "面对面",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3542358/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2896009426.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "一夜情浓",
-            "subject_id": "3542358"
+            "id": 10549943,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1948304379.jpg",
+            "title": "传奇17号",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3276208/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2902092901.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "不要漂亮要幸福",
-            "subject_id": "3276208"
+            "id": 5236255,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Фото",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5200081/",
+            "id": 5224426,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Женщины в игре без правил",
+            "release": 1
+        },
+        {
+            "id": 5201197,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Zachem tebe alibi?",
+            "release": 1
+        },
+        {
+            "id": 5200081,
             "year": "2005",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2563033171.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "旋转木马",
-            "subject_id": "5200081"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5224426/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Женщины в игре без правил",
-            "subject_id": "5224426"
+            "id": 3542358,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2896009426.jpg",
+            "title": "一夜情浓",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5236255/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Фото",
-            "subject_id": "5236255"
+            "id": 3276208,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2902092901.jpg",
+            "title": "不要漂亮要幸福",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5201197/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Zachem tebe alibi?",
-            "subject_id": "5201197"
+            "id": 3102174,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2209606431.jpg",
+            "title": "无畏上将高尔察克",
+            "release": 1
         }
     ],
     "introduction": "She is a Russian and Soviet actress, who was awarded the USSR State Prize in 1979 and the title People’s Artist of Russia in 1993.After graduation from the Lunacharsky Institute in 1970, Olga worked in New Generation Theater, where she met her first husband, Mikhail Levitin.She became famous with the film “Let’s live till Monday” (Monday Sure Will Come) by S. Rostotsky. This film was one of the best Soviet films about school.Olga is best known for her roles in films “The Dawns Here Are Quiet” (1972, Italian Silver Nymph Award. It was the best film of 1972 due to the poll of “Sovietsky Ekran” (“The Soviet Screen”) magazine.), “The Garage” (1979, by Eldar Ryazanov), Vasily and Vasilisa (1981, by Irina Poplavskaya).Ostroumova is married to Russian actor Valentin Gaft. She lives and works in Moscow.",
@@ -129,5 +99,5 @@
     "name_more_other": [
         "Olga Mikhailovna Ostroumova (本名)"
     ],
-    "update_at": "2025-01-17T19:56:11"
+    "update_at": "2025-06-18T04:42:19"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1131211,
+    "sid": "1131211",
     "name": "马丁·波特",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "英国,诺丁汉郡,诺丁汉",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3066831/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Outsiders",
-            "subject_id": "3066831"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5094306/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Gunpowder",
-            "subject_id": "5094306"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5102861/",
+            "id": 5102861,
             "year": "1985",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Victoria Wood: As Seen on TV",
-            "subject_id": "5102861"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2130084/",
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2287652143.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "公元",
-            "subject_id": "2130084"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4319053/",
-            "year": "1982",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2623775980.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "连环漫画剧场",
-            "subject_id": "4319053"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5100336/",
+            "id": 5100336,
             "year": "1981",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2884457429.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Nanny",
-            "subject_id": "5100336"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3035140/",
-            "year": "1981",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539779689.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "波吉亚家族",
-            "subject_id": "3035140"
+            "id": 5094306,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Gunpowder",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2037266/",
-            "year": "1979",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2549079003.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "凡尔赛玫瑰",
-            "subject_id": "2037266"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5052139/",
+            "id": 5052139,
             "year": "1978",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "The Famous Five",
-            "subject_id": "5052139"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3161741/",
+            "id": 4319053,
+            "year": "1982",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2623775980.jpg",
+            "title": "连环漫画剧场",
+            "release": 1
+        },
+        {
+            "id": 3161741,
             "year": "1978",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510160685.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "撒旦的奴隶",
-            "subject_id": "3161741"
+            "release": 1
+        },
+        {
+            "id": 3066831,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "The Outsiders",
+            "release": 1
+        },
+        {
+            "id": 3035140,
+            "year": "1981",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539779689.jpg",
+            "title": "波吉亚家族",
+            "release": 1
+        },
+        {
+            "id": 2130084,
+            "year": "1985",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2287652143.jpg",
+            "title": "公元",
+            "release": 1
+        },
+        {
+            "id": 2037266,
+            "year": "1979",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2549079003.jpg",
+            "title": "凡尔赛玫瑰",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27337059/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T15:35:16"
+    "update_at": "2025-06-18T09:14:19"
 }

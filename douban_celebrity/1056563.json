@@ -1,5 +1,5 @@
 {
-    "sid": 1056563,
+    "sid": "1056563",
     "name": "Tommy Andersson",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "瑞典,东约特兰兰,诺尔雪平",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5182338/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2499044471.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "替天行道",
-            "subject_id": "5182338"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3268383/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Angel",
-            "subject_id": "3268383"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5190900/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Theo, Agnes, Bibi und die anderen",
-            "subject_id": "5190900"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5187880/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2133711295.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Pyramiden",
-            "subject_id": "5187880"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5194951/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871728190.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "迷宫",
-            "subject_id": "5194951"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3281032/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904777702.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "小心间隙",
-            "subject_id": "3281032"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5205524/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Tjocktjuven",
-            "subject_id": "5205524"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5225930/",
+            "id": 5225930,
             "year": "2006",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2231777212.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "范维特伦系列：莫雷诺和沉默的人",
-            "subject_id": "5225930"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5215506/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Barn av vår tid",
-            "subject_id": "5215506"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5221362/",
+            "id": 5221362,
             "year": "2005",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539713636.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Kommissionen",
-            "subject_id": "5221362"
+            "release": 1
+        },
+        {
+            "id": 5215506,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Barn av vår tid",
+            "release": 1
+        },
+        {
+            "id": 5205524,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Tjocktjuven",
+            "release": 1
+        },
+        {
+            "id": 5194951,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871728190.jpg",
+            "title": "迷宫",
+            "release": 1
+        },
+        {
+            "id": 5190900,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Theo, Agnes, Bibi und die anderen",
+            "release": 1
+        },
+        {
+            "id": 5187880,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2133711295.jpg",
+            "title": "Pyramiden",
+            "release": 1
+        },
+        {
+            "id": 5182338,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2499044471.jpg",
+            "title": "替天行道",
+            "release": 1
+        },
+        {
+            "id": 3281032,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904777702.jpg",
+            "title": "小心间隙",
+            "release": 1
+        },
+        {
+            "id": 3268383,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Angel",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -125,5 +95,5 @@
     "name_more_other": [
         "Lars Artur Tommy Andersson (本名)"
     ],
-    "update_at": "2025-01-17T12:35:21"
+    "update_at": "2025-06-18T03:07:21"
 }

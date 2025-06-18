@@ -1,5 +1,5 @@
 {
-    "sid": 1337322,
+    "sid": "1337322",
     "name": "托马斯·马修",
     "site": "douban_celebrity",
     "roles": [
@@ -19,46 +19,32 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35602069/",
+            "id": 35602069,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904804779.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "影子写手",
-            "subject_id": "35602069"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27119472/",
+            "id": 27119472,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2566998802.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "遗失的假期",
-            "subject_id": "27119472"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/6873657/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2188108927.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "美国骗局",
-            "subject_id": "6873657"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10867124/",
+            "id": 10867124,
             "year": "2013",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2048679488.jpg",
-            "roles": [
-                "演员 (饰 Martin Stallworth)"
-            ],
             "title": "新闻编辑室 第二季",
-            "subject_id": "10867124"
+            "release": 1
+        },
+        {
+            "id": 6873657,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2188108927.jpg",
+            "title": "美国骗局",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -69,5 +55,5 @@
     "personage_link": "https://www.douban.com/personage/27545076/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T22:49:21"
+    "update_at": "2025-06-18T07:35:21"
 }

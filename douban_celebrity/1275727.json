@@ -1,5 +1,5 @@
 {
-    "sid": 1275727,
+    "sid": "1275727",
     "name": "萧艾",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "中国台湾",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3757315/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537875199.jpg",
-            "roles": [
-                "演员 (饰 老板娘)"
-            ],
-            "title": "爱似百汇",
-            "subject_id": "3757315"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3920022/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915585776.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "最爱就是你",
-            "subject_id": "3920022"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5296311/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2291594946.jpg",
-            "roles": [
-                "演员 (饰 刘云真)"
-            ],
-            "title": "风中战士",
-            "subject_id": "5296311"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3055434/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2887434986.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "候鸟e人",
-            "subject_id": "3055434"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1401477/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2175081400.jpg",
-            "roles": [
-                "演员 (饰 丽月)"
-            ],
-            "title": "孽子",
-            "subject_id": "1401477"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10434573/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2355479245.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "浮世绘：捉奸·通奸·强奸",
-            "subject_id": "10434573"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4861411/",
-            "year": "1996",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2499128584.jpg",
-            "roles": [
-                "演员 (饰 袭人)"
-            ],
-            "title": "红楼梦",
-            "subject_id": "4861411"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3649509/",
-            "year": "1995",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2405210319.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "我们一家都是人",
-            "subject_id": "3649509"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34900007/",
-            "year": "1994",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900111180.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "像我们这样拍一部戏",
-            "subject_id": "34900007"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34902162/",
+            "id": 34902162,
             "year": "1993",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2618303942.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "夜行货车",
-            "subject_id": "34902162"
+            "release": 1
+        },
+        {
+            "id": 34900007,
+            "year": "1994",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900111180.jpg",
+            "title": "像我们这样拍一部戏",
+            "release": 1
+        },
+        {
+            "id": 10434573,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2355479245.jpg",
+            "title": "浮世绘：捉奸·通奸·强奸",
+            "release": 1
+        },
+        {
+            "id": 5296311,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2291594946.jpg",
+            "title": "风中战士",
+            "release": 1
+        },
+        {
+            "id": 4861411,
+            "year": "1996",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2499128584.jpg",
+            "title": "红楼梦",
+            "release": 1
+        },
+        {
+            "id": 3920022,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915585776.jpg",
+            "title": "最爱就是你",
+            "release": 1
+        },
+        {
+            "id": 3757315,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2917749011.jpg",
+            "title": "爱似百汇",
+            "release": 1
+        },
+        {
+            "id": 3649509,
+            "year": "1995",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2405210319.jpg",
+            "title": "我们一家都是人",
+            "release": 1
+        },
+        {
+            "id": 3055434,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2887434986.jpg",
+            "title": "候鸟e人",
+            "release": 1
+        },
+        {
+            "id": 1401477,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2175081400.jpg",
+            "title": "孽子",
+            "release": 1
         }
     ],
     "introduction": "生平国立艺术学院戏剧系毕业，主修表演，近年来活跃于舞台、电视以及电影的演员。 　　历年演出包括《我们都是这样长大的》、《过客》、《 田园生活》、《婚姻场景》、《射天》、以及《落脚声--古厝中的 贝克特》。编辑本段作品舞台剧《寻找关汉卿的三个女人》、《今晚菜色如何？娘 子》、及表演工作坊《开放配偶（非常开放）》、《暗恋桃花源》、《厨房闹剧》、《一夫二主》、《情圣正传》、《新世纪，天使隐藏人间》、《我和我和他和他》、《十三角关系》、《花季未了》、《等待狗头》、《永远的微笑》、《这一夜，Women说相声》。 　　导演作品包括表演工作坊舞台剧《运将、黑道、狗和他的老婆们》并担任《绝不付帐》之戏剧指导。以及《欲望街车》、《奥菲》等。 　　电影演出包括《童年往事》、《怨女》、及《旧情绵绵》、《老小五个半》、《刀瘟》、《五个女子和一根绳子》及《牯岭街少年杀人事件》。 　　因电视《像我们这样一个家》中的杰出演出而荣获金钟奖最佳女演员奖。 　　并曾担任电影《五个女子和一根绳子》副导和戏剧指导、《牯岭街少年杀人事件》副导、《刀瘟》副导及《童党万岁》场记。 　　并参与赖声川编导之电视连续喜剧《我们一家都是人》，饰演「紫云」一角及《我们一家都是人之台湾精神台》，饰演「艾琳」一角。",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27499447/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T03:21:10"
+    "update_at": "2025-06-18T15:35:26"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1045174,
+    "sid": "1045174",
     "name": "西尔瓦娜·曼加诺",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "意大利,拉丁姆,罗马",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36000958/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876463278.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "我们都是索尔迪",
-            "subject_id": "36000958"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35936198/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2874889777.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "卢基诺·维斯康蒂：在真理与激情之间",
-            "subject_id": "35936198"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36217986/",
+            "id": 36217986,
             "year": "2013",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "骗局：维斯康蒂《家族的肖像》",
-            "subject_id": "36217986"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36109789/",
+            "id": 36109789,
             "year": "2006",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893076121.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "卢基诺·维斯康蒂：追忆似水年华之路",
-            "subject_id": "36109789"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2121897/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881084338.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "马赛洛：甜蜜的生活",
-            "subject_id": "2121897"
+            "id": 36000958,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876463278.jpg",
+            "title": "我们都是索尔迪",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1293585/",
-            "year": "1987",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1988730617.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "黑眼睛",
-            "subject_id": "1293585"
+            "id": 35936198,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2874889777.jpg",
+            "title": "卢基诺·维斯康蒂：在真理与激情之间",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1293092/",
-            "year": "1984",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1430340819.jpg",
-            "roles": [
-                "演员 (饰 Reverend Mother Ramallo)"
-            ],
-            "title": "沙丘",
-            "subject_id": "1293092"
-        },
-        {
-            "url": "https://movie.douban.com/subject/20426287/",
+            "id": 20426287,
             "year": "1975",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2910755922.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "微笑，巴掌，再一吻",
-            "subject_id": "20426287"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1307865/",
+            "id": 2121897,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881084338.jpg",
+            "title": "马赛洛：甜蜜的生活",
+            "release": 1
+        },
+        {
+            "id": 1428007,
+            "year": "1973",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2350893685.jpg",
+            "title": "路德维希",
+            "release": 1
+        },
+        {
+            "id": 1307865,
             "year": "1974",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2205002525.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "家族的肖像",
-            "subject_id": "1307865"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1428007/",
-            "year": "1973",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2896741263.jpg",
-            "roles": [
-                "演员 (饰 Cosima Von Bülow)"
-            ],
-            "title": "路德维希",
-            "subject_id": "1428007"
+            "id": 1293585,
+            "year": "1987",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1988730617.jpg",
+            "title": "黑眼睛",
+            "release": 1
+        },
+        {
+            "id": 1293092,
+            "year": "1984",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1430340819.jpg",
+            "title": "沙丘",
+            "release": 1
         }
     ],
     "introduction": "西尔瓦娜-曼加诺 1930 年 4 月 21 日出生于意大利罗马，二战期间在贫困中长大。她接受了七年的舞蹈训练，并以模特身份维持生计。1946 年，16 岁的她赢得了 \"罗马小姐 \"选美比赛，并因此在玛丽亚·德拉·科斯塔（Maria Della Costa）的电影中出演角色。一年后，她参加了意大利小姐竞选。露西娅-博斯成为了 \"女王\"，而在她附近，在斯特雷萨的舞台上，还有其他一些意大利电影的未来之星：吉娜·洛洛布里吉达、埃莱奥诺拉·罗西·德拉戈和吉安娜·玛丽亚·卡纳莱。1949 年，西尔瓦娜与电影制片人迪诺·德劳伦蒂斯（Dino De Laurentiis）结婚，育有四个子女：维罗妮卡、拉法埃拉、弗朗西斯卡和费德里科。维罗妮卡的女儿吉娅达是美食网 \"每日意大利语 \"和 \"吉娅达在家 \"节目的主持人。拉法埃拉与父亲共同制作了曼加诺的倒数第二部电影--科幻史诗片《沙丘》（1984 年）。1983 年，她与德劳伦蒂斯分居，放弃了自己的事业，在巴黎和马德里生活，并在那里制作挂毯。1989 年 12 月 4 日，西尔瓦娜-曼加诺因肺癌手术导致昏迷，随后于 1989 年 12 月 16 日凌晨在西班牙马德里去世，享年 59 岁。",
@@ -137,5 +107,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-17T21:07:13"
+    "update_at": "2025-06-18T16:56:18"
 }

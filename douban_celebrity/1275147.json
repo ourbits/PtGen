@@ -1,5 +1,5 @@
 {
-    "sid": 1275147,
+    "sid": "1275147",
     "name": "大卫·叶茨",
     "site": "douban_celebrity",
     "roles": [
@@ -19,137 +19,95 @@
     "birth_place": "英国,默西塞德郡,圣海伦斯",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35603707/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899207306.jpg",
-            "roles": [
-                "导演",
-                "制片人"
-            ],
-            "title": "止痛骗",
-            "subject_id": "35603707"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26147418/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871106106.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "神奇动物：邓布利多之谜",
-            "subject_id": "26147418"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35663020/",
+            "id": 35663020,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2807115075.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "哈利·波特20周年：回到霍格沃茨",
-            "subject_id": "35663020"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35404208/",
+            "id": 35603707,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899207306.jpg",
+            "title": "止痛骗",
+            "release": 1
+        },
+        {
+            "id": 35404208,
             "year": "2021",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "（K） 诺克斯：罗伯·诺克斯的故事",
-            "subject_id": "35404208"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26147417/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2538826177.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "神奇动物：格林德沃之罪",
-            "subject_id": "26147417"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27200804/",
+            "id": 27200804,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2505173686.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "神奇动物在哪里：奥卡米",
-            "subject_id": "27200804"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/25726614/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2392444121.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "神奇动物在哪里",
-            "subject_id": "25726614"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26637701/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359505938.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "暴君 第三季",
-            "subject_id": "26637701"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2131669/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2367559705.jpg",
-            "roles": [
-                "导演",
-                "制片人"
-            ],
-            "title": "泰山归来：险战丛林",
-            "subject_id": "2131669"
-        },
-        {
-            "url": "https://movie.douban.com/subject/22232279/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2188818797.jpg",
-            "roles": [
-                "导演",
-                "制片人"
-            ],
-            "title": "暴君 第一季",
-            "subject_id": "22232279"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26892777/",
+            "id": 26892777,
             "year": "2030",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872036106.jpg",
-            "roles": [
-                "导演"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "神奇动物在哪里5",
-            "subject_id": "26892777"
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/26892776/",
+            "id": 26892776,
             "year": "2027",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2546265820.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "神奇动物在哪里4",
-            "subject_id": "26892776"
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/6538835/",
+            "id": 26637701,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359505938.jpg",
+            "title": "暴君 第三季",
+            "release": 1
+        },
+        {
+            "id": 26147418,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871106106.jpg",
+            "title": "神奇动物：邓布利多之谜",
+            "release": 1
+        },
+        {
+            "id": 26147417,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2538826177.jpg",
+            "title": "神奇动物：格林德沃之罪",
+            "release": 1
+        },
+        {
+            "id": 25726614,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2392444121.jpg",
+            "title": "神奇动物在哪里",
+            "release": 1
+        },
+        {
+            "id": 22232279,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2188818797.jpg",
+            "title": "暴君 第一季",
+            "release": 1
+        },
+        {
+            "id": 6538835,
             "year": "2025",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "旧事上心头",
-            "subject_id": "6538835"
+            "release": 0
+        },
+        {
+            "id": 2131669,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2367559705.jpg",
+            "title": "泰山归来：险战丛林",
+            "release": 1
         }
     ],
     "introduction": "大卫·叶茨，英国电影导演。曾在美国华盛顿居住一年，之后返回伦敦的国家电影电视学院学习。是著名导演斯皮尔伯格激励他继续从事电影的拍摄。他在执导过不少电视电影和迷你剧集，在英国国内有不小声誉。他的电影《性交易》讲述的是被迫参与国际卖淫事业的女性的经历，获得了广泛的赞誉。2004年，他凭借为BBC拍摄的政治惊悚电视剧《游戏进展》获得英国导演工会的电影电视连续剧杰出导演成就奖，同时也赢得了一项艾美奖。2007年接棒哈利·波特系列，成为第五部《哈利·波特与凤凰社》导演，获得好评，赢得世界声誉。之后继续执导《哈利·波特与混血王子》等。",
@@ -162,5 +120,5 @@
     "personage_link": "https://www.douban.com/personage/27504202/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T16:42:19"
+    "update_at": "2025-06-18T02:42:08"
 }

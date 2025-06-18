@@ -1,5 +1,5 @@
 {
-    "sid": 1393004,
+    "sid": "1393004",
     "name": "布莱恩·沃尔克-怀斯",
     "site": "douban_celebrity",
     "roles": [
@@ -16,114 +16,81 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/37113656/",
+            "id": 37113656,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915322050.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "Paul Reiser: Life, Death, and Rice Pudding",
-            "subject_id": "37113656"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/37020182/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912347678.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "出土的图标 第九季",
-            "subject_id": "37020182"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37020186/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912347656.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "出土的图标 第八季",
-            "subject_id": "37020186"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36927144/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909966220.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "Rachel Scanlon: Gay Fantasy",
-            "subject_id": "36927144"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36868923/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "Billy Corgan‘s Adventures in Carnyland",
-            "subject_id": "36868923"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37020187/",
+            "id": 37020187,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912347630.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "出土的图标 第七季",
-            "subject_id": "37020187"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/37020185/",
+            "id": 37020186,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912347656.jpg",
+            "title": "出土的图标 第八季",
+            "release": 1
+        },
+        {
+            "id": 37020185,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912347582.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "出土的图标 第六季",
-            "subject_id": "37020185"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36913759/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909194401.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "Kim McVicar: Female Comedian",
-            "subject_id": "36913759"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36624884/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912983335.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "迪士尼乐园项目大起底 第二季",
-            "subject_id": "36624884"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37020183/",
+            "id": 37020183,
             "year": "2023",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912347559.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "出土的图标 第五季",
-            "subject_id": "37020183"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36488623/",
+            "id": 37020182,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912347678.jpg",
+            "title": "出土的图标 第九季",
+            "release": 1
+        },
+        {
+            "id": 36927144,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909966220.jpg",
+            "title": "Rachel Scanlon: Gay Fantasy",
+            "release": 1
+        },
+        {
+            "id": 36913759,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909194401.jpg",
+            "title": "Kim McVicar: Female Comedian",
+            "release": 1
+        },
+        {
+            "id": 36868923,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "Billy Corgan‘s Adventures in Carnyland",
+            "release": 1
+        },
+        {
+            "id": 36624884,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912983335.jpg",
+            "title": "迪士尼乐园项目大起底 第二季",
+            "release": 1
+        },
+        {
+            "id": 36488623,
             "year": "2028",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "导演"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
             "title": "火星鼠骑士",
-            "subject_id": "36488623"
+            "release": 0
         }
     ],
     "introduction": "暂无",
@@ -134,5 +101,5 @@
     "personage_link": "https://www.douban.com/personage/30222002/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T12:14:20"
+    "update_at": "2025-06-18T00:42:13"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1027255,
+    "sid": "1027255",
     "name": "琦普·帕杜",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "美国,佐治亚州,亚特兰大",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30454676/",
+            "id": 30454676,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2884139253.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "阻塞舱",
-            "subject_id": "30454676"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27659399/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2541977625.jpg",
-            "roles": [
-                "演员 (饰 Frank Dean)"
-            ],
-            "title": "离家童盟 第二季",
-            "subject_id": "27659399"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3080561/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2504972693.jpg",
-            "roles": [
-                "演员 (饰 Frank Dean)"
-            ],
-            "title": "离家童盟 第一季",
-            "subject_id": "3080561"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26826306/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2381735237.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "第四帝国的黎明",
-            "subject_id": "26826306"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26289823/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359821654.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "驱魔浪人 第一季",
-            "subject_id": "26289823"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26808583/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2454214396.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "美国寓言",
-            "subject_id": "26808583"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3215169/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2093868648.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "LA幸福剧本",
-            "subject_id": "3215169"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30265759/",
+            "id": 30265759,
             "year": "2013",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2527130231.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "假日之旅",
-            "subject_id": "30265759"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/6874218/",
+            "id": 27659399,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2541977625.jpg",
+            "title": "离家童盟 第二季",
+            "release": 1
+        },
+        {
+            "id": 26826306,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2381735237.jpg",
+            "title": "第四帝国的黎明",
+            "release": 1
+        },
+        {
+            "id": 26808583,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2454214396.jpg",
+            "title": "美国寓言",
+            "release": 1
+        },
+        {
+            "id": 26289823,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359821654.jpg",
+            "title": "驱魔浪人 第一季",
+            "release": 1
+        },
+        {
+            "id": 6874218,
             "year": "2012",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Cables",
-            "subject_id": "6874218"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3147969/",
+            "id": 3215169,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2093868648.jpg",
+            "title": "LA幸福剧本",
+            "release": 1
+        },
+        {
+            "id": 3147969,
             "year": "2011",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1256999669.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "人皮客栈3",
-            "subject_id": "3147969"
+            "release": 1
+        },
+        {
+            "id": 3080561,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2504972693.jpg",
+            "title": "离家童盟 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -128,5 +98,5 @@
     "name_more_other": [
         "Kevin Ian Pardue (本名)"
     ],
-    "update_at": "2025-01-17T00:28:15"
+    "update_at": "2025-06-18T04:42:07"
 }

@@ -15,114 +15,81 @@
     "birth_place": "印度,喀拉拉邦",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36072464/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885421744.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "恋爱好滋味",
-            "subject_id": "36072464"
-        },
-        {
-            "url": "https://movie.douban.com/subject/33425821/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2558569512.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "美爪屋 第三季",
-            "subject_id": "33425821"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26934628/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2459442900.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "美爪屋 第一季",
-            "subject_id": "26934628"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35290544/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Best Fake Friends",
-            "subject_id": "35290544"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10748117/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1888503097.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "血玫瑰",
-            "subject_id": "10748117"
-        },
-        {
-            "url": "https://movie.douban.com/subject/11524604/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2178023699.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "护士长的故事 第三季",
-            "subject_id": "11524604"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10735394/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1802188496.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "护士长的故事 第二季",
-            "subject_id": "10735394"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3657538/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1073265652.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "护士长的故事 第一季",
-            "subject_id": "3657538"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2046130/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635676866.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "情归何处 第一季",
-            "subject_id": "2046130"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1309176/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1781960616.jpg",
-            "roles": [
-                "演员 (饰 Nuru Jahan)"
-            ],
-            "title": "桃色接触",
-            "subject_id": "1309176"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36414700/",
+            "id": 36414700,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2892341264.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "American Underdog",
-            "subject_id": "36414700"
+            "release": 0
+        },
+        {
+            "id": 36230215,
+            "year": "2025",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2916697046.jpg",
+            "title": "梅菲尔女巫 第二季",
+            "release": 1
+        },
+        {
+            "id": 36072464,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885421744.jpg",
+            "title": "恋爱好滋味",
+            "release": 1
+        },
+        {
+            "id": 35290544,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Best Fake Friends",
+            "release": 1
+        },
+        {
+            "id": 33425821,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2558569512.jpg",
+            "title": "美爪屋 第三季",
+            "release": 1
+        },
+        {
+            "id": 26934628,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2459442900.jpg",
+            "title": "美爪屋 第一季",
+            "release": 1
+        },
+        {
+            "id": 11524604,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2178023699.jpg",
+            "title": "护士长的故事 第三季",
+            "release": 1
+        },
+        {
+            "id": 10748117,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1888503097.jpg",
+            "title": "血玫瑰",
+            "release": 1
+        },
+        {
+            "id": 10735394,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1802188496.jpg",
+            "title": "护士长的故事 第二季",
+            "release": 1
+        },
+        {
+            "id": 3657538,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1073265652.jpg",
+            "title": "护士长的故事 第一季",
+            "release": 1
+        },
+        {
+            "id": 2046130,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635676866.jpg",
+            "title": "情归何处 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -133,5 +100,5 @@
     "personage_link": "https://www.douban.com/personage/27501090/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-16T04:00:17"
+    "update_at": "2025-06-17T23:21:15"
 }

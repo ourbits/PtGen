@@ -1,5 +1,5 @@
 {
-    "sid": 1361262,
+    "sid": "1361262",
     "name": "雷达",
     "site": "douban_celebrity",
     "roles": [
@@ -15,105 +15,74 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1305114/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554609596.jpg",
-            "roles": [
-                "演员 (饰 李强)",
-                "其它"
-            ],
-            "title": "山村老尸",
-            "subject_id": "1305114"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26257426/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2282662246.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "論盡都市人： 門前雪",
-            "subject_id": "26257426"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1301381/",
-            "year": "1996",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2462221496.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "赌神3之少年赌神",
-            "subject_id": "1301381"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1449776/",
-            "year": "1996",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2458989996.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "玉蒲团之玉女心经",
-            "subject_id": "1449776"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1433736/",
-            "year": "1996",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2637722859.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "古惑仔之人在江湖",
-            "subject_id": "1433736"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1298052/",
-            "year": "1995",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2492870485.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "慈禧秘密生活",
-            "subject_id": "1298052"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26266662/",
+            "id": 26266662,
             "year": "1994",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2272767747.jpg",
-            "roles": [
-                "其它"
-            ],
             "title": "狮子山下：四壁为家",
-            "subject_id": "26266662"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1296895/",
-            "year": "1994",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2246985661.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "新英雄本色",
-            "subject_id": "1296895"
+            "id": 26257426,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2282662246.jpg",
+            "title": "論盡都市人： 門前雪",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1448703/",
+            "id": 1449776,
+            "year": "1996",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1783872584.jpg",
+            "title": "玉蒲团之玉女心经",
+            "release": 1
+        },
+        {
+            "id": 1448703,
             "year": "1993",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2332513174.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "人皮灯笼",
-            "subject_id": "1448703"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1400665/",
+            "id": 1433736,
+            "year": "1996",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2637722859.jpg",
+            "title": "古惑仔之人在江湖",
+            "release": 1
+        },
+        {
+            "id": 1400665,
             "year": "1993",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2403567848.jpg",
-            "roles": [
-                "演员 (饰 借茅厕老大爷)"
-            ],
             "title": "济公",
-            "subject_id": "1400665"
+            "release": 1
+        },
+        {
+            "id": 1305114,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554609596.jpg",
+            "title": "山村老尸",
+            "release": 1
+        },
+        {
+            "id": 1301381,
+            "year": "1996",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2462221496.jpg",
+            "title": "赌神3之少年赌神",
+            "release": 1
+        },
+        {
+            "id": 1298052,
+            "year": "1995",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2492870485.jpg",
+            "title": "慈禧秘密生活",
+            "release": 1
+        },
+        {
+            "id": 1296895,
+            "year": "1994",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2246985661.jpg",
+            "title": "新英雄本色",
+            "release": 1
         }
     ],
     "introduction": "\"雷达，香港老演员，真正的钻石级配角，经常饰演一些慈祥的老爷爷和鬼。\"",
@@ -131,5 +100,5 @@
     "name_more_other": [
         "Ta Lei"
     ],
-    "update_at": "2025-01-17T05:07:24"
+    "update_at": "2025-06-18T16:28:05"
 }

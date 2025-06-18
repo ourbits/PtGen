@@ -1,5 +1,5 @@
 {
-    "sid": 1048234,
+    "sid": "1048234",
     "name": "大卫·海迪生",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "美国,罗得岛,普罗维登斯",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/34955866/",
+            "id": 34955866,
             "year": "2014",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2582435899.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "The Green Girl",
-            "subject_id": "34955866"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5236971/",
+            "id": 5236971,
             "year": "2005",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "The Reality Trap",
-            "subject_id": "5236971"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2144548/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2898929134.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "幽灵",
-            "subject_id": "2144548"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1305434/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2383836280.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "神魔交战",
-            "subject_id": "1305434"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3068685/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518343326.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "疑云背后",
-            "subject_id": "3068685"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1298048/",
-            "year": "1990",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2525636254.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "圣战风云",
-            "subject_id": "1298048"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1292754/",
-            "year": "1989",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1019030573.jpg",
-            "roles": [
-                "演员 (饰 Felix Leiter)"
-            ],
-            "title": "007之杀人执照",
-            "subject_id": "1292754"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5047774/",
-            "year": "1987",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2170115189.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Law and Harry McGraw",
-            "subject_id": "5047774"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5049024/",
+            "id": 5049024,
             "year": "1985",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2625177170.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "浮华世家",
-            "subject_id": "5049024"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2130084/",
+            "id": 5047774,
+            "year": "1987",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2170115189.jpg",
+            "title": "The Law and Harry McGraw",
+            "release": 1
+        },
+        {
+            "id": 3068685,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518343326.jpg",
+            "title": "疑云背后",
+            "release": 1
+        },
+        {
+            "id": 2144548,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2898929134.jpg",
+            "title": "幽灵",
+            "release": 1
+        },
+        {
+            "id": 2130084,
             "year": "1985",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2287652143.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "公元",
-            "subject_id": "2130084"
+            "release": 1
+        },
+        {
+            "id": 1305434,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2383836280.jpg",
+            "title": "神魔交战",
+            "release": 1
+        },
+        {
+            "id": 1298048,
+            "year": "1990",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2525636254.jpg",
+            "title": "圣战风云",
+            "release": 1
+        },
+        {
+            "id": 1292754,
+            "year": "1989",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1019030573.jpg",
+            "title": "007之杀人执照",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -132,5 +102,5 @@
     "name_more_other": [
         "Albert David Hedison Jr. (本名)"
     ],
-    "update_at": "2025-01-17T21:49:07"
+    "update_at": "2025-06-18T13:35:14"
 }

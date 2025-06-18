@@ -1,5 +1,5 @@
 {
-    "sid": 1081930,
+    "sid": "1081930",
     "name": "André Dumas",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "法国,巴黎",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5096423/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Un homme en colère",
-            "subject_id": "5096423"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2227474/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2606286956.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "欧世情缘",
-            "subject_id": "2227474"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5136696/",
-            "year": "1966",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536012281.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Au théâtre ce soir",
-            "subject_id": "5136696"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5232551/",
+            "id": 5232551,
             "year": "1991",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Marie la louve",
-            "subject_id": "5232551"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5114621/",
-            "year": "1990",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Les enfants volants",
-            "subject_id": "5114621"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5047672/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906171578.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Bernadette",
-            "subject_id": "5047672"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5229732/",
+            "id": 5229732,
             "year": "1987",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Les enquêtes Caméléon",
-            "subject_id": "5229732"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5136889/",
+            "id": 5136889,
             "year": "1986",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2890955370.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Der Unfried",
-            "subject_id": "5136889"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5084469/",
+            "id": 5136696,
+            "year": "1966",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536012281.jpg",
+            "title": "Au théâtre ce soir",
+            "release": 1
+        },
+        {
+            "id": 5114621,
+            "year": "1990",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "飞翔的孩子们",
+            "release": 1
+        },
+        {
+            "id": 5096423,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Un homme en colère",
+            "release": 1
+        },
+        {
+            "id": 5084469,
             "year": "1985",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Les colonnes du ciel",
-            "subject_id": "5084469"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5049351/",
+            "id": 5049351,
             "year": "1984",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537449090.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "青蛙王子",
-            "subject_id": "5049351"
+            "release": 1
+        },
+        {
+            "id": 5047672,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906171578.jpg",
+            "title": "Bernadette",
+            "release": 1
+        },
+        {
+            "id": 2227474,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2606286956.jpg",
+            "title": "欧世情缘",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27287689/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T20:49:19"
+    "update_at": "2025-06-18T09:07:11"
 }

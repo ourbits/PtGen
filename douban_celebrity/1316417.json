@@ -1,5 +1,5 @@
 {
-    "sid": 1316417,
+    "sid": "1316417",
     "name": "希欧布罕·芬内朗",
     "site": "douban_celebrity",
     "roles": [
@@ -17,114 +17,81 @@
     "birth_place": "英国,英格兰,兰开夏",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36581672/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2917130193.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "保护之间",
-            "subject_id": "36581672"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35738422/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915401154.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "冰河的诅咒",
-            "subject_id": "35738422"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35919997/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909704282.jpg",
-            "roles": [
-                "演员 (饰 Edith)"
-            ],
-            "title": "9号秘事 第九季",
-            "subject_id": "35919997"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35811389/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900082970.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "警与囚 第二季",
-            "subject_id": "35811389"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27044303/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2886510608.jpg",
-            "roles": [
-                "演员 (饰 Clare Cartwright)"
-            ],
-            "title": "幸福谷 第三季",
-            "subject_id": "27044303"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35969687/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875701019.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "阿尔玛不是一般人 第一季",
-            "subject_id": "35969687"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35205166/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2663015091.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "警与囚 第一季",
-            "subject_id": "35205166"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30446894/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2617291398.jpg",
-            "roles": [
-                "演员 (饰 Johanna Griffin)"
-            ],
-            "title": "陌生人",
-            "subject_id": "30446894"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30352607/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2567779089.jpg",
-            "roles": [
-                "演员 (饰 Elaine Pickford)"
-            ],
-            "title": "坦白",
-            "subject_id": "30352607"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27622408/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2549507339.jpg",
-            "roles": [
-                "演员 (饰 Sally Newell)"
-            ],
-            "title": "寡妇",
-            "subject_id": "27622408"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36801424/",
+            "id": 36801424,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912336630.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "走出尘埃",
-            "subject_id": "36801424"
+            "release": 0
+        },
+        {
+            "id": 36581672,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2917130193.jpg",
+            "title": "保护之间",
+            "release": 1
+        },
+        {
+            "id": 35969687,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875701019.jpg",
+            "title": "阿尔玛不是一般人 第一季",
+            "release": 1
+        },
+        {
+            "id": 35919997,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909704282.jpg",
+            "title": "9号秘事 第九季",
+            "release": 1
+        },
+        {
+            "id": 35811389,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900082970.jpg",
+            "title": "警与囚 第二季",
+            "release": 1
+        },
+        {
+            "id": 35738422,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915401154.jpg",
+            "title": "冰河的诅咒",
+            "release": 1
+        },
+        {
+            "id": 35205166,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2663015091.jpg",
+            "title": "警与囚 第一季",
+            "release": 1
+        },
+        {
+            "id": 30446894,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2617291398.jpg",
+            "title": "陌生人",
+            "release": 1
+        },
+        {
+            "id": 30352607,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2567779089.jpg",
+            "title": "坦白",
+            "release": 1
+        },
+        {
+            "id": 27622408,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2549507339.jpg",
+            "title": "寡妇",
+            "release": 1
+        },
+        {
+            "id": 27044303,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2886510608.jpg",
+            "title": "幸福谷 第三季",
+            "release": 1
         }
     ],
     "introduction": "<唐顿庄园>饰演Sarah O'Brien",
@@ -141,5 +108,5 @@
     "personage_link": "https://www.douban.com/personage/27493488/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T21:00:07"
+    "update_at": "2025-06-18T16:42:22"
 }

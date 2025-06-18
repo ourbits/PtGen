@@ -1,5 +1,5 @@
 {
-    "sid": 1000145,
+    "sid": "1000145",
     "name": "霍思燕",
     "site": "douban_celebrity",
     "roles": [
@@ -21,144 +21,102 @@
     "birth_place": "中国,北京",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35256235/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2667843404.jpg",
-            "roles": [
-                "演员 (饰 大华嫂)"
-            ],
-            "title": "燃野少年的天空",
-            "subject_id": "35256235"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35153521/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2620250377.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "乘风破浪的妻子",
-            "subject_id": "35153521"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30377098/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2581231068.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "星光",
-            "subject_id": "30377098"
-        },
-        {
-            "url": "https://movie.douban.com/subject/33446535/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2572143528.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "妻子的浪漫旅行 第三季",
-            "subject_id": "33446535"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34822352/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2568496744.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "你好，妈妈",
-            "subject_id": "34822352"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34451459/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2561261229.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "脱贫攻坚战星光行动",
-            "subject_id": "34451459"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30377703/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542268337.jpg",
-            "roles": [
-                "演员 (饰 李楠)"
-            ],
-            "title": "来电狂响",
-            "subject_id": "30377703"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30238348/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2523788100.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "谢谢啦！崔大夫",
-            "subject_id": "30238348"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30133765/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518143178.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "妈妈是超人 第三季",
-            "subject_id": "30133765"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26861685/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2514119443.jpg",
-            "roles": [
-                "演员 (饰 无人机操作员)"
-            ],
-            "title": "红海行动",
-            "subject_id": "26861685"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10604895/",
-            "year": "2030",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2514078368.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "英格力士",
-            "subject_id": "10604895"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25907007/",
-            "year": "2030",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2388232402.jpg",
-            "roles": [
-                "演员 (饰 朱一然)"
-            ],
-            "title": "北京遇上西雅图",
-            "subject_id": "25907007"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35461785/",
+            "id": 35461785,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2647288287.jpg",
-            "roles": [
-                "演员 (饰 关露晞)"
-            ],
             "title": "靓丽主播",
-            "subject_id": "35461785"
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/25859592/",
+            "id": 35256235,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2667843404.jpg",
+            "title": "燃野少年的天空",
+            "release": 1
+        },
+        {
+            "id": 35153521,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2620250377.jpg",
+            "title": "乘风破浪的妻子",
+            "release": 1
+        },
+        {
+            "id": 34822352,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2568496744.jpg",
+            "title": "你好，妈妈",
+            "release": 1
+        },
+        {
+            "id": 34451459,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2561261229.jpg",
+            "title": "脱贫攻坚战星光行动",
+            "release": 1
+        },
+        {
+            "id": 33446535,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2572143528.jpg",
+            "title": "妻子的浪漫旅行 第三季",
+            "release": 1
+        },
+        {
+            "id": 30377703,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542268337.jpg",
+            "title": "来电狂响",
+            "release": 1
+        },
+        {
+            "id": 30377098,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2581231068.jpg",
+            "title": "星光",
+            "release": 1
+        },
+        {
+            "id": 30238348,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2523788100.jpg",
+            "title": "谢谢啦！崔大夫",
+            "release": 1
+        },
+        {
+            "id": 30133765,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518143178.jpg",
+            "title": "妈妈是超人 第三季",
+            "release": 1
+        },
+        {
+            "id": 26861685,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2514119443.jpg",
+            "title": "红海行动",
+            "release": 1
+        },
+        {
+            "id": 25907007,
+            "year": "2030",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2388232402.jpg",
+            "title": "北京遇上西雅图",
+            "release": 0
+        },
+        {
+            "id": 25859592,
             "year": "2025",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
             "title": "逆转人生",
-            "subject_id": "25859592"
+            "release": 0
+        },
+        {
+            "id": 10604895,
+            "year": "2030",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2514078368.jpg",
+            "title": "英格力士",
+            "release": 0
         }
     ],
     "introduction": "霍思燕，中国内地女演员。从“水晶之恋”的广告里那个迎风飞翔的清纯女孩开始出道，就有了后来的“大雪”，就有了《少年天子》中的完美女人“乌云珠”。从拍第一部戏《贫嘴张大民的幸福生活》开始，霍思燕就被圈内视为完美的女孩，温婉柔和，美丽而不张扬。在拍完《少年天子》之后，有人曾预言这个女孩将很快走红。出道至今霍思燕已经出演《聊斋》、《欢天喜地七仙女》、《孽缘》、《最后的格格》《爱要有你才完美》等等多部高收视率电视剧，成为炙手可热的一线女星。",
@@ -180,5 +138,5 @@
     "name_more_other": [
         "Huo Si-yan"
     ],
-    "update_at": "2025-01-17T14:00:28"
+    "update_at": "2025-06-18T16:35:07"
 }

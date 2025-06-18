@@ -1,5 +1,5 @@
 {
-    "sid": 1136308,
+    "sid": "1136308",
     "name": "佩妮·佩塞尔",
     "site": "douban_celebrity",
     "roles": [
@@ -17,106 +17,74 @@
     "birth_place": "美国,纽约,欧文顿",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5185373/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2289540951.jpg",
-            "roles": [
-                "导演",
-                "制片人",
-                "编剧"
-            ],
-            "title": "Trying to Get Good: The Jazz Odyssey of Jack Sheldon",
-            "subject_id": "5185373"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1300191/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2632418397.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "生死战役",
-            "subject_id": "1300191"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5107177/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2729100751.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "木乃伊历险记",
-            "subject_id": "5107177"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1469862/",
-            "year": "1996",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875935230.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "潘多拉的时钟",
-            "subject_id": "1469862"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26578935/",
+            "id": 26578935,
             "year": "1996",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872597578.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "第七天堂 第一季",
-            "subject_id": "26578935"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1296665/",
-            "year": "1996",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2674541024.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "电视大玩家",
-            "subject_id": "1296665"
+            "id": 5185373,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2289540951.jpg",
+            "title": "Trying to Get Good: The Jazz Odyssey of Jack Sheldon",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3318699/",
-            "year": "1993",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2632601902.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "不良行为",
-            "subject_id": "3318699"
+            "id": 5107177,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2522381655.jpg",
+            "title": "木乃伊历险记",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2076303/",
-            "year": "1993",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518273717.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "德州巡警 第一季",
-            "subject_id": "2076303"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2073766/",
-            "year": "1989",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2405295194.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "量子跳跃 第一季",
-            "subject_id": "2073766"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3912165/",
+            "id": 3912165,
             "year": "1988",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2501457517.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "死亡使者",
-            "subject_id": "3912165"
+            "release": 1
+        },
+        {
+            "id": 3318699,
+            "year": "1993",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2632601902.jpg",
+            "title": "不良行为",
+            "release": 1
+        },
+        {
+            "id": 2076303,
+            "year": "1993",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518273717.jpg",
+            "title": "德州巡警 第一季",
+            "release": 1
+        },
+        {
+            "id": 2073766,
+            "year": "1989",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2405295194.jpg",
+            "title": "量子跳跃 第一季",
+            "release": 1
+        },
+        {
+            "id": 1469862,
+            "year": "1996",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875935230.jpg",
+            "title": "潘多拉的时钟",
+            "release": 1
+        },
+        {
+            "id": 1300191,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2632418397.jpg",
+            "title": "生死战役",
+            "release": 1
+        },
+        {
+            "id": 1296665,
+            "year": "1996",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2674541024.jpg",
+            "title": "电视大玩家",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -127,5 +95,5 @@
     "personage_link": "https://www.douban.com/personage/27342161/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T10:28:17"
+    "update_at": "2025-06-18T10:07:18"
 }

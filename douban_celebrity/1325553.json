@@ -1,5 +1,5 @@
 {
-    "sid": 1325553,
+    "sid": "1325553",
     "name": "西本淳一",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26720112/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2317876688.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "日本的小提琴之王",
-            "subject_id": "26720112"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26657256/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2287717872.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "新牡丹与蔷薇",
-            "subject_id": "26657256"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25839707/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2174734438.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "圣母·圣美物语",
-            "subject_id": "25839707"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6307301/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1092112777.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "抓住明日的光2",
-            "subject_id": "6307301"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1961872/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2280532855.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "牡丹与玫瑰",
-            "subject_id": "1961872"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5185564/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "狂った計算～灼熱のニュータウン殺人事件",
-            "subject_id": "5185564"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26691603/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "税務調査官・窓際太郎の事件簿6",
-            "subject_id": "26691603"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36809839/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "这里是椿妇产科",
-            "subject_id": "36809839"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37047973/",
+            "id": 37047973,
             "year": "1996",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2913373744.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "保险调查员栅太郎事件薄2.金泽・能登杀人事件",
-            "subject_id": "37047973"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5240059/",
+            "id": 36809839,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "这里是椿妇产科",
+            "release": 1
+        },
+        {
+            "id": 26720112,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2317876688.jpg",
+            "title": "日本的小提琴之王",
+            "release": 1
+        },
+        {
+            "id": 26691603,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "税務調査官・窓際太郎の事件簿6",
+            "release": 1
+        },
+        {
+            "id": 26657256,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2287717872.jpg",
+            "title": "新牡丹与蔷薇",
+            "release": 1
+        },
+        {
+            "id": 25839707,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2174734438.jpg",
+            "title": "圣母·圣美物语",
+            "release": 1
+        },
+        {
+            "id": 6307301,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1092112777.jpg",
+            "title": "抓住明日的光2",
+            "release": 1
+        },
+        {
+            "id": 5240059,
             "year": "1995",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "風のロンド",
-            "subject_id": "5240059"
+            "release": 1
+        },
+        {
+            "id": 5185564,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "狂った計算～灼熱のニュータウン殺人事件",
+            "release": 1
+        },
+        {
+            "id": 1961872,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2280532855.jpg",
+            "title": "牡丹与玫瑰",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27500734/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T09:49:35"
+    "update_at": "2025-06-18T12:07:22"
 }

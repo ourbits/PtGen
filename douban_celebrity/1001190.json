@@ -1,5 +1,5 @@
 {
-    "sid": 1001190,
+    "sid": "1001190",
     "name": "琼·图克斯伯里",
     "site": "douban_celebrity",
     "roles": [
@@ -17,108 +17,74 @@
     "birth_place": "美国,加利福尼亚州,雷德兰兹",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1421856/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529777414.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "逍遥骑士和愤怒的公牛：性、毒品和摇滚一代如何拯救好莱坞",
-            "subject_id": "1421856"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1421105/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2374616348.jpg",
-            "roles": [
-                "导演",
-                "制片人"
-            ],
-            "title": "法外情真 第一季",
-            "subject_id": "1421105"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5106445/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "Scattering Dad",
-            "subject_id": "5106445"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1418614/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2160938533.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "费丽丝蒂 第一季",
-            "subject_id": "1418614"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2039685/",
-            "year": "1992",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2278015031.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "警戒围栏 第一季",
-            "subject_id": "2039685"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3718093/",
-            "year": "1992",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875581595.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "陌生人",
-            "subject_id": "3718093"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5113543/",
-            "year": "1991",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510120732.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "Wild Texas Wind",
-            "subject_id": "5113543"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5114241/",
-            "year": "1990",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2576173589.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "Sudie and Simpson",
-            "subject_id": "5114241"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5114810/",
+            "id": 5114810,
             "year": "1990",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2896191108.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "法网情仇",
-            "subject_id": "5114810"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1907212/",
+            "id": 5114241,
+            "year": "1990",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2576173589.jpg",
+            "title": "Sudie and Simpson",
+            "release": 1
+        },
+        {
+            "id": 5113543,
+            "year": "1991",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510120732.jpg",
+            "title": "Wild Texas Wind",
+            "release": 1
+        },
+        {
+            "id": 5106445,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2921640778.jpg",
+            "title": "Scattering Dad",
+            "release": 1
+        },
+        {
+            "id": 3718093,
+            "year": "1992",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875581595.jpg",
+            "title": "陌生人",
+            "release": 1
+        },
+        {
+            "id": 2039685,
+            "year": "1992",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2278015031.jpg",
+            "title": "警戒围栏 第一季",
+            "release": 1
+        },
+        {
+            "id": 1907212,
             "year": "1990",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2553179120.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "北国风云 第一季",
-            "subject_id": "1907212"
+            "release": 1
+        },
+        {
+            "id": 1421856,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529777414.jpg",
+            "title": "逍遥骑士和愤怒的公牛：性、毒品和摇滚一代如何拯救好莱坞",
+            "release": 1
+        },
+        {
+            "id": 1421105,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2374616348.jpg",
+            "title": "法外情真 第一季",
+            "release": 1
+        },
+        {
+            "id": 1418614,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2160938533.jpg",
+            "title": "费丽丝蒂 第一季",
+            "release": 1
         }
     ],
     "introduction": "Joan Tewkesbury (born April 8, 1936) is an American film and television director, screenwriter, producer and actress. She had a long association with the celebrated director Robert Altman, and wrote the screenplays for two of his films, Thieves Like Us (1974) and Nashville (1975). Nashville has been called \"Altman's masterpiece\",[2] and Tewkesbury's screenplay was widely honored including a nomination for the BAFTA Award for Best Screenplay. Beyond the work with Altman, Tewkesbury has directed and written many television movies and episodes for television series. Tewkesbury is the author of the novel, Ebba and the Green Dresses of Olivia Gomez in a Time of Conflict and War, Hand to Hand,2011.Joan TewkesburyBornJoan Frances Tewkesbury[1]April 8, 1936 (age 82)Redlands, California, USAOccupationFilm and television actress, director, and screenwriterTewkesbury was born in Redlands, California, the daughter of Frances M. (née Stevenson), a registered nurse, and Walter S. Tewkesbury, an office machine repairman.[3] She has lived in Tesuque, New Mexico since 2003.One of her early television acting roles was in a guest appearance on the short-lived NBC drama, It's a Man's World.",
@@ -131,5 +97,5 @@
     "name_more_other": [
         "Joan Maguire"
     ],
-    "update_at": "2025-01-17T14:49:11"
+    "update_at": "2025-06-18T05:14:16"
 }
