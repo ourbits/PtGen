@@ -1,5 +1,5 @@
 {
-    "sid": 1027872,
+    "sid": "1027872",
     "name": "葛丽亚·嘉逊",
     "site": "douban_celebrity",
     "roles": [
@@ -20,104 +20,74 @@
     "birth_place": "英国,北爱尔兰",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5048232/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "威廉·惠勒执导",
-            "subject_id": "5048232"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4713194/",
-            "year": "1981",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "A Gift of Music",
-            "subject_id": "4713194"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5052116/",
-            "year": "1978",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2624851375.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Little Women",
-            "subject_id": "5052116"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3443455/",
-            "year": "1978",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2533157832.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "小妇人",
-            "subject_id": "3443455"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2348156/",
-            "year": "1977",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2547634850.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "爱之船",
-            "subject_id": "2348156"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5053487/",
-            "year": "1976",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Little Drummer Boy Book II",
-            "subject_id": "5053487"
-        },
-        {
-            "url": "https://movie.douban.com/subject/20470008/",
+            "id": 20470008,
             "year": "1968",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1826443591.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
             "title": "The Little Drummer Boy",
-            "subject_id": "20470008"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1292481/",
-            "year": "1967",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2224006361.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "百万家财",
-            "subject_id": "1292481"
+            "id": 5053487,
+            "year": "1976",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Little Drummer Boy Book II",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3063369/",
-            "year": "1966",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2506229520.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "仙乐飘飘处处闻",
-            "subject_id": "3063369"
+            "id": 5052116,
+            "year": "1978",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2624851375.jpg",
+            "title": "Little Women",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3560786/",
+            "id": 5048232,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "威廉·惠勒执导",
+            "release": 1
+        },
+        {
+            "id": 4713194,
+            "year": "1981",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "A Gift of Music",
+            "release": 1
+        },
+        {
+            "id": 3560786,
             "year": "1962",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868199166.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "维吉尼亚人 第一季",
-            "subject_id": "3560786"
+            "release": 1
+        },
+        {
+            "id": 3443455,
+            "year": "1978",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2533157832.jpg",
+            "title": "小妇人",
+            "release": 1
+        },
+        {
+            "id": 3063369,
+            "year": "1966",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2506229520.jpg",
+            "title": "仙乐飘飘处处闻",
+            "release": 1
+        },
+        {
+            "id": 2348156,
+            "year": "1977",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2547634850.jpg",
+            "title": "爱之船",
+            "release": 1
+        },
+        {
+            "id": 1292481,
+            "year": "1967",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2224006361.jpg",
+            "title": "百万家财",
+            "release": 1
         }
     ],
     "introduction": "葛丽亚，著名女演员，幼年时全家迁至伦敦。在伦敦大学读过文学，曾想当一名教师，整个学生时代她都是高材生。大学毕业后，葛丽亚曾在一家广告公司工作。1934年，她在伦敦一家剧院演出，被当时已成名的英国戏剧、电影演员劳伦斯·奥立弗发现，与她签订了合同。从此，葛丽亚开始了演员生涯。幸运的葛丽亚在一次舞台与电视的综合节目里，又被好莱坞制片人发现，应聘到了美国。起初她当配角。有一次，剧团的女主角因病不能出场，嘉逊临时被指派代替主角演出，不料一举成名。后来，她又转入电视界，与劳伦斯·奥立弗合演过《罗密欧与朱丽叶》。1938年，米高梅公司老板梅耶在一次戏剧演出中，发现了嘉逊端庄的外型和表演才能。认为她适合演夫人类型的角色，便以500美元的周薪与嘉逊定了合同，嘉逊就这样来到了好莱坞。当时在影坛上走红的女明星虽然有琼·克劳馥、爱琳·邓等人，但与嘉逊的类型不同。因此，她便以独有的魅力、高贵的风度、富有才华的气质和精湛的演技应运而起。她的戏路本来很宽，但公司总让她演夫人角色，使她定了型，未能发挥出塑造不同类型人物的才能，这是很遗憾的事,就连她自己也曾自嘲地说：“我是米高梅的光荣夫人。”",
@@ -138,5 +108,5 @@
         "Eileen Evelyn Greer Garson (本名)",
         "Duchess (昵称)"
     ],
-    "update_at": "2025-01-18T06:35:16"
+    "update_at": "2025-06-19T01:49:06"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1137177,
+    "sid": "1137177",
     "name": "路易斯·奈",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "美国,康涅狄格州",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36297024/",
+            "id": 36297024,
             "year": "2023",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914915597.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Daytime Revolution",
-            "subject_id": "36297024"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2154357/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2495396452.jpg",
-            "roles": [
-                "演员 (饰 Jeff Greene's Dad)"
-            ],
-            "title": "消消气 第三季",
-            "subject_id": "2154357"
+            "id": 5182698,
+            "year": "1983",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Great Bear Scare",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2348559/",
+            "id": 5133879,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "神探加杰特：你是最棒的",
+            "release": 1
+        },
+        {
+            "id": 3069493,
+            "year": "1985",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2241835422.jpg",
+            "title": "OC和斯蒂格斯",
+            "release": 1
+        },
+        {
+            "id": 2348559,
             "year": "2001",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2495397371.jpg",
-            "roles": [
-                "演员 (饰 Jeff Greene's Dad)"
-            ],
             "title": "消消气 第二季",
-            "subject_id": "2348559"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1428366/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2232173931.jpg",
-            "roles": [
-                "演员 (饰 Jeff Greene's Dad)"
-            ],
-            "title": "消消气 第一季",
-            "subject_id": "1428366"
+            "id": 2154357,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2495396452.jpg",
+            "title": "消消气 第三季",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5133879/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "神探加杰特：你是最棒的",
-            "subject_id": "5133879"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1297794/",
-            "year": "1987",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2415521416.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "月满变人狼",
-            "subject_id": "1297794"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2054879/",
+            "id": 2054879,
             "year": "1985",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511438576.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "爱丽丝梦游仙境",
-            "subject_id": "2054879"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3069493/",
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915550171.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "OC和斯蒂格斯",
-            "subject_id": "3069493"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1824962/",
+            "id": 1824962,
             "year": "1984",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2594905257.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "考斯比一家 第一季",
-            "subject_id": "1824962"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5182698/",
-            "year": "1983",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Great Bear Scare",
-            "subject_id": "5182698"
+            "id": 1428366,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2232173931.jpg",
+            "title": "消消气 第一季",
+            "release": 1
+        },
+        {
+            "id": 1297794,
+            "year": "1987",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2415521416.jpg",
+            "title": "月满变人狼",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -131,5 +101,5 @@
     "name_more_other": [
         "Louis Neistat (本名)"
     ],
-    "update_at": "2025-01-18T16:49:24"
+    "update_at": "2025-06-19T19:28:18"
 }

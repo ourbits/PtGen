@@ -1,5 +1,5 @@
 {
-    "sid": 1345892,
+    "sid": "1345892",
     "name": "祝文君",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "中国香港",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35479290/",
+            "id": 35479290,
             "year": "2023",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897714592.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "旁观者",
-            "subject_id": "35479290"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35437935/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876925476.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "痞子殿下",
-            "subject_id": "35437935"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35268239/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872543453.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "双生陌生人",
-            "subject_id": "35268239"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35472311/",
+            "id": 35472311,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871454444.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "廉政行动2022",
-            "subject_id": "35472311"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30331437/",
+            "id": 35437935,
             "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2815257409.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "铁拳英雄",
-            "subject_id": "30331437"
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876925476.jpg",
+            "title": "痞子殿下",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35208375/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635205393.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "拳王",
-            "subject_id": "35208375"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35419372/",
+            "id": 35419372,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2690388701.jpg",
-            "roles": [
-                "演员 (饰 星母)"
-            ],
             "title": "星空下的仁医",
-            "subject_id": "35419372"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35131323/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2632940902.jpg",
-            "roles": [
-                "演员 (饰 校长)"
-            ],
-            "title": "换命真相",
-            "subject_id": "35131323"
+            "id": 35268239,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872543453.jpg",
+            "title": "双生陌生人",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35201546/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2680058456.jpg",
-            "roles": [
-                "演员 (饰 学生)"
-            ],
-            "title": "我家无难事",
-            "subject_id": "35201546"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35243086/",
+            "id": 35243086,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2681054824.jpg",
-            "roles": [
-                "演员 (饰 高官)"
-            ],
             "title": "把关者们",
-            "subject_id": "35243086"
+            "release": 1
+        },
+        {
+            "id": 35208375,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635205393.jpg",
+            "title": "拳王",
+            "release": 1
+        },
+        {
+            "id": 35201546,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2680058456.jpg",
+            "title": "我家无难事",
+            "release": 1
+        },
+        {
+            "id": 35131323,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2632940902.jpg",
+            "title": "换命真相",
+            "release": 1
+        },
+        {
+            "id": 30331437,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2815257409.jpg",
+            "title": "铁拳英雄",
+            "release": 1
         }
     ],
     "introduction": "祝文君（Chuk Man Kwan），香港艺人，无线艺员训练班毕业，电视台节目主持，也曾在影视剧中客串出演。在周星驰电影《食神》中饰演“城市睇真D”（这个节目名应该是亚视的“今日睇真D”和TVB的“城市追击”的合体）的记者，她曾主持过“城市追击”这个节目，这次被请来客串一下。 现为香港无线电视演员。",
@@ -130,5 +100,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-18T18:35:08"
+    "update_at": "2025-06-19T02:56:17"
 }

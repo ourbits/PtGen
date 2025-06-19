@@ -1,5 +1,5 @@
 {
-    "sid": 1163260,
+    "sid": "1163260",
     "name": "詹姆斯·韦斯特菲尔德",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "美国,田纳西州纳什维尔",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5138109/",
-            "year": "1975",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Dead Aim",
-            "subject_id": "5138109"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5054722/",
-            "year": "1973",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "抉择",
-            "subject_id": "5054722"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5055841/",
-            "year": "1971",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2557136645.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "O'Hara, U.S. Treasury",
-            "subject_id": "5055841"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5218647/",
+            "id": 5218647,
             "year": "1970",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "The Murdocks and the McClays",
-            "subject_id": "5218647"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2265966/",
-            "year": "1970",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870021262.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "大情人",
-            "subject_id": "2265966"
+            "id": 5138109,
+            "year": "1975",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Dead Aim",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5056703/",
-            "year": "1969",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Bill Cosby Show",
-            "subject_id": "5056703"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5056369/",
-            "year": "1969",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2406870022.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "威武不屈",
-            "subject_id": "5056369"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2134908/",
-            "year": "1969",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2594454273.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "原野独行侠",
-            "subject_id": "2134908"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5057042/",
-            "year": "1968",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2586645722.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Outcasts",
-            "subject_id": "5057042"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5106727/",
+            "id": 5106727,
             "year": "1968",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876751590.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Now You See It, Now You Don't",
-            "subject_id": "5106727"
+            "release": 1
+        },
+        {
+            "id": 5057042,
+            "year": "1968",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2586645722.jpg",
+            "title": "The Outcasts",
+            "release": 1
+        },
+        {
+            "id": 5056703,
+            "year": "1969",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Bill Cosby Show",
+            "release": 1
+        },
+        {
+            "id": 5056369,
+            "year": "1969",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2406870022.jpg",
+            "title": "威武不屈",
+            "release": 1
+        },
+        {
+            "id": 5055841,
+            "year": "1971",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2557136645.jpg",
+            "title": "O'Hara, U.S. Treasury",
+            "release": 1
+        },
+        {
+            "id": 5054722,
+            "year": "1973",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "抉择",
+            "release": 1
+        },
+        {
+            "id": 2265966,
+            "year": "1970",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870021262.jpg",
+            "title": "大情人",
+            "release": 1
+        },
+        {
+            "id": 2134908,
+            "year": "1969",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2594454273.jpg",
+            "title": "原野独行侠",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -129,5 +99,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-17T06:42:20"
+    "update_at": "2025-06-18T23:07:20"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1306166,
+    "sid": "1306166",
     "name": "Chandra Prakash Dwivedi",
     "site": "douban_celebrity",
     "roles": [
@@ -16,48 +16,32 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30469444/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870958155.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "普里色毗罗阇",
-            "subject_id": "30469444"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30451979/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2547035119.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "邻近阿西加特",
-            "subject_id": "30451979"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36482494/",
+            "id": 36482494,
             "year": "2014",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895749554.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "安全级别为Z+",
-            "subject_id": "36482494"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5120579/",
+            "id": 30469444,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870958155.jpg",
+            "title": "普里色毗罗阇",
+            "release": 1
+        },
+        {
+            "id": 30451979,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2547035119.jpg",
+            "title": "邻近阿西加特",
+            "release": 1
+        },
+        {
+            "id": 5120579,
             "year": "2003",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2127906635.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "超越界限",
-            "subject_id": "5120579"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -68,5 +52,5 @@
     "personage_link": "https://www.douban.com/personage/27534445/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T14:21:15"
+    "update_at": "2025-06-19T12:00:10"
 }

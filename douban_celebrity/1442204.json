@@ -1,5 +1,5 @@
 {
-    "sid": 1442204,
+    "sid": "1442204",
     "name": "Talvikki Eerola",
     "site": "douban_celebrity",
     "roles": [
@@ -15,44 +15,32 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30287106/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2585400530.jpg",
-            "roles": [
-                "演员 (饰 Pia Viheriävaara nuorena)"
-            ],
-            "title": "我是芬兰人",
-            "subject_id": "30287106"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27071885/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536826826.jpg",
-            "roles": [
-                "演员 (饰 Liina)"
-            ],
-            "title": "边境城镇 第一季",
-            "subject_id": "27071885"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36720537/",
+            "id": 36720537,
             "year": "2014",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2902984509.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Huhtikuu",
-            "subject_id": "36720537"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5190244/",
+            "id": 30287106,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2585400530.jpg",
+            "title": "我是芬兰人",
+            "release": 1
+        },
+        {
+            "id": 27071885,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536826826.jpg",
+            "title": "边境城镇 第一季",
+            "release": 1
+        },
+        {
+            "id": 5190244,
             "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 (饰 Jonnan fani)"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Sydänjää",
-            "subject_id": "5190244"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -63,5 +51,5 @@
     "personage_link": "https://www.douban.com/personage/35164493/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T02:35:14"
+    "update_at": "2025-06-19T00:28:16"
 }

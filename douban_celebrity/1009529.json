@@ -1,5 +1,5 @@
 {
-    "sid": 1009529,
+    "sid": "1009529",
     "name": "劳拉·玛高丽丝",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "美国,伊利诺伊州,芝加哥",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26756604/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2522222464.jpg",
-            "roles": [
-                "演员 (饰 Rebecca)"
-            ],
-            "title": "救世超能：永无止境",
-            "subject_id": "26756604"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26340114/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2233267483.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "航时凶间",
-            "subject_id": "26340114"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1998136/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2378455452.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "婚事当头",
-            "subject_id": "1998136"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2155520/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p896209088.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "黑金家族 第一季",
-            "subject_id": "2155520"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2155487/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872528907.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "超市总动员",
-            "subject_id": "2155487"
-        },
-        {
-            "url": "https://movie.douban.com/subject/33444973/",
+            "id": 33444973,
             "year": "2006",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2556340895.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "声音",
-            "subject_id": "33444973"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5205964/",
+            "id": 26756604,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2522222464.jpg",
+            "title": "救世超能：永无止境",
+            "release": 1
+        },
+        {
+            "id": 26340114,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2233267483.jpg",
+            "title": "航时凶间",
+            "release": 1
+        },
+        {
+            "id": 5205964,
             "year": "2005",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Autoportrait",
-            "subject_id": "5205964"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1760775/",
+            "id": 5117208,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Another Flush",
+            "release": 1
+        },
+        {
+            "id": 2155520,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p896209088.jpg",
+            "title": "黑金家族 第一季",
+            "release": 1
+        },
+        {
+            "id": 2155487,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872528907.jpg",
+            "title": "超市总动员",
+            "release": 1
+        },
+        {
+            "id": 2134432,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Line of Fire",
+            "release": 1
+        },
+        {
+            "id": 1998136,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2378455452.jpg",
+            "title": "婚事当头",
+            "release": 1
+        },
+        {
+            "id": 1760775,
             "year": "2005",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2375143916.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "恐怖大师 第一季",
-            "subject_id": "1760775"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2134432/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Line of Fire",
-            "subject_id": "2134432"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5117208/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Another Flush",
-            "subject_id": "5117208"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27215220/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T16:28:21"
+    "update_at": "2025-06-19T08:49:20"
 }

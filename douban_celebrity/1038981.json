@@ -1,5 +1,5 @@
 {
-    "sid": 1038981,
+    "sid": "1038981",
     "name": "克劳斯·比尔里",
     "site": "douban_celebrity",
     "roles": [
@@ -17,109 +17,74 @@
     "birth_place": "丹麦,哥本哈根",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26266112/",
+            "id": 26266112,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2212248897.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "一个老爸四个娃之出海大冒险",
-            "subject_id": "26266112"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/10471456/",
+            "id": 10471456,
             "year": "2011",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2331619059.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "一个老爸四个娃之回归自然",
-            "subject_id": "10471456"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4049687/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2865155830.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "一个老爸四个娃之日本体验",
-            "subject_id": "4049687"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3231409/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "一个老爸四个娃2",
-            "subject_id": "3231409"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3231388/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2544613866.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "一个老爸四个娃之永不放弃",
-            "subject_id": "3231388"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3158902/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2513449302.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "一个老爸四个娃",
-            "subject_id": "3158902"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5122463/",
+            "id": 5122463,
             "year": "2003",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2513652203.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "Forsvar",
-            "subject_id": "5122463"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5084111/",
+            "id": 5084111,
             "year": "1998",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Circle of Desire",
-            "subject_id": "5084111"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3233059/",
-            "year": "1995",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "Cirkus Ildebrand",
-            "subject_id": "3233059"
+            "id": 4049687,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2865155830.jpg",
+            "title": "一个老爸四个娃之日本体验",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3251053/",
+            "id": 3251053,
             "year": "1990",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "美术"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Kaj's fødselsdag",
-            "subject_id": "3251053"
+            "release": 1
+        },
+        {
+            "id": 3233059,
+            "year": "1995",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Cirkus Ildebrand",
+            "release": 1
+        },
+        {
+            "id": 3231409,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "一个老爸四个娃2",
+            "release": 1
+        },
+        {
+            "id": 3231388,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2544613866.jpg",
+            "title": "一个老爸四个娃之永不放弃",
+            "release": 1
+        },
+        {
+            "id": 3158902,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2513449302.jpg",
+            "title": "一个老爸四个娃",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -130,5 +95,5 @@
     "personage_link": "https://www.douban.com/personage/27244732/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T01:56:06"
+    "update_at": "2025-06-19T21:14:06"
 }

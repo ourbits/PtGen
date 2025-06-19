@@ -1,5 +1,5 @@
 {
-    "sid": 1254004,
+    "sid": "1254004",
     "name": "凯瑟琳·巴拉维奇",
     "site": "douban_celebrity",
     "roles": [
@@ -16,105 +16,74 @@
     "birth_place": "英国,苏格兰,拉纳克郡",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/6878177/",
+            "id": 6878177,
             "year": "2013",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Le Fear II: Le Sequel",
-            "subject_id": "6878177"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/6878160/",
+            "id": 6878160,
             "year": "2012",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Get Ca$h",
-            "subject_id": "6878160"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/6878100/",
+            "id": 6878100,
             "year": "2011",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员",
-                "编剧"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Prose & Cons",
-            "subject_id": "6878100"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3279100/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "来生多美好",
-            "subject_id": "3279100"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3793822/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Take Us On",
-            "subject_id": "3793822"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2352630/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p475550455.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "谍海风云",
-            "subject_id": "2352630"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3871785/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2163056320.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "路德 第一季",
-            "subject_id": "3871785"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2345594/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Genie In The House",
-            "subject_id": "2345594"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2040095/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885346536.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Puritan 清教徒",
-            "subject_id": "2040095"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5122446/",
+            "id": 5122446,
             "year": "2002",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2546421147.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "River City",
-            "subject_id": "5122446"
+            "release": 1
+        },
+        {
+            "id": 3871785,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2163056320.jpg",
+            "title": "路德 第一季",
+            "release": 1
+        },
+        {
+            "id": 3793822,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Take Us On",
+            "release": 1
+        },
+        {
+            "id": 3279100,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "来生多美好",
+            "release": 1
+        },
+        {
+            "id": 2352630,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p475550455.jpg",
+            "title": "谍海风云",
+            "release": 1
+        },
+        {
+            "id": 2345594,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "屋中精灵",
+            "release": 1
+        },
+        {
+            "id": 2040095,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885346536.jpg",
+            "title": "Puritan 清教徒",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -125,5 +94,5 @@
     "personage_link": "https://www.douban.com/personage/27459997/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T11:00:15"
+    "update_at": "2025-06-19T05:21:14"
 }

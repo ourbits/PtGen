@@ -1,5 +1,5 @@
 {
-    "sid": 1164937,
+    "sid": "1164937",
     "name": "Kelley Limp",
     "site": "douban_celebrity",
     "roles": [
@@ -15,24 +15,18 @@
     "birth_place": "美国,阿肯色州,费耶特维尔",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1923279/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2281843972.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "雪山镇 第一季",
-            "subject_id": "1923279"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2054745/",
+            "id": 2054745,
             "year": "1994",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912893757.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "真实世界之环游地球",
-            "subject_id": "2054745"
+            "release": 1
+        },
+        {
+            "id": 1923279,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2281843972.jpg",
+            "title": "雪山镇 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -46,5 +40,5 @@
         "Kelley Marie Limp (本名)",
         "Mrs. Tauc (昵称)"
     ],
-    "update_at": "2025-01-18T18:07:21"
+    "update_at": "2025-06-19T20:28:18"
 }

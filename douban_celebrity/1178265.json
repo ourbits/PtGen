@@ -1,5 +1,5 @@
 {
-    "sid": 1178265,
+    "sid": "1178265",
     "name": "麦克·斯金纳",
     "site": "douban_celebrity",
     "roles": [
@@ -15,44 +15,32 @@
     "birth_place": "英国,伯明翰",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26791670/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2460492340.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "大世界之旅 第一季",
-            "subject_id": "26791670"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36486810/",
+            "id": 36486810,
             "year": "2014",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911840317.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "炸鸡店约会",
-            "subject_id": "36486810"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5220678/",
+            "id": 26791670,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2460492340.jpg",
+            "title": "大世界之旅 第一季",
+            "release": 1
+        },
+        {
+            "id": 5232125,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The National Music Awards 2003",
+            "release": 1
+        },
+        {
+            "id": 5220678,
             "year": "2005",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2901997653.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "Brit Awards 2005",
-            "subject_id": "5220678"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5232125/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "The National Music Awards 2003",
-            "subject_id": "5232125"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -67,5 +55,5 @@
         "Mike (昵称)",
         "The Streets (昵称)"
     ],
-    "update_at": "2025-01-18T13:42:13"
+    "update_at": "2025-06-19T01:14:05"
 }

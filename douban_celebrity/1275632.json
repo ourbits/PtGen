@@ -1,5 +1,5 @@
 {
-    "sid": 1275632,
+    "sid": "1275632",
     "name": "潘之琳",
     "site": "douban_celebrity",
     "roles": [
@@ -15,124 +15,88 @@
     "birth_place": "中国,上海",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35390203/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2907399731.jpg",
-            "roles": [
-                "演员 (饰 许梦心)"
-            ],
-            "title": "时光正好",
-            "subject_id": "35390203"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36094277/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2907988733.jpg",
-            "roles": [
-                "演员 (饰 欧阳易星)"
-            ],
-            "title": "星星的故乡",
-            "subject_id": "36094277"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35597531/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895799541.jpg",
-            "roles": [
-                "演员 (饰 孟遇椿)"
-            ],
-            "title": "富春山居",
-            "subject_id": "35597531"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35683871/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897009257.jpg",
-            "roles": [
-                "演员 (饰 罗琳)"
-            ],
-            "title": "打开生活的正确方式",
-            "subject_id": "35683871"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35230923/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873823534.jpg",
-            "roles": [
-                "演员 (饰 朱璐曦)"
-            ],
-            "title": "加油！妈妈",
-            "subject_id": "35230923"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27015861/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2702666102.jpg",
-            "roles": [
-                "演员 (饰 牛石艳)"
-            ],
-            "title": "突围",
-            "subject_id": "27015861"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34816468/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2654750394.jpg",
-            "roles": [
-                "演员 (饰 齐奋斗)"
-            ],
-            "title": "美好的日子",
-            "subject_id": "34816468"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35191223/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2646501528.jpg",
-            "roles": [
-                "演员 (饰 杨淑慧)"
-            ],
-            "title": "大浪淘沙",
-            "subject_id": "35191223"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30464621/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2621394147.jpg",
-            "roles": [
-                "演员 (饰 宇文婧)"
-            ],
-            "title": "创业年代",
-            "subject_id": "30464621"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34447318/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2591845603.jpg",
-            "roles": [
-                "演员 (饰 杜笑语)"
-            ],
-            "title": "绿水青山带笑颜",
-            "subject_id": "34447318"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26999583/",
-            "year": "2025",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529185257.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "拼图",
-            "subject_id": "26999583"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36657787/",
+            "id": 36657787,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2901117653.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "以法之名",
-            "subject_id": "36657787"
+            "release": 0
+        },
+        {
+            "id": 36094277,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2907988733.jpg",
+            "title": "星星的故乡",
+            "release": 1
+        },
+        {
+            "id": 35683871,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897009257.jpg",
+            "title": "打开生活的正确方式",
+            "release": 1
+        },
+        {
+            "id": 35597531,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895799541.jpg",
+            "title": "富春山居",
+            "release": 1
+        },
+        {
+            "id": 35390203,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2907399731.jpg",
+            "title": "时光正好",
+            "release": 1
+        },
+        {
+            "id": 35230923,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873823534.jpg",
+            "title": "加油！妈妈",
+            "release": 1
+        },
+        {
+            "id": 35191223,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2646501528.jpg",
+            "title": "大浪淘沙",
+            "release": 1
+        },
+        {
+            "id": 34816468,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2654750394.jpg",
+            "title": "美好的日子",
+            "release": 1
+        },
+        {
+            "id": 34447318,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2591845603.jpg",
+            "title": "绿水青山带笑颜",
+            "release": 1
+        },
+        {
+            "id": 30464621,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2621394147.jpg",
+            "title": "创业年代",
+            "release": 1
+        },
+        {
+            "id": 27015861,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2702666102.jpg",
+            "title": "突围",
+            "release": 1
+        },
+        {
+            "id": 26999583,
+            "year": "2025",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529185257.jpg",
+            "title": "拼图",
+            "release": 0
         }
     ],
     "introduction": "个人资料姓名：潘之琳昵称：之之、之琳、番茄生肖：蛇血型：O型星座： 处女座身高：170cm体重：43.5kg爱好：美食、唱歌、跳舞、电影、音乐、戏剧、聊天、电脑、上网、时尚、塑身、锻炼、旅游、购物学习经历潘之琳(10张)曾读初中：上海市市西初级中学曾读高中：上海市戏剧学院附属高级中学现读： 北京电影学院表演系2008级（全国第二名，女生第一考入） 　　2008 北电表演专业女生的第一名2008-2009 北京电影学院二等奖学金电视剧作品2011年 《风华正茂》饰：陶斯咏（女二号）合作演员：江铠同 王雷2010年 《一不小心爱上你》饰：秦米粒（女二号）合作演员：张翰 丹尼斯·吴 江铠同 乔乔 翁虹 陶慧敏2001年 《忠诚》饰：孙蓓蓓（女配角）合作演员：张国立2000年 《麻辣教师Ⅲ》饰：林友玲（女配角）合作演员：潘延1998年 《老房有喜》饰：小海燕（女配角）合作演员：苏有朋 赵薇1998年 《陈香梅传》饰：陈香梅（童年）（客串）合作演员：萧蔷1998年 《乞丐皇帝朱元璋》饰：徐佩瑶（童年）（客串）合作演员：天心电影作品2011年《将爱情进行到底》饰 文慧手机店客人（客串）出演节目2010.7.08《最佳现场》2011.01.22湖南卫视《快乐大本营》一不小心爱上你剧组",
@@ -143,5 +107,5 @@
     "personage_link": "https://www.douban.com/personage/27503276/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T19:07:09"
+    "update_at": "2025-06-19T03:21:18"
 }

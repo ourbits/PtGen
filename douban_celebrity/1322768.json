@@ -1,5 +1,5 @@
 {
-    "sid": 1322768,
+    "sid": "1322768",
     "name": "花箐",
     "site": "douban_celebrity",
     "roles": [
@@ -17,134 +17,88 @@
     "birth_place": "中国,江苏,淮安",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/33379604/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2884437302.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "信仰",
-            "subject_id": "33379604"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35307435/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2697036125.jpg",
-            "roles": [
-                "导演 - 总导演"
-            ],
-            "title": "八角亭谜雾",
-            "subject_id": "35307435"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26765221/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2659891161.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "海上繁花",
-            "subject_id": "26765221"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27605543/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2524798960.jpg",
-            "roles": [
-                "导演 - 总导演"
-            ],
-            "title": "国宝奇旅",
-            "subject_id": "27605543"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26613382/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2326327280.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "最后一张签证",
-            "subject_id": "26613382"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25840407/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536367684.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "狭路",
-            "subject_id": "25840407"
-        },
-        {
-            "url": "https://movie.douban.com/subject/20395155/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2494118251.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "铁血征途",
-            "subject_id": "20395155"
-        },
-        {
-            "url": "https://movie.douban.com/subject/21348054/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2003147221.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "上阵父子兵",
-            "subject_id": "21348054"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5942170/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1718329678.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "辣椒与泡菜",
-            "subject_id": "5942170"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10558461/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2879179051.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "狭路兄弟",
-            "subject_id": "10558461"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36680601/",
+            "id": 36680601,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909788739.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "轻年",
-            "subject_id": "36680601"
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/35634637/",
+            "id": 36250591,
+            "year": "2025",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2920022670.jpg",
+            "title": "乌云之上",
+            "release": 1
+        },
+        {
+            "id": 35634637,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893798236.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "双食记",
-            "subject_id": "35634637"
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/36250591/",
-            "year": "2025",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895473603.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "乌云之上",
-            "subject_id": "36250591"
+            "id": 35307435,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2697036125.jpg",
+            "title": "八角亭谜雾",
+            "release": 1
+        },
+        {
+            "id": 33379604,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2884437302.jpg",
+            "title": "信仰",
+            "release": 1
+        },
+        {
+            "id": 27605543,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2524798960.jpg",
+            "title": "国宝奇旅",
+            "release": 1
+        },
+        {
+            "id": 26765221,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2659891161.jpg",
+            "title": "海上繁花",
+            "release": 1
+        },
+        {
+            "id": 26613382,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2326327280.jpg",
+            "title": "最后一张签证",
+            "release": 1
+        },
+        {
+            "id": 25840407,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536367684.jpg",
+            "title": "狭路",
+            "release": 1
+        },
+        {
+            "id": 21348054,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2003147221.jpg",
+            "title": "上阵父子兵",
+            "release": 1
+        },
+        {
+            "id": 20395155,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2494118251.jpg",
+            "title": "铁血征途",
+            "release": 1
+        },
+        {
+            "id": 5942170,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1718329678.jpg",
+            "title": "辣椒与泡菜",
+            "release": 1
         }
     ],
     "introduction": "花箐，影视导演、摄影。1989年毕业于北京电影学院摄影系。《我的兄弟叫顺溜》是他的第一部电视剧。",
@@ -157,5 +111,5 @@
     "personage_link": "https://www.douban.com/personage/27567267/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T00:35:17"
+    "update_at": "2025-06-18T23:35:15"
 }

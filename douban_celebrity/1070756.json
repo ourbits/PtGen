@@ -1,5 +1,5 @@
 {
-    "sid": 1070756,
+    "sid": "1070756",
     "name": "Iain Cuthbertson",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "英国,苏格兰,格拉斯哥",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3743061/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1520329562.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "绿洲2008温布利体育馆演唱会",
-            "subject_id": "3743061"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5222270/",
+            "id": 5222270,
             "year": "2003",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Hamlet",
-            "subject_id": "5222270"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1303690/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2336737375.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "成名纽约",
-            "subject_id": "1303690"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5135391/",
+            "id": 5135391,
             "year": "2000",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Brotherly Love",
-            "subject_id": "5135391"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5107327/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872554156.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Tichborne Claimant",
-            "subject_id": "5107327"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2037829/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881535573.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Painted Lady",
-            "subject_id": "2037829"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5111050/",
-            "year": "1995",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2591682173.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Oliver's Travels",
-            "subject_id": "5111050"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5101483/",
-            "year": "1994",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537871596.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Tales of Para Handy",
-            "subject_id": "5101483"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5111753/",
-            "year": "1994",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537871245.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "猎鹿",
-            "subject_id": "5111753"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5130066/",
+            "id": 5130066,
             "year": "1994",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2146940849.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "月亮坪",
-            "subject_id": "5130066"
+            "release": 1
+        },
+        {
+            "id": 5111753,
+            "year": "1994",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537871245.jpg",
+            "title": "猎鹿",
+            "release": 1
+        },
+        {
+            "id": 5111050,
+            "year": "1995",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2591682173.jpg",
+            "title": "Oliver's Travels",
+            "release": 1
+        },
+        {
+            "id": 5107327,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872554156.jpg",
+            "title": "The Tichborne Claimant",
+            "release": 1
+        },
+        {
+            "id": 5101483,
+            "year": "1994",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537871596.jpg",
+            "title": "The Tales of Para Handy",
+            "release": 1
+        },
+        {
+            "id": 3743061,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1520329562.jpg",
+            "title": "绿洲2008温布利体育馆演唱会",
+            "release": 1
+        },
+        {
+            "id": 2037829,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881535573.jpg",
+            "title": "Painted Lady",
+            "release": 1
+        },
+        {
+            "id": 1303690,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2336737375.jpg",
+            "title": "成名纽约",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -130,5 +100,5 @@
     "name_more_other": [
         "Mr. Iain Cuthbertson"
     ],
-    "update_at": "2025-01-18T11:21:12"
+    "update_at": "2025-06-19T20:49:13"
 }

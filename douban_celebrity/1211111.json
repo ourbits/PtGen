@@ -1,5 +1,5 @@
 {
-    "sid": 1211111,
+    "sid": "1211111",
     "name": "Ashley Fairfield",
     "site": "douban_celebrity",
     "roles": [
@@ -15,74 +15,53 @@
     "birth_place": "澳大利亚",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5190362/",
+            "id": 5190362,
             "year": "2009",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2194969516.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "外交官",
-            "subject_id": "5190362"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3347130/",
+            "id": 5184103,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The IF Thing",
+            "release": 1
+        },
+        {
+            "id": 3347130,
             "year": "2009",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2494960905.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "神秘鱼",
-            "subject_id": "3347130"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3282612/",
+            "id": 3282612,
             "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "蜘蛛",
-            "subject_id": "3282612"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1996262/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Two Twisted",
-            "subject_id": "1996262"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5184103/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The IF Thing",
-            "subject_id": "5184103"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1941400/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512323038.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "遥远星际 第一季",
-            "subject_id": "1941400"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2287868/",
+            "id": 2287868,
             "year": "1998",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876419535.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "急诊室的故事(澳洲版)",
-            "subject_id": "2287868"
+            "release": 1
+        },
+        {
+            "id": 1996262,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Two Twisted",
+            "release": 1
+        },
+        {
+            "id": 1941400,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512323038.jpg",
+            "title": "遥远星际 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -96,5 +75,5 @@
         "Ashley Michael Fairfield (本名)",
         "Abbott (昵称)"
     ],
-    "update_at": "2025-01-17T02:49:19"
+    "update_at": "2025-06-19T07:56:19"
 }

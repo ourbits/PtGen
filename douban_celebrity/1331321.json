@@ -1,5 +1,5 @@
 {
-    "sid": 1331321,
+    "sid": "1331321",
     "name": "岑宝儿",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "中国,香港",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5294283/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2540768399.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "心战",
-            "subject_id": "5294283"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6129645/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515282744.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "耀舞长安",
-            "subject_id": "6129645"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5384532/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515284330.jpg",
-            "roles": [
-                "演员 (饰 方丽芬 Ann)"
-            ],
-            "title": "拳王",
-            "subject_id": "5384532"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6514124/",
+            "id": 6514124,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515287602.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "4 in Love",
-            "subject_id": "6514124"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5247088/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2393643624.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "法证先锋3",
-            "subject_id": "5247088"
+            "id": 6129645,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515282744.jpg",
+            "title": "耀舞长安",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5337535/",
+            "id": 5384532,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515284330.jpg",
+            "title": "拳王",
+            "release": 1
+        },
+        {
+            "id": 5337535,
             "year": "2011",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515464982.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "紫禁惊雷",
-            "subject_id": "5337535"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4189360/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515465555.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "隔离七日情",
-            "subject_id": "4189360"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3780327/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2393871322.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "诱情转驳",
-            "subject_id": "3780327"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5316754/",
+            "id": 5316754,
             "year": "2010",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2526668243.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "依家有喜",
-            "subject_id": "5316754"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4046891/",
+            "id": 5294283,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2540768399.jpg",
+            "title": "心战",
+            "release": 1
+        },
+        {
+            "id": 5247088,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2393643624.jpg",
+            "title": "法证先锋3",
+            "release": 1
+        },
+        {
+            "id": 4189360,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515465555.jpg",
+            "title": "隔离七日情",
+            "release": 1
+        },
+        {
+            "id": 4046891,
             "year": "2010",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1407225653.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "刑警",
-            "subject_id": "4046891"
+            "release": 1
+        },
+        {
+            "id": 3780327,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2393871322.jpg",
+            "title": "诱情转驳",
+            "release": 1
         }
     ],
     "introduction": "2000年参加香港小姐竞选后加入无线电视，演过多部电影、电视剧。",
@@ -125,5 +95,5 @@
     "personage_link": "https://www.douban.com/personage/27549059/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T15:56:23"
+    "update_at": "2025-06-19T20:00:12"
 }

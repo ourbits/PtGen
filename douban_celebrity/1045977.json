@@ -1,5 +1,5 @@
 {
-    "sid": 1045977,
+    "sid": "1045977",
     "name": "克劳斯·沃尔曼",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "德国,柏林",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36209279/",
+            "id": 36209279,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2887439989.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Revival69: The Concert That Rocked the World",
-            "subject_id": "36209279"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30393504/",
+            "id": 30393504,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2556126464.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "列侬和洋子：仅限于天空",
-            "subject_id": "30393504"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30345307/",
+            "id": 30345307,
             "year": "2010",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536380743.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Mando Diao: MTV不插电现场",
-            "subject_id": "30345307"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5210581/",
+            "id": 5210581,
             "year": "2005",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875546599.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "与乔治·哈里森和朋友们重温孟加拉音乐会",
-            "subject_id": "5210581"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1456839/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2514989905.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "乔治·哈里森纪念演唱会",
-            "subject_id": "1456839"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3296369/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2555645896.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "John Lennon and the Plastic Ono Band: Sweet Toronto",
-            "subject_id": "3296369"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1441479/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1848836257.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "约翰·列侬的理想世界",
-            "subject_id": "1441479"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3069498/",
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542469946.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "白色明星",
-            "subject_id": "3069498"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1297275/",
-            "year": "1980",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2228734687.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "大力水手",
-            "subject_id": "1297275"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5054275/",
+            "id": 5054275,
             "year": "1974",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2427428567.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "德古拉之子",
-            "subject_id": "5054275"
+            "release": 1
+        },
+        {
+            "id": 3296369,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2555645896.jpg",
+            "title": "John Lennon and the Plastic Ono Band: Sweet Toronto",
+            "release": 1
+        },
+        {
+            "id": 3069498,
+            "year": "1985",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542469946.jpg",
+            "title": "白色明星",
+            "release": 1
+        },
+        {
+            "id": 1456839,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2514989905.jpg",
+            "title": "乔治·哈里森纪念演唱会",
+            "release": 1
+        },
+        {
+            "id": 1441479,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1848836257.jpg",
+            "title": "约翰·列侬的理想世界",
+            "release": 1
+        },
+        {
+            "id": 1297275,
+            "year": "1980",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2228734687.jpg",
+            "title": "大力水手",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27251735/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T05:07:10"
+    "update_at": "2025-06-19T17:28:19"
 }

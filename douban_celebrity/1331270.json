@@ -1,5 +1,5 @@
 {
-    "sid": 1331270,
+    "sid": "1331270",
     "name": "卢克奥尔布赖特",
     "site": "douban_celebrity",
     "roles": [
@@ -16,64 +16,46 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35590609/",
+            "id": 35590609,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873413133.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "假偶成真",
-            "subject_id": "35590609"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/25855834/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Sweat",
-            "subject_id": "25855834"
-        },
-        {
-            "url": "https://movie.douban.com/subject/24289477/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1942959268.jpg",
-            "roles": [
-                "演员 (饰 John Patrick)"
-            ],
-            "title": "迪亚特洛夫事件",
-            "subject_id": "24289477"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6759152/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "Lost in the crowd",
-            "subject_id": "6759152"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26816632/",
+            "id": 26816632,
             "year": "2011",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359543146.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "掠夺者",
-            "subject_id": "26816632"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3011355/",
+            "id": 25855834,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Sweat",
+            "release": 1
+        },
+        {
+            "id": 24289477,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1942959268.jpg",
+            "title": "迪亚特洛夫事件",
+            "release": 1
+        },
+        {
+            "id": 6759152,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Lost in the crowd",
+            "release": 1
+        },
+        {
+            "id": 3011355,
             "year": "2009",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2632094174.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "12回合",
-            "subject_id": "3011355"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -84,5 +66,5 @@
     "personage_link": "https://www.douban.com/personage/27571962/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T00:28:28"
+    "update_at": "2025-06-19T17:56:13"
 }

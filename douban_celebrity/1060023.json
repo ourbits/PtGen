@@ -1,5 +1,5 @@
 {
-    "sid": 1060023,
+    "sid": "1060023",
     "name": "Eloy Arenas",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "西班牙,阿利坎特",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/27078280/",
+            "id": 27078280,
             "year": "2010",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
             "title": "Impares premium",
-            "subject_id": "27078280"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3094580/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2444748574.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "极限空间",
-            "subject_id": "3094580"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5210837/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Con dos tacones",
-            "subject_id": "5210837"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3242718/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2504928527.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Desde que amanece apetece",
-            "subject_id": "3242718"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3075426/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Raluy, una noche en el circo",
-            "subject_id": "3075426"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5236630/",
+            "id": 5236630,
             "year": "1999",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Noche de fiesta",
-            "subject_id": "5236630"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5090206/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2633570547.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "圣费尔南多警局",
-            "subject_id": "5090206"
+            "id": 5236158,
+            "year": "1993",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "埃尔米达和公司",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5125002/",
+            "id": 5210837,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Con dos tacones",
+            "release": 1
+        },
+        {
+            "id": 5125002,
             "year": "1993",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529592003.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Los ladrones van a la oficina",
-            "subject_id": "5125002"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5236158/",
-            "year": "1993",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "埃尔米达和公司",
-            "subject_id": "5236158"
+            "id": 5090206,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2633570547.jpg",
+            "title": "圣费尔南多警局",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3445700/",
+            "id": 3445700,
             "year": "1991",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895226733.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "值班药房的故事",
-            "subject_id": "3445700"
+            "release": 1
+        },
+        {
+            "id": 3242718,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2504928527.jpg",
+            "title": "Desde que amanece apetece",
+            "release": 1
+        },
+        {
+            "id": 3094580,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2444748574.jpg",
+            "title": "极限空间",
+            "release": 1
+        },
+        {
+            "id": 3075426,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Raluy, una noche en el circo",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -125,5 +95,5 @@
     "name_more_other": [
         "Arenas y Cal"
     ],
-    "update_at": "2025-01-18T10:28:21"
+    "update_at": "2025-06-19T01:00:21"
 }

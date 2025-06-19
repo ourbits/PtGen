@@ -1,5 +1,5 @@
 {
-    "sid": 1354415,
+    "sid": "1354415",
     "name": "文森特·凯斯特鲁特",
     "site": "douban_celebrity",
     "roles": [
@@ -16,45 +16,32 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30256796/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2566480237.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "女王的柯基",
-            "subject_id": "30256796"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26721478/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2384412081.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "鲁滨逊漂流记",
-            "subject_id": "26721478"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10540210/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2009535643.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "萨米大冒险2",
-            "subject_id": "10540210"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36801648/",
+            "id": 36801648,
             "year": "2026",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905387740.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "The Fly­ing Man’s Prophecy",
-            "subject_id": "36801648"
+            "release": 0
+        },
+        {
+            "id": 30256796,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2566480237.jpg",
+            "title": "女王的柯基",
+            "release": 1
+        },
+        {
+            "id": 26721478,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2384412081.jpg",
+            "title": "鲁滨逊漂流记",
+            "release": 1
+        },
+        {
+            "id": 10540210,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2009535643.jpg",
+            "title": "萨米大冒险2",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -65,5 +52,5 @@
     "personage_link": "https://www.douban.com/personage/27575567/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T03:07:20"
+    "update_at": "2025-06-19T18:35:09"
 }

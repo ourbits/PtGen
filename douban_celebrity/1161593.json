@@ -1,5 +1,5 @@
 {
-    "sid": 1161593,
+    "sid": "1161593",
     "name": "米奇斯瓦夫·福伊特",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "波兰,卡利什",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5203043/",
-            "year": "1992",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "黑色太陽",
-            "subject_id": "5203043"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5114758/",
-            "year": "1989",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2777761923.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Alchemik",
-            "subject_id": "5114758"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5114252/",
-            "year": "1989",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2139486164.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "恐惧的状态",
-            "subject_id": "5114252"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5188131/",
-            "year": "1989",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Serenite",
-            "subject_id": "5188131"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5232474/",
+            "id": 5232474,
             "year": "1988",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "W labiryncie",
-            "subject_id": "5232474"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4897807/",
-            "year": "1987",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2630009761.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "斯坦尼斯劳和安娜",
-            "subject_id": "4897807"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3251030/",
-            "year": "1987",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2901535941.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Komediantka",
-            "subject_id": "3251030"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5049089/",
-            "year": "1984",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876040491.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "苔依丝",
-            "subject_id": "5049089"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5229443/",
+            "id": 5229443,
             "year": "1984",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2902704123.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Hania",
-            "subject_id": "5229443"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5050123/",
+            "id": 5203043,
+            "year": "1992",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "黑色太陽",
+            "release": 1
+        },
+        {
+            "id": 5188131,
+            "year": "1989",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Serenite",
+            "release": 1
+        },
+        {
+            "id": 5114758,
+            "year": "1989",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2777761923.jpg",
+            "title": "Alchemik",
+            "release": 1
+        },
+        {
+            "id": 5114252,
+            "year": "1989",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2139486164.jpg",
+            "title": "恐惧的状态",
+            "release": 1
+        },
+        {
+            "id": 5050123,
             "year": "1983",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2896364000.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Alternatywy 4",
-            "subject_id": "5050123"
+            "release": 1
+        },
+        {
+            "id": 5049089,
+            "year": "1984",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876040491.jpg",
+            "title": "苔依丝",
+            "release": 1
+        },
+        {
+            "id": 4897807,
+            "year": "1987",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2630009761.jpg",
+            "title": "斯坦尼斯劳和安娜",
+            "release": 1
+        },
+        {
+            "id": 3251030,
+            "year": "1987",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2901535941.jpg",
+            "title": "Komediantka",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -128,5 +98,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-18T11:07:22"
+    "update_at": "2025-06-19T15:49:22"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1096119,
+    "sid": "1096119",
     "name": "Geoff Herod",
     "site": "douban_celebrity",
     "roles": [
@@ -15,44 +15,32 @@
     "birth_place": "加拿大,新斯科舍省,哈利法克斯",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1452015/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518016199.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "珍贵的礼物",
-            "subject_id": "1452015"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1456616/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2874463302.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "第四期计划",
-            "subject_id": "1456616"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1293483/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2504525913.jpg",
-            "roles": [
-                "演员 (饰 Brad)"
-            ],
-            "title": "长岛爱与死",
-            "subject_id": "1293483"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1892452/",
+            "id": 1892452,
             "year": "1997",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2131282451.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "暗域魔舰 第一季",
-            "subject_id": "1892452"
+            "release": 1
+        },
+        {
+            "id": 1456616,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2874463302.jpg",
+            "title": "第四期计划",
+            "release": 1
+        },
+        {
+            "id": 1452015,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518016199.jpg",
+            "title": "珍贵的礼物",
+            "release": 1
+        },
+        {
+            "id": 1293483,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2504525913.jpg",
+            "title": "长岛爱与死",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -65,5 +53,5 @@
     "name_more_other": [
         "Geoffrey Herod"
     ],
-    "update_at": "2025-01-17T14:35:27"
+    "update_at": "2025-06-19T06:21:18"
 }

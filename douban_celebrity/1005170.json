@@ -1,5 +1,5 @@
 {
-    "sid": 1005170,
+    "sid": "1005170",
     "name": "安吉拉·罗宾森",
     "site": "douban_celebrity",
     "roles": [
@@ -17,121 +17,81 @@
     "birth_place": "美国,加利福尼亚州,旧金山",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35510783/",
+            "id": 35510783,
             "year": "2022",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "编剧"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
             "title": "上都夫人",
-            "subject_id": "35510783"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26965165/",
+            "id": 34971830,
+            "year": "2025",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Untitled Supernatural Teen Thriller",
+            "release": 0
+        },
+        {
+            "id": 26965165,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2502244869.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "马斯顿教授与神奇女侠",
-            "subject_id": "26965165"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5159954/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2153562202.jpg",
-            "roles": [
-                "制片人",
-                "编剧"
-            ],
-            "title": "彻夜疯歌",
-            "subject_id": "5159954"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3006814/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "制片人",
-                "编剧"
-            ],
-            "title": "Jenbot",
-            "subject_id": "3006814"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5395343/",
+            "id": 5395343,
             "year": "2011",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1116318287.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "霹雳娇娃 ",
-            "subject_id": "5395343"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4014433/",
+            "id": 5159954,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2153562202.jpg",
+            "title": "彻夜疯歌",
+            "release": 1
+        },
+        {
+            "id": 4014433,
             "year": "2010",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "导演"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
             "title": "Gigantic",
-            "subject_id": "4014433"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3345351/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2209117586.jpg",
-            "roles": [
-                "制片人",
-                "编剧"
-            ],
-            "title": "大器晚成 第一季",
-            "subject_id": "3345351"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3676748/",
+            "id": 3676748,
             "year": "2008",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912471965.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "拉字至上  第五季",
-            "subject_id": "3676748"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3601142/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "制片人",
-                "编剧"
-            ],
-            "title": "Girltrash!",
-            "subject_id": "3601142"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3676719/",
+            "id": 3676719,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912471912.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "拉字至上  第四季",
-            "subject_id": "3676719"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34971830/",
-            "year": "2025",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "编剧"
-            ],
-            "title": "Untitled Supernatural Teen Thriller",
-            "subject_id": "34971830"
+            "id": 3601142,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Girltrash!",
+            "release": 1
+        },
+        {
+            "id": 3345351,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2209117586.jpg",
+            "title": "大器晚成 第一季",
+            "release": 1
+        },
+        {
+            "id": 3006814,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Jenbot",
+            "release": 1
         }
     ],
     "introduction": "Angela Robinson (born February 14, 1971) is an American film and television director, screenwriter and producer.Robinson frequently deals with gay and lesbian topics in her films. She directed the short film D.E.B.S. (2003), produced by POWER UP, and directed a feature-length adaptaion of D.E.B.S. (2004).In 2007, Robinson created the online series Girltrash! for OurChart, a social networking website aimed primarily at lesbians.[1] Robinson has served as a writer and co-executive producer for the HBO television series Hung,[2] and as a writer for the series True Blood.[3] In addition to her film and TV work, Robinson also wrote the first four issues of the Web ongoing series at DC Comics. Robinson wrote the screenplay for a musical feature film and prequel to her Girltrash! series, Girltrash: All Night Long directed by Alexandra Kondracke.[4] Robinson was also one of the producers for the film. In March 2012, it was announced that Robinson would write a supernatural teen thriller with Dawn Olmstead (of Prison Break) and Marti Noxon (of Mad Men) attached as producers",
@@ -144,5 +104,5 @@
     "personage_link": "https://www.douban.com/personage/27210861/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T15:42:23"
+    "update_at": "2025-06-19T00:56:05"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1288349,
+    "sid": "1288349",
     "name": "Mary Ann Kellogg",
     "site": "douban_celebrity",
     "roles": [
@@ -17,45 +17,32 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5174082/",
+            "id": 5174082,
             "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Abuelo",
-            "subject_id": "5174082"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1293645/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2886092359.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "舞翻天",
-            "subject_id": "1293645"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1301729/",
+            "id": 1301729,
             "year": "1988",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2874593984.jpg",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2921929272.jpg",
             "title": "衰鬼宝贝",
-            "subject_id": "1301729"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1294125/",
+            "id": 1294125,
             "year": "1976",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1734010154.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "朱唇劫",
-            "subject_id": "1294125"
+            "release": 1
+        },
+        {
+            "id": 1293645,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2886092359.jpg",
+            "title": "舞翻天",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -66,5 +53,5 @@
     "personage_link": "https://www.douban.com/personage/27516628/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T00:56:21"
+    "update_at": "2025-06-19T02:07:06"
 }

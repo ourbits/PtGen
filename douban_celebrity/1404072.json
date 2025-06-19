@@ -1,5 +1,5 @@
 {
-    "sid": 1404072,
+    "sid": "1404072",
     "name": "Wong Chung",
     "site": "douban_celebrity",
     "roles": [
@@ -15,34 +15,25 @@
     "birth_place": "美国,加州,旧金山",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1292584/",
-            "year": "1947",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p900360009.jpg",
-            "roles": [
-                "演员 (饰 李)"
-            ],
-            "title": "上海小姐",
-            "subject_id": "1292584"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1293996/",
-            "year": "1932",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2196092879.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "上海快车",
-            "subject_id": "1293996"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4846061/",
+            "id": 4846061,
             "year": "1930",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2315503134.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "潜艇遇险记",
-            "subject_id": "4846061"
+            "release": 1
+        },
+        {
+            "id": 1293996,
+            "year": "1932",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2196092879.jpg",
+            "title": "上海快车",
+            "release": 1
+        },
+        {
+            "id": 1292584,
+            "year": "1947",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p900360009.jpg",
+            "title": "上海小姐",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -58,5 +49,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-18T11:14:06"
+    "update_at": "2025-06-19T22:49:14"
 }

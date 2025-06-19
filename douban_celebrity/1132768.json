@@ -1,5 +1,5 @@
 {
-    "sid": 1132768,
+    "sid": "1132768",
     "name": "Eddie Parks",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "美国,纽约",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5051397/",
-            "year": "1980",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635514148.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "信者得救",
-            "subject_id": "5051397"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1779544/",
-            "year": "1957",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2400934301.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "四十支枪",
-            "subject_id": "1779544"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5061653/",
-            "year": "1956",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2297937973.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Gale Storm Show",
-            "subject_id": "5061653"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1297522/",
-            "year": "1953",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1842370729.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "恐怖蜡像馆",
-            "subject_id": "1297522"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4069844/",
-            "year": "1952",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359305256.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "糊涂拍档",
-            "subject_id": "4069844"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4199290/",
-            "year": "1952",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2903846810.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Abbott and Costello Show",
-            "subject_id": "4199290"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1303874/",
-            "year": "1952",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512052016.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "檀郎添福",
-            "subject_id": "1303874"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5065860/",
-            "year": "1951",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Cuban Fireball",
-            "subject_id": "5065860"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5065627/",
-            "year": "1951",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2524658351.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "边蛮喋血",
-            "subject_id": "5065627"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5065897/",
+            "id": 5065897,
             "year": "1951",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2196246405.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "喋血银城",
-            "subject_id": "5065897"
+            "release": 1
+        },
+        {
+            "id": 5065860,
+            "year": "1951",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Cuban Fireball",
+            "release": 1
+        },
+        {
+            "id": 5065627,
+            "year": "1951",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2524658351.jpg",
+            "title": "边蛮喋血",
+            "release": 1
+        },
+        {
+            "id": 5061653,
+            "year": "1956",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2297937973.jpg",
+            "title": "The Gale Storm Show",
+            "release": 1
+        },
+        {
+            "id": 5051397,
+            "year": "1980",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635514148.jpg",
+            "title": "信者得救",
+            "release": 1
+        },
+        {
+            "id": 4199290,
+            "year": "1952",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2903846810.jpg",
+            "title": "The Abbott and Costello Show",
+            "release": 1
+        },
+        {
+            "id": 4069844,
+            "year": "1952",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359305256.jpg",
+            "title": "糊涂拍档",
+            "release": 1
+        },
+        {
+            "id": 1779544,
+            "year": "1957",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2400934301.jpg",
+            "title": "四十支枪",
+            "release": 1
+        },
+        {
+            "id": 1303874,
+            "year": "1952",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512052016.jpg",
+            "title": "檀郎添福",
+            "release": 1
+        },
+        {
+            "id": 1297522,
+            "year": "1953",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1842370729.jpg",
+            "title": "恐怖蜡像馆",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -130,5 +100,5 @@
     "name_more_other": [
         "Eddie Parkes"
     ],
-    "update_at": "2025-01-17T21:00:19"
+    "update_at": "2025-06-19T08:21:20"
 }

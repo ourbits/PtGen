@@ -1,5 +1,5 @@
 {
-    "sid": 1000278,
+    "sid": "1000278",
     "name": "小罗伯特·沃克",
     "site": "douban_celebrity",
     "roles": [
@@ -17,104 +17,74 @@
     "birth_place": "美国,纽约",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3925835/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2681862293.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "《火车怪客》：希区柯克经典名作",
-            "subject_id": "3925835"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5113256/",
-            "year": "1990",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2360942509.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "致命魅力",
-            "subject_id": "5113256"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5115514/",
-            "year": "1989",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Dragnet",
-            "subject_id": "5115514"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5047113/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875974227.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "恶夜追缉令",
-            "subject_id": "5047113"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5322577/",
+            "id": 5322577,
             "year": "1987",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2592060848.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "邪恶小镇",
-            "subject_id": "5322577"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2039687/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2505399196.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "洛城法网 第一季",
-            "subject_id": "2039687"
+            "id": 5115514,
+            "year": "1989",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Dragnet",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5049514/",
+            "id": 5113256,
+            "year": "1990",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2360942509.jpg",
+            "title": "致命魅力",
+            "release": 1
+        },
+        {
+            "id": 5050803,
+            "year": "1983",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2684327782.jpg",
+            "title": "奥利维娅",
+            "release": 1
+        },
+        {
+            "id": 5049514,
             "year": "1984",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2533989519.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "激流",
-            "subject_id": "5049514"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5050803/",
-            "year": "1983",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2626916607.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "奥利维娅",
-            "subject_id": "5050803"
+            "id": 5047113,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875974227.jpg",
+            "title": "恶夜追缉令",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4204897/",
+            "id": 4204897,
             "year": "1983",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885347523.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "打造男模",
-            "subject_id": "4204897"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1298796/",
+            "id": 3925835,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2681862293.jpg",
+            "title": "《火车怪客》：希区柯克经典名作",
+            "release": 1
+        },
+        {
+            "id": 2039687,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2505399196.jpg",
+            "title": "洛城法网 第一季",
+            "release": 1
+        },
+        {
+            "id": 1298796,
             "year": "1983",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2528854655.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "乡村惊魂",
-            "subject_id": "1298796"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -135,5 +105,5 @@
     "name_more_other": [
         "Bobby Junior (昵称)"
     ],
-    "update_at": "2025-01-18T14:14:12"
+    "update_at": "2025-06-19T11:42:21"
 }

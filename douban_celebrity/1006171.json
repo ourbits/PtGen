@@ -1,5 +1,5 @@
 {
-    "sid": 1006171,
+    "sid": "1006171",
     "name": "谢宛谕",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "新加坡",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26786642/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2540295055.jpg",
-            "roles": [
-                "演员 (饰 Kitty Pong)"
-            ],
-            "title": "摘金奇缘",
-            "subject_id": "26786642"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10428498/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2157160007.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "金童玉女",
-            "subject_id": "10428498"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10730048/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2321268914.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "龙拳",
-            "subject_id": "10730048"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5268636/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2896432426.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "鬼马家族",
-            "subject_id": "5268636"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36490103/",
+            "id": 36490103,
             "year": "2009",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895998491.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "当公主遇上王子",
-            "subject_id": "36490103"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27120348/",
+            "id": 27120348,
             "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
             "title": "Serves You Right!",
-            "subject_id": "27120348"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3369177/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2609209047.jpg",
-            "roles": [
-                "演员 (饰 林秀明)"
-            ],
-            "title": "一房半厅一水缸",
-            "subject_id": "3369177"
+            "id": 26786642,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2540295055.jpg",
+            "title": "摘金奇缘",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2027923/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2097812468.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "第一诫",
-            "subject_id": "2027923"
+            "id": 10730048,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2321268914.jpg",
+            "title": "龙拳",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3304016/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2607166211.jpg",
-            "roles": [
-                "演员 (饰 嫦娥)"
-            ],
-            "title": "凡间新仙人",
-            "subject_id": "3304016"
+            "id": 10428498,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2157160007.jpg",
+            "title": "金童玉女",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3904352/",
+            "id": 5268636,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2896432426.jpg",
+            "title": "鬼马家族",
+            "release": 1
+        },
+        {
+            "id": 3904352,
             "year": "2006",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2892315680.jpg",
-            "roles": [
-                "演员 (饰 张美雅)"
-            ],
             "title": "钻石情缘",
-            "subject_id": "3904352"
+            "release": 1
+        },
+        {
+            "id": 3369177,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2609209047.jpg",
+            "title": "一房半厅一水缸",
+            "release": 1
+        },
+        {
+            "id": 3304016,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2607166211.jpg",
+            "title": "凡间新仙人",
+            "release": 1
+        },
+        {
+            "id": 2027923,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2097812468.jpg",
+            "title": "第一诫",
+            "release": 1
         }
     ],
     "introduction": "谢宛谕（英文名：Fiona Xie，1982年1月24日生），新加坡华人女明星，在新加坡和其他6位当红女明星被称作“新传媒七公主”，有性感宝贝的美誉。平面模特儿出身，2000年凭5频道长寿剧《成长水月》中的护士一角，获得肯定而进入演艺界。，以新人姿态创下了纪录，成了当年入围最多奖项的女艺人。",
@@ -125,5 +95,5 @@
     "name_more_other": [
         "Fiona Xie Wan Yu (本名)"
     ],
-    "update_at": "2025-01-18T12:00:07"
+    "update_at": "2025-06-19T05:42:13"
 }

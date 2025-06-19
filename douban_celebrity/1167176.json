@@ -1,5 +1,5 @@
 {
-    "sid": 1167176,
+    "sid": "1167176",
     "name": "Mateo Meléndrez",
     "site": "douban_celebrity",
     "roles": [
@@ -16,45 +16,32 @@
     "birth_place": "西班牙,加利西亚,一个拉科鲁尼亚,拉科鲁尼亚",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3292131/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2551993816.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "Acusados",
-            "subject_id": "3292131"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4720479/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509712100.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "无胸无天堂 第一季",
-            "subject_id": "4720479"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5090206/",
+            "id": 5090206,
             "year": "1999",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2633570547.jpg",
-            "roles": [
-                "导演",
-                "剪辑"
-            ],
             "title": "圣费尔南多警局",
-            "subject_id": "5090206"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5086557/",
+            "id": 5086557,
             "year": "1996",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "A Familia Pita",
-            "subject_id": "5086557"
+            "release": 1
+        },
+        {
+            "id": 4720479,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509712100.jpg",
+            "title": "无胸无天堂 第一季",
+            "release": 1
+        },
+        {
+            "id": 3292131,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2551993816.jpg",
+            "title": "Acusados",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -67,5 +54,5 @@
     "name_more_other": [
         "Mateo Meléndrez Chas (本名)"
     ],
-    "update_at": "2025-01-18T17:56:11"
+    "update_at": "2025-06-19T02:14:10"
 }

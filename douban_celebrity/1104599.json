@@ -1,5 +1,5 @@
 {
-    "sid": 1104599,
+    "sid": "1104599",
     "name": "萨姆·琼斯",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "美国,伊利诺伊州,芝加哥",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36915429/",
+            "id": 36915429,
             "year": "2024",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Surge of Power: Where There's Smoke",
-            "subject_id": "36915429"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35181099/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2617508401.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "罗斯威尔 集体疯狂",
-            "subject_id": "35181099"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34960014/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2583400838.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "寻找明日",
-            "subject_id": "34960014"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35165090/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Amsel: Illustrator of the Lost Art",
-            "subject_id": "35165090"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35138043/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2613812459.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Decapitarium",
-            "subject_id": "35138043"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35025478/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2595209287.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "时空穿梭",
-            "subject_id": "35025478"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34909329/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2576211644.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "爱上好女孩",
-            "subject_id": "34909329"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35437850/",
+            "id": 35437850,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2641401390.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "红，白，醉醺醺",
-            "subject_id": "35437850"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30231875/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876403729.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "狂怒神拳金羊毛",
-            "subject_id": "30231875"
+            "id": 35181099,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2617508401.jpg",
+            "title": "罗斯威尔 集体疯狂",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30488683/",
+            "id": 35165090,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Amsel: Illustrator of the Lost Art",
+            "release": 1
+        },
+        {
+            "id": 35138043,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2613812459.jpg",
+            "title": "Decapitarium",
+            "release": 1
+        },
+        {
+            "id": 35025478,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2595209287.jpg",
+            "title": "时空穿梭",
+            "release": 1
+        },
+        {
+            "id": 34960014,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875729251.jpg",
+            "title": "寻找明日",
+            "release": 1
+        },
+        {
+            "id": 34909329,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2576211644.jpg",
+            "title": "爱上好女孩",
+            "release": 1
+        },
+        {
+            "id": 30488683,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2550646336.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "飞侠后的生活",
-            "subject_id": "30488683"
+            "release": 1
+        },
+        {
+            "id": 30231875,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876403729.jpg",
+            "title": "狂怒神拳金羊毛",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -126,5 +96,5 @@
     "name_more_other": [
         "Samuel Gerald Jones (本名)"
     ],
-    "update_at": "2025-01-18T04:28:09"
+    "update_at": "2025-06-19T18:49:16"
 }

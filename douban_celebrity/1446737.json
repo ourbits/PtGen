@@ -1,12 +1,12 @@
 {
-    "sid": 1446737,
+    "sid": "1446737",
     "name": "文胜雅",
     "site": "douban_celebrity",
     "roles": [
         "演员"
     ],
     "awards": [
-        "2024年 第60届百想艺术大赏 电影类 最佳新人女演员 (提名) 秘密之丘"
+        "2024年 第60届百想艺术大赏 最佳新人女演员 (提名) 秘密之丘"
     ],
     "gender": "女",
     "poster": "https://img1.doubanio.com/view/celebrity/m/public/p1604544443.63.jpg",
@@ -17,44 +17,32 @@
     "birth_place": "韩国",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/34963356/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897238625.jpg",
-            "roles": [
-                "演员 (饰 Young Nora)"
-            ],
-            "title": "过往人生",
-            "subject_id": "34963356"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35740348/",
+            "id": 35740348,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2856619697.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "秘密之丘",
-            "subject_id": "35740348"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/33591810/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2621016058.jpg",
-            "roles": [
-                "演员 (饰 裴楚熙)"
-            ],
-            "title": "无声",
-            "subject_id": "33591810"
+            "id": 34963356,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897238625.jpg",
+            "title": "过往人生",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/33719809/",
+            "id": 33719809,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2782577664.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "四散的夜",
-            "subject_id": "33719809"
+            "release": 1
+        },
+        {
+            "id": 33591810,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2621016058.jpg",
+            "title": "无声",
+            "release": 1
         }
     ],
     "introduction": "韩国儿役演员",
@@ -69,5 +57,5 @@
     "name_more_other": [
         "문승아"
     ],
-    "update_at": "2025-01-18T03:49:05"
+    "update_at": "2025-06-19T12:21:11"
 }

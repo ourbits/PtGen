@@ -1,5 +1,5 @@
 {
-    "sid": 1032149,
+    "sid": "1032149",
     "name": "塔姆辛·格雷格",
     "site": "douban_celebrity",
     "roles": [
@@ -17,124 +17,88 @@
     "birth_place": "英国,梅德斯通",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36713233/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904157055.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "迪克·特平完全虚构的冒险 第一季",
-            "subject_id": "36713233"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35943701/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2903069378.jpg",
-            "roles": [
-                "演员 (饰 Cecilia)"
-            ],
-            "title": "性感野兽",
-            "subject_id": "35943701"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36219822/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2887456564.jpg",
-            "roles": [
-                "演员 (饰 Nancy)"
-            ],
-            "title": "我的幸福终站",
-            "subject_id": "36219822"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35557604/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2824260417.jpg",
-            "roles": [
-                "演员 (饰 Mrs. Wickens)"
-            ],
-            "title": "神奇的布兰登先生",
-            "subject_id": "35557604"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35305704/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2677864683.jpg",
-            "roles": [
-                "演员 (饰 Lady Capulet)"
-            ],
-            "title": "罗密欧与朱丽叶",
-            "subject_id": "35305704"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35480569/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Friday Night Dinner: 10 Years and a Lovely Bit of Squirrel",
-            "subject_id": "35480569"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35049287/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2610784934.jpg",
-            "roles": [
-                "演员 (饰 Rosemary)"
-            ],
-            "title": "新喋喋人生",
-            "subject_id": "35049287"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26701184/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2587170845.jpg",
-            "roles": [
-                "演员 (饰 Anne Trenchard)"
-            ],
-            "title": "贝尔戈维亚",
-            "subject_id": "26701184"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34771470/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2579117390.jpg",
-            "roles": [
-                "演员 - 配音 (配 妈妈)"
-            ],
-            "title": "老虎来喝下午茶",
-            "subject_id": "34771470"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30346663/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2622366341.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "巴格诺德的夏日",
-            "subject_id": "30346663"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36809698/",
+            "id": 36809698,
             "year": "2028",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2917403948.jpg",
-            "roles": [
-                "演员 (饰 Holly)"
-            ],
             "title": "反叛女人",
-            "subject_id": "36809698"
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/36650063/",
+            "id": 36713233,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904157055.jpg",
+            "title": "迪克·特平完全虚构的冒险 第一季",
+            "release": 1
+        },
+        {
+            "id": 36650063,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2916926562.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "嫌疑人 第二季",
-            "subject_id": "36650063"
+            "release": 0
+        },
+        {
+            "id": 36219822,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2887456564.jpg",
+            "title": "我的幸福终站",
+            "release": 1
+        },
+        {
+            "id": 35943701,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2903069378.jpg",
+            "title": "性感野兽",
+            "release": 1
+        },
+        {
+            "id": 35557604,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2824260417.jpg",
+            "title": "神奇的布兰登先生",
+            "release": 1
+        },
+        {
+            "id": 35480569,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Friday Night Dinner: 10 Years and a Lovely Bit of Squirrel",
+            "release": 1
+        },
+        {
+            "id": 35305704,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2677864683.jpg",
+            "title": "罗密欧与朱丽叶",
+            "release": 1
+        },
+        {
+            "id": 35049287,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2610784934.jpg",
+            "title": "新喋喋人生",
+            "release": 1
+        },
+        {
+            "id": 34771470,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2579117390.jpg",
+            "title": "老虎来喝下午茶",
+            "release": 1
+        },
+        {
+            "id": 30346663,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2622366341.jpg",
+            "title": "巴格诺德的夏日",
+            "release": 1
+        },
+        {
+            "id": 26701184,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2587170845.jpg",
+            "title": "贝尔戈维亚",
+            "release": 1
         }
     ],
     "introduction": "Tamsin Greig(born 12 July 1966)is an English actress principally known for two Channel 4 television comedy parts: Fran Katzenjammer in Black Books and Dr. Caroline Todd in Green Wing. Other notable roles include Alice Chenery in BBC One's comedy drama Love Soup, Debbie Aldridge in BBC Radio 4's soap opera The Archers, Miss Bates in the 2009 BBC version of Jane Austen's Emma, Beverly Lincoln in transatlantic sitcom Episodes and Jackie in the Channel 4 sitcom Friday Night Dinner.",
@@ -149,5 +113,5 @@
     "name_more_other": [
         "Tasmin Greig"
     ],
-    "update_at": "2025-01-17T06:21:06"
+    "update_at": "2025-06-19T02:56:26"
 }

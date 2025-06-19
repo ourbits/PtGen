@@ -1,5 +1,5 @@
 {
-    "sid": 1268611,
+    "sid": "1268611",
     "name": "TJ Williams",
     "site": "douban_celebrity",
     "roles": [
@@ -15,34 +15,25 @@
     "birth_place": "美国,康涅狄格州",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3217138/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Co-Op of the Damned",
-            "subject_id": "3217138"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3671858/",
+            "id": 3671858,
             "year": "2008",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2877640753.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "爱在舞动",
-            "subject_id": "3671858"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3011588/",
+            "id": 3217138,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Co-Op of the Damned",
+            "release": 1
+        },
+        {
+            "id": 3011588,
             "year": "2008",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870409458.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "阴谋",
-            "subject_id": "3011588"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -53,5 +44,5 @@
     "personage_link": "https://www.douban.com/personage/27474608/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T17:14:06"
+    "update_at": "2025-06-19T10:28:19"
 }

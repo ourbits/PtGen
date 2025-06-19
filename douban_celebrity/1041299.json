@@ -1,5 +1,5 @@
 {
-    "sid": 1041299,
+    "sid": "1041299",
     "name": "乔恩·阿维奈",
     "site": "douban_celebrity",
     "roles": [
@@ -17,127 +17,81 @@
     "birth_place": "美国,纽约,布鲁克林",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30285831/",
+            "id": 36707390,
+            "year": "2025",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2919089387.jpg",
+            "title": "最后的牛仔竞技",
+            "release": 1
+        },
+        {
+            "id": 30285831,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554965058.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "诈欺担保人 第三季",
-            "subject_id": "30285831"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27079601/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511711697.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "诈欺担保人 第二季",
-            "subject_id": "27079601"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26823846/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2577580434.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "三个基督",
-            "subject_id": "26823846"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25905702/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2221017229.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "火线警探 第六季",
-            "subject_id": "25905702"
-        },
-        {
-            "url": "https://movie.douban.com/subject/24525712/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2156782078.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "法庭浪子",
-            "subject_id": "24525712"
-        },
-        {
-            "url": "https://movie.douban.com/subject/23453946/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2164386613.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "火线警探 第五季",
-            "subject_id": "23453946"
-        },
-        {
-            "url": "https://movie.douban.com/subject/19972627/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508988990.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "火线警探 第四季",
-            "subject_id": "19972627"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27591626/",
+            "id": 27591626,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2506120178.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "真话灵药 第一季",
-            "subject_id": "27591626"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/10738135/",
+            "id": 27079601,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511711697.jpg",
+            "title": "诈欺担保人 第二季",
+            "release": 1
+        },
+        {
+            "id": 26823846,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2577580434.jpg",
+            "title": "三个基督",
+            "release": 1
+        },
+        {
+            "id": 25905702,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2221017229.jpg",
+            "title": "火线警探 第六季",
+            "release": 1
+        },
+        {
+            "id": 24525712,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2156782078.jpg",
+            "title": "法庭浪子",
+            "release": 1
+        },
+        {
+            "id": 23453946,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2164386613.jpg",
+            "title": "火线警探 第五季",
+            "release": 1
+        },
+        {
+            "id": 19972627,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508988990.jpg",
+            "title": "火线警探 第四季",
+            "release": 1
+        },
+        {
+            "id": 10738135,
             "year": "2011",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2213216358.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "一点小信仰",
-            "subject_id": "10738135"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5342504/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p812770993.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "火线警探 第二季",
-            "subject_id": "5342504"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4097484/",
+            "id": 4097484,
             "year": "2030",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "制片人"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Red Bird",
-            "subject_id": "4097484"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36707390/",
-            "year": "2025",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914837085.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "最后的牛仔竞技",
-            "subject_id": "36707390"
+            "release": 0
         }
     ],
     "introduction": "暂无",
@@ -152,5 +106,5 @@
     "name_more_other": [
         "Jonathan Michael Avnet (本名)"
     ],
-    "update_at": "2025-01-18T17:35:12"
+    "update_at": "2025-06-19T07:28:12"
 }

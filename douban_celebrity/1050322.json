@@ -1,5 +1,5 @@
 {
-    "sid": 1050322,
+    "sid": "1050322",
     "name": "安东尼奥·马格赫特",
     "site": "douban_celebrity",
     "roles": [
@@ -17,104 +17,74 @@
     "birth_place": "意大利,罗马",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3733648/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2631102018.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "成吉思汗的一生",
-            "subject_id": "3733648"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4317842/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2605905974.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "Denn sie kennen kein Erbarmen - Der Italowestern",
-            "subject_id": "4317842"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5133763/",
+            "id": 5133763,
             "year": "2001",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Once Upon a Time in Europe",
-            "subject_id": "5133763"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1298110/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2681566311.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "绝命战警",
-            "subject_id": "1298110"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3054871/",
-            "year": "1992",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "副导演"
-            ],
-            "title": "成吉思汗",
-            "subject_id": "3054871"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5113822/",
-            "year": "1991",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515574481.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "以死抗争 2",
-            "subject_id": "5113822"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5114512/",
+            "id": 5114512,
             "year": "1989",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2517964692.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "以死抗争",
-            "subject_id": "5114512"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2237234/",
-            "year": "1989",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2493627009.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "异形公园",
-            "subject_id": "2237234"
+            "id": 5113822,
+            "year": "1991",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515574481.jpg",
+            "title": "以死抗争 2",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5046977/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2269346141.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "指挥官",
-            "subject_id": "5046977"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5094824/",
+            "id": 5094824,
             "year": "1987",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881990068.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "太空版金银岛",
-            "subject_id": "5094824"
+            "release": 1
+        },
+        {
+            "id": 5046977,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2269346141.jpg",
+            "title": "指挥官",
+            "release": 1
+        },
+        {
+            "id": 4317842,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2605905974.jpg",
+            "title": "Denn sie kennen kein Erbarmen - Der Italowestern",
+            "release": 1
+        },
+        {
+            "id": 3733648,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2631102018.jpg",
+            "title": "成吉思汗的一生",
+            "release": 1
+        },
+        {
+            "id": 3054871,
+            "year": "1992",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "成吉思汗",
+            "release": 1
+        },
+        {
+            "id": 2237234,
+            "year": "1989",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2493627009.jpg",
+            "title": "异形公园",
+            "release": 1
+        },
+        {
+            "id": 1298110,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2681566311.jpg",
+            "title": "绝命战警",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -132,5 +102,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-18T01:21:21"
+    "update_at": "2025-06-19T21:21:06"
 }

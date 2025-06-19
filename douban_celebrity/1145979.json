@@ -1,5 +1,5 @@
 {
-    "sid": 1145979,
+    "sid": "1145979",
     "name": "Marcelle Ranson-Hervé",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "法国",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5136696/",
+            "id": 5136696,
             "year": "1966",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536012281.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Au théâtre ce soir",
-            "subject_id": "5136696"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5111800/",
+            "id": 5135629,
+            "year": "1982",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Toutes griffes dehors",
+            "release": 1
+        },
+        {
+            "id": 5123164,
+            "year": "1975",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Les Rosenberg ne doivent pas mourir",
+            "release": 1
+        },
+        {
+            "id": 5123075,
+            "year": "1975",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Les ailes de la colombe",
+            "release": 1
+        },
+        {
+            "id": 5111800,
             "year": "1994",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537860692.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Bambino mio",
-            "subject_id": "5111800"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5135629/",
-            "year": "1982",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Toutes griffes dehors",
-            "subject_id": "5135629"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5051940/",
-            "year": "1979",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2553170621.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "替身",
-            "subject_id": "5051940"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5097698/",
-            "year": "1979",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Le vérificateur",
-            "subject_id": "5097698"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1301864/",
-            "year": "1978",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554661515.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "罗贝尔和罗贝尔",
-            "subject_id": "1301864"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5085734/",
-            "year": "1977",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Les folies Offenbach",
-            "subject_id": "5085734"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5098629/",
+            "id": 5098629,
             "year": "1976",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2869043549.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Commissaire Moulin",
-            "subject_id": "5098629"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5123075/",
-            "year": "1975",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Les ailes de la colombe",
-            "subject_id": "5123075"
+            "id": 5097698,
+            "year": "1979",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Le vérificateur",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5123164/",
-            "year": "1975",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Les Rosenberg ne doivent pas mourir",
-            "subject_id": "5123164"
+            "id": 5085734,
+            "year": "1977",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Les folies Offenbach",
+            "release": 1
+        },
+        {
+            "id": 5051940,
+            "year": "1979",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2553170621.jpg",
+            "title": "替身",
+            "release": 1
+        },
+        {
+            "id": 1301864,
+            "year": "1978",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554661515.jpg",
+            "title": "罗贝尔和罗贝尔",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -125,5 +95,5 @@
     "name_more_other": [
         "Marcelle Antoinette Rancon (本名)"
     ],
-    "update_at": "2025-01-17T02:07:28"
+    "update_at": "2025-06-19T10:56:24"
 }

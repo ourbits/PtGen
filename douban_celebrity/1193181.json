@@ -1,5 +1,5 @@
 {
-    "sid": 1193181,
+    "sid": "1193181",
     "name": "Demetrius Joyette",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "加拿大,安大略省,多伦多",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/6874441/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2159463605.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "魔女嘉莉",
-            "subject_id": "6874441"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26684526/",
+            "id": 26684526,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2560631866.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Totally Amp'd",
-            "subject_id": "26684526"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3888235/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2884185040.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "校园天使",
-            "subject_id": "3888235"
+            "id": 6874441,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2159463605.jpg",
+            "title": "魔女嘉莉",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5193966/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Latest Buzz",
-            "subject_id": "5193966"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3011583/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Roxy Hunter and the Horrific Halloween",
-            "subject_id": "3011583"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3345181/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "美人侦探与秘密巫师",
-            "subject_id": "3345181"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3008137/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "淘气小魔仙",
-            "subject_id": "3008137"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1963256/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2883135351.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "大草原上的小清真寺",
-            "subject_id": "1963256"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5215510/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2884720012.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "小队长法仔",
-            "subject_id": "5215510"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5218265/",
+            "id": 5218265,
             "year": "2005",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2896763535.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "网络的诱惑：他的秘密生活",
-            "subject_id": "5218265"
+            "release": 1
+        },
+        {
+            "id": 5215510,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2884720012.jpg",
+            "title": "小队长法仔",
+            "release": 1
+        },
+        {
+            "id": 5193966,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2919581833.jpg",
+            "title": "最新热点",
+            "release": 1
+        },
+        {
+            "id": 3888235,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2884185040.jpg",
+            "title": "校园天使",
+            "release": 1
+        },
+        {
+            "id": 3345181,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "美人侦探与秘密巫师",
+            "release": 1
+        },
+        {
+            "id": 3011583,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "Roxy Hunter and the Horrific Halloween",
+            "release": 1
+        },
+        {
+            "id": 3008137,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "淘气小魔仙",
+            "release": 1
+        },
+        {
+            "id": 1963256,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2883135351.jpg",
+            "title": "大草原上的小清真寺",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -124,5 +94,5 @@
     "personage_link": "https://www.douban.com/personage/27399136/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T14:00:07"
+    "update_at": "2025-06-19T02:14:06"
 }

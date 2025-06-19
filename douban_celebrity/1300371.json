@@ -1,5 +1,5 @@
 {
-    "sid": 1300371,
+    "sid": "1300371",
     "name": "弗雷德·沃尔顿",
     "site": "douban_celebrity",
     "roles": [
@@ -16,107 +16,74 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1946581/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518368153.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "封印杀人映画",
-            "subject_id": "1946581"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1461348/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2541661115.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "来电惊魂",
-            "subject_id": "1461348"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5109643/",
-            "year": "1996",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2874447771.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "小镇狂夫",
-            "subject_id": "5109643"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3066314/",
-            "year": "1995",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536100224.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "危楼惊狂",
-            "subject_id": "3066314"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1304460/",
-            "year": "1994",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2479308958.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "恶夜惊魂",
-            "subject_id": "1304460"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5112014/",
-            "year": "1993",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912172069.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "神秘电话",
-            "subject_id": "5112014"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3724151/",
-            "year": "1992",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2174155930.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "智能情杀",
-            "subject_id": "3724151"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5112980/",
-            "year": "1992",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2652229030.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "血腥代价",
-            "subject_id": "5112980"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5114401/",
+            "id": 5114401,
             "year": "1990",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2624746248.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "Murder in Paradise",
-            "subject_id": "5114401"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3067668/",
+            "id": 5112980,
+            "year": "1992",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2652229030.jpg",
+            "title": "血腥代价",
+            "release": 1
+        },
+        {
+            "id": 5112014,
+            "year": "1993",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912172069.jpg",
+            "title": "神秘电话",
+            "release": 1
+        },
+        {
+            "id": 5109643,
+            "year": "1996",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2874447771.jpg",
+            "title": "小镇狂夫",
+            "release": 1
+        },
+        {
+            "id": 3724151,
+            "year": "1992",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2174155930.jpg",
+            "title": "智能情杀",
+            "release": 1
+        },
+        {
+            "id": 3067668,
             "year": "1989",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2591359534.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "陷阱情缘",
-            "subject_id": "3067668"
+            "release": 1
+        },
+        {
+            "id": 3066314,
+            "year": "1995",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536100224.jpg",
+            "title": "危楼惊狂",
+            "release": 1
+        },
+        {
+            "id": 1946581,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518368153.jpg",
+            "title": "封印杀人映画",
+            "release": 1
+        },
+        {
+            "id": 1461348,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2541661115.jpg",
+            "title": "来电惊魂",
+            "release": 1
+        },
+        {
+            "id": 1304460,
+            "year": "1994",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2479308958.jpg",
+            "title": "恶夜惊魂",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -127,5 +94,5 @@
     "personage_link": "https://www.douban.com/personage/27528650/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T19:14:05"
+    "update_at": "2025-06-18T23:56:06"
 }

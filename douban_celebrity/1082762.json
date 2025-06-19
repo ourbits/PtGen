@@ -1,5 +1,5 @@
 {
-    "sid": 1082762,
+    "sid": "1082762",
     "name": "Leonid Yengibarov",
     "site": "douban_celebrity",
     "roles": [
@@ -16,54 +16,39 @@
     "birth_place": "苏联,莫斯科",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5209664/",
+            "id": 5209664,
             "year": "2001",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "编剧"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Pierlequin",
-            "subject_id": "5209664"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5055186/",
+            "id": 5055186,
             "year": "1972",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515099698.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "土炕上的木凳",
-            "subject_id": "5055186"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3424956/",
-            "year": "1966",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914881500.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "66版爱波利特",
-            "subject_id": "3424956"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1440106/",
-            "year": "1964",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2171403583.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "被遗忘的祖先的阴影",
-            "subject_id": "1440106"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4173237/",
+            "id": 4173237,
             "year": "1963",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2739600907.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "通往舞台的路",
-            "subject_id": "4173237"
+            "release": 1
+        },
+        {
+            "id": 3424956,
+            "year": "1966",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914881500.jpg",
+            "title": "66版爱波利特",
+            "release": 1
+        },
+        {
+            "id": 1440106,
+            "year": "1964",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2171403583.jpg",
+            "title": "被遗忘的祖先的阴影",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -82,5 +67,5 @@
         "L. Engibarov",
         "L. Yengibarov"
     ],
-    "update_at": "2025-01-18T03:14:09"
+    "update_at": "2025-06-19T02:21:19"
 }

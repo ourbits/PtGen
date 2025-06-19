@@ -1,5 +1,5 @@
 {
-    "sid": 1005589,
+    "sid": "1005589",
     "name": "大卫·休·琼斯",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "英国,英格兰,多塞特,普尔",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1422098/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2620047010.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "鬼语者 第一季",
-            "subject_id": "1422098"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1427819/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p579870973.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "识骨寻踪 第一季",
-            "subject_id": "1427819"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3015591/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2880449427.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "基恩·艾迪",
-            "subject_id": "3015591"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2133973/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2503004019.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "骇客",
-            "subject_id": "2133973"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2374751/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905259730.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "The Education of Max Bickford",
-            "subject_id": "2374751"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2133869/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2878168411.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "纽约疑云",
-            "subject_id": "2133869"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5143628/",
+            "id": 5143628,
             "year": "2000",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2676906277.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "共同监护",
-            "subject_id": "5143628"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1995926/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2553077381.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "欲望华尔街",
-            "subject_id": "1995926"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4325732/",
+            "id": 4325732,
             "year": "1999",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897089232.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "换脑特工",
-            "subject_id": "4325732"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1428365/",
+            "id": 3015591,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2880449427.jpg",
+            "title": "基恩·艾迪",
+            "release": 1
+        },
+        {
+            "id": 2374751,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905259730.jpg",
+            "title": "The Education of Max Bickford",
+            "release": 1
+        },
+        {
+            "id": 2133973,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2503004019.jpg",
+            "title": "骇客",
+            "release": 1
+        },
+        {
+            "id": 2133869,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2878168411.jpg",
+            "title": "纽约疑云",
+            "release": 1
+        },
+        {
+            "id": 1995926,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2553077381.jpg",
+            "title": "欲望华尔街",
+            "release": 1
+        },
+        {
+            "id": 1428365,
             "year": "1999",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2334070538.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "法律与秩序：特殊受害者 第一季",
-            "subject_id": "1428365"
+            "release": 1
+        },
+        {
+            "id": 1427819,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p579870973.jpg",
+            "title": "识骨寻踪 第一季",
+            "release": 1
+        },
+        {
+            "id": 1422098,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2620047010.jpg",
+            "title": "鬼语者 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -132,5 +102,5 @@
     "name_more_other": [
         "David Jones"
     ],
-    "update_at": "2025-01-18T09:35:16"
+    "update_at": "2025-06-19T06:28:14"
 }

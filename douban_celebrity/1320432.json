@@ -1,9 +1,10 @@
 {
-    "sid": 1320432,
+    "sid": "1320432",
     "name": "渡边睦月",
     "site": "douban_celebrity",
     "roles": [
-        "编剧"
+        "编剧",
+        "作者"
     ],
     "awards": [],
     "gender": "女",
@@ -15,104 +16,74 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/33426376/",
+            "id": 33426376,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2563633156.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "萤草 菜菜的剑",
-            "subject_id": "33426376"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4822846/",
+            "id": 4822846,
             "year": "2010",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2204459373.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "幻夜",
-            "subject_id": "4822846"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3136534/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2076790160.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "恋空",
-            "subject_id": "3136534"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2976072/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2190133835.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "东京少年",
-            "subject_id": "2976072"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2357374/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2152493612.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "工藤新一复活！与黑暗组织的对决",
-            "subject_id": "2357374"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3003830/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p634019904.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "恋空",
-            "subject_id": "3003830"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4139847/",
+            "id": 4139847,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2191275227.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "震度0",
-            "subject_id": "4139847"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2056678/",
+            "id": 3136534,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2076790160.jpg",
+            "title": "恋空",
+            "release": 1
+        },
+        {
+            "id": 3003830,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p634019904.jpg",
+            "title": "恋空",
+            "release": 1
+        },
+        {
+            "id": 2976072,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2190133835.jpg",
+            "title": "东京少年",
+            "release": 1
+        },
+        {
+            "id": 2357374,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2152493612.jpg",
+            "title": "工藤新一复活！与黑暗组织的对决",
+            "release": 1
+        },
+        {
+            "id": 2056678,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2556702509.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "生徒诸君",
-            "subject_id": "2056678"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1998649/",
+            "id": 1998649,
             "year": "2006",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2152493943.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "给工藤新一的挑战书~离别前的序章",
-            "subject_id": "1998649"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1917692/",
+            "id": 1917692,
             "year": "2006",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876792535.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "恋爱小说",
-            "subject_id": "1917692"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -126,5 +97,5 @@
         "渡邉睦月",
         "わたなべ むつき"
     ],
-    "update_at": "2025-01-18T09:49:14"
+    "update_at": "2025-06-19T03:35:23"
 }

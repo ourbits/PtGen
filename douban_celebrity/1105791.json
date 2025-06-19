@@ -1,5 +1,5 @@
 {
-    "sid": 1105791,
+    "sid": "1105791",
     "name": "Roland Künzel",
     "site": "douban_celebrity",
     "roles": [
@@ -15,24 +15,18 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1439573/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1850031704.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "街头少年",
-            "subject_id": "1439573"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1472038/",
+            "id": 1472038,
             "year": "2001",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2376790870.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "玛尼图的鞋",
-            "subject_id": "1472038"
+            "release": 1
+        },
+        {
+            "id": 1439573,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1850031704.jpg",
+            "title": "街头少年",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -48,5 +42,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-18T16:07:11"
+    "update_at": "2025-06-19T08:00:15"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1019198,
+    "sid": "1019198",
     "name": "李察·厄尔德曼",
     "site": "douban_celebrity",
     "roles": [
@@ -17,114 +17,81 @@
     "birth_place": "美国,俄克拉荷马州,伊妮德",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5150437/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2462669703.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Bag",
-            "subject_id": "5150437"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3646629/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870420894.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Operating Instructions",
-            "subject_id": "3646629"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3741764/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p609664243.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "废柴联盟 第一季",
-            "subject_id": "3741764"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4215281/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Meurtres à l'Empire State Building",
-            "subject_id": "4215281"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5202543/",
+            "id": 5202543,
             "year": "2006",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2602595220.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Viagra Falls",
-            "subject_id": "5202543"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2153003/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2224887289.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "天国的女儿 第一季",
-            "subject_id": "2153003"
+            "id": 5150437,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2462669703.jpg",
+            "title": "The Bag",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1433326/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895679280.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "千面谜城 第一季",
-            "subject_id": "1433326"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1422967/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893661324.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "学习曲线",
-            "subject_id": "1422967"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1890057/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2552175861.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "女法官艾米 第一季",
-            "subject_id": "1890057"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1418614/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2160938533.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "费丽丝蒂 第一季",
-            "subject_id": "1418614"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5088035/",
+            "id": 5088035,
             "year": "2030",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2246550324.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "奎斯特历险记",
-            "subject_id": "5088035"
+            "release": 0
+        },
+        {
+            "id": 4215281,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Meurtres à l'Empire State Building",
+            "release": 1
+        },
+        {
+            "id": 3741764,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p609664243.jpg",
+            "title": "废柴联盟 第一季",
+            "release": 1
+        },
+        {
+            "id": 3646629,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870420894.jpg",
+            "title": "Operating Instructions",
+            "release": 1
+        },
+        {
+            "id": 2153003,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2224887289.jpg",
+            "title": "天国的女儿 第一季",
+            "release": 1
+        },
+        {
+            "id": 1890057,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2552175861.jpg",
+            "title": "女法官艾米 第一季",
+            "release": 1
+        },
+        {
+            "id": 1433326,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895679280.jpg",
+            "title": "千面谜城 第一季",
+            "release": 1
+        },
+        {
+            "id": 1422967,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893661324.jpg",
+            "title": "学习曲线",
+            "release": 1
+        },
+        {
+            "id": 1418614,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2160938533.jpg",
+            "title": "费丽丝蒂 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -142,5 +109,5 @@
     "name_more_other": [
         "Richard Erdmann (本名)"
     ],
-    "update_at": "2025-01-18T20:21:14"
+    "update_at": "2025-06-19T14:28:08"
 }

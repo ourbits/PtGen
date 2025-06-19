@@ -1,5 +1,5 @@
 {
-    "sid": 1146123,
+    "sid": "1146123",
     "name": "罗伯特·西格尔",
     "site": "douban_celebrity",
     "roles": [
@@ -17,111 +17,74 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36065671/",
+            "id": 36065671,
             "year": "2023",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "黑暗等待着你",
-            "subject_id": "36065671"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3391817/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "The 13th Disciple",
-            "subject_id": "3391817"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3131789/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "制片人",
-                "编剧"
-            ],
-            "title": "The Spider",
-            "subject_id": "3131789"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5157820/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2630938803.jpg",
-            "roles": [
-                "演员",
-                "导演"
-            ],
-            "title": "灵异村庄",
-            "subject_id": "5157820"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5217459/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2592191280.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "SOKO Donau",
-            "subject_id": "5217459"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5139267/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915608233.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "汉堡凶杀案调查组",
-            "subject_id": "5139267"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5147577/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2639081647.jpg",
-            "roles": [
-                "演员",
-                "导演"
-            ],
-            "title": "Geisterjäger John Sinclair",
-            "subject_id": "5147577"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4230525/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p932092667.jpg",
-            "roles": [
-                "演员",
-                "导演"
-            ],
-            "title": "暗域魔舰：黑暗地带",
-            "subject_id": "4230525"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1892452/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2131282451.jpg",
-            "roles": [
-                "演员",
-                "导演"
-            ],
-            "title": "暗域魔舰 第一季",
-            "subject_id": "1892452"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26923023/",
+            "id": 26923023,
             "year": "1997",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914987822.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "极速特警 第二季",
-            "subject_id": "26923023"
+            "release": 1
+        },
+        {
+            "id": 5217459,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2592191280.jpg",
+            "title": "多瑙河特别行动组",
+            "release": 1
+        },
+        {
+            "id": 5157820,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2630938803.jpg",
+            "title": "灵异村庄",
+            "release": 1
+        },
+        {
+            "id": 5147577,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2639081647.jpg",
+            "title": "Geisterjäger John Sinclair",
+            "release": 1
+        },
+        {
+            "id": 5139267,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915608233.jpg",
+            "title": "汉堡凶杀案调查组",
+            "release": 1
+        },
+        {
+            "id": 4230525,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p932092667.jpg",
+            "title": "暗域魔舰：黑暗地带",
+            "release": 1
+        },
+        {
+            "id": 3391817,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The 13th Disciple",
+            "release": 1
+        },
+        {
+            "id": 3131789,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Spider",
+            "release": 1
+        },
+        {
+            "id": 1892452,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2131282451.jpg",
+            "title": "暗域魔舰 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -132,5 +95,5 @@
     "personage_link": "https://www.douban.com/personage/27351995/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T03:56:22"
+    "update_at": "2025-06-19T16:00:16"
 }

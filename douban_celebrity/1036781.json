@@ -1,5 +1,5 @@
 {
-    "sid": 1036781,
+    "sid": "1036781",
     "name": "汤姆·沙迪亚克",
     "site": "douban_celebrity",
     "roles": [
@@ -17,120 +17,81 @@
     "birth_place": "美国,弗吉尼亚州",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30183613/",
+            "id": 30183613,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554519980.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "布莱恩·班克斯",
-            "subject_id": "30183613"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5240683/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1402492761.jpg",
-            "roles": [
-                "制片人"
-            ],
-            "title": "Happy",
-            "subject_id": "5240683"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5161404/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2198137232.jpg",
-            "roles": [
-                "制片人"
-            ],
-            "title": "Finding Kind",
-            "subject_id": "5161404"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5500595/",
+            "id": 5500595,
             "year": "2010",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p874460644.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "我思，故我行",
-            "subject_id": "5500595"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1867332/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1081258688.jpg",
-            "roles": [
-                "导演",
-                "制片人"
-            ],
-            "title": "冒牌天神2",
-            "subject_id": "1867332"
+            "id": 5240683,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1402492761.jpg",
+            "title": "Happy",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1815638/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1035650502.jpg",
-            "roles": [
-                "制片人"
-            ],
-            "title": "录取通知",
-            "subject_id": "1815638"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5207640/",
+            "id": 5207640,
             "year": "2003",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "制片人"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Platonically Incorrect",
-            "subject_id": "5207640"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1297018/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2165714151.jpg",
-            "roles": [
-                "导演",
-                "制片人"
-            ],
-            "title": "冒牌天神",
-            "subject_id": "1297018"
+            "id": 5161404,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2198137232.jpg",
+            "title": "Finding Kind",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2051606/",
+            "id": 3008688,
+            "year": "2028",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Dr. Sensitive",
+            "release": 0
+        },
+        {
+            "id": 2051606,
             "year": "2002",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2519801594.jpg",
-            "roles": [
-                "制片人"
-            ],
             "title": "八项注意之泡我女儿没那么容易 第一季",
-            "subject_id": "2051606"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1306602/",
+            "id": 1867332,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1081258688.jpg",
+            "title": "冒牌天神2",
+            "release": 1
+        },
+        {
+            "id": 1815638,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1035650502.jpg",
+            "title": "录取通知",
+            "release": 1
+        },
+        {
+            "id": 1306602,
             "year": "2002",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512410605.jpg",
-            "roles": [
-                "导演",
-                "制片人"
-            ],
             "title": "蜻蜓",
-            "subject_id": "1306602"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3008688/",
-            "year": "2028",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "制片人"
-            ],
-            "title": "Dr. Sensitive",
-            "subject_id": "3008688"
+            "id": 1297018,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2165714151.jpg",
+            "title": "冒牌天神",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -143,5 +104,5 @@
     "name_more_other": [
         "Thomas Peter Shadyac (本名)"
     ],
-    "update_at": "2025-01-18T20:42:09"
+    "update_at": "2025-06-19T15:00:18"
 }

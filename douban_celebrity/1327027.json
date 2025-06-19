@@ -1,5 +1,5 @@
 {
-    "sid": 1327027,
+    "sid": "1327027",
     "name": "翠斯提·凯莉·邓恩",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "Provo, Utah",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36467428/",
+            "id": 36467428,
             "year": "2023",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895241335.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "讨厌的卡特",
-            "subject_id": "36467428"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34983345/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2869777566.jpg",
-            "roles": [
-                "演员 (饰 Anna the Siren)"
-            ],
-            "title": "量子牛仔",
-            "subject_id": "34983345"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35393670/",
+            "id": 35393670,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635174953.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "往事如烟",
-            "subject_id": "35393670"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34852969/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2594536254.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "盲点 第五季",
-            "subject_id": "34852969"
+            "id": 34983345,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2869777566.jpg",
+            "title": "量子牛仔",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30380316/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2550345495.jpg",
-            "roles": [
-                "演员 (饰 Liz Koch)"
-            ],
-            "title": "三层楼的女孩",
-            "subject_id": "30380316"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30430941/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2546330681.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Phantom 52",
-            "subject_id": "30430941"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26913878/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2559560356.jpg",
-            "roles": [
-                "演员 (饰 Sierra Thompson)"
-            ],
-            "title": "末日之旅",
-            "subject_id": "26913878"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30220403/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2534670917.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "盲点 第四季",
-            "subject_id": "30220403"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27043263/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2531852276.jpg",
-            "roles": [
-                "演员 (饰 Sophie Bishop)"
-            ],
-            "title": "福尔摩斯：基本演绎法 第六季",
-            "subject_id": "27043263"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34935909/",
+            "id": 34935909,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2630042249.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "妻子",
-            "subject_id": "34935909"
+            "release": 1
+        },
+        {
+            "id": 34852969,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2594536254.jpg",
+            "title": "盲点 第五季",
+            "release": 1
+        },
+        {
+            "id": 30430941,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2546330681.jpg",
+            "title": "The Phantom 52",
+            "release": 1
+        },
+        {
+            "id": 30380316,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2550345495.jpg",
+            "title": "三层楼的女孩",
+            "release": 1
+        },
+        {
+            "id": 30220403,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2534670917.jpg",
+            "title": "盲点 第四季",
+            "release": 1
+        },
+        {
+            "id": 27043263,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2531852276.jpg",
+            "title": "福尔摩斯：基本演绎法 第六季",
+            "release": 1
+        },
+        {
+            "id": 26913878,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2559560356.jpg",
+            "title": "末日之旅",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27498589/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T11:28:15"
+    "update_at": "2025-06-18T23:42:20"
 }

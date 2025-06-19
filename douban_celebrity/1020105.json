@@ -1,5 +1,5 @@
 {
-    "sid": 1020105,
+    "sid": "1020105",
     "name": "丹尼尔·伊韦内尔",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "法国,凡尔赛",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5213750/",
+            "id": 5213750,
             "year": "1981",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Adèle ou la marguerite",
-            "subject_id": "5213750"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1922394/",
-            "year": "1977",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512757964.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Le Juge Fayard dit Le Shériff",
-            "subject_id": "1922394"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3168337/",
-            "year": "1976",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554332356.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "智多星妙计雪沉冤",
-            "subject_id": "3168337"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3703547/",
-            "year": "1975",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2552970528.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "危险之中",
-            "subject_id": "3703547"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3706516/",
-            "year": "1974",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2553117123.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "洞群",
-            "subject_id": "3706516"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1302875/",
-            "year": "1974",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508982379.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "江湖大杀手",
-            "subject_id": "1302875"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2051026/",
-            "year": "1973",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554377476.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "多米尼西案件",
-            "subject_id": "2051026"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4055958/",
+            "id": 4055958,
             "year": "1972",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2567718171.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "狐妻狼夫",
-            "subject_id": "4055958"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3434946/",
+            "id": 3706516,
+            "year": "1974",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2553117123.jpg",
+            "title": "洞群",
+            "release": 1
+        },
+        {
+            "id": 3703547,
+            "year": "1975",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2552970528.jpg",
+            "title": "危险之中",
+            "release": 1
+        },
+        {
+            "id": 3434946,
             "year": "1972",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2411667690.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "大阴谋",
-            "subject_id": "3434946"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2263422/",
+            "id": 3168337,
+            "year": "1976",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554332356.jpg",
+            "title": "智多星妙计雪沉冤",
+            "release": 1
+        },
+        {
+            "id": 2263422,
             "year": "1972",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2521280153.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "曾是警察",
-            "subject_id": "2263422"
+            "release": 1
+        },
+        {
+            "id": 2051026,
+            "year": "1973",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554377476.jpg",
+            "title": "多米尼西案件",
+            "release": 1
+        },
+        {
+            "id": 1922394,
+            "year": "1977",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512757964.jpg",
+            "title": "Le Juge Fayard dit Le Shériff",
+            "release": 1
+        },
+        {
+            "id": 1302875,
+            "year": "1974",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508982379.jpg",
+            "title": "江湖大杀手",
+            "release": 1
         }
     ],
     "introduction": "获得了法国公民的最高荣誉， 法兰西荣誉军团勋章（骑兵级）",
@@ -131,5 +101,5 @@
     "name_more_other": [
         "Ivernel"
     ],
-    "update_at": "2025-01-17T20:14:14"
+    "update_at": "2025-06-19T19:56:10"
 }

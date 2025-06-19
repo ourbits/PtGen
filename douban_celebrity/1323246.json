@@ -1,5 +1,5 @@
 {
-    "sid": 1323246,
+    "sid": "1323246",
     "name": "麦克·费夫",
     "site": "douban_celebrity",
     "roles": [
@@ -15,24 +15,25 @@
     "birth_place": "加拿大，安大略省，费尔格斯",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5294687/",
+            "id": 5294687,
             "year": "2010",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2891613303.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "重回昨日  第三季",
-            "subject_id": "5294687"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1449369/",
+            "id": 2345222,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509596159.jpg",
+            "title": "终极杀人机器",
+            "release": 1
+        },
+        {
+            "id": 1449369,
             "year": "2004",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2514130726.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "毕业舞会",
-            "subject_id": "1449369"
+            "release": 1
         }
     ],
     "introduction": "麦克·费夫出生于加拿大安大略省的费尔格斯。他是一名演员，以《The Skulls》（2000）、《Sea Wolf》（2009）和《Being Erica》（2009）闻名。",
@@ -43,5 +44,5 @@
     "personage_link": "https://www.douban.com/personage/27491687/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T20:49:18"
+    "update_at": "2025-06-19T17:21:19"
 }

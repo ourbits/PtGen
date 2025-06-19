@@ -1,5 +1,5 @@
 {
-    "sid": 1117656,
+    "sid": "1117656",
     "name": "玛尔戈",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "墨西哥,墨西哥城联邦区",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1300742/",
-            "year": "1962",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2410636286.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "马迷狂胜记",
-            "subject_id": "1300742"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5059650/",
-            "year": "1961",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The New Breed",
-            "subject_id": "5059650"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5060454/",
-            "year": "1959",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897048397.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "天堂冒险",
-            "subject_id": "5060454"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1833439/",
-            "year": "1959",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2614106875.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "皮鞭 第一季",
-            "subject_id": "1833439"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5060822/",
+            "id": 5060822,
             "year": "1958",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2298003257.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Westinghouse Desilu Playhouse",
-            "subject_id": "5060822"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1297873/",
-            "year": "1958",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2519635763.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "万里追踪",
-            "subject_id": "1297873"
+            "id": 5060454,
+            "year": "1959",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897048397.jpg",
+            "title": "天堂冒险",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1815654/",
-            "year": "1957",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2352997733.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "梅森探案集 第一季",
-            "subject_id": "1815654"
+            "id": 5059650,
+            "year": "1961",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The New Breed",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3992007/",
+            "id": 3992007,
             "year": "1957",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872616182.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Wagon Train",
-            "subject_id": "3992007"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3024652/",
+            "id": 3024652,
             "year": "1956",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905157355.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "吉姆·鲍伊大冒险",
-            "subject_id": "3024652"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1296904/",
+            "id": 1833439,
+            "year": "1959",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2614106875.jpg",
+            "title": "皮鞭 第一季",
+            "release": 1
+        },
+        {
+            "id": 1815654,
+            "year": "1957",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2352997733.jpg",
+            "title": "梅森探案集 第一季",
+            "release": 1
+        },
+        {
+            "id": 1300742,
+            "year": "1962",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2410636286.jpg",
+            "title": "马迷狂胜记",
+            "release": 1
+        },
+        {
+            "id": 1297873,
+            "year": "1958",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2519635763.jpg",
+            "title": "万里追踪",
+            "release": 1
+        },
+        {
+            "id": 1296904,
             "year": "1956",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509099569.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "伤心泪尽话当年",
-            "subject_id": "1296904"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -130,5 +100,5 @@
     "name_more_other": [
         "María Marguerita Guadalupe Teresa Estela Bolado Castilla y O'Donnell (本名)"
     ],
-    "update_at": "2025-01-18T19:14:05"
+    "update_at": "2025-06-19T02:49:19"
 }

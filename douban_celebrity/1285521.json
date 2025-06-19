@@ -1,5 +1,5 @@
 {
-    "sid": 1285521,
+    "sid": "1285521",
     "name": "Edan Gross",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/2216974/",
-            "year": "1993",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2455326056.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "黑带精英2",
-            "subject_id": "2216974"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5113451/",
-            "year": "1992",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2280665432.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "小美人鱼",
-            "subject_id": "5113451"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1296737/",
-            "year": "1992",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2517499164.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "危险小宝贝",
-            "subject_id": "1296737"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5084503/",
-            "year": "1991",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2138092483.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "小熊维尼快乐过耶诞",
-            "subject_id": "5084503"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1826751/",
-            "year": "1991",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2245548071.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "机器人老爸",
-            "subject_id": "1826751"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1299591/",
-            "year": "1991",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1302824546.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "鬼娃回魂3",
-            "subject_id": "1299591"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5141416/",
+            "id": 5141416,
             "year": "1990",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2199888989.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "The Earth Day Special",
-            "subject_id": "5141416"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1293798/",
-            "year": "1990",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2210573820.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "鬼娃回魂2",
-            "subject_id": "1293798"
+            "id": 5113451,
+            "year": "1992",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2280665432.jpg",
+            "title": "小美人鱼",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4888482/",
+            "id": 5084503,
+            "year": "1991",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2138092483.jpg",
+            "title": "小熊维尼快乐过耶诞",
+            "release": 1
+        },
+        {
+            "id": 4888482,
             "year": "1990",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2181834348.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
             "title": "航空小英雄",
-            "subject_id": "4888482"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3067298/",
+            "id": 3067298,
             "year": "1990",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2443112217.jpg",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2921645554.jpg",
             "title": "手足三人组",
-            "subject_id": "3067298"
+            "release": 1
+        },
+        {
+            "id": 2216974,
+            "year": "1993",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2455326056.jpg",
+            "title": "黑带精英2",
+            "release": 1
+        },
+        {
+            "id": 1826751,
+            "year": "1991",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2245548071.jpg",
+            "title": "机器人老爸",
+            "release": 1
+        },
+        {
+            "id": 1299591,
+            "year": "1991",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1302824546.jpg",
+            "title": "鬼娃回魂3",
+            "release": 1
+        },
+        {
+            "id": 1296737,
+            "year": "1992",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2517499164.jpg",
+            "title": "危险小宝贝",
+            "release": 1
+        },
+        {
+            "id": 1293798,
+            "year": "1990",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2210573820.jpg",
+            "title": "鬼娃回魂2",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -124,5 +94,5 @@
     "personage_link": "https://www.douban.com/personage/27513799/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T15:49:22"
+    "update_at": "2025-06-19T21:42:05"
 }

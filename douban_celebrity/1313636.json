@@ -1,5 +1,5 @@
 {
-    "sid": 1313636,
+    "sid": "1313636",
     "name": "大野拓朗",
     "site": "douban_celebrity",
     "roles": [
@@ -18,104 +18,74 @@
     "birth_place": "日本,东京都,板桥区",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/33437354/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2557968337.jpg",
-            "roles": [
-                "演员 (饰 下落合银)"
-            ],
-            "title": "天才保姆阿银",
-            "subject_id": "33437354"
-        },
-        {
-            "url": "https://movie.douban.com/subject/33461859/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2557996728.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "想谈一场偶像剧般的恋爱 第三季",
-            "subject_id": "33461859"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30162754/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518187010.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "丑女之战",
-            "subject_id": "30162754"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30376841/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542361410.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "三个欧吉桑归来特别篇",
-            "subject_id": "30376841"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26992036/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542310147.jpg",
-            "roles": [
-                "演员 (饰 杉修介)"
-            ],
-            "title": "旅猫日记",
-            "subject_id": "26992036"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30312182/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532528120.jpg",
-            "roles": [
-                "演员 (饰 寺田 ヒロオ（テラさん）)"
-            ],
-            "title": "创作英雄的男人 石之森章太郎",
-            "subject_id": "30312182"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30273063/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2528034834.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "再见",
-            "subject_id": "30273063"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35774132/",
+            "id": 35774132,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868430302.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "わろてんか スピンオフ 「ラブ＆マンザイ～LOVE and MANZAI～」",
-            "subject_id": "35774132"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30037126/",
+            "id": 33461859,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2557996728.jpg",
+            "title": "想谈一场偶像剧般的恋爱 第三季",
+            "release": 1
+        },
+        {
+            "id": 33437354,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2557968337.jpg",
+            "title": "天才保姆阿银",
+            "release": 1
+        },
+        {
+            "id": 30376841,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542361410.jpg",
+            "title": "三个欧吉桑归来特别篇",
+            "release": 1
+        },
+        {
+            "id": 30312182,
             "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2517404118.jpg",
-            "roles": [
-                "演员 (饰 中牟田优希)"
-            ],
-            "title": "正义之凛",
-            "subject_id": "30037126"
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532528120.jpg",
+            "title": "创作英雄的男人 石之森章太郎",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30158083/",
+            "id": 30273063,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2528034834.jpg",
+            "title": "再见",
+            "release": 1
+        },
+        {
+            "id": 30162754,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518187010.jpg",
+            "title": "丑女之战",
+            "release": 1
+        },
+        {
+            "id": 30158083,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515010648.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "再一次，台湾见",
-            "subject_id": "30158083"
+            "release": 1
+        },
+        {
+            "id": 30037126,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2517404118.jpg",
+            "title": "正义之凛",
+            "release": 1
+        },
+        {
+            "id": 26992036,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542310147.jpg",
+            "title": "旅猫日记",
+            "release": 1
         }
     ],
     "introduction": "身高 184cm体重 63kg 　　血型 A职业 模特、演员事务所 ホリプロ电影インシテミル 7日间のデス・ゲーム（2010年10月16日、ワーナー） - 真木雪人 役电视剧美咲ナンバーワン!!（2011年1月 - 3月、日本テレビ） - 星田勇斗 役广播タクロク（2010年4月 - 、Kiss-FM KOBE(89.9MH.z) 毎周土曜日 20:00～20:30　FM YOKOHAMA(84.7MH.z) 毎周日曜日 21:00～21:30）",
@@ -128,5 +98,5 @@
     "name_more_other": [
         "おおの たくろう"
     ],
-    "update_at": "2025-01-18T10:42:11"
+    "update_at": "2025-06-19T01:14:09"
 }

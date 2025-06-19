@@ -1,5 +1,5 @@
 {
-    "sid": 1394491,
+    "sid": "1394491",
     "name": "凯特·波克斯",
     "site": "douban_celebrity",
     "roles": [
@@ -15,124 +15,81 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36892846/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909477741.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "黑衣女人",
-            "subject_id": "36892846"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36581812/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899793229.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "色情故事",
-            "subject_id": "36581812"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36395695/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897055374.jpg",
-            "roles": [
-                "演员 (饰 Dulcie Collins)"
-            ],
-            "title": "戴洛奇小镇 第一季",
-            "subject_id": "36395695"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35202503/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897597874.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "温特沃斯 第九季",
-            "subject_id": "35202503"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35580132/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2693604145.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "熊熊大火",
-            "subject_id": "35580132"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35526871/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2673990966.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "飞蛾效应",
-            "subject_id": "35526871"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26576738/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2589142782.jpg",
-            "roles": [
-                "演员 (饰 Janice)"
-            ],
-            "title": "无国之殇",
-            "subject_id": "26576738"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35137781/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2613744064.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Way Out Assistance",
-            "subject_id": "35137781"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30288032/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529496180.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "立式钢琴 第一季",
-            "subject_id": "30288032"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36545639/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897715438.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "露西与迪克",
-            "subject_id": "36545639"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36955778/",
+            "id": 36955778,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912959035.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "戴洛奇小镇 第二季",
-            "subject_id": "36955778"
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/35740369/",
+            "id": 36892846,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909477741.jpg",
+            "title": "黑衣女人",
+            "release": 1
+        },
+        {
+            "id": 36581812,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899793229.jpg",
+            "title": "色情故事",
+            "release": 1
+        },
+        {
+            "id": 36395695,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897055374.jpg",
+            "title": "戴洛奇小镇 第一季",
+            "release": 1
+        },
+        {
+            "id": 35740369,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2916278656.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Jimpa",
-            "subject_id": "35740369"
+            "title": "吉爸",
+            "release": 1
+        },
+        {
+            "id": 35580132,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2693604145.jpg",
+            "title": "熊熊大火",
+            "release": 1
+        },
+        {
+            "id": 35526871,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2673990966.jpg",
+            "title": "飞蛾效应",
+            "release": 1
+        },
+        {
+            "id": 35202503,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897597874.jpg",
+            "title": "温特沃斯 第九季",
+            "release": 1
+        },
+        {
+            "id": 35137781,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2613744064.jpg",
+            "title": "Way Out Assistance",
+            "release": 1
+        },
+        {
+            "id": 30288032,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529496180.jpg",
+            "title": "立式钢琴 第一季",
+            "release": 1
+        },
+        {
+            "id": 26576738,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2589142782.jpg",
+            "title": "无国之殇",
+            "release": 1
         }
     ],
     "introduction": "Kate Box是一位澳大利亚的舞台、电影和电视女演员，她出生在南澳大利亚的阿德莱德。她因在电视剧《Rake》（2010）中扮演Nicole Vergas和在《Wentworth》（2013）中扮演Lou Kelly而闻名。Box毕业于国立戏剧艺术学院（National Institute of Dramatic Art），她的首次舞台表演是在2004年，她在Bell Shakespeare Company的《仲夏夜之梦》中饰演Helena。她的其他舞台表演包括悉尼剧院公司的《顶级女孩》（Top Girls），她因此获得了Helpmann奖最佳女配角提名，还有在Old Fitzroy Theatre的《Dolores》，在悉尼剧院公司的《麦克白》（Macbeth）以及《圣诞颂歌》（A Christmas Carol）中的表演。2014年，Box因在电影《The Little Death》中的表演被提名为AACTA奖最佳女主角，还因电视电影《Riot》而获得了AACTA奖。Box还与演员Jada Alberts建立了恋情，他们共同育有三个孩子。",
@@ -143,5 +100,5 @@
     "personage_link": "https://www.douban.com/personage/30237689/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T19:00:16"
+    "update_at": "2025-06-19T00:00:08"
 }
