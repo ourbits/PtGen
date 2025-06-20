@@ -1,5 +1,5 @@
 {
-    "sid": 1076632,
+    "sid": "1076632",
     "name": "摩根·布尼塔尼",
     "site": "douban_celebrity",
     "roles": [
@@ -8,7 +8,7 @@
     ],
     "awards": [],
     "gender": "女",
-    "poster": "https://img1.doubanio.com/view/celebrity/m/public/p53530.jpg",
+    "poster": "https://img1.doubanio.com/view/personage/l/public/7df68393036401b936439b08361e3b7c.jpg",
     "imdb_id": "nm0110115",
     "name_en": "Morgan Brittany",
     "name_full": "摩根·布尼塔尼 Morgan Brittany",
@@ -16,104 +16,74 @@
     "birth_place": "美国,加利福尼亚州,洛杉矶",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3059915/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Americanizing Shelley",
-            "subject_id": "3059915"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5136837/",
+            "id": 5136837,
             "year": "2002",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Mothers and Daughters",
-            "subject_id": "5136837"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5130901/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Biggest Fan",
-            "subject_id": "5130901"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5134817/",
+            "id": 5134817,
             "year": "2001",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537395725.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "医生",
-            "subject_id": "5134817"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2299810/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1607882462.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "沙滩之子",
-            "subject_id": "2299810"
+            "id": 5130901,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Biggest Fan",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1940135/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872716772.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "丽人保镖 第一季",
-            "subject_id": "1940135"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1299124/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509606488.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "盔甲",
-            "subject_id": "1299124"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5109172/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2589631451.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Legend of the Spirit Dog",
-            "subject_id": "5109172"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2148187/",
-            "year": "1996",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2245033333.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "小女巫萨布琳娜 第一季",
-            "subject_id": "2148187"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5115871/",
+            "id": 5115871,
             "year": "1995",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897731931.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "Favorite Deadly Sins",
-            "subject_id": "5115871"
+            "release": 1
+        },
+        {
+            "id": 5109172,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2589631451.jpg",
+            "title": "Legend of the Spirit Dog",
+            "release": 1
+        },
+        {
+            "id": 3059915,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Americanizing Shelley",
+            "release": 1
+        },
+        {
+            "id": 2299810,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1607882462.jpg",
+            "title": "沙滩之子",
+            "release": 1
+        },
+        {
+            "id": 2148187,
+            "year": "1996",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2245033333.jpg",
+            "title": "小女巫萨布琳娜 第一季",
+            "release": 1
+        },
+        {
+            "id": 1940135,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872716772.jpg",
+            "title": "丽人保镖 第一季",
+            "release": 1
+        },
+        {
+            "id": 1299124,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509606488.jpg",
+            "title": "盔甲",
+            "release": 1
         }
     ],
     "introduction": "Morgan Brittany 為童星起家, 在'70-'80年代, 與 Morgan Fairchild 齊名, 同為電視當紅女星, 她最特殊的經歷, 即是那張酷似Vivien Leigh 費雯麗的美麗臉龐與風韻, 曾經一連兩次飾演費雯麗, 兩部電視電影分別是：1976年的『Gable and Lombard 』, 1980年的『The Scarlett O'Hara War』, 清秀中帶著豔麗, 堪稱一代電視女星",
@@ -126,5 +96,5 @@
     "name_more_other": [
         "Suzanne Cupito (本名)"
     ],
-    "update_at": "2025-01-19T16:07:37"
+    "update_at": "2025-06-20T02:56:19"
 }

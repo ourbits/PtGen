@@ -1,5 +1,5 @@
 {
-    "sid": 1501414,
+    "sid": "1501414",
     "name": "Amit Rai",
     "site": "douban_celebrity",
     "roles": [
@@ -17,35 +17,25 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36467441/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2903419551.jpg",
-            "roles": [
-                "编剧 - 剧本"
-            ],
-            "title": "亲爱的杰茜",
-            "subject_id": "36467441"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35853358/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899322727.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "偶滴神啊2",
-            "subject_id": "35853358"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36829407/",
+            "id": 36829407,
             "year": "1994",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906152068.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "二十四分钟",
-            "subject_id": "36829407"
+            "release": 1
+        },
+        {
+            "id": 36467441,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2903419551.jpg",
+            "title": "亲爱的杰茜",
+            "release": 1
+        },
+        {
+            "id": 35853358,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899322727.jpg",
+            "title": "偶滴神啊2",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -56,5 +46,5 @@
     "personage_link": "https://www.douban.com/personage/36562366/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T00:56:13"
+    "update_at": "2025-06-20T15:42:25"
 }

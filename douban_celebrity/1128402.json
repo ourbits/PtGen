@@ -1,5 +1,5 @@
 {
-    "sid": 1128402,
+    "sid": "1128402",
     "name": "Erich Nikowitz",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "奥地利,维也纳",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5127487/",
+            "id": 5172427,
+            "year": "1964",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Ein schöner Herbst",
+            "release": 1
+        },
+        {
+            "id": 5127487,
             "year": "1969",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2886589883.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Andante",
-            "subject_id": "5127487"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3264040/",
-            "year": "1969",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2526966806.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "苏珊艳遇",
-            "subject_id": "3264040"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5058342/",
-            "year": "1965",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2638772042.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "从波希米亚森林来的女孩",
-            "subject_id": "5058342"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5172427/",
-            "year": "1964",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Ein schöner Herbst",
-            "subject_id": "5172427"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5059141/",
-            "year": "1962",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2592876802.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "永远吾爱",
-            "subject_id": "5059141"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5106967/",
+            "id": 5106967,
             "year": "1961",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Autofahrer unterwegs",
-            "subject_id": "5106967"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5060542/",
+            "id": 5060542,
             "year": "1958",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2582841638.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "So ein Millionär hat's schwer",
-            "subject_id": "5060542"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1297644/",
-            "year": "1957",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539792218.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "茜茜公主3",
-            "subject_id": "1297644"
+            "id": 5059141,
+            "year": "1962",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2592876802.jpg",
+            "title": "永远吾爱",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1302235/",
-            "year": "1956",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2160427412.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "茜茜公主2",
-            "subject_id": "1302235"
+            "id": 5058342,
+            "year": "1965",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2638772042.jpg",
+            "title": "从波希米亚森林来的女孩",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1304056/",
+            "id": 3264040,
+            "year": "1969",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2526966806.jpg",
+            "title": "苏珊艳遇",
+            "release": 1
+        },
+        {
+            "id": 1304056,
             "year": "1955",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2160427238.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "茜茜公主",
-            "subject_id": "1304056"
+            "release": 1
+        },
+        {
+            "id": 1302235,
+            "year": "1956",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2160427412.jpg",
+            "title": "茜茜公主2",
+            "release": 1
+        },
+        {
+            "id": 1297644,
+            "year": "1957",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539792218.jpg",
+            "title": "茜茜公主3",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -128,5 +98,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-19T03:35:17"
+    "update_at": "2025-06-20T11:14:13"
 }

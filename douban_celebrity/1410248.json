@@ -1,5 +1,5 @@
 {
-    "sid": 1410248,
+    "sid": "1410248",
     "name": "具滋哲",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "韩国,论山",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/34880325/",
+            "id": 34880325,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906287365.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "孙兴慜纪录片：Sonsational",
-            "subject_id": "34880325"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30423878/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2544793088.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "2019年阿联酋亚洲杯",
-            "subject_id": "30423878"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34463349/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2562105152.jpg",
-            "roles": [
-                "演员 - 自己 (饰 奥格斯堡队中场)"
-            ],
-            "title": "德甲联赛18/19赛季",
-            "subject_id": "34463349"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30230651/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2526154419.jpg",
-            "roles": [
-                "演员 - 自己 (饰 韩国队中场)"
-            ],
-            "title": "2018年俄罗斯世界杯",
-            "subject_id": "30230651"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34806110/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2890377507.jpg",
-            "roles": [
-                "演员 - 自己 (饰 奥格斯堡队中场)"
-            ],
-            "title": "2017-2018赛季 德国足球甲级联赛",
-            "subject_id": "34806110"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34806109/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2684723930.jpg",
-            "roles": [
-                "演员 - 自己 (饰 奥格斯堡队中场)"
-            ],
-            "title": "2016-2017赛季 德国足球甲级联赛",
-            "subject_id": "34806109"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34806173/",
+            "id": 34806173,
             "year": "2015",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2615752819.jpg",
-            "roles": [
-                "演员 - 自己 (饰 美因茨05队中场)"
-            ],
             "title": "2015-2016赛季 德国足球甲级联赛",
-            "subject_id": "34806173"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34444987/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2594027469.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "2018年俄罗斯世界杯亚洲区预选赛",
-            "subject_id": "34444987"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30482621/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2580467436.jpg",
-            "roles": [
-                "演员 - 自己 (饰 韩国队中场)"
-            ],
-            "title": "2015年澳大利亚亚洲杯暨亚洲足球联合会第16届亚洲杯足球赛",
-            "subject_id": "30482621"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34806172/",
+            "id": 34806172,
             "year": "2014",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2674260105.jpg",
-            "roles": [
-                "演员 - 自己 (饰 美因茨05队中场)"
-            ],
             "title": "德甲14/15赛季",
-            "subject_id": "34806172"
+            "release": 1
+        },
+        {
+            "id": 34806110,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2890377507.jpg",
+            "title": "2017-2018赛季 德国足球甲级联赛",
+            "release": 1
+        },
+        {
+            "id": 34806109,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2684723930.jpg",
+            "title": "2016-2017赛季 德国足球甲级联赛",
+            "release": 1
+        },
+        {
+            "id": 34463349,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2562105152.jpg",
+            "title": "德甲联赛18/19赛季",
+            "release": 1
+        },
+        {
+            "id": 34444987,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2594027469.jpg",
+            "title": "2018年俄罗斯世界杯亚洲区预选赛",
+            "release": 1
+        },
+        {
+            "id": 30482621,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2580467436.jpg",
+            "title": "2015年澳大利亚亚洲杯暨亚洲足球联合会第16届亚洲杯足球赛",
+            "release": 1
+        },
+        {
+            "id": 30423878,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2544793088.jpg",
+            "title": "2019年阿联酋亚洲杯",
+            "release": 1
+        },
+        {
+            "id": 30230651,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2526154419.jpg",
+            "title": "2018年俄罗斯世界杯",
+            "release": 1
         }
     ],
     "introduction": "韩国足球运动员，韩国国家队成员，现效力于奥格斯堡足球俱乐部，曾效力于济州联合足球俱乐部，沃尔夫斯堡足球俱乐部，美因茨足球俱乐部。2011年，具滋哲在卡塔尔亚洲杯中表现出色，攻入5球，帮助韩国队获得季军，同时自己也获得了亚洲杯最佳射手。凭借着亚洲杯的出色表现，具滋哲在随后的冬季转会截止日之前加盟德甲沃尔夫斯堡队。2014年1月18日，德甲的美因茨足球俱乐部官方宣布沃尔夫斯堡的韩国国脚具滋哲正式加盟球队，双方签约4年。2018年6月2日，韩国足协公布了前往俄罗斯世界杯的最终23人大名单，具滋哲入选。2019年1月26日在亚洲杯韩国不敌卡塔尔被淘汰后，韩国中场大将具滋哲宣布退出国家队。",
@@ -125,5 +95,5 @@
     "name_more_other": [
         "구자철"
     ],
-    "update_at": "2025-01-19T23:28:15"
+    "update_at": "2025-06-20T04:42:11"
 }

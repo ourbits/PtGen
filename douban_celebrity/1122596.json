@@ -1,5 +1,5 @@
 {
-    "sid": 1122596,
+    "sid": "1122596",
     "name": "玛丽昂·马克",
     "site": "douban_celebrity",
     "roles": [
@@ -16,105 +16,74 @@
     "birth_place": "美国,犹他州,Mammoth",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1304965/",
-            "year": "1987",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2215636530.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "巴斯特·基顿：无可匹敌",
-            "subject_id": "1304965"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3138848/",
-            "year": "1946",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2586662721.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "爱丽丝在电影城",
-            "subject_id": "3138848"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5171732/",
-            "year": "1942",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "编剧"
-            ],
-            "title": "Soaring Stars",
-            "subject_id": "5171732"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5085130/",
-            "year": "1940",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "编剧"
-            ],
-            "title": "Rodeo Dough",
-            "subject_id": "5085130"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5102078/",
-            "year": "1938",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "编剧"
-            ],
-            "title": "Streamlined Swing",
-            "subject_id": "5102078"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5193416/",
+            "id": 5193416,
             "year": "1928",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Alice in Movieland",
-            "subject_id": "5193416"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5077266/",
-            "year": "1926",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Carnival Girl",
-            "subject_id": "5077266"
+            "id": 5171732,
+            "year": "1942",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Soaring Stars",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1292778/",
-            "year": "1926",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2248676081.jpg",
-            "roles": [
-                "演员 (饰 安娜贝尔·李 Annabelle Lee)"
-            ],
-            "title": "将军号",
-            "subject_id": "1292778"
+            "id": 5102078,
+            "year": "1938",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2921697884.jpg",
+            "title": "Streamlined Swing",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5077476/",
-            "year": "1925",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "One of the Bravest",
-            "subject_id": "5077476"
+            "id": 5085130,
+            "year": "1940",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Rodeo Dough",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5078234/",
+            "id": 5078234,
             "year": "1923",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897633469.jpg",
-            "roles": [
-                "演员",
-                "编剧"
-            ],
-            "title": "Mary of the Movies",
-            "subject_id": "5078234"
+            "title": "电影中的玛丽",
+            "release": 1
+        },
+        {
+            "id": 5077476,
+            "year": "1925",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "One of the Bravest",
+            "release": 1
+        },
+        {
+            "id": 5077266,
+            "year": "1926",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Carnival Girl",
+            "release": 1
+        },
+        {
+            "id": 3138848,
+            "year": "1946",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2586662721.jpg",
+            "title": "爱丽丝在电影城",
+            "release": 1
+        },
+        {
+            "id": 1304965,
+            "year": "1987",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2215636530.jpg",
+            "title": "巴斯特·基顿：无可匹敌",
+            "release": 1
+        },
+        {
+            "id": 1292778,
+            "year": "1926",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2248676081.jpg",
+            "title": "将军号",
+            "release": 1
         }
     ],
     "introduction": "Marion Mack (April 8, 1902 – May 1, 1989) was an American film actress, scriptwriter and real estate broker. Mack is best known for co-starring with Buster Keaton in the 1926 silent comedy film, The General.",
@@ -132,5 +101,5 @@
     "name_more_other": [
         "Joey Marion McCreery (本名)"
     ],
-    "update_at": "2025-01-19T00:28:12"
+    "update_at": "2025-06-20T01:00:24"
 }

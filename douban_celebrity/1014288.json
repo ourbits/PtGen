@@ -1,5 +1,5 @@
 {
-    "sid": 1014288,
+    "sid": "1014288",
     "name": "小谢尔盖·波德洛夫",
     "site": "douban_celebrity",
     "roles": [
@@ -17,106 +17,74 @@
     "birth_place": "俄罗斯,莫斯科",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/34947678/",
+            "id": 34947678,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2595106068.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "卡拉什尼科夫",
-            "subject_id": "34947678"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3217884/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1268770857.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "吗啡",
-            "subject_id": "3217884"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1442640/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2568145698.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "熊之吻",
-            "subject_id": "1442640"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1416899/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2522093976.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "战俘计划",
-            "subject_id": "1416899"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5143370/",
+            "id": 5143370,
             "year": "2001",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2160457747.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "快速行動",
-            "subject_id": "5143370"
+            "title": "快速行动",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1307121/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2565873255.jpg",
-            "roles": [
-                "演员",
-                "导演",
-                "编剧"
-            ],
-            "title": "黑道小狂花",
-            "subject_id": "1307121"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1548942/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2880895633.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "兄弟2",
-            "subject_id": "1548942"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1303016/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2382022693.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "东方西方",
-            "subject_id": "1303016"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5109014/",
+            "id": 5109014,
             "year": "1998",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2160159964.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "特约记者",
-            "subject_id": "5109014"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1548912/",
+            "id": 3217884,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1268770857.jpg",
+            "title": "吗啡",
+            "release": 1
+        },
+        {
+            "id": 1548942,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511567215.jpg",
+            "title": "兄弟2",
+            "release": 1
+        },
+        {
+            "id": 1548912,
             "year": "1997",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2205000896.jpg",
-            "roles": [
-                "演员 (饰 Danila Bagrov)"
-            ],
             "title": "兄弟",
-            "subject_id": "1548912"
+            "release": 1
+        },
+        {
+            "id": 1442640,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2568145698.jpg",
+            "title": "熊之吻",
+            "release": 1
+        },
+        {
+            "id": 1416899,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2522093976.jpg",
+            "title": "战俘计划",
+            "release": 1
+        },
+        {
+            "id": 1307121,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2565873255.jpg",
+            "title": "黑道小狂花",
+            "release": 1
+        },
+        {
+            "id": 1303016,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2382022693.jpg",
+            "title": "东方西方",
+            "release": 1
         }
     ],
     "introduction": "小谢尔盖·波德洛夫1971年12月27日生于莫斯科。父亲谢尔盖·波德洛夫是著名的电影编导。小谢尔盖·波德洛夫接触电影之初都是在父亲谢尔盖·波德洛夫的影片中饰演角色，1989年《自由就是天堂》中的灰袍少年，1992年《白国王红王后》中的邮差。1997年小谢尔盖·波德洛夫出演了巴拉巴诺夫编导的影片《兄弟》（该片不但获得了不少国内外电影节的奖项，而且取得了可观的票房）。在片中他饰演的主人公“达尼拉是个职业杀手，他参加过阿富汗的战争。他的一个战友为了替自己的弟弟——为芝加哥世界明星联队效力的冰球运动员催索一笔拖欠的佣金，被俄罗斯和美国的黑手党联手杀害。为了讨回公道，惩罚凶手，达尼拉去了美国，深入到了黑手党的内部。在美国，达尼拉有不少险遇；而在莫斯科，爱人正等着他回家 。据说俄罗斯有这样一句标语：“普京是我们的总统，达尼拉是我们的兄弟”，可见其角色深入民心的程度。小谢尔盖·柏德洛夫参演的影片1999年　《东方－西方》2000年他出演了《兄弟》的续集。该片口碑远不如前，但达尼拉这一形象仍表现得心怀仁厚。2001年，小谢尔盖·波德洛夫首次执导影片就出手不凡，片名中与《兄弟》相呼应的《姐妹》，该片入选了第58届威尼斯电影节当代电影竞赛单元。影片讲述了一对同母异父的小姐妹，妹妹和父母同住，生活富裕，姐姐则跟着外婆一起艰难度日。起初，妹妹歧视姐姐，但当妹妹当黑社会头子的父亲惹上麻烦，她差点被绑架，被迫投靠姐姐时，姐姐以德报怨，带着妹妹逃跑，两人相依为命，闯过了重重险境。姐妹俩儿的关系最终由嫉恨化解成了爱。2002年他在巴拉巴诺夫拍摄的表现车臣战争的《战争》中扮演了受伤被俘的大尉。随后，他在父亲导演的影片《熊吻》中演由熊变成的英俊健壮、善解人意的青年米沙，他陪着自幼孤苦的马戏团工作的少女劳拉长大，与她相爱并保护她。2002年9月21日，俄罗斯联邦北奥塞梯地区发生大面积雪崩，正在当地拍摄新片《联络员》的小谢尔盖·波德洛夫与其摄制组人员全部遇难。",
@@ -140,5 +108,5 @@
         "Sergueï Bodrov Jr",
         "Сергей Бодров-мл."
     ],
-    "update_at": "2025-01-19T16:00:16"
+    "update_at": "2025-06-20T18:21:26"
 }

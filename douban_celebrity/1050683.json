@@ -1,5 +1,5 @@
 {
-    "sid": 1050683,
+    "sid": "1050683",
     "name": "克里斯蒂安·奈比",
     "site": "douban_celebrity",
     "roles": [
@@ -19,104 +19,74 @@
     "birth_place": "美国,加利福尼亚州,洛杉矶",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5054151/",
-            "year": "1975",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "Westwind",
-            "subject_id": "5054151"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2149182/",
-            "year": "1974",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539117670.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "无敌金刚 第一季",
-            "subject_id": "2149182"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26956749/",
+            "id": 26956749,
             "year": "1974",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2586397897.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "23消防队",
-            "subject_id": "26956749"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5055038/",
-            "year": "1973",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872931399.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "Chase",
-            "subject_id": "5055038"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2073686/",
-            "year": "1973",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2341029167.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "神探酷杰克 第一季",
-            "subject_id": "2073686"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5055458/",
-            "year": "1972",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872554363.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "Emergency!",
-            "subject_id": "5055458"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4265844/",
-            "year": "1972",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2491141979.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "旧金山风物记 第一季",
-            "subject_id": "4265844"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5055838/",
-            "year": "1971",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "The Partners",
-            "subject_id": "5055838"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2757378/",
-            "year": "1971",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876935809.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "吉米秀",
-            "subject_id": "2757378"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5057049/",
+            "id": 5057049,
             "year": "1968",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2633287236.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "Lancer",
-            "subject_id": "5057049"
+            "release": 1
+        },
+        {
+            "id": 5055838,
+            "year": "1971",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Partners",
+            "release": 1
+        },
+        {
+            "id": 5055458,
+            "year": "1972",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872554363.jpg",
+            "title": "Emergency!",
+            "release": 1
+        },
+        {
+            "id": 5055038,
+            "year": "1973",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872931399.jpg",
+            "title": "Chase",
+            "release": 1
+        },
+        {
+            "id": 5054151,
+            "year": "1975",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Westwind",
+            "release": 1
+        },
+        {
+            "id": 4265844,
+            "year": "1972",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2491141979.jpg",
+            "title": "旧金山风物记 第一季",
+            "release": 1
+        },
+        {
+            "id": 2757378,
+            "year": "1971",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876935809.jpg",
+            "title": "吉米秀",
+            "release": 1
+        },
+        {
+            "id": 2149182,
+            "year": "1974",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539117670.jpg",
+            "title": "无敌金刚 第一季",
+            "release": 1
+        },
+        {
+            "id": 2073686,
+            "year": "1973",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2341029167.jpg",
+            "title": "神探酷杰克 第一季",
+            "release": 1
         }
     ],
     "introduction": "《红河》的剪辑-by大壮",
@@ -136,5 +106,5 @@
     "name_more_other": [
         "Chris (昵称)"
     ],
-    "update_at": "2025-01-18T10:28:18"
+    "update_at": "2025-06-19T23:14:18"
 }

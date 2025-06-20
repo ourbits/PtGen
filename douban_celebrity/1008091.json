@@ -1,5 +1,5 @@
 {
-    "sid": 1008091,
+    "sid": "1008091",
     "name": "黄霑",
     "site": "douban_celebrity",
     "roles": [
@@ -23,104 +23,74 @@
     "birth_place": "中国,广东,广州",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/37113983/",
+            "id": 37113983,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915327712.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "一代鬼才 黄霑",
-            "subject_id": "37113983"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/25783449/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2161150594.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "有一种电影叫香港",
-            "subject_id": "25783449"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34446716/",
+            "id": 34446716,
             "year": "2011",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2600833632.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "音乐传奇",
-            "subject_id": "34446716"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/24868140/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2271462568.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "私房药 第二季",
-            "subject_id": "24868140"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1863369/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359454113.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "外来媳妇本地郎",
-            "subject_id": "1863369"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26737506/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2322687009.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "丽花皇宫",
-            "subject_id": "26737506"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26974062/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "回到梦工场",
-            "subject_id": "26974062"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30132475/",
+            "id": 30132475,
             "year": "2001",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2894267641.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "三個光頭佬",
-            "subject_id": "30132475"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1302638/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1423783228.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "幽灵人间",
-            "subject_id": "1302638"
+            "id": 26974062,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "回到梦工场",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26779277/",
+            "id": 26779277,
             "year": "2001",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870654185.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "百万富翁",
-            "subject_id": "26779277"
+            "release": 1
+        },
+        {
+            "id": 26737506,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2322687009.jpg",
+            "title": "丽花皇宫",
+            "release": 1
+        },
+        {
+            "id": 25783449,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2161150594.jpg",
+            "title": "有一种电影叫香港",
+            "release": 1
+        },
+        {
+            "id": 24868140,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2271462568.jpg",
+            "title": "私房药 第二季",
+            "release": 1
+        },
+        {
+            "id": 1863369,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359454113.jpg",
+            "title": "外来媳妇本地郎",
+            "release": 1
+        },
+        {
+            "id": 1302638,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1423783228.jpg",
+            "title": "幽灵人间",
+            "release": 1
         }
     ],
     "introduction": "原名黄湛森，英文名James J.S.Wong。香港著名作家、词曲家。1941年广州出生，1949年随父母移民香港；早年入读喇沙书院，后升读港大，1963年毕业于港大中文系；先前从业广告、电影、作曲。任过香港电视台、电台主持人。为电影、电视剧、歌手、演员作品、导演作品、文学创作、古装歌舞剧、综艺晚会写过歌词。",
@@ -156,5 +126,5 @@
         "Jim Wong",
         "James J. S. Wong"
     ],
-    "update_at": "2025-01-18T06:49:20"
+    "update_at": "2025-06-20T19:21:15"
 }

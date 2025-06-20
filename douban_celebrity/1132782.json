@@ -1,5 +1,5 @@
 {
-    "sid": 1132782,
+    "sid": "1132782",
     "name": "未唯",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "日本,静冈县",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36498511/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2898633979.jpg",
-            "roles": [
-                "演员 (饰 爱子老师)"
-            ],
-            "title": "SEXY田中小姐",
-            "subject_id": "36498511"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35814105/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870371904.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "乃木坂明星诞生 第二季",
-            "subject_id": "35814105"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3832868/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515570116.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "燃烧吧！！小露宝",
-            "subject_id": "3832868"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26586228/",
-            "year": "1993",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "西村京太郎トラベルミステリー24 山手線五・八キロの証言",
-            "subject_id": "26586228"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5221826/",
-            "year": "1990",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Pachinko monogatari",
-            "subject_id": "5221826"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5184533/",
-            "year": "1990",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "夏色のアルバム",
-            "subject_id": "5184533"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37014923/",
+            "id": 37014923,
             "year": "1988",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
             "title": "公寓管理人的灾难",
-            "subject_id": "37014923"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36823961/",
+            "id": 36823961,
             "year": "1988",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905963091.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "CAT'S EYE キャッツ・アイ ミッドナイトは恋のアバンチュール",
-            "subject_id": "36823961"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36635728/",
+            "id": 36635728,
             "year": "1987",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2902607281.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "恋に恋して恋きぶん",
-            "subject_id": "36635728"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36502187/",
+            "id": 36502187,
             "year": "1987",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "東京−清里 ペンション村連続殺人",
-            "subject_id": "36502187"
+            "release": 1
+        },
+        {
+            "id": 36498511,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2898633979.jpg",
+            "title": "SEXY田中小姐",
+            "release": 1
+        },
+        {
+            "id": 35814105,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870371904.jpg",
+            "title": "乃木坂明星诞生 第二季",
+            "release": 1
+        },
+        {
+            "id": 26586228,
+            "year": "1993",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "西村京太郎トラベルミステリー24 山手線五・八キロの証言",
+            "release": 1
+        },
+        {
+            "id": 5221826,
+            "year": "1990",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Pachinko monogatari",
+            "release": 1
+        },
+        {
+            "id": 5184533,
+            "year": "1990",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "夏色のアルバム",
+            "release": 1
+        },
+        {
+            "id": 3832868,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515570116.jpg",
+            "title": "燃烧吧！！小露宝",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -126,5 +96,5 @@
         "Mie",
         "Mie Nemoto"
     ],
-    "update_at": "2025-01-19T06:35:20"
+    "update_at": "2025-06-20T17:07:08"
 }

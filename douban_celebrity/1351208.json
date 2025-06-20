@@ -1,5 +1,5 @@
 {
-    "sid": 1351208,
+    "sid": "1351208",
     "name": "克里斯蒂娜·马斯特森",
     "site": "douban_celebrity",
     "roles": [
@@ -16,114 +16,81 @@
     "birth_place": "美国,加州,洛杉矶",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36158184/",
+            "id": 36158184,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2883843879.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "最后的玫瑰",
-            "subject_id": "36158184"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30339455/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2555038967.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "海星",
-            "subject_id": "30339455"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27615565/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509403985.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "毒鲨",
-            "subject_id": "27615565"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35031523/",
+            "id": 35031523,
             "year": "2015",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2889459830.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Power Rangers Super Megaforce: The Legendary Battle",
-            "subject_id": "35031523"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26356500/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2235622672.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "超凡战队之极度动力 第二季",
-            "subject_id": "26356500"
-        },
-        {
-            "url": "https://movie.douban.com/subject/24828262/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2628615431.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "防鲨大作战",
-            "subject_id": "24828262"
-        },
-        {
-            "url": "https://movie.douban.com/subject/21360381/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2233226406.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "超凡战队之极度动力 第一季",
-            "subject_id": "21360381"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5289175/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2220384260.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "犯罪现场调查 第十一季",
-            "subject_id": "5289175"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3154387/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1196885978.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "死亡女孩",
-            "subject_id": "3154387"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1309182/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p735422206.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "怪兽婆婆",
-            "subject_id": "1309182"
-        },
-        {
-            "url": "https://movie.douban.com/subject/33477007/",
+            "id": 33477007,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2558290432.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "寂静的森林",
-            "subject_id": "33477007"
+            "release": 0
+        },
+        {
+            "id": 30339455,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2555038967.jpg",
+            "title": "海星",
+            "release": 1
+        },
+        {
+            "id": 27615565,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509403985.jpg",
+            "title": "毒鲨",
+            "release": 1
+        },
+        {
+            "id": 26356500,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2235622672.jpg",
+            "title": "超凡战队之极度动力 第二季",
+            "release": 1
+        },
+        {
+            "id": 24828262,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2628615431.jpg",
+            "title": "防鲨大作战",
+            "release": 1
+        },
+        {
+            "id": 21360381,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2233226406.jpg",
+            "title": "超凡战队之极度动力 第一季",
+            "release": 1
+        },
+        {
+            "id": 5289175,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2220384260.jpg",
+            "title": "犯罪现场调查 第十一季",
+            "release": 1
+        },
+        {
+            "id": 3154387,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1196885978.jpg",
+            "title": "死亡女孩",
+            "release": 1
+        },
+        {
+            "id": 1309182,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p735422206.jpg",
+            "title": "怪兽婆婆",
+            "release": 1
         }
     ],
     "introduction": "Christina Marie Masterson is a American film, stage and television actress who portrays Emma Goodall, the Pink Megaforce Ranger in Power Rangers Megaforce. She has roles in the upcoming Paranormal Whactivity and Monster and has already appeared in CSI and Deadgirl.",
@@ -136,5 +103,5 @@
     "name_more_other": [
         "Christina Marie Masterson"
     ],
-    "update_at": "2025-01-19T13:42:11"
+    "update_at": "2025-06-20T20:35:09"
 }

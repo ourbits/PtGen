@@ -1,5 +1,5 @@
 {
-    "sid": 1054580,
+    "sid": "1054580",
     "name": "博卡·格德斯维特",
     "site": "douban_celebrity",
     "roles": [
@@ -20,106 +20,74 @@
     "birth_place": "美国,纽约,雪城",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36799181/",
+            "id": 36799181,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905313748.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "凯尔·金南：长眠",
-            "subject_id": "36799181"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35068543/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2602887623.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "布拉沃兔历险记",
-            "subject_id": "35068543"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36161377/",
+            "id": 36161377,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2883935077.jpg",
-            "roles": [
-                "演员",
-                "导演",
-                "编剧"
-            ],
             "title": "Joy Ride",
-            "subject_id": "36161377"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35353854/",
+            "id": 35353854,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899694796.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "Don't Let The Pigeon Do Storytime",
-            "subject_id": "35353854"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/33218420/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2595327531.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "一开始是个笑话",
-            "subject_id": "33218420"
+            "id": 35068543,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2602887623.jpg",
+            "title": "布拉沃兔历险记",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/33415929/",
+            "id": 33415929,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2563853936.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "Ron Funches: Giggle Fit",
-            "subject_id": "33415929"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27003583/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518858294.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "爱你多一些",
-            "subject_id": "27003583"
+            "id": 33218420,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2595327531.jpg",
+            "title": "一开始是个笑话",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/25974705/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2541354479.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "追随者",
-            "subject_id": "25974705"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27615466/",
+            "id": 27615466,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2531312547.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "罗宾·威廉姆斯：记忆深处",
-            "subject_id": "27615466"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27116388/",
+            "id": 27116388,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2527811393.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "见怪不怪",
-            "subject_id": "27116388"
+            "release": 1
+        },
+        {
+            "id": 27003583,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518858294.jpg",
+            "title": "爱你多一些",
+            "release": 1
+        },
+        {
+            "id": 25974705,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2541354479.jpg",
+            "title": "追随者",
+            "release": 1
         }
     ],
     "introduction": "Robert Francis Goldthwait (born May 26, 1962), better known as Bobcat Goldthwait, is an American comedian, director, actor, voice actor, and screenwriter, known for his acerbic black comedy, delivered through an energetic stage persona with an unusual gruff and high-pitched voice. He came to prominence with his stand-up specials An Evening with Bobcat Goldthwait – Share the Warmth and Bob Goldthwait – Is He Like That All the Time? and his acting roles, including Zed in the Police Academy franchise.",
@@ -137,5 +105,5 @@
         "Bobscratch Goldfarb (昵称)",
         "The Bobcat (昵称)"
     ],
-    "update_at": "2025-01-19T17:35:26"
+    "update_at": "2025-06-20T10:28:16"
 }

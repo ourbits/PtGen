@@ -1,5 +1,5 @@
 {
-    "sid": 1356132,
+    "sid": "1356132",
     "name": "伊莎贝尔·格什克",
     "site": "douban_celebrity",
     "roles": [
@@ -15,54 +15,39 @@
     "birth_place": "Potsdam, German Democratic Republic",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30452121/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2592605178.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "头痛欲裂",
-            "subject_id": "30452121"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34445478/",
+            "id": 34445478,
             "year": "2016",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904890474.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "他人怀抱",
-            "subject_id": "34445478"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26578156/",
+            "id": 30452121,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2592605178.jpg",
+            "title": "头痛欲裂",
+            "release": 1
+        },
+        {
+            "id": 26578156,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2258311661.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "警方热线110：猛禽",
-            "subject_id": "26578156"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/10799406/",
+            "id": 10799406,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2151007154.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "小十三",
-            "subject_id": "10799406"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5102923/",
+            "id": 5102923,
             "year": "1998",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2887863438.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "正义面具",
-            "subject_id": "5102923"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -73,5 +58,5 @@
     "personage_link": "https://www.douban.com/personage/27490647/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T00:07:14"
+    "update_at": "2025-06-20T06:00:07"
 }

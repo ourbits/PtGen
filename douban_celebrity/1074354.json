@@ -1,5 +1,5 @@
 {
-    "sid": 1074354,
+    "sid": "1074354",
     "name": "Hannah Bridges",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "英国,米德尔塞克斯,西陵敦",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5195111/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Last Flight to Kuwait",
-            "subject_id": "5195111"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5203848/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Uncle Dad",
-            "subject_id": "5203848"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1441947/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2503764777.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "军情五处 第一季",
-            "subject_id": "1441947"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2348339/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "美发情缘",
-            "subject_id": "2348339"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2056710/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Happiness",
-            "subject_id": "2056710"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3057514/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Shades",
-            "subject_id": "3057514"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5084759/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2593506751.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Asylum",
-            "subject_id": "5084759"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2124848/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2216174374.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "我的一家人 第一季",
-            "subject_id": "2124848"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5094301/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2581246337.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "一夜停留",
-            "subject_id": "5094301"
-        },
-        {
-            "url": "https://movie.douban.com/subject/20450913/",
+            "id": 20450913,
             "year": "1986",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2219759982.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "急诊室的故事(英版) 第一季",
-            "subject_id": "20450913"
+            "release": 1
+        },
+        {
+            "id": 5203848,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Uncle Dad",
+            "release": 1
+        },
+        {
+            "id": 5195111,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Last Flight to Kuwait",
+            "release": 1
+        },
+        {
+            "id": 5094301,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2581246337.jpg",
+            "title": "一夜停留",
+            "release": 1
+        },
+        {
+            "id": 5084759,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2593506751.jpg",
+            "title": "The Asylum",
+            "release": 1
+        },
+        {
+            "id": 3057514,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "Shades",
+            "release": 1
+        },
+        {
+            "id": 2348339,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "美发情缘",
+            "release": 1
+        },
+        {
+            "id": 2124848,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2216174374.jpg",
+            "title": "我的一家人 第一季",
+            "release": 1
+        },
+        {
+            "id": 2056710,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "Happiness",
+            "release": 1
+        },
+        {
+            "id": 1441947,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2503764777.jpg",
+            "title": "军情五处 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27280107/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T15:28:10"
+    "update_at": "2025-06-20T10:49:13"
 }

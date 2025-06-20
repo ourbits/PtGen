@@ -1,5 +1,5 @@
 {
-    "sid": 1473300,
+    "sid": "1473300",
     "name": "张大力",
     "site": "douban_celebrity",
     "roles": [
@@ -16,44 +16,32 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36436479/",
+            "id": 36436479,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893037243.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "心奇爆龙战车x 龙装战甲",
-            "subject_id": "36436479"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5134231/",
+            "id": 5134231,
             "year": "1986",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2874454190.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
             "title": "富弗",
-            "subject_id": "5134231"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1807959/",
-            "year": "1981",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2533594555.jpg",
-            "roles": [
-                "演员 - 配音 (配 格格巫（广东台译制版前27集））)"
-            ],
-            "title": "蓝精灵 第一季",
-            "subject_id": "1807959"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1950570/",
+            "id": 1950570,
             "year": "1981",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868309659.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
             "title": "若草四姐妹",
-            "subject_id": "1950570"
+            "release": 1
+        },
+        {
+            "id": 1807959,
+            "year": "1981",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2533594555.jpg",
+            "title": "蓝精灵 第一季",
+            "release": 1
         }
     ],
     "introduction": "广州军区战士话剧团演员",
@@ -64,5 +52,5 @@
     "personage_link": "https://www.douban.com/personage/35928836/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T20:00:10"
+    "update_at": "2025-06-20T17:07:19"
 }

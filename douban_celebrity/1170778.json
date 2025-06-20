@@ -1,5 +1,5 @@
 {
-    "sid": 1170778,
+    "sid": "1170778",
     "name": "Kris Wilson",
     "site": "douban_celebrity",
     "roles": [
@@ -17,46 +17,32 @@
     "birth_place": "美国,华盛顿,西雅图",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26795149/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2352814904.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "氰化欢乐秀 第二季",
-            "subject_id": "26795149"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26269506/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2213137675.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "氰化欢乐秀 第一季",
-            "subject_id": "26269506"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27046432/",
+            "id": 27046432,
             "year": "2013",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2460429074.jpg",
-            "roles": [
-                "演员 - 配音",
-                "导演",
-                "编剧"
-            ],
             "title": "氰化欢乐秀短迷你剧 第一季",
-            "subject_id": "27046432"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1309141/",
+            "id": 26795149,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2352814904.jpg",
+            "title": "氰化欢乐秀 第二季",
+            "release": 1
+        },
+        {
+            "id": 26269506,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2213137675.jpg",
+            "title": "氰化欢乐秀 第一季",
+            "release": 1
+        },
+        {
+            "id": 1309141,
             "year": "2004",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2565516536.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "冰上奇迹",
-            "subject_id": "1309141"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -69,5 +55,5 @@
     "name_more_other": [
         "Kristopher James Wilson (本名)"
     ],
-    "update_at": "2025-01-18T07:56:22"
+    "update_at": "2025-06-20T03:35:09"
 }

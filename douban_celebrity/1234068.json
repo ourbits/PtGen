@@ -1,5 +1,5 @@
 {
-    "sid": 1234068,
+    "sid": "1234068",
     "name": "丽薇斯切尼迪",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "阿尔巴尼亚,地拉那",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3199797/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904253741.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "我最性感的一年",
-            "subject_id": "3199797"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1401940/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511636088.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "灵媒缉凶 第一季",
-            "subject_id": "1401940"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1806776/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2375145765.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "明星伙伴 第一季",
-            "subject_id": "1806776"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5237267/",
+            "id": 5237267,
             "year": "2003",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2533729974.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Eve Season 1",
-            "subject_id": "5237267"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1401931/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2262085933.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "橘子郡男孩  第一季",
-            "subject_id": "1401931"
+            "id": 3199797,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904253741.jpg",
+            "title": "我最性感的一年",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1305929/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1507650466.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "猎捕游戏",
-            "subject_id": "1305929"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1306753/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2645788639.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "聚焦人生",
-            "subject_id": "1306753"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2075575/",
+            "id": 2075575,
             "year": "2001",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2546145453.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "我的老婆和孩子",
-            "subject_id": "2075575"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1297314/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2517971067.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "挡不住的爱妹",
-            "subject_id": "1297314"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1825929/",
+            "id": 1825929,
             "year": "1999",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2571752919.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "再续前缘 第一季",
-            "subject_id": "1825929"
+            "release": 1
+        },
+        {
+            "id": 1806776,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2375145765.jpg",
+            "title": "明星伙伴 第一季",
+            "release": 1
+        },
+        {
+            "id": 1401940,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511636088.jpg",
+            "title": "灵媒缉凶 第一季",
+            "release": 1
+        },
+        {
+            "id": 1401931,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2262085933.jpg",
+            "title": "橘子郡男孩  第一季",
+            "release": 1
+        },
+        {
+            "id": 1306753,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2645788639.jpg",
+            "title": "聚焦人生",
+            "release": 1
+        },
+        {
+            "id": 1305929,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1507650466.jpg",
+            "title": "猎捕游戏",
+            "release": 1
+        },
+        {
+            "id": 1297314,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2517971067.jpg",
+            "title": "挡不住的爱妹",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -125,5 +95,5 @@
     "name_more_other": [
         "Evi (昵称)"
     ],
-    "update_at": "2025-01-19T18:21:10"
+    "update_at": "2025-06-20T04:49:12"
 }

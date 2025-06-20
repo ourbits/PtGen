@@ -1,5 +1,5 @@
 {
-    "sid": 1326544,
+    "sid": "1326544",
     "name": "刘索拉",
     "site": "douban_celebrity",
     "roles": [
@@ -22,113 +22,85 @@
     "birth_place": "中国,北京",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35907230/",
+            "id": 35907230,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873273870.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "圆桌什锦派",
-            "subject_id": "35907230"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30261982/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2619638087.jpg",
-            "roles": [
-                "音乐"
-            ],
-            "title": "故人如梦",
-            "subject_id": "30261982"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26897019/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2390929081.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "圆桌派 第一季",
-            "subject_id": "26897019"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26253586/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2365209367.jpg",
-            "roles": [
-                "音乐"
-            ],
-            "title": "冬",
-            "subject_id": "26253586"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6126442/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2210853894.jpg",
-            "roles": [
-                "演员 (饰 北洋女)"
-            ],
-            "title": "一步之遥",
-            "subject_id": "6126442"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2038365/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2888161819.jpg",
-            "roles": [
-                "音乐 - 作曲"
-            ],
-            "title": "十三棵泡桐",
-            "subject_id": "2038365"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1438708/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2546682556.jpg",
-            "roles": [
-                "演员 (饰 拉拉)",
-                "音乐",
-                "编剧"
-            ],
-            "title": "无穷动",
-            "subject_id": "1438708"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35681038/",
+            "id": 35681038,
             "year": "2001",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2753151152.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "百家讲坛：不停息的旋律",
-            "subject_id": "35681038"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26100432/",
+            "id": 30261982,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2619638087.jpg",
+            "title": "故人如梦",
+            "release": 1
+        },
+        {
+            "id": 26897019,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2390929081.jpg",
+            "title": "圆桌派 第一季",
+            "release": 1
+        },
+        {
+            "id": 26253586,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2365209367.jpg",
+            "title": "冬",
+            "release": 1
+        },
+        {
+            "id": 26100432,
             "year": "1998",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2205739118.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "锵锵三人行",
-            "subject_id": "26100432"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1308397/",
+            "id": 6126442,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2210853894.jpg",
+            "title": "一步之遥",
+            "release": 1
+        },
+        {
+            "id": 2038365,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2888161819.jpg",
+            "title": "十三棵泡桐",
+            "release": 1
+        },
+        {
+            "id": 1438708,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2546682556.jpg",
+            "title": "无穷动",
+            "release": 1
+        },
+        {
+            "id": 1308397,
             "year": "1988",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536180350.jpg",
-            "roles": [
-                "其它"
-            ],
             "title": "一个死者对生者的访问",
-            "subject_id": "1308397"
+            "release": 1
         }
     ],
-    "introduction": "\"祖籍陕西志丹，1955年生于北京，作曲家、小说家、人声表演艺术家。1983年毕业于中央音乐学院作曲系，并留校任教，曾为电影作过插曲，出过盒带，在北京举行过独唱音乐会。1977年考入中央音乐学院作曲系学习，师从于杜鸣心先生，1983年毕业后分配至中央民族学院任教。曾经被视为中国真正的“现代派”的作家。刘索拉的小说被看成是我国新时期“先锋派小说”的首批作品。她的小说多以音乐界生活为素材，采用“黑色幽默”的笔法，表现当代中国80年代的现实，笔下人物多为“精神贵族”或“迷惘的一代”。\"",
+    "introduction": "祖籍陕西志丹，生于北京，作曲家、小说家、人声表演艺术家。1977年考入中央音乐学院作曲系学习，1983年毕业后分配至中央民族学院任教。1982年开始发表作品，1985年发表代表作、中篇小说《你别无选择》，1986年加入中国作家协会。1988年后旅居英国，目前定居纽约。于1997年在纽约成立自己的音乐制作公司，致力于使中国传统音乐以一种新形象进入世界音乐界。主要音乐作品有《蓝调在东方》、《中国拼贴》、《缠》、《六月雪》等。一位曾经被视为中国真正的“现代派”的作家。1955年生于北京。1983年毕业于中央音乐学院作曲系，并留校任教，曾为电影作过插曲，出过盒带，在北京举行过独唱音乐会。1985年发表处女作《你别无选择》，随后发表中篇小说《蓝天绿海》、《寻找歌王》等。刘索拉的小说被看成是我国新时期“先锋派小说”的首批作品。她的小说多以音乐界生活为素材，采用“黑色幽默”的笔法，表现当代中国80年代的现实，笔下人物多为“精神贵州”或“迷惘的一代”。",
     "name_more_cn": [],
     "personage_id": "27484093",
     "family_member": [
-        "刘景范(父)"
+        "刘景范（父）",
+        "李建彤（母）",
+        "刘米拉（姐）",
+        "刘都都（兄）",
+        "刘志丹（伯）"
     ],
     "celebrity_link": "https://movie.douban.com/celebrity/1326544",
     "personage_link": "https://www.douban.com/personage/27484093/",
@@ -147,5 +119,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-17T11:00:17"
+    "update_at": "2025-06-20T20:28:23"
 }

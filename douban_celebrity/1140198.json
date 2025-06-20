@@ -1,9 +1,10 @@
 {
-    "sid": 1140198,
+    "sid": "1140198",
     "name": "Chris Roebuck",
     "site": "douban_celebrity",
     "roles": [
-        "演员"
+        "演员",
+        "编剧"
     ],
     "awards": [],
     "gender": "",
@@ -15,84 +16,67 @@
     "birth_place": "英国,诺丁汉",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3225319/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2334089224.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "恐怖的爸妈",
-            "subject_id": "3225319"
+            "id": 37387221,
+            "year": "2026",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "一触即发 第四季",
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/2077172/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2869503913.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "穿牛仔裤的十字军",
-            "subject_id": "2077172"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1958114/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2318004922.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "心理追凶 第一季",
-            "subject_id": "1958114"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1782195/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510235590.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "尼古拉斯·尼克贝",
-            "subject_id": "1782195"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3347261/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2283375311.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Blood",
-            "subject_id": "3347261"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3057518/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2506563678.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "医者心 第一季",
-            "subject_id": "3057518"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5096987/",
+            "id": 5096987,
             "year": "1997",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2558456713.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "神表奇旅",
-            "subject_id": "5096987"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2123623/",
+            "id": 3347261,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2283375311.jpg",
+            "title": "Blood",
+            "release": 1
+        },
+        {
+            "id": 3225319,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2334089224.jpg",
+            "title": "恐怖的爸妈",
+            "release": 1
+        },
+        {
+            "id": 3057518,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2506563678.jpg",
+            "title": "医者心 第一季",
+            "release": 1
+        },
+        {
+            "id": 2123623,
             "year": "1993",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2867749666.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "山区诊所",
-            "subject_id": "2123623"
+            "release": 1
+        },
+        {
+            "id": 2077172,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2869503913.jpg",
+            "title": "穿牛仔裤的十字军",
+            "release": 1
+        },
+        {
+            "id": 1958114,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2318004922.jpg",
+            "title": "心理追凶 第一季",
+            "release": 1
+        },
+        {
+            "id": 1782195,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510235590.jpg",
+            "title": "尼古拉斯·尼克贝",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -105,5 +89,5 @@
     "name_more_other": [
         "Christopher Roebuck"
     ],
-    "update_at": "2025-01-18T22:21:09"
+    "update_at": "2025-06-20T01:42:05"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1057171,
+    "sid": "1057171",
     "name": "赫敏·巴德利",
     "site": "douban_celebrity",
     "roles": [
@@ -18,104 +18,74 @@
     "birth_place": "英国,英格兰,什罗普郡,布罗斯利",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5048985/",
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2546340148.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Shadow Chasers",
-            "subject_id": "5048985"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5049888/",
-            "year": "1983",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2628214242.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "一女焉能配三夫",
-            "subject_id": "5049888"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5220278/",
-            "year": "1983",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Last Leaf",
-            "subject_id": "5220278"
-        },
-        {
-            "url": "https://movie.douban.com/subject/33377208/",
+            "id": 33377208,
             "year": "1983",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2557950236.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "神勇女探",
-            "subject_id": "33377208"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1307267/",
-            "year": "1982",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1516419152.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "鼠谭秘奇",
-            "subject_id": "1307267"
+            "id": 5220278,
+            "year": "1983",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Last Leaf",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5051048/",
-            "year": "1981",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Two of Us",
-            "subject_id": "5051048"
+            "id": 5052181,
+            "year": "1979",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "$weepstake$",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3559476/",
-            "year": "1980",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2640455296.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "There Goes the Bride",
-            "subject_id": "3559476"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2073384/",
-            "year": "1980",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872552489.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "夏威夷神探 第一季",
-            "subject_id": "2073384"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5052084/",
+            "id": 5052084,
             "year": "1979",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2624863701.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Trapper John, M.D.",
-            "subject_id": "5052084"
+            "title": "外科医生",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5052181/",
-            "year": "1979",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "$weepstake$",
-            "subject_id": "5052181"
+            "id": 5051048,
+            "year": "1981",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "The Two of Us",
+            "release": 1
+        },
+        {
+            "id": 5049888,
+            "year": "1983",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2628214242.jpg",
+            "title": "一女焉能配三夫",
+            "release": 1
+        },
+        {
+            "id": 5048985,
+            "year": "1985",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2546340148.jpg",
+            "title": "Shadow Chasers",
+            "release": 1
+        },
+        {
+            "id": 3559476,
+            "year": "1980",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2640455296.jpg",
+            "title": "There Goes the Bride",
+            "release": 1
+        },
+        {
+            "id": 2073384,
+            "year": "1980",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872552489.jpg",
+            "title": "夏威夷神探 第一季",
+            "release": 1
+        },
+        {
+            "id": 1307267,
+            "year": "1982",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1516419152.jpg",
+            "title": "鼠谭秘奇",
+            "release": 1
         }
     ],
     "introduction": "史上最短的奥斯卡表演奖提名者，金屋泪痕中出场3次，累计不足3分钟表演。",
@@ -133,5 +103,5 @@
     "name_more_other": [
         "Hermione Youlanda Ruby Clinton-Baddeley (本名)"
     ],
-    "update_at": "2025-01-19T19:42:15"
+    "update_at": "2025-06-20T11:42:23"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1072490,
+    "sid": "1072490",
     "name": "小伊莱莎·库克",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "美国,加利福尼亚州,旧金山",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/2365686/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2323529446.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "约翰·休斯顿：特立独行之人",
-            "subject_id": "2365686"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3143704/",
-            "year": "1987",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635186509.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "破茧威龙",
-            "subject_id": "3143704"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2153521/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2408124880.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "家有阿福 第一季",
-            "subject_id": "2153521"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3059577/",
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2521571844.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "迷离时空 第一季",
-            "subject_id": "3059577"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3640944/",
+            "id": 5235402,
             "year": "1984",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870174606.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "夜间法庭",
-            "subject_id": "3640944"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5235402/",
-            "year": "1984",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Treasure: In Search of the Golden Horse",
-            "subject_id": "5235402"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5049207/",
-            "year": "1984",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512040403.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "一战泯恩仇",
-            "subject_id": "5049207"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4706800/",
-            "year": "1984",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2619190220.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "亲情平安夜",
-            "subject_id": "4706800"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5050062/",
+            "id": 5050062,
             "year": "1983",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2637800084.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Whiz Kids",
-            "subject_id": "5050062"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3003238/",
+            "id": 5049207,
+            "year": "1984",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512040403.jpg",
+            "title": "一战泯恩仇",
+            "release": 1
+        },
+        {
+            "id": 4706800,
+            "year": "1984",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2619190220.jpg",
+            "title": "亲情平安夜",
+            "release": 1
+        },
+        {
+            "id": 3640944,
+            "year": "1984",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870174606.jpg",
+            "title": "夜间法庭",
+            "release": 1
+        },
+        {
+            "id": 3143704,
+            "year": "1987",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635186509.jpg",
+            "title": "破茧威龙",
+            "release": 1
+        },
+        {
+            "id": 3059577,
+            "year": "1985",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2521571844.jpg",
+            "title": "迷离时空 第一季",
+            "release": 1
+        },
+        {
+            "id": 3003238,
             "year": "1983",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2591904339.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "电影狂热",
-            "subject_id": "3003238"
+            "release": 1
+        },
+        {
+            "id": 2365686,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2323529446.jpg",
+            "title": "约翰·休斯顿：特立独行之人",
+            "release": 1
+        },
+        {
+            "id": 2153521,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2408124880.jpg",
+            "title": "家有阿福 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -132,5 +102,5 @@
         "Hollywood's Lightest Heavy (昵称)",
         "Cookie (昵称)"
     ],
-    "update_at": "2025-01-18T05:21:11"
+    "update_at": "2025-06-20T02:56:10"
 }

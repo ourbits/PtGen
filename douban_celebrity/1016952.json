@@ -1,5 +1,5 @@
 {
-    "sid": 1016952,
+    "sid": "1016952",
     "name": "Bozidar 'Bota' Nikolic",
     "site": "douban_celebrity",
     "roles": [
@@ -17,112 +17,74 @@
     "birth_place": "南斯拉夫,黑山,尼克希奇",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5212529/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2910969557.jpg",
-            "roles": [
-                "摄影"
-            ],
-            "title": "Duhovi Sarajeva",
-            "subject_id": "5212529"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5219382/",
+            "id": 5219382,
             "year": "2005",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2193890654.jpg",
-            "roles": [
-                "导演",
-                "摄影",
-                "制片人"
-            ],
             "title": "Balkanska braca",
-            "subject_id": "5219382"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5123439/",
+            "id": 5212529,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2910969557.jpg",
+            "title": "Duhovi Sarajeva",
+            "release": 1
+        },
+        {
+            "id": 5123439,
             "year": "2003",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "摄影"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Island Heart",
-            "subject_id": "5123439"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3392238/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2393178564.jpg",
-            "roles": [
-                "导演",
-                "摄影",
-                "编剧"
-            ],
-            "title": "以父与子的名义",
-            "subject_id": "3392238"
+            "id": 5089817,
+            "year": "1991",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Boje slepila",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3432899/",
+            "id": 5089663,
+            "year": "1989",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Osmi dan u nedelji",
+            "release": 1
+        },
+        {
+            "id": 3584648,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Jednog lepog dana",
+            "release": 1
+        },
+        {
+            "id": 3432899,
             "year": "1993",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876688909.jpg",
-            "roles": [
-                "导演",
-                "摄影"
-            ],
             "title": "去荷里活的三张车票",
-            "subject_id": "3432899"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5089817/",
-            "year": "1991",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "Boje slepila",
-            "subject_id": "5089817"
+            "id": 3392238,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2393178564.jpg",
+            "title": "以父与子的名义",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3213958/",
+            "id": 3213958,
             "year": "1990",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2172473136.jpg",
-            "roles": [
-                "摄影"
-            ],
             "title": "无声的火药",
-            "subject_id": "3213958"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5089663/",
-            "year": "1989",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "摄影"
-            ],
-            "title": "Osmi dan u nedelji",
-            "subject_id": "5089663"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3584648/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "摄影"
-            ],
-            "title": "Jednog lepog dana",
-            "subject_id": "3584648"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1400876/",
+            "id": 1400876,
             "year": "1988",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2403966859.jpg",
-            "roles": [
-                "导演",
-                "摄影"
-            ],
             "title": "再见艳阳天",
-            "subject_id": "1400876"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -136,5 +98,5 @@
         "Bozidar Nikolic",
         "Bozo Nikolic"
     ],
-    "update_at": "2025-01-18T22:14:08"
+    "update_at": "2025-06-20T17:49:12"
 }

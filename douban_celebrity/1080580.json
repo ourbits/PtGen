@@ -1,5 +1,5 @@
 {
-    "sid": 1080580,
+    "sid": "1080580",
     "name": "劳拉·德拉斯拜克",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "丹麦,哥本哈根,诺瑞布罗‎",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/34848575/",
+            "id": 34848575,
             "year": "2020",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
             "title": "Alfa",
-            "subject_id": "34848575"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4910850/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885841325.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "赛门与玛洛",
-            "subject_id": "4910850"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5168913/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2882028413.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Den fremmede",
-            "subject_id": "5168913"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5163635/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2498446448.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Lærkevej",
-            "subject_id": "5163635"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4897795/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "哥本哈根",
-            "subject_id": "4897795"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3182689/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2880557206.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "黛西之钻",
-            "subject_id": "3182689"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2028021/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2176249377.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "回音男孩",
-            "subject_id": "2028021"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3190573/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509313560.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "我曾是瑞士银行家",
-            "subject_id": "3190573"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2276904/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "超自然学院",
-            "subject_id": "2276904"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5203869/",
+            "id": 5203869,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2162845696.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "丹麦版谋杀 第一季",
-            "subject_id": "5203869"
+            "release": 1
+        },
+        {
+            "id": 5168913,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2882028413.jpg",
+            "title": "Den fremmede",
+            "release": 1
+        },
+        {
+            "id": 5163635,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2498446448.jpg",
+            "title": "拉尔克大道",
+            "release": 1
+        },
+        {
+            "id": 4910850,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885841325.jpg",
+            "title": "赛门与玛洛",
+            "release": 1
+        },
+        {
+            "id": 4897795,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "哥本哈根",
+            "release": 1
+        },
+        {
+            "id": 3190573,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509313560.jpg",
+            "title": "我曾是瑞士银行家",
+            "release": 1
+        },
+        {
+            "id": 3182689,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2880557206.jpg",
+            "title": "黛西之钻",
+            "release": 1
+        },
+        {
+            "id": 2276904,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "超自然学院",
+            "release": 1
+        },
+        {
+            "id": 2028021,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2176249377.jpg",
+            "title": "回音男孩",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27286339/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T05:14:06"
+    "update_at": "2025-06-20T02:35:07"
 }

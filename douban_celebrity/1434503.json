@@ -1,5 +1,5 @@
 {
-    "sid": 1434503,
+    "sid": "1434503",
     "name": "安德烈·安东尼",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "加拿大,温哥华",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36409199/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906127541.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "活死人之节",
-            "subject_id": "36409199"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36761842/",
+            "id": 36761842,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904113783.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "猜猜谁是谁",
-            "subject_id": "36761842"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35558659/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2889055525.jpg",
-            "roles": [
-                "演员 (饰 Matteo)"
-            ],
-            "title": "暗夜情报员 第一季",
-            "subject_id": "35558659"
+            "id": 36409199,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906127541.jpg",
+            "title": "活死人之节",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35763091/",
+            "id": 36139826,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2921356082.jpg",
+            "title": "我能有个见证人吗",
+            "release": 1
+        },
+        {
+            "id": 35763091,
             "year": "2023",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2888654749.jpg",
-            "roles": [
-                "演员 (饰 Frankie)"
-            ],
             "title": "惊声尖叫6",
-            "subject_id": "35763091"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34800433/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2694637488.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "我们有人在撒谎 第一季",
-            "subject_id": "34800433"
+            "id": 35558659,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2922148869.jpg",
+            "title": "暗夜情报员 第一季",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30457157/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2581279223.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "蓝皮书计划 第二季",
-            "subject_id": "30457157"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34840121/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "急救精英 第十三季",
-            "subject_id": "34840121"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30454902/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2548334800.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "加速吧蕾恩 第一季",
-            "subject_id": "30454902"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34935913/",
+            "id": 34935913,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2591846569.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "维多利亚 高蒂: 我父亲的女儿",
-            "subject_id": "34935913"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30192286/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2533903669.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "河谷镇 第三季",
-            "subject_id": "30192286"
+            "id": 34840121,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "急救精英 第十三季",
+            "release": 1
+        },
+        {
+            "id": 34800433,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2694637488.jpg",
+            "title": "我们有人在撒谎 第一季",
+            "release": 1
+        },
+        {
+            "id": 30457157,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2581279223.jpg",
+            "title": "蓝皮书计划 第二季",
+            "release": 1
+        },
+        {
+            "id": 30454902,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2548334800.jpg",
+            "title": "加速吧蕾恩",
+            "release": 1
         }
     ],
     "introduction": "A graduate from the University of Southern California (USC), Andre received a Bachelor's degree in theatre, along with a minor in cinematic arts. He has appeared on screen in TV shows such as Riverdale, Supergirl, Scorpion, Fast Layne and more.",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/35002128/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T13:56:07"
+    "update_at": "2025-06-20T06:35:16"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1075843,
+    "sid": "1075843",
     "name": "Bob Cunningham",
     "site": "douban_celebrity",
     "roles": [
@@ -16,105 +16,74 @@
     "birth_place": "美国,堪萨斯州,艾奇逊",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5048043/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2377451407.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "核谋",
-            "subject_id": "5048043"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5051962/",
-            "year": "1979",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2681396949.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "肉",
-            "subject_id": "5051962"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5051793/",
-            "year": "1978",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2459925457.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Plutonium",
-            "subject_id": "5051793"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1297004/",
-            "year": "1978",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914995837.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "目标大作战",
-            "subject_id": "1297004"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1298033/",
-            "year": "1978",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2172110336.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "丽人劫",
-            "subject_id": "1298033"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5054920/",
-            "year": "1972",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2556286119.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "尘土中的太阳",
-            "subject_id": "5054920"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4237375/",
-            "year": "1971",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2625180387.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "雷警菲菲 第一季",
-            "subject_id": "4237375"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1306377/",
-            "year": "1970",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2410596692.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "世运铁人",
-            "subject_id": "1306377"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5056818/",
+            "id": 5056818,
             "year": "1968",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2564138083.jpg",
-            "roles": [
-                "演员",
-                "编剧"
-            ],
             "title": "Radhapura - Endstation der Verdammten",
-            "subject_id": "5056818"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1293327/",
+            "id": 5054920,
+            "year": "1972",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2556286119.jpg",
+            "title": "尘土中的太阳",
+            "release": 1
+        },
+        {
+            "id": 5051962,
+            "year": "1979",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2681397040.jpg",
+            "title": "肉",
+            "release": 1
+        },
+        {
+            "id": 5051793,
+            "year": "1978",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2459925457.jpg",
+            "title": "Plutonium",
+            "release": 1
+        },
+        {
+            "id": 5048043,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2377451407.jpg",
+            "title": "核谋",
+            "release": 1
+        },
+        {
+            "id": 4237375,
+            "year": "1971",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2625180387.jpg",
+            "title": "雷警菲菲 第一季",
+            "release": 1
+        },
+        {
+            "id": 1306377,
+            "year": "1970",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2410596692.jpg",
+            "title": "世运铁人",
+            "release": 1
+        },
+        {
+            "id": 1298033,
+            "year": "1978",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2172110336.jpg",
+            "title": "丽人劫",
+            "release": 1
+        },
+        {
+            "id": 1297004,
+            "year": "1978",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2407416288.jpg",
+            "title": "目标大作战",
+            "release": 1
+        },
+        {
+            "id": 1293327,
             "year": "1968",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2575316727.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "沙拉克",
-            "subject_id": "1293327"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -127,5 +96,5 @@
     "name_more_other": [
         "Robert Cunningham"
     ],
-    "update_at": "2025-01-18T13:28:17"
+    "update_at": "2025-06-20T21:21:12"
 }

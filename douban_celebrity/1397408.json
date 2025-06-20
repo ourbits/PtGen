@@ -1,5 +1,5 @@
 {
-    "sid": 1397408,
+    "sid": "1397408",
     "name": "马里奥·曼祖基奇",
     "site": "douban_celebrity",
     "roles": [
@@ -7,7 +7,7 @@
     ],
     "awards": [],
     "gender": "男",
-    "poster": "https://img1.doubanio.com/view/celebrity/m/public/pMvGo8n4rnBocel_avatar_uploaded1531583215.82.jpg",
+    "poster": "https://img1.doubanio.com/view/personage/l/public/96791a0eaa644d0f4593310c9298c343.jpg",
     "imdb_id": "nm5129147",
     "name_en": "Mario Mandzukic",
     "name_full": "马里奥·曼祖基奇 Mario Mandzukic",
@@ -15,107 +15,77 @@
     "birth_place": "克罗地亚,斯拉沃尼亚布罗德",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35580096/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885255299.jpg",
-            "roles": [
-                "演员 - 自己 (饰 克罗地亚教练)"
-            ],
-            "title": "2022年卡塔尔世界杯",
-            "subject_id": "35580096"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35633401/",
+            "id": 35633401,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873768805.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "曼朱基奇：尖锋斗士",
-            "subject_id": "35633401"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35624798/",
+            "id": 35624798,
             "year": "2021",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "AC Milan vs Atalanta",
-            "subject_id": "35624798"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34987865/",
+            "id": 35580096,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885255299.jpg",
+            "title": "2022年卡塔尔世界杯",
+            "release": 1
+        },
+        {
+            "id": 34987865,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870307628.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Juventus Begin Prep for Atletico Madrid",
-            "subject_id": "34987865"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34658990/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2563538533.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "意甲联赛19/20赛季",
-            "subject_id": "34658990"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34782334/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2564559263.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "青春凯旋：2018年世界杯纪录片",
-            "subject_id": "34782334"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34797313/",
+            "id": 34797313,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897872963.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "世界杯半决赛克罗地亚VS英格兰",
-            "subject_id": "34797313"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34797269/",
+            "id": 34797269,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2887606340.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Argentina vs Croatia",
-            "subject_id": "34797269"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34463351/",
+            "id": 34782334,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2564559263.jpg",
+            "title": "青春凯旋：2018年世界杯纪录片",
+            "release": 1
+        },
+        {
+            "id": 34658990,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2878419037.jpg",
+            "title": "意甲联赛19/20赛季",
+            "release": 1
+        },
+        {
+            "id": 34463351,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2562105267.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "意甲联赛18/19赛季",
-            "subject_id": "34463351"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30276285/",
+            "id": 30276285,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529293766.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "法国队，俄罗斯世界杯之心",
-            "subject_id": "30276285"
+            "release": 1
         }
     ],
-    "introduction": "暂无",
+    "introduction": "马里奥·曼祖基奇（Mario Mandžukić），1986年5月21日出生于前南斯拉夫斯拉沃尼亚布罗德，前克罗地亚足球运动员，球员时代司职中锋，现为克罗地亚国家队教练组成员。1992年在TSF Ditzingen开始了职业足球生涯。1996年回到自己的祖国，加入了当地的NK Marsonia俱乐部。2007年，曼祖基奇加盟克罗地亚俱乐部萨格勒布迪纳摩。2010年7月，曼祖基奇加盟狼堡。2012年6月，曼祖基奇加盟拜仁。2013年，曼祖基奇跟随拜仁获得五冠王，并连续第二年当选克罗地亚足球先生。2015年6月，曼祖基奇转会加盟尤文图斯。2018年俄罗斯世界杯，曼祖基奇随队夺得亚军。2019年12月，曼祖基奇加盟卡星联的杜海勒。2021年1月，曼祖基奇加盟AC米兰。2021年9月3日，曼祖基奇宣布退役。2021年11月，曼祖基奇成为克罗地亚国家队教练组成员。",
     "name_more_cn": [
         "马里奥·曼朱基奇"
     ],
@@ -127,5 +97,5 @@
     "name_more_other": [
         "Mario Mandžukić"
     ],
-    "update_at": "2025-01-18T09:00:17"
+    "update_at": "2025-06-20T05:56:18"
 }

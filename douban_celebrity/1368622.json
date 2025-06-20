@@ -1,5 +1,5 @@
 {
-    "sid": 1368622,
+    "sid": "1368622",
     "name": "库尔班江·赛买提",
     "site": "douban_celebrity",
     "roles": [
@@ -18,116 +18,81 @@
     "birth_place": "中国,新疆,和田",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35472614/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873032230.jpg",
-            "roles": [
-                "导演",
-                "制片人 - 总策划/总出品人/总制片人"
-            ],
-            "title": "新疆滋味",
-            "subject_id": "35472614"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27605536/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2526934579.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "我到新疆去",
-            "subject_id": "27605536"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26935280/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2407122318.jpg",
-            "roles": [
-                "摄影"
-            ],
-            "title": "自然的力量",
-            "subject_id": "26935280"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26422700/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359502891.jpg",
-            "roles": [
-                "其它"
-            ],
-            "title": "我从新疆来",
-            "subject_id": "26422700"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26021836/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2206441799.jpg",
-            "roles": [
-                "演员 - 自己 (饰 乐嘉战队选手)"
-            ],
-            "title": "我是演说家 第一季",
-            "subject_id": "26021836"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26665401/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2553623780.jpg",
-            "roles": [
-                "摄影"
-            ],
-            "title": "牦牛",
-            "subject_id": "26665401"
-        },
-        {
-            "url": "https://movie.douban.com/subject/20502514/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2162088080.jpg",
-            "roles": [
-                "摄影 - 第一集摄影"
-            ],
-            "title": "舌尖上的中国 第二季",
-            "subject_id": "20502514"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25757950/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2187260911.jpg",
-            "roles": [
-                "摄影"
-            ],
-            "title": "时尚圈",
-            "subject_id": "25757950"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25709458/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2103178690.jpg",
-            "roles": [
-                "摄影"
-            ],
-            "title": "丝路，重新开始的旅程",
-            "subject_id": "25709458"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26584811/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911467464.jpg",
-            "roles": [
-                "演员 - 自己 (饰 20181210期选手)"
-            ],
-            "title": "开门大吉",
-            "subject_id": "26584811"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36902567/",
+            "id": 36902567,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908508663.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "我到新疆去 第二季",
-            "subject_id": "36902567"
+            "release": 0
+        },
+        {
+            "id": 35472614,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873032230.jpg",
+            "title": "新疆滋味",
+            "release": 1
+        },
+        {
+            "id": 27605536,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2526934579.jpg",
+            "title": "我到新疆去",
+            "release": 1
+        },
+        {
+            "id": 26935280,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2407122318.jpg",
+            "title": "自然的力量",
+            "release": 1
+        },
+        {
+            "id": 26665401,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2553623780.jpg",
+            "title": "牦牛",
+            "release": 1
+        },
+        {
+            "id": 26584811,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911467464.jpg",
+            "title": "开门大吉",
+            "release": 1
+        },
+        {
+            "id": 26422700,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359502891.jpg",
+            "title": "我从新疆来",
+            "release": 1
+        },
+        {
+            "id": 26021836,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2206441799.jpg",
+            "title": "我是演说家 第一季",
+            "release": 1
+        },
+        {
+            "id": 25757950,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2187260911.jpg",
+            "title": "时尚圈",
+            "release": 1
+        },
+        {
+            "id": 25709458,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2103178690.jpg",
+            "title": "丝路，重新开始的旅程",
+            "release": 1
+        },
+        {
+            "id": 20502514,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2162088080.jpg",
+            "title": "舌尖上的中国 第二季",
+            "release": 1
         }
     ],
     "introduction": "\"库尔班江·赛买提（Kurbanjan·Samat，قۇربانجان سەمەت），维吾尔族，1982年9月14日出生于新疆和田，中国摄影家协会会员，中国民俗摄影协会博学会士，中国维吾尔历史文化研究会会员，中央电视台纪录频道摄像师，自由摄影师，独立策展人。\\r\\n库尔班江·赛买提策划并拍摄了《我从新疆来》图片专题，用镜头和文字记录了不同民族、不同职业、不同年龄在内地工作生活的一百多位普通新疆人的故事，展现了当代新疆人敢于拼搏实现梦想的形象。\\r\\n2014年12月9日，中共中央政治局常委、全国政协主席俞正声在京会见了《我从新疆来》作者库尔班江·赛买提和在京书中人物代表。\"",
@@ -147,5 +112,5 @@
     "name_more_other": [
         "قۇربانجان سەمەت"
     ],
-    "update_at": "2025-01-18T03:14:13"
+    "update_at": "2025-06-20T13:21:23"
 }

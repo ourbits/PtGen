@@ -1,5 +1,5 @@
 {
-    "sid": 1041160,
+    "sid": "1041160",
     "name": "盖瑞·马歇尔",
     "site": "douban_celebrity",
     "roles": [
@@ -19,104 +19,74 @@
     "birth_place": "美国,纽约",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26612648/",
+            "id": 26612648,
             "year": "2016",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2456947322.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "电影配乐传奇",
-            "subject_id": "26612648"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26436645/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2342278423.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "母亲节",
-            "subject_id": "26436645"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26387954/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2352425718.jpg",
-            "roles": [
-                "演员 (饰 Oscar’s father)"
-            ],
-            "title": "天生冤家 第二季",
-            "subject_id": "26387954"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26474394/",
+            "id": 26474394,
             "year": "2014",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2255278659.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "呼啦圈人生",
-            "subject_id": "26474394"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/24753813/",
+            "id": 26436645,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2342278423.jpg",
+            "title": "母亲节",
+            "release": 1
+        },
+        {
+            "id": 26387954,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2352425718.jpg",
+            "title": "天生冤家 第二季",
+            "release": 1
+        },
+        {
+            "id": 24753813,
             "year": "2013",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2209150871.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "好汉两个半 第十一季",
-            "subject_id": "24753813"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4301056/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1273197404.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "新年前夜",
-            "subject_id": "4301056"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3688345/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2217208716.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "孤独的死亡之所",
-            "subject_id": "3688345"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5279662/",
+            "id": 5279662,
             "year": "2010",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914027028.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
             "title": "辛普森一家 第二十二季",
-            "subject_id": "5279662"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2368641/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p466564944.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "情人节",
-            "subject_id": "2368641"
+            "id": 4301056,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1273197404.jpg",
+            "title": "新年前夜",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3042484/",
+            "id": 3688345,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2217208716.jpg",
+            "title": "孤独的死亡之所",
+            "release": 1
+        },
+        {
+            "id": 3042484,
             "year": "2009",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p509059232.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "寻找福佑",
-            "subject_id": "3042484"
+            "release": 1
+        },
+        {
+            "id": 2368641,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p466564944.jpg",
+            "title": "情人节",
+            "release": 1
         }
     ],
     "introduction": "美国影视界传奇人物，导演、演员、作家及制片人。所执导的影评包括《对头冤家》、《逃跑新娘》、《风月俏佳人》、《公主日记》等多部经典作品。",
@@ -138,5 +108,5 @@
     "name_more_other": [
         "Garry Kent Marsciarelli (本名)"
     ],
-    "update_at": "2025-01-19T04:00:23"
+    "update_at": "2025-06-20T01:07:21"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1479968,
+    "sid": "1479968",
     "name": "Laurel Lefkow",
     "site": "douban_celebrity",
     "roles": [
@@ -15,44 +15,32 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/6999837/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899564697.jpg",
-            "roles": [
-                "演员 (饰 UW Registrar)"
-            ],
-            "title": "赛艇男孩",
-            "subject_id": "6999837"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35901863/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893369499.jpg",
-            "roles": [
-                "演员 (饰 Dr Atkinson)"
-            ],
-            "title": "黑镜 第六季",
-            "subject_id": "35901863"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36181093/",
+            "id": 36181093,
             "year": "2023",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2896648482.jpg",
-            "roles": [
-                "演员 (饰 Connie)"
-            ],
             "title": "公平竞争",
-            "subject_id": "36181093"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26753903/",
+            "id": 35901863,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893369499.jpg",
+            "title": "黑镜 第六季",
+            "release": 1
+        },
+        {
+            "id": 26753903,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2505618242.jpg",
-            "roles": [
-                "演员 (饰 Mrs. Isaacson)"
-            ],
             "title": "沉默的天使 第一季",
-            "subject_id": "26753903"
+            "release": 1
+        },
+        {
+            "id": 6999837,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899564697.jpg",
+            "title": "赛艇男孩",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -63,5 +51,5 @@
     "personage_link": "https://www.douban.com/personage/36146352/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T13:49:05"
+    "update_at": "2025-06-20T20:14:22"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1357248,
+    "sid": "1357248",
     "name": "安德鲁·伯恩斯坦",
     "site": "douban_celebrity",
     "roles": [
@@ -15,124 +15,88 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35125277/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2829953542.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "黑钱胜地 第四季",
-            "subject_id": "35125277"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3161109/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2665224649.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "基地 第一季",
-            "subject_id": "3161109"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27097935/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2618163976.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "太空先锋",
-            "subject_id": "27097935"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30246686/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2576096389.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "局外人",
-            "subject_id": "30246686"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30205129/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2564153586.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "杰克·莱恩 第二季",
-            "subject_id": "30205129"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3262045/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542089115.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "伞学院 第一季",
-            "subject_id": "3262045"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27113985/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532573565.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "黑钱胜地 第二季",
-            "subject_id": "27113985"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26735549/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2492954903.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "黑钱胜地 第一季",
-            "subject_id": "26735549"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26773029/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2455984573.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "行尸之惧 第三季",
-            "subject_id": "26773029"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26644866/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2297083500.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "外人止步 第一季",
-            "subject_id": "26644866"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37098187/",
-            "year": "2026",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914813712.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "杰克·莱恩",
-            "subject_id": "37098187"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37133406/",
+            "id": 37133406,
             "year": "2026",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915783517.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "沉默之河",
-            "subject_id": "37133406"
+            "release": 0
+        },
+        {
+            "id": 37098187,
+            "year": "2026",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2918583830.jpg",
+            "title": "杰克·莱恩",
+            "release": 0
+        },
+        {
+            "id": 35125277,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2829953542.jpg",
+            "title": "黑钱胜地 第四季",
+            "release": 1
+        },
+        {
+            "id": 30246686,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2576096389.jpg",
+            "title": "局外人",
+            "release": 1
+        },
+        {
+            "id": 30205129,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2564153586.jpg",
+            "title": "杰克·莱恩 第二季",
+            "release": 1
+        },
+        {
+            "id": 27113985,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532573565.jpg",
+            "title": "黑钱胜地 第二季",
+            "release": 1
+        },
+        {
+            "id": 27097935,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2618163976.jpg",
+            "title": "太空先锋",
+            "release": 1
+        },
+        {
+            "id": 26773029,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2455984573.jpg",
+            "title": "行尸之惧 第三季",
+            "release": 1
+        },
+        {
+            "id": 26735549,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2492954903.jpg",
+            "title": "黑钱胜地 第一季",
+            "release": 1
+        },
+        {
+            "id": 26644866,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2297083500.jpg",
+            "title": "外人止步 第一季",
+            "release": 1
+        },
+        {
+            "id": 3262045,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542089115.jpg",
+            "title": "伞学院 第一季",
+            "release": 1
+        },
+        {
+            "id": 3161109,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2665224649.jpg",
+            "title": "基地 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -143,5 +107,5 @@
     "personage_link": "https://www.douban.com/personage/27502562/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T14:14:20"
+    "update_at": "2025-06-20T19:28:06"
 }

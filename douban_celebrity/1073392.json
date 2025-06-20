@@ -1,5 +1,5 @@
 {
-    "sid": 1073392,
+    "sid": "1073392",
     "name": "Ken Christiansen",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "英国,兰开斯特",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/34849039/",
+            "id": 34849039,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2631461424.jpg",
-            "roles": [
-                "演员 (饰 Karl Benning)"
-            ],
             "title": "这是罪",
-            "subject_id": "34849039"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/23752579/",
+            "id": 23752579,
             "year": "2013",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2158452448.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "自私的巨人",
-            "subject_id": "23752579"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5175744/",
+            "id": 5175744,
             "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Fish Eye",
-            "subject_id": "5175744"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2046539/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2309656701.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "战地新娘",
-            "subject_id": "2046539"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3887563/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2326968721.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "霍尔比市 第一季",
-            "subject_id": "3887563"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5095868/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Picking up the Pieces",
-            "subject_id": "5095868"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5097732/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893449455.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "梦之队",
-            "subject_id": "5097732"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1941203/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2255182533.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "心之所在 第一季",
-            "subject_id": "1941203"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5110290/",
-            "year": "1996",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Insiders",
-            "subject_id": "5110290"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5145388/",
+            "id": 5145388,
             "year": "1995",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2620567922.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "哈特利夫人与成长中心",
-            "subject_id": "5145388"
+            "release": 1
+        },
+        {
+            "id": 5110290,
+            "year": "1996",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Insiders",
+            "release": 1
+        },
+        {
+            "id": 5097732,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893449455.jpg",
+            "title": "梦之队",
+            "release": 1
+        },
+        {
+            "id": 5095868,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Picking up the Pieces",
+            "release": 1
+        },
+        {
+            "id": 3887563,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2326968721.jpg",
+            "title": "霍尔比市 第一季",
+            "release": 1
+        },
+        {
+            "id": 2046539,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2309656701.jpg",
+            "title": "战地新娘",
+            "release": 1
+        },
+        {
+            "id": 1941203,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2255182533.jpg",
+            "title": "心之所在 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -125,5 +95,5 @@
     "name_more_other": [
         "Ken Christianson"
     ],
-    "update_at": "2025-01-19T06:56:22"
+    "update_at": "2025-06-20T04:28:06"
 }

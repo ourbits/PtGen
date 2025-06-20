@@ -1,5 +1,5 @@
 {
-    "sid": 1137503,
+    "sid": "1137503",
     "name": "Kimmo Rasila",
     "site": "douban_celebrity",
     "roles": [
@@ -16,44 +16,32 @@
     "birth_place": "芬兰,奥卢",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3229272/",
+            "id": 5146804,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Kaverille ei jätetä",
+            "release": 1
+        },
+        {
+            "id": 3774541,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2918838454.jpg",
+            "title": "深海小宇宙",
+            "release": 1
+        },
+        {
+            "id": 3229272,
             "year": "2008",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p998801531.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "四月之泪",
-            "subject_id": "3229272"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3774541/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "深海小宇宙",
-            "subject_id": "3774541"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1298779/",
+            "id": 1298779,
             "year": "2000",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508617670.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "纵情欲海",
-            "subject_id": "1298779"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5146804/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Kaverille ei jätetä",
-            "subject_id": "5146804"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -66,5 +54,5 @@
     "name_more_other": [
         "Kimmo Juhani Rasila (本名)"
     ],
-    "update_at": "2025-01-19T01:21:12"
+    "update_at": "2025-06-20T06:42:12"
 }

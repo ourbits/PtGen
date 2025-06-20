@@ -1,5 +1,5 @@
 {
-    "sid": 1398024,
+    "sid": "1398024",
     "name": "Jason Asuncion",
     "site": "douban_celebrity",
     "roles": [
@@ -15,84 +15,60 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36236245/",
+            "id": 36236245,
             "year": "2023",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "电影看门人",
-            "subject_id": "36236245"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35014953/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2593608151.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Olde Township",
-            "subject_id": "35014953"
+            "id": 35876692,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Turbulence",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35164033/",
+            "id": 35164033,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2617183512.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "颠倒的魔法",
-            "subject_id": "35164033"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/33428942/",
+            "id": 35014953,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2593608151.jpg",
+            "title": "The Olde Township",
+            "release": 1
+        },
+        {
+            "id": 33428942,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2602535376.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "新阴阳魔界 第二季",
-            "subject_id": "33428942"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30303227/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2592901740.jpg",
-            "roles": [
-                "演员 (饰 Prison Guard)"
-            ],
-            "title": "天黑请回家 第一季",
-            "subject_id": "30303227"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26841335/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2528955380.jpg",
-            "roles": [
-                "演员 (饰 KD Hallway Monk)"
-            ],
-            "title": "杀手一班",
-            "subject_id": "26841335"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30486726/",
+            "id": 30486726,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2550474493.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "The Shipment",
-            "subject_id": "30486726"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35876692/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Turbulence",
-            "subject_id": "35876692"
+            "id": 30303227,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2592901740.jpg",
+            "title": "天黑请回家 第一季",
+            "release": 1
+        },
+        {
+            "id": 26841335,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2528955380.jpg",
+            "title": "杀手一班",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -103,5 +79,5 @@
     "personage_link": "https://www.douban.com/personage/30283367/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T22:00:15"
+    "update_at": "2025-06-20T20:14:15"
 }

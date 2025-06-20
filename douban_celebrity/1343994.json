@@ -1,5 +1,5 @@
 {
-    "sid": 1343994,
+    "sid": "1343994",
     "name": "弗雷德里奎·费德",
     "site": "douban_celebrity",
     "roles": [
@@ -15,24 +15,18 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1292047/",
-            "year": "1994",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2173726043.jpg",
-            "roles": [
-                "演员 (饰 卡琳 Karin)"
-            ],
-            "title": "蓝白红三部曲之红",
-            "subject_id": "1292047"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1308342/",
+            "id": 1308342,
             "year": "1991",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2878167587.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "爱情探子",
-            "subject_id": "1308342"
+            "release": 1
+        },
+        {
+            "id": 1292047,
+            "year": "1994",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2173726043.jpg",
+            "title": "蓝白红三部曲之红",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -43,5 +37,5 @@
     "personage_link": "https://www.douban.com/personage/27489630/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T21:07:17"
+    "update_at": "2025-06-19T23:14:09"
 }

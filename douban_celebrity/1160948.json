@@ -1,5 +1,5 @@
 {
-    "sid": 1160948,
+    "sid": "1160948",
     "name": "H.M. Wynant",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "美国,密歇根州,底特律",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30226761/",
+            "id": 30226761,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2581677094.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "客厅里的棺材",
-            "subject_id": "30226761"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4254232/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "失而复得的骨架",
-            "subject_id": "4254232"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2078843/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "昨天是个谎言",
-            "subject_id": "2078843"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5182898/",
+            "id": 5182898,
             "year": "2009",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2884774077.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "漆黑风雨夜",
-            "subject_id": "5182898"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4861994/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2521034305.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "尖叫的额头",
-            "subject_id": "4861994"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5169407/",
+            "id": 5169407,
             "year": "2005",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Whigmaleerie",
-            "subject_id": "5169407"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2043928/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2867563051.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "人到中年 第一季",
-            "subject_id": "2043928"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4075104/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2516726177.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "白宫风云  第五季",
-            "subject_id": "4075104"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5109360/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Big Empty",
-            "subject_id": "5109360"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5112641/",
+            "id": 5112641,
             "year": "1993",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871904664.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "深海巡弋",
-            "subject_id": "5112641"
+            "release": 1
+        },
+        {
+            "id": 5109360,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Big Empty",
+            "release": 1
+        },
+        {
+            "id": 4861994,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2521034305.jpg",
+            "title": "尖叫的额头",
+            "release": 1
+        },
+        {
+            "id": 4254232,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "失而复得的骨架",
+            "release": 1
+        },
+        {
+            "id": 4075104,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2516726177.jpg",
+            "title": "白宫风云  第五季",
+            "release": 1
+        },
+        {
+            "id": 2078843,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "昨天是个谎言",
+            "release": 1
+        },
+        {
+            "id": 2043928,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2867563051.jpg",
+            "title": "人到中年 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -128,5 +98,5 @@
         "Haim Winant",
         "H. N. Wynant"
     ],
-    "update_at": "2025-01-19T20:42:10"
+    "update_at": "2025-06-20T09:42:16"
 }

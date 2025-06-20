@@ -1,5 +1,5 @@
 {
-    "sid": 1038533,
+    "sid": "1038533",
     "name": "克里斯托弗·贝克",
     "site": "douban_celebrity",
     "roles": [
@@ -17,58 +17,39 @@
     "birth_place": "美国,北卡罗莱纳州,夏洛特",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/25755250/",
+            "id": 25755250,
             "year": "2015",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2215209422.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "伊朗式分手",
-            "subject_id": "25755250"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3319741/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p738254395.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "夺命深渊",
-            "subject_id": "3319741"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5151673/",
+            "id": 5151673,
             "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "剪辑",
-                "摄影",
-                "制片人",
-                "编剧"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Chinese Chiller",
-            "subject_id": "5151673"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3660033/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1012123352.jpg",
-            "roles": [
-                "美术 - 布景师"
-            ],
-            "title": "夏日炎炎",
-            "subject_id": "3660033"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5052884/",
+            "id": 5052884,
             "year": "1986",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2638960312.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "酒店拍档",
-            "subject_id": "5052884"
+            "release": 1
+        },
+        {
+            "id": 3660033,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1012123352.jpg",
+            "title": "夏日炎炎",
+            "release": 1
+        },
+        {
+            "id": 3319741,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p738254395.jpg",
+            "title": "夺命深渊",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -82,5 +63,5 @@
         "Christopher Michael Baker (本名)",
         "Cbake (昵称)"
     ],
-    "update_at": "2025-01-18T08:21:22"
+    "update_at": "2025-06-20T02:28:17"
 }

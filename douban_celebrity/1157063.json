@@ -1,5 +1,5 @@
 {
-    "sid": 1157063,
+    "sid": "1157063",
     "name": "Sean Smith",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "美国,伊利诺伊州,芝加哥",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1337286/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2190803888.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "绝望主妇 第一季",
-            "subject_id": "1337286"
+            "id": 5138290,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Warren Millers Ride",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3054440/",
+            "id": 5132107,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Bobby's Whore",
+            "release": 1
+        },
+        {
+            "id": 5087410,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "Hope Island",
+            "release": 1
+        },
+        {
+            "id": 3054440,
             "year": "2004",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906604652.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "棒球少年",
-            "subject_id": "3054440"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1418748/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2621983176.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "死亡地带 第一季",
-            "subject_id": "1418748"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2083834/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2365587309.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "玉米田的小孩7",
-            "subject_id": "2083834"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5132107/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Bobby's Whore",
-            "subject_id": "5132107"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5138290/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "Warren Millers Ride",
-            "subject_id": "5138290"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1306514/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515712794.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "一群傻瓜",
-            "subject_id": "1306514"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2060710/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2910625417.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "女朋友",
-            "subject_id": "2060710"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2279087/",
+            "id": 2279087,
             "year": "1999",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895696620.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "太奇怪了",
-            "subject_id": "2279087"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5087410/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Hope Island",
-            "subject_id": "5087410"
+            "id": 2083834,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2365587309.jpg",
+            "title": "玉米田的小孩7",
+            "release": 1
+        },
+        {
+            "id": 2060710,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2910625417.jpg",
+            "title": "女朋友",
+            "release": 1
+        },
+        {
+            "id": 1418748,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2621983176.jpg",
+            "title": "死亡地带 第一季",
+            "release": 1
+        },
+        {
+            "id": 1337286,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2190803888.jpg",
+            "title": "绝望主妇 第一季",
+            "release": 1
+        },
+        {
+            "id": 1306514,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515712794.jpg",
+            "title": "一群傻瓜",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27362948/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T17:21:24"
+    "update_at": "2025-06-20T17:35:13"
 }

@@ -1,12 +1,11 @@
 {
-    "sid": 1313828,
+    "sid": "1313828",
     "name": "蓝乃才",
     "site": "douban_celebrity",
     "roles": [
         "摄影",
         "导演",
-        "编剧",
-        "摄影"
+        "编剧"
     ],
     "awards": [],
     "gender": "男",
@@ -18,107 +17,74 @@
     "birth_place": "中国香港",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1484138/",
-            "year": "1992",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2165703222.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "卫斯理之老猫",
-            "subject_id": "1484138"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1308912/",
-            "year": "1992",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2572468333.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "力王",
-            "subject_id": "1308912"
-        },
-        {
-            "url": "https://movie.douban.com/subject/11584182/",
+            "id": 11584182,
             "year": "1990",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2572816719.jpg",
-            "roles": [
-                "导演",
-                "摄影"
-            ],
             "title": "聊斋艳谭",
-            "subject_id": "11584182"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1299373/",
-            "year": "1990",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2162023242.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "阿修罗",
-            "subject_id": "1299373"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2339750/",
-            "year": "1989",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2391579978.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "帝都大战",
-            "subject_id": "2339750"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1307445/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2348611104.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "孔雀王子",
-            "subject_id": "1307445"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1484139/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2047107967.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "血玫瑰",
-            "subject_id": "1484139"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3057948/",
+            "id": 3057948,
             "year": "1987",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2887708723.jpg",
-            "roles": [
-                "导演",
-                "摄影"
-            ],
             "title": "不夜天",
-            "subject_id": "3057948"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1294279/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2164764586.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "原振侠与卫斯理",
-            "subject_id": "1294279"
+            "id": 2339750,
+            "year": "1989",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2391579978.jpg",
+            "title": "帝都大战",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1479816/",
+            "id": 1484139,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2047107967.jpg",
+            "title": "血玫瑰",
+            "release": 1
+        },
+        {
+            "id": 1484138,
+            "year": "1992",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2165703222.jpg",
+            "title": "卫斯理之老猫",
+            "release": 1
+        },
+        {
+            "id": 1479816,
             "year": "1986",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2346869035.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "谁是鬼?",
-            "subject_id": "1479816"
+            "release": 1
+        },
+        {
+            "id": 1308912,
+            "year": "1992",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2572468333.jpg",
+            "title": "力王",
+            "release": 1
+        },
+        {
+            "id": 1307445,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2348611104.jpg",
+            "title": "孔雀王子",
+            "release": 1
+        },
+        {
+            "id": 1299373,
+            "year": "1990",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2162023242.jpg",
+            "title": "阿修罗",
+            "release": 1
+        },
+        {
+            "id": 1294279,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2164764586.jpg",
+            "title": "原振侠与卫斯理",
+            "release": 1
         }
     ],
     "introduction": "中国香港影视导演、摄影、编剧。生于香港。师从日本摄影师西本正(又名贺兰山)学习摄影，后随胡金铨、李翰祥等任摄影。1981年与李修贤合作执导《单程路》(兼摄影)。他使用声、光、电的科幻片手法与特殊摄影的现代手段形成新颖的导演效果，在香港影坛别具一格。主要作品有《原振侠与卫斯理》The Seventh Curse/《俾捉鬼》The Ghost Snatchers 1986/《不夜天》Killer’s Nocturne 1987/《孔雀王子》The Peacock King 1988(港、日)/《阿修罗》Saga of the Phoenix(港、日)、《一眉道人》1990、《力王》Story of Ricky 1991等。其中《原振侠与卫斯理》送东京国际幻想电影节展映，《俾捉鬼》、《不夜天》送香港幻想电影节展映。",
@@ -129,5 +95,5 @@
     "personage_link": "https://www.douban.com/personage/27494238/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T21:42:11"
+    "update_at": "2025-06-20T05:00:25"
 }

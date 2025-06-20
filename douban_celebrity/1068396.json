@@ -1,5 +1,5 @@
 {
-    "sid": 1068396,
+    "sid": "1068396",
     "name": "沃尔特·科伊",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "美国,蒙大拿州",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/2174133/",
-            "year": "1978",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508858610.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "食汝之皮",
-            "subject_id": "2174133"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3584589/",
-            "year": "1973",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912368225.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "大罢工",
-            "subject_id": "3584589"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1298620/",
-            "year": "1972",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2410286181.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "恶魔将军",
-            "subject_id": "1298620"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1296340/",
-            "year": "1971",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2576727935.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "盗宝智多星",
-            "subject_id": "1296340"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5057042/",
-            "year": "1968",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2586645722.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Outcasts",
-            "subject_id": "5057042"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3992018/",
-            "year": "1968",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2913560701.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Two Faces West",
-            "subject_id": "3992018"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2270288/",
-            "year": "1967",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2234202516.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "无敌铁探长 第一季",
-            "subject_id": "2270288"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3191828/",
-            "year": "1967",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2125891280.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "El magnifico extranjero",
-            "subject_id": "3191828"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4848740/",
-            "year": "1965",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2625841482.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "飙风战警",
-            "subject_id": "4848740"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5058218/",
+            "id": 5058218,
             "year": "1965",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2638931289.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Laredo",
-            "subject_id": "5058218"
+            "release": 1
+        },
+        {
+            "id": 5057042,
+            "year": "1968",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2586645722.jpg",
+            "title": "The Outcasts",
+            "release": 1
+        },
+        {
+            "id": 4848740,
+            "year": "1965",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2625841482.jpg",
+            "title": "飙风战警",
+            "release": 1
+        },
+        {
+            "id": 3992018,
+            "year": "1968",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2913560701.jpg",
+            "title": "Two Faces West",
+            "release": 1
+        },
+        {
+            "id": 3584589,
+            "year": "1973",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912368225.jpg",
+            "title": "大罢工",
+            "release": 1
+        },
+        {
+            "id": 3191828,
+            "year": "1967",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2125891280.jpg",
+            "title": "El magnifico extranjero",
+            "release": 1
+        },
+        {
+            "id": 2270288,
+            "year": "1967",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2234202516.jpg",
+            "title": "无敌铁探长 第一季",
+            "release": 1
+        },
+        {
+            "id": 2174133,
+            "year": "1978",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508858610.jpg",
+            "title": "食汝之皮",
+            "release": 1
+        },
+        {
+            "id": 1298620,
+            "year": "1972",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2410286181.jpg",
+            "title": "恶魔将军",
+            "release": 1
+        },
+        {
+            "id": 1296340,
+            "year": "1971",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2576727935.jpg",
+            "title": "盗宝智多星",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -130,5 +100,5 @@
     "name_more_other": [
         "Walter Darwin Coy (本名)"
     ],
-    "update_at": "2025-01-19T05:07:08"
+    "update_at": "2025-06-20T01:28:17"
 }

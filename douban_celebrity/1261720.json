@@ -1,5 +1,5 @@
 {
-    "sid": 1261720,
+    "sid": "1261720",
     "name": "马里奥·戈麦斯",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "德国,巴登符腾堡州,Riedlingen",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/34463349/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2562105152.jpg",
-            "roles": [
-                "演员 - 自己 (饰 斯图加特队前锋)"
-            ],
-            "title": "德甲联赛18/19赛季",
-            "subject_id": "34463349"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30230651/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2526154419.jpg",
-            "roles": [
-                "演员 - 自己 (饰 德国队前锋)"
-            ],
-            "title": "2018年俄罗斯世界杯",
-            "subject_id": "30230651"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34806110/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2890377507.jpg",
-            "roles": [
-                "演员 - 自己 (饰 沃尔夫斯堡队前锋/斯图加特队前锋)"
-            ],
-            "title": "2017-2018赛季 德国足球甲级联赛",
-            "subject_id": "34806110"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34806109/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2684723930.jpg",
-            "roles": [
-                "演员 - 自己 (饰 沃尔夫斯堡队前锋)"
-            ],
-            "title": "2016-2017赛季 德国足球甲级联赛",
-            "subject_id": "34806109"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26812736/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2358355579.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "2016法国欧洲杯",
-            "subject_id": "26812736"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25698292/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2125920068.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "温布利：足球回家",
-            "subject_id": "25698292"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34445067/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "12/13德甲多特VS拜仁",
-            "subject_id": "34445067"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34806113/",
+            "id": 34806113,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2636045930.jpg",
-            "roles": [
-                "演员 - 自己 (饰 拜仁慕尼黑队前锋)"
-            ],
             "title": "2012-2013赛季 德国足球甲级联赛",
-            "subject_id": "34806113"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30476860/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885256326.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "2012年欧洲杯足球赛",
-            "subject_id": "30476860"
+            "id": 34806110,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2890377507.jpg",
+            "title": "2017-2018赛季 德国足球甲级联赛",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34445785/",
+            "id": 34806109,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2684723930.jpg",
+            "title": "2016-2017赛季 德国足球甲级联赛",
+            "release": 1
+        },
+        {
+            "id": 34463349,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2562105152.jpg",
+            "title": "德甲联赛18/19赛季",
+            "release": 1
+        },
+        {
+            "id": 34445785,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900400429.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "11/12欧冠半决赛拜仁VS皇马",
-            "subject_id": "34445785"
+            "release": 1
+        },
+        {
+            "id": 34445067,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "12/13德甲多特VS拜仁",
+            "release": 1
+        },
+        {
+            "id": 30476860,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885256326.jpg",
+            "title": "2012年欧洲杯足球赛",
+            "release": 1
+        },
+        {
+            "id": 30230651,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2526154419.jpg",
+            "title": "2018年俄罗斯世界杯",
+            "release": 1
+        },
+        {
+            "id": 26812736,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2358355579.jpg",
+            "title": "2016法国欧洲杯",
+            "release": 1
+        },
+        {
+            "id": 25698292,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2125920068.jpg",
+            "title": "温布利：足球回家",
+            "release": 1
         }
     ],
     "introduction": "德国足球运动员，目前效力德国足球甲级联赛球会拜仁慕尼黑。他的父亲是西班牙人，而他的母亲是德国人。戈麦斯在2005/06年球季获提升到斯图加特一队，2007年8月，他以196票成为继贝肯鲍尔之后，史上第二位最年轻的德国足球先生。2009年5月26日，戈麦斯以三千万欧元转投拜仁慕尼黑，刷新德甲的最高转会费纪录。2010/11赛季德甲金靴，2011/12赛季德甲银靴、欧冠银靴。2012年波兰-乌克兰欧洲杯银靴。",
@@ -127,5 +97,5 @@
     "name_more_other": [
         "Mario Gómez García (本名)"
     ],
-    "update_at": "2025-01-18T16:21:07"
+    "update_at": "2025-06-20T05:49:15"
 }

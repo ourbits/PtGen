@@ -1,5 +1,5 @@
 {
-    "sid": 1019326,
+    "sid": "1019326",
     "name": "理查德·沃尔夫",
     "site": "douban_celebrity",
     "roles": [
@@ -17,104 +17,74 @@
     "birth_place": "美国,马萨诸塞州,温斯洛普",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5057806/",
-            "year": "1966",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "制片人"
-            ],
-            "title": "The Tammy Grimes Show",
-            "subject_id": "5057806"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5058243/",
-            "year": "1965",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2623940327.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "Branded",
-            "subject_id": "5058243"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5058205/",
-            "year": "1965",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "Please Don't Eat the Daisies",
-            "subject_id": "5058205"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5058212/",
-            "year": "1965",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "Mona McCluskey",
-            "subject_id": "5058212"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4848740/",
-            "year": "1965",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2625841482.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "飙风战警",
-            "subject_id": "4848740"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5058544/",
-            "year": "1964",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "Mickey",
-            "subject_id": "5058544"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5058864/",
-            "year": "1963",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2165018334.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "Vacation Playhouse",
-            "subject_id": "5058864"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5058872/",
-            "year": "1963",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2165018487.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "Petticoat Junction",
-            "subject_id": "5058872"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5058884/",
-            "year": "1963",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2135143991.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "East Side/West Side",
-            "subject_id": "5058884"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5059271/",
+            "id": 5059271,
             "year": "1962",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2886658659.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "The Beverly Hillbillies",
-            "subject_id": "5059271"
+            "release": 1
+        },
+        {
+            "id": 5058884,
+            "year": "1963",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2135143991.jpg",
+            "title": "East Side/West Side",
+            "release": 1
+        },
+        {
+            "id": 5058872,
+            "year": "1963",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2165018487.jpg",
+            "title": "Petticoat Junction",
+            "release": 1
+        },
+        {
+            "id": 5058864,
+            "year": "1963",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2165018334.jpg",
+            "title": "Vacation Playhouse",
+            "release": 1
+        },
+        {
+            "id": 5058544,
+            "year": "1964",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Mickey",
+            "release": 1
+        },
+        {
+            "id": 5058243,
+            "year": "1965",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2623940327.jpg",
+            "title": "Branded",
+            "release": 1
+        },
+        {
+            "id": 5058212,
+            "year": "1965",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Mona McCluskey",
+            "release": 1
+        },
+        {
+            "id": 5058205,
+            "year": "1965",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Please Don't Eat the Daisies",
+            "release": 1
+        },
+        {
+            "id": 5057806,
+            "year": "1966",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Tammy Grimes Show",
+            "release": 1
+        },
+        {
+            "id": 4848740,
+            "year": "1965",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2625841482.jpg",
+            "title": "飙风战警",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -133,5 +103,5 @@
         "Richard Baker Whorf (本名)",
         "Dickie (昵称)"
     ],
-    "update_at": "2025-01-19T19:00:10"
+    "update_at": "2025-06-20T15:56:14"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1049878,
+    "sid": "1049878",
     "name": "琪娜·安妮·麦克兰",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "美国,乔治亚州,迪凯特",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36220579/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908610049.jpg",
-            "roles": [
-                "演员 (饰 Uma)"
-            ],
-            "title": "星光继承者：公主反叛联盟",
-            "subject_id": "36220579"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36930832/",
+            "id": 36930832,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911672725.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "后裔：皇家婚礼",
-            "subject_id": "36930832"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34941658/",
+            "id": 36220579,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908610049.jpg",
+            "title": "星光继承者：公主反叛联盟",
+            "release": 1
+        },
+        {
+            "id": 34941658,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2631472212.jpg",
-            "roles": [
-                "演员 (饰 Jennifer Pierce / Lightning)"
-            ],
             "title": "黑霹雳 第四季",
-            "subject_id": "34941658"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34777756/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2619864280.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "休比的万圣节",
-            "subject_id": "34777756"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30450379/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2569326038.jpg",
-            "roles": [
-                "演员 (饰 Jennifer Pierce / Lightning)"
-            ],
-            "title": "黑霹雳 第三季",
-            "subject_id": "30450379"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30150142/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2563057682.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "后裔3",
-            "subject_id": "30150142"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27025487/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2555153773.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "浴血兄弟",
-            "subject_id": "27025487"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30336297/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2535286970.jpg",
-            "roles": [
-                "演员 (饰 Jennifer Pierce / Lightning)"
-            ],
-            "title": "黑霹雳 第二季",
-            "subject_id": "30336297"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34845808/",
+            "id": 34845808,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2594886354.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "后裔短剧：海洋之下",
-            "subject_id": "34845808"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26868388/",
+            "id": 34777756,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2619864280.jpg",
+            "title": "休比的万圣节",
+            "release": 1
+        },
+        {
+            "id": 30450379,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2569326038.jpg",
+            "title": "黑霹雳 第三季",
+            "release": 1
+        },
+        {
+            "id": 30336297,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2535286970.jpg",
+            "title": "黑霹雳 第二季",
+            "release": 1
+        },
+        {
+            "id": 30150142,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2563057682.jpg",
+            "title": "后裔3",
+            "release": 1
+        },
+        {
+            "id": 27025487,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2555153773.jpg",
+            "title": "浴血兄弟",
+            "release": 1
+        },
+        {
+            "id": 26868388,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508619237.jpg",
-            "roles": [
-                "演员 (饰 Jennifer Pierce)"
-            ],
             "title": "黑霹雳 第一季",
-            "subject_id": "26868388"
+            "release": 1
         }
     ],
     "introduction": "琪娜·安妮·麦克莱恩是一位美国女演员和歌手。麦克莱恩七岁时开始了她的职业生涯，在电影《福音》中扮演亚历克西斯，然后在《爸爸的小女孩》中扮演柴娜·詹姆斯。",
@@ -129,5 +99,5 @@
     "name_more_other": [
         "Nina Boochie (昵称)"
     ],
-    "update_at": "2025-01-19T00:00:09"
+    "update_at": "2025-06-20T15:28:08"
 }

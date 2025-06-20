@@ -1,5 +1,5 @@
 {
-    "sid": 1352812,
+    "sid": "1352812",
     "name": "马中轩",
     "site": "douban_celebrity",
     "roles": [
@@ -16,114 +16,81 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36093771/",
+            "id": 36093771,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2880376656.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "剿匪女侠樊梨花",
-            "subject_id": "36093771"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34968749/",
+            "id": 34968749,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2586464638.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "伏魔罗汉",
-            "subject_id": "34968749"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34460232/",
+            "id": 34460232,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2561903516.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "封神传说之妖狐王妃",
-            "subject_id": "34460232"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30465832/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2557294687.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "精武陈真",
-            "subject_id": "30465832"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27133037/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2545808347.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "西游传奇之宝象国斗神纪",
-            "subject_id": "27133037"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27611665/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511351583.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "拯救悟空",
-            "subject_id": "27611665"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30156320/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2514825825.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "白夜侠",
-            "subject_id": "30156320"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27133038/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510250731.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "大梦西游4伏妖记",
-            "subject_id": "27133038"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26554935/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2301392774.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "冰球小王子",
-            "subject_id": "26554935"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25985615/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2202875159.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "烽火双雄",
-            "subject_id": "25985615"
-        },
-        {
-            "url": "https://movie.douban.com/subject/33716964/",
+            "id": 33716964,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2558720083.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "天堂行动",
-            "subject_id": "33716964"
+            "release": 0
+        },
+        {
+            "id": 30465832,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2557294687.jpg",
+            "title": "精武陈真",
+            "release": 1
+        },
+        {
+            "id": 30156320,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2514825825.jpg",
+            "title": "白夜侠",
+            "release": 1
+        },
+        {
+            "id": 27611665,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511351583.jpg",
+            "title": "拯救悟空",
+            "release": 1
+        },
+        {
+            "id": 27133038,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510250731.jpg",
+            "title": "大梦西游4伏妖记",
+            "release": 1
+        },
+        {
+            "id": 27133037,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2545808347.jpg",
+            "title": "西游传奇之宝象国斗神纪",
+            "release": 1
+        },
+        {
+            "id": 26554935,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2301392774.jpg",
+            "title": "冰球小王子",
+            "release": 1
+        },
+        {
+            "id": 25985615,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2202875159.jpg",
+            "title": "烽火双雄",
+            "release": 1
         }
     ],
     "introduction": "马中轩8岁习武，1974年入选山东省武术队。曾多次获得团体冠军和单项冠军（长拳、棍术、剑术、传统拳、双钩、对练）；在省队期间，多次获得全国武术邀请赛、精英赛冠、亚军；是中国首批“武英级”（中国武术运动最高技术等级）运动员、中国武术七段。曾代表中国武术团出访美国、德国、瑞士、哥伦比亚、墨西哥等二十多个国家和地区进行表演和教学。他凭借精湛的功夫和俊朗的外形，踏入影视圈，曾在《特攻队》、《卧虎藏龙》、《霍元甲》、《太极张三丰》等多部影片中摄演角色，",
@@ -134,5 +101,5 @@
     "personage_link": "https://www.douban.com/personage/27485083/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T22:42:20"
+    "update_at": "2025-06-20T05:07:15"
 }

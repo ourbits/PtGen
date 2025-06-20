@@ -1,5 +1,5 @@
 {
-    "sid": 1325730,
+    "sid": "1325730",
     "name": "洪小英",
     "site": "douban_celebrity",
     "roles": [
@@ -16,44 +16,32 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/34781230/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2588341823.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Paboos",
-            "subject_id": "34781230"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30172140/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2516492140.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "波鲁鲁恐龙岛历险记",
-            "subject_id": "30172140"
-        },
-        {
-            "url": "https://movie.douban.com/subject/20416699/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1831981432.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "波鲁鲁冰雪大冒险",
-            "subject_id": "20416699"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35919523/",
+            "id": 35919523,
             "year": "2008",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873982848.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "纸朋友 第一季",
-            "subject_id": "35919523"
+            "release": 1
+        },
+        {
+            "id": 34781230,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2588341823.jpg",
+            "title": "Paboos",
+            "release": 1
+        },
+        {
+            "id": 30172140,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2516492140.jpg",
+            "title": "波鲁鲁恐龙岛历险记",
+            "release": 1
+        },
+        {
+            "id": 20416699,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1831981432.jpg",
+            "title": "波鲁鲁冰雪大冒险",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -66,5 +54,5 @@
     "name_more_other": [
         "홍소영(本名)"
     ],
-    "update_at": "2025-01-19T04:42:09"
+    "update_at": "2025-06-20T22:35:09"
 }

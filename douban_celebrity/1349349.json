@@ -1,5 +1,5 @@
 {
-    "sid": 1349349,
+    "sid": "1349349",
     "name": "皮特·J.加里",
     "site": "douban_celebrity",
     "roles": [
@@ -15,44 +15,32 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/6039412/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2234995897.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "时光尽头的恋人",
-            "subject_id": "6039412"
-        },
-        {
-            "url": "https://movie.douban.com/subject/21348445/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2233495210.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "女孩闺房",
-            "subject_id": "21348445"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25830684/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2198605693.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "邪恶力量 第十季",
-            "subject_id": "25830684"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35474053/",
+            "id": 35474053,
             "year": "2013",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2652507306.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "女煞星复仇",
-            "subject_id": "35474053"
+            "release": 1
+        },
+        {
+            "id": 25830684,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2198605693.jpg",
+            "title": "邪恶力量 第十季",
+            "release": 1
+        },
+        {
+            "id": 21348445,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2233495210.jpg",
+            "title": "女孩闺房",
+            "release": 1
+        },
+        {
+            "id": 6039412,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2234995897.jpg",
+            "title": "时光尽头的恋人",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -63,5 +51,5 @@
     "personage_link": "https://www.douban.com/personage/27575098/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T07:14:19"
+    "update_at": "2025-06-20T01:14:19"
 }

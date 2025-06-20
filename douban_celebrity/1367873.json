@@ -1,5 +1,5 @@
 {
-    "sid": 1367873,
+    "sid": "1367873",
     "name": "朱莎",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "中国,北京",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/11627115/",
-            "year": "1990",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2498346647.jpg",
-            "roles": [
-                "演员 (饰 小凤)"
-            ],
-            "title": "禁烟枪手",
-            "subject_id": "11627115"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2080418/",
-            "year": "1989",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868198083.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "怪音",
-            "subject_id": "2080418"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3069864/",
-            "year": "1989",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2180839589.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "葫芦小金刚",
-            "subject_id": "3069864"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3010196/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2552507000.jpg",
-            "roles": [
-                "演员 (饰 嬷嬷/二婶)"
-            ],
-            "title": "聊斋",
-            "subject_id": "3010196"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3271379/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2621647507.jpg",
-            "roles": [
-                "演员 (饰 芳芳妈)"
-            ],
-            "title": "绑架卡拉扬",
-            "subject_id": "3271379"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2381074/",
-            "year": "1987",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2463903983.jpg",
-            "roles": [
-                "演员 (饰 方母)"
-            ],
-            "title": "午夜两点",
-            "subject_id": "2381074"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1998122/",
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2749006465.jpg",
-            "roles": [
-                "演员 (饰 马氏)"
-            ],
-            "title": "八仙的传说",
-            "subject_id": "1998122"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26274250/",
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2749084409.jpg",
-            "roles": [
-                "演员 (饰 姨妈)"
-            ],
-            "title": "飞人浪漫曲",
-            "subject_id": "26274250"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34431617/",
+            "id": 34431617,
             "year": "1985",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2634832305.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "花生阿狗",
-            "subject_id": "34431617"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1305806/",
+            "id": 26274250,
+            "year": "1985",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2749084409.jpg",
+            "title": "飞人浪漫曲",
+            "release": 1
+        },
+        {
+            "id": 11627115,
+            "year": "1990",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2498346647.jpg",
+            "title": "禁烟枪手",
+            "release": 1
+        },
+        {
+            "id": 3271379,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2621647507.jpg",
+            "title": "绑架卡拉扬",
+            "release": 1
+        },
+        {
+            "id": 3069864,
+            "year": "1989",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2180839589.jpg",
+            "title": "葫芦小金刚",
+            "release": 1
+        },
+        {
+            "id": 3010196,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2552507000.jpg",
+            "title": "聊斋",
+            "release": 1
+        },
+        {
+            "id": 2381074,
+            "year": "1987",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2463903983.jpg",
+            "title": "午夜两点",
+            "release": 1
+        },
+        {
+            "id": 2080418,
+            "year": "1989",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868198083.jpg",
+            "title": "怪音",
+            "release": 1
+        },
+        {
+            "id": 1998122,
+            "year": "1985",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2519725765.jpg",
+            "title": "八仙的传说",
+            "release": 1
+        },
+        {
+            "id": 1305806,
             "year": "1984",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2575063455.jpg",
-            "roles": [
-                "演员 (饰 余二婶)"
-            ],
             "title": "月亮湾的风波",
-            "subject_id": "1305806"
+            "release": 1
         }
     ],
     "introduction": "朱莎，上海电影制片厂配音演员，朱莎的配音真挚感人，主演影片《青梅竹马》。配音代表作《王子复仇记》。1942年起，相继在北京长安剧社、天津南艺剧社、复兴剧团等剧团任演员。1948年入中电三厂，主演影片《青梅竹马》。后在国泰、大华、嘉华等影片公司任演员。建国后， 任职于上海电影制片厂。",
@@ -130,5 +100,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-17T20:42:10"
+    "update_at": "2025-06-19T23:21:11"
 }

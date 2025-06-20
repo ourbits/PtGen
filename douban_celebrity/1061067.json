@@ -1,5 +1,5 @@
 {
-    "sid": 1061067,
+    "sid": "1061067",
     "name": "朱丽叶特·奥布瑞",
     "site": "douban_celebrity",
     "roles": [
@@ -15,114 +15,81 @@
     "birth_place": "英国,汉普郡,弗利特",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35394754/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635197863.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "永不沉没 第一季",
-            "subject_id": "35394754"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36137104/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2898709587.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "弗兰肯斯坦:前世",
-            "subject_id": "36137104"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36050219/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Compulsive",
-            "subject_id": "36050219"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35198033/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2619393859.jpg",
-            "roles": [
-                "演员 (饰 Dr. Maple)"
-            ],
-            "title": "001锂X",
-            "subject_id": "35198033"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27600777/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873087643.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "仲夏夜之梦",
-            "subject_id": "27600777"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4202976/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2449830357.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "堕落天使",
-            "subject_id": "4202976"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26600428/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2431869645.jpg",
-            "roles": [
-                "演员 (饰 Mike's Mother)"
-            ],
-            "title": "亡命雷区",
-            "subject_id": "26600428"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26647608/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2318077061.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "圣诞节前夜",
-            "subject_id": "26647608"
-        },
-        {
-            "url": "https://movie.douban.com/subject/16468207/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2083392859.jpg",
-            "roles": [
-                "演员 (饰 Countess of Warwick)"
-            ],
-            "title": "白王后",
-            "subject_id": "16468207"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3927805/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2327374446.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "欢迎来到杀人学校",
-            "subject_id": "3927805"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36433149/",
+            "id": 36433149,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2892999786.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "砒霜巷",
-            "subject_id": "36433149"
+            "release": 0
+        },
+        {
+            "id": 36137104,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2898709587.jpg",
+            "title": "弗兰肯斯坦:前世",
+            "release": 1
+        },
+        {
+            "id": 36050219,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Compulsive",
+            "release": 1
+        },
+        {
+            "id": 35394754,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635197863.jpg",
+            "title": "永不沉没",
+            "release": 1
+        },
+        {
+            "id": 35198033,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2619393859.jpg",
+            "title": "001锂X",
+            "release": 1
+        },
+        {
+            "id": 27600777,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873087643.jpg",
+            "title": "仲夏夜之梦",
+            "release": 1
+        },
+        {
+            "id": 26647608,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2318077061.jpg",
+            "title": "圣诞节前夜",
+            "release": 1
+        },
+        {
+            "id": 26600428,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2431869645.jpg",
+            "title": "亡命雷区",
+            "release": 1
+        },
+        {
+            "id": 16468207,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2083392859.jpg",
+            "title": "白王后",
+            "release": 1
+        },
+        {
+            "id": 4202976,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2449830357.jpg",
+            "title": "堕落天使",
+            "release": 1
+        },
+        {
+            "id": 3927805,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2327374446.jpg",
+            "title": "欢迎来到杀人学校",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -135,5 +102,5 @@
     "personage_link": "https://www.douban.com/personage/27266805/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T00:28:11"
+    "update_at": "2025-06-20T06:49:10"
 }

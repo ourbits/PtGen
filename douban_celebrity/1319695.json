@@ -1,5 +1,5 @@
 {
-    "sid": 1319695,
+    "sid": "1319695",
     "name": "香农·戴",
     "site": "douban_celebrity",
     "roles": [
@@ -16,105 +16,74 @@
     "birth_place": "美国,加利福尼亚",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35237467/",
+            "id": 35237467,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2625418208.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Riders on the Storm",
-            "subject_id": "35237467"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5320649/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2287033853.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "高堡奇人 第一季",
-            "subject_id": "5320649"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10580351/",
+            "id": 10580351,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1941469260.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "杀阱",
-            "subject_id": "10580351"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5946301/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2522734329.jpg",
-            "roles": [
-                "演员",
-                "音乐"
-            ],
-            "title": "波特兰迪亚 第一季",
-            "subject_id": "5946301"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1850937/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2561266949.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "情迷格蕾丝",
-            "subject_id": "1850937"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1875061/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2531515274.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "丰收月下之舞",
-            "subject_id": "1875061"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5145696/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "2 Little, 2 Late",
-            "subject_id": "5145696"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3258572/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2414828968.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "女巫一族",
-            "subject_id": "3258572"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3317368/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876937089.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "战火星球",
-            "subject_id": "3317368"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6521948/",
+            "id": 6521948,
             "year": "1997",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2632263279.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "别对我隐瞒",
-            "subject_id": "6521948"
+            "release": 1
+        },
+        {
+            "id": 5946301,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2522734329.jpg",
+            "title": "波特兰迪亚 第一季",
+            "release": 1
+        },
+        {
+            "id": 5320649,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2287033853.jpg",
+            "title": "高堡奇人 第一季",
+            "release": 1
+        },
+        {
+            "id": 5145696,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "2 Little, 2 Late",
+            "release": 1
+        },
+        {
+            "id": 3317368,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876937089.jpg",
+            "title": "战火星球",
+            "release": 1
+        },
+        {
+            "id": 3258572,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2414828968.jpg",
+            "title": "女巫一族",
+            "release": 1
+        },
+        {
+            "id": 1875061,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2531515274.jpg",
+            "title": "丰收月下之舞",
+            "release": 1
+        },
+        {
+            "id": 1850937,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2561266949.jpg",
+            "title": "情迷格蕾丝",
+            "release": 1
         }
     ],
     "introduction": "MusicShannon Day is an accomplished musician, performer, & producer. With 5 CD’s under her belt, 2 forthcoming, numerous guest features, she is creating a prolific body of work. Born the daughter of an award winning operatic soprano, Shannon Day was literally raised in the arts. Shannon has been playing the piano since the age of five, and began writing her own songs when she was in her early teens. She was awarded her first gold record at the age of seventeen, for her harmony vocals on the Atlantic Records release, \"Poolside\" by the Grammy nominated band, \"Nu Shooz\". She continues to co-create and write with DJ’s & producers world wide.Acting Background“If a person ruminates upon their lives after experiencing cinema, placing themselves in a characters’ role, and finding a piece of them selves within the story, then I have done my job.  Cinema is the art of reflection.” - Shannon DayShannon has starred in many art-house films, found a place in television series and movies, as well as a series regular on ABC’s Land of The Lost. Her current interest is within the digital genre; creating cinema for every medium.",
@@ -125,5 +94,5 @@
     "personage_link": "https://www.douban.com/personage/27565011/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T17:00:27"
+    "update_at": "2025-06-20T03:14:15"
 }

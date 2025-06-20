@@ -1,5 +1,5 @@
 {
-    "sid": 1390326,
+    "sid": "1390326",
     "name": "蔡宓洁",
     "site": "douban_celebrity",
     "roles": [
@@ -17,115 +17,81 @@
     "birth_place": "中国,台湾",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35750289/",
+            "id": 35750289,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875687526.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "默默的我，不默默的我们",
-            "subject_id": "35750289"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35359506/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911742982.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "恋爱是科学",
-            "subject_id": "35359506"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35390954/",
+            "id": 35390954,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635159749.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "亲爱的天王星",
-            "subject_id": "35390954"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30408061/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2570029447.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "那一天",
-            "subject_id": "30408061"
+            "id": 35359506,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911742982.jpg",
+            "title": "恋爱是科学",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30242164/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2524187708.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "海吉拉",
-            "subject_id": "30242164"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27598317/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510526290.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "越界",
-            "subject_id": "27598317"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26984433/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2439263976.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "离我远一点",
-            "subject_id": "26984433"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30188680/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518372501.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "他的故事",
-            "subject_id": "30188680"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3543956/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p493893154.jpg",
-            "roles": [
-                "制片人"
-            ],
-            "title": "痞子英雄",
-            "subject_id": "3543956"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2262175/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510284720.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "白色巨塔",
-            "subject_id": "2262175"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35071008/",
+            "id": 35071008,
             "year": "2026",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2603581413.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "跨界",
-            "subject_id": "35071008"
+            "release": 0
+        },
+        {
+            "id": 30408061,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2570029447.jpg",
+            "title": "那一天",
+            "release": 1
+        },
+        {
+            "id": 30242164,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2524187708.jpg",
+            "title": "海吉拉",
+            "release": 1
+        },
+        {
+            "id": 30188680,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518372501.jpg",
+            "title": "他的故事",
+            "release": 1
+        },
+        {
+            "id": 27598317,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510526290.jpg",
+            "title": "越界",
+            "release": 1
+        },
+        {
+            "id": 26984433,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2439263976.jpg",
+            "title": "离我远一点",
+            "release": 1
+        },
+        {
+            "id": 3543956,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p493893154.jpg",
+            "title": "痞子英雄",
+            "release": 1
+        },
+        {
+            "id": 2262175,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510284720.jpg",
+            "title": "白色巨塔",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -139,5 +105,5 @@
     "personage_link": "https://www.douban.com/personage/30175136/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T07:28:25"
+    "update_at": "2025-06-20T18:42:20"
 }

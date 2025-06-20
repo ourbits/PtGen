@@ -1,5 +1,5 @@
 {
-    "sid": 1388514,
+    "sid": "1388514",
     "name": "迪恩·雷",
     "site": "douban_celebrity",
     "roles": [
@@ -15,44 +15,32 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3075283/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2187174505.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "夺命岛",
-            "subject_id": "3075283"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1307210/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1150166738.jpg",
-            "roles": [
-                "演员 (饰 收票员 Ticket Taker)"
-            ],
-            "title": "失眠症",
-            "subject_id": "1307210"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1301029/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1476158184.jpg",
-            "roles": [
-                "演员 (饰 Josiah Bean)"
-            ],
-            "title": "嗜血蟑螂",
-            "subject_id": "1301029"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5332670/",
+            "id": 5332670,
             "year": "1998",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911005844.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "圈套",
-            "subject_id": "5332670"
+            "release": 1
+        },
+        {
+            "id": 3075283,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2187174505.jpg",
+            "title": "夺命岛",
+            "release": 1
+        },
+        {
+            "id": 1307210,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1150166738.jpg",
+            "title": "失眠症",
+            "release": 1
+        },
+        {
+            "id": 1301029,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1476158184.jpg",
+            "title": "嗜血蟑螂",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -63,5 +51,5 @@
     "personage_link": "https://www.douban.com/personage/30143512/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T05:28:04"
+    "update_at": "2025-06-20T10:28:11"
 }
