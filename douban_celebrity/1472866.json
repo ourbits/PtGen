@@ -1,5 +1,5 @@
 {
-    "sid": 1472866,
+    "sid": "1472866",
     "name": "高益",
     "site": "douban_celebrity",
     "roles": [
@@ -15,34 +15,25 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35459225/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885427485.jpg",
-            "roles": [
-                "演员 (饰 周承德)"
-            ],
-            "title": "浮图缘",
-            "subject_id": "35459225"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35231822/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2656327176.jpg",
-            "roles": [
-                "演员 (饰 院判)"
-            ],
-            "title": "梦华录",
-            "subject_id": "35231822"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35577299/",
+            "id": 35577299,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2701297735.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "锦衣十日令",
-            "subject_id": "35577299"
+            "release": 0
+        },
+        {
+            "id": 35459225,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885427485.jpg",
+            "title": "浮图缘",
+            "release": 1
+        },
+        {
+            "id": 35231822,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2656327176.jpg",
+            "title": "梦华录",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -53,5 +44,5 @@
     "personage_link": "https://www.douban.com/personage/35921402/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T11:56:24"
+    "update_at": "2025-06-20T23:21:17"
 }

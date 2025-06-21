@@ -1,5 +1,5 @@
 {
-    "sid": 1048412,
+    "sid": "1048412",
     "name": "米歇尔·奥迪亚",
     "site": "douban_celebrity",
     "roles": [
@@ -18,105 +18,74 @@
     "birth_place": "法国,巴黎",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30154743/",
+            "id": 30154743,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2879425858.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "叫迦本的法国佬",
-            "subject_id": "30154743"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1300949/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p543881032.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "疑云密布",
-            "subject_id": "1300949"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3419886/",
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1246764741.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "假凤虚凰3",
-            "subject_id": "3419886"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2134997/",
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900348075.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "他死不瞑目",
-            "subject_id": "2134997"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3541465/",
-            "year": "1984",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2035335696.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "劫后黄金梦",
-            "subject_id": "3541465"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4057383/",
-            "year": "1984",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512056996.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "擒贼记",
-            "subject_id": "4057383"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3784810/",
-            "year": "1983",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2627864132.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "虎胆警官",
-            "subject_id": "3784810"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1420127/",
-            "year": "1983",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p630865022.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "真爱大逃亡",
-            "subject_id": "1420127"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3712793/",
-            "year": "1982",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2206548135.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "醒来吧，沉睡的间谍",
-            "subject_id": "3712793"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26717077/",
+            "id": 26717077,
             "year": "1982",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2553989763.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "Elle cause plus, elle flingue",
-            "subject_id": "26717077"
+            "release": 1
+        },
+        {
+            "id": 4057383,
+            "year": "1984",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512056996.jpg",
+            "title": "擒贼记",
+            "release": 1
+        },
+        {
+            "id": 3784810,
+            "year": "1983",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2627864132.jpg",
+            "title": "虎胆警官",
+            "release": 1
+        },
+        {
+            "id": 3712793,
+            "year": "1982",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2918636054.jpg",
+            "title": "醒来吧，沉睡的间谍",
+            "release": 1
+        },
+        {
+            "id": 3541465,
+            "year": "1984",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2035335696.jpg",
+            "title": "劫后黄金梦",
+            "release": 1
+        },
+        {
+            "id": 3419886,
+            "year": "1985",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1246764741.jpg",
+            "title": "假凤虚凰3",
+            "release": 1
+        },
+        {
+            "id": 2134997,
+            "year": "1985",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900348075.jpg",
+            "title": "他死不瞑目",
+            "release": 1
+        },
+        {
+            "id": 1420127,
+            "year": "1983",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p630865022.jpg",
+            "title": "真爱大逃亡",
+            "release": 1
+        },
+        {
+            "id": 1300949,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p543881032.jpg",
+            "title": "疑云密布",
+            "release": 1
         }
     ],
     "introduction": "\"获得了法国公民的最高荣誉， 法兰西荣誉军团勋章（骑兵级）\"",
@@ -138,5 +107,5 @@
     "name_more_other": [
         "米歇尔·奥迪亚尔"
     ],
-    "update_at": "2025-01-17T19:28:17"
+    "update_at": "2025-06-21T14:21:07"
 }

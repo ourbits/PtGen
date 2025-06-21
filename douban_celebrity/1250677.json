@@ -1,5 +1,5 @@
 {
-    "sid": 1250677,
+    "sid": "1250677",
     "name": "Jessica Dubé",
     "site": "douban_celebrity",
     "roles": [
@@ -16,34 +16,25 @@
     "birth_place": "加拿大,魁北克,德拉蒙德维尔",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/27613290/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510009068.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "两个科里的故事",
-            "subject_id": "27613290"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34845861/",
+            "id": 34845861,
             "year": "2013",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2570057477.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "冰刀之战 第四季",
-            "subject_id": "34845861"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2150310/",
+            "id": 27613290,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510009068.jpg",
+            "title": "两个科里的故事",
+            "release": 1
+        },
+        {
+            "id": 2150310,
             "year": "2006",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "2006年第20届意大利都灵冬季奥林匹克运动会",
-            "subject_id": "2150310"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -54,5 +45,5 @@
     "personage_link": "https://www.douban.com/personage/27456667/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T08:07:21"
+    "update_at": "2025-06-21T19:56:05"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1097609,
+    "sid": "1097609",
     "name": "Mack Gray",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "美国,纽约,布鲁克林",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1300742/",
-            "year": "1962",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2410636286.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "马迷狂胜记",
-            "subject_id": "1300742"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5058992/",
-            "year": "1962",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2413654646.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "三中士",
-            "subject_id": "5058992"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5060880/",
-            "year": "1957",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2174674577.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "罗马春情",
-            "subject_id": "5060880"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3829943/",
-            "year": "1951",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2507075337.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "捉猫笑史",
-            "subject_id": "3829943"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5065550/",
-            "year": "1951",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911104775.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "你永远无法预料",
-            "subject_id": "5065550"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5065789/",
-            "year": "1951",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2197535899.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "莽汉艳福",
-            "subject_id": "5065789"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1297872/",
-            "year": "1951",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2300043006.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "爱巢",
-            "subject_id": "1297872"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3721958/",
-            "year": "1950",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2303359883.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "春光花月",
-            "subject_id": "3721958"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5066562/",
-            "year": "1949",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2563839472.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "血案艳魂",
-            "subject_id": "5066562"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5066695/",
+            "id": 5066695,
             "year": "1949",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2298783608.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "私家侦探",
-            "subject_id": "5066695"
+            "release": 1
+        },
+        {
+            "id": 5066562,
+            "year": "1949",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2563839472.jpg",
+            "title": "血案艳魂",
+            "release": 1
+        },
+        {
+            "id": 5065789,
+            "year": "1951",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2197535899.jpg",
+            "title": "莽汉艳福",
+            "release": 1
+        },
+        {
+            "id": 5065550,
+            "year": "1951",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911104775.jpg",
+            "title": "你永远无法预料",
+            "release": 1
+        },
+        {
+            "id": 5060880,
+            "year": "1957",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2174674577.jpg",
+            "title": "罗马春情",
+            "release": 1
+        },
+        {
+            "id": 5058992,
+            "year": "1962",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2413654646.jpg",
+            "title": "三中士",
+            "release": 1
+        },
+        {
+            "id": 3829943,
+            "year": "1951",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2507075337.jpg",
+            "title": "捉猫笑史",
+            "release": 1
+        },
+        {
+            "id": 3721958,
+            "year": "1950",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2303359883.jpg",
+            "title": "春光花月",
+            "release": 1
+        },
+        {
+            "id": 1300742,
+            "year": "1962",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2410636286.jpg",
+            "title": "马迷狂胜记",
+            "release": 1
+        },
+        {
+            "id": 1297872,
+            "year": "1951",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2300043006.jpg",
+            "title": "爱巢",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -130,5 +100,5 @@
     "name_more_other": [
         "Killer (昵称)"
     ],
-    "update_at": "2025-01-20T08:21:21"
+    "update_at": "2025-06-21T17:35:23"
 }

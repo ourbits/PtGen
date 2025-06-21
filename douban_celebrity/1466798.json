@@ -1,5 +1,5 @@
 {
-    "sid": 1466798,
+    "sid": "1466798",
     "name": "于滕飞",
     "site": "douban_celebrity",
     "roles": [
@@ -15,24 +15,18 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35590235/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2887951094.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "骑着鱼的猫",
-            "subject_id": "35590235"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35731833/",
+            "id": 35731833,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2880896334.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "无非是恋爱而已",
-            "subject_id": "35731833"
+            "release": 1
+        },
+        {
+            "id": 35590235,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2887951094.jpg",
+            "title": "骑着鱼的猫",
+            "release": 1
         }
     ],
     "introduction": "于滕飞，生日12月2日，陈鹏导演工作室演员",
@@ -43,5 +37,5 @@
     "personage_link": "https://www.douban.com/personage/35732760/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T15:28:15"
+    "update_at": "2025-06-21T06:42:14"
 }

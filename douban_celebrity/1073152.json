@@ -1,5 +1,5 @@
 {
-    "sid": 1073152,
+    "sid": "1073152",
     "name": "O.B. Clarence",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "英国,伦敦",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5102277/",
+            "id": 5102277,
             "year": "1948",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "No Room at the Inn",
-            "subject_id": "5102277"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5067130/",
-            "year": "1948",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Calendar",
-            "subject_id": "5067130"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5067367/",
-            "year": "1947",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2298495926.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "宝剑柔肠",
-            "subject_id": "5067367"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1306430/",
-            "year": "1947",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508904649.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "孤凤劫",
-            "subject_id": "1306430"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5067223/",
-            "year": "1947",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885730398.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "阳光普照时",
-            "subject_id": "5067223"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2040592/",
-            "year": "1946",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2540865887.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "秘密学校",
-            "subject_id": "2040592"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1304230/",
-            "year": "1946",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2550708701.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "魔法琴弓",
-            "subject_id": "1304230"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5068316/",
-            "year": "1945",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2306631078.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Great Day",
-            "subject_id": "5068316"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5068693/",
-            "year": "1945",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2198152255.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "鬼屋疑魂",
-            "subject_id": "5068693"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5068700/",
+            "id": 5068700,
             "year": "1944",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635770443.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "试婚记",
-            "subject_id": "5068700"
+            "release": 1
+        },
+        {
+            "id": 5068693,
+            "year": "1945",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2198152255.jpg",
+            "title": "鬼屋疑魂",
+            "release": 1
+        },
+        {
+            "id": 5068316,
+            "year": "1945",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2306631078.jpg",
+            "title": "Great Day",
+            "release": 1
+        },
+        {
+            "id": 5067367,
+            "year": "1947",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2298495926.jpg",
+            "title": "宝剑柔肠",
+            "release": 1
+        },
+        {
+            "id": 5067223,
+            "year": "1947",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885730398.jpg",
+            "title": "阳光普照时",
+            "release": 1
+        },
+        {
+            "id": 5067130,
+            "year": "1948",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Calendar",
+            "release": 1
+        },
+        {
+            "id": 2040592,
+            "year": "1946",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2540865887.jpg",
+            "title": "秘密学校",
+            "release": 1
+        },
+        {
+            "id": 1306430,
+            "year": "1947",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508904649.jpg",
+            "title": "孤凤劫",
+            "release": 1
+        },
+        {
+            "id": 1304230,
+            "year": "1946",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2550708701.jpg",
+            "title": "魔法琴弓",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -130,5 +100,5 @@
     "name_more_other": [
         "Oliver B. Clarence (本名)"
     ],
-    "update_at": "2025-01-19T19:14:09"
+    "update_at": "2025-06-20T23:28:20"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1012552,
+    "sid": "1012552",
     "name": "托德·布朗宁",
     "site": "douban_celebrity",
     "roles": [
@@ -17,112 +17,74 @@
     "birth_place": "美国,肯塔基州,路易斯维尔",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3904609/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2362376820.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "午夜后伦敦",
-            "subject_id": "3904609"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5067785/",
-            "year": "1946",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2298504528.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "监守自盗",
-            "subject_id": "5067785"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3101850/",
-            "year": "1939",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512919179.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "可售的奇迹",
-            "subject_id": "3101850"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1298394/",
-            "year": "1936",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509440015.jpg",
-            "roles": [
-                "导演",
-                "制片人",
-                "编剧"
-            ],
-            "title": "魔鬼玩偶",
-            "subject_id": "1298394"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1863262/",
-            "year": "1935",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2426304064.jpg",
-            "roles": [
-                "导演",
-                "制片人",
-                "编剧"
-            ],
-            "title": "吸血鬼的印记",
-            "subject_id": "1863262"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5074437/",
+            "id": 5074437,
             "year": "1933",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2517825035.jpg",
-            "roles": [
-                "导演",
-                "制片人"
-            ],
             "title": "快手工",
-            "subject_id": "5074437"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1295942/",
-            "year": "1932",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2389174006.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "畸形人",
-            "subject_id": "1295942"
+            "id": 5067785,
+            "year": "1946",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2298504528.jpg",
+            "title": "监守自盗",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3784366/",
-            "year": "1931",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2553050776.jpg",
-            "roles": [
-                "导演",
-                "制片人"
-            ],
-            "title": "铁人",
-            "subject_id": "3784366"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1296182/",
-            "year": "1931",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2363405231.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "德古拉",
-            "subject_id": "1296182"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4917743/",
+            "id": 4917743,
             "year": "1930",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2653072155.jpg",
-            "roles": [
-                "导演",
-                "制片人",
-                "编剧"
-            ],
             "title": "法外情人",
-            "subject_id": "4917743"
+            "release": 1
+        },
+        {
+            "id": 3904609,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2362376820.jpg",
+            "title": "午夜后伦敦",
+            "release": 1
+        },
+        {
+            "id": 3784366,
+            "year": "1931",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2553050776.jpg",
+            "title": "铁人",
+            "release": 1
+        },
+        {
+            "id": 3101850,
+            "year": "1939",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512919179.jpg",
+            "title": "可售的奇迹",
+            "release": 1
+        },
+        {
+            "id": 1863262,
+            "year": "1935",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2426304064.jpg",
+            "title": "吸血鬼的印记",
+            "release": 1
+        },
+        {
+            "id": 1298394,
+            "year": "1936",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509440015.jpg",
+            "title": "魔鬼玩偶",
+            "release": 1
+        },
+        {
+            "id": 1296182,
+            "year": "1931",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2363405231.jpg",
+            "title": "德古拉",
+            "release": 1
+        },
+        {
+            "id": 1295942,
+            "year": "1932",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2389174006.jpg",
+            "title": "畸形人",
+            "release": 1
         }
     ],
     "introduction": "托德·布朗宁，伟大的美国黑色电影先驱，恐怖片作为电影类型的奠基人，cult经典这个词最初的主人。他涉猎广泛，经历坎坷，为人十分孤僻，死前几年甚至连家人都不愿意相见。原名Charles Browning的托德，16岁就爱上了马戏团的舞女，为她离弃优渥的家庭而成为一名小丑和杂技演员。在遇到D·W·格里菲斯之后，他成为了电影演员，为Biograph公司拍摄五分钱喜剧。1913年，他和格里菲斯一起离开这家公司，去加州发展。1917年，托德成功执导了处女作长片《吉姆·布卢多索》，影片根据同名舞台剧改编，已经显示出布朗宁对于惊悚犯罪题材的偏爱。1918年他加盟环球旗下的蓝鸟公司并遇到了传奇制片人艾文·撒尔伯格。后者促成了他同演员朗·钱尼在《邪恶的吾爱》中第一次合作，之后十年里二人共又合作了多达十部的电影。布朗宁第一部取得商业成功的影片是1920年的《斯坦布尔的处女》。着是一部融合异域风光和沙漠冒险情节的动作片，极大地满足了当时观众的好奇心，一举成为最卖座的吸金器，这也夯实了布朗宁在好莱坞的立足基础。 父亲的去世曾令托德成为一个酒鬼，他被环球解约，妻子也离开他。不过他还是重新振作，与妻子和解，并得到米高梅合约。1923年他制作和导演了影片《信念之日》，事业重回正轨。1925年，托德·布朗宁与撒尔伯格、钱宁合作《三个邪恶的人》，影片以马戏团为背景，讲述了在马戏团里三个恶棍作恶多端的故事，票房非常成功，1930年由他本人翻拍为有声片。1927年的《午夜后的伦敦》是其第一部吸血鬼题材电影，可惜如今已经失传。1929年他的首部有声片《第十三把椅子》由贝拉·卢戈西主演。1930年，朗·钱尼去世，翻拍版《三个邪恶的人》是其最后一部电影，也是唯一的一部有声片。1931年的《德库拉》由贝拉·卢戈西主演，环球公司当时并不满意，但现在已是影迷们公认的恐怖经典。之后是引发巨大争议的《畸形人》（1932），影片由真实的畸形人出演，米高梅董事长路易斯·梅耶曾派出一个工作组强行制作该片的拍摄，在制片人撒尔伯格的保护下才得以拍完。影片过于挑战观众生理极限的画面也使得该片上映时电影院前门可罗雀，米高梅公司高层的满心希冀完全打了水漂，却对布朗宁的事业造成了毁灭性打击。这之后他只执导了四部影片，生命的最后二十余年更是不问世事，再也没有导演过一部影片 。",
@@ -143,5 +105,5 @@
         "Charles Albert Browning (本名)",
         "Charles Browning"
     ],
-    "update_at": "2025-01-19T14:42:11"
+    "update_at": "2025-06-20T23:07:15"
 }

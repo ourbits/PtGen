@@ -1,5 +1,5 @@
 {
-    "sid": 1096072,
+    "sid": "1096072",
     "name": "詹姆斯·希尔",
     "site": "douban_celebrity",
     "roles": [
@@ -20,109 +20,74 @@
     "birth_place": "英国,英格兰",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5048347/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872345021.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "Worzel Gummidge Down Under",
-            "subject_id": "5048347"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2376112/",
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2600646895.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "猫眼三姐妹",
-            "subject_id": "2376112"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5171755/",
-            "year": "1984",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "制片人",
-                "编剧"
-            ],
-            "title": "The Young Visitors",
-            "subject_id": "5171755"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25773247/",
+            "id": 25773247,
             "year": "1980",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2159224903.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "自由的猩猩",
-            "subject_id": "25773247"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5052076/",
-            "year": "1979",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872344588.jpg",
-            "roles": [
-                "导演",
-                "制片人"
-            ],
-            "title": "华泽尔·古米治",
-            "subject_id": "5052076"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5094612/",
-            "year": "1979",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "制片人"
-            ],
-            "title": "Dick Barton: Special Agent",
-            "subject_id": "5094612"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5128928/",
-            "year": "1976",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2643108035.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "铁金刚大显神通",
-            "subject_id": "5128928"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1907540/",
-            "year": "1976",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2237813727.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "三个侦探 第一季",
-            "subject_id": "1907540"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5128176/",
-            "year": "1975",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "The Man from Nowhere",
-            "subject_id": "5128176"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5200994/",
+            "id": 5200994,
             "year": "1973",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2901671705.jpg",
-            "roles": [
-                "制片人"
-            ],
             "title": "珍·古道尔与动物行为世界：非洲的野狗",
-            "subject_id": "5200994"
+            "release": 1
+        },
+        {
+            "id": 5171755,
+            "year": "1984",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Young Visitors",
+            "release": 1
+        },
+        {
+            "id": 5128928,
+            "year": "1976",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2643108035.jpg",
+            "title": "铁金刚大显神通",
+            "release": 1
+        },
+        {
+            "id": 5128176,
+            "year": "1975",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Man from Nowhere",
+            "release": 1
+        },
+        {
+            "id": 5094612,
+            "year": "1979",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Dick Barton: Special Agent",
+            "release": 1
+        },
+        {
+            "id": 5052076,
+            "year": "1979",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872344588.jpg",
+            "title": "华泽尔·古米治",
+            "release": 1
+        },
+        {
+            "id": 5048347,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872345021.jpg",
+            "title": "Worzel Gummidge Down Under",
+            "release": 1
+        },
+        {
+            "id": 2376112,
+            "year": "1985",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2600646895.jpg",
+            "title": "猫眼三姐妹",
+            "release": 1
+        },
+        {
+            "id": 1907540,
+            "year": "1976",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2237813727.jpg",
+            "title": "三个侦探 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -140,5 +105,5 @@
     "name_more_other": [
         "James H. Hill"
     ],
-    "update_at": "2025-01-20T12:28:11"
+    "update_at": "2025-06-21T19:07:10"
 }

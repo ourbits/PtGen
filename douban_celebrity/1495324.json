@@ -1,5 +1,5 @@
 {
-    "sid": 1495324,
+    "sid": "1495324",
     "name": "杨添皓",
     "site": "douban_celebrity",
     "roles": [
@@ -15,34 +15,25 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/10604086/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895465725.jpg",
-            "roles": [
-                "演员 (饰 赤精子)"
-            ],
-            "title": "封神第一部：朝歌风云",
-            "subject_id": "10604086"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34451732/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2561816033.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "解忧之父子除魔",
-            "subject_id": "34451732"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34937974/",
+            "id": 34937974,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881274449.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "天生丽质",
-            "subject_id": "34937974"
+            "release": 1
+        },
+        {
+            "id": 34451732,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2561816033.jpg",
+            "title": "解忧之父子除魔",
+            "release": 1
+        },
+        {
+            "id": 10604086,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895465725.jpg",
+            "title": "封神第一部：朝歌风云",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -53,5 +44,5 @@
     "personage_link": "https://www.douban.com/personage/36471649/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T12:14:05"
+    "update_at": "2025-06-21T06:14:05"
 }

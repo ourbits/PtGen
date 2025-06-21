@@ -1,5 +1,5 @@
 {
-    "sid": 1335404,
+    "sid": "1335404",
     "name": "王伟",
     "site": "douban_celebrity",
     "roles": [
@@ -17,117 +17,81 @@
     "birth_place": "中国,湖北",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35102469/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2880026973.jpg",
-            "roles": [
-                "演员 (饰 小卖部老板)",
-                "制片人 - 制片人/监制"
-            ],
-            "title": "哥，你好",
-            "subject_id": "35102469"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35303777/",
+            "id": 35303777,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2668174426.jpg",
-            "roles": [
-                "制片人"
-            ],
             "title": "我们的新生活",
-            "subject_id": "35303777"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34433857/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2617804496.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "我的女友是机器人",
-            "subject_id": "34433857"
+            "id": 35102469,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2880026973.jpg",
+            "title": "哥，你好",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27125337/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2572901763.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "我爱你，这是最好的安排",
-            "subject_id": "27125337"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26721322/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2369079478.jpg",
-            "roles": [
-                "演员",
-                "导演"
-            ],
-            "title": "龙拳小子",
-            "subject_id": "26721322"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25934578/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2221745992.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "黄金福将",
-            "subject_id": "25934578"
-        },
-        {
-            "url": "https://movie.douban.com/subject/21340764/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2213819225.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "谁动了我的梦想",
-            "subject_id": "21340764"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25779207/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2195405701.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "美人邦",
-            "subject_id": "25779207"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26706868/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2629064925.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "那一刻，我听见幸福来敲门",
-            "subject_id": "26706868"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26981508/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2433601308.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "樱为爱情",
-            "subject_id": "26981508"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35075296/",
+            "id": 35075296,
             "year": "2030",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2604006714.jpg",
-            "roles": [
-                "演员",
-                "导演"
-            ],
             "title": "温暖之城",
-            "subject_id": "35075296"
+            "release": 0
+        },
+        {
+            "id": 34433857,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2617804496.jpg",
+            "title": "我的女友是机器人",
+            "release": 1
+        },
+        {
+            "id": 27125337,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2572901763.jpg",
+            "title": "我爱你，这是最好的安排",
+            "release": 1
+        },
+        {
+            "id": 26981508,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2433601308.jpg",
+            "title": "樱为爱情",
+            "release": 1
+        },
+        {
+            "id": 26721322,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2369079478.jpg",
+            "title": "龙拳小子",
+            "release": 1
+        },
+        {
+            "id": 26706868,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2629064925.jpg",
+            "title": "那一刻，我听见幸福来敲门",
+            "release": 1
+        },
+        {
+            "id": 25934578,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2221745992.jpg",
+            "title": "黄金福将",
+            "release": 1
+        },
+        {
+            "id": 25779207,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2195405701.jpg",
+            "title": "美人邦",
+            "release": 1
+        },
+        {
+            "id": 21340764,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2213819225.jpg",
+            "title": "谁动了我的梦想",
+            "release": 1
         }
     ],
     "introduction": "毕业于首都师范大学中文系汉语言教育专业。",
@@ -141,5 +105,5 @@
     "personage_link": "https://www.douban.com/personage/27552514/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T23:14:20"
+    "update_at": "2025-06-21T04:56:11"
 }

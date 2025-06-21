@@ -1,5 +1,5 @@
 {
-    "sid": 1306200,
+    "sid": "1306200",
     "name": "吴米森",
     "site": "douban_celebrity",
     "roles": [
@@ -19,117 +19,81 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35136918/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899205985.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "10-10",
-            "subject_id": "35136918"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26987956/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "再见原乡",
-            "subject_id": "26987956"
-        },
-        {
-            "url": "https://movie.douban.com/subject/21330310/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2368561175.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "很久没有敬我了你",
-            "subject_id": "21330310"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26425016/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "青春的进击—关于二十，以及＿。",
-            "subject_id": "26425016"
-        },
-        {
-            "url": "https://movie.douban.com/subject/20274055/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "生命花园",
-            "subject_id": "20274055"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26686144/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "哈哈世界",
-            "subject_id": "26686144"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4116975/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2522774826.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "针尖上的天使",
-            "subject_id": "4116975"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4149326/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2377509036.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "宇宙歌女",
-            "subject_id": "4149326"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3732749/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905529622.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "思念",
-            "subject_id": "3732749"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1793121/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p787936292.jpg",
-            "roles": [
-                "导演",
-                "制片人",
-                "编剧"
-            ],
-            "title": "松鼠自杀事件",
-            "subject_id": "1793121"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36838419/",
+            "id": 36838419,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906418032.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "岛屿・神话",
-            "subject_id": "36838419"
+            "release": 0
+        },
+        {
+            "id": 35136918,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899205985.jpg",
+            "title": "10-10",
+            "release": 1
+        },
+        {
+            "id": 26987956,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2445396461.jpg",
+            "title": "再见原乡",
+            "release": 1
+        },
+        {
+            "id": 26686144,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2918707174.jpg",
+            "title": "哈哈世界",
+            "release": 1
+        },
+        {
+            "id": 26425016,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "青春的进击—关于二十，以及＿。",
+            "release": 1
+        },
+        {
+            "id": 21330310,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2368561175.jpg",
+            "title": "很久没有敬我了你",
+            "release": 1
+        },
+        {
+            "id": 20274055,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "生命花园",
+            "release": 1
+        },
+        {
+            "id": 4149326,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2377509036.jpg",
+            "title": "宇宙歌女",
+            "release": 1
+        },
+        {
+            "id": 4116975,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2522774826.jpg",
+            "title": "针尖上的天使",
+            "release": 1
+        },
+        {
+            "id": 3732749,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905529622.jpg",
+            "title": "思念",
+            "release": 1
+        },
+        {
+            "id": 1793121,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p787936292.jpg",
+            "title": "松鼠自杀事件",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -140,5 +104,5 @@
     "personage_link": "https://www.douban.com/personage/27534479/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T06:28:05"
+    "update_at": "2025-06-21T02:42:09"
 }

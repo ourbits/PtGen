@@ -1,5 +1,5 @@
 {
-    "sid": 1324600,
+    "sid": "1324600",
     "name": "尹成浩",
     "site": "douban_celebrity",
     "roles": [
@@ -19,114 +19,81 @@
     "birth_place": "韩国",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35937173/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875564997.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "미지의 세계 시즌투에피원",
-            "subject_id": "35937173"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35897636/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875085366.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "未知世界第二季第一集",
-            "subject_id": "35897636"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35400155/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881890121.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "既然这样就去青瓦台",
-            "subject_id": "35400155"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30345302/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2541769322.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "顶级经纪人",
-            "subject_id": "30345302"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27596679/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2506796320.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "朴代理隐秘的私生活",
-            "subject_id": "27596679"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27081788/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2480784772.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "偶像权限代理",
-            "subject_id": "27081788"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36008594/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876546503.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "출출한 여자 시즌2",
-            "subject_id": "36008594"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26701246/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2382540793.jpg",
-            "roles": [
-                "演员 (饰 Self-help book author)"
-            ],
-            "title": "竞走女王",
-            "subject_id": "26701246"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26845274/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2371074637.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "游戏公司的女职员们",
-            "subject_id": "26845274"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26687572/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2296126321.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "大势的百合",
-            "subject_id": "26687572"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37071115/",
+            "id": 37071115,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2916534475.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "第四次爱情革命",
-            "subject_id": "37071115"
+            "release": 0
+        },
+        {
+            "id": 36008594,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876546503.jpg",
+            "title": "출출한 여자 시즌2",
+            "release": 1
+        },
+        {
+            "id": 35937173,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875564997.jpg",
+            "title": "미지의 세계 시즌투에피원",
+            "release": 1
+        },
+        {
+            "id": 35897636,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875085366.jpg",
+            "title": "未知世界第二季第一集",
+            "release": 1
+        },
+        {
+            "id": 35400155,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881890121.jpg",
+            "title": "既然这样就去青瓦台",
+            "release": 1
+        },
+        {
+            "id": 30345302,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2541769322.jpg",
+            "title": "顶级经纪人",
+            "release": 1
+        },
+        {
+            "id": 27596679,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2506796320.jpg",
+            "title": "朴代理隐秘的私生活",
+            "release": 1
+        },
+        {
+            "id": 27081788,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2480784772.jpg",
+            "title": "偶像权限代理",
+            "release": 1
+        },
+        {
+            "id": 26845274,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2371074637.jpg",
+            "title": "游戏公司的女职员们",
+            "release": 1
+        },
+        {
+            "id": 26701246,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2382540793.jpg",
+            "title": "竞走女王",
+            "release": 1
+        },
+        {
+            "id": 26687572,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2296126321.jpg",
+            "title": "大势的百合",
+            "release": 1
         }
     ],
     "introduction": "韩国电影导演。执导多为独立电影，著名电影作品有《银河解放战线》。2015年执导KBS电视剧《制作人》。2001年以执导短片电影《去往三千浦的路》而出道，而后通过《不能这样继续》、《拿剑的人》和《毕业电影》等多部数字短片开拓了全新风格的韩国本土数码电影时代，并且多次被国际电影节获邀参展。",
@@ -141,5 +108,5 @@
     "name_more_other": [
         "윤성호"
     ],
-    "update_at": "2025-01-18T04:56:13"
+    "update_at": "2025-06-21T07:28:13"
 }

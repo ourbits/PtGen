@@ -1,5 +1,5 @@
 {
-    "sid": 1465877,
+    "sid": "1465877",
     "name": "邱健",
     "site": "douban_celebrity",
     "roles": [
@@ -15,34 +15,25 @@
     "birth_place": "中国，安徽，淮安市",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/34875547/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "2008年第29届北京奥运会闭幕式",
-            "subject_id": "34875547"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30486586/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "2008年第29届北京奥运会",
-            "subject_id": "30486586"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35604276/",
+            "id": 35604276,
             "year": "2002",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2687994469.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "2002年釜山亚运会",
-            "subject_id": "35604276"
+            "release": 1
+        },
+        {
+            "id": 34875547,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "2008年第29届北京奥运会闭幕式",
+            "release": 1
+        },
+        {
+            "id": 30486586,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "2008年第29届北京奥运会",
+            "release": 1
         }
     ],
     "introduction": "前中国男子射击运动员，他在2008年北京奥运会上夺得了男子50米步枪三种姿势项目的金牌。",
@@ -53,5 +44,5 @@
     "personage_link": "https://www.douban.com/personage/35705685/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T10:28:09"
+    "update_at": "2025-06-21T17:07:04"
 }

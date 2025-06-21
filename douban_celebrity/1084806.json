@@ -1,5 +1,5 @@
 {
-    "sid": 1084806,
+    "sid": "1084806",
     "name": "道格拉斯·敦布里勒",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "加拿大,安大略省,汉密尔顿市",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3259453/",
-            "year": "1966",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895246498.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "蝙蝠侠 第一季",
-            "subject_id": "3259453"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1299626/",
-            "year": "1964",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2417921356.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "别墅谋杀案",
-            "subject_id": "1299626"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1297183/",
-            "year": "1964",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1402494331.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "旺夫魔女",
-            "subject_id": "1297183"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5058750/",
-            "year": "1963",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515805165.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "黑煞星横扫毒龙潭",
-            "subject_id": "5058750"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5058872/",
-            "year": "1963",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2165018487.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Petticoat Junction",
-            "subject_id": "5058872"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5058880/",
-            "year": "1963",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The New Phil Silvers Show",
-            "subject_id": "5058880"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5059271/",
-            "year": "1962",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2886658659.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Beverly Hillbillies",
-            "subject_id": "5059271"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26818383/",
+            "id": 26818383,
             "year": "1962",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2521796914.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "大破飞天党",
-            "subject_id": "26818383"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5059249/",
+            "id": 5083580,
+            "year": "1960",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Bringing Up Buddy",
+            "release": 1
+        },
+        {
+            "id": 5059271,
+            "year": "1962",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2886658659.jpg",
+            "title": "The Beverly Hillbillies",
+            "release": 1
+        },
+        {
+            "id": 5059249,
             "year": "1961",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2645224233.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Ripcord",
-            "subject_id": "5059249"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5083580/",
-            "year": "1960",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Bringing Up Buddy",
-            "subject_id": "5083580"
+            "id": 5058880,
+            "year": "1963",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The New Phil Silvers Show",
+            "release": 1
+        },
+        {
+            "id": 5058872,
+            "year": "1963",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2165018487.jpg",
+            "title": "Petticoat Junction",
+            "release": 1
+        },
+        {
+            "id": 5058750,
+            "year": "1963",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515805165.jpg",
+            "title": "黑煞星横扫毒龙潭",
+            "release": 1
+        },
+        {
+            "id": 3259453,
+            "year": "1966",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895246498.jpg",
+            "title": "蝙蝠侠 第一季",
+            "release": 1
+        },
+        {
+            "id": 1299626,
+            "year": "1964",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2417921356.jpg",
+            "title": "别墅谋杀案",
+            "release": 1
+        },
+        {
+            "id": 1297183,
+            "year": "1964",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1402494331.jpg",
+            "title": "旺夫魔女",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -132,5 +102,5 @@
         "Douglas Dumbrille",
         "Douglas Dunbrile"
     ],
-    "update_at": "2025-01-19T23:42:19"
+    "update_at": "2025-06-21T18:00:28"
 }

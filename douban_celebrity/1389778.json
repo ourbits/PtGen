@@ -1,5 +1,5 @@
 {
-    "sid": 1389778,
+    "sid": "1389778",
     "name": "利嘉儿",
     "site": "douban_celebrity",
     "roles": [
@@ -16,44 +16,32 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/2995188/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2541955675.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "肝胆昆仑",
-            "subject_id": "2995188"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1308791/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359468784.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "男上女下",
-            "subject_id": "1308791"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1946075/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359428054.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "老夫子反斗侦探",
-            "subject_id": "1946075"
-        },
-        {
-            "url": "https://movie.douban.com/subject/19997951/",
+            "id": 19997951,
             "year": "2003",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359649330.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "火线生死恋",
-            "subject_id": "19997951"
+            "release": 1
+        },
+        {
+            "id": 2995188,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2541955675.jpg",
+            "title": "肝胆昆仑",
+            "release": 1
+        },
+        {
+            "id": 1946075,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359428054.jpg",
+            "title": "老夫子反斗侦探",
+            "release": 1
+        },
+        {
+            "id": 1308791,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2359468784.jpg",
+            "title": "男上女下",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -64,5 +52,5 @@
     "personage_link": "https://www.douban.com/personage/30165185/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-20T05:21:09"
+    "update_at": "2025-06-21T12:42:09"
 }

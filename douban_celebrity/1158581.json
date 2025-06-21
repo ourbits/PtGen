@@ -1,5 +1,5 @@
 {
-    "sid": 1158581,
+    "sid": "1158581",
     "name": "锡比尔·塔费尔",
     "site": "douban_celebrity",
     "roles": [
@@ -16,106 +16,74 @@
     "birth_place": "德国,巴伐利亚,慕尼黑",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26674742/",
+            "id": 26794056,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Heiraten ist auch keine Lösung",
+            "release": 1
+        },
+        {
+            "id": 26674742,
             "year": "2015",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2316189259.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "一夜到永远？",
-            "subject_id": "26674742"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26473885/",
+            "id": 26473885,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2450665105.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "小红帽",
-            "subject_id": "26473885"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26794056/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "Heiraten ist auch keine Lösung",
-            "subject_id": "26794056"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5168159/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "Das Glück kommt unverhofft",
-            "subject_id": "5168159"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5164297/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2117218721.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "牧鹅姑娘",
-            "subject_id": "5164297"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5182372/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2138907329.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "画眉嘴国王",
-            "subject_id": "5182372"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5191416/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2493496975.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "唐吉诃德 - 永不放弃！",
-            "subject_id": "5191416"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5201065/",
+            "id": 5201065,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2078640912.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "Der Butler und die Prinzessin",
-            "subject_id": "5201065"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3040517/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "ein Familienschreck kommt selten allein",
-            "subject_id": "3040517"
+            "id": 5191416,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2493496975.jpg",
+            "title": "唐吉诃德 - 永不放弃！",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5136803/",
+            "id": 5182372,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2138907329.jpg",
+            "title": "画眉嘴国王",
+            "release": 1
+        },
+        {
+            "id": 5168159,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Das Glück kommt unverhofft",
+            "release": 1
+        },
+        {
+            "id": 5164297,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2117218721.jpg",
+            "title": "牧鹅姑娘",
+            "release": 1
+        },
+        {
+            "id": 5136803,
             "year": "2001",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Sind denn alle netten Männer schwul",
-            "subject_id": "5136803"
+            "release": 1
+        },
+        {
+            "id": 3040517,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "ein Familienschreck kommt selten allein",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -126,5 +94,5 @@
     "personage_link": "https://www.douban.com/personage/27364466/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T02:35:06"
+    "update_at": "2025-06-20T23:14:13"
 }

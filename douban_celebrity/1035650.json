@@ -1,5 +1,5 @@
 {
-    "sid": 1035650,
+    "sid": "1035650",
     "name": "布莱特妮·墨菲",
     "site": "douban_celebrity",
     "roles": [
@@ -17,105 +17,74 @@
     "birth_place": "美国,佐治亚,亚特兰大",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3291927/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2174954071.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "恶行",
-            "subject_id": "3291927"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4091053/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1315488601.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "遗弃",
-            "subject_id": "4091053"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3007811/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2191697078.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "恐怖旅馆",
-            "subject_id": "3007811"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3568560/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870065453.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "噩梦山庄",
-            "subject_id": "3568560"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3099223/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2191697417.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "截稿日期",
-            "subject_id": "3099223"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25754357/",
+            "id": 25754357,
             "year": "2008",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539140867.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
             "title": "乡巴佬希尔一家的幸福生活 第十三季",
-            "subject_id": "25754357"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2150085/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2570008687.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "飞出个未来大电影2：万背之兽",
-            "subject_id": "2150085"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1890152/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1372401715.jpg",
-            "roles": [
-                "演员",
-                "制片人"
-            ],
-            "title": "拉面女孩",
-            "subject_id": "1890152"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25754354/",
+            "id": 25754354,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539140982.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
             "title": "乡巴佬希尔一家的幸福生活 第十二季",
-            "subject_id": "25754354"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1890157/",
+            "id": 4091053,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1315488601.jpg",
+            "title": "遗弃",
+            "release": 1
+        },
+        {
+            "id": 3568560,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870065453.jpg",
+            "title": "噩梦山庄",
+            "release": 1
+        },
+        {
+            "id": 3291927,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2174954071.jpg",
+            "title": "恶行",
+            "release": 1
+        },
+        {
+            "id": 3099223,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2191697417.jpg",
+            "title": "截稿日期",
+            "release": 1
+        },
+        {
+            "id": 3007811,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2191697078.jpg",
+            "title": "恐怖旅馆",
+            "release": 1
+        },
+        {
+            "id": 2150085,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2570008687.jpg",
+            "title": "飞出个未来大电影2：万背之兽",
+            "release": 1
+        },
+        {
+            "id": 1890157,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p553573002.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "相思成灾",
-            "subject_id": "1890157"
+            "release": 1
+        },
+        {
+            "id": 1890152,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1372401715.jpg",
+            "title": "拉面女孩",
+            "release": 1
         }
     ],
     "introduction": "布莱特妮·墨菲（英语：Brittany Anne Murphy ，1977年11月10日－2009年12月20日），美籍演员，同时也是歌手。布莱特妮·墨菲出生于美国佐治亚州亚特兰大。2009年12月20日上午10点04分因使用药物不当，在洛杉矶自家中的浴室里因心脏病发昏倒猝逝，医院报告指出布莱特妮·墨菲曾在2008年至2009年期间使用大量药物抗压，是导致猝逝的主因。",
@@ -136,5 +105,5 @@
         "Brittany Anne Murphy (本名)",
         "Britt (昵称)"
     ],
-    "update_at": "2025-01-19T05:21:22"
+    "update_at": "2025-06-21T08:07:10"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1362424,
+    "sid": "1362424",
     "name": "马切伊·马杰斯基",
     "site": "douban_celebrity",
     "roles": [
@@ -15,84 +15,60 @@
     "birth_place": "波兰，华沙",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/34806917/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2566968138.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "军团",
-            "subject_id": "34806917"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30315018/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532904434.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "303中队",
-            "subject_id": "30315018"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26974615/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2469898722.jpg",
-            "roles": [
-                "演员 (饰 医生 Doctor)"
-            ],
-            "title": "波兰爱经",
-            "subject_id": "26974615"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25717481/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2159335361.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "躲避的爱",
-            "subject_id": "25717481"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10756726/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2456599548.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "死亡之舞",
-            "subject_id": "10756726"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10802012/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2382109174.jpg",
-            "roles": [
-                "演员 (饰 Andrzej)"
-            ],
-            "title": "毫无羞耻",
-            "subject_id": "10802012"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34853450/",
+            "id": 34853450,
             "year": "2009",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2571157181.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Afterparty",
-            "subject_id": "34853450"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1787541/",
+            "id": 34806917,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2566968138.jpg",
+            "title": "军团",
+            "release": 1
+        },
+        {
+            "id": 30315018,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532904434.jpg",
+            "title": "303中队",
+            "release": 1
+        },
+        {
+            "id": 26974615,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2469898722.jpg",
+            "title": "波兰爱经",
+            "release": 1
+        },
+        {
+            "id": 25717481,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2159335361.jpg",
+            "title": "躲避的爱",
+            "release": 1
+        },
+        {
+            "id": 10802012,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2382109174.jpg",
+            "title": "毫无羞耻",
+            "release": 1
+        },
+        {
+            "id": 10756726,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2456599548.jpg",
+            "title": "死亡之舞",
+            "release": 1
+        },
+        {
+            "id": 1787541,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509472813.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "夜巡",
-            "subject_id": "1787541"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -103,5 +79,5 @@
     "personage_link": "https://www.douban.com/personage/27579931/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T05:49:16"
+    "update_at": "2025-06-21T19:07:16"
 }

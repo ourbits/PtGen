@@ -1,11 +1,12 @@
 {
-    "sid": 1274512,
+    "sid": "1274512",
     "name": "崔子恩",
     "site": "douban_celebrity",
     "roles": [
         "导演",
         "编剧",
-        "演员"
+        "演员",
+        "作者"
     ],
     "awards": [],
     "gender": "男",
@@ -17,110 +18,74 @@
     "birth_place": "中国，黑龙江",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26838503/",
+            "id": 36652108,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "一荤三素",
+            "release": 1
+        },
+        {
+            "id": 36421434,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "GAY+HIV+=大玮？",
+            "release": 1
+        },
+        {
+            "id": 26838503,
             "year": "2015",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909442188.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "以我之名：中国同性恋群体实录",
-            "subject_id": "26838503"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/6129665/",
+            "id": 6129665,
             "year": "2010",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2158262847.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "野草莓",
-            "subject_id": "6129665"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3120342/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537785799.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "我如花似玉的儿子",
-            "subject_id": "3120342"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3619027/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511458495.jpg",
-            "roles": [
-                "导演",
-                "制片人",
-                "编剧"
-            ],
-            "title": "志同志",
-            "subject_id": "3619027"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36421434/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "GAY+HIV+=大玮？",
-            "subject_id": "36421434"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3271274/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2569183361.jpg",
-            "roles": [
-                "制片人"
-            ],
-            "title": "二冬",
-            "subject_id": "3271274"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3810631/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2458306741.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "独生子，向上向下向左向右向前向后",
-            "subject_id": "3810631"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4111455/",
+            "id": 4111455,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2205277841.jpg",
-            "roles": [
-                "导演",
-                "摄影"
-            ],
             "title": "我们是共产主义省略号",
-            "subject_id": "4111455"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36652108/",
+            "id": 3810631,
             "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "一荤三素",
-            "subject_id": "36652108"
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2458306741.jpg",
+            "title": "独生子，向上向下向左向右向前向后",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3808976/",
-            "year": "2007",
+            "id": 3808976,
+            "year": "2006",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1680004506.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "副歌",
-            "subject_id": "3808976"
+            "release": 1
+        },
+        {
+            "id": 3619027,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511458495.jpg",
+            "title": "志同志",
+            "release": 1
+        },
+        {
+            "id": 3271274,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2569183361.jpg",
+            "title": "二冬",
+            "release": 1
+        },
+        {
+            "id": 3120342,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537785799.jpg",
+            "title": "我如花似玉的儿子",
+            "release": 1
         }
     ],
     "introduction": "崔子恩，黑龙江人。信爱天主教，教名伯多禄，狮子星座。中国社会科学院研究生院文学硕士，北京电影学院二级电影编剧、副教授。由于崔子恩儿时受到的信仰陶成，他的作品中融进了很多基督信仰的元素，比如小说中金金金怀抱婴孩的圣母形象；主人公在望复活的夜晚的咏唱；对火星上是否有耶稣的遐想；电影《旧约》中用诗篇、箴言、雅歌来划分段落，以及小博手捧圣经召唤卖身者悔改的场景……他将宗教和同志的不可调和，用美化解开来，做出了一种很好的尝试。",
@@ -133,5 +98,5 @@
     "name_more_other": [
         "Zien Cui"
     ],
-    "update_at": "2025-01-19T05:35:09"
+    "update_at": "2025-06-21T19:00:17"
 }

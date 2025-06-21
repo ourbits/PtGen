@@ -1,5 +1,5 @@
 {
-    "sid": 1280638,
+    "sid": "1280638",
     "name": "麦子善",
     "site": "douban_celebrity",
     "roles": [
@@ -21,114 +21,81 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/25845392/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2681329386.jpg",
-            "roles": [
-                "剪辑"
-            ],
-            "title": "长津湖",
-            "subject_id": "25845392"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34670218/",
+            "id": 34670218,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2591946932.jpg",
-            "roles": [
-                "剪辑 - 剪辑指导"
-            ],
             "title": "大赢家",
-            "subject_id": "34670218"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/25779217/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2567346094.jpg",
-            "roles": [
-                "剪辑 - 剪辑指导"
-            ],
-            "title": "诛仙1",
-            "subject_id": "25779217"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30263962/",
+            "id": 30263962,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2544078793.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "黄飞鸿之怒海雄风",
-            "subject_id": "30263962"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27008394/",
+            "id": 27008394,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537061691.jpg",
-            "roles": [
-                "剪辑"
-            ],
             "title": "功夫联盟",
-            "subject_id": "27008394"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26754831/",
+            "id": 26754831,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2462744662.jpg",
-            "roles": [
-                "剪辑 - 剪辑指导"
-            ],
             "title": "绝世高手",
-            "subject_id": "26754831"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26346934/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2573979512.jpg",
-            "roles": [
-                "剪辑"
-            ],
-            "title": "甄嬛传(美版)",
-            "subject_id": "26346934"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25756355/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2175238497.jpg",
-            "roles": [
-                "剪辑"
-            ],
-            "title": "特工艾米拉",
-            "subject_id": "25756355"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6890737/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1992862530.jpg",
-            "roles": [
-                "剪辑"
-            ],
-            "title": "光辉岁月",
-            "subject_id": "6890737"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10828426/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1609903887.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "绝色武器",
-            "subject_id": "10828426"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26687571/",
+            "id": 26687571,
             "year": "2030",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2552126389.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "功夫之不准打架",
-            "subject_id": "26687571"
+            "release": 0
+        },
+        {
+            "id": 26346934,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2573979512.jpg",
+            "title": "甄嬛传(美版)",
+            "release": 1
+        },
+        {
+            "id": 25845392,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2681329386.jpg",
+            "title": "长津湖",
+            "release": 1
+        },
+        {
+            "id": 25779217,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2567346094.jpg",
+            "title": "诛仙1",
+            "release": 1
+        },
+        {
+            "id": 25756355,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2175238497.jpg",
+            "title": "特工艾米拉",
+            "release": 1
+        },
+        {
+            "id": 10828426,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1609903887.jpg",
+            "title": "绝色武器",
+            "release": 1
+        },
+        {
+            "id": 6890737,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1992862530.jpg",
+            "title": "光辉岁月",
+            "release": 1
         }
     ],
     "introduction": "香港电影中，“剪接”头衔下面出现最多的是两个名字，早一点多是张耀宗，后来就差不多都是麦子善。麦子善的名字最多的是出现在徐克电影里，他的剪接在徐克作品中成了一种招牌，行如流水，波澜壮阔，大气与速度感在其他电影中绝对难得一见，而后，麦子善更是有了“香港第一剪刀”的美誉。1999年，香港影坛许多幕后技师都转做导演，麦子善也在这一时期执导了《行规》，其后成了香港影坛的多产导演。 2003年麦子善执导了由徐克监制的《散打》。麦子善十四岁开始在电影彩色冲印公司工作，五年后开始担任电影剪接工作，到了八十年代中期，成为徐克的御用剪接师，他曾凭《黄飞鸿》和《野兽刑警》两获金像奖最佳剪接奖，他的徒弟如林安儿等人也都成为了香江名剪。香港电影产量逐年减少之时，麦子善开始出来当导演（他的原话大概是这样：“那时候香港电影没有大制作，全港50多部电影的年产量，有30多部是我剪的，剪得我非常生气。我说你们投100万做小成本电影，我也来做。 先是给徐克做副导，后来自己执导了很多部电影，说心里话，他导的电影我大多数都看过，印象都不是很深。《风流家族》里饰演来应征的导演，在这部电影里，麦子善自称他的处女作是“O娘之通奸情案”，其实真要说起来麦子善当导演，那得从八十年代初说起，他曾给萧荣邓光荣的作品（如《无毒不丈夫》、《血洗唐人街》）做过副导，比较有意思的是，当初麦子善给萧荣做副导，等2000年麦子善拍《行规》的时候，萧荣给他当的副导。",
@@ -141,5 +108,5 @@
     "personage_link": "https://www.douban.com/personage/27508917/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T10:07:23"
+    "update_at": "2025-06-21T04:56:19"
 }

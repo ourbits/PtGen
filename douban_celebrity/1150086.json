@@ -1,5 +1,5 @@
 {
-    "sid": 1150086,
+    "sid": "1150086",
     "name": "Le Tari",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "美国,俄亥俄州",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/4135265/",
-            "year": "1987",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2636826949.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "好莱坞洗牌",
-            "subject_id": "4135265"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5048978/",
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "What's Happening Now!",
-            "subject_id": "5048978"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1826764/",
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2544326933.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "电脑娃娃 第一季",
-            "subject_id": "1826764"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1302003/",
-            "year": "1983",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2634027791.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "火冰历险",
-            "subject_id": "1302003"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1871853/",
-            "year": "1983",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2910424356.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "天龙特攻队 第一季",
-            "subject_id": "1871853"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3170491/",
-            "year": "1982",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2228203498.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "富豪侦探",
-            "subject_id": "3170491"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5050851/",
-            "year": "1981",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2593812155.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "死亡天使",
-            "subject_id": "5050851"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5050696/",
-            "year": "1981",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876182421.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "冤狱档案",
-            "subject_id": "5050696"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5050894/",
-            "year": "1981",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2453013140.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "新风月泣残红",
-            "subject_id": "5050894"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5051970/",
+            "id": 5051970,
             "year": "1979",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2525346023.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "发烧教练",
-            "subject_id": "5051970"
+            "release": 1
+        },
+        {
+            "id": 5050894,
+            "year": "1981",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2453013140.jpg",
+            "title": "新风月泣残红",
+            "release": 1
+        },
+        {
+            "id": 5050851,
+            "year": "1981",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2593812155.jpg",
+            "title": "死亡天使",
+            "release": 1
+        },
+        {
+            "id": 5050696,
+            "year": "1981",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876182421.jpg",
+            "title": "冤狱档案",
+            "release": 1
+        },
+        {
+            "id": 5048978,
+            "year": "1985",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "What's Happening Now!",
+            "release": 1
+        },
+        {
+            "id": 4135265,
+            "year": "1987",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2636826949.jpg",
+            "title": "好莱坞洗牌",
+            "release": 1
+        },
+        {
+            "id": 3170491,
+            "year": "1982",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2228203498.jpg",
+            "title": "富豪侦探",
+            "release": 1
+        },
+        {
+            "id": 1871853,
+            "year": "1983",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2910424356.jpg",
+            "title": "天龙特攻队 第一季",
+            "release": 1
+        },
+        {
+            "id": 1826764,
+            "year": "1985",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2544326933.jpg",
+            "title": "电脑娃娃 第一季",
+            "release": 1
+        },
+        {
+            "id": 1302003,
+            "year": "1983",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2634027791.jpg",
+            "title": "火冰历险",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -129,5 +99,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-19T17:21:06"
+    "update_at": "2025-06-20T23:35:06"
 }
