@@ -1,5 +1,5 @@
 {
-    "sid": 1018744,
+    "sid": "1018744",
     "name": "克里夫·布洛克",
     "site": "douban_celebrity",
     "roles": [
@@ -17,107 +17,74 @@
     "birth_place": "英国,伦敦",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1300309/",
-            "year": "1963",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1922974514.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "假面凶手",
-            "subject_id": "1300309"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3749155/",
-            "year": "1955",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2298015826.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "ITV剧场 第一季",
-            "subject_id": "3749155"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5066353/",
-            "year": "1950",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2155821702.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "普利策奖剧场",
-            "subject_id": "5066353"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5068700/",
-            "year": "1944",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635770443.jpg",
-            "roles": [
-                "演员",
-                "导演",
-                "制片人",
-                "编剧"
-            ],
-            "title": "试婚记",
-            "subject_id": "5068700"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5069048/",
-            "year": "1943",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868221755.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "船厂故事",
-            "subject_id": "5069048"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5069029/",
-            "year": "1943",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2543455290.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "佛兰芒农场",
-            "subject_id": "5069029"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5083296/",
+            "id": 5083296,
             "year": "1942",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2649686995.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Adventure in Blackmail",
-            "subject_id": "5083296"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5071099/",
+            "id": 5071099,
             "year": "1940",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2557393088.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "回到昨天",
-            "subject_id": "5071099"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5070861/",
-            "year": "1940",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2884765027.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "护航舰血战",
-            "subject_id": "5070861"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5070967/",
+            "id": 5070967,
             "year": "1938",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912173263.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "The Ware Case",
-            "subject_id": "5070967"
+            "release": 1
+        },
+        {
+            "id": 5070861,
+            "year": "1940",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2884765027.jpg",
+            "title": "护航舰血战",
+            "release": 1
+        },
+        {
+            "id": 5069048,
+            "year": "1943",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868221755.jpg",
+            "title": "船厂故事",
+            "release": 1
+        },
+        {
+            "id": 5069029,
+            "year": "1943",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2543455290.jpg",
+            "title": "佛兰芒农场",
+            "release": 1
+        },
+        {
+            "id": 5068700,
+            "year": "1944",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2635770443.jpg",
+            "title": "试婚记",
+            "release": 1
+        },
+        {
+            "id": 5066353,
+            "year": "1950",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2155821702.jpg",
+            "title": "普利策奖剧场",
+            "release": 1
+        },
+        {
+            "id": 3749155,
+            "year": "1955",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2298015826.jpg",
+            "title": "ITV剧场 第一季",
+            "release": 1
+        },
+        {
+            "id": 1300309,
+            "year": "1963",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1922974514.jpg",
+            "title": "假面凶手",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -141,5 +108,5 @@
     "name_more_other": [
         "Clifford Hardman Brook (本名)"
     ],
-    "update_at": "2025-01-19T22:35:14"
+    "update_at": "2025-06-22T07:21:07"
 }

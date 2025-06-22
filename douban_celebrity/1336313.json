@@ -1,5 +1,5 @@
 {
-    "sid": 1336313,
+    "sid": "1336313",
     "name": "徐锡凡",
     "site": "douban_celebrity",
     "roles": [
@@ -15,44 +15,32 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/10531178/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2121570664.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "演员就是演员",
-            "subject_id": "10531178"
-        },
-        {
-            "url": "https://movie.douban.com/subject/19899661/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1758849701.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "如果我告白的话",
-            "subject_id": "19899661"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10600262/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2173868013.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "单身的人上天堂",
-            "subject_id": "10600262"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25719528/",
+            "id": 25719528,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2121974329.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "天使的选择",
-            "subject_id": "25719528"
+            "release": 1
+        },
+        {
+            "id": 19899661,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1758849701.jpg",
+            "title": "如果我告白的话",
+            "release": 1
+        },
+        {
+            "id": 10600262,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2173868013.jpg",
+            "title": "单身的人上天堂",
+            "release": 1
+        },
+        {
+            "id": 10531178,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2121570664.jpg",
+            "title": "演员就是演员",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -65,5 +53,5 @@
     "name_more_other": [
         "서범석"
     ],
-    "update_at": "2025-01-19T00:21:05"
+    "update_at": "2025-06-22T18:28:07"
 }

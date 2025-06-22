@@ -1,5 +1,5 @@
 {
-    "sid": 1018107,
+    "sid": "1018107",
     "name": "迪米特利·马丁",
     "site": "douban_celebrity",
     "roles": [
@@ -17,117 +17,81 @@
     "birth_place": "美国,纽约",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36839068/",
+            "id": 36839068,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906454930.jpg",
-            "roles": [
-                "演员",
-                "导演",
-                "编剧"
-            ],
             "title": "德米特里·马丁：德米特里解构",
-            "subject_id": "36839068"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34822138/",
+            "id": 35763512,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2920601645.jpg",
+            "title": "咱们小裸熊 第二季",
+            "release": 1
+        },
+        {
+            "id": 34822138,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2604993774.jpg",
-            "roles": [
-                "演员 - 配音 (配 Ice Bear)"
-            ],
             "title": "咱们裸熊：电影版",
-            "subject_id": "34822138"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30167540/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2530692991.jpg",
-            "roles": [
-                "演员",
-                "编剧"
-            ],
-            "title": "迪米特利·马丁：想太多",
-            "subject_id": "30167540"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27665860/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510865908.jpg",
-            "roles": [
-                "演员 - 配音 (配 阿极 Ice Bear)"
-            ],
-            "title": "咱们裸熊 第四季",
-            "subject_id": "27665860"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30488600/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2550643752.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "咱们裸熊：冰冻白熊",
-            "subject_id": "30488600"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30488599/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2550643748.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "咱们裸熊：熊熊叠叠乐",
-            "subject_id": "30488599"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30488601/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2550643757.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "咱们裸熊：需要拼装",
-            "subject_id": "30488601"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30488602/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2550643764.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "咱们裸熊：白熊大厨",
-            "subject_id": "30488602"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30488603/",
+            "id": 30488603,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2550643766.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "咱们裸熊：熊洞",
-            "subject_id": "30488603"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26999946/",
+            "id": 30488602,
             "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2451713110.jpg",
-            "roles": [
-                "演员 - 配音 (配 阿极 Ice Bear)"
-            ],
-            "title": "咱们裸熊 第三季",
-            "subject_id": "26999946"
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2550643764.jpg",
+            "title": "咱们裸熊：白熊大厨",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4245391/",
+            "id": 30488601,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2550643757.jpg",
+            "title": "咱们裸熊：需要拼装",
+            "release": 1
+        },
+        {
+            "id": 30488600,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2550643752.jpg",
+            "title": "咱们裸熊：冰冻白熊",
+            "release": 1
+        },
+        {
+            "id": 30488599,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2550643748.jpg",
+            "title": "咱们裸熊：熊熊叠叠乐",
+            "release": 1
+        },
+        {
+            "id": 30167540,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2530692991.jpg",
+            "title": "迪米特利·马丁：想太多",
+            "release": 1
+        },
+        {
+            "id": 27665860,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510865908.jpg",
+            "title": "咱们裸熊 第四季",
+            "release": 1
+        },
+        {
+            "id": 4245391,
             "year": "2025",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "编剧"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "自由意志",
-            "subject_id": "4245391"
+            "release": 0
         }
     ],
     "introduction": "Stand-up comedian, humorist, actor, director, authorGraduated from Yale University and dropped from NYU Law School",
@@ -144,5 +108,5 @@
     "name_more_other": [
         "Demitri Martin"
     ],
-    "update_at": "2025-01-20T07:42:17"
+    "update_at": "2025-06-22T09:07:07"
 }

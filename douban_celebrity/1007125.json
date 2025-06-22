@@ -1,5 +1,5 @@
 {
-    "sid": 1007125,
+    "sid": "1007125",
     "name": "佛朗哥·泽菲雷里",
     "site": "douban_celebrity",
     "roles": [
@@ -22,105 +22,74 @@
     "birth_place": "意大利,托斯卡纳,佛罗伦萨",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36025599/",
+            "id": 36025599,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885352635.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "佛朗哥·泽菲雷里：反叛的逐流者",
-            "subject_id": "36025599"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/25735492/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2586659558.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "音魂掠影",
-            "subject_id": "25735492"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35071108/",
+            "id": 35071108,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2603449920.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "波希米亚人",
-            "subject_id": "35071108"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4173871/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1947645555.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "罗马赞歌",
-            "subject_id": "4173871"
+            "id": 25735492,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2586659558.jpg",
+            "title": "音魂掠影",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5193810/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2505430818.jpg",
-            "roles": [
-                "美术"
-            ],
-            "title": "纽约大都会歌剧院高清转播系列",
-            "subject_id": "5193810"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5172633/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532029056.jpg",
-            "roles": [
-                "美术"
-            ],
-            "title": "威尔第歌剧 阿伊达",
-            "subject_id": "5172633"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2253045/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2888387168.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "绝对卡拉斯",
-            "subject_id": "2253045"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5225474/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "美术"
-            ],
-            "title": "波西米亚人",
-            "subject_id": "5225474"
-        },
-        {
-            "url": "https://movie.douban.com/subject/24736783/",
+            "id": 24736783,
             "year": "2003",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1993163576.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "卡门（维罗纳圆形竞技场LIVE）",
-            "subject_id": "24736783"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3063631/",
+            "id": 5225474,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "波西米亚人",
+            "release": 1
+        },
+        {
+            "id": 5193810,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2505430818.jpg",
+            "title": "纽约大都会歌剧院高清转播系列",
+            "release": 1
+        },
+        {
+            "id": 5172633,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532029056.jpg",
+            "title": "威尔第歌剧 阿伊达",
+            "release": 1
+        },
+        {
+            "id": 4173871,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1947645555.jpg",
+            "title": "罗马赞歌",
+            "release": 1
+        },
+        {
+            "id": 3063631,
             "year": "2003",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881257422.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "玛丽亚·卡拉斯：歌后肖像",
-            "subject_id": "3063631"
+            "release": 1
+        },
+        {
+            "id": 2253045,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2888387168.jpg",
+            "title": "绝对卡拉斯",
+            "release": 1
         }
     ],
     "introduction": "佛朗哥·泽菲雷里(Franco Zeffirelli)是一名意大利导演、制片人。他曾因1968年的《罗密欧与茱丽叶》得到奥斯卡最佳导演提名。他是一名同性恋者。",
@@ -146,5 +115,5 @@
     "name_more_other": [
         "Gianfranco Corsi (本名)"
     ],
-    "update_at": "2025-01-20T11:00:24"
+    "update_at": "2025-06-22T07:00:09"
 }

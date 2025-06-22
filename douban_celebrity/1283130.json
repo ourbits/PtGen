@@ -1,5 +1,5 @@
 {
-    "sid": 1283130,
+    "sid": "1283130",
     "name": "泰德·艾略特",
     "site": "douban_celebrity",
     "roles": [
@@ -20,114 +20,81 @@
     "birth_place": "美国,加利福尼亚,圣安娜",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35525570/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911018416.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "阿拉丁：西区舞台实录",
-            "subject_id": "35525570"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26695328/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2591529164.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "乔克斯·帕罗特船长的冒险：加勒比的灾难",
-            "subject_id": "26695328"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6311303/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2459723975.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "加勒比海盗5：死无对证",
-            "subject_id": "6311303"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3024838/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2121685760.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "独行侠",
-            "subject_id": "3024838"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27147503/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2641945676.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "加勒比海盗：规则的童话",
-            "subject_id": "27147503"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3227410/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p995422651.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "加勒比海盗4：惊涛怪浪",
-            "subject_id": "3227410"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35760298/",
+            "id": 35760298,
             "year": "2010",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2867831279.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "史莱克的圣诞柴",
-            "subject_id": "35760298"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2072478/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p595196020.jpg",
-            "roles": [
-                "编剧 - Based on the Characters Created by"
-            ],
-            "title": "怪物史瑞克4",
-            "subject_id": "2072478"
+            "id": 35525570,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911018416.jpg",
+            "title": "阿拉丁：西区舞台实录",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1607471/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1102384696.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "国家宝藏：夺宝秘笈",
-            "subject_id": "1607471"
+            "id": 27147503,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2641945676.jpg",
+            "title": "加勒比海盗：规则的童话",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1945765/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2239534525.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "史瑞克外传：欢度圣诞",
-            "subject_id": "1945765"
+            "id": 26695328,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2591529164.jpg",
+            "title": "乔克斯·帕罗特船长的冒险：加勒比的灾难",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/6311305/",
+            "id": 6311305,
             "year": "2028",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2462023207.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "加勒比海盗(重启版)",
-            "subject_id": "6311305"
+            "release": 0
+        },
+        {
+            "id": 6311303,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2459723975.jpg",
+            "title": "加勒比海盗5：死无对证",
+            "release": 1
+        },
+        {
+            "id": 3227410,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p995422651.jpg",
+            "title": "加勒比海盗4：惊涛怪浪",
+            "release": 1
+        },
+        {
+            "id": 3024838,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2121685760.jpg",
+            "title": "独行侠",
+            "release": 1
+        },
+        {
+            "id": 2072478,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p595196020.jpg",
+            "title": "怪物史瑞克4",
+            "release": 1
+        },
+        {
+            "id": 1945765,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2239534525.jpg",
+            "title": "史瑞克外传：欢度圣诞",
+            "release": 1
+        },
+        {
+            "id": 1607471,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1102384696.jpg",
+            "title": "国家宝藏：夺宝秘笈",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -138,5 +105,5 @@
     "personage_link": "https://www.douban.com/personage/27511409/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-20T12:21:26"
+    "update_at": "2025-06-22T15:35:07"
 }

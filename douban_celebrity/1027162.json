@@ -1,5 +1,5 @@
 {
-    "sid": 1027162,
+    "sid": "1027162",
     "name": "莎妮·索萨蒙",
     "site": "douban_celebrity",
     "roles": [
@@ -16,124 +16,88 @@
     "birth_place": "美国,夏威夷,檀香山",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36495996/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908587861.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "顶级拉拉队",
-            "subject_id": "36495996"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36093642/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2880373518.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "迷因杀机",
-            "subject_id": "36093642"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10539115/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873671556.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "耶稣会士",
-            "subject_id": "10539115"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34979109/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2588382130.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Undertaker's Wife",
-            "subject_id": "34979109"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35052245/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2643120552.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "High Holiday",
-            "subject_id": "35052245"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30344293/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536332760.jpg",
-            "roles": [
-                "演员 (饰 Liz Beth Stevens)"
-            ],
-            "title": "鬼光",
-            "subject_id": "30344293"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27073322/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "玻璃纸",
-            "subject_id": "27073322"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4933240/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Man Without a Head",
-            "subject_id": "4933240"
-        },
-        {
-            "url": "https://movie.douban.com/subject/22266750/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2237485560.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "险恶2",
-            "subject_id": "22266750"
-        },
-        {
-            "url": "https://movie.douban.com/subject/22992179/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2191868861.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "黑松镇 第一季",
-            "subject_id": "22992179"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37135308/",
+            "id": 37135308,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915847973.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "The Hallowarrior",
-            "subject_id": "37135308"
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/36897373/",
+            "id": 36897373,
             "year": "2025",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "There There",
-            "subject_id": "36897373"
+            "release": 0
+        },
+        {
+            "id": 36495996,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908587861.jpg",
+            "title": "顶级拉拉队",
+            "release": 1
+        },
+        {
+            "id": 36093642,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2880373518.jpg",
+            "title": "迷因杀机",
+            "release": 1
+        },
+        {
+            "id": 35052245,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2643120552.jpg",
+            "title": "High Holiday",
+            "release": 1
+        },
+        {
+            "id": 34979109,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2588382130.jpg",
+            "title": "The Undertaker's Wife",
+            "release": 1
+        },
+        {
+            "id": 30344293,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536332760.jpg",
+            "title": "鬼光",
+            "release": 1
+        },
+        {
+            "id": 27073322,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "玻璃纸",
+            "release": 1
+        },
+        {
+            "id": 22992179,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2191868861.jpg",
+            "title": "黑松镇 第一季",
+            "release": 1
+        },
+        {
+            "id": 22266750,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2237485560.jpg",
+            "title": "险恶2",
+            "release": 1
+        },
+        {
+            "id": 10539115,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873671556.jpg",
+            "title": "耶稣会士",
+            "release": 1
+        },
+        {
+            "id": 4933240,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Man Without a Head",
+            "release": 1
         }
     ],
     "introduction": "莎妮·索萨蒙，美国演员。三岁搬至内达华州西部的里诺市并在那里长大，她有着法国、夏威夷、荷兰、英格兰、爱尔兰、菲律宾以及德国方面的血统。高中毕业后索萨蒙来到加州洛衫机追寻自己的舞蹈家梦想，就读于当地舞校的同时也在酒吧做起了专业DJ，另外偶尔还接拍一些广告。1999 年她和朋友一起在女星格温妮丝·帕特洛的生日宴会上做DJ时，她被选角导演Francine Maisler发掘，为此人生也揭开了新的篇章。起步时接到的一些小角色对于这位专业DJ来说并没有太大的吸引力，直到2001年经过激烈竞争之后主演《圣战骑士》的机会来到她的面前。此后索萨蒙的演出日程日益繁忙，但她依然会在每个周二晚间继续从事DJ的工作。03年5月莎妮·索萨蒙生下了儿子Audio Science Clayton。2008年她主演了日本恐怖经典的翻拍作《鬼已来电》。",
@@ -148,5 +112,5 @@
         "Shan(昵称)",
         "Hot Soss(昵称)"
     ],
-    "update_at": "2025-01-19T05:21:11"
+    "update_at": "2025-06-22T21:07:06"
 }

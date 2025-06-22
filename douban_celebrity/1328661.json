@@ -1,5 +1,5 @@
 {
-    "sid": 1328661,
+    "sid": "1328661",
     "name": "张达伦",
     "site": "douban_celebrity",
     "roles": [
@@ -15,124 +15,88 @@
     "birth_place": "中国香港",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36421884/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914777370.jpg",
-            "roles": [
-                "演员 (饰 Maxco)"
-            ],
-            "title": "焚城",
-            "subject_id": "36421884"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36613665/",
+            "id": 36613665,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2913937630.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "出租大叔",
-            "subject_id": "36613665"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36149743/",
+            "id": 36421884,
             "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911591316.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "武替道",
-            "subject_id": "36149743"
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914777370.jpg",
+            "title": "焚城",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35861066/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904522137.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "再见枕边人",
-            "subject_id": "35861066"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36315211/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904292443.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "飞黄腾达",
-            "subject_id": "36315211"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35638110/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899193557.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "叠影狙击",
-            "subject_id": "35638110"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36247697/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2896358159.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "阴目侦信",
-            "subject_id": "36247697"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35478916/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895921420.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "见怪",
-            "subject_id": "35478916"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35622198/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2889955004.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "法言人",
-            "subject_id": "35622198"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35736402/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904979326.jpg",
-            "roles": [
-                "演员 (饰 张敖扬警察)"
-            ],
-            "title": "出租家人",
-            "subject_id": "35736402"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36318303/",
+            "id": 36318303,
             "year": "2027",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2889369585.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "臭豆腐",
-            "subject_id": "36318303"
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/30174089/",
+            "id": 36315211,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904292443.jpg",
+            "title": "飞黄腾达",
+            "release": 1
+        },
+        {
+            "id": 36247697,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2896358159.jpg",
+            "title": "阴目侦信",
+            "release": 1
+        },
+        {
+            "id": 36149743,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2919149778.jpg",
+            "title": "武替道",
+            "release": 1
+        },
+        {
+            "id": 35861066,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904522137.jpg",
+            "title": "再见枕边人",
+            "release": 1
+        },
+        {
+            "id": 35638110,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899193557.jpg",
+            "title": "叠影狙击",
+            "release": 1
+        },
+        {
+            "id": 35622198,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2889955004.jpg",
+            "title": "法言人",
+            "release": 1
+        },
+        {
+            "id": 35478916,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895921420.jpg",
+            "title": "见怪",
+            "release": 1
+        },
+        {
+            "id": 33414470,
+            "year": "2025",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2919557624.jpg",
+            "title": "水饺皇后",
+            "release": 1
+        },
+        {
+            "id": 30174089,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911854272.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "内幕",
-            "subject_id": "30174089"
+            "release": 0
         }
     ],
     "introduction": "现为香港无线电视男艺员。曾任职电脑硬件公司营业员，之后加入无线电视任职幕后工作人员，于2005年入读并毕业于第19期无线电视艺员训练班，成为艺员。2012年处境剧《爱·回家》为其出道以来最多戏份的剧集。曾与黎芷珊拍拖八年，2012年宣布分手。",
@@ -145,5 +109,5 @@
     "name_more_other": [
         "Tat-Lun Cheung"
     ],
-    "update_at": "2025-01-17T09:28:22"
+    "update_at": "2025-06-22T15:00:09"
 }
