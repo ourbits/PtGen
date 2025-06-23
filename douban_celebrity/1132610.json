@@ -1,5 +1,5 @@
 {
-    "sid": 1132610,
+    "sid": "1132610",
     "name": "冈和男",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "日本,琦玉",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26999593/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914963206.jpg",
-            "roles": [
-                "演员 - 配音 (配 松永正一)"
-            ],
-            "title": "3月的狮子 第二季",
-            "subject_id": "26999593"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27166606/",
+            "id": 27166606,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2501512527.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
             "title": "月色真美 未放送短篇集",
-            "subject_id": "27166606"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26963810/",
+            "id": 26999593,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914963206.jpg",
+            "title": "3月的狮子 第二季",
+            "release": 1
+        },
+        {
+            "id": 26963810,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2500962179.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
             "title": "月色真美",
-            "subject_id": "26963810"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4058906/",
+            "id": 4058906,
             "year": "2009",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2561895608.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
             "title": "姐弟物语",
-            "subject_id": "4058906"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2357717/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2528437799.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "名侦探柯南：绀碧之棺",
-            "subject_id": "2357717"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2173737/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2257351306.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "罗密欧与朱丽叶",
-            "subject_id": "2173737"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2043134/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554032472.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "大剑",
-            "subject_id": "2043134"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2043155/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2517464011.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "反叛的鲁路修",
-            "subject_id": "2043155"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2992994/",
+            "id": 2992994,
             "year": "2006",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2260261361.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
             "title": "月桂树的王子们",
-            "subject_id": "2992994"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2054445/",
+            "id": 2357717,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2528437799.jpg",
+            "title": "名侦探柯南：绀碧之棺",
+            "release": 1
+        },
+        {
+            "id": 2173737,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2257351306.jpg",
+            "title": "罗密欧与朱丽叶",
+            "release": 1
+        },
+        {
+            "id": 2054445,
             "year": "2006",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2867334196.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "双子星公主 Gyu!",
-            "subject_id": "2054445"
+            "release": 1
+        },
+        {
+            "id": 2043155,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2517464011.jpg",
+            "title": "反叛的鲁路修",
+            "release": 1
+        },
+        {
+            "id": 2043134,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554032472.jpg",
+            "title": "大剑",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -126,5 +96,5 @@
     "name_more_other": [
         "岡 和男"
     ],
-    "update_at": "2025-01-19T23:07:10"
+    "update_at": "2025-06-23T04:28:14"
 }

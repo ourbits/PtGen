@@ -1,5 +1,5 @@
 {
-    "sid": 1349765,
+    "sid": "1349765",
     "name": "文牧野",
     "site": "douban_celebrity",
     "roles": [
@@ -22,136 +22,102 @@
     "birth_place": "中国",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36553891/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908777935.jpg",
-            "roles": [
-                "制片人 - 监制"
-            ],
-            "title": "星星在等我们",
-            "subject_id": "36553891"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30311925/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900828348.jpg",
-            "roles": [
-                "制片人 - 总监制/艺术总监"
-            ],
-            "title": "似火流年",
-            "subject_id": "30311925"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35312437/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2842327103.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "奇迹·笨小孩",
-            "subject_id": "35312437"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35780774/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868739192.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "财约你2021",
-            "subject_id": "35780774"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35191384/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2681425685.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "北影节“梦圆·奋进”特别节目：光影筑梦新征程",
-            "subject_id": "35191384"
-        },
-        {
-            "url": "https://movie.douban.com/subject/32659890/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2567998580.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "我和我的祖国",
-            "subject_id": "32659890"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35080328/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2604635595.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "药神创作记录",
-            "subject_id": "35080328"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36857903/",
+            "id": 36857903,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908700970.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "2018腾讯视频星光大赏",
-            "subject_id": "36857903"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30397897/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2887326274.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "2018最美表演",
-            "subject_id": "30397897"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35208465/",
-            "year": "2030",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "神舟",
-            "subject_id": "35208465"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36810600/",
+            "id": 36810600,
             "year": "2026",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893469707.jpg",
-            "roles": [
-                "制片人 - 监制"
-            ],
             "title": "扫鼠岭",
-            "subject_id": "36810600"
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/36808520/",
-            "year": "2025",
+            "id": 36808520,
+            "year": "2026",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905573774.jpg",
-            "roles": [
-                "制片人 - 监制"
-            ],
             "title": "魔方小姐",
-            "subject_id": "36808520"
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/35811064/",
+            "id": 36553891,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908777935.jpg",
+            "title": "星星在等我们",
+            "release": 1
+        },
+        {
+            "id": 35811064,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915561817.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "欢迎来龙餐馆",
-            "subject_id": "35811064"
+            "release": 0
+        },
+        {
+            "id": 35780774,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868739192.jpg",
+            "title": "财约你2021",
+            "release": 1
+        },
+        {
+            "id": 35312437,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2842327103.jpg",
+            "title": "奇迹·笨小孩",
+            "release": 1
+        },
+        {
+            "id": 35208465,
+            "year": "2030",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "神舟",
+            "release": 0
+        },
+        {
+            "id": 35191384,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2681425685.jpg",
+            "title": "北影节“梦圆·奋进”特别节目：光影筑梦新征程",
+            "release": 1
+        },
+        {
+            "id": 35080328,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2604635595.jpg",
+            "title": "药神创作记录",
+            "release": 1
+        },
+        {
+            "id": 32659890,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2567998580.jpg",
+            "title": "我和我的祖国",
+            "release": 1
+        },
+        {
+            "id": 30397897,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2887326274.jpg",
+            "title": "2018最美表演",
+            "release": 1
+        },
+        {
+            "id": 30311925,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900828348.jpg",
+            "title": "似火流年",
+            "release": 1
+        },
+        {
+            "id": 26752088,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2561305376.jpg",
+            "title": "我不是药神",
+            "release": 1
         }
     ],
     "introduction": "文牧野，导演、编剧、剪辑、摄影。2014年硕士毕业于北京电影学院导演系，2008年毕业于东北师范大学人文学院传媒学院。短片作品：《石头》《金兰桂芹》《BATTLE》《安魂曲》，其中《BATTLE》由导演田壮壮监制，讲述一个穆斯林在主流文化与宗教信仰之间无所归依的状态，获得第七届FIRST青年电影展大学生电影竞赛单元评委会大奖。其作品《安魂曲》片长12分48秒，却在香港引起轰动。该片六次参赛获奖情况：入围有67届洛伽诺电影节最佳国际短片单元、第四十五届芬兰坦佩雷国际短片电影节CIFA特别展映单元，获得第12届亚洲国际短片电影节国际短片大奖、第九届亚洲国际青少年电影节提名奖、2014第六届澳门国际电影节微电影大学生组澳天龙微电影导演大奖、第12届全球华语大学生影视奖最佳剧情片和最佳创意奖、第八届FIRST青年电影展最佳剧情片提名奖等。文牧野具有极强的现实主义刻画能力, 编剧、导演的长片处女作《我不是药神》于2018年上映，票房达到31亿，并凭此片文获得了第42届蒙特利尔电影节最佳剧本、第14届中国长春电影节最佳青年编剧、第55届金马奖最佳新导演、第1届海南岛国际电影节年度导演、第10届中国电影导演协会年度青年导演、第26届北京大学生电影节最佳导演、第32届金鸡奖导演处女作、第38届香港电影金像最佳两岸华语电影等多个大奖。2022年春节档上映的《奇迹·笨小孩》也收获了观众的许多好评，并获得第36届大众电影百花奖最佳导演奖等多项荣誉。",
@@ -162,5 +128,5 @@
     "personage_link": "https://www.douban.com/personage/27555030/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T03:49:15"
+    "update_at": "2025-06-23T08:00:07"
 }

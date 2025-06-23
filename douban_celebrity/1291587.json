@@ -1,5 +1,5 @@
 {
-    "sid": 1291587,
+    "sid": "1291587",
     "name": "Shannon McGinn",
     "site": "douban_celebrity",
     "roles": [
@@ -17,34 +17,25 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/24868080/",
+            "id": 24868080,
             "year": "2013",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2452706717.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "极速前进：加拿大版 第一季",
-            "subject_id": "24868080"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1800014/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "制片人"
-            ],
-            "title": "寻宝奇兵真人秀",
-            "subject_id": "1800014"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5223606/",
+            "id": 5223606,
             "year": "2005",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "编剧"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "A Nightmare on Elm Street: Real Nightmares",
-            "subject_id": "5223606"
+            "release": 1
+        },
+        {
+            "id": 1800014,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "寻宝奇兵真人秀",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -55,5 +46,5 @@
     "personage_link": "https://www.douban.com/personage/27519865/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T12:42:06"
+    "update_at": "2025-06-23T13:00:13"
 }

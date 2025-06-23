@@ -1,5 +1,5 @@
 {
-    "sid": 1129597,
+    "sid": "1129597",
     "name": "大卫·纽森",
     "site": "douban_celebrity",
     "roles": [
@@ -17,104 +17,74 @@
     "birth_place": "美国,新泽西州,北考德威尔",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35048413/",
+            "id": 35048413,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870510534.jpg",
-            "roles": [
-                "演员 (饰 Male Jury Member)"
-            ],
             "title": "健听女孩",
-            "subject_id": "35048413"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4038207/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510279317.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "永不入睡：猛鬼街传奇",
-            "subject_id": "4038207"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5181539/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "制片人"
-            ],
-            "title": "Open Your Eyes",
-            "subject_id": "5181539"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5182630/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "G Word",
-            "subject_id": "5182630"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3273588/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2340119230.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "邪恶力量  第四季",
-            "subject_id": "3273588"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3141950/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2003242326.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "超感神探 第一季",
-            "subject_id": "3141950"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2044424/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2330153797.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "私人诊所 第一季",
-            "subject_id": "2044424"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1951485/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915086350.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "流言 第一季",
-            "subject_id": "1951485"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5205913/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Runaway",
-            "subject_id": "5205913"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5206201/",
+            "id": 5206201,
             "year": "2006",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2883360901.jpg",
-            "roles": [
-                "制片人"
-            ],
             "title": "母亲",
-            "subject_id": "5206201"
+            "release": 1
+        },
+        {
+            "id": 5205913,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "Runaway",
+            "release": 1
+        },
+        {
+            "id": 5182630,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "G Word",
+            "release": 1
+        },
+        {
+            "id": 5181539,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Open Your Eyes",
+            "release": 1
+        },
+        {
+            "id": 4038207,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510279317.jpg",
+            "title": "永不入睡：猛鬼街传奇",
+            "release": 1
+        },
+        {
+            "id": 3273588,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2340119230.jpg",
+            "title": "邪恶力量  第四季",
+            "release": 1
+        },
+        {
+            "id": 3141950,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2003242326.jpg",
+            "title": "超感神探 第一季",
+            "release": 1
+        },
+        {
+            "id": 2044424,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2330153797.jpg",
+            "title": "私人诊所 第一季",
+            "release": 1
+        },
+        {
+            "id": 1951485,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915086350.jpg",
+            "title": "流言 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -127,5 +97,5 @@
     "name_more_other": [
         "David Newsome"
     ],
-    "update_at": "2025-01-20T08:35:19"
+    "update_at": "2025-06-23T17:42:07"
 }

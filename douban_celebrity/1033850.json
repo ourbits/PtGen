@@ -1,5 +1,5 @@
 {
-    "sid": 1033850,
+    "sid": "1033850",
     "name": "大森一树",
     "site": "douban_celebrity",
     "roles": [
@@ -19,107 +19,74 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26282451/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2254966874.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "吹向越南的风",
-            "subject_id": "26282451"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5151434/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p821115349.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "世界各处都有的地方",
-            "subject_id": "5151434"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3393842/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1196424371.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "Theショートフィルムズ　みんな、はじめはコドモだった",
-            "subject_id": "3393842"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3337896/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2197749032.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "飞向天空，救援之翼",
-            "subject_id": "3337896"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1916875/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1233230442.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "何为导演？",
-            "subject_id": "1916875"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5173129/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2172589002.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "悲伤天使",
-            "subject_id": "5173129"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36060046/",
+            "id": 36060046,
             "year": "2005",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2622589964.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "剧场版 超星舰队Sazer X 战斗吧！星之战士们",
-            "subject_id": "36060046"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1304539/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2332998344.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "军火",
-            "subject_id": "1304539"
+            "id": 26282451,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2254966874.jpg",
+            "title": "吹向越南的风",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2063922/",
+            "id": 5173129,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2172589002.jpg",
+            "title": "悲伤天使",
+            "release": 1
+        },
+        {
+            "id": 5151434,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p821115349.jpg",
+            "title": "世界各处都有的地方",
+            "release": 1
+        },
+        {
+            "id": 4853293,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p828186710.jpg",
+            "title": "津轻百年食堂",
+            "release": 1
+        },
+        {
+            "id": 3393842,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1196424371.jpg",
+            "title": "Theショートフィルムズ　みんな、はじめはコドモだった",
+            "release": 1
+        },
+        {
+            "id": 3337896,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2197749032.jpg",
+            "title": "飞向天空，救援之翼",
+            "release": 1
+        },
+        {
+            "id": 2063922,
             "year": "2001",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2159890819.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "跑啊，高桥！",
-            "subject_id": "2063922"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2033369/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914675812.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "最惡",
-            "subject_id": "2033369"
+            "id": 1916875,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1233230442.jpg",
+            "title": "何为导演？",
+            "release": 1
+        },
+        {
+            "id": 1304539,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2332998344.jpg",
+            "title": "军火",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -139,5 +106,5 @@
     "name_more_other": [
         "Kazuki Oomori"
     ],
-    "update_at": "2025-01-19T04:07:22"
+    "update_at": "2025-06-23T22:35:15"
 }

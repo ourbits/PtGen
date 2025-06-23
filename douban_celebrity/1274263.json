@@ -1,5 +1,5 @@
 {
-    "sid": 1274263,
+    "sid": "1274263",
     "name": "娄烨",
     "site": "douban_celebrity",
     "roles": [
@@ -21,132 +21,88 @@
     "birth_place": "中国,上海",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26954859/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2681336608.jpg",
-            "roles": [
-                "导演",
-                "剪辑",
-                "制片人 - 出品人"
-            ],
-            "title": "兰心大剧院",
-            "subject_id": "26954859"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30346866/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904200655.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "梦的背后",
-            "subject_id": "30346866"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26728669/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2552495737.jpg",
-            "roles": [
-                "导演",
-                "制片人 - 监制"
-            ],
-            "title": "风中有朵雨做的云",
-            "subject_id": "26728669"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26916254/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2882458484.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "我们梦见电影",
-            "subject_id": "26916254"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27118009/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2498786030.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "我爱法国电影",
-            "subject_id": "27118009"
-        },
-        {
-            "url": "https://movie.douban.com/subject/20020577/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2211024574.jpg",
-            "roles": [
-                "导演",
-                "制片人"
-            ],
-            "title": "推拿",
-            "subject_id": "20020577"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10438426/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1722545381.jpg",
-            "roles": [
-                "导演",
-                "制片人",
-                "编剧"
-            ],
-            "title": "浮城谜事",
-            "subject_id": "10438426"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4883425/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1585749106.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "花",
-            "subject_id": "4883425"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6953445/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2169127031.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "42分一幻梦",
-            "subject_id": "6953445"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3690289/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p463651314.jpg",
-            "roles": [
-                "导演",
-                "制片人"
-            ],
-            "title": "春风沉醉的夜晚",
-            "subject_id": "3690289"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36503687/",
+            "id": 36503687,
             "year": "2027",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2896494055.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "重塑雕像的权利“喝彩之后”南京",
-            "subject_id": "36503687"
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/35456337/",
+            "id": 35456337,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2743922539.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "三个字",
-            "subject_id": "35456337"
+            "release": 0
+        },
+        {
+            "id": 30346866,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904200655.jpg",
+            "title": "梦的背后",
+            "release": 1
+        },
+        {
+            "id": 27118009,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2498786030.jpg",
+            "title": "我爱法国电影",
+            "release": 1
+        },
+        {
+            "id": 26954859,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2681336608.jpg",
+            "title": "兰心大剧院",
+            "release": 1
+        },
+        {
+            "id": 26916254,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2882458484.jpg",
+            "title": "我们梦见电影",
+            "release": 1
+        },
+        {
+            "id": 26728669,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2552495737.jpg",
+            "title": "风中有朵雨做的云",
+            "release": 1
+        },
+        {
+            "id": 20020577,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2211024574.jpg",
+            "title": "推拿",
+            "release": 1
+        },
+        {
+            "id": 10438426,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1722545381.jpg",
+            "title": "浮城谜事",
+            "release": 1
+        },
+        {
+            "id": 6953445,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2169127031.jpg",
+            "title": "42分一幻梦",
+            "release": 1
+        },
+        {
+            "id": 4883425,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1585749106.jpg",
+            "title": "花",
+            "release": 1
+        },
+        {
+            "id": 3690289,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p463651314.jpg",
+            "title": "春风沉醉的夜晚",
+            "release": 1
         }
     ],
     "introduction": "娄烨，中国著名导演，第六代导演领军人物。1989年毕业于北京电影学院导演系。代表作品有《春风沉醉的夜晚》、《紫蝴蝶》等。1990年，怀着刚刚步出校门的冲动，娄烨集合了一班朋友，开始了他的第一部电影《周末情人》的拍摄。这一时期，他的许多同学拍摄了一系列以现实生活为题材的影片。娄烨也成了这一集团行动中的一员。娄烨觉得中国电影史上在90年代初注定要出现一批独立电影制作人。尽管独立制作要花费导演许多额外的心思，但在这种方式下导演反而更能表达自己想拍的东西。这种条件是新生代导演所面临的问题，但这些导演仍旧拍出大量影片，这是对第五代摸式的抗拒，又是第六代走向成熟的标志。 　　1995年完成《危情少女》，他的影片追求生存还原，自觉摈弃民族和个人神话，挣脱历史文化的挟裹，将人从重重符号中释放出来，裸露生命的真实状态。但影片从主题、人物、内容包括摇滚表现均和这一时期第六代影片如出一辙。尽管从技巧上来说节奏处理、影调控制以及电影感等不乏光彩，但作品在一定程度上自我满足，自我封闭，展示的社会生活面过于狭窄且脱离普通人的现实生活，这也是大部分第六代导演存在的问题。1999年执导了《苏州河》，在新生代影迷中获得良好口碑。2004年导演《紫蝴蝶》，入选戛纳电影节，但评价不高。2009年作品《春风沉醉的夜晚》是娄烨在南京拍的作品，娄烨携该片参加第六十二届法国戛纳电影节，幷于5月13日在戛纳电影节首映；获得第47届金马奖最佳剪辑奖（布莱松弗洛朗斯、翁首鸣、曾剑）和最佳原创电影音乐奖，以及最佳音效提名和最佳男主角提名。2011年，导演的影片《花》为第68届威尼斯国际电影节威尼斯日单元的竞赛片。2012年，娄烨导演了影片《浮城谜事》，回归公众视线。",
@@ -159,5 +115,5 @@
     "personage_link": "https://www.douban.com/personage/27480358/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T23:07:20"
+    "update_at": "2025-06-23T00:14:12"
 }
