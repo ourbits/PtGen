@@ -1,5 +1,5 @@
 {
-    "sid": 1496401,
+    "sid": "1496401",
     "name": "吴奇聪",
     "site": "douban_celebrity",
     "roles": [
@@ -15,24 +15,18 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36489962/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895993549.jpg",
-            "roles": [
-                "演员 (饰 白文凯)"
-            ],
-            "title": "台湾传奇之荷花怨",
-            "subject_id": "36489962"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36941257/",
+            "id": 36941257,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909839489.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "台湾传奇",
-            "subject_id": "36941257"
+            "release": 1
+        },
+        {
+            "id": 36489962,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895993549.jpg",
+            "title": "台湾传奇之荷花怨",
+            "release": 1
         }
     ],
     "introduction": "吴奇聪，昵称阿乐，中国台湾歌仔戏演员",
@@ -43,5 +37,5 @@
     "personage_link": "https://www.douban.com/personage/36490097/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-20T08:28:06"
+    "update_at": "2025-06-24T09:07:05"
 }

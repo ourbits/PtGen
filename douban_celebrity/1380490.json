@@ -1,5 +1,5 @@
 {
-    "sid": 1380490,
+    "sid": "1380490",
     "name": "布奇·鲁基克",
     "site": "douban_celebrity",
     "roles": [
@@ -16,34 +16,25 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/34777819/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2617266045.jpg",
-            "roles": [
-                "制片人"
-            ],
-            "title": "超人：明日之子",
-            "subject_id": "34777819"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34984573/",
+            "id": 34984573,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2601000420.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "DC展台：亚当·斯特兰奇",
-            "subject_id": "34984573"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26373522/",
+            "id": 34777819,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2617266045.jpg",
+            "title": "超人：明日之子",
+            "release": 1
+        },
+        {
+            "id": 26373522,
             "year": "2015",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2538622716.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "蝙蝠侠无极限：动物本能",
-            "subject_id": "26373522"
+            "release": 1
         }
     ],
     "introduction": "The character \"Blukic\" on Ben 10 Omniverse is named after Butch Lukic, likely due to his contribution to the series.",
@@ -54,5 +45,5 @@
     "personage_link": "https://www.douban.com/personage/27574332/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T02:42:05"
+    "update_at": "2025-06-23T23:21:20"
 }

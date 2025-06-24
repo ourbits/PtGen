@@ -1,5 +1,5 @@
 {
-    "sid": 1008103,
+    "sid": "1008103",
     "name": "维亚切斯拉夫·吉洪诺夫",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "苏联,俄罗斯,莫斯科,巴甫洛夫斯基镇",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/10591853/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1510784768.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "风中楼",
-            "subject_id": "10591853"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1905300/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870480941.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "安徒生：没有爱情的一生",
-            "subject_id": "1905300"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25884867/",
+            "id": 25884867,
             "year": "1998",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2182983783.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "春天的十七个瞬间：25年后",
-            "subject_id": "25884867"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5100604/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911822704.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "候车室",
-            "subject_id": "5100604"
+            "id": 10591853,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1510784768.jpg",
+            "title": "风中楼",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4848492/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906116693.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "胜利日的故事",
-            "subject_id": "4848492"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5114422/",
+            "id": 5114422,
             "year": "1997",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2632099781.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "红场风暴",
-            "subject_id": "5114422"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3296338/",
+            "id": 5110943,
+            "year": "1995",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Avantyura",
+            "release": 1
+        },
+        {
+            "id": 5100604,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911822704.jpg",
+            "title": "候车室",
+            "release": 1
+        },
+        {
+            "id": 4848492,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906116693.jpg",
+            "title": "胜利日的故事",
+            "release": 1
+        },
+        {
+            "id": 3296338,
             "year": "1996",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2904786733.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "早已忘记的年代的可爱的朋友",
-            "subject_id": "3296338"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5110943/",
-            "year": "1995",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Avantyura",
-            "subject_id": "5110943"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2011323/",
+            "id": 2011323,
             "year": "1994",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912439507.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "悲情浪漫曲",
-            "subject_id": "2011323"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1301867/",
+            "id": 1905300,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870480941.jpg",
+            "title": "安徒生：没有爱情的一生",
+            "release": 1
+        },
+        {
+            "id": 1301867,
             "year": "1994",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p799102683.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "烈日灼人",
-            "subject_id": "1301867"
+            "release": 1
         }
     ],
     "introduction": "维亚切斯拉夫·瓦西里耶夫斯基·吉洪诺夫是苏联时代成长起来的表演艺术家，从影五十余年，主演四十多部影片，是苏联时代和当代俄罗斯最富魅力的演员之一，曾获苏联人民演员、社会主义劳动英雄荣誉称号，并获列宁勋章及众多国家级奖章。吉洪诺夫以其主演的电影《白比姆黑耳朵》、《战争与和平》、多集电视连续剧《春天的十七个瞬间》等，使他成为中国观众广为熟知和喜爱的演员。吉洪诺夫1928年2月8日出生于莫斯科郊区，1950年毕业于全苏国立电影学院。五十年代末即蜚声苏联影坛。1966年至1967年间，吉洪诺夫在著名导演谢尔盖·邦达尔丘克执导的《战争与和平》中扮演的安德烈·保尔康斯基公爵角色享誉国内外，奠定其在影视业的地位，成为其演艺生涯的里程碑。上世纪七十年代，吉洪诺夫还主演了《白比姆黑耳朵》、《为祖国而战》等知名影片以及电视连续剧《春天的十七个瞬间》。吉洪诺夫在《春天的十七个瞬间》扮演的主角施季里茨(苏联侦察员伊萨耶夫上校)获得了巨大成功，他被授予“苏联人民演员”最高荣誉称号和国家奖金，此片后获得列宁金奖。吉洪诺夫塑造的苏联特工人员的全新形象深深打动了电视观众。普京总理曾承认，他当年投身苏联特工机关并在东德工作多年，是受《春天的十七个瞬间》电视剧的影响。早年当过金属加工的工人，1945年开始了他的演员生涯。1945年进入全俄国立电影学院（All-Russian State University of Cinematography，简称VGIK）。1950年从VGIK毕业后，他在电影演员剧院的舞台上演了六年的戏。1948年他与著名的苏联女演员诺娜·穆迪乌科娃结婚。两人生育有一个儿子，弗拉迪米尔，也是一位演员，死于1990年。两人于1963年离婚。随后，吉洪诺夫与塔玛拉·伊万诺娃·吉洪诺娃再婚。1969年生育有一个女儿，安娜·吉洪诺娃，也是演员。2009年12月4日，吉洪诺夫逝世于莫斯科的一家医院，俄罗斯总统德米特里·梅德韦杰夫闻讯后，立即向吉洪诺夫的家人致哀。",
@@ -134,5 +104,5 @@
         "Вячеслав Тихонов",
         "Vyacheslav Vasilyevich Tikhonov (本名)"
     ],
-    "update_at": "2025-01-18T23:21:06"
+    "update_at": "2025-06-24T01:49:09"
 }

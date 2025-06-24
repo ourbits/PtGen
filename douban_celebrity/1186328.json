@@ -4,6 +4,7 @@
     "site": "douban_celebrity",
     "roles": [
         "演员",
+        "配音",
         "导演"
     ],
     "awards": [],
@@ -16,114 +17,74 @@
     "birth_place": "阿根廷,布宜诺斯艾利斯",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36912441/",
+            "id": 36912441,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2910665388.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Nuked",
-            "release": 1,
-            "subject_id": "36912441"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34988765/",
+            "id": 34988765,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2715682753.jpg",
-            "roles": [
-                "演员 (饰 Don West)"
-            ],
             "title": "迷失太空 第三季",
-            "release": 1,
-            "subject_id": "34988765"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30335797/",
+            "id": 34340060,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2593878562.jpg",
+            "title": "美国老爸 第十五季",
+            "release": 1
+        },
+        {
+            "id": 34340046,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2599482034.jpg",
+            "title": "美国老爸 第十四季",
+            "release": 1
+        },
+        {
+            "id": 30335797,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542194509.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "边缘卧底",
-            "release": 1,
-            "subject_id": "30335797"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30304564/",
+            "id": 30304564,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2531688074.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "交换游戏",
-            "release": 1,
-            "subject_id": "30304564"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30222063/",
+            "id": 30222063,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2570751030.jpg",
-            "roles": [
-                "演员 (饰 Don West)"
-            ],
             "title": "迷失太空 第二季",
-            "release": 1,
-            "subject_id": "30222063"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30135113/",
+            "id": 30135113,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2563626309.jpg",
-            "roles": [
-                "演员 (饰 胡里奥 Julio)"
-            ],
             "title": "骡子",
-            "release": 1,
-            "subject_id": "30135113"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26670671/",
+            "id": 26670671,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2519167595.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "迷失太空 第一季",
-            "release": 1,
-            "subject_id": "26670671"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/24530440/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2035362764.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "识骨寻踪 第九季",
-            "release": 1,
-            "subject_id": "24530440"
-        },
-        {
-            "url": "https://movie.douban.com/subject/11498729/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2183804348.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "犯罪现场调查 第十三季",
-            "release": 1,
-            "subject_id": "11498729"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3317370/",
+            "id": 3317370,
             "year": "2015",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2212202680.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "定制伴郎",
-            "release": 1,
-            "subject_id": "3317370"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -137,5 +98,5 @@
         "Ignacio Ariel Serricchio (本名)",
         "Nacho (昵称)"
     ],
-    "update_at": "2025-01-21T00:49:10"
+    "update_at": "2025-06-24T10:42:10"
 }
