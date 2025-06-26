@@ -1,5 +1,5 @@
 {
-    "sid": 1157331,
+    "sid": "1157331",
     "name": "戴尔·特纳",
     "site": "douban_celebrity",
     "roles": [
@@ -15,114 +15,81 @@
     "birth_place": "美国,密歇根州,安阿伯",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35432461/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893002117.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "棉花糖奇幻旅程",
-            "subject_id": "35432461"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34851583/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2574228629.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "转变",
-            "subject_id": "34851583"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5153305/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Grandfather",
-            "subject_id": "5153305"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5174377/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Loaner",
-            "subject_id": "5174377"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3754382/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p455073620.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "摩登家庭 第一季",
-            "subject_id": "3754382"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4006452/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1284909809.jpg",
-            "roles": [
-                "演员 (饰 Duane 'Stomp' Milbrett)"
-            ],
-            "title": "豪斯医生  第六季",
-            "subject_id": "4006452"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3990479/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2559733692.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "老爸老妈的浪漫史 第五季",
-            "subject_id": "3990479"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5192913/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Dharini",
-            "subject_id": "5192913"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3273898/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2495619024.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "绝望主妇 第三季",
-            "subject_id": "3273898"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1437936/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2493131192.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "社区女护法 第一季",
-            "subject_id": "1437936"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36679949/",
+            "id": 36679949,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2916642150.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "飓风",
-            "subject_id": "36679949"
+            "release": 0
+        },
+        {
+            "id": 35432461,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893002117.jpg",
+            "title": "棉花糖奇幻旅程",
+            "release": 1
+        },
+        {
+            "id": 34851583,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2574228629.jpg",
+            "title": "转变",
+            "release": 1
+        },
+        {
+            "id": 5192913,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Dharini",
+            "release": 1
+        },
+        {
+            "id": 5174377,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Loaner",
+            "release": 1
+        },
+        {
+            "id": 5153305,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Grandfather",
+            "release": 1
+        },
+        {
+            "id": 4006452,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1284909809.jpg",
+            "title": "豪斯医生  第六季",
+            "release": 1
+        },
+        {
+            "id": 3990479,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2559733692.jpg",
+            "title": "老爸老妈的浪漫史 第五季",
+            "release": 1
+        },
+        {
+            "id": 3754382,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p455073620.jpg",
+            "title": "摩登家庭 第一季",
+            "release": 1
+        },
+        {
+            "id": 3273898,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2495619024.jpg",
+            "title": "绝望主妇 第三季",
+            "release": 1
+        },
+        {
+            "id": 1437936,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2493131192.jpg",
+            "title": "社区女护法 第一季",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -135,5 +102,5 @@
     "name_more_other": [
         "DeeTee (昵称)"
     ],
-    "update_at": "2025-01-20T11:00:10"
+    "update_at": "2025-06-26T18:07:16"
 }

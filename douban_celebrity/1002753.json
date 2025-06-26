@@ -1,5 +1,5 @@
 {
-    "sid": 1002753,
+    "sid": "1002753",
     "name": "哈里·摩根",
     "site": "douban_celebrity",
     "roles": [
@@ -17,104 +17,74 @@
     "birth_place": "美国,密歇根州,底特律",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30226766/",
+            "id": 30226766,
             "year": "2013",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Greenboy: Prescription for Death",
-            "subject_id": "30226766"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5149723/",
+            "id": 5149723,
             "year": "2002",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "'M*A*S*H': 30th Anniversary Reunion",
-            "subject_id": "5149723"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5143467/",
+            "id": 5143467,
             "year": "1999",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Crosswalk",
-            "subject_id": "5143467"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5086715/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Love &amp; Money",
-            "subject_id": "5086715"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1306741/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870860651.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "家庭风暴",
-            "subject_id": "1306741"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1949971/",
-            "year": "1996",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508704326.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "歪星撞地球 第一季",
-            "subject_id": "1949971"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5110366/",
-            "year": "1995",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2611040899.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "Wild Bill: Hollywood Maverick",
-            "subject_id": "5110366"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5111080/",
+            "id": 5111080,
             "year": "1995",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2027078072.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "The Jeff Foxworthy Show",
-            "subject_id": "5111080"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2348542/",
+            "id": 5110366,
+            "year": "1995",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2611040899.jpg",
+            "title": "Wild Bill: Hollywood Maverick",
+            "release": 1
+        },
+        {
+            "id": 5086715,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Love &amp; Money",
+            "release": 1
+        },
+        {
+            "id": 2348542,
             "year": "1995",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914022944.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
             "title": "辛普森一家 第七季",
-            "subject_id": "2348542"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1300373/",
+            "id": 1949971,
+            "year": "1996",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508704326.jpg",
+            "title": "歪星撞地球 第一季",
+            "release": 1
+        },
+        {
+            "id": 1306741,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870860651.jpg",
+            "title": "家庭风暴",
+            "release": 1
+        },
+        {
+            "id": 1300373,
             "year": "1994",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876182551.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "小镇疑云",
-            "subject_id": "1300373"
+            "release": 1
         }
     ],
     "introduction": "老人家1915年出生的，99年是他最后一次出现在舞台了，2011年去世。比较著名的角色都是几十年前的了。电视剧角色比较著名的有三部。比如52年的《Dragnet 》的Officer Bill Gannon ，这部电视剧最早是52年推出的以纪实手法拍摄，后来54年拍了一季，然后67年到70年继续拍摄后面的季，Harry Morgan 是67到70年的主演。中间暂停的原因不详，不过这部NBC的剧集是第一部最有影响力的犯罪类剧。后来1987年改编成电影版由汤姆汉克斯主演，他还是演了这个角色Bill Gannon。另一个角色是电视剧版的《野战医院 M*A*S*H.》的主演Sherman T. Potter拿了9个艾美奖提名获得一个艾美奖。由70年的电影版的陆军野战医院改编而来，电影版讲述朝鲜战争期间一个美军战地医院的故事，是好莱坞最著名的黑色幽默影片之一，由Robert Altman执导。此剧的英文名字为“陆军流动外科医院”（Mobile Army Surgical Hospital）的缩写。这部剧好像也有衍生剧叫《After MASH》，他还是演原剧一样的角色不过只有20多集。还有一个角色是54年的电视剧《December Bride》的主演Pete Porter提名艾美奖，这部剧的女主角是上世纪出生的好莱坞影星斯普林·白灵顿 Spring Byington。后来还有60年的衍生剧《Pete and Gladys》他是这部剧的男主角Pete Porter。演了超过100部电影，也和很多大明星一起演过电影。比如亨利方达的《龙城风云 The Ox-Bow Incident》、20世纪福克斯公司在44年战时拍摄的《飞行之翼与祈祷者》，好莱坞美女吉恩·蒂尔尼的《辣手蛇心 Dragonwyck》、加里·库柏的《正午》、改编自名著的52版《怒河 Bend of the River 》、49年版的《包法利夫人 Madame Bovary》、《格伦·米勒传 The Glenn Miller Story》、大牌云集的《西部开拓史 How the West Was Won》等。好莱坞的关系都是一层套一层的：Harry Morgan在46年认识了Spring Byington，后来Byington成为了他的导师，所以54年演那部电视剧也算是导师提携了。老演员Mike Farrell，比如David Ogden Stiers，已故的John Ritter等，他们的演技导师都是Harry，亦师亦友。他和相伴了45年的妻子死后第二年，就娶了第二任妻子Barbara Bushman。这个妻子的爷爷是默片时代的著名影星Francis X. Bushman；她的表弟Pat Conway是50年代的著名电视演员《Tombstone Territory》电视剧的主角；她的姨妈是迪斯尼电影公司的艺术指导Bruce Bushman；她的另一个姨妈Virginia Bushman嫁给了Jack Conway，Jack是米高梅公司的三人导演团队成员之一，另外两位是Robert Z. Leonard和Sam Wood这俩人都拿过奥斯卡提名.他的孩子们都是第一任妻子生的，其中2个儿子Charles 和 Paul做了律师，另一个儿子Christopher Morgan做了一名制片人，他的第二任妻子Julie Cobb和他离婚后嫁给了James Cromwell（演美国恐怖故事拿了艾美奖的人），Cobb有个好莱坞明星爹Lee J. Cobb（2个奥斯卡提名）。他的孩子们Jeremy Morgan做了片场和剧组的车辆调度，Terence N. Morgan做了片场管军械武器的人（比如CSI电视剧里负责枪械）。",
@@ -132,5 +102,5 @@
     "name_more_other": [
         "Harry Bratsburg (本名)"
     ],
-    "update_at": "2025-01-18T07:28:07"
+    "update_at": "2025-06-26T18:56:11"
 }

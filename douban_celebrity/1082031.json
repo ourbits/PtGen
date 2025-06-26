@@ -1,5 +1,5 @@
 {
-    "sid": 1082031,
+    "sid": "1082031",
     "name": "Sofia Eng",
     "site": "douban_celebrity",
     "roles": [
@@ -15,34 +15,25 @@
     "birth_place": "瑞典,斯德哥尔摩,南城,Södersjukhuset",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/1420035/",
+            "id": 5151687,
+            "year": "1996",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Fountain of Death",
+            "release": 1
+        },
+        {
+            "id": 1420035,
             "year": "2000",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871310825.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "伊万的生活",
-            "subject_id": "1420035"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1293364/",
+            "id": 1293364,
             "year": "1999",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2495305314.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "飙风战警",
-            "subject_id": "1293364"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5151687/",
-            "year": "1996",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Fountain of Death",
-            "subject_id": "5151687"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -53,5 +44,5 @@
     "personage_link": "https://www.douban.com/personage/27287790/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-20T11:42:10"
+    "update_at": "2025-06-25T00:21:17"
 }

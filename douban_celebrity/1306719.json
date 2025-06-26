@@ -1,5 +1,5 @@
 {
-    "sid": 1306719,
+    "sid": "1306719",
     "name": "叶天成",
     "site": "douban_celebrity",
     "roles": [
@@ -19,114 +19,81 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35390918/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2882406862.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "法证先锋5",
-            "subject_id": "35390918"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30331437/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2815257409.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "铁拳英雄",
-            "subject_id": "30331437"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27195027/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2622659046.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "使徒行者3",
-            "subject_id": "27195027"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27157701/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2545261202.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "兄弟",
-            "subject_id": "27157701"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26887139/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2524606027.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "天命",
-            "subject_id": "26887139"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26661003/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2499685822.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "使徒行者2",
-            "subject_id": "26661003"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26381346/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2284697570.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "城寨英雄",
-            "subject_id": "26381346"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26331094/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2233980020.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "僵",
-            "subject_id": "26331094"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25708579/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2207080581.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "使徒行者",
-            "subject_id": "25708579"
-        },
-        {
-            "url": "https://movie.douban.com/subject/19967861/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2100324850.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "情逆三世缘",
-            "subject_id": "19967861"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37116120/",
+            "id": 37116120,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915355571.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "我爱九龙城",
-            "subject_id": "37116120"
+            "release": 0
+        },
+        {
+            "id": 35390918,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2882406862.jpg",
+            "title": "法证先锋5",
+            "release": 1
+        },
+        {
+            "id": 30331437,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2815257409.jpg",
+            "title": "铁拳英雄",
+            "release": 1
+        },
+        {
+            "id": 27195027,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2622659046.jpg",
+            "title": "使徒行者3",
+            "release": 1
+        },
+        {
+            "id": 27157701,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2545261202.jpg",
+            "title": "兄弟",
+            "release": 1
+        },
+        {
+            "id": 26887139,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2524606027.jpg",
+            "title": "天命",
+            "release": 1
+        },
+        {
+            "id": 26661003,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2499685822.jpg",
+            "title": "使徒行者2",
+            "release": 1
+        },
+        {
+            "id": 26381346,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2284697570.jpg",
+            "title": "城寨英雄",
+            "release": 1
+        },
+        {
+            "id": 26331094,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2233980020.jpg",
+            "title": "僵",
+            "release": 1
+        },
+        {
+            "id": 25708579,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2207080581.jpg",
+            "title": "使徒行者",
+            "release": 1
+        },
+        {
+            "id": 19967861,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2100324850.jpg",
+            "title": "情逆三世缘",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -137,5 +104,5 @@
     "personage_link": "https://www.douban.com/personage/27534998/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-20T00:56:14"
+    "update_at": "2025-06-26T22:56:15"
 }

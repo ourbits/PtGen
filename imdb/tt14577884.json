@@ -6,9 +6,8 @@
     "year": "2020",
     "@type": "Movie",
     "genre": [
-        "Action",
         "Adventure",
-        "Drama"
+        "Fantasy"
     ],
     "actors": [
         {
@@ -44,7 +43,16 @@
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm16910476/",
+            "name": "Huiting Chen"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm12591445/",
+            "name": "George Chi"
+        }
+    ],
     "duration": "PT1H30M",
     "keywords": [
         ""
@@ -65,5 +73,5 @@
     "contentRating": null,
     "datePublished": "2020-11-11",
     "imdb_rating_average": 6.6,
-    "update_at": "2025-01-24T11:50:37"
+    "update_at": "2025-06-26T20:00:07"
 }
