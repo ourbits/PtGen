@@ -1,5 +1,5 @@
 {
-    "sid": 1161809,
+    "sid": "1161809",
     "name": "史蒂芬·惠特克",
     "site": "douban_celebrity",
     "roles": [
@@ -17,104 +17,74 @@
     "birth_place": "英国,伦敦",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/2055060/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "火箭邮件",
-            "subject_id": "2055060"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2056691/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868110890.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "儿子与情人",
-            "subject_id": "2056691"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1782195/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510235590.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "尼古拉斯·尼克贝",
-            "subject_id": "1782195"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25842817/",
+            "id": 25842817,
             "year": "2000",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2173522757.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "达耳齐尔与帕斯科 第五季",
-            "subject_id": "25842817"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2354025/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "Grafters Season 2",
-            "subject_id": "2354025"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5094124/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "A Life for a Life",
-            "subject_id": "5094124"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2354013/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "Grafters Season 1",
-            "subject_id": "2354013"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5108992/",
+            "id": 5109016,
             "year": "1997",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "Tangier Cop",
-            "subject_id": "5108992"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5109016/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Stone, Scissors, Paper",
-            "subject_id": "5109016"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5096518/",
+            "id": 5108992,
             "year": "1997",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Tangier Cop",
+            "release": 1
+        },
+        {
+            "id": 5096518,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Stone Cold",
-            "subject_id": "5096518"
+            "release": 1
+        },
+        {
+            "id": 5094124,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "A Life for a Life",
+            "release": 1
+        },
+        {
+            "id": 2354025,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "Grafters Season 2",
+            "release": 1
+        },
+        {
+            "id": 2354013,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "Grafters Season 1",
+            "release": 1
+        },
+        {
+            "id": 2056691,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868110890.jpg",
+            "title": "儿子与情人",
+            "release": 1
+        },
+        {
+            "id": 2055060,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "火箭邮件",
+            "release": 1
+        },
+        {
+            "id": 1782195,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510235590.jpg",
+            "title": "尼古拉斯·尼克贝",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -132,5 +102,5 @@
     "name_more_other": [
         "Stephen John Whittaker (本名)"
     ],
-    "update_at": "2025-01-20T01:14:21"
+    "update_at": "2025-06-26T23:35:06"
 }

@@ -1,5 +1,5 @@
 {
-    "sid": 1332058,
+    "sid": "1332058",
     "name": "徐伟",
     "site": "douban_celebrity",
     "roles": [
@@ -19,116 +19,81 @@
     "birth_place": "四川",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30359440/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905336155.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "黄雀在后！",
-            "subject_id": "30359440"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35633969/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905379453.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "灿烂的她",
-            "subject_id": "35633969"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26315270/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2325669527.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "冰河追凶",
-            "subject_id": "26315270"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25977029/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2199323742.jpg",
-            "roles": [
-                "摄影 - 摄影指导"
-            ],
-            "title": "盲钻",
-            "subject_id": "25977029"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10617163/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1973515273.jpg",
-            "roles": [
-                "摄影 - 摄影指导"
-            ],
-            "title": "杀戒",
-            "subject_id": "10617163"
-        },
-        {
-            "url": "https://movie.douban.com/subject/11615929/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508256074.jpg",
-            "roles": [
-                "摄影 - 摄影指导"
-            ],
-            "title": "我的影子在奔跑",
-            "subject_id": "11615929"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27202696/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2505761171.jpg",
-            "roles": [
-                "摄影 - 摄影指导"
-            ],
-            "title": "十爱",
-            "subject_id": "27202696"
-        },
-        {
-            "url": "https://movie.douban.com/subject/11501396/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1645229293.jpg",
-            "roles": [
-                "摄影"
-            ],
-            "title": "边境风云",
-            "subject_id": "11501396"
-        },
-        {
-            "url": "https://movie.douban.com/subject/10759790/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1923579896.jpg",
-            "roles": [
-                "摄影"
-            ],
-            "title": "甜蜜18岁",
-            "subject_id": "10759790"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2124708/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1502874615.jpg",
-            "roles": [
-                "摄影 - 摄影师"
-            ],
-            "title": "形影不离",
-            "subject_id": "2124708"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36329903/",
+            "id": 36329903,
             "year": "2028",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2889826451.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "它是我儿子",
-            "subject_id": "36329903"
+            "release": 0
+        },
+        {
+            "id": 35633969,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905379453.jpg",
+            "title": "灿烂的她",
+            "release": 1
+        },
+        {
+            "id": 30359440,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905336155.jpg",
+            "title": "黄雀在后！",
+            "release": 1
+        },
+        {
+            "id": 27202696,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2505761171.jpg",
+            "title": "十爱",
+            "release": 1
+        },
+        {
+            "id": 26315270,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2325669527.jpg",
+            "title": "冰河追凶",
+            "release": 1
+        },
+        {
+            "id": 25977029,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2199323742.jpg",
+            "title": "盲钻",
+            "release": 1
+        },
+        {
+            "id": 11615929,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508256074.jpg",
+            "title": "我的影子在奔跑",
+            "release": 1
+        },
+        {
+            "id": 11501396,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1645229293.jpg",
+            "title": "边境风云",
+            "release": 1
+        },
+        {
+            "id": 10759790,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1923579896.jpg",
+            "title": "甜蜜18岁",
+            "release": 1
+        },
+        {
+            "id": 10617163,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1973515273.jpg",
+            "title": "杀戒",
+            "release": 1
+        },
+        {
+            "id": 2124708,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1502874615.jpg",
+            "title": "形影不离",
+            "release": 1
         }
     ],
     "introduction": "徐伟，青年导演，编剧。他也是中国新生代摄影师的代表人物。1975年出生于四川，1995年毕业于四川美院附中，1999年毕业于北京电影学院摄影系。",
@@ -141,5 +106,5 @@
     "personage_link": "https://www.douban.com/personage/27542896/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T20:35:18"
+    "update_at": "2025-06-27T20:28:14"
 }

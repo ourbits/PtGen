@@ -1,5 +1,5 @@
 {
-    "sid": 1117706,
+    "sid": "1117706",
     "name": "埃内斯特·毛帕因",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "法国,厄尔,埃夫勒",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3243500/",
-            "year": "1929",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2498244266.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "基督山伯爵",
-            "subject_id": "3243500"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5084161/",
-            "year": "1927",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Poker d'as",
-            "subject_id": "5084161"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5088280/",
-            "year": "1927",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Chocolate Girl",
-            "subject_id": "5088280"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5091598/",
+            "id": 5221468,
             "year": "1926",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Titi premier, roi des gosses",
-            "subject_id": "5091598"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5221468/",
-            "year": "1926",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Le berceau de dieu",
-            "subject_id": "5221468"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2354861/",
-            "year": "1924",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885630889.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "狼群神迹",
-            "subject_id": "2354861"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5116802/",
+            "id": 5124299,
             "year": "1923",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "La mendiante de Saint-Sulpice",
-            "subject_id": "5116802"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5124299/",
-            "year": "1923",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "La folie du doute",
-            "subject_id": "5124299"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5088146/",
-            "year": "1922",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "L'empereur des pauvres",
-            "subject_id": "5088146"
+            "id": 5116802,
+            "year": "1923",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "La mendiante de Saint-Sulpice",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5104346/",
+            "id": 5104346,
             "year": "1922",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2887233362.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "巴黎的秘密",
-            "subject_id": "5104346"
+            "release": 1
+        },
+        {
+            "id": 5091598,
+            "year": "1926",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Titi premier, roi des gosses",
+            "release": 1
+        },
+        {
+            "id": 5088280,
+            "year": "1927",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Chocolate Girl",
+            "release": 1
+        },
+        {
+            "id": 5088146,
+            "year": "1922",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "L'empereur des pauvres",
+            "release": 1
+        },
+        {
+            "id": 5084161,
+            "year": "1927",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Poker d'as",
+            "release": 1
+        },
+        {
+            "id": 3243500,
+            "year": "1929",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2498244266.jpg",
+            "title": "基督山伯爵",
+            "release": 1
+        },
+        {
+            "id": 2354861,
+            "year": "1924",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885630889.jpg",
+            "title": "狼群神迹",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -130,5 +100,5 @@
     "name_more_other": [
         "Ernest Victor Maupain (本名)"
     ],
-    "update_at": "2025-01-20T01:49:24"
+    "update_at": "2025-06-27T06:21:27"
 }

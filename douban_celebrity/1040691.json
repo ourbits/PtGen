@@ -1,5 +1,5 @@
 {
-    "sid": 1040691,
+    "sid": "1040691",
     "name": "哈里·劳埃德",
     "site": "douban_celebrity",
     "roles": [
@@ -16,114 +16,74 @@
     "birth_place": "英国,伦敦",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35669844/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2913171099.jpg",
-            "roles": [
-                "演员 - 配音 (配 维克多 Viktor)"
-            ],
-            "title": "英雄联盟：双城之战 第二季",
-            "subject_id": "35669844"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35320263/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2883219067.jpg",
-            "roles": [
-                "演员 (饰 Richard III)"
-            ],
-            "title": "失踪的国王",
-            "subject_id": "35320263"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34867871/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2714077426.jpg",
-            "roles": [
-                "演员 - 配音 (配 Viktor)"
-            ],
-            "title": "英雄联盟：双城之战 第一季",
-            "subject_id": "34867871"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3097448/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2611663647.jpg",
-            "roles": [
-                "演员 (饰 Bernard Marx)"
-            ],
-            "title": "美丽新世界",
-            "subject_id": "3097448"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35210677/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2621359289.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "恋爱恐惧症",
-            "subject_id": "35210677"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30238131/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2558262776.jpg",
-            "roles": [
-                "演员 (饰 Charles Xavier)"
-            ],
-            "title": "大群 第三季",
-            "subject_id": "30238131"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30188053/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537095266.jpg",
-            "roles": [
-                "演员 (饰 Peter Quayle)"
-            ],
-            "title": "相对宇宙 第二季",
-            "subject_id": "30188053"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27605669/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508656697.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "权力的游戏：征服与反抗",
-            "subject_id": "27605669"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26474254/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2506488961.jpg",
-            "roles": [
-                "演员 (饰 Peter Quayle)"
-            ],
-            "title": "相对宇宙 第一季",
-            "subject_id": "26474254"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26315728/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542440929.jpg",
-            "roles": [
-                "演员 (饰 Young Joe Castleman)"
-            ],
-            "title": "贤妻",
-            "subject_id": "26315728"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36776617/",
+            "id": 36776617,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2917402271.jpg",
-            "roles": [
-                "演员 (饰 Andrew Carter)"
-            ],
             "title": "主要目标",
-            "subject_id": "36776617"
+            "release": 1
+        },
+        {
+            "id": 35669844,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2913171099.jpg",
+            "title": "英雄联盟：双城之战 第二季",
+            "release": 1
+        },
+        {
+            "id": 35320263,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2883219067.jpg",
+            "title": "失踪的国王",
+            "release": 1
+        },
+        {
+            "id": 35210677,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2621359289.jpg",
+            "title": "恋爱恐惧症",
+            "release": 1
+        },
+        {
+            "id": 34867871,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2714077426.jpg",
+            "title": "英雄联盟：双城之战 第一季",
+            "release": 1
+        },
+        {
+            "id": 30238131,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2558262776.jpg",
+            "title": "大群 第三季",
+            "release": 1
+        },
+        {
+            "id": 30188053,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537095266.jpg",
+            "title": "相对宇宙 第二季",
+            "release": 1
+        },
+        {
+            "id": 27605669,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508656697.jpg",
+            "title": "权力的游戏：征服与反抗",
+            "release": 1
+        },
+        {
+            "id": 26474254,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2506488961.jpg",
+            "title": "相对宇宙 第一季",
+            "release": 1
+        },
+        {
+            "id": 3097448,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2611663647.jpg",
+            "title": "美丽新世界",
+            "release": 1
         }
     ],
     "introduction": "\"　哈里·劳埃德是英国维多利亚时代文学家查尔斯·狄更斯的曾曾曾外孙，1983年生于英国伦敦，曾就读于伊顿公学，期间出演了改编自狄更斯作品同时也是“哈里波特”丹尼尔·雷德克里夫处女作的影片《大卫科波菲尔》，2002年又得到了新的电视电影版《万世师表》中的角色。此后他入读牛津大学的基督学院，作为牛津大学戏剧协会（OUDS）会员积累不少舞台演出经验，出演了音乐剧《蜘蛛女之吻》其中他扮演瓦伦丁的作用之吻等，学习英语，并作为雪城Antipholus在莎士比亚的喜剧旁边富临琼斯和罗斯Heiney日本OUDS2005年夏季巡演错误。他在2005年离开牛津，与上第二学位毕业。2007年6月大学毕业后劳埃德客串亮相《Holby City》、《生死征兆》、《警务风云》等多部英国电视剧，2006年底开始在《侠盗罗宾汉》中出演绿林党中年纪最小的一位Will Scarlet，由此为广大观众所熟悉，07年初又通过尼尔·拉布特舞台剧《Bash》中的精彩表现登上了专业戏剧舞台。之后劳埃德客串出演了两集的热门科幻剧《神秘博士》，他还是本剧编剧的拉塞尔·戴维斯（Russell T. Davies)推荐的继现任大卫·田纳特之后的“博士”出演人选。哈里·劳埃德的最新作品将是另一部古装电视剧《狮心王理查》。\"",
@@ -136,5 +96,5 @@
     "personage_link": "https://www.douban.com/personage/27246446/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T20:56:11"
+    "update_at": "2025-06-27T10:49:12"
 }
