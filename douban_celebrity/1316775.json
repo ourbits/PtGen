@@ -1,5 +1,5 @@
 {
-    "sid": 1316775,
+    "sid": "1316775",
     "name": "韩志",
     "site": "douban_celebrity",
     "roles": [
@@ -17,106 +17,81 @@
     "birth_place": "青岛",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26946520/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2898114531.jpg",
-            "roles": [
-                "演员 (饰 老四)"
-            ],
-            "title": "失而复得",
-            "subject_id": "26946520"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30122648/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2656941231.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "悬崖",
-            "subject_id": "30122648"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27661975/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510207097.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "幸福魔咒",
-            "subject_id": "27661975"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30231991/",
+            "id": 30231991,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542282447.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "山水恋人",
-            "subject_id": "30231991"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27038465/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542647795.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "爱国岛",
-            "subject_id": "27038465"
+            "id": 30122648,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2656941231.jpg",
+            "title": "悬崖",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26289125/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2501918168.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "蝴蝶公墓",
-            "subject_id": "26289125"
+            "id": 27661975,
+            "year": "2028",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510207097.jpg",
+            "title": "幸福魔咒",
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/27063551/",
+            "id": 27063551,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2464146140.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "撞邪31号",
-            "subject_id": "27063551"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26946274/",
+            "id": 27038465,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542647795.jpg",
+            "title": "爱国岛",
+            "release": 1
+        },
+        {
+            "id": 26946520,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2898114531.jpg",
+            "title": "失而复得",
+            "release": 1
+        },
+        {
+            "id": 26946274,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2409351010.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "我在这里等你",
-            "subject_id": "26946274"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/6893726/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2240661790.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "阳光总在风雨后",
-            "subject_id": "6893726"
+            "id": 26289125,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2501918168.jpg",
+            "title": "蝴蝶公墓",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/20513061/",
+            "id": 25831826,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2176952747.jpg",
+            "title": "三生",
+            "release": 1
+        },
+        {
+            "id": 20513061,
             "year": "2014",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2187047385.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "京城81号",
-            "subject_id": "20513061"
+            "release": 1
+        },
+        {
+            "id": 6893726,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2240661790.jpg",
+            "title": "阳光总在风雨后",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -127,5 +102,5 @@
     "personage_link": "https://www.douban.com/personage/27549454/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T03:00:21"
+    "update_at": "2025-06-28T20:28:11"
 }

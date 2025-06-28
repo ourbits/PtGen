@@ -1,5 +1,5 @@
 {
-    "sid": 1054906,
+    "sid": "1054906",
     "name": "詹姆斯·杜恩",
     "site": "douban_celebrity",
     "roles": [
@@ -18,104 +18,74 @@
     "birth_place": "美国,纽约",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3821844/",
-            "year": "1994",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1890540717.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "一个国家的死亡：帝汶阴谋",
-            "subject_id": "3821844"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5056783/",
-            "year": "1968",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2877146595.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "小镇风云",
-            "subject_id": "5056783"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5057435/",
-            "year": "1967",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Dundee and the Culhane",
-            "subject_id": "5057435"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5057807/",
-            "year": "1966",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2522810829.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "T.H.E. Cat",
-            "subject_id": "5057807"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2363333/",
-            "year": "1966",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2410642362.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "影城春色",
-            "subject_id": "2363333"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5058243/",
-            "year": "1965",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2623940327.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Branded",
-            "subject_id": "5058243"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5058543/",
-            "year": "1964",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Slattery's People",
-            "subject_id": "5058543"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4842039/",
-            "year": "1966",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2504977301.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "克莱斯勒剧院",
-            "subject_id": "4842039"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5058878/",
+            "id": 5058878,
             "year": "1963",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873114299.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "The Great Adventure",
-            "subject_id": "5058878"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2186644/",
+            "id": 5058543,
+            "year": "1964",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Slattery's People",
+            "release": 1
+        },
+        {
+            "id": 5058243,
+            "year": "1965",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2623940327.jpg",
+            "title": "Branded",
+            "release": 1
+        },
+        {
+            "id": 5057807,
+            "year": "1966",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2522810829.jpg",
+            "title": "T.H.E. Cat",
+            "release": 1
+        },
+        {
+            "id": 5057435,
+            "year": "1967",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Dundee and the Culhane",
+            "release": 1
+        },
+        {
+            "id": 5056783,
+            "year": "1968",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2877146595.jpg",
+            "title": "小镇风云",
+            "release": 1
+        },
+        {
+            "id": 4842039,
+            "year": "1966",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2504977301.jpg",
+            "title": "克莱斯勒剧院",
+            "release": 1
+        },
+        {
+            "id": 3821844,
+            "year": "1994",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1890540717.jpg",
+            "title": "一个国家的死亡：帝汶阴谋",
+            "release": 1
+        },
+        {
+            "id": 2363333,
+            "year": "1966",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2410642362.jpg",
+            "title": "影城春色",
+            "release": 1
+        },
+        {
+            "id": 2186644,
             "year": "1963",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536914840.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "亡命天涯 第一季",
-            "subject_id": "2186644"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -134,5 +104,5 @@
         "James Howard Dunn (本名)",
         "Jimmy (昵称)"
     ],
-    "update_at": "2025-01-19T19:42:23"
+    "update_at": "2025-06-28T16:35:55"
 }

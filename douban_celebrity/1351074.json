@@ -1,5 +1,5 @@
 {
-    "sid": 1351074,
+    "sid": "1351074",
     "name": "约恩-卡尔·惠斯塞尔",
     "site": "douban_celebrity",
     "roles": [
@@ -19,57 +19,39 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26891357/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2535378415.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "极爆少年2",
-            "subject_id": "26891357"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36583041/",
+            "id": 36583041,
             "year": "2023",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914598319.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "暴力苏醒",
-            "subject_id": "36583041"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35516466/",
+            "id": 35516466,
             "year": "2023",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911800350.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "尸潮汹涌",
-            "subject_id": "35516466"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27072838/",
+            "id": 27072838,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510734904.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "八四年夏天",
-            "subject_id": "27072838"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26277174/",
+            "id": 26891357,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2535378415.jpg",
+            "title": "极爆少年2",
+            "release": 1
+        },
+        {
+            "id": 26277174,
             "year": "2015",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2266217169.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
             "title": "极爆少年",
-            "subject_id": "26277174"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -80,5 +62,5 @@
     "personage_link": "https://www.douban.com/personage/27546671/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T11:14:08"
+    "update_at": "2025-06-28T09:49:19"
 }
