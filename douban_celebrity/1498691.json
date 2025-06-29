@@ -1,5 +1,5 @@
 {
-    "sid": 1498691,
+    "sid": "1498691",
     "name": "梅布尔·泰勒",
     "site": "douban_celebrity",
     "roles": [
@@ -15,24 +15,18 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30258623/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2892092275.jpg",
-            "roles": [
-                "演员 (饰 Abby)"
-            ],
-            "title": "柜魔",
-            "subject_id": "30258623"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35660191/",
+            "id": 35660191,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881264418.jpg",
-            "roles": [
-                "演员 (饰 Girl #1)"
-            ],
             "title": "坏种2",
-            "subject_id": "35660191"
+            "release": 1
+        },
+        {
+            "id": 30258623,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2892092275.jpg",
+            "title": "柜魔",
+            "release": 1
         }
     ],
     "introduction": "Actor. Mabel Tyler is known for Just Beyond (2021), Dweller and Mr. Robot (2015).",
@@ -43,5 +37,5 @@
     "personage_link": "https://www.douban.com/personage/36535040/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T10:14:10"
+    "update_at": "2025-06-29T13:42:13"
 }
