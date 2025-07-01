@@ -1,5 +1,5 @@
 {
-    "sid": 1382228,
+    "sid": "1382228",
     "name": "金成圭",
     "site": "douban_celebrity",
     "roles": [
@@ -7,7 +7,7 @@
     ],
     "awards": [
         "2020年 第56届韩国电影大钟奖 最佳男配角 (提名) 恶人传",
-        "2018年 第54届百想艺术大赏 电影类 最佳新人男演员 (提名) 犯罪都市"
+        "2018年 第54届百想艺术大赏 最佳新人男演员 (提名) 犯罪都市"
     ],
     "gender": "男",
     "poster": "https://img1.doubanio.com/view/celebrity/m/public/p1598858985.6.jpg",
@@ -18,114 +18,81 @@
     "birth_place": "韩国",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35883695/",
+            "id": 35883695,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911849037.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "弹子球游戏 第二季",
-            "subject_id": "35883695"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35724630/",
+            "id": 35724630,
             "year": "2023",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2896537640.jpg",
-            "roles": [
-                "演员 (饰 李钰圭(电话诈骗犯))"
-            ],
             "title": "恶鬼",
-            "subject_id": "35724630"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26279170/",
+            "id": 35480594,
             "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871691763.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "闲山：龙的出现",
-            "subject_id": "26279170"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35480594/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868432827.jpg",
-            "roles": [
-                "演员 (饰 郑钟硕)"
-            ],
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2882816092.jpg",
             "title": "猪猡之王",
-            "subject_id": "35480594"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35312901/",
+            "id": 35312901,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2724115515.jpg",
-            "roles": [
-                "演员 (饰 都志泰)"
-            ],
             "title": "某一天",
-            "subject_id": "35312901"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34803028/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2588162595.jpg",
-            "roles": [
-                "演员 (饰 姜仁旭)"
-            ],
-            "title": "半之半",
-            "subject_id": "34803028"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30306401/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2587671506.jpg",
-            "roles": [
-                "演员 (饰 永信)"
-            ],
-            "title": "王国 第二季",
-            "subject_id": "30306401"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30211551/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2555084871.jpg",
-            "roles": [
-                "演员 (饰 姜敬浩)"
-            ],
-            "title": "恶人传",
-            "subject_id": "30211551"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26947951/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542945898.jpg",
-            "roles": [
-                "演员 (饰 永信)"
-            ],
-            "title": "王国 第一季",
-            "subject_id": "26947951"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27031060/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2527663305.jpg",
-            "roles": [
-                "演员 (饰 Lee Dae-hyeon)"
-            ],
-            "title": "侦探2",
-            "subject_id": "27031060"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34937755/",
+            "id": 34937755,
             "year": "2028",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2616379769.jpg",
-            "roles": [
-                "演员 (饰 永信)"
-            ],
             "title": "王国 第三季",
-            "subject_id": "34937755"
+            "release": 0
+        },
+        {
+            "id": 34803028,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2588162595.jpg",
+            "title": "半之半",
+            "release": 1
+        },
+        {
+            "id": 30306401,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2587671506.jpg",
+            "title": "王国 第二季",
+            "release": 1
+        },
+        {
+            "id": 30211551,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2555084871.jpg",
+            "title": "恶人传",
+            "release": 1
+        },
+        {
+            "id": 27031060,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2527663305.jpg",
+            "title": "侦探2",
+            "release": 1
+        },
+        {
+            "id": 26947951,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2542945898.jpg",
+            "title": "王国 第一季",
+            "release": 1
+        },
+        {
+            "id": 26279170,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871691763.jpg",
+            "title": "闲山：龙的出现",
+            "release": 1
         }
     ],
     "introduction": "金成圭，1986年出生，韩国男演员。2020年，金成圭凭借电影《恶人传》，入围第56届韩国电影大钟奖最佳男配角赏 。",
@@ -138,5 +105,5 @@
     "name_more_other": [
         "김성규"
     ],
-    "update_at": "2025-01-17T16:00:08"
+    "update_at": "2025-07-01T22:14:10"
 }

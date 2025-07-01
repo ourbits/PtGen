@@ -1,5 +1,5 @@
 {
-    "sid": 1275918,
+    "sid": "1275918",
     "name": "薛白",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "中国,江苏,南京",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/10563750/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2454796543.jpg",
-            "roles": [
-                "演员 (饰 廖静文)"
-            ],
-            "title": "徐悲鸿",
-            "subject_id": "10563750"
-        },
-        {
-            "url": "https://movie.douban.com/subject/25715101/",
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2677764990.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "马背上的电影",
-            "subject_id": "25715101"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6844900/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1622755655.jpg",
-            "roles": [
-                "演员 - 配音 (配 汤总裁)"
-            ],
-            "title": "胜女的代价",
-            "subject_id": "6844900"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6309373/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1644157768.jpg",
-            "roles": [
-                "演员 - 配音 (配 华妃 / 风萤 / 蕙姐 / 彩兰 / 银铃 / 小飞鸿)"
-            ],
-            "title": "凰图腾",
-            "subject_id": "6309373"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3711645/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2398900335.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "孔子",
-            "subject_id": "3711645"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30414438/",
+            "id": 30414438,
             "year": "2009",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2543727769.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "精灵酷小贝",
-            "subject_id": "30414438"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1718150/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2277689840.jpg",
-            "roles": [
-                "演员 - 配音 (配 王语嫣 / 梅剑)"
-            ],
-            "title": "天龙八部",
-            "subject_id": "1718150"
+            "id": 25715101,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2677764990.jpg",
+            "title": "马背上的电影",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2252743/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2373060894.jpg",
-            "roles": [
-                "演员 - 配音 (配 月秀)"
-            ],
-            "title": "康熙微服私访记4",
-            "subject_id": "2252743"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2080558/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2867400062.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "生旦净末",
-            "subject_id": "2080558"
-        },
-        {
-            "url": "https://movie.douban.com/subject/19965512/",
+            "id": 19965512,
             "year": "2002",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2558520390.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
             "title": "千千问",
-            "subject_id": "19965512"
+            "release": 1
+        },
+        {
+            "id": 10563750,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2454796543.jpg",
+            "title": "徐悲鸿",
+            "release": 1
+        },
+        {
+            "id": 6844900,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1622755655.jpg",
+            "title": "胜女的代价",
+            "release": 1
+        },
+        {
+            "id": 6309373,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1644157768.jpg",
+            "title": "凰图腾",
+            "release": 1
+        },
+        {
+            "id": 3711645,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2398900335.jpg",
+            "title": "孔子",
+            "release": 1
+        },
+        {
+            "id": 2252743,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2373060894.jpg",
+            "title": "康熙微服私访记4",
+            "release": 1
+        },
+        {
+            "id": 2080558,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2867400062.jpg",
+            "title": "生旦净末",
+            "release": 1
+        },
+        {
+            "id": 1718150,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2277689840.jpg",
+            "title": "天龙八部",
+            "release": 1
         }
     ],
     "introduction": "薛白，女，汉族，国家一级演员，学历中专。 薛白同志是中国儿童艺术剧院青年演员，优秀的配音演员。1964年出生于江苏省南京市，籍贯河南华县。1980年薛白毕业于中央戏剧学院表演系，同年进我中国儿童艺术剧院工作。表演以清纯细腻见长，善于把握人物的内外感觉，富于激情和深度。",
@@ -124,5 +94,5 @@
     "personage_link": "https://www.douban.com/personage/27503630/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-20T03:42:17"
+    "update_at": "2025-07-01T22:49:15"
 }
