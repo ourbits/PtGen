@@ -1,5 +1,5 @@
 {
-    "sid": 1457918,
+    "sid": "1457918",
     "name": "B·K·加农",
     "site": "douban_celebrity",
     "roles": [
@@ -15,24 +15,18 @@
     "birth_place": "美国,夏威夷,火奴鲁鲁",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/26608246/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905374090.jpg",
-            "roles": [
-                "演员 (饰 Laura)"
-            ],
-            "title": "新威龙杀阵",
-            "subject_id": "26608246"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34859070/",
+            "id": 34859070,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2654626463.jpg",
-            "roles": [
-                "演员 (饰 Dee Fillcot)"
-            ],
             "title": "致命女人 第二季",
-            "subject_id": "34859070"
+            "release": 1
+        },
+        {
+            "id": 26608246,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905374090.jpg",
+            "title": "新威龙杀阵",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -43,5 +37,5 @@
     "personage_link": "https://www.douban.com/personage/35482916/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T06:56:06"
+    "update_at": "2025-07-04T18:07:41"
 }
