@@ -1,5 +1,5 @@
 {
-    "sid": 1229048,
+    "sid": "1229048",
     "name": "金伯利·伊万",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "美国,宾夕法尼亚州,沃伦",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5190777/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "See Saw",
-            "subject_id": "5190777"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5166520/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Steak",
-            "subject_id": "5166520"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2240233/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2672868010.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "线人",
-            "subject_id": "2240233"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5184181/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "La benediction",
-            "subject_id": "5184181"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5172286/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Redux",
-            "subject_id": "5172286"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5185132/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Red Red Rope",
-            "subject_id": "5185132"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1916088/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2388632436.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "半职业选手",
-            "subject_id": "1916088"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5197650/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "MANswers",
-            "subject_id": "5197650"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5209713/",
+            "id": 5209713,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2813025645.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "暗黑角斗场",
-            "subject_id": "5209713"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1867332/",
+            "id": 5197650,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "MANswers",
+            "release": 1
+        },
+        {
+            "id": 5190777,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "See Saw",
+            "release": 1
+        },
+        {
+            "id": 5185132,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Red Red Rope",
+            "release": 1
+        },
+        {
+            "id": 5184181,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "La benediction",
+            "release": 1
+        },
+        {
+            "id": 5172286,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Redux",
+            "release": 1
+        },
+        {
+            "id": 5166520,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Steak",
+            "release": 1
+        },
+        {
+            "id": 2240233,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2672868010.jpg",
+            "title": "线人",
+            "release": 1
+        },
+        {
+            "id": 1916088,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2388632436.jpg",
+            "title": "半职业选手",
+            "release": 1
+        },
+        {
+            "id": 1867332,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1081258688.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "冒牌天神2",
-            "subject_id": "1867332"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -127,5 +97,5 @@
         "One Take Wonder (昵称)",
         "Swede (昵称)"
     ],
-    "update_at": "2025-01-19T07:00:06"
+    "update_at": "2025-07-05T00:00:34"
 }

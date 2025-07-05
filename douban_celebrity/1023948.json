@@ -1,5 +1,5 @@
 {
-    "sid": 1023948,
+    "sid": "1023948",
     "name": "万梓良",
     "site": "douban_celebrity",
     "roles": [
@@ -21,114 +21,81 @@
     "birth_place": "中国,广东",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35337517/",
+            "id": 35337517,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2867433563.jpg",
-            "roles": [
-                "演员 (饰 刘大爷)"
-            ],
             "title": "四海",
-            "subject_id": "35337517"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30312137/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2619912723.jpg",
-            "roles": [
-                "演员 (饰 Uncle Wait)"
-            ],
-            "title": "麦路人",
-            "subject_id": "30312137"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30433476/",
+            "id": 30433476,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2545576041.jpg",
-            "roles": [
-                "演员 (饰 周父)"
-            ],
             "title": "我们回家吧",
-            "subject_id": "30433476"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30353078/",
+            "id": 30353078,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2616833200.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "梅艳芳菲",
-            "subject_id": "30353078"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/24743257/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529659730.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "冷恋时代",
-            "subject_id": "24743257"
+            "id": 30312137,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2619912723.jpg",
+            "title": "麦路人",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27118139/",
+            "id": 27118139,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2496839649.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "情迷意大利",
-            "subject_id": "27118139"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26747344/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2461005265.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "今晚打丧尸",
-            "subject_id": "26747344"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26958457/",
+            "id": 26958457,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2414727925.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "爱情对赌",
-            "subject_id": "26958457"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/24704948/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2204205168.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "多情江山",
-            "subject_id": "24704948"
+            "id": 26747344,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2461005265.jpg",
+            "title": "今晚打丧尸",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/25779132/",
+            "id": 25779132,
             "year": "2015",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2197335511.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "妻子不设防",
-            "subject_id": "25779132"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5446193/",
+            "id": 24743257,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529659730.jpg",
+            "title": "冷恋时代",
+            "release": 1
+        },
+        {
+            "id": 24704948,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2204205168.jpg",
+            "title": "多情江山",
+            "release": 1
+        },
+        {
+            "id": 5446193,
             "year": "2030",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2533785297.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "岁月骄阳",
-            "subject_id": "5446193"
+            "release": 0
         }
     ],
     "introduction": "万梓良，籍贯为广东省深圳市宝安区。自幼在香港居住，香港丽的电视台艺员训练班毕业，后任该台演员，1977年因拍摄影武侠电视连续剧《三少爷的剑》而知名，后因主演《大内群英》成为丽的电视台首席小生。1979年参加拍摄电影《疯劫》，后主演《等待黎明》、《兄弟》、《兄弟珍重》、《赌王》等影片，1988年因主演影片《大哥大》，获得第二十五届金马奖最佳男主角奖。曾获台湾电影金马奖提名、香港电影金像奖、第三十三届亚太影展亚洲杰出演技成就奖等多项大奖。代表作品有《旺角卡门》、《赌城大亨II之至尊无敌》等。另有教师与其同名。",
@@ -148,5 +115,5 @@
         "Chi-Leung Man",
         "Jin Leung Man"
     ],
-    "update_at": "2025-01-20T12:35:09"
+    "update_at": "2025-07-05T00:14:23"
 }
