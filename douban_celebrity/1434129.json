@@ -1,5 +1,5 @@
 {
-    "sid": 1434129,
+    "sid": "1434129",
     "name": "尼古拉斯·戴",
     "site": "douban_celebrity",
     "roles": [
@@ -15,84 +15,60 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/27182503/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2623426228.jpg",
-            "roles": [
-                "演员 (饰 Jim Prior)"
-            ],
-            "title": "王冠 第四季",
-            "subject_id": "27182503"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30223840/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2544474921.jpg",
-            "roles": [
-                "演员 (饰 John Mills)"
-            ],
-            "title": "脱欧：无理之战",
-            "subject_id": "30223840"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35050639/",
+            "id": 35050639,
             "year": "2016",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2600305012.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "谋杀之地 第二季",
-            "subject_id": "35050639"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26674435/",
+            "id": 30223840,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2544474921.jpg",
+            "title": "脱欧：无理之战",
+            "release": 1
+        },
+        {
+            "id": 27182503,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2623426228.jpg",
+            "title": "王冠 第四季",
+            "release": 1
+        },
+        {
+            "id": 26674435,
             "year": "2015",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2630177764.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "谋杀之地 第一季",
-            "subject_id": "26674435"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2268847/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2183994536.jpg",
-            "roles": [
-                "演员 (饰 Donald Bevan)"
-            ],
-            "title": "探案新窍门 第一季",
-            "subject_id": "2268847"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1461874/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508781822.jpg",
-            "roles": [
-                "演员 (饰 Lord Brackenshaw)"
-            ],
-            "title": "丹尼尔的半生缘",
-            "subject_id": "1461874"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1305310/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2377327232.jpg",
-            "roles": [
-                "演员 (饰 Lord Castledean)"
-            ],
-            "title": "金色情挑",
-            "subject_id": "1305310"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5137479/",
+            "id": 5137479,
             "year": "1990",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2917510233.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "天赐良缘",
-            "subject_id": "5137479"
+            "release": 1
+        },
+        {
+            "id": 2268847,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2183994536.jpg",
+            "title": "探案新窍门 第一季",
+            "release": 1
+        },
+        {
+            "id": 1461874,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508781822.jpg",
+            "title": "丹尼尔的半生缘",
+            "release": 1
+        },
+        {
+            "id": 1305310,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2377327232.jpg",
+            "title": "金色情挑",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -103,5 +79,5 @@
     "personage_link": "https://www.douban.com/personage/34995034/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T06:56:10"
+    "update_at": "2025-07-06T19:07:29"
 }

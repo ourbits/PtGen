@@ -1,5 +1,5 @@
 {
-    "sid": 1330888,
+    "sid": "1330888",
     "name": "蔡雅同",
     "site": "douban_celebrity",
     "roles": [
@@ -15,114 +15,81 @@
     "birth_place": "中国,重庆",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/27067978/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885138253.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "心跳源计划",
-            "subject_id": "27067978"
-        },
-        {
-            "url": "https://movie.douban.com/subject/33446498/",
+            "id": 33446498,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2593042157.jpg",
-            "roles": [
-                "演员 (饰 穆静)"
-            ],
             "title": "不完美的她",
-            "subject_id": "33446498"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30176770/",
+            "id": 30176770,
             "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2581691951.jpg",
-            "roles": [
-                "演员 (饰 杨小雨)"
-            ],
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2581578375.jpg",
             "title": "下一站是幸福",
-            "subject_id": "30176770"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26761328/",
+            "id": 27067978,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885138253.jpg",
+            "title": "心跳源计划",
+            "release": 1
+        },
+        {
+            "id": 26761328,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897064894.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "天盛长歌",
-            "subject_id": "26761328"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/7564975/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2201684433.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "风中奇缘",
-            "subject_id": "7564975"
+            "id": 25806661,
+            "year": "2030",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "不是冤家不恋爱",
+            "release": 0
         },
         {
-            "url": "https://movie.douban.com/subject/24752641/",
+            "id": 24752641,
             "year": "2014",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2180323676.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "犀利仁师",
-            "subject_id": "24752641"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/10561869/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2103500522.jpg",
-            "roles": [
-                "演员 (饰 莫小荷)"
-            ],
-            "title": "步步惊情",
-            "subject_id": "10561869"
-        },
-        {
-            "url": "https://movie.douban.com/subject/20256595/",
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2168730209.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "美丽的契约",
-            "subject_id": "20256595"
-        },
-        {
-            "url": "https://movie.douban.com/subject/20426967/",
+            "id": 20426967,
             "year": "2013",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870738858.jpg",
-            "roles": [
-                "演员 (饰 紫嫣)"
-            ],
             "title": "新洛神",
-            "subject_id": "20426967"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/10527273/",
+            "id": 20256595,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2168730209.jpg",
+            "title": "美丽的契约",
+            "release": 1
+        },
+        {
+            "id": 10561869,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2103500522.jpg",
+            "title": "步步惊情",
+            "release": 1
+        },
+        {
+            "id": 10527273,
             "year": "2011",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2460285303.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "新拼住时代",
-            "subject_id": "10527273"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/25806661/",
-            "year": "2030",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "不是冤家不恋爱",
-            "subject_id": "25806661"
+            "id": 7564975,
+            "year": "2014",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2201684433.jpg",
+            "title": "风中奇缘",
+            "release": 1
         }
     ],
     "introduction": "2013年，蔡雅同在《新洛神》中饰演“紫嫣”受到关注。2014年，蔡雅同主演的电视剧《步步惊情》和电视剧《犀利仁师》相继播出，并于10月加盟电视剧《风中奇缘》。2017年12月，在《天盛长歌》饰演日落族女子佳荣。2018年，参演电视剧《资深少女的初恋》饰演杨小雨引共鸣。由其参演的《不完美的她》、《心跳源计划》预计于2020年播出。",
@@ -135,5 +102,5 @@
     "personage_link": "https://www.douban.com/personage/27484456/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T21:42:15"
+    "update_at": "2025-07-06T14:00:35"
 }
