@@ -1,5 +1,5 @@
 {
-    "sid": 1025790,
+    "sid": "1025790",
     "name": "克劳斯·帕格",
     "site": "douban_celebrity",
     "roles": [
@@ -17,104 +17,74 @@
     "birth_place": "丹麦",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3067865/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2618445991.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "回到家乡",
-            "subject_id": "3067865"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5149244/",
+            "id": 5149244,
             "year": "2001",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2172311079.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Langt fra Las Vegas",
-            "subject_id": "5149244"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1298301/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2867513545.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "爱情累了",
-            "subject_id": "1298301"
+            "id": 5149051,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Skjulte spor",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5143670/",
+            "id": 5143670,
             "year": "2000",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2498450026.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "法贝尔酒店",
-            "subject_id": "5143670"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5149051/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Skjulte spor",
-            "subject_id": "5149051"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5109018/",
+            "id": 5109018,
             "year": "1997",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Stjerner uden hjerner",
-            "subject_id": "5109018"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1306727/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885243447.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "医院风云 第二季",
-            "subject_id": "1306727"
+            "id": 3067865,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2618445991.jpg",
+            "title": "回到家乡",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1299635/",
-            "year": "1989",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2419275135.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "魔夜情狂",
-            "subject_id": "1299635"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2345299/",
-            "year": "1988",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2567644915.jpg",
-            "roles": [
-                "制片人"
-            ],
-            "title": "里约的囚徒",
-            "subject_id": "2345299"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3011751/",
+            "id": 3011751,
             "year": "1987",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2540394883.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "纳粹特攻队",
-            "subject_id": "3011751"
+            "release": 1
+        },
+        {
+            "id": 2345299,
+            "year": "1988",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2567644915.jpg",
+            "title": "里约的囚徒",
+            "release": 1
+        },
+        {
+            "id": 1306727,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885243447.jpg",
+            "title": "医院风云 第二季",
+            "release": 1
+        },
+        {
+            "id": 1299635,
+            "year": "1989",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2419275135.jpg",
+            "title": "魔夜情狂",
+            "release": 1
+        },
+        {
+            "id": 1298301,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2867513545.jpg",
+            "title": "爱情累了",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -125,5 +95,5 @@
     "personage_link": "https://www.douban.com/personage/27231523/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-20T09:28:13"
+    "update_at": "2025-07-07T08:35:28"
 }
