@@ -1,5 +1,5 @@
 {
-    "sid": 1023318,
+    "sid": "1023318",
     "name": "霍拉丘·默勒埃莱",
     "site": "douban_celebrity",
     "roles": [
@@ -17,106 +17,74 @@
     "birth_place": "罗马尼亚,奥尔特",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36341425/",
+            "id": 36341425,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2913727158.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "莫罗米特一家3",
-            "subject_id": "36341425"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35240950/",
+            "id": 35240950,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2869950808.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "卢卡",
-            "subject_id": "35240950"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/24875886/",
+            "id": 24875886,
             "year": "2013",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2058009940.jpg",
-            "roles": [
-                "演员",
-                "导演"
-            ],
             "title": "欢乐葬礼",
-            "subject_id": "24875886"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4847490/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2517531687.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "扑克",
-            "subject_id": "4847490"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5941594/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2201270702.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "如果种子不死",
-            "subject_id": "5941594"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3148702/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509110140.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "罪恶部队",
-            "subject_id": "3148702"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5179985/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Vine politia!",
-            "subject_id": "5179985"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3419943/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2287838763.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "无声婚礼",
-            "subject_id": "3419943"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4220457/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "美国未婚妻",
-            "subject_id": "4220457"
-        },
-        {
-            "url": "https://movie.douban.com/subject/20393963/",
+            "id": 20393963,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2659077759.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
             "title": "罗马尼亚动画简史",
-            "subject_id": "20393963"
+            "release": 1
+        },
+        {
+            "id": 5941594,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2201270702.jpg",
+            "title": "如果种子不死",
+            "release": 1
+        },
+        {
+            "id": 5179985,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Vine politia!",
+            "release": 1
+        },
+        {
+            "id": 4847490,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2517531687.jpg",
+            "title": "扑克",
+            "release": 1
+        },
+        {
+            "id": 4220457,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "美国未婚妻",
+            "release": 1
+        },
+        {
+            "id": 3419943,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2287838763.jpg",
+            "title": "无声婚礼",
+            "release": 1
+        },
+        {
+            "id": 3148702,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509110140.jpg",
+            "title": "罪恶部队",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -132,5 +100,5 @@
     "name_more_other": [
         "Horacio Meleele"
     ],
-    "update_at": "2025-01-18T18:28:15"
+    "update_at": "2025-07-10T04:56:33"
 }
