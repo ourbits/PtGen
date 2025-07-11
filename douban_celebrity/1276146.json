@@ -1,5 +1,5 @@
 {
-    "sid": 1276146,
+    "sid": "1276146",
     "name": "阿什利·博彻",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "美国,德克萨斯州",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/27068117/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2874235354.jpg",
-            "roles": [
-                "演员 - 配音 (配 Celestine)"
-            ],
-            "title": "艾特熊和赛娜鼠2：吉波利塔之旅",
-            "subject_id": "27068117"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30443679/",
+            "id": 30443679,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2582008744.jpg",
-            "roles": [
-                "演员 (饰 Nicole)"
-            ],
             "title": "天才儿童",
-            "subject_id": "30443679"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26917188/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "Summer Camp Island",
-            "subject_id": "26917188"
+            "id": 27068117,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2874235354.jpg",
+            "title": "艾特熊和赛娜鼠2：吉波利塔之旅",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26988099/",
+            "id": 26988099,
             "year": "2015",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2494388277.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
             "title": "仙踪迷失 第一季",
-            "subject_id": "26988099"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/25870894/",
+            "id": 26917188,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Summer Camp Island",
+            "release": 1
+        },
+        {
+            "id": 25870894,
             "year": "2014",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2524058819.jpg",
-            "roles": [
-                "演员 - 配音 (配 Kuon's Daughter)"
-            ],
             "title": "降世神通：科拉传奇 第三季",
-            "subject_id": "25870894"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/24703922/",
+            "id": 24703922,
             "year": "2014",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2166719089.jpg",
-            "roles": [
-                "演员 (饰 Ashleigh)"
-            ],
             "title": "家有正太 第一季",
-            "subject_id": "24703922"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/10580637/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508999660.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "比佛利拜金狗3",
-            "subject_id": "10580637"
-        },
-        {
-            "url": "https://movie.douban.com/subject/6518638/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1726788921.jpg",
-            "roles": [
-                "演员 - 配音"
-            ],
-            "title": "艾特熊和赛娜鼠",
-            "subject_id": "6518638"
-        },
-        {
-            "url": "https://movie.douban.com/subject/20441321/",
+            "id": 20441321,
             "year": "2011",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1988549228.jpg",
-            "roles": [
-                "演员 (饰 Suzy)"
-            ],
             "title": "舞动芝加哥 第二季",
-            "subject_id": "20441321"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4146497/",
+            "id": 10580637,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508999660.jpg",
+            "title": "比佛利拜金狗3",
+            "release": 1
+        },
+        {
+            "id": 6518638,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1726788921.jpg",
+            "title": "艾特熊和赛娜鼠",
+            "release": 1
+        },
+        {
+            "id": 4146497,
             "year": "2011",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1574537905.jpg",
-            "roles": [
-                "演员 (饰 Jessica Finch)"
-            ],
             "title": "朱迪之夏",
-            "subject_id": "4146497"
+            "release": 1
         }
     ],
     "introduction": "楼上的外星人loli",
@@ -124,5 +94,5 @@
     "personage_link": "https://www.douban.com/personage/27494307/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-20T11:35:06"
+    "update_at": "2025-07-11T21:14:20"
 }
