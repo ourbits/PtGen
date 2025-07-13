@@ -1,5 +1,5 @@
 {
-    "sid": 1079684,
+    "sid": "1079684",
     "name": "费·德维特",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "美国,纽约",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/25784987/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2493229289.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "清醒的时刻",
-            "subject_id": "25784987"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26656810/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2602745526.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Lookin' Up",
-            "subject_id": "26656810"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26781458/",
+            "id": 26781458,
             "year": "2016",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2360211767.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "最后的抢劫",
-            "subject_id": "26781458"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1814187/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2556790004.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "小查与寇弟的顶级生活 第一季",
-            "subject_id": "1814187"
+            "id": 26656810,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2602745526.jpg",
+            "title": "Lookin' Up",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1442129/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1021158381.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "豪斯医生 第一季",
-            "subject_id": "1442129"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1394204/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2374616675.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "神探阿蒙 第一季",
-            "subject_id": "1394204"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1297437/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871101469.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "斗气俏冤家",
-            "subject_id": "1297437"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26323097/",
+            "id": 26323097,
             "year": "1990",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Journey Into Life: The World of the Unborn",
-            "subject_id": "26323097"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5115479/",
+            "id": 25784987,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2493229289.jpg",
+            "title": "清醒的时刻",
+            "release": 1
+        },
+        {
+            "id": 5115479,
             "year": "1989",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2594304445.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "生活在继续",
-            "subject_id": "5115479"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1307811/",
+            "id": 1814187,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2556790004.jpg",
+            "title": "小查与寇弟的顶级生活 第一季",
+            "release": 1
+        },
+        {
+            "id": 1442129,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1021158381.jpg",
+            "title": "豪斯医生 第一季",
+            "release": 1
+        },
+        {
+            "id": 1394204,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2374616675.jpg",
+            "title": "神探阿蒙 第一季",
+            "release": 1
+        },
+        {
+            "id": 1307811,
             "year": "1989",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p456676352.jpg",
-            "roles": [
-                "演员 - 配音 (配 Additional Voices)"
-            ],
             "title": "魔女宅急便",
-            "subject_id": "1307811"
+            "release": 1
+        },
+        {
+            "id": 1297437,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871101469.jpg",
+            "title": "斗气俏冤家",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -124,5 +94,5 @@
     "personage_link": "https://www.douban.com/personage/27285442/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-20T07:49:06"
+    "update_at": "2025-07-13T18:50:32"
 }

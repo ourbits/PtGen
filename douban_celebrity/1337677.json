@@ -1,5 +1,5 @@
 {
-    "sid": 1337677,
+    "sid": "1337677",
     "name": "刘尚谦",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "中国,吉林",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/27113517/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2561016941.jpg",
-            "roles": [
-                "演员 (饰 党团冯建刚秘书长)"
-            ],
-            "title": "血观音",
-            "subject_id": "27113517"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26681554/",
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2292780549.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "舞吧舞吧在一起",
-            "subject_id": "26681554"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3153642/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905410658.jpg",
-            "roles": [
-                "演员 (饰 秦天)"
-            ],
-            "title": "不良笑花",
-            "subject_id": "3153642"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5256189/",
+            "id": 37070420,
             "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "幸福時光",
-            "subject_id": "5256189"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37070420/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914096511.jpg",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2914096111.jpg",
             "title": "济公",
-            "subject_id": "37070420"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5256167/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2801930272.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "台湾百合",
-            "subject_id": "5256167"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27034807/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2913154923.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "不了情",
-            "subject_id": "27034807"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36464756/",
+            "id": 36464756,
             "year": "1999",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2894041573.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "午夜情挑",
-            "subject_id": "36464756"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3062996/",
-            "year": "1992",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2562173740.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "灵幻少女",
-            "subject_id": "3062996"
+            "id": 27113517,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2561016941.jpg",
+            "title": "血观音",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/21355929/",
+            "id": 27034807,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2913154923.jpg",
+            "title": "不了情",
+            "release": 1
+        },
+        {
+            "id": 26681554,
+            "year": "2015",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2292780549.jpg",
+            "title": "舞吧舞吧在一起",
+            "release": 1
+        },
+        {
+            "id": 21355929,
             "year": "1990",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2675346419.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "又见夕阳红",
-            "subject_id": "21355929"
+            "release": 1
+        },
+        {
+            "id": 5256189,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "幸福時光",
+            "release": 1
+        },
+        {
+            "id": 5256167,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2801930272.jpg",
+            "title": "台湾百合",
+            "release": 1
+        },
+        {
+            "id": 3153642,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905410658.jpg",
+            "title": "不良笑花",
+            "release": 1
+        },
+        {
+            "id": 3062996,
+            "year": "1992",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2562173740.jpg",
+            "title": "灵幻少女",
+            "release": 1
         }
     ],
     "introduction": "刘尚谦，吉林人。兄刘正谦，是春寒的副导演。台湾资深艺人，在1974年以第一名考进华视演员训练班，当年是包括邵氏在内多家电影公司抢着签下的当红小生，出道时由在陈明华制作的台湾第一代《倚天屠龙记》中，刘尚谦饰演“张翠山”而走红。十多年前，他出演台湾电影《春寒》，被誉为台湾美男子，是台湾早期文艺片的第一男主角。参与过台视八点档时代大戏《台湾百合》和《第8号当铺》。",
@@ -130,5 +100,5 @@
         "Lau Seung-Him",
         "Andy Liu"
     ],
-    "update_at": "2025-01-19T18:49:24"
+    "update_at": "2025-07-13T06:56:42"
 }
