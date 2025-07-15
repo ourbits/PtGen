@@ -1,5 +1,5 @@
 {
-    "sid": 1275160,
+    "sid": "1275160",
     "name": "吴炫辉",
     "site": "douban_celebrity",
     "roles": [
@@ -20,134 +20,95 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36857721/",
+            "id": 36857721,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2907239404.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "导演·门2",
-            "subject_id": "36857721"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26353671/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876734663.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "明日战记",
-            "subject_id": "26353671"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30175222/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2516851930.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "力神薛仁貴",
-            "subject_id": "30175222"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5996800/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1710333164.jpg",
-            "roles": [
-                "视觉特效"
-            ],
-            "title": "太极1：从零开始",
-            "subject_id": "5996800"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3642866/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p499375003.jpg",
-            "roles": [
-                "视觉特效"
-            ],
-            "title": "维多利亚一号",
-            "subject_id": "3642866"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3626416/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1697172942.jpg",
-            "roles": [
-                "视觉特效"
-            ],
-            "title": "十月围城",
-            "subject_id": "3626416"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2135981/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p462058001.jpg",
-            "roles": [
-                "视觉特效"
-            ],
-            "title": "画皮",
-            "subject_id": "2135981"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1947089/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2167464205.jpg",
-            "roles": [
-                "视觉特效"
-            ],
-            "title": "投名状",
-            "subject_id": "1947089"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1778999/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1297564013.jpg",
-            "roles": [
-                "视觉特效"
-            ],
-            "title": "鬼域",
-            "subject_id": "1778999"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1307781/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1326135380.jpg",
-            "roles": [
-                "视觉特效"
-            ],
-            "title": "大城小事",
-            "subject_id": "1307781"
-        },
-        {
-            "url": "https://movie.douban.com/subject/21348088/",
-            "year": "2030",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "兵器之王",
-            "subject_id": "21348088"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26389539/",
-            "year": "2026",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2711800539.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "寻秦记",
-            "subject_id": "26389539"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30175223/",
+            "id": 30175223,
             "year": "2026",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2516851957.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "大猩小怪",
-            "subject_id": "30175223"
+            "release": 0
+        },
+        {
+            "id": 30175222,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2516851930.jpg",
+            "title": "力神薛仁貴",
+            "release": 1
+        },
+        {
+            "id": 26389539,
+            "year": "2025",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2711800539.jpg",
+            "title": "寻秦记",
+            "release": 0
+        },
+        {
+            "id": 26353671,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876734663.jpg",
+            "title": "明日战记",
+            "release": 1
+        },
+        {
+            "id": 21348088,
+            "year": "2030",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "兵器之王",
+            "release": 0
+        },
+        {
+            "id": 5996800,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1710333164.jpg",
+            "title": "太极1：从零开始",
+            "release": 1
+        },
+        {
+            "id": 3642866,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p499375003.jpg",
+            "title": "维多利亚一号",
+            "release": 1
+        },
+        {
+            "id": 3626416,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1697172942.jpg",
+            "title": "十月围城",
+            "release": 1
+        },
+        {
+            "id": 2135981,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p462058001.jpg",
+            "title": "画皮",
+            "release": 1
+        },
+        {
+            "id": 1947089,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2167464205.jpg",
+            "title": "投名状",
+            "release": 1
+        },
+        {
+            "id": 1778999,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1297564013.jpg",
+            "title": "鬼域",
+            "release": 1
+        },
+        {
+            "id": 1307781,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1326135380.jpg",
+            "title": "大城小事",
+            "release": 1
         }
     ],
     "introduction": "吴炫辉，花了十年时间建立事业，三十岁便当老板开设制作公司FATface，为电影及广告做计算机特技。电影《大城小事》、《鬼域》、《投名状》，都出自这位年轻老板之手。",
@@ -160,5 +121,5 @@
     "personage_link": "https://www.douban.com/personage/27504214/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-20T03:28:15"
+    "update_at": "2025-07-15T17:14:47"
 }
