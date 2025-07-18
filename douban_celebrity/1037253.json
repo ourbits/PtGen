@@ -1,5 +1,5 @@
 {
-    "sid": 1037253,
+    "sid": "1037253",
     "name": "约书亚·布兰德",
     "site": "douban_celebrity",
     "roles": [
@@ -21,107 +21,74 @@
     "birth_place": "美国,纽约,皇后区",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30384250/",
+            "id": 30384250,
             "year": "2020",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "编剧"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
             "title": "北国风云",
-            "subject_id": "30384250"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26710423/",
+            "id": 30222110,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Homeward Bound",
+            "release": 1
+        },
+        {
+            "id": 26710423,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2432969758.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "美国谍梦 第五季",
-            "subject_id": "26710423"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26703459/",
+            "id": 26703459,
             "year": "2016",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "编剧"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
             "title": "Blood Ivory",
-            "subject_id": "26703459"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1494802/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1608216642.jpg",
-            "roles": [
-                "制片人"
-            ],
-            "title": "反恐行动",
-            "subject_id": "1494802"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2153003/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2224887289.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "天国的女儿 第一季",
-            "subject_id": "2153003"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30222110/",
-            "year": "2002",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
-            "title": "Homeward Bound",
-            "subject_id": "30222110"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5127528/",
+            "id": 5127528,
             "year": "2000",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "导演"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Wall to Wall Records",
-            "subject_id": "5127528"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1307324/",
-            "year": "1995",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2517306230.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "烈火奇缘",
-            "subject_id": "1307324"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4834118/",
-            "year": "1994",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893996350.jpg",
-            "roles": [
-                "制片人",
-                "编剧"
-            ],
-            "title": "古堡风云",
-            "subject_id": "4834118"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5114101/",
+            "id": 5114101,
             "year": "1991",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2886647224.jpg",
-            "roles": [
-                "导演",
-                "制片人",
-                "编剧"
-            ],
             "title": "I'll Fly Away",
-            "subject_id": "5114101"
+            "release": 1
+        },
+        {
+            "id": 4834118,
+            "year": "1994",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893996350.jpg",
+            "title": "古堡风云",
+            "release": 1
+        },
+        {
+            "id": 2153003,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2224887289.jpg",
+            "title": "天国的女儿 第一季",
+            "release": 1
+        },
+        {
+            "id": 1494802,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1608216642.jpg",
+            "title": "反恐行动",
+            "release": 1
+        },
+        {
+            "id": 1307324,
+            "year": "1995",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2517306230.jpg",
+            "title": "烈火奇缘",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -134,5 +101,5 @@
     "name_more_other": [
         "Josh Brand"
     ],
-    "update_at": "2025-01-20T03:35:06"
+    "update_at": "2025-07-18T16:56:57"
 }

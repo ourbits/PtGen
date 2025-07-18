@@ -1,5 +1,5 @@
 {
-    "sid": 1343261,
+    "sid": "1343261",
     "name": "杰佛逊·豪尔",
     "site": "douban_celebrity",
     "roles": [
@@ -15,114 +15,81 @@
     "birth_place": "英国,西米德兰郡,考文垂",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36073279/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908524625.jpg",
-            "roles": [
-                "演员 (饰 Lord Jason Lannister / Tyland Lannister)"
-            ],
-            "title": "龙之家族 第二季",
-            "subject_id": "36073279"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36351355/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2890471573.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "事不过三",
-            "subject_id": "36351355"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35593344/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876555451.jpg",
-            "roles": [
-                "演员 (饰 哈康·舍瓦利耶 Haakon Chevalier)"
-            ],
-            "title": "奥本海默",
-            "subject_id": "35593344"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34825964/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2874976551.jpg",
-            "roles": [
-                "演员 (饰 Lord Jason Lannister / Tyland Lannister)"
-            ],
-            "title": "龙之家族 第一季",
-            "subject_id": "34825964"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34834866/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871781364.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "安吉琳",
-            "subject_id": "34834866"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30444960/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2612061299.jpg",
-            "roles": [
-                "演员 (饰 Actor)"
-            ],
-            "title": "信条",
-            "subject_id": "30444960"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30169926/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2600516081.jpg",
-            "roles": [
-                "演员 (饰 Pete)"
-            ],
-            "title": "开发者",
-            "subject_id": "30169926"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34883912/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2573937387.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "阴暗家族",
-            "subject_id": "34883912"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4017146/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2519765769.jpg",
-            "roles": [
-                "演员 (饰 Aaron Korey)"
-            ],
-            "title": "月光光心慌慌",
-            "subject_id": "4017146"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27653998/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2590522744.jpg",
-            "roles": [
-                "演员 (饰 Fergus Weir)"
-            ],
-            "title": "无声的证言 第二十一季",
-            "subject_id": "27653998"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36666949/",
+            "id": 36666949,
             "year": "2026",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909409911.jpg",
-            "roles": [
-                "演员 (饰 Ser Tyland Lannister)"
-            ],
             "title": "龙之家族 第三季",
-            "subject_id": "36666949"
+            "release": 0
+        },
+        {
+            "id": 36351355,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2890471573.jpg",
+            "title": "事不过三",
+            "release": 1
+        },
+        {
+            "id": 36073279,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908524625.jpg",
+            "title": "龙之家族 第二季",
+            "release": 1
+        },
+        {
+            "id": 35593344,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876555451.jpg",
+            "title": "奥本海默",
+            "release": 1
+        },
+        {
+            "id": 34883912,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2573937387.jpg",
+            "title": "阴暗家族",
+            "release": 1
+        },
+        {
+            "id": 34834866,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2871781364.jpg",
+            "title": "安吉琳",
+            "release": 1
+        },
+        {
+            "id": 34825964,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2874976551.jpg",
+            "title": "龙之家族 第一季",
+            "release": 1
+        },
+        {
+            "id": 30444960,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2612061299.jpg",
+            "title": "信条",
+            "release": 1
+        },
+        {
+            "id": 30169926,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2600516081.jpg",
+            "title": "开发者",
+            "release": 1
+        },
+        {
+            "id": 27653998,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2590522744.jpg",
+            "title": "无声的证言 第二十一季",
+            "release": 1
+        },
+        {
+            "id": 4017146,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2519765769.jpg",
+            "title": "月光光心慌慌",
+            "release": 1
         }
     ],
     "introduction": "杰佛逊·霍尔是一位英国演员。佛逊·霍尔曾就读于伦敦中央演讲和戏剧学院。 他曾在《权力的游戏》中饰演胡伊·维尔一角，在CBBC的《巫师对抗外星人》中饰演瓦尔格一角，在《维京传奇》中饰演托尔斯坦一角，并在《月光光新慌慌》中饰演亚伦·科瑞一角。",
@@ -136,5 +103,5 @@
         "Jefferson \"Bob\" Hall",
         "Robert Hall"
     ],
-    "update_at": "2025-01-17T10:49:18"
+    "update_at": "2025-07-18T13:21:40"
 }
