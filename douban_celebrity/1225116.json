@@ -1,5 +1,5 @@
 {
-    "sid": 1225116,
+    "sid": "1225116",
     "name": "罗伯特·富纳罗",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "美国,纽约,布鲁克林",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/30409507/",
+            "id": 30409507,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2569753067.jpg",
-            "roles": [
-                "演员 (饰 Lt. Bricker)"
-            ],
             "title": "清道夫 第七季",
-            "subject_id": "30409507"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/6981153/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2568902055.jpg",
-            "roles": [
-                "演员 (饰 Johnny - Friendly Lounge)"
-            ],
-            "title": "爱尔兰人",
-            "subject_id": "6981153"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26870757/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510499873.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "罪人 第一季",
-            "subject_id": "26870757"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26970533/",
+            "id": 26970533,
             "year": "2015",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Disco!",
-            "subject_id": "26970533"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26901251/",
+            "id": 26901251,
             "year": "2014",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2392743719.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "破碎的警徽",
-            "subject_id": "26901251"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3068575/",
-            "year": "2012",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1728053249.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "从未消失",
-            "subject_id": "3068575"
+            "id": 26870757,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510499873.jpg",
+            "title": "罪人 第一季",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5172806/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Wish Fulfillment",
-            "subject_id": "5172806"
+            "id": 6981153,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2568902055.jpg",
+            "title": "爱尔兰人",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5157378/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Mickey Donallo",
-            "subject_id": "5157378"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3193082/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2375147650.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "非凡女警",
-            "subject_id": "3193082"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5224858/",
+            "id": 5224858,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2912472119.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "I Believe in America",
-            "subject_id": "5224858"
+            "release": 1
+        },
+        {
+            "id": 5172806,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Wish Fulfillment",
+            "release": 1
+        },
+        {
+            "id": 5157378,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Mickey Donallo",
+            "release": 1
+        },
+        {
+            "id": 3193082,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2375147650.jpg",
+            "title": "非凡女警",
+            "release": 1
+        },
+        {
+            "id": 3068575,
+            "year": "2012",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1728053249.jpg",
+            "title": "从未消失",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -125,5 +95,5 @@
     "name_more_other": [
         "Bobby Funaro"
     ],
-    "update_at": "2025-01-20T13:07:21"
+    "update_at": "2025-07-25T22:43:17"
 }
