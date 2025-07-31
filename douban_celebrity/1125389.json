@@ -1,5 +1,5 @@
 {
-    "sid": 1125389,
+    "sid": "1125389",
     "name": "John McKinney",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "美国,加利福尼亚,圣莫尼卡",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/6041132/",
+            "id": 6041132,
             "year": "2013",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873979843.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "僵尸王子复仇记",
-            "subject_id": "6041132"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1438145/",
-            "year": "1989",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1297524287.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "待到重逢时",
-            "subject_id": "1438145"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1303285/",
-            "year": "1983",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2627709608.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "你逃我也逃",
-            "subject_id": "1303285"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1302969/",
-            "year": "1980",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2505780454.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "金拳大对决",
-            "subject_id": "1302969"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1296997/",
-            "year": "1979",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2506153125.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "地球浩劫",
-            "subject_id": "1296997"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1849660/",
-            "year": "1978",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2375126386.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "朱门恩怨 第一季",
-            "subject_id": "1849660"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5053123/",
+            "id": 5053123,
             "year": "1977",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2236854998.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Fantasy Island",
-            "subject_id": "5053123"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1815723/",
-            "year": "1976",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2632987201.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "法医昆西",
-            "subject_id": "1815723"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2073379/",
-            "year": "1976",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2538891774.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "查理的天使 第一季",
-            "subject_id": "2073379"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2073688/",
+            "id": 2073688,
             "year": "1974",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2247502127.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "破茧飞龙 第一季",
-            "subject_id": "2073688"
+            "release": 1
+        },
+        {
+            "id": 2073379,
+            "year": "1976",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2538891774.jpg",
+            "title": "查理的天使 第一季",
+            "release": 1
+        },
+        {
+            "id": 1849660,
+            "year": "1978",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2375126386.jpg",
+            "title": "朱门恩怨 第一季",
+            "release": 1
+        },
+        {
+            "id": 1815723,
+            "year": "1976",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2632987201.jpg",
+            "title": "法医昆西",
+            "release": 1
+        },
+        {
+            "id": 1438145,
+            "year": "1989",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1297524287.jpg",
+            "title": "待到重逢时",
+            "release": 1
+        },
+        {
+            "id": 1303285,
+            "year": "1983",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2627709608.jpg",
+            "title": "你逃我也逃",
+            "release": 1
+        },
+        {
+            "id": 1302969,
+            "year": "1980",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2505780454.jpg",
+            "title": "金拳大对决",
+            "release": 1
+        },
+        {
+            "id": 1296997,
+            "year": "1979",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2506153125.jpg",
+            "title": "地球浩劫",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -126,5 +96,5 @@
     "name_more_other": [
         "John McKinny"
     ],
-    "update_at": "2025-01-18T17:14:18"
+    "update_at": "2025-07-31T04:42:52"
 }
