@@ -4,6 +4,7 @@
     "site": "douban_celebrity",
     "roles": [
         "演员",
+        "配音",
         "编剧"
     ],
     "awards": [],
@@ -16,115 +17,74 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36781139/",
+            "id": 36781139,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906266278.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "奥运精神",
-            "release": 1,
-            "subject_id": "36781139"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36614605/",
+            "id": 36614605,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915229827.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Joli joli",
-            "release": 1,
-            "subject_id": "36614605"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36213009/",
+            "id": 36213009,
             "year": "2023",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2887731471.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Bonne conduite",
-            "release": 1,
-            "subject_id": "36213009"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36193698/",
+            "id": 36193698,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2913826083.jpg",
-            "roles": [
-                "演员 (饰 Eric)"
-            ],
             "title": "三个朋友",
-            "release": 1,
-            "subject_id": "36193698"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35897600/",
+            "id": 35897600,
             "year": "2023",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885732497.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Les cadors",
-            "release": 1,
-            "subject_id": "35897600"
+            "title": "患难真兄弟",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35684175/",
+            "id": 35684175,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2880724107.jpg",
-            "roles": [
-                "演员 (饰 Christophe)"
-            ],
             "title": "吸烟致咳",
-            "release": 1,
-            "subject_id": "35684175"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35636131/",
+            "id": 35636430,
+            "year": "2025",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2921034425.jpg",
+            "title": "高卢英雄：首领争夺战",
+            "release": 1
+        },
+        {
+            "id": 35636131,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2879546928.jpg",
-            "roles": [
-                "演员 (饰 Fred)"
-            ],
             "title": "空白页",
-            "release": 1,
-            "subject_id": "35636131"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35505696/",
+            "id": 35505696,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900251439.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "访客",
-            "release": 1,
-            "subject_id": "35505696"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35385567/",
+            "id": 35385567,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2784282432.jpg",
-            "roles": [
-                "演员",
-                "编剧"
-            ],
             "title": "电视明星",
-            "release": 1,
-            "subject_id": "35385567"
-        },
-        {
-            "url": "https://movie.douban.com/subject/33459135/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2622317489.jpg",
-            "roles": [
-                "演员 (饰 Manu)"
-            ],
-            "title": "育蝇奇谭",
-            "release": 1,
-            "subject_id": "33459135"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -135,5 +95,5 @@
     "personage_link": "https://www.douban.com/personage/27578550/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-21T03:28:14"
+    "update_at": "2025-08-02T08:43:26"
 }
