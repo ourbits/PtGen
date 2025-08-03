@@ -5,7 +5,10 @@
     "site": "imdb",
     "year": "1995",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Horror",
+        "Romance"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0945189/",
@@ -49,6 +52,8 @@
     "duration": "PT1H28M",
     "keywords": [
         "business",
+        "hong kong horror",
+        "bus",
         "ghost"
     ],
     "directors": [
@@ -71,5 +76,5 @@
     "contentRating": null,
     "datePublished": "1995-05-26",
     "imdb_rating_average": 5,
-    "update_at": "2025-02-11T19:40:58"
+    "update_at": "2025-08-03T16:56:46"
 }
