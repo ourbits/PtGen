@@ -1,5 +1,5 @@
 {
-    "sid": 1276692,
+    "sid": "1276692",
     "name": "路易斯·莫纽",
     "site": "douban_celebrity",
     "roles": [
@@ -17,105 +17,74 @@
     "birth_place": "",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3011472/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1612435251.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "致命玩笑2",
-            "subject_id": "3011472"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1788429/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2878076644.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "时间滑流",
-            "subject_id": "1788429"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2011668/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872734964.jpg",
-            "roles": [
-                "导演",
-                "编剧"
-            ],
-            "title": "赌命",
-            "subject_id": "2011668"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2989638/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2638418172.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "搭车人2：我在等你来",
-            "subject_id": "2989638"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1293099/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2519359448.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "蝙蝠",
-            "subject_id": "1293099"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1292578/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2632026054.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "亡命追缉",
-            "subject_id": "1292578"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1292723/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2666080845.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "极速凶间",
-            "subject_id": "1292723"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1299280/",
-            "year": "1996",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2678196749.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "美国战鹰",
-            "subject_id": "1299280"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5110739/",
+            "id": 5110739,
             "year": "1995",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911541687.jpg",
-            "roles": [
-                "编剧"
-            ],
             "title": "恶夜鬼惊魂",
-            "subject_id": "5110739"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1298232/",
+            "id": 3060676,
             "year": "1995",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2280859603.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "重返侏罗纪 第二部",
-            "subject_id": "1298232"
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2922363095.jpg",
+            "title": "The Spy Within",
+            "release": 1
+        },
+        {
+            "id": 3011472,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1612435251.jpg",
+            "title": "致命玩笑2",
+            "release": 1
+        },
+        {
+            "id": 2989638,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2638418172.jpg",
+            "title": "搭车人2：我在等你来",
+            "release": 1
+        },
+        {
+            "id": 2011668,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2922306934.jpg",
+            "title": "赌命",
+            "release": 1
+        },
+        {
+            "id": 1788429,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2878076644.jpg",
+            "title": "时间滑流",
+            "release": 1
+        },
+        {
+            "id": 1299280,
+            "year": "1996",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2678196749.jpg",
+            "title": "美国战鹰",
+            "release": 1
+        },
+        {
+            "id": 1293099,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2519359448.jpg",
+            "title": "蝙蝠",
+            "release": 1
+        },
+        {
+            "id": 1292723,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2666080845.jpg",
+            "title": "极速凶间",
+            "release": 1
+        },
+        {
+            "id": 1292578,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2632026054.jpg",
+            "title": "亡命追缉",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -126,5 +95,5 @@
     "personage_link": "https://www.douban.com/personage/27504971/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-20T02:56:10"
+    "update_at": "2025-08-04T22:08:00"
 }
