@@ -1,5 +1,5 @@
 {
-    "sid": 1420038,
+    "sid": "1420038",
     "name": "拉里·米切尔",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "美国,科罗拉多州,恩格尔伍德",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/35467741/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872119051.jpg",
-            "roles": [
-                "演员 (饰 Detective Scott Kilpatrick)"
-            ],
-            "title": "城市的主宰",
-            "subject_id": "35467741"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2609258/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2620161520.jpg",
-            "roles": [
-                "演员 (饰 Detective Frapoly)"
-            ],
-            "title": "芝加哥七君子审判",
-            "subject_id": "2609258"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30194636/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2558884177.jpg",
-            "roles": [
-                "演员 (饰 Officer Carl Nussbaumer)"
-            ],
-            "title": "杰西卡·琼斯 第三季",
-            "subject_id": "30194636"
-        },
-        {
-            "url": "https://movie.douban.com/subject/26682920/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2556030095.jpg",
-            "roles": [
-                "演员 (饰 John Partridge)"
-            ],
-            "title": "幻影恶灵 第一季",
-            "subject_id": "26682920"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36618873/",
+            "id": 36618873,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900128581.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "The Sect",
-            "subject_id": "36618873"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26379165/",
+            "id": 35467741,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872119051.jpg",
+            "title": "城市的主宰",
+            "release": 1
+        },
+        {
+            "id": 30194636,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2558884177.jpg",
+            "title": "杰西卡·琼斯 第三季",
+            "release": 1
+        },
+        {
+            "id": 26682920,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2556030095.jpg",
+            "title": "幻影恶灵 第一季",
+            "release": 1
+        },
+        {
+            "id": 26379165,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2241351576.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "野心债务",
-            "subject_id": "26379165"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4269483/",
+            "id": 5189425,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "房子中的男人",
+            "release": 1
+        },
+        {
+            "id": 4269483,
             "year": "2010",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1802421207.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Happy New Year",
-            "subject_id": "4269483"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2060181/",
+            "id": 2609258,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2620161520.jpg",
+            "title": "芝加哥七君子审判",
+            "release": 1
+        },
+        {
+            "id": 2060181,
             "year": "2009",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2608008526.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "史坦顿岛",
-            "subject_id": "2060181"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5189425/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "房子中的男人",
-            "subject_id": "5189425"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1315316/",
+            "id": 1315316,
             "year": "2006",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1471403480.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "无间道风云",
-            "subject_id": "1315316"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/34480317/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T21:14:08"
+    "update_at": "2025-08-08T16:21:59"
 }

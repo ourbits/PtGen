@@ -4,7 +4,8 @@
     "site": "douban_celebrity",
     "roles": [
         "演员",
-        "配音"
+        "配音",
+        "导演"
     ],
     "awards": [],
     "gender": "男",
@@ -16,10 +17,24 @@
     "birth_place": "西班牙,穆尔西亚",
     "last_movies": [
         {
+            "id": 37458616,
+            "year": "2026",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2923890738.jpg",
+            "title": "El Mal Hijo",
+            "release": 0
+        },
+        {
+            "id": 37360980,
+            "year": "2026",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "Carlota",
+            "release": 0
+        },
+        {
             "id": 37229744,
             "year": "2026",
             "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
-            "title": "Reversion",
+            "title": "倒退",
             "release": 0
         },
         {
@@ -112,5 +127,5 @@
     "name_more_other": [
         "Jaime Lorente López"
     ],
-    "update_at": "2025-03-06T23:26:31"
+    "update_at": "2025-08-08T15:56:59"
 }
