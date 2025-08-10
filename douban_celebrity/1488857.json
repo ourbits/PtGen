@@ -4,7 +4,8 @@
     "site": "douban_celebrity",
     "roles": [
         "导演",
-        "编剧"
+        "编剧",
+        "制片人"
     ],
     "awards": [],
     "gender": "男",
@@ -16,11 +17,25 @@
     "birth_place": "澳大利亚,阿德莱德",
     "last_movies": [
         {
+            "id": 37365252,
+            "year": "2027",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Untitled Original Horror Film",
+            "release": 0
+        },
+        {
+            "id": 37247242,
+            "year": "2027",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "未定名菲利普兄弟地下搏击纪录片",
+            "release": 0
+        },
+        {
             "id": 36876356,
             "year": "2025",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909245712.jpg",
-            "title": "带她回来",
-            "release": 0
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2921267093.jpg",
+            "title": "复活她",
+            "release": 1
         },
         {
             "id": 36515066,
@@ -34,13 +49,6 @@
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906576996.jpg",
             "title": "回应我2",
-            "release": 0
-        },
-        {
-            "id": 36344100,
-            "year": "2026",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908493905.jpg",
-            "title": "街头霸王",
             "release": 0
         },
         {
@@ -59,5 +67,5 @@
     "personage_link": "https://www.douban.com/personage/36354089/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-23T09:44:37"
+    "update_at": "2025-08-10T21:07:45"
 }
