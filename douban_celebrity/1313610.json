@@ -1,5 +1,5 @@
 {
-    "sid": 1313610,
+    "sid": "1313610",
     "name": "李相禹 ",
     "site": "douban_celebrity",
     "roles": [
@@ -15,114 +15,81 @@
     "birth_place": "韩国,首尔",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36134400/",
+            "id": 36134400,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2883941758.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "红气球",
-            "subject_id": "36134400"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35447472/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2869896623.jpg",
-            "roles": [
-                "演员 (饰 韩升日)"
-            ],
-            "title": "流星",
-            "subject_id": "35447472"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35447471/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2775990428.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "废柴舅舅",
-            "subject_id": "35447471"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35559230/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881941063.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "高尔夫王",
-            "subject_id": "35559230"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35306371/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2633599462.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "顶楼 第二季",
-            "subject_id": "35306371"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35161101/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2625975407.jpg",
-            "roles": [
-                "演员 (饰 阿彬)"
-            ],
-            "title": "都市男女的爱情法则",
-            "subject_id": "35161101"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35150269/",
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2618218330.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "第六感",
-            "subject_id": "35150269"
-        },
-        {
-            "url": "https://movie.douban.com/subject/33447421/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2563201270.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "黄金庭院",
-            "subject_id": "33447421"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30304086/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2546749467.jpg",
-            "roles": [
-                "演员 (饰 金世元)"
-            ],
-            "title": "触及真心",
-            "subject_id": "30304086"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27613144/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515105850.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "要一起过吗?",
-            "subject_id": "27613144"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35786139/",
+            "id": 35786139,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2900250568.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "酒店",
-            "subject_id": "35786139"
+            "release": 0
+        },
+        {
+            "id": 35559230,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881941063.jpg",
+            "title": "高尔夫王",
+            "release": 1
+        },
+        {
+            "id": 35447472,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2869896623.jpg",
+            "title": "流星",
+            "release": 1
+        },
+        {
+            "id": 35447471,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2775990428.jpg",
+            "title": "废柴舅舅",
+            "release": 1
+        },
+        {
+            "id": 35306371,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2633599462.jpg",
+            "title": "顶楼 第二季",
+            "release": 1
+        },
+        {
+            "id": 35161101,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2625975407.jpg",
+            "title": "都市男女的爱情法则",
+            "release": 1
+        },
+        {
+            "id": 35150269,
+            "year": "2020",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2618218330.jpg",
+            "title": "第六感",
+            "release": 1
+        },
+        {
+            "id": 33447421,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2563201270.jpg",
+            "title": "黄金庭院",
+            "release": 1
+        },
+        {
+            "id": 30304086,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2546749467.jpg",
+            "title": "触及真心",
+            "release": 1
+        },
+        {
+            "id": 27613144,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515105850.jpg",
+            "title": "要一起过吗?",
+            "release": 1
         }
     ],
     "introduction": "身高 : 185cm體重 : 81kg學歷 : 舊誼小學-廣場中學-大願高中-高麗大學 食品生命工學科 休學綽號 : 口吃小子出生 : 漢城血型 : O型宗教 : 基督教興趣 : 釣魚、Wakeboard特長 : 網球、壁球、掰手腕酒量 : 燒酒半瓶家庭 : 2男 中 長子喜歡的飲食 : 肉類喜歡的顏色 : 黑色、白色得獎經歷：2008 SBS演技大賞新人獎",
@@ -141,5 +108,5 @@
     "name_more_other": [
         "이상우"
     ],
-    "update_at": "2025-01-19T16:07:15"
+    "update_at": "2025-08-23T00:43:06"
 }
