@@ -1,5 +1,5 @@
 {
-    "sid": 1427510,
+    "sid": "1427510",
     "name": "史蒂夫·曼丹达",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "刚果民主共和国，金沙萨",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/34678741/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2563772149.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "法甲联赛19/20赛季",
-            "subject_id": "34678741"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35072517/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2603478054.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "2020欧洲杯预选赛",
-            "subject_id": "35072517"
-        },
-        {
-            "url": "https://movie.douban.com/subject/34463358/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2562105679.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "法甲联赛18/19赛季",
-            "subject_id": "34463358"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30276285/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529293766.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "法国队，俄罗斯世界杯之心",
-            "subject_id": "30276285"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30230651/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2526154419.jpg",
-            "roles": [
-                "演员 - 自己 (饰 法国队门将)"
-            ],
-            "title": "2018年俄罗斯世界杯",
-            "subject_id": "30230651"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35688918/",
+            "id": 35688918,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2767101303.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "2017-2018赛季欧洲联赛",
-            "subject_id": "35688918"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34805937/",
+            "id": 35072517,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2603478054.jpg",
+            "title": "2020欧洲杯预选赛",
+            "release": 1
+        },
+        {
+            "id": 34805937,
             "year": "2016",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2592809393.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "16/17赛季英格兰足球超级联赛",
-            "subject_id": "34805937"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/34462268/",
+            "id": 34678741,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2563772149.jpg",
+            "title": "法甲联赛19/20赛季",
+            "release": 1
+        },
+        {
+            "id": 34463358,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2562105679.jpg",
+            "title": "法甲联赛18/19赛季",
+            "release": 1
+        },
+        {
+            "id": 34462268,
             "year": "2016",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2562090711.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "ITV体育：2016年欧洲杯",
-            "subject_id": "34462268"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/26710541/",
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2321492065.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "马赛物语",
-            "subject_id": "26710541"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30476860/",
+            "id": 30476860,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885256326.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "2012年欧洲杯足球赛",
-            "subject_id": "30476860"
+            "release": 1
+        },
+        {
+            "id": 30276285,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529293766.jpg",
+            "title": "法国队，俄罗斯世界杯之心",
+            "release": 1
+        },
+        {
+            "id": 30230651,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2526154419.jpg",
+            "title": "2018年俄罗斯世界杯",
+            "release": 1
+        },
+        {
+            "id": 26710541,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2321492065.jpg",
+            "title": "马赛物语",
+            "release": 1
         }
     ],
     "introduction": "史蒂夫·曼丹达（Steve Mandanda，1985年3月28日－），是一名法国足球运动员，司职门将。曾效力于英超的水晶宫足球俱乐部，现效力于法甲的马赛足球俱乐部。2018年5月14日，曼丹达当选2017-2018赛季法甲最佳门将，这是他第五次获奖，他超越了库佩，成为获奖次数最多的球员。",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/34907798/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T06:28:13"
+    "update_at": "2025-08-25T17:29:21"
 }
