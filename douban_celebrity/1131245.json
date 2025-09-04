@@ -1,5 +1,5 @@
 {
-    "sid": 1131245,
+    "sid": "1131245",
     "name": "Milivoje Popovic-Mavid",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "塞尔维亚,沙巴克",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5089361/",
-            "year": "1982",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Sabinjanke",
-            "subject_id": "5089361"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5091799/",
+            "id": 5091799,
             "year": "1980",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2902424508.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Vruc vetar",
-            "subject_id": "5091799"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5053704/",
-            "year": "1978",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2541437656.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "黑名单上的人归来",
-            "subject_id": "5053704"
+            "id": 5089361,
+            "year": "1982",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Sabinjanke",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3760288/",
-            "year": "1975",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Pavle Pavlovic",
-            "subject_id": "3760288"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1979161/",
-            "year": "1974",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2785662239.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "黑名单上的人",
-            "subject_id": "1979161"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3221806/",
-            "year": "1973",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2460274461.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "金发女郎",
-            "subject_id": "3221806"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3223398/",
-            "year": "1971",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529745948.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "与魔鬼共进早餐",
-            "subject_id": "3223398"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1758777/",
-            "year": "1970",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1641994074.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "12把椅子",
-            "subject_id": "1758777"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5056726/",
+            "id": 5056726,
             "year": "1969",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2873728878.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "白狼",
-            "subject_id": "5056726"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3117668/",
+            "id": 5053704,
+            "year": "1978",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2541437656.jpg",
+            "title": "黑名单上的人归来",
+            "release": 1
+        },
+        {
+            "id": 3760288,
+            "year": "1975",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Pavle Pavlovic",
+            "release": 1
+        },
+        {
+            "id": 3223398,
+            "year": "1971",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529745948.jpg",
+            "title": "与魔鬼共进早餐",
+            "release": 1
+        },
+        {
+            "id": 3221806,
+            "year": "1973",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2460274461.jpg",
+            "title": "金发女郎",
+            "release": 1
+        },
+        {
+            "id": 3117668,
             "year": "1969",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "别跟着我，女士！",
-            "subject_id": "3117668"
+            "release": 1
+        },
+        {
+            "id": 1979161,
+            "year": "1974",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2785662239.jpg",
+            "title": "黑名单上的人",
+            "release": 1
+        },
+        {
+            "id": 1758777,
+            "year": "1970",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1641994074.jpg",
+            "title": "12把椅子",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -130,5 +100,5 @@
     "name_more_other": [
         "Mavid (昵称)"
     ],
-    "update_at": "2025-01-19T23:21:18"
+    "update_at": "2025-09-04T11:42:31"
 }

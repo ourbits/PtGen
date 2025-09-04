@@ -1,5 +1,5 @@
 {
-    "sid": 1025330,
+    "sid": "1025330",
     "name": "爱德华·哈德威克",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "英国,伦敦",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/27197497/",
+            "id": 27197497,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2504847144.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "真实的歇洛克·福尔摩斯",
-            "subject_id": "27197497"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5997174/",
+            "id": 5997174,
             "year": "2010",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2917317053.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "侦探们",
-            "subject_id": "5997174"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4826589/",
+            "id": 5232394,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Goodbye Plane",
+            "release": 1
+        },
+        {
+            "id": 5196229,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "It's a Happy Movie: The Children's Making-of",
+            "release": 1
+        },
+        {
+            "id": 4826589,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2628716281.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "这很简单，我亲爱的观众",
-            "subject_id": "4826589"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2268877/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2190673076.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "芬妮希尔",
-            "subject_id": "2268877"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5196229/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "It's a Happy Movie: The Children's Making-of",
-            "subject_id": "5196229"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4799466/",
+            "id": 4799466,
             "year": "2005",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2640609186.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
             "title": "时光荏苒:歇洛克研究",
-            "subject_id": "4799466"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1418194/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p853427696.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "雾都孤儿",
-            "subject_id": "1418194"
+            "id": 2268877,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2190673076.jpg",
+            "title": "芬妮希尔",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1427040/",
-            "year": "2004",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2220609186.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "空幻之屋",
-            "subject_id": "1427040"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1474087/",
+            "id": 1474087,
             "year": "2004",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2629522482.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "无耻之徒 第一季",
-            "subject_id": "1474087"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5232394/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Goodbye Plane",
-            "subject_id": "5232394"
+            "id": 1427040,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2220609186.jpg",
+            "title": "空幻之屋",
+            "release": 1
+        },
+        {
+            "id": 1418194,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p853427696.jpg",
+            "title": "雾都孤儿",
+            "release": 1
         }
     ],
     "introduction": "Edward Cedric Hardwicke (7 August 1932 – 16 May 2011)[1][2] was an English actor, who had a distinguished career on the stage, as well as being known for his portrayal of Dr. Watson in the Granada TV series Sherlock Holmes.",
@@ -132,5 +102,5 @@
     "name_more_other": [
         "Edward Hardwick"
     ],
-    "update_at": "2025-01-17T16:49:19"
+    "update_at": "2025-09-02T23:56:59"
 }

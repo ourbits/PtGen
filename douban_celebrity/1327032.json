@@ -1,5 +1,5 @@
 {
-    "sid": 1327032,
+    "sid": "1327032",
     "name": "坦瓦林·苏卡皮西特",
     "site": "douban_celebrity",
     "roles": [
@@ -21,125 +21,88 @@
     "birth_place": "泰国，那空府",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36440285/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908790360.jpg",
-            "roles": [
-                "演员",
-                "导演"
-            ],
-            "title": "球爱神助攻",
-            "subject_id": "36440285"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36929129/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909378943.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "星期五俱乐部16：炙烈爱情之荆棘爱恋",
-            "subject_id": "36929129"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36613542/",
-            "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2907096997.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "佳期如许",
-            "subject_id": "36613542"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36374660/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895676246.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "Y Star Challenge",
-            "subject_id": "36374660"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36464252/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2894041729.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "星期五俱乐部15之刻骨铭心的爱",
-            "subject_id": "36464252"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36166286/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2890499931.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "我们的天空 II",
-            "subject_id": "36166286"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35656873/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2723305611.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "爱恋时刻",
-            "subject_id": "35656873"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35613275/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2882887322.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "609房间的睡前故事",
-            "subject_id": "35613275"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36115961/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881659880.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "珍妮，日与夜",
-            "subject_id": "36115961"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35684190/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876941847.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "爱之全蚀",
-            "subject_id": "35684190"
-        },
-        {
-            "url": "https://movie.douban.com/subject/36514433/",
-            "year": "2028",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2896866911.jpg",
-            "roles": [
-                "导演"
-            ],
-            "title": "相爱相杀",
-            "subject_id": "36514433"
-        },
-        {
-            "url": "https://movie.douban.com/subject/37125372/",
+            "id": 37125372,
             "year": "2025",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915707954.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "爱情单车",
-            "subject_id": "37125372"
+            "release": 0
+        },
+        {
+            "id": 36929129,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909378943.jpg",
+            "title": "星期五俱乐部16：炙烈爱情之荆棘爱恋",
+            "release": 1
+        },
+        {
+            "id": 36613542,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2907096997.jpg",
+            "title": "佳期如许",
+            "release": 1
+        },
+        {
+            "id": 36514433,
+            "year": "2028",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2896866911.jpg",
+            "title": "相爱相杀",
+            "release": 0
+        },
+        {
+            "id": 36464252,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2894041729.jpg",
+            "title": "星期五俱乐部15之刻骨铭心的爱",
+            "release": 1
+        },
+        {
+            "id": 36440285,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908790360.jpg",
+            "title": "球爱神助攻",
+            "release": 1
+        },
+        {
+            "id": 36374660,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2895676246.jpg",
+            "title": "Y Star Challenge",
+            "release": 1
+        },
+        {
+            "id": 36166286,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2890499931.jpg",
+            "title": "我们的天空 II",
+            "release": 1
+        },
+        {
+            "id": 36115961,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2881659880.jpg",
+            "title": "珍妮，日与夜",
+            "release": 1
+        },
+        {
+            "id": 35684190,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2876941847.jpg",
+            "title": "爱之全蚀",
+            "release": 1
+        },
+        {
+            "id": 35656873,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2723305611.jpg",
+            "title": "爱恋时刻",
+            "release": 1
+        },
+        {
+            "id": 35613275,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2882887322.jpg",
+            "title": "609房间的睡前故事",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -152,5 +115,5 @@
     "name_more_other": [
         "ธัญญ์วาริน สุขะพิสิษฐ์"
     ],
-    "update_at": "2025-01-20T06:14:06"
+    "update_at": "2025-09-04T07:42:16"
 }
