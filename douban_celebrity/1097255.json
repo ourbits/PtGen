@@ -1,5 +1,5 @@
 {
-    "sid": 1097255,
+    "sid": "1097255",
     "name": "杰斯·哈恩",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "美国,印第安纳州,特雷霍特",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/5136696/",
+            "id": 5136696,
             "year": "1966",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536012281.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Au théâtre ce soir",
-            "subject_id": "5136696"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5128489/",
-            "year": "1989",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875239667.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "Le retour de Lemmy Caution",
-            "subject_id": "5128489"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5130728/",
+            "id": 5130728,
             "year": "1987",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2564149754.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Overdose",
-            "subject_id": "5130728"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3739314/",
-            "year": "1986",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2552985346.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "皇室婚礼",
-            "subject_id": "3739314"
+            "id": 5128489,
+            "year": "1989",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2875239667.jpg",
+            "title": "Le retour de Lemmy Caution",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/4038771/",
-            "year": "1984",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2564149041.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "群蛇夺宝",
-            "subject_id": "4038771"
+            "id": 5118915,
+            "year": "1982",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Ultimatum",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5049197/",
+            "id": 5098500,
+            "year": "1982",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "L'adieu aux as",
+            "release": 1
+        },
+        {
+            "id": 5095664,
+            "year": "1981",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Treize",
+            "release": 1
+        },
+        {
+            "id": 5049197,
             "year": "1984",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2507544693.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "How Did You Get In? We Didn't See You Leave",
-            "subject_id": "5049197"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2973019/",
+            "id": 4038771,
+            "year": "1984",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2564149041.jpg",
+            "title": "群蛇夺宝",
+            "release": 1
+        },
+        {
+            "id": 3739314,
+            "year": "1986",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2552985346.jpg",
+            "title": "皇室婚礼",
+            "release": 1
+        },
+        {
+            "id": 2973019,
             "year": "1983",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
             "title": "The Innocents Abroad",
-            "subject_id": "2973019"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5098500/",
-            "year": "1982",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "L'adieu aux as",
-            "subject_id": "5098500"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5118915/",
-            "year": "1982",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Ultimatum",
-            "subject_id": "5118915"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5095664/",
-            "year": "1981",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Treize",
-            "subject_id": "5095664"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -131,5 +101,5 @@
     "name_more_other": [
         "Jesse Beryle Hahn (本名)"
     ],
-    "update_at": "2025-01-19T22:56:10"
+    "update_at": "2025-09-16T03:14:57"
 }
