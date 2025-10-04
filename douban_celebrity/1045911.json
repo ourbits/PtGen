@@ -1,5 +1,5 @@
 {
-    "sid": 1045911,
+    "sid": "1045911",
     "name": "大卫·李普曼",
     "site": "douban_celebrity",
     "roles": [
@@ -16,104 +16,74 @@
     "birth_place": "美国,纽约,布鲁克林",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3626372/",
-            "year": "2010",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1046956087.jpg",
-            "roles": [
-                "演员 (饰 First Lawyer)"
-            ],
-            "title": "大地惊雷",
-            "subject_id": "3626372"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3655095/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1714702024.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "跳跃剪接",
-            "subject_id": "3655095"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1401939/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868688099.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "法律与秩序：陪审团",
-            "subject_id": "1401939"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1858250/",
-            "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2685820921.jpg",
-            "roles": [
-                "编剧"
-            ],
-            "title": "怪物史莱克 4D",
-            "subject_id": "1858250"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2133929/",
-            "year": "2000",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2340297260.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "艾德 第一季",
-            "subject_id": "2133929"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5102686/",
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Cupidity",
-            "subject_id": "5102686"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1292594/",
-            "year": "1998",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2551108635.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "双傻出海",
-            "subject_id": "1292594"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5110222/",
-            "year": "1996",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1970219938.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "记住维恩",
-            "subject_id": "5110222"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1299634/",
-            "year": "1996",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2588369721.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "斗气冤家",
-            "subject_id": "1299634"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5111966/",
+            "id": 5111966,
             "year": "1994",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2352032878.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "科斯比探案",
-            "subject_id": "5111966"
+            "release": 1
+        },
+        {
+            "id": 5110222,
+            "year": "1996",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1970219938.jpg",
+            "title": "记住维恩",
+            "release": 1
+        },
+        {
+            "id": 5102686,
+            "year": "1999",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Cupidity",
+            "release": 1
+        },
+        {
+            "id": 3655095,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1714702024.jpg",
+            "title": "跳跃剪接",
+            "release": 1
+        },
+        {
+            "id": 3626372,
+            "year": "2010",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1046956087.jpg",
+            "title": "大地惊雷",
+            "release": 1
+        },
+        {
+            "id": 2133929,
+            "year": "2000",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2340297260.jpg",
+            "title": "艾德 第一季",
+            "release": 1
+        },
+        {
+            "id": 1858250,
+            "year": "2003",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2685820921.jpg",
+            "title": "怪物史莱克 4D",
+            "release": 1
+        },
+        {
+            "id": 1401939,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868688099.jpg",
+            "title": "法律与秩序：陪审团",
+            "release": 1
+        },
+        {
+            "id": 1299634,
+            "year": "1996",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2588369721.jpg",
+            "title": "斗气冤家",
+            "release": 1
+        },
+        {
+            "id": 1292594,
+            "year": "1998",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2551108635.jpg",
+            "title": "双傻出海",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -124,5 +94,5 @@
     "personage_link": "https://www.douban.com/personage/27251669/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-17T21:49:10"
+    "update_at": "2025-10-03T10:28:51"
 }

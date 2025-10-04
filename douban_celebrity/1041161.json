@@ -1,5 +1,5 @@
 {
-    "sid": 1041161,
+    "sid": "1041161",
     "name": "凯瑟琳·奎南",
     "site": "douban_celebrity",
     "roles": [
@@ -19,104 +19,81 @@
     "birth_place": "美国,加利福尼亚州,帕萨迪纳",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36393117/",
+            "id": 37228524,
+            "year": "2025",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Holiday Hearts",
+            "release": 0
+        },
+        {
+            "id": 36393117,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2910380023.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "地平线2",
-            "subject_id": "36393117"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36056968/",
+            "id": 36056968,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2899539912.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "地平线",
-            "subject_id": "36056968"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35282195/",
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "The Tuna Goddess",
-            "subject_id": "35282195"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35387942/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2634822855.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "天赐赫伯",
-            "subject_id": "35387942"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35555894/",
+            "id": 35555894,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2897257871.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "神秘阶梯",
-            "subject_id": "35555894"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/33442359/",
+            "id": 35387942,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2634822855.jpg",
+            "title": "天赐赫伯",
+            "release": 1
+        },
+        {
+            "id": 35282195,
+            "year": "2022",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Tuna Goddess",
+            "release": 1
+        },
+        {
+            "id": 33442359,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2568651494.jpg",
-            "roles": [
-                "演员 (饰 Britt)"
-            ],
             "title": "逍遥法外 第六季",
-            "subject_id": "33442359"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/27043978/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2624227764.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "镜像世界",
-            "subject_id": "27043978"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27600161/",
-            "year": "2018",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2507105457.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "怪兽应变",
-            "subject_id": "27600161"
-        },
-        {
-            "url": "https://movie.douban.com/subject/27038227/",
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2502272172.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "忧郁的伊丽莎白",
-            "subject_id": "27038227"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30278578/",
+            "id": 30278578,
             "year": "2017",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2528473629.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "药命谎言",
-            "subject_id": "30278578"
+            "release": 1
+        },
+        {
+            "id": 27600161,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2507105457.jpg",
+            "title": "怪兽应变",
+            "release": 1
+        },
+        {
+            "id": 27043978,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2624227764.jpg",
+            "title": "镜像世界",
+            "release": 1
+        },
+        {
+            "id": 27038227,
+            "year": "2017",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2502272172.jpg",
+            "title": "忧郁的伊丽莎白",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -129,5 +106,5 @@
     "name_more_other": [
         "Kathleen Denise Quinlan (本名)"
     ],
-    "update_at": "2025-01-20T06:42:20"
+    "update_at": "2025-10-04T14:43:23"
 }
