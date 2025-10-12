@@ -1,5 +1,5 @@
 {
-    "sid": 1152583,
+    "sid": "1152583",
     "name": "汤姆·托尔斯",
     "site": "douban_celebrity",
     "roles": [
@@ -17,104 +17,74 @@
     "birth_place": "美国,伊利诺伊州,芝加哥",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3332482/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "One for the Fire: Night of the Living Dead 40th Anniversary Documentary",
-            "subject_id": "3332482"
-        },
-        {
-            "url": "https://movie.douban.com/subject/4306788/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515051653.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "高速公路上的血案",
-            "subject_id": "4306788"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3290567/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537817592.jpg",
-            "roles": [
-                "演员 - 自己"
-            ],
-            "title": "Michael Lives: The Making of 'Halloween'",
-            "subject_id": "3290567"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35204203/",
+            "id": 35204203,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2620160553.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "纳粹狼女",
-            "subject_id": "35204203"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2302012/",
+            "id": 4306788,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515051653.jpg",
+            "title": "高速公路上的血案",
+            "release": 1
+        },
+        {
+            "id": 3332482,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "One for the Fire: Night of the Living Dead 40th Anniversary Documentary",
+            "release": 1
+        },
+        {
+            "id": 3290567,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537817592.jpg",
+            "title": "Michael Lives: The Making of 'Halloween'",
+            "release": 1
+        },
+        {
+            "id": 2302012,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511733614.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "思乡逃命",
-            "subject_id": "2302012"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1482090/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2167803400.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "刑房",
-            "subject_id": "1482090"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1449962/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p596308431.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "迈阿密风云",
-            "subject_id": "1449962"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1777506/",
+            "id": 1777506,
             "year": "2005",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2494735653.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "马尔科姆的一家 第七季",
-            "subject_id": "1777506"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1309097/",
+            "id": 1482090,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2167803400.jpg",
+            "title": "刑房",
+            "release": 1
+        },
+        {
+            "id": 1449962,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p596308431.jpg",
+            "title": "迈阿密风云",
+            "release": 1
+        },
+        {
+            "id": 1309097,
             "year": "2005",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p457124080.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "千尸屋2",
-            "subject_id": "1309097"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1302604/",
+            "id": 1302604,
             "year": "2003",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1484281908.jpg",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1484281846.jpg",
             "title": "千尸屋",
-            "subject_id": "1302604"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -125,5 +95,5 @@
     "personage_link": "https://www.douban.com/personage/27358464/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T06:14:07"
+    "update_at": "2025-10-12T13:01:02"
 }

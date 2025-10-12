@@ -4,7 +4,8 @@
     "site": "douban_celebrity",
     "roles": [
         "演员",
-        "编剧"
+        "编剧",
+        "导演"
     ],
     "awards": [],
     "gender": "男",
@@ -15,6 +16,13 @@
     "birth_date": "1929年7月11日",
     "birth_place": "爱尔兰,都柏林",
     "last_movies": [
+        {
+            "id": 37511662,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2924929614.jpg",
+            "title": "迷魂酒",
+            "release": 1
+        },
         {
             "id": 35452077,
             "year": "2023",
@@ -72,13 +80,6 @@
             "release": 1
         },
         {
-            "id": 2023769,
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2869244762.jpg",
-            "title": "梦魇迷宫",
-            "release": 1
-        },
-        {
             "id": 1867335,
             "year": "2007",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p620198224.jpg",
@@ -102,5 +103,5 @@
         "Dave Kelly",
         "David Blake Kelly"
     ],
-    "update_at": "2025-02-05T08:43:33"
+    "update_at": "2025-10-12T00:14:41"
 }
