@@ -4,6 +4,7 @@
     "site": "douban_celebrity",
     "roles": [
         "演员",
+        "配音",
         "导演",
         "作者"
     ],
@@ -16,6 +17,13 @@
     "birth_date": "1970年8月22日",
     "birth_place": "意大利,罗马",
     "last_movies": [
+        {
+            "id": 37443020,
+            "year": "2025",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Giada in My Kitchen",
+            "release": 1
+        },
         {
             "id": 37213082,
             "year": "2020",
@@ -42,13 +50,6 @@
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908183775.jpg",
             "title": "食品频道的下一个明星 第十四季",
-            "release": 1
-        },
-        {
-            "id": 36893019,
-            "year": "2017",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
-            "title": "食品频道的下一个明星 第十三季",
             "release": 1
         },
         {
@@ -99,5 +100,5 @@
     "name_more_other": [
         "Giada Pamela De Benedetti (本名)"
     ],
-    "update_at": "2025-04-06T02:39:25"
+    "update_at": "2025-10-13T08:14:15"
 }
