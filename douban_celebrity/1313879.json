@@ -5,7 +5,7 @@
     "roles": [
         "演员",
         "导演",
-        "编剧"
+        "副导演"
     ],
     "awards": [],
     "gender": "男",
@@ -17,10 +17,31 @@
     "birth_place": "中国,天津",
     "last_movies": [
         {
+            "id": 37480243,
+            "year": "2002",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "村官难当",
+            "release": 1
+        },
+        {
             "id": 33425245,
             "year": "1966",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2554609507.jpg",
             "title": "东风劲吹",
+            "release": 1
+        },
+        {
+            "id": 26436418,
+            "year": "1958",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2553943980.jpg",
+            "title": "热浪奔腾",
+            "release": 1
+        },
+        {
+            "id": 26435665,
+            "year": "1958",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2323620721.jpg",
+            "title": "二十天革个命",
             "release": 1
         },
         {
@@ -38,13 +59,6 @@
             "release": 1
         },
         {
-            "id": 20278503,
-            "year": "1958",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2680785252.jpg",
-            "title": "大风浪里的小故事",
-            "release": 1
-        },
-        {
             "id": 5416108,
             "year": "1958",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536477920.jpg",
@@ -59,24 +73,10 @@
             "release": 1
         },
         {
-            "id": 1765185,
-            "year": "1957",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2637169448.jpg",
-            "title": "羊城暗哨",
-            "release": 1
-        },
-        {
             "id": 1480411,
             "year": "1963",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2687976448.jpg",
             "title": "金沙江畔",
-            "release": 1
-        },
-        {
-            "id": 1434172,
-            "year": "1956",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2251435268.jpg",
-            "title": "铁道游击队",
             "release": 1
         },
         {
@@ -104,5 +104,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-01-24T03:00:15"
+    "update_at": "2025-10-16T11:36:00"
 }
