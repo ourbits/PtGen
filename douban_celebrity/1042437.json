@@ -1,5 +1,5 @@
 {
-    "sid": 1042437,
+    "sid": "1042437",
     "name": "罗兰·伯汀",
     "site": "douban_celebrity",
     "roles": [
@@ -15,104 +15,74 @@
     "birth_place": "法国,巴黎",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/3333394/",
-            "year": "2008",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2193361705.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "难舍难分",
-            "subject_id": "3333394"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3117780/",
-            "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "La française doit voter",
-            "subject_id": "3117780"
-        },
-        {
-            "url": "https://movie.douban.com/subject/1904345/",
-            "year": "2006",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2200525589.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "被困在外",
-            "subject_id": "1904345"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5221485/",
+            "id": 5221485,
             "year": "2005",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509410166.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Olé!",
-            "subject_id": "5221485"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3173922/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909415913.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "一生",
-            "subject_id": "3173922"
+            "id": 5188544,
+            "year": "2001",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "L'avare",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5129690/",
+            "id": 5147610,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Silver Shadow",
+            "release": 1
+        },
+        {
+            "id": 5129690,
             "year": "2002",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2567871316.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "没人提防小女孩",
-            "subject_id": "5129690"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5188544/",
-            "year": "2001",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "L'avare",
-            "subject_id": "5188544"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5097720/",
+            "id": 5097720,
             "year": "1998",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Marie Fransson",
-            "subject_id": "5097720"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/5147610/",
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Silver Shadow",
-            "subject_id": "5147610"
-        },
-        {
-            "url": "https://movie.douban.com/subject/3678831/",
+            "id": 3678831,
             "year": "1997",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2555751520.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "Sous les pieds des femmes",
-            "subject_id": "3678831"
+            "release": 1
+        },
+        {
+            "id": 3333394,
+            "year": "2008",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2193361705.jpg",
+            "title": "难舍难分",
+            "release": 1
+        },
+        {
+            "id": 3173922,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2909415913.jpg",
+            "title": "一生",
+            "release": 1
+        },
+        {
+            "id": 3117780,
+            "year": "2007",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "La française doit voter",
+            "release": 1
+        },
+        {
+            "id": 1904345,
+            "year": "2006",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2200525589.jpg",
+            "title": "被困在外",
+            "release": 1
         }
     ],
     "introduction": "获得了法国公民的最高荣誉， 法兰西荣誉军团勋章（骑兵级）",
@@ -123,5 +93,5 @@
     "personage_link": "https://www.douban.com/personage/27248192/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-18T10:49:08"
+    "update_at": "2025-10-18T04:28:25"
 }
