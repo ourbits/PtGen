@@ -4,8 +4,8 @@
     "site": "douban_celebrity",
     "roles": [
         "演员",
-        "配音",
-        "导演"
+        "编剧",
+        "配音"
     ],
     "awards": [
         "2015年 第17届美国青少年选择奖 最佳暑期电影男演员 (提名) 纸镇",
@@ -21,17 +21,24 @@
     "birth_place": "美国,加利福尼亚州,洛杉矶",
     "last_movies": [
         {
+            "id": 37529084,
+            "year": "2028",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "No More Lonely Nights",
+            "release": 0
+        },
+        {
+            "id": 36347260,
+            "year": "2025",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2925073808.jpg",
+            "title": "盗亦有道",
+            "release": 1
+        },
+        {
             "id": 36193114,
             "year": "2023",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2887810674.jpg",
             "title": "正义联盟与红白黑黄：超级英雄和猎人（上）",
-            "release": 1
-        },
-        {
-            "id": 36097215,
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
-            "title": "Young Lust",
             "release": 1
         },
         {
@@ -97,7 +104,8 @@
     "family_member": [
         "Michael Wolff(父)",
         "Polly Draper(母)",
-        "Alex Wolff(弟弟)"
+        "Alex Wolff(弟)",
+        "Billie Eilish(女友)"
     ],
     "celebrity_link": "https://movie.douban.com/celebrity/1213072",
     "personage_link": "https://www.douban.com/personage/27419040/",
@@ -106,5 +114,5 @@
         "Nathaniel Marvin Wolff (本名)",
         "Wolffman (昵称)"
     ],
-    "update_at": "2025-01-25T04:49:18"
+    "update_at": "2025-10-22T10:56:50"
 }
