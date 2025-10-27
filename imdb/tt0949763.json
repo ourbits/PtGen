@@ -4,23 +4,13 @@
     "name": "Operativo de alto riesgo",
     "site": "imdb",
     "@type": "Movie",
-    "genre": null,
-    "actors": [
-        {
-            "url": "https://www.imdb.com/name/nm0136041/",
-            "name": "Sandra Carbajal González"
-        },
-        {
-            "url": "https://www.imdb.com/name/nm0142949/",
-            "name": "Roque Casanova"
-        },
-        {
-            "url": "https://www.imdb.com/name/nm1012565/",
-            "name": "Jorge de Marin"
-        }
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTgwMWJjMGEtZjkxNS00ZTJiLTllNDktOWY3MTFiZWFkOTZhXkEyXkFqcGc@._V1_.jpg",
     "details": {
         "Language": [
             "Spanish"
@@ -34,6 +24,9 @@
         "Country of origin": [
             "Mexico"
         ],
+        "Filming locations": [
+            "Mexico City, Distrito Federal, Mexico"
+        ],
         "Production company": [
             "Producciones Galubi S.A. de C.V."
         ]
@@ -42,13 +35,10 @@
     "creators": [],
     "duration": "PT1H28M",
     "keywords": [
-        ""
-    ],
-    "directors": [
-        {
-            "url": "https://www.imdb.com/name/nm2406112/",
-            "name": "Rubén Galindo Jr."
-        }
+        "serial killer",
+        "melodrama",
+        "revenge",
+        "police investigation"
     ],
     "imdb_link": "https://www.imdb.com/title/tt0949763/",
     "metascore": null,
@@ -60,5 +50,5 @@
     "contentRating": null,
     "datePublished": null,
     "imdb_rating_average": 0,
-    "update_at": "2025-05-06T00:21:04"
+    "update_at": "2025-10-27T15:49:58"
 }
