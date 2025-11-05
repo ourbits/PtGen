@@ -1,5 +1,5 @@
 {
-    "sid": 1223037,
+    "sid": "1223037",
     "name": "Bryce Wagoner",
     "site": "douban_celebrity",
     "roles": [
@@ -17,85 +17,60 @@
     "birth_place": "美国,弗吉尼亚州,林奇堡",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/20003423/",
+            "id": 20003423,
             "year": "2012",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1987451613.jpg",
-            "roles": [
-                "导演"
-            ],
             "title": "色情之后",
-            "subject_id": "20003423"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3626430/",
-            "year": "2011",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "制片人",
-                "编剧"
-            ],
-            "title": "False Finish",
-            "subject_id": "3626430"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5189650/",
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "Shadowman",
-            "subject_id": "5189650"
-        },
-        {
-            "url": "https://movie.douban.com/subject/5192467/",
+            "id": 5192467,
             "year": "2008",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2619508207.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "马可·波罗",
-            "subject_id": "5192467"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3131278/",
+            "id": 5189650,
+            "year": "2009",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Shadowman",
+            "release": 1
+        },
+        {
+            "id": 3626430,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "False Finish",
+            "release": 1
+        },
+        {
+            "id": 3131278,
             "year": "2008",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515788354.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "死亡变种人2",
-            "subject_id": "3131278"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/1424375/",
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
-            "title": "911反恐客机",
-            "subject_id": "1424375"
-        },
-        {
-            "url": "https://movie.douban.com/subject/2071042/",
+            "id": 2071042,
             "year": "2004",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "\"Crossballs: The Debate Show\"",
-            "subject_id": "2071042"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/2061883/",
+            "id": 2061883,
             "year": "2002",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_large.png",
-            "roles": [
-                "演员"
-            ],
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2923054225.jpg",
             "title": "安迪的生活琐事 第一季",
-            "subject_id": "2061883"
+            "release": 1
+        },
+        {
+            "id": 1424375,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "911反恐客机",
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -110,5 +85,5 @@
         "Mr. Wonderful (昵称)",
         "Bryceps (昵称)"
     ],
-    "update_at": "2025-01-19T16:56:23"
+    "update_at": "2025-11-05T02:43:05"
 }
