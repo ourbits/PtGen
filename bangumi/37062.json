@@ -14,7 +14,12 @@
         {
             "id": 6513,
             "name": "苗木野そら",
-            "actors": [],
+            "actors": [
+                {
+                    "id": 4165,
+                    "name": "広橋涼"
+                }
+            ],
             "relation": "主角"
         },
         {
@@ -29,12 +34,122 @@
             "relation": "主角"
         },
         {
+            "id": 1980,
+            "name": "レイラ・ハミルトン",
+            "actors": [
+                {
+                    "id": 3890,
+                    "name": "大原さやか"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 7135,
+            "name": "ミア・ギエム",
+            "actors": [
+                {
+                    "id": 3840,
+                    "name": "西村ちなみ"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
             "id": 7136,
             "name": "ケン・ロビンス",
             "actors": [
                 {
                     "id": 4262,
                     "name": "下野紘"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 23747,
+            "name": "カロス・永戸",
+            "actors": [
+                {
+                    "id": 4016,
+                    "name": "藤原啓治"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 50941,
+            "name": "メイ・ウォン",
+            "actors": [
+                {
+                    "id": 4145,
+                    "name": "中原麻衣"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 50942,
+            "name": "レオン・オズワルド",
+            "actors": [
+                {
+                    "id": 4015,
+                    "name": "櫻井孝宏"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 50943,
+            "name": "アンナ・ハート",
+            "actors": [
+                {
+                    "id": 4032,
+                    "name": "渡辺明乃"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 50944,
+            "name": "マリオン",
+            "actors": [
+                {
+                    "id": 4042,
+                    "name": "折笠富美子"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 50945,
+            "name": "フール",
+            "actors": [
+                {
+                    "id": 1096,
+                    "name": "子安武人"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 132458,
+            "name": "ジョナサン",
+            "actors": [
+                {
+                    "id": 4118,
+                    "name": "小桜エツコ"
+                }
+            ],
+            "relation": "配角"
+        },
+        {
+            "id": 178720,
+            "name": "ユーリ・キリアン",
+            "actors": [
+                {
+                    "id": 3837,
+                    "name": "千葉進歩"
                 }
             ],
             "relation": "配角"
@@ -45,10 +160,6 @@
     "site": "bangumi",
     "cover": "https://lain.bgm.tv/pic/cover/l/cf/40/37062_3IMF2.jpg",
     "staff": [
-        {
-            "key": "原作",
-            "value": "佐藤順一"
-        },
         {
             "key": "导演",
             "value": "佐藤順一、平池芳正"
@@ -79,11 +190,11 @@
         },
         {
             "key": "美术监督",
-            "value": "西川淳一郎、背景監督：SHIN OG CHUL"
+            "value": "西川淳一郎 / 背景監督：SHIN OG CHUL"
         },
         {
             "key": "色彩设计",
-            "value": "辻田邦夫、色彩設計補佐：鈴木寿枝"
+            "value": "國音邦生 [ 辻田邦夫 ]"
         },
         {
             "key": "总作画监督",
@@ -95,7 +206,7 @@
         },
         {
             "key": "摄影监督",
-            "value": "JUNG JOO REE"
+            "value": "JUNG JOO REE / ビジュアルコーディネイター：荻原猛夫"
         },
         {
             "key": "原画",
@@ -104,10 +215,6 @@
         {
             "key": "动画检查",
             "value": "CHOI YU SUN、YOON HI YOUNG、HONG SOON YOUNG"
-        },
-        {
-            "key": "制作助理",
-            "value": "アソシエイトプロデューサー：池田東陽"
         },
         {
             "key": "背景美术",
@@ -119,19 +226,43 @@
         },
         {
             "key": "剪辑",
-            "value": "三嶋章紀、フォーマット編集：キュー・テック、大西満、佐竹可名"
+            "value": "三嶋章紀 / フォーマット編集：キュー・テック、大西満、佐竹可名"
+        },
+        {
+            "key": "原案",
+            "value": "佐藤順一"
+        },
+        {
+            "key": "主题歌编曲",
+            "value": "依田和夫(OP)、田辺恵二(ED)"
+        },
+        {
+            "key": "主题歌作曲",
+            "value": "窪田ミナ(OP)、DREAMFIELD(ED)"
+        },
+        {
+            "key": "主题歌作词",
+            "value": "松浦有希(OP)、MIZUE(ED)"
+        },
+        {
+            "key": "主题歌演出",
+            "value": "苗木野そら&ロゼッタ・パッセル [ 広橋涼、水橋かおり ] (OP)、r.o.r/s [ 奥井雅美、米倉千尋 ] (ED)"
         },
         {
             "key": "企画",
-            "value": "GDH、Hal Film Maker、企画協力：博報堂"
+            "value": "GDH、HAL（Hal Film Maker）"
         },
         {
             "key": "制作管理",
-            "value": "梶田浩司、制作デスク：柴田知典"
+            "value": "梶田浩司 / 制作デスク：柴田和典 [ 柴田知典 ] / プロダクションマネージャー：JEONG DU YEOL、CHOI SUNG JIN"
+        },
+        {
+            "key": "宣传",
+            "value": "木立己百花 / 広報支援：金子美里"
         },
         {
             "key": "录音",
-            "value": "椎原操志、録音スタジオ：スタジオごんぐ"
+            "value": "椎原操志"
         },
         {
             "key": "录音助理",
@@ -147,7 +278,7 @@
         },
         {
             "key": "音响",
-            "value": "音響制作：楽音舎、音響制作担当：杉山好美"
+            "value": "音響制作：楽音舎"
         },
         {
             "key": "音效",
@@ -167,27 +298,19 @@
         },
         {
             "key": "制片人",
-            "value": "内田康史、並木俊治、宮田照久、協力プロデューサー：G.P.JEONG"
+            "value": "内田康史、並木俊治、宮田照久 / 協力プロデューサー：G.P.JEONG"
         },
         {
             "key": "制作进行",
             "value": "金子真枝"
         },
         {
-            "key": "制作助理",
-            "value": "アソシエイトプロデューサー：池田東陽"
-        },
-        {
             "key": "特别鸣谢",
-            "value": "Dio"
+            "value": "Dio / 英訳：濱本兼"
         },
         {
             "key": "动画制作",
-            "value": "GONZO、アニメーション共同制作：GONZO、G&G ENTERTAINMENT"
-        },
-        {
-            "key": "美术设计",
-            "value": "グラフィックデザイン：佐藤菜津子"
+            "value": "GONZO / アニメーション共同制作：GONZO、G&G ENTERTAINMENT"
         },
         {
             "key": "3DCG",
@@ -208,30 +331,30 @@
     ],
     "story": "相当于TV版第52话的内容，以罗赛塔为主人公，由对罗赛塔非常有爱的号称“Rozetta Master”的和田高明操刀，和田高明担当了分镜、演出、作画监督，结果其趣味让男性向的服务画面明显增多。\n\n参加了《月刊Newtype》恶搞企画“这真的假的？”（そのうそほんと？），在2004年11月号推出“カレイドスター2（仮）”为魔法少女罗赛塔的伪情报。",
     "rating": {
-        "rank": 3134,
+        "rank": 3684,
         "count": {
             "1": 1,
-            "2": 0,
-            "3": 2,
-            "4": 11,
-            "5": 27,
-            "6": 78,
-            "7": 125,
-            "8": 69,
+            "2": 1,
+            "3": 1,
+            "4": 15,
+            "5": 37,
+            "6": 93,
+            "7": 139,
+            "8": 68,
             "9": 5,
-            "10": 14
+            "10": 15
         },
-        "score": 6.8,
-        "total": 332
+        "score": 6.7,
+        "total": 375
     },
     "name_cn": "百变之星 崭新之翼 EXTRA STAGE 不笑的公主",
     "platform": "OVA",
     "collection": {
-        "wish": 119,
-        "doing": 5,
-        "collect": 502,
-        "dropped": 16,
-        "on_hold": 11
+        "wish": 122,
+        "doing": 7,
+        "collect": 564,
+        "dropped": 22,
+        "on_hold": 15
     },
     "infobox_other": [
         {
@@ -259,37 +382,41 @@
             "value": "©2003 佐藤順一・HAL・GDH／カレイドステージ"
         },
         {
-            "key": "视觉协调",
-            "value": "荻原猛夫"
-        },
-        {
-            "key": "上色",
-            "value": "PARK KYOUNG JIN、JUNG CHANG TAEK、SHIN SUN MI、JEOUNG NAM JOO、KIM HYUN SUK、JUNG EUN SOON"
+            "key": "色彩设计助理",
+            "value": "色彩設計補佐：鈴木寿枝"
         },
         {
             "key": "选曲",
             "value": "山田稔、高梨絵美"
         },
         {
-            "key": "录音助手",
-            "value": "五十嵐恵美"
+            "key": "2D 设计",
+            "value": "グラフィックデザイン：佐藤菜津子"
         },
         {
-            "key": "英訳",
-            "value": "濱本兼"
+            "key": "上色检查",
+            "value": "KIM HYUN HEE"
         },
         {
-            "key": "宣伝",
-            "value": "木立己百花"
+            "key": "上色",
+            "value": "PARK KYOUNG JIN、JUNG CHANG TAEK、SHIN SUN MI、JEOUNG NAM JOO、KIM HYUN SUK、JUNG EUN SOON"
         },
         {
-            "key": "広報支援",
-            "value": "金子美里"
+            "key": "录音工作室",
+            "value": "スタジオごんぐ"
         },
         {
-            "key": "プロダクションマネージャー",
-            "value": "JEONG DU YEOL、CHOI SUNG JIN"
+            "key": "音响制作担当",
+            "value": "杉山好美"
+        },
+        {
+            "key": "企画协力",
+            "value": "博報堂"
+        },
+        {
+            "key": "副制片人",
+            "value": "アソシエイトプロデューサー：池田東陽"
         }
     ],
-    "update_at": "2025-01-22T00:06:33"
+    "update_at": "2026-01-04T13:21:34"
 }
