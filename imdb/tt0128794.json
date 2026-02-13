@@ -4,7 +4,10 @@
     "name": "Trial by Jury",
     "site": "imdb",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Comedy",
+        "Musical"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0123239/",
@@ -44,11 +47,11 @@
     ],
     "duration": "PT32M",
     "keywords": [
-        "courtroom stageplay",
         "courtroom",
         "court",
         "trial by jury",
-        "jury"
+        "jury",
+        "trial"
     ],
     "directors": [
         {
@@ -66,5 +69,5 @@
     "contentRating": null,
     "datePublished": null,
     "imdb_rating_average": 0,
-    "update_at": "2025-07-14T18:35:09"
+    "update_at": "2026-02-12T22:42:36"
 }
