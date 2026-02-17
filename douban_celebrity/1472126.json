@@ -4,7 +4,8 @@
     "site": "douban_celebrity",
     "roles": [
         "演员",
-        "配音"
+        "配音",
+        "音乐人"
     ],
     "awards": [],
     "gender": "",
@@ -16,11 +17,18 @@
     "birth_place": "",
     "last_movies": [
         {
+            "id": 38236716,
+            "year": "2026",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Corrida dos Bichos",
+            "release": 0
+        },
+        {
             "id": 37219043,
             "year": "2025",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2919088661.jpg",
             "title": "从里约女孩到巴西天后：阿妮塔的星路历程",
-            "release": 0
+            "release": 1
         },
         {
             "id": 36977423,
@@ -75,5 +83,5 @@
     "personage_link": "https://www.douban.com/personage/35907703/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-02-20T01:00:34"
+    "update_at": "2026-02-16T08:35:43"
 }
