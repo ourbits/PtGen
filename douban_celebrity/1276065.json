@@ -1,9 +1,10 @@
 {
-    "sid": 1276065,
+    "sid": "1276065",
     "name": "大政绚",
     "site": "douban_celebrity",
     "roles": [
-        "演员"
+        "演员",
+        "作者"
     ],
     "awards": [],
     "gender": "女",
@@ -15,104 +16,74 @@
     "birth_place": "日本,北海道,龙川",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36803531/",
+            "id": 36803531,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908318177.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "芸芸众生",
-            "subject_id": "36803531"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/36171210/",
+            "id": 36171210,
             "year": "2023",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2890232527.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "正义的天秤 第二季",
-            "subject_id": "36171210"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35789196/",
+            "id": 35789196,
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2887008400.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "理想男友",
-            "subject_id": "35789196"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35544087/",
+            "id": 35544087,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2869020450.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "正义的天秤",
-            "subject_id": "35544087"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35419428/",
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2643194153.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "独酌亦可!",
-            "subject_id": "35419428"
-        },
-        {
-            "url": "https://movie.douban.com/subject/35529430/",
+            "id": 35529430,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2672953201.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "にちようびのはつみみがく",
-            "subject_id": "35529430"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/35342028/",
+            "id": 35419428,
+            "year": "2021",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2643194153.jpg",
+            "title": "独酌亦可!",
+            "release": 1
+        },
+        {
+            "id": 35342028,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2631506865.jpg",
-            "roles": [
-                "演员"
-            ],
             "title": "SPECサーガ黎明篇『Knockin’on 冷泉’s SPEC Door』～絶対預言者 冷泉俊明が守りたかった幸福の欠片",
-            "subject_id": "35342028"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30446789/",
+            "id": 30446789,
             "year": "2019",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2621470859.jpg",
-            "roles": [
-                "演员 (饰 水岛树里)"
-            ],
             "title": "女人们的秘密",
-            "subject_id": "30446789"
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/30258181/",
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2544831778.jpg",
-            "roles": [
-                "演员 (饰 大岛兰)"
-            ],
-            "title": "三日月",
-            "subject_id": "30258181"
-        },
-        {
-            "url": "https://movie.douban.com/subject/30265460/",
+            "id": 30265460,
             "year": "2018",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537556891.jpg",
-            "roles": [
-                "演员 (饰 美代吉)"
-            ],
             "title": "昭和元禄落语心中",
-            "subject_id": "30265460"
+            "release": 1
+        },
+        {
+            "id": 30258181,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2544831778.jpg",
+            "title": "三日月",
+            "release": 1
         }
     ],
     "introduction": "演员，模特。隶属于Stardust Promotion事务所。2015年4月10日，出演电视剧《献给阿尔吉侬的花束》，饰演小出舞。",
@@ -125,5 +96,5 @@
     "name_more_other": [
         "大政絢"
     ],
-    "update_at": "2025-01-18T21:28:11"
+    "update_at": "2026-03-09T07:49:52"
 }
