@@ -4,7 +4,9 @@
     "site": "douban_celebrity",
     "roles": [
         "音乐人",
-        "演员"
+        "演员",
+        "导演",
+        "编剧"
     ],
     "awards": [],
     "gender": "男",
@@ -15,6 +17,13 @@
     "birth_date": "1995年12月21日",
     "birth_place": "韩国",
     "last_movies": [
+        {
+            "id": 37488340,
+            "year": "2024",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2924465286.jpg",
+            "title": "Gorre Puranam",
+            "release": 1
+        },
         {
             "id": 36955559,
             "year": "2024",
@@ -39,8 +48,8 @@
         {
             "id": 36134156,
             "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885730378.jpg",
-            "title": "Boys Planet",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2885580038.jpg",
+            "title": "少年星球",
             "release": 1
         },
         {
@@ -55,13 +64,6 @@
             "year": "2022",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2869971968.jpg",
             "title": "iKON ON AIR",
-            "release": 1
-        },
-        {
-            "id": 35604637,
-            "year": "2020",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2685741223.jpg",
-            "title": "iLOGU2 iKON篇",
             "release": 1
         },
         {
@@ -118,5 +120,5 @@
         "김지원",
         " Kim Ji Won"
     ],
-    "update_at": "2025-02-08T17:01:09"
+    "update_at": "2026-03-21T20:21:43"
 }
