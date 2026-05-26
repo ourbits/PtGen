@@ -8,13 +8,13 @@ If you want to use all archive for other purposes, We recommend you use `Downloa
 
 ## Update Status
 
-- Last update at: `2026-05-25 03:05:02` (CET, UTC+01:00)
+- Last update at: `2026-05-26 03:05:03` (CET, UTC+01:00)
 - Last data summary:
 
 | Source Site | Count |
 |:----:|----:|
-| douban | 489908 |
-| douban_celebrity | 472933 |
+| douban | 490025 |
+| douban_celebrity | 473009 |
 | imdb | 387172 |
 | bangumi | 8696 |
 | steam | 1419 |
