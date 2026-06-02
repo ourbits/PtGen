@@ -4,7 +4,8 @@
     "site": "douban_celebrity",
     "roles": [
         "导演",
-        "编剧"
+        "编剧",
+        "配音"
     ],
     "awards": [],
     "gender": "女",
@@ -15,6 +16,13 @@
     "birth_date": "1943年",
     "birth_place": "美国,洛杉矶",
     "last_movies": [
+        {
+            "id": 35351113,
+            "year": "1971",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2632035926.jpg",
+            "title": "Crocus",
+            "release": 1
+        },
         {
             "id": 34925231,
             "year": "1971",
@@ -67,7 +75,7 @@
         {
             "id": 1861162,
             "year": "1979",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518845616.jpg",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2423278045.jpg",
             "title": "芦笋",
             "release": 1
         },
@@ -85,9 +93,14 @@
     "family_member": [],
     "celebrity_link": "https://movie.douban.com/celebrity/1319027",
     "personage_link": "https://www.douban.com/personage/27491578/",
-    "property_other": [],
+    "property_other": [
+        {
+            "label": "去世日期",
+            "value": "2019年6月16日"
+        }
+    ],
     "name_more_other": [
         "Suzan Pitt-Kraning"
     ],
-    "update_at": "2025-06-10T02:11:44"
+    "update_at": "2026-06-01T08:42:51"
 }
