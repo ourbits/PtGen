@@ -4,7 +4,9 @@
     "site": "douban_celebrity",
     "roles": [
         "音乐人",
-        "演员"
+        "演员",
+        "配音",
+        "制片人"
     ],
     "awards": [],
     "gender": "",
@@ -16,10 +18,31 @@
     "birth_place": "英国,英格兰,西约克郡",
     "last_movies": [
         {
+            "id": 38214017,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2929210486.jpg",
+            "title": "Amazon Music Live Season 2",
+            "release": 1
+        },
+        {
+            "id": 37727018,
+            "year": "2025",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2926990329.jpg",
+            "title": "艾德·希兰：一镜到底",
+            "release": 1
+        },
+        {
+            "id": 37661892,
+            "year": "2025",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2928055126.jpg",
+            "title": "泰勒·斯威夫特：时代巡回演唱会，一个时代的结束",
+            "release": 1
+        },
+        {
             "id": 37109419,
             "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915193808.jpg",
-            "title": "安德烈·波切利：庆祝30周年",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2919904386.jpg",
+            "title": "传奇30载：安德烈·波切利纪念演唱会",
             "release": 1
         },
         {
@@ -44,31 +67,10 @@
             "release": 1
         },
         {
-            "id": 35819430,
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2870648836.jpg",
-            "title": "肥伦今夜秀 第九季",
-            "release": 1
-        },
-        {
-            "id": 35772910,
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2868371843.jpg",
-            "title": "吉米·坎摩尔直播秀 第二十季",
-            "release": 1
-        },
-        {
             "id": 35641750,
             "year": "2021",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2726409920.jpg",
             "title": "周六夜现场：基南·卡尔金/艾德·希兰",
-            "release": 1
-        },
-        {
-            "id": 35609310,
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2687072221.jpg",
-            "title": "Global Citizen Live Festival",
             "release": 1
         },
         {
@@ -79,10 +81,10 @@
             "release": 1
         },
         {
-            "id": 22265687,
-            "year": "2019",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2575456458.jpg",
-            "title": "星球大战9：天行者崛起",
+            "id": 26817136,
+            "year": "2025",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2926605350.jpg",
+            "title": "疯狂动物城2",
             "release": 1
         }
     ],
@@ -114,5 +116,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-02-11T03:33:47"
+    "update_at": "2026-08-14T23:42:58"
 }
