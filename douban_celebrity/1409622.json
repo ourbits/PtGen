@@ -4,6 +4,7 @@
     "site": "douban_celebrity",
     "roles": [
         "演员",
+        "配音",
         "音乐人"
     ],
     "awards": [],
@@ -15,6 +16,13 @@
     "birth_date": "1955年12月5日",
     "birth_place": "日本,鸟取县,米子市",
     "last_movies": [
+        {
+            "id": 37872188,
+            "year": "1997",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "噂の伝次郎",
+            "release": 1
+        },
         {
             "id": 35134299,
             "year": "1987",
@@ -39,8 +47,15 @@
         {
             "id": 3778152,
             "year": "1996",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893135126.jpg",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2929241735.jpg",
             "title": "3号桌的客人",
+            "release": 1
+        },
+        {
+            "id": 3244748,
+            "year": "2004",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2374737201.jpg",
+            "title": "名侦探波洛和马普尔小姐",
             "release": 1
         }
     ],
@@ -68,5 +83,5 @@
     "name_more_other": [
         "Miyuki Kawanaka"
     ],
-    "update_at": "2025-10-23T18:42:30"
+    "update_at": "2026-08-24T02:56:49"
 }
