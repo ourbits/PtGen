@@ -4,13 +4,13 @@
     "site": "douban_celebrity",
     "roles": [
         "演员",
-        "编剧",
-        "导演"
+        "导演",
+        "编剧"
     ],
     "awards": [
-        "2022年 第75届戛纳电影节 主竞赛单元 金棕榈奖 (提名) 杏仁剧院",
-        "2021年 第46届法国凯撒电影奖 最佳女配角 (提名) 85年盛夏",
-        "2020年 第65届意大利大卫奖 最佳女主角 (提名) 度过盛夏"
+        "2026年 第38届欧洲电影奖 最佳女主角 (提名) 杜塞",
+        "2025年 第70届意大利大卫奖 最佳女配角 欢愉的艺术",
+        "2022年 第75届戛纳电影节 主竞赛单元 金棕榈奖 (提名) 杏仁剧院"
     ],
     "gender": "女",
     "poster": "https://img1.doubanio.com/view/celebrity/m/public/p51981.jpg",
@@ -21,25 +21,67 @@
     "birth_place": "意大利,都灵",
     "last_movies": [
         {
+            "id": 38598704,
+            "year": "2028",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "La dispute",
+            "release": 0
+        },
+        {
+            "id": 38544242,
+            "year": "2026",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Un jeu dangereux",
+            "release": 0
+        },
+        {
+            "id": 38424006,
+            "year": "2028",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Un piccolo mondo nuovo",
+            "release": 0
+        },
+        {
+            "id": 37854694,
+            "year": "2026",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2928557281.jpg",
+            "title": "平凡的莱昂纳多",
+            "release": 0
+        },
+        {
+            "id": 37570208,
+            "year": "2027",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "诊疗室的谋杀",
+            "release": 0
+        },
+        {
+            "id": 37433925,
+            "year": "2027",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2928095241.jpg",
+            "title": "7年之约",
+            "release": 0
+        },
+        {
             "id": 37069495,
             "year": "2025",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2923315329.jpg",
             "title": "五秒钟",
-            "release": 0
+            "release": 1
         },
         {
             "id": 37047115,
             "year": "2025",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
-            "title": "Chien 51",
-            "release": 0
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2928844173.jpg",
+            "title": "追杀51号",
+            "release": 1
         },
         {
-            "id": 36879633,
+            "id": 36809537,
             "year": "2025",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
-            "title": "欢愉的艺术",
-            "release": 0
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2923926500.jpg",
+            "title": "杜塞",
+            "release": 1
         },
         {
             "id": 36728445,
@@ -52,7 +94,7 @@
             "id": 36520168,
             "year": "2024",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2917449250.jpg",
-            "title": "亲密",
+            "title": "我们的羁绊",
             "release": 1
         },
         {
@@ -77,38 +119,24 @@
             "release": 1
         },
         {
-            "id": 36219826,
-            "year": "2022",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2886827174.jpg",
-            "title": "从日出到日落",
-            "release": 1
-        },
-        {
             "id": 36208132,
             "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2915230131.jpg",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2919055039.jpg",
             "title": "我保证",
             "release": 1
         },
         {
+            "id": 36193150,
+            "year": "2026",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2933812123.jpg",
+            "title": "不速之母",
+            "release": 0
+        },
+        {
             "id": 36186396,
             "year": "2024",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908506924.jpg",
-            "title": "快乐的艺术",
-            "release": 1
-        },
-        {
-            "id": 35868303,
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908410514.jpg",
-            "title": "我告诉过你",
-            "release": 1
-        },
-        {
-            "id": 30465755,
-            "year": "2021",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2801038893.jpg",
-            "title": "卧底",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2920817917.jpg",
+            "title": "欢愉的艺术",
             "release": 1
         }
     ],
@@ -127,5 +155,5 @@
         "Valeria Bruni-Tedeschi",
         "Valéria Bruni-Tedeschi"
     ],
-    "update_at": "2025-02-02T05:36:08"
+    "update_at": "2026-08-31T04:56:56"
 }
