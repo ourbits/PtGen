@@ -149,7 +149,7 @@
             "id": 10956,
             "name": "ナレーション",
             "actors": [],
-            "relation": ""
+            "relation": "旁白"
         }
     ],
     "date": "2019-06-14",
@@ -214,6 +214,18 @@
             "value": "渡辺直樹"
         },
         {
+            "key": "主题歌编曲",
+            "value": "宮崎誠"
+        },
+        {
+            "key": "主题歌作曲",
+            "value": "影山ヒロノブ"
+        },
+        {
+            "key": "主题歌作词",
+            "value": "影山ヒロノブ"
+        },
+        {
             "key": "主题歌演出",
             "value": "JAM Project"
         },
@@ -252,34 +264,38 @@
         {
             "key": "美术设计",
             "value": "中村典史"
+        },
+        {
+            "key": "3DCG",
+            "value": "山本直輝"
         }
     ],
     "story": "西暦２６６１年、地球。\n人類と魔族の統一政府による統治が続く中、\n新たな組織が不穏な胎動を始めていた。\n\nそのひずみは各地に広がり、\nかつて馬神弾と共に世界を救うために戦った\n仲間たちにも届きだしていた…。\n\n馬神弾が地球を救い、光となってから１０年。\n果たして〝平和〟はもたらされたのか、それとも。\nバトルスピリッツは新たな歴史を刻み始める。",
     "rating": {
-        "rank": 1552,
+        "rank": 1852,
         "count": {
             "1": 0,
             "2": 0,
             "3": 0,
             "4": 0,
-            "5": 1,
-            "6": 10,
-            "7": 27,
-            "8": 23,
+            "5": 2,
+            "6": 15,
+            "7": 32,
+            "8": 25,
             "9": 6,
             "10": 1
         },
-        "score": 7.4,
-        "total": 68
+        "score": 7.3,
+        "total": 81
     },
     "name_cn": "战斗之魂 Saga Brave",
     "platform": "WEB",
     "collection": {
         "wish": 41,
         "doing": 5,
-        "collect": 94,
-        "dropped": 13,
-        "on_hold": 1
+        "collect": 117,
+        "dropped": 14,
+        "on_hold": 4
     },
     "infobox_other": [
         {
@@ -288,7 +304,7 @@
         },
         {
             "key": "官方网站",
-            "value": "http://www.bn-pictures.co.jp/battlespirits"
+            "value": "https://www.bn-pictures.co.jp/battlespirits/Saga-Brave/"
         },
         {
             "key": "播放电视台",
@@ -303,5 +319,5 @@
             "value": "© BNP"
         }
     ],
-    "update_at": "2025-06-23T22:21:08"
+    "update_at": "2026-09-04T07:14:42"
 }

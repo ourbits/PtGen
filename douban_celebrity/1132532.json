@@ -4,7 +4,8 @@
     "site": "douban_celebrity",
     "roles": [
         "演员",
-        "导演"
+        "导演",
+        "编剧"
     ],
     "awards": [],
     "gender": "",
@@ -15,6 +16,13 @@
     "birth_date": "1960年12月24日",
     "birth_place": "瑞典,Västergötland,Nödinge",
     "last_movies": [
+        {
+            "id": 38233212,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Bunden",
+            "release": 1
+        },
         {
             "id": 19970506,
             "year": "2011",
@@ -34,13 +42,6 @@
             "year": "2001",
             "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "En ängels tålamod",
-            "release": 1
-        },
-        {
-            "id": 5110181,
-            "year": "1996",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
-            "title": "Vänner och fiender",
             "release": 1
         },
         {
@@ -81,7 +82,7 @@
         {
             "id": 1466274,
             "year": "2001",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2170600910.jpg",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2920240028.jpg",
             "title": "马丁之歌",
             "release": 1
         }
@@ -96,5 +97,5 @@
     "name_more_other": [
         "Leif Göran Christer Parkrud (本名)"
     ],
-    "update_at": "2025-02-18T17:42:38"
+    "update_at": "2026-09-05T00:49:59"
 }
