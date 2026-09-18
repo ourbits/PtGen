@@ -3,11 +3,15 @@
     "name": " 张俊焕",
     "site": "douban_celebrity",
     "roles": [
-        "编剧",
         "导演",
+        "编剧",
         "演员"
     ],
-    "awards": [],
+    "awards": [
+        "2026年 第30届金卫星奖 电影部门 最佳改编剧本 (提名) 拯救地球",
+        "2018年 第39届韩国电影青龙奖 最佳导演 (提名)",
+        "2003年 第24届韩国电影青龙奖 最佳新人导演 拯救地球！"
+    ],
     "gender": "男",
     "poster": "https://img1.doubanio.com/view/celebrity/m/public/p1352866213.04.jpg",
     "imdb_id": "nm2287741",
@@ -17,11 +21,18 @@
     "birth_place": "韩国",
     "last_movies": [
         {
+            "id": 38546992,
+            "year": "2027",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2933941259.jpg",
+            "title": "致你",
+            "release": 0
+        },
+        {
             "id": 35064920,
             "year": "2025",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2919796513.jpg",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2924712669.jpg",
             "title": "拯救地球",
-            "release": 0
+            "release": 1
         },
         {
             "id": 30172517,
@@ -73,13 +84,6 @@
             "release": 1
         },
         {
-            "id": 1305584,
-            "year": "1997",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2453201079.jpg",
-            "title": "仙人掌旅馆",
-            "release": 1
-        },
-        {
             "id": 1303252,
             "year": "2003",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2592605067.jpg",
@@ -108,5 +112,5 @@
     "name_more_other": [
         "장준환"
     ],
-    "update_at": "2025-07-04T22:44:14"
+    "update_at": "2026-09-17T06:00:36"
 }
