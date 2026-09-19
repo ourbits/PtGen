@@ -1,5 +1,5 @@
 {
-    "sid": 1216185,
+    "sid": "1216185",
     "name": "David Brown",
     "site": "douban_celebrity",
     "roles": [
@@ -15,24 +15,25 @@
     "birth_place": "美国,纽约",
     "last_movies": [
         {
-            "url": "https://movie.douban.com/subject/36301653/",
-            "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2891482250.jpg",
-            "roles": [
-                "演员"
-            ],
-            "title": "陪审义务",
-            "subject_id": "36301653"
+            "id": 36880045,
+            "year": "2026",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2934286183.jpg",
+            "title": "酸鱼苗",
+            "release": 1
         },
         {
-            "url": "https://movie.douban.com/subject/3768073/",
+            "id": 36301653,
+            "year": "2023",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2891482250.jpg",
+            "title": "陪审义务",
+            "release": 1
+        },
+        {
+            "id": 3768073,
             "year": "1990",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_large.png",
-            "roles": [
-                "演员 - 自己"
-            ],
+            "cover": "https://asset.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Billy Joel: Live at Yankee Stadium",
-            "subject_id": "3768073"
+            "release": 1
         }
     ],
     "introduction": "暂无",
@@ -43,5 +44,5 @@
     "personage_link": "https://www.douban.com/personage/27422155/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-01-19T13:14:20"
+    "update_at": "2026-09-18T13:56:39"
 }
