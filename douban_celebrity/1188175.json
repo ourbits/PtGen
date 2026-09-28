@@ -4,7 +4,8 @@
     "site": "douban_celebrity",
     "roles": [
         "演员",
-        "配音"
+        "配音",
+        "作者"
     ],
     "awards": [],
     "gender": "女",
@@ -15,6 +16,13 @@
     "birth_date": "1985年4月12日",
     "birth_place": "日本,三好",
     "last_movies": [
+        {
+            "id": 38612245,
+            "year": "1994",
+            "cover": "https://asset.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "八神君的家庭事件",
+            "release": 1
+        },
         {
             "id": 30174778,
             "year": "2018",
@@ -60,7 +68,7 @@
         {
             "id": 2224212,
             "year": "2007",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "cover": "https://asset.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "新幹線ガール",
             "release": 1
         }
@@ -80,5 +88,5 @@
         "吉澤瞳",
         "吉澤ひとみ"
     ],
-    "update_at": "2025-04-12T05:01:05"
+    "update_at": "2026-09-26T21:28:31"
 }
