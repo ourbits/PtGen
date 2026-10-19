@@ -1,54 +1,69 @@
 {
     "aka": [],
     "sid": "tt0441104",
-    "name": "L&apos;amour de loin",
+    "name": "L'amour de loin",
     "site": "imdb",
     "year": "2004",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
-        "Music",
         "Drama",
+        "Music",
         "Romance"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0881471/",
-            "name": "Dawn Upshaw"
+            "name": "Dawn Upshaw",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1817286/",
-            "name": "Monica Groop"
+            "name": "Monica Groop",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0278037/",
-            "name": "Gerald Finley"
+            "name": "Gerald Finley",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/PH25bxqXRf24bhd04y75tdPBTq.jpg",
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Dawn Upshaw",
+            "Monica Groop",
+            "Gerald Finley"
+        ],
+        "Genres": [
+            "Drama",
+            "Music",
+            "Romance"
+        ],
+        "Writer": [
+            "Amin Maalouf"
+        ],
+        "Runtime": [
+            "139 min"
+        ],
+        "Director": [
+            "Peter Sellars"
         ],
         "Release date": [
-            "December 30, 2004 (Finland)"
-        ],
-        "Also known as": [
-            "L'amour de loin - Avlägsen kärlek"
-        ],
-        "Country of origin": [
-            "Finland"
+            "2004-12-30"
         ],
         "Production companies": [
-            "Finlands Nationalopera",
-            "Yleisradio (YLE)"
+            "Deutsche Grammophon",
+            "Suomen Kansallisooppera ja -baletti"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1818205/",
-            "name": "Amin Maalouf"
+            "name": "Amin Maalouf",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H19M",
@@ -58,18 +73,25 @@
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0783299/",
-            "name": "Peter Sellars"
+            "name": "Peter Sellars",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0441104/",
     "metascore": null,
     "imdb_votes": 16,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "8.4/10 from 16 users",
-    "release_date": [],
+    "description": "This is the 2004 version of Kaija Saariaho's opera performed by the Finnish National Opera and conducted by Esa-Pekka Salonen.",
+    "imdb_rating": "8.2/10 from 16 users",
+    "release_date": [
+        {
+            "date": "2004-12-30",
+            "country": "Finland"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2004-12-30",
-    "imdb_rating_average": 8.4,
-    "update_at": "2025-10-07T19:35:14"
+    "original_title": "L'amour de loin",
+    "imdb_rating_average": 8.2,
+    "update_at": "2026-10-19T00:14:12"
 }

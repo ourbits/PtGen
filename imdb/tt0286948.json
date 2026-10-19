@@ -4,67 +4,90 @@
     "name": "Sea Monsters: Search for the Giant Squid",
     "site": "imdb",
     "year": "1998",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0005078/",
-            "name": "Stacy Keach"
+            "name": "Stacy Keach",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4OTMwMDQyNF5BMl5BanBnXkFtZTcwNzE2MjUwNA@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/yA9daS1WMh5MeOreDTauAovEK6Z.jpg",
     "details": {
+        "Stars": [
+            "Stacy Keach"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Writer": [
+            "Kevin McCarey"
+        ],
+        "Runtime": [
+            "55 min"
+        ],
+        "Director": [
+            "Kevin McCarey",
+            "John Rubin"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "February 25, 1998 (United States)"
+            "1998-02-25"
         ],
-        "Production company": [
-            "National Geographic Television"
-        ],
-        "Countries of origin": [
-            "Canada",
-            "United States"
+        "Production companies": [
+            "National Geographic Films",
+            "National Geographic"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0564969/",
-            "name": "Kevin McCarey"
+            "name": "Kevin McCarey",
+            "@type": "Person"
         }
     ],
     "duration": "PT55M",
     "keywords": [
-        "giant squid",
-        "architeuthis",
-        "whale",
-        "camera",
-        "marine biology"
+        "animals",
+        "giant  squid",
+        "whales",
+        "sea animals"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0564969/",
-            "name": "Kevin McCarey"
+            "name": "Kevin McCarey",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0999530/",
-            "name": "John Rubin"
+            "name": "John Rubin",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0286948/",
     "metascore": null,
-    "imdb_votes": 42,
+    "imdb_votes": 44,
     "popularity": 0,
     "description": "The scientific search for the elusive giant squid.",
-    "imdb_rating": "6.9/10 from 42 users",
-    "release_date": [],
+    "imdb_rating": "6.9/10 from 44 users",
+    "release_date": [
+        {
+            "date": "1998-02-25",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1998-02-25",
+    "original_title": "Sea Monsters: Search for the Giant Squid",
     "imdb_rating_average": 6.9,
-    "update_at": "2025-08-19T20:49:13"
+    "update_at": "2026-10-18T14:35:43"
 }

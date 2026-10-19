@@ -4,7 +4,7 @@
     "name": "Smak czekolady",
     "site": "imdb",
     "year": "1986",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "War"
@@ -12,68 +12,131 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0118840/",
-            "name": "Zbigniew Buczkowski"
+            "name": "Zbigniew Buczkowski",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2969651/",
-            "name": "Andrzej Downarowicz"
+            "name": "Andrzej Downarowicz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0237390/",
-            "name": "Ryszard Dreger"
+            "name": "Ryszard Dreger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1263509/",
+            "name": "Józef Grzeszczak",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1272000/",
+            "name": "Ewa Maria Hesse",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1747654/",
+            "name": "Piotr Jachowicz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2967682/",
+            "name": "Mariusz Jankowski",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1670211/",
+            "name": "Kazimierz Jaworski",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2969673/",
+            "name": "Piotr Kielbasinski",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0586691/",
+            "name": "Hanna Mikuc",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmY1NzNkODctMTMyZC00ZGMzLTkzYzktYjA1YjY0OGM5YmJkXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Zbigniew Buczkowski",
+            "Andrzej Downarowicz",
+            "Ryszard Dreger"
+        ],
+        "Genres": [
+            "Drama",
+            "War"
+        ],
+        "Writer": [
+            "Pawel Karpinski",
+            "Wlodzimierz Kuligowski",
+            "Marek Nowakowski"
+        ],
+        "Runtime": [
+            "35 min"
+        ],
+        "Director": [
+            "Pawel Karpinski"
+        ],
         "Language": [
             "Polish"
         ],
         "Release date": [
-            "October 22, 1986 (Poland)"
+            "1986-10-22"
         ],
         "Country of origin": [
             "Poland"
-        ],
-        "Production company": [
-            "Wytwórnia Filmów Oswiatowych"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0440006/",
-            "name": "Pawel Karpinski"
+            "name": "Pawel Karpinski",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1749078/",
-            "name": "Wlodzimierz Kuligowski"
+            "name": "Wlodzimierz Kuligowski",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2963069/",
-            "name": "Marek Nowakowski"
+            "name": "Marek Nowakowski",
+            "@type": "Person"
         }
     ],
     "duration": "PT35M",
-    "keywords": [
-        "world war two",
-        "nazi occupied poland"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0440006/",
-            "name": "Pawel Karpinski"
+            "name": "Pawel Karpinski",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0430605/",
     "metascore": null,
-    "imdb_votes": 9,
+    "imdb_votes": 11,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "6/10 from 9 users",
-    "release_date": [],
+    "description": "The action takes place in occupied Poland during World War II. Ewa moves into the tenement house where 12-year-old Filip lives. Since she meets the Germans, the inhabitants of the tenement house avoid her. Filip, on the orders of \"Gypsy\", who follows Ewa, starts visiting her and tells \"Gypsy\" about these visits. Soon a friendship is born between him and the girl.",
+    "imdb_rating": "5.6/10 from 11 users",
+    "release_date": [
+        {
+            "date": "1986-10-22",
+            "country": "Poland"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1986-10-22",
-    "imdb_rating_average": 6,
-    "update_at": "2025-04-26T22:08:37"
+    "original_title": "Smak czekolady",
+    "imdb_rating_average": 5.6,
+    "update_at": "2026-10-18T18:35:07"
 }

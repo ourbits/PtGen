@@ -4,79 +4,142 @@
     "name": "Hard Knox",
     "site": "imdb",
     "year": "2001",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
-        "Comedy",
-        "Action"
+        "Action",
+        "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0671982/",
-            "name": "Kim Penn"
+            "name": "Kim Penn",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0129248/",
-            "name": "Thomas Calabro"
+            "name": "Thomas Calabro",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0413238/",
-            "name": "Natalie Mendoza"
+            "name": "Natalie Mendoza",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0130136/",
+            "name": "Jeremy Callaghan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0450274/",
+            "name": "Simone Kessell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0159046/",
+            "name": "Jason Chong",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0842251/",
+            "name": "Gary Sweet",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000516/",
+            "name": "Lee Majors",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1148079/",
+            "name": "Marky Lee Campbell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0476736/",
+            "name": "Alex Kuzelicki",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTEwN2IxZGEtM2ZhYy00Mzg2LTkxM2ItM2YzNjE0ZTVlZmFmXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/j8QALs61i2bGwVVGEWG9MvPRoPR.jpg",
     "details": {
+        "Stars": [
+            "Kim Penn",
+            "Thomas Calabro",
+            "Natalie Mendoza"
+        ],
+        "Genres": [
+            "Action",
+            "Comedy"
+        ],
+        "Writer": [
+            "Steve Worland",
+            "John Edwards"
+        ],
+        "Runtime": [
+            "82 min"
+        ],
+        "Director": [
+            "Peter Bloomfield"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "June 16, 2001 (Australia)"
-        ],
-        "Also known as": [
-            "Nicky, détective de choc"
+            "2001-06-16"
         ],
         "Country of origin": [
-            "Australia"
-        ],
-        "Filming locations": [
-            "Sydney, New South Wales, Australia"
+            "Australia",
+            "United States of America"
         ],
         "Production companies": [
-            "Australian Film Finance Corporation (AFFC)",
+            "Coote Hayes Productions",
             "Southern Star Entertainment",
-            "Coote Hayes Productions"
+            "Australian Film Finance Corporation",
+            "New Line Cinema"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": "An exciting 22-episode action hour that is sure to knock you out!",
     "creators": [
         {
-            "url": "https://www.imdb.com/name/nm0250108/",
-            "name": "John Edwards"
+            "url": "https://www.imdb.com/name/nm0941489/",
+            "name": "Steve Worland",
+            "@type": "Person"
         },
         {
-            "url": "https://www.imdb.com/name/nm0941489/",
-            "name": "Steve Worland"
+            "url": "https://www.imdb.com/name/nm0250108/",
+            "name": "John Edwards",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H22M",
     "keywords": [
-        ""
+        "regurgitator"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0089283/",
-            "name": "Peter Bloomfield"
+            "name": "Peter Bloomfield",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0288038/",
     "metascore": null,
-    "imdb_votes": 89,
+    "imdb_votes": 92,
     "popularity": 0,
-    "description": "Niki Knox runs a security firm, and along with her wisecracking partner must stop a villain from activating a set of ancient gems that give him special powers.",
-    "imdb_rating": "5.7/10 from 89 users",
-    "release_date": [],
+    "description": "Niki Knox must stop an evil villain from stealing a gemstone which would help him obtain magical powers.",
+    "imdb_rating": "5.7/10 from 92 users",
+    "release_date": [
+        {
+            "date": "2001-06-16",
+            "country": "Australia"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2001-06-16",
+    "original_title": "Hard Knox",
     "imdb_rating_average": 5.7,
-    "update_at": "2025-06-19T23:56:10"
+    "update_at": "2026-10-19T01:07:13"
 }

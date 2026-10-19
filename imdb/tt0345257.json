@@ -4,7 +4,7 @@
     "name": "Fotostar",
     "site": "imdb",
     "year": "2003",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Comedy",
         "Romance",
@@ -13,25 +13,62 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0937373/",
-            "name": "Jens Woggon"
+            "name": "Jens Woggon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0551764/",
-            "name": "Beat Marti"
+            "name": "Beat Marti",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1203686/",
-            "name": "Leonardo Nigro"
+            "name": "Leonardo Nigro",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1903301/",
+            "name": "Jürg Plüss",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2024882/",
+            "name": "Catharina Joss",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4760401/",
+            "name": "Bartosz Kolonko",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzBlNjlkNzAtMzlmZi00OTFkLThkMDgtYmQ1ODRjNjM2NDViXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/cgAXmxp6eKrdPv9LhN7W53kGss5.jpg",
     "details": {
+        "Stars": [
+            "Jens Woggon",
+            "Beat Marti",
+            "Leonardo Nigro"
+        ],
+        "Genres": [
+            "Comedy",
+            "Romance",
+            "Short"
+        ],
+        "Writer": [
+            "Michele Andina"
+        ],
+        "Runtime": [
+            "16 min"
+        ],
+        "Director": [
+            "Michele Andina"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "June 7, 2003 (United States)"
+            "2003-06-07"
         ],
         "Country of origin": [
             "Switzerland"
@@ -41,36 +78,43 @@
             "Studienbereich Film"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1208553/",
-            "name": "Michele Andina"
+            "name": "Michele Andina",
+            "@type": "Person"
         }
     ],
     "duration": "PT16M",
     "keywords": [
-        "sexual fantasy",
-        "male fantasy",
-        "homosexual",
-        "gay",
-        "erotic fantasy"
+        "lgbt",
+        "gay theme",
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1208553/",
-            "name": "Michele Andina"
+            "name": "Michele Andina",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0345257/",
     "metascore": null,
-    "imdb_votes": 35,
+    "imdb_votes": 36,
     "popularity": 0,
     "description": "A young photo-lab assistant falls in love with a guy in a picture he develops.",
-    "imdb_rating": "6.5/10 from 35 users",
-    "release_date": [],
+    "imdb_rating": "6.4/10 from 36 users",
+    "release_date": [
+        {
+            "date": "2003-06-07",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2003-06-07",
-    "imdb_rating_average": 6.5,
-    "update_at": "2025-06-17T05:55:47"
+    "original_title": "Fotostar",
+    "imdb_rating_average": 6.4,
+    "update_at": "2026-10-19T02:07:26"
 }

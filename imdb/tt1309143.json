@@ -4,75 +4,93 @@
     "name": "Beneath the Sink",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Horror"
+        "Horror",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3165272/",
-            "name": "Zack Price"
+            "name": "Zack Price",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3165174/",
-            "name": "Ted Judd"
+            "name": "Ted Judd",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3165966/",
-            "name": "Michael LoSchiavo"
+            "name": "Michael LoSchiavo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3165205/",
+            "name": "Wesley Alan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3165132/",
+            "name": "Marcia Steiner",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Zack Price",
+            "Ted Judd",
+            "Michael LoSchiavo"
+        ],
+        "Genres": [
+            "Comedy",
+            "Horror",
+            "Short"
+        ],
+        "Writer": [
+            "Shane Houghton"
+        ],
+        "Runtime": [
+            "7 min"
+        ],
+        "Director": [
+            "Shane Houghton"
         ],
         "Release date": [
-            "October 7, 2007 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Tallahassee, Florida, USA"
-        ],
-        "Production company": [
-            "Florida State University School of Motion Picture, Television and Recording Arts"
+            "2007"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2795771/",
-            "name": "Shane Houghton"
+            "name": "Shane Houghton",
+            "@type": "Person"
         }
     ],
     "duration": "PT7M",
-    "keywords": [
-        "sewer",
-        "plumber",
-        "tentacle",
-        "mustache",
-        "monster"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2795771/",
-            "name": "Shane Houghton"
+            "name": "Shane Houghton",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1309143/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Everett Walsh, an over confident handyman, travels to the depths of a creepy sewer after being hired by a kooky cat-lady with a broken sink. Within the sewer, Everett discovers another plumber hired for the same job and Everett mu...",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2007-10-07",
+    "datePublished": "2007",
+    "original_title": "Beneath the Sink",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-22T02:52:13"
+    "update_at": "2026-10-19T02:28:13"
 }

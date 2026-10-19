@@ -4,67 +4,116 @@
     "name": "Home",
     "site": "imdb",
     "year": "2003",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0792029/",
-            "name": "Antony Sher"
+            "name": "Antony Sher",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0956126/",
-            "name": "Matilda Ziegler"
+            "name": "Matilda Ziegler",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0277525/",
-            "name": "Deborah Findlay"
+            "name": "Deborah Findlay",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0377844/",
+            "name": "Guy Henry",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0020717/",
+            "name": "Keith Allen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1368647/",
+            "name": "Simon Nagra",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmNhMWI3MWYtOGJlYS00OTNmLThiNjgtZDI2NWNmOGFjM2IzXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/d4VZ0CsJMtOPqKpILvMJYLSKDYs.jpg",
     "details": {
+        "Stars": [
+            "Antony Sher",
+            "Matilda Ziegler",
+            "Deborah Findlay"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "J.G. Ballard",
+            "Richard Curson Smith"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Richard Curson Smith"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "October 6, 2003 (United Kingdom)"
+            "2003-10-06"
         ],
         "Country of origin": [
             "United Kingdom"
+        ],
+        "Production companies": [
+            "BBC"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0050618/",
-            "name": "J.G. Ballard"
+            "name": "J.G. Ballard",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0193599/",
-            "name": "Richard Curson Smith"
+            "name": "Richard Curson Smith",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H",
     "keywords": [
-        ""
+        "ballardian"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0193599/",
-            "name": "Richard Curson Smith"
+            "name": "Richard Curson Smith",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0396641/",
     "metascore": null,
-    "imdb_votes": 117,
+    "imdb_votes": 123,
     "popularity": 0,
-    "description": "A disturbing, darkly comic tale of a man who attempts to sever all contact with the outside world, by simply staying at home. As Gerald Ballantyne rids himself of the surface clutter in his life he is lead to a startling discovery...",
-    "imdb_rating": "7/10 from 117 users",
-    "release_date": [],
+    "description": "The ostensibly calm and courteous Gerald Ballantyne lives in and embodies modern suburbia. But he is haunted by the memory of a recent car crash and hounded by his estranged wife and her demands for divorce. Slowly, a festering insanity takes over and unwilling to face the outside world he embarks on a lunatic experiment. Confining himself to his middle-class home, he eschews contact with others and survives entirely off 'food' which he can find in his house. Based on JG Ballard's The Enormous Space.",
+    "imdb_rating": "7.0/10 from 123 users",
+    "release_date": [
+        {
+            "date": "2003-10-06",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2003-10-06",
-    "imdb_rating_average": 7,
-    "update_at": "2025-06-24T07:13:07"
+    "original_title": "Home",
+    "imdb_rating_average": 7.0,
+    "update_at": "2026-10-18T17:28:26"
 }

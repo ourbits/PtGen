@@ -4,80 +4,134 @@
     "name": "The Greatest Gift",
     "site": "imdb",
     "year": "1974",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001229/",
-            "name": "Glenn Ford"
+            "name": "Glenn Ford",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0364915/",
-            "name": "Julie Harris"
+            "name": "Julie Harris",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0450130/",
-            "name": "Lance Kerwin"
+            "name": "Lance Kerwin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0950867/",
+            "name": "Harris Yulin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0879006/",
+            "name": "Charles Tyner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0339428/",
+            "name": "Dabbs Greer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0719164/",
+            "name": "Ken Renard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0912022/",
+            "name": "Cari Anne Warder",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0272459/",
+            "name": "J. Don Ferguson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0861747/",
+            "name": "Leslie Thorsen",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTM5Zjc5ZmUtYzUyNi00YzVhLTk4OTctNWM2MDk3OTc1NTUxXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/dzsPcVJcW11fHvZ3Zu0Hpef17dL.jpg",
     "details": {
+        "Stars": [
+            "Glenn Ford",
+            "Julie Harris",
+            "Lance Kerwin"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Jack Farris",
+            "Abby Mann"
+        ],
+        "Runtime": [
+            "100 min"
+        ],
+        "Director": [
+            "Boris Sagal"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 4, 1974 (United States)"
-        ],
-        "Also known as": [
-            "Najcenniejszy dar"
+            "1974-11-04"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Statesboro, Georgia, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Universal Television"
         ]
     },
-    "reviews": 7,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0268464/",
-            "name": "Jack Farris"
+            "name": "Jack Farris",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0542631/",
-            "name": "Abby Mann"
+            "name": "Abby Mann",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H40M",
-    "keywords": [
-        "preacher",
-        "religion",
-        "priest",
-        "pastor",
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0755963/",
-            "name": "Boris Sagal"
+            "name": "Boris Sagal",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0071581/",
     "metascore": null,
-    "imdb_votes": 96,
+    "imdb_votes": 103,
     "popularity": 0,
-    "description": "Reverend Holvak, a poor rural preacher in the 1940s, fights against stiff- necked church deacons and a violent, bullying sheriff while struggling to support his family.",
-    "imdb_rating": "7.4/10 from 96 users",
-    "release_date": [],
+    "description": "Reverend Holvak, a weak rural preacher from the 1940s, fights stiff-necked church deacons along with a violent, bullying sheriff whilst protecting his loved ones.",
+    "imdb_rating": "7.1/10 from 103 users",
+    "release_date": [
+        {
+            "date": "1974-11-04",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1974-11-04",
-    "imdb_rating_average": 7.4,
-    "update_at": "2026-04-23T01:49:26"
+    "original_title": "The Greatest Gift",
+    "imdb_rating_average": 7.1,
+    "update_at": "2026-10-19T01:35:06"
 }

@@ -3,64 +3,106 @@
     "sid": "tt1320399",
     "name": "Yappy Broads",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2009",
+    "@type": "TVShort",
     "genre": [
-        "Short",
         "Comedy",
+        "Short",
         "Talk-Show"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0085116/",
-            "name": "Tommy Blacha"
+            "name": "Tommy Blacha",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0233539/",
-            "name": "Larry Dorf"
+            "name": "Larry Dorf",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0247456/",
-            "name": "Earthquake"
+            "name": "Earthquake",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1689755/",
+            "name": "Shandi Finnessey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0821786/",
+            "name": "Dino Stamatopoulos",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3236209/",
+            "name": "Wilson Stiner",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDU4NjEwYzgtMDExMy00ZDNkLTk1NGItYzk0YmFiMTAzNTMyXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Tommy Blacha",
+            "Larry Dorf",
+            "Earthquake"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short",
+            "Talk-Show"
+        ],
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "Angela Ragan"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "2009 (United States)"
+            "2009-11-01"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
-            "Mad Cow Productions"
+        "Production companies": [
+            "Mad Cow Productions",
+            "Williams Street",
+            "Cartoon Network Productions"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT12M",
-    "keywords": [
-        "tv pilot",
-        "late night"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3190761/",
-            "name": "Angela Ragan"
+            "name": "Angela Ragan",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1320399/",
     "metascore": null,
-    "imdb_votes": 14,
+    "imdb_votes": 16,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "5.5/10 from 14 users",
-    "release_date": [],
+    "imdb_rating": "5.5/10 from 16 users",
+    "release_date": [
+        {
+            "date": "2009-11-01",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2009-11-01",
+    "original_title": "Yappy Broads",
     "imdb_rating_average": 5.5,
-    "update_at": "2025-04-27T13:01:11"
+    "update_at": "2026-10-18T17:56:06"
 }

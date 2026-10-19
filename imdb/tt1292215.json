@@ -4,76 +4,117 @@
     "name": "Den Helder",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2441158/",
-            "name": "Robert de Hoog"
+            "name": "Robert de Hoog",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1277923/",
-            "name": "Ward Weemhoff"
+            "name": "Ward Weemhoff",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0989495/",
-            "name": "Teun Kuilboer"
+            "name": "Teun Kuilboer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3140041/",
+            "name": "Markoesa Hamer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1759443/",
+            "name": "Guido Pollemans",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0393962/",
+            "name": "Damien Hope",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2974772/",
+            "name": "Gamze Tazim",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0887467/",
+            "name": "Ellis van Maarseveen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0857309/",
+            "name": "Luc Theeboom",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWIzNGQ5NDktZjhiZi00ODM3LWJhMWMtN2JjZDk5ODIyZmFhXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": null,
     "details": {
-        "Languages": [
-            "Dutch",
-            "English"
+        "Stars": [
+            "Robert de Hoog",
+            "Ward Weemhoff",
+            "Teun Kuilboer"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Maartje Pompe van Meerdervoort"
+        ],
+        "Runtime": [
+            "39 min"
+        ],
+        "Director": [
+            "Jorien van Nes"
+        ],
+        "Language": [
+            "Dutch"
         ],
         "Release date": [
-            "November 7, 2008 (Netherlands)"
-        ],
-        "Country of origin": [
-            "Netherlands"
-        ],
-        "Filming locations": [
-            "Café Danszing Skihut Odeklonje, Koningstraat 15/17, Den Helder, Noord-Holland, Netherlands"
-        ],
-        "Production companies": [
-            "IDTV Film",
-            "CoBo Fonds",
-            "Nederlands Filmfonds"
+            "2008-09-27"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2158355/",
-            "name": "Maartje Pompe van Meerdervoort"
+            "name": "Maartje Pompe van Meerdervoort",
+            "@type": "Person"
         }
     ],
     "duration": "PT39M",
-    "keywords": [
-        "prison",
-        "secret",
-        "navy",
-        "male nudity",
-        "gay"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0887548/",
-            "name": "Jorien van Nes"
+            "name": "Jorien van Nes",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1292215/",
     "metascore": null,
-    "imdb_votes": 50,
+    "imdb_votes": 52,
     "popularity": 0,
-    "description": "When Emiel returns home from prison he finds out the relationship with his brother has changed. Did they both become &quot;men&quot; ?",
-    "imdb_rating": "7.3/10 from 50 users",
-    "release_date": [],
+    "description": "Den Helder, just another town somewhere in the North of Holland. But today is not a day like all the others for Maarten and Emiel, the two sons of an ordinary family. Maarten has joined the Marines and is about to leave for Lebanon for a six-month mission. On the other hand, this is the very day when his brother Emiel is released from prison.",
+    "imdb_rating": "7.3/10 from 52 users",
+    "release_date": [
+        {
+            "date": "2008-09-27",
+            "country": "Netherlands"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2008-11-07",
+    "datePublished": "2008-09-27",
+    "original_title": "Den Helder",
     "imdb_rating_average": 7.3,
-    "update_at": "2025-06-19T12:43:29"
+    "update_at": "2026-10-18T14:07:50"
 }

@@ -4,7 +4,7 @@
     "name": "Évasion",
     "site": "imdb",
     "year": "2001",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Mystery",
         "Short"
@@ -12,40 +12,49 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0214549/",
-            "name": "Eric Defosse"
+            "name": "Eric Defosse",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Eric Defosse"
+        ],
+        "Genres": [
+            "Mystery",
+            "Short"
+        ],
+        "Writer": [
+            "Lionel Steketee"
+        ],
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "Lionel Steketee"
         ],
         "Release date": [
-            "April 7, 2001 (France)"
-        ],
-        "Country of origin": [
-            "France"
-        ],
-        "Filming locations": [
-            "Paris, France"
+            "2001"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0826259/",
-            "name": "Lionel Steketee"
+            "name": "Lionel Steketee",
+            "@type": "Person"
         }
     ],
     "duration": "PT12M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0826259/",
-            "name": "Lionel Steketee"
+            "name": "Lionel Steketee",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0431494/",
@@ -56,7 +65,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2001-04-07",
+    "datePublished": "2001",
+    "original_title": "Évasion",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-23T18:35:37"
+    "update_at": "2026-10-18T15:14:49"
 }
