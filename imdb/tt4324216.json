@@ -3,54 +3,90 @@
     "sid": "tt4324216",
     "name": "Pidge",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2015",
+    "@type": "Short",
     "genre": [
         "Animation",
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm7027975/",
-            "name": "Larkin McCann"
+            "name": "Larkin McCann",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Larkin McCann"
+        ],
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "Writer": [
+            "Renee Zhan"
+        ],
+        "Runtime": [
+            "5 min"
+        ],
+        "Director": [
+            "Renee Zhan"
+        ],
         "Language": [
             "English"
         ],
+        "Release date": [
+            "2015-09-05"
+        ],
         "Country of origin": [
-            "United States"
+            "United States of America"
+        ],
+        "Production companies": [
+            "The Department of Visual and Environmental Studies (VES)"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm7027976/",
-            "name": "Renee Zhan"
+            "name": "Renee Zhan",
+            "@type": "Person"
         }
     ],
     "duration": "PT5M",
     "keywords": [
-        ""
+        "dark comedy",
+        "woman director",
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm7027976/",
-            "name": "Renee Zhan"
+            "name": "Renee Zhan",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt4324216/",
     "metascore": null,
-    "imdb_votes": 39,
+    "imdb_votes": 41,
     "popularity": 0,
-    "description": "A pigeon decides to kill himself by jumping off a building. He contemplates his decision on the way down.",
-    "imdb_rating": "6.7/10 from 39 users",
-    "release_date": [],
+    "description": "A suicidal pigeon contemplates existence.",
+    "imdb_rating": "6.8/10 from 41 users",
+    "release_date": [
+        {
+            "date": "2015-09-05",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 6.7,
-    "update_at": "2025-04-08T06:43:03"
+    "datePublished": "2015-09-05",
+    "original_title": "Pidge",
+    "imdb_rating_average": 6.8,
+    "update_at": "2026-10-19T23:07:25"
 }

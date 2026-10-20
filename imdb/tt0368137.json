@@ -4,50 +4,69 @@
     "name": "Les petits soirs",
     "site": "imdb",
     "year": "1979",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0732220/",
-            "name": "Michel Robin"
+            "name": "Michel Robin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0166537/",
-            "name": "Jenny Clève"
+            "name": "Jenny Clève",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0088436/",
-            "name": "Roger Blin"
+            "name": "Roger Blin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0759458/",
+            "name": "Catherine Salviat",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0496699/",
+            "name": "Richard Leduc",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Michel Robin",
+            "Jenny Clève",
+            "Roger Blin"
+        ],
+        "Writer": [
+            "André Stil"
+        ],
+        "Director": [
+            "Raoul Sangla"
         ],
         "Release date": [
-            "November 2, 1979 (France)"
-        ],
-        "Country of origin": [
-            "France"
+            "1979"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1381727/",
-            "name": "André Stil"
+            "name": "André Stil",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0762706/",
-            "name": "Raoul Sangla"
+            "name": "Raoul Sangla",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0368137/",
@@ -58,7 +77,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1979-11-02",
+    "datePublished": "1979",
+    "original_title": "Les petits soirs",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-06T22:52:09"
+    "update_at": "2026-10-19T15:49:46"
 }

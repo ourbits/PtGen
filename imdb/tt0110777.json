@@ -3,7 +3,8 @@
     "sid": "tt0110777",
     "name": "Paris or Somewhere",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1994",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Drama"
@@ -11,66 +12,128 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0719678/",
-            "name": "Callum Keith Rennie"
+            "name": "Callum Keith Rennie",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0662504/",
-            "name": "Molly Parker"
+            "name": "Molly Parker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0654334/",
-            "name": "Chris Owens"
+            "name": "Chris Owens",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0273127/",
+            "name": "Charlene Fernetz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0006893/",
+            "name": "John Vernon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0198663/",
+            "name": "Francis Damberger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0578547/",
+            "name": "Mel Melymick",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0778964/",
+            "name": "Chris Scott",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0168453/",
+            "name": "Burgandy Code",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0607930/",
+            "name": "Billy Morton",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWIzMjg2MWUtOGNlMy00OGU1LTk1ZWYtODZiNjAzNGI2YzBkXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/34Nzd1ghrTdt4oLaKkw8FV3phEg.jpg",
     "details": {
+        "Stars": [
+            "Callum Keith Rennie",
+            "Molly Parker",
+            "Chris Owens"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "Writer": [
+            "Lee Gowan",
+            "John Millington Synge"
+        ],
+        "Runtime": [
+            "84 min"
+        ],
+        "Director": [
+            "Brad Turner"
+        ],
         "Language": [
             "English"
         ],
-        "Also known as": [
-            "Der Vatermörder"
+        "Release date": [
+            "1994-05-19"
         ],
         "Country of origin": [
             "Canada"
         ],
-        "Filming locations": [
-            "Saskatchewan, Canada"
-        ],
-        "Production company": [
+        "Production companies": [
             "Credo Entertainment Group"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0332934/",
-            "name": "Lee Gowan"
+            "name": "Lee Gowan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0843423/",
-            "name": "John Millington Synge"
+            "name": "John Millington Synge",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H24M",
-    "keywords": [
-        "independent film"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0877427/",
-            "name": "Brad Turner"
+            "name": "Brad Turner",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0110777/",
     "metascore": null,
-    "imdb_votes": 73,
+    "imdb_votes": 76,
     "popularity": 0,
     "description": "A confessed killer wanders into a small community in the Canadian prairies.",
-    "imdb_rating": "7/10 from 73 users",
-    "release_date": [],
+    "imdb_rating": "6.9/10 from 76 users",
+    "release_date": [
+        {
+            "date": "1994-05-19",
+            "country": "Canada"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 7,
-    "update_at": "2025-04-28T13:50:59"
+    "datePublished": "1994-05-19",
+    "original_title": "Paris or Somewhere",
+    "imdb_rating_average": 6.9,
+    "update_at": "2026-10-19T13:56:48"
 }

@@ -4,74 +4,111 @@
     "name": "Fear in the Dark",
     "site": "imdb",
     "year": "1991",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000489/",
-            "name": "Christopher Lee"
+            "name": "Christopher Lee",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000783/",
-            "name": "Dario Argento"
+            "name": "Dario Argento",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000850/",
-            "name": "Clive Barker"
+            "name": "Clive Barker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000866/",
+            "name": "Saul Bass",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0088645/",
+            "name": "Robert Bloch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000118/",
+            "name": "John Carpenter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000127/",
+            "name": "Wes Craven",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2ZjMzE3YWEtODVjYS00YjJmLWE0NjYtOTQ0MjVlMGM1YzQ4XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/dPBkzRs2Rpgy60J1UorywWXebFU.jpg",
     "details": {
-        "Languages": [
-            "Italian",
-            "English"
+        "Stars": [
+            "Christopher Lee",
+            "Dario Argento",
+            "Clive Barker"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Writer": [
+            "Mick Farren"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Dominic Murphy"
+        ],
+        "Language": [
+            "English",
+            "Italian"
         ],
         "Release date": [
-            "October 29, 1991 (United States)"
+            "1991-10-29"
         ],
-        "Also known as": [
-            "Skräcken i mörkret"
-        ],
-        "Countries of origin": [
-            "United Kingdom",
-            "United States"
-        ],
-        "Production companies": [
-            "A+E Networks",
-            "Channel Four Television",
-            "Classic Films Limited"
+        "Country of origin": [
+            "United States of America"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0268390/",
-            "name": "Mick Farren"
+            "name": "Mick Farren",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H",
-    "keywords": [
-        "horror filmmaker",
-        "horror filmmaking"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0614212/",
-            "name": "Dominic Murphy"
+            "name": "Dominic Murphy",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0263336/",
     "metascore": null,
-    "imdb_votes": 109,
+    "imdb_votes": 110,
     "popularity": 0,
-    "description": "For those who don&apos;t understand the appeal of horror movies believe the genre has nothing to offer audiences. However, the 1991 TV documentary &quot;Fear In The Dark&quot; might make some naysayers into horror believers.",
-    "imdb_rating": "6.4/10 from 109 users",
-    "release_date": [],
+    "description": "A short documentary on the history of the horror film narrated by Christopher Lee.",
+    "imdb_rating": "6.4/10 from 110 users",
+    "release_date": [
+        {
+            "date": "1991-10-29",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1991-10-29",
+    "original_title": "Fear in the Dark",
     "imdb_rating_average": 6.4,
-    "update_at": "2025-06-29T22:21:14"
+    "update_at": "2026-10-19T09:14:37"
 }

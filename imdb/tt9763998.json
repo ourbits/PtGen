@@ -1,57 +1,67 @@
 {
     "aka": [],
     "sid": "tt9763998",
-    "name": "Saga af sjónum",
+    "name": "A Story of the Sea",
     "site": "imdb",
     "year": "1973",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0036270/",
-            "name": "Róbert Arnfinnsson"
+            "name": "Róbert Arnfinnsson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1146296/",
-            "name": "Sigurður Skúlason"
+            "name": "Sigurður Skúlason",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/lCN7uQeUVrvKLl9aRFgpjDsKEzA.jpg",
     "details": {
+        "Stars": [
+            "Róbert Arnfinnsson",
+            "Sigurður Skúlason"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Hrafn Gunnlaugsson"
+        ],
+        "Runtime": [
+            "40 min"
+        ],
+        "Director": [
+            "Herdís Þorvaldsdóttir"
+        ],
         "Language": [
             "Icelandic"
         ],
         "Release date": [
-            "March 26, 1973 (Iceland)"
-        ],
-        "Also known as": [
-            "Saga af sjónum"
-        ],
-        "Country of origin": [
-            "Iceland"
-        ],
-        "Production company": [
-            "Ríkisútvarpið-Sjónvarp (RÚV)"
+            "1973-03-26"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0348321/",
-            "name": "Hrafn Gunnlaugsson"
+            "name": "Hrafn Gunnlaugsson",
+            "@type": "Person"
         }
     ],
     "duration": "PT40M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1295764/",
-            "name": "Herdís Þorvaldsdóttir"
+            "name": "Herdís Þorvaldsdóttir",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt9763998/",
@@ -60,9 +70,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1973-03-26",
+            "country": "Iceland"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1973-03-26",
+    "original_title": "Saga af sjónum",
     "imdb_rating_average": 0,
-    "update_at": "2025-03-30T01:42:56"
+    "update_at": "2026-10-20T00:21:27"
 }

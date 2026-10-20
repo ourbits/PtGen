@@ -4,7 +4,7 @@
     "name": "George Orwell: A Life in Pictures",
     "site": "imdb",
     "year": "2003",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Documentary",
         "Drama"
@@ -12,63 +12,118 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0486413/",
-            "name": "Chris Langham"
+            "name": "Chris Langham",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0272021/",
-            "name": "Michael Fenton Stevens"
+            "name": "Michael Fenton Stevens",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0329259/",
-            "name": "Tom Goodman-Hill"
+            "name": "Tom Goodman-Hill",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0094201/",
+            "name": "Andrew Bone",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0741192/",
+            "name": "Mary Roscoe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0296410/",
+            "name": "Rebecca Front",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0283409/",
+            "name": "Barbara Flynn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0307097/",
+            "name": "Salo Gardner",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2ExMTliOWQtM2E0Zi00MzZjLWE2MjUtOGJiMWVlYmZmZDViXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/6PK3yJ4BdOEDli5kMywsekIIM8r.jpg",
     "details": {
+        "Stars": [
+            "Chris Langham",
+            "Michael Fenton Stevens",
+            "Tom Goodman-Hill"
+        ],
+        "Genres": [
+            "Documentary",
+            "Drama"
+        ],
+        "Writer": [
+            "Chris Durlacher",
+            "Paul Whittington"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "Chris Durlacher"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "June 14, 2003 (United Kingdom)"
+            "2003-06-14"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Production company": [
-            "Wall to Wall Television"
+        "Production companies": [
+            "Wall to Wall"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1538937/",
-            "name": "Chris Durlacher"
+            "name": "Chris Durlacher",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1168446/",
-            "name": "Paul Whittington"
+            "name": "Paul Whittington",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H35M",
-    "keywords": [
-        "reenactment"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1538937/",
-            "name": "Chris Durlacher"
+            "name": "Chris Durlacher",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0396031/",
     "metascore": null,
-    "imdb_votes": 165,
+    "imdb_votes": 172,
     "popularity": 0,
     "description": "Dramatised biography of writer George Orwell.",
-    "imdb_rating": "8.1/10 from 165 users",
-    "release_date": [],
+    "imdb_rating": "8.1/10 from 172 users",
+    "release_date": [
+        {
+            "date": "2003-06-14",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2003-06-14",
+    "original_title": "George Orwell: A Life in Pictures",
     "imdb_rating_average": 8.1,
-    "update_at": "2025-09-25T17:21:20"
+    "update_at": "2026-10-19T09:28:06"
 }

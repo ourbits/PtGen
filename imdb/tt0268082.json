@@ -5,46 +5,116 @@
     "site": "imdb",
     "year": "1981",
     "@type": "TVSeries",
-    "genre": null,
+    "genre": [
+        "Sci-Fi & Fantasy"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0140649/",
-            "name": "Mathieu Carrière"
+            "name": "Mathieu Carrière",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0156228/",
-            "name": "Patrick Chesnais"
+            "name": "Patrick Chesnais",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0005481/",
-            "name": "Victoria Tennant"
+            "name": "Victoria Tennant",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0701171/",
+            "name": "Michel Puterflam",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0272883/",
+            "name": "Miguel Fernandes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0010412/",
+            "name": "Alan Adair",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0128802/",
+            "name": "Chloé Caillat",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0143479/",
+            "name": "Marie-Pierre Casey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0183739/",
+            "name": "Henri Courseaux",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0216867/",
+            "name": "Raoul Delfosse",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzBiNDQ5MWYtM2ZmNy00YTgwLWE2Y2MtYTgxNjNlM2U5YmMxXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/jS63gZeLKfyStwTJlBXWVeQmajO.jpg",
     "details": {
+        "Stars": [
+            "Mathieu Carrière",
+            "Patrick Chesnais",
+            "Victoria Tennant"
+        ],
+        "Genres": [
+            "Sci-Fi & Fantasy"
+        ],
+        "Writer": [
+            "Jean Courtois-Brieux",
+            "Giulio Questi"
+        ],
+        "Runtime": [
+            "105 min"
+        ],
+        "Director": [
+            "Peter Kassovitz"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "March 20, 1981 (France)"
+            "1981-03-20"
         ],
-        "Also known as": [
-            "Die Insekten greifen an"
-        ],
-        "Production company": [
-            "France 2 (FR2)"
-        ],
-        "Countries of origin": [
-            "France",
-            "Switzerland"
+        "Production companies": [
+            "Antenne 2",
+            "Telfrance",
+            "SRG SSR"
         ]
     },
-    "reviews": 1,
-    "creators": [],
-    "duration": null,
-    "keywords": [
-        "based on novel"
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0183989/",
+            "name": "Jean Courtois-Brieux",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0703368/",
+            "name": "Giulio Questi",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT1H45M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0440914/",
+            "name": "Peter Kassovitz",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0268082/",
     "metascore": null,
@@ -55,6 +125,7 @@
     "release_date": [],
     "contentRating": null,
     "datePublished": "1981-03-20",
+    "original_title": "La guerre des insectes",
     "imdb_rating_average": 6.1,
-    "update_at": "2025-06-13T08:42:05"
+    "update_at": "2026-10-19T22:28:20"
 }

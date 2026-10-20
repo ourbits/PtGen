@@ -1,10 +1,15 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Es war einmal im Irak",
+            "country": "Germany"
+        }
+    ],
     "sid": "tt12747876",
     "name": "Once Upon a Time in Iraq",
     "site": "imdb",
     "year": "2020",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Documentary",
         "History",
@@ -13,60 +18,115 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0785227/",
-            "name": "Andy Serkis"
+            "name": "Andy Serkis",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2447861/",
-            "name": "Ashley Gilbertson"
+            "name": "Ashley Gilbertson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2251874/",
-            "name": "Dexter Filkins"
+            "name": "Dexter Filkins",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm16970863/",
+            "name": "Nidhal Abed",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm16970864/",
+            "name": "Lewis Miller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm16970867/",
+            "name": "Susie Miller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm16970868/",
+            "name": "Sabrina Miller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm16970866/",
+            "name": "Christian Dominguez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm16970865/",
+            "name": "Sam Williams",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm16690916/",
+            "name": "Ahmed Abed",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODljNjE1MDYtMzMzYS00NmY2LTg5OTAtZDFkYTJmYzMyNTNjXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/5UAZKSIMiFc9luJsVyZ2y84pg8b.jpg",
     "details": {
+        "Stars": [
+            "Andy Serkis",
+            "Ashley Gilbertson",
+            "Dexter Filkins"
+        ],
+        "Genres": [
+            "Documentary",
+            "History",
+            "War"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "James Bluemel"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "July 13, 2020 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Det var en gång ett Irak"
-        ],
-        "Official sites": [
-            "Arte (part 1) (Germany) - https://www.arte.tv/de/videos/097756-001-A/es-war-einmal-im-irak-1-3/",
-            "Arte (part 1) (France) - https://www.arte.tv/fr/videos/097756-001-A/il-etait-une-fois-en-irak-1-3/"
+            "2020-07-13"
         ],
         "Country of origin": [
+            "Germany",
             "United Kingdom"
         ],
         "Production companies": [
-            "KEO films",
-            "British Broadcasting Corporation (BBC)"
+            "KEO Films",
+            "ZDF"
         ]
     },
-    "reviews": 29,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
-    "duration": null,
+    "duration": "PT1H",
     "keywords": [
-        "iraq war",
-        "tv mini series",
-        "contemporary history",
-        "british politics",
-        "archival documentary"
+        "middle east",
+        "war on terror",
+        "history"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm2486028/",
+            "name": "James Bluemel",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt12747876/",
     "metascore": null,
-    "imdb_votes": 1469,
+    "imdb_votes": 1606,
     "popularity": 0,
-    "description": "With unique personal archive from civilians and soldiers from both sides of the conflict, this series takes viewers closer to the realities of war and life under ISIS than they have ever been before.",
-    "imdb_rating": "9/10 from 1469 users",
+    "description": "With unique personal archive from civilians and soldiers from both sides of the conflict, this series takes viewers closer to the realities of war and life under Isis than they have ever been before.",
+    "imdb_rating": "9.0/10 from 1606 users",
     "release_date": [],
     "contentRating": null,
     "datePublished": "2020-07-13",
-    "imdb_rating_average": 9,
-    "update_at": "2025-07-20T17:15:29"
+    "original_title": "Once Upon a Time in Iraq",
+    "imdb_rating_average": 9.0,
+    "update_at": "2026-10-19T11:28:14"
 }

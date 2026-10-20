@@ -4,33 +4,61 @@
     "name": "Top Speed",
     "site": "imdb",
     "year": "1929",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Comedy",
         "Short"
     ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0022622/",
+            "name": "Al Alt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0103219/",
+            "name": "Estelle Bradley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0329467/",
+            "name": "Harold Goodwin",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Stars": [
+            "Al Alt",
+            "Estelle Bradley",
+            "Harold Goodwin"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Runtime": [
+            "20 min"
+        ],
+        "Director": [
+            "Charles Lamont"
         ],
         "Release date": [
-            "July 7, 1929 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Jack White"
+            "1929"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT20M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0006943/",
+            "name": "Charles Lamont",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0350217/",
     "metascore": null,
@@ -40,7 +68,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1929-07-07",
+    "datePublished": "1929",
+    "original_title": "Top Speed",
     "imdb_rating_average": 0,
-    "update_at": "2025-11-22T22:50:11"
+    "update_at": "2026-10-19T06:49:26"
 }

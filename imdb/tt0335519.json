@@ -4,7 +4,7 @@
     "name": "Verurteilt 1910",
     "site": "imdb",
     "year": "1974",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Biography",
         "Crime"
@@ -12,55 +12,99 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0873223/",
-            "name": "Heinz Trixner"
+            "name": "Heinz Trixner",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0943469/",
-            "name": "Klausjürgen Wussow"
+            "name": "Klausjürgen Wussow",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0777768/",
-            "name": "Heinrich Schweiger"
+            "name": "Heinrich Schweiger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1257045/",
+            "name": "Heinrich Eis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0937237/",
+            "name": "Helmut Wlasak",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0470492/",
+            "name": "Hans Kraßnitzer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0476534/",
+            "name": "Franz Kutschera",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0289998/",
+            "name": "Felix Franchy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0366713/",
+            "name": "Harald Harth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0817646/",
+            "name": "Kitty Speiser",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Heinz Trixner",
+            "Klausjürgen Wussow",
+            "Heinrich Schweiger"
+        ],
+        "Genres": [
+            "Biography",
+            "Crime"
+        ],
+        "Writer": [
+            "György Sebestyén"
+        ],
+        "Runtime": [
+            "94 min"
+        ],
+        "Director": [
+            "Jörg A. Eggers"
         ],
         "Release date": [
-            "September 8, 1974 (Austria)"
-        ],
-        "Also known as": [
-            "Condemned 1910"
+            "1974-09-07"
         ],
         "Country of origin": [
             "Austria"
-        ],
-        "Production company": [
-            "Schönbrunn-Film"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0781051/",
-            "name": "György Sebestyén"
+            "name": "György Sebestyén",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H34M",
-    "keywords": [
-        "amnesty",
-        "newspaper",
-        "public inquest",
-        "venom",
-        "military officer"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0250933/",
-            "name": "Jörg A. Eggers"
+            "name": "Jörg A. Eggers",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0335519/",
@@ -69,9 +113,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1974-09-07",
+            "country": "Austria"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1974-09-08",
+    "datePublished": "1974-09-07",
+    "original_title": "Verurteilt 1910",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-08T15:28:06"
+    "update_at": "2026-10-19T19:21:08"
 }

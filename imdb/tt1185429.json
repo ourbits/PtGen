@@ -4,7 +4,7 @@
     "name": "Knezevina Srbija",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Documentary",
         "History"
@@ -12,67 +12,129 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0631877/",
-            "name": "Dragan Nikolic"
+            "name": "Dragan Nikolić",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0422504/",
-            "name": "Nenad Jezdic"
+            "name": "Nenad Jezdic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0322977/",
-            "name": "Nebojsa Glogovac"
+            "name": "Nebojsa Glogovac",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0469398/",
+            "name": "Petar Kralj",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0632473/",
+            "name": "Natasa Ninkovic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0149146/",
+            "name": "Vojin Ćetković",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0590590/",
+            "name": "Milica Milsa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0051784/",
+            "name": "Ljubomir Bandovic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0475077/",
+            "name": "Nebojsa Kundacina",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0191794/",
+            "name": "Dragomir Cumic",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWMxNmVmYzUtMGQ1NC00MmI2LTllOGUtNWFmYTI4MmQzZjEwXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/yVwrxe6b69QeOhzqiZzHew7hSXN.jpg",
     "details": {
+        "Stars": [
+            "Dragan Nikolić",
+            "Nenad Jezdic",
+            "Nebojsa Glogovac"
+        ],
+        "Genres": [
+            "Documentary",
+            "History"
+        ],
+        "Writer": [
+            "Zdravko Sotra",
+            "Milovan Vitezovic"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Zdravko Sotra"
+        ],
         "Language": [
             "Serbian"
         ],
         "Release date": [
-            "February 10, 2008 (Serbia)"
+            "2008-02-15"
         ],
         "Country of origin": [
             "Serbia"
         ],
-        "Filming locations": [
-            "Kragujevac, Serbia"
-        ],
         "Production companies": [
-            "Kosutnjak Film",
-            "Radio Televizija Srbije (RTS)"
+            "Košutnjak Film",
+            "RTS"
         ]
     },
     "reviews": 0,
+    "tagline": "The Principality of Serbia",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0815638/",
-            "name": "Zdravko Sotra"
+            "name": "Zdravko Sotra",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0900008/",
-            "name": "Milovan Vitezovic"
+            "name": "Milovan Vitezovic",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        "reenactment"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0815638/",
-            "name": "Zdravko Sotra"
+            "name": "Zdravko Sotra",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1185429/",
     "metascore": null,
-    "imdb_votes": 126,
+    "imdb_votes": 127,
     "popularity": 0,
-    "description": "The main plot of the film &quot;The Principality of Serbia&quot; was put in the first seven decades of the nineteenth century when the state was being formed and strengthened together with its historical fate. This film shows the Serbs as p...",
-    "imdb_rating": "8.3/10 from 126 users",
-    "release_date": [],
+    "description": "The main plot of the film \"The Principality of Serbia\" was put in the first seven decades of the nineteenth century when the state was being formed and strengthened together with its historical fate. This film shows the Serbs as people who fought during the two Risings while trying to liberate by themselves hardly and for a long time. It also shows how they hardly got the recognition to their liberty and the international recognition to the right to have their own state.",
+    "imdb_rating": "8.3/10 from 127 users",
+    "release_date": [
+        {
+            "date": "2008-02-15",
+            "country": "Serbia"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2008-02-10",
+    "datePublished": "2008-02-15",
+    "original_title": "Knezevina Srbija",
     "imdb_rating_average": 8.3,
-    "update_at": "2026-02-20T15:01:01"
+    "update_at": "2026-10-19T15:56:25"
 }

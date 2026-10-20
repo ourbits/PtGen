@@ -3,52 +3,73 @@
     "sid": "tt0335348",
     "name": "Peace and Quiet",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1929",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0528785/",
-            "name": "Ralph Lynn"
+            "name": "Ralph Lynn",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0795214/",
-            "name": "Winifred Shotter"
+            "name": "Winifred Shotter",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Ralph Lynn",
+            "Winifred Shotter"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Ronald Jeans"
+        ],
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "Sinclair Hill"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 1929 (United Kingdom)"
+            "1929-01-01"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Production company": [
+        "Production companies": [
             "British Sound Film Productions"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0419981/",
-            "name": "Ronald Jeans"
+            "name": "Ronald Jeans",
+            "@type": "Person"
         }
     ],
     "duration": "PT12M",
-    "keywords": [
-        "based on play"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0384682/",
-            "name": "Sinclair Hill"
+            "name": "Sinclair Hill",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0335348/",
@@ -57,9 +78,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1929-01-01",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1929-01-01",
+    "original_title": "Peace and Quiet",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-01T01:52:08"
+    "update_at": "2026-10-19T20:49:37"
 }

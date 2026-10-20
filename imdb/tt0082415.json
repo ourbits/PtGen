@@ -4,69 +4,128 @@
     "name": "Freedom",
     "site": "imdb",
     "year": "1981",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001858/",
-            "name": "Mare Winningham"
+            "name": "Mare Winningham",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0912874/",
-            "name": "Jennifer Warren"
+            "name": "Jennifer Warren",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0082300/",
-            "name": "Tony Bill"
+            "name": "Tony Bill",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0858186/",
+            "name": "Roy Thinnes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005022/",
+            "name": "Peter Horton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0563835/",
+            "name": "Heather McAdam",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0142746/",
+            "name": "Eloy Casados",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0641729/",
+            "name": "J. Pat O'Malley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0455322/",
+            "name": "Tara King",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0559166/",
+            "name": "Noelle North",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzk5YjI2NDMtMWIzYi00MDQwLWI0MmEtZWUwYWQwNjViZDZhXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/lCcXxVOeXbW6bphRwREfObuh1Jz.jpg",
     "details": {
+        "Stars": [
+            "Mare Winningham",
+            "Jennifer Warren",
+            "Tony Bill"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Barbara Turner"
+        ],
+        "Runtime": [
+            "100 min"
+        ],
+        "Director": [
+            "Joseph Sargent"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 18, 1981 (United States)"
-        ],
-        "Also known as": [
-            "Libertad"
+            "1981-05-18"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Hill/Mandelker Films"
         ]
     },
-    "reviews": 6,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0193009/",
-            "name": "Barbara Turner"
+            "name": "Barbara Turner",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H40M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0765121/",
-            "name": "Joseph Sargent"
+            "name": "Joseph Sargent",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0082415/",
     "metascore": null,
-    "imdb_votes": 175,
+    "imdb_votes": 201,
     "popularity": 0,
-    "description": "Teenager Libby Bellow begins soul-searching after becoming legally emancipated by her family and begins working on the road with a travelling carnival, in which Libby begins to think that happiness is at home, despite her personal...",
-    "imdb_rating": "6.7/10 from 175 users",
-    "release_date": [],
-    "contentRating": null,
+    "description": "Talented musician and free spirit Libby chafes under the rule of her divorced journalist mother, so she seeks emancipation from her parents and hits the road, soon joining the ranks of a traveling carnival. She gains the freedom she has longed for but learns some hard lessons along the way.",
+    "imdb_rating": "6.7/10 from 201 users",
+    "release_date": [
+        {
+            "date": "1981-05-18",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "1981-05-18",
+    "original_title": "Freedom",
     "imdb_rating_average": 6.7,
-    "update_at": "2025-03-10T00:52:15"
+    "update_at": "2026-10-19T17:28:07"
 }

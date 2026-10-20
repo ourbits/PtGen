@@ -4,62 +4,81 @@
     "name": "Larry the Cable Guy: Remain Seated",
     "site": "imdb",
     "year": "2020",
-    "@type": "Movie",
+    "@type": "TVSpecial",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1249256/",
-            "name": "Larry the Cable Guy"
+            "name": "Larry the Cable Guy",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTRhYWZlM2UtNmYyNi00Y2U2LTg3NzktMDkwZDkzZmNiOWM5XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/raByd3d1v1G2efSKosLRvuq8x5a.jpg",
     "details": {
+        "Stars": [
+            "Larry the Cable Guy"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Larry the Cable Guy"
+        ],
+        "Runtime": [
+            "67 min"
+        ],
+        "Director": [
+            "Brian Volk-Weiss"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "April 7, 2020 (United States)"
-        ],
-        "Official site": [
-            "production company website - https://comedydynamics.com/"
+            "2020-06-16"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
-            "Comedy Dynamics"
+        "Production companies": [
+            "Screen Media"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1249256/",
-            "name": "Larry the Cable Guy"
+            "name": "Larry the Cable Guy",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H7M",
-    "keywords": [
-        "tv special",
-        "stand up comedy special"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0901449/",
-            "name": "Brian Volk-Weiss"
+            "name": "Brian Volk-Weiss",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt11464488/",
     "metascore": null,
-    "imdb_votes": 326,
+    "imdb_votes": 348,
     "popularity": 0,
-    "description": "Larry the Cable Guy is back to Git R Done. Remain Seated, his latest solo special, will show you why this Grammy nominated, multi-platinum recording artist, and Billboard award winner is at the top of his game. Coming to you strai...",
-    "imdb_rating": "6.6/10 from 326 users",
-    "release_date": [],
-    "contentRating": null,
-    "datePublished": "2020-04-07",
-    "imdb_rating_average": 6.6,
-    "update_at": "2025-02-12T05:44:46"
+    "description": "Larry the Cable Guy is back to Git R Done. Remain Seated, his latest solo special, will show you why this Grammy nominated, multi-platinum recording artist, and Billboard award winner is at the top of his game. Coming to you straight from the Rialto Square Theater in Joliet, IL to your seat at home!",
+    "imdb_rating": "6.7/10 from 348 users",
+    "release_date": [
+        {
+            "date": "2020-06-16",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "R",
+    "datePublished": "2020-06-16",
+    "original_title": "Larry the Cable Guy: Remain Seated",
+    "imdb_rating_average": 6.7,
+    "update_at": "2026-10-20T01:56:06"
 }

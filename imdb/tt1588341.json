@@ -3,52 +3,73 @@
     "sid": "tt1588341",
     "name": "Unberührt",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1993",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1189106/",
-            "name": "Bilhan Derin"
+            "name": "Bilhan Derin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1150246/",
-            "name": "Veronika Neugebauer"
+            "name": "Veronika Neugebauer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1919395/",
-            "name": "Joachim Schmahl"
+            "name": "Joachim Schmahl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3068659/",
+            "name": "Turan Kalle",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Bilhan Derin",
+            "Veronika Neugebauer",
+            "Joachim Schmahl"
         ],
-        "Country of origin": [
-            "Germany"
+        "Genres": [
+            "Short"
         ],
-        "Production company": [
-            "Hochschule für Fernsehen und Film München (HFF)"
+        "Writer": [
+            "Seyhan Derin"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Seyhan Derin"
+        ],
+        "Release date": [
+            "1993"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1125712/",
-            "name": "Seyhan Derin"
+            "name": "Seyhan Derin",
+            "@type": "Person"
         }
     ],
     "duration": "PT15M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1125712/",
-            "name": "Seyhan Derin"
+            "name": "Seyhan Derin",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1588341/",
@@ -59,7 +80,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1993",
+    "original_title": "Unberührt",
     "imdb_rating_average": 0,
-    "update_at": "2026-03-17T20:42:41"
+    "update_at": "2026-10-19T19:14:06"
 }

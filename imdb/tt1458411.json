@@ -4,43 +4,93 @@
     "name": "Bip",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Drama",
+        "Short",
         "Thriller"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm3490866/",
+            "name": "Imanol Reta",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3251516/",
+            "name": "María Txokarro",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2282997/",
+            "name": "Katherine Vispo",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Imanol Reta",
+            "María Txokarro",
+            "Katherine Vispo"
+        ],
+        "Genres": [
+            "Drama",
+            "Short",
+            "Thriller"
+        ],
+        "Writer": [
+            "Javier Alastruey"
+        ],
+        "Runtime": [
+            "7 min"
+        ],
+        "Director": [
+            "Karlos Alastruey"
+        ],
         "Language": [
             "Spanish"
         ],
         "Release date": [
-            "November 13, 2009 (Germany)"
-        ],
-        "Country of origin": [
-            "Spain"
-        ],
-        "Production company": [
-            "Erroibar Films"
+            "2009-11-13"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm2820623/",
+            "name": "Javier Alastruey",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT7M",
     "keywords": [
-        ""
+        "illness"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm2116738/",
+            "name": "Karlos Alastruey",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1458411/",
     "metascore": null,
     "imdb_votes": 27,
     "popularity": 0,
     "description": "A woman whose sister suffers from Bipolar Disorder.",
-    "imdb_rating": "7.2/10 from 27 users",
-    "release_date": [],
+    "imdb_rating": "7.3/10 from 27 users",
+    "release_date": [
+        {
+            "date": "2009-11-13",
+            "country": "Spain"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2009-11-13",
-    "imdb_rating_average": 7.2,
-    "update_at": "2025-10-12T04:52:16"
+    "original_title": "Bip",
+    "imdb_rating_average": 7.3,
+    "update_at": "2026-10-19T09:00:29"
 }

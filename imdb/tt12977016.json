@@ -4,7 +4,7 @@
     "name": "Natale in casa Cupiello",
     "site": "imdb",
     "year": "2020",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Drama"
@@ -12,25 +12,83 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0144812/",
-            "name": "Sergio Castellitto"
+            "name": "Sergio Castellitto",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0174555/",
-            "name": "Marina Confalone"
+            "name": "Marina Confalone",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0659772/",
-            "name": "Adriano Pantaleo"
+            "name": "Adriano Pantaleo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1045921/",
+            "name": "Tony Laudadio",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6040601/",
+            "name": "Pina Turco",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8078476/",
+            "name": "Alessio Lapice",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2397307/",
+            "name": "Antonio Milo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0210607/",
+            "name": "Marco Mario de Notaris",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1022934/",
+            "name": "Massimiliano Rossi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0719956/",
+            "name": "Andrea Renzi",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2E3NDZjYjEtOTE2Yy00YjA5LWJiYzgtYWJkMDQ3YmI5ZWQ0XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/7SWjIbWpI9CiKHCWIvfO856cWfd.jpg",
     "details": {
+        "Stars": [
+            "Sergio Castellitto",
+            "Marina Confalone",
+            "Adriano Pantaleo"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "Writer": [
+            "Eduardo De Filippo",
+            "Massimo Gaudioso",
+            "Edoardo De Angelis"
+        ],
+        "Runtime": [
+            "110 min"
+        ],
+        "Director": [
+            "Edoardo De Angelis"
+        ],
         "Language": [
             "Italian"
         ],
         "Release date": [
-            "December 22, 2020 (Italy)"
+            "2020-12-22"
         ],
         "Country of origin": [
             "Italy"
@@ -41,39 +99,48 @@
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0208370/",
-            "name": "Eduardo De Filippo"
+            "name": "Eduardo De Filippo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0309979/",
-            "name": "Massimo Gaudioso"
+            "name": "Massimo Gaudioso",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2395887/",
-            "name": "Edoardo De Angelis"
+            "name": "Edoardo De Angelis",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H50M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2395887/",
-            "name": "Edoardo De Angelis"
+            "name": "Edoardo De Angelis",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt12977016/",
     "metascore": null,
-    "imdb_votes": 211,
+    "imdb_votes": 219,
     "popularity": 0,
-    "description": "Based on the stage play written by Eduardo De Filippo in 1931, Natale in casa Cupiello captures a life episode of a middle-class Neapolitan family around Christmas.",
-    "imdb_rating": "6.2/10 from 211 users",
-    "release_date": [],
+    "description": "Based on the tragicomedy written by Edoardo de Filippo in 1931, Christmas at the Cupiello's captures a life episode of a middle-class Italian family around Christmas. Shot in Neapolitan language, the movie has a whimsical charm.",
+    "imdb_rating": "6.2/10 from 219 users",
+    "release_date": [
+        {
+            "date": "2020-12-22",
+            "country": "Italy"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2020-12-22",
+    "original_title": "Natale in casa Cupiello",
     "imdb_rating_average": 6.2,
-    "update_at": "2025-08-05T04:21:16"
+    "update_at": "2026-10-19T16:07:15"
 }

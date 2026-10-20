@@ -6,75 +6,139 @@
     "year": "1969",
     "@type": "Movie",
     "genre": [
+        "Drama",
         "Western"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001374/",
-            "name": "Jeffrey Hunter"
+            "name": "Jeffrey Hunter",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0904834/",
-            "name": "Rosa María Vázquez"
+            "name": "Rosa María Vázquez",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001917/",
-            "name": "Pedro Armendáriz Jr."
+            "name": "Pedro Armendáriz Jr.",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0305955/",
+            "name": "Andrés García",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0120232/",
+            "name": "Quintín Bulnes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0735785/",
+            "name": "Dagoberto Rodríguez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0882190/",
+            "name": "Chano Urueta",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0717592/",
+            "name": "Francisco Reiguera",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0728159/",
+            "name": "Carlos Riquelme",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0056911/",
+            "name": "René Barrera",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTBlNTcwYmItNWE1Mi00OWU4LTk3YmUtYzBmMjM2NTM3YTE4XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/tXzkXh7aLsIUckVdBfdHyr4WHmf.jpg",
     "details": {
+        "Stars": [
+            "Jeffrey Hunter",
+            "Rosa María Vázquez",
+            "Pedro Armendáriz Jr."
+        ],
+        "Genres": [
+            "Drama",
+            "Western"
+        ],
+        "Writer": [
+            "Federico Curiel",
+            "Armando Le Molle"
+        ],
+        "Runtime": [
+            "88 min"
+        ],
+        "Director": [
+            "Federico Curiel"
+        ],
         "Language": [
             "Spanish"
         ],
         "Release date": [
-            "September 5, 1969 (Mexico)"
+            "1969-09-05"
         ],
         "Country of origin": [
             "Mexico"
         ],
-        "Filming locations": [
-            "Mexico City, Distrito Federal, Mexico"
-        ],
-        "Production company": [
+        "Production companies": [
+            "Columbia Pictures",
             "Filmica Vergara S.A."
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": "Death stalks a town torn by fear!",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0192698/",
-            "name": "Federico Curiel"
+            "name": "Federico Curiel",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0494468/",
-            "name": "Armando Le Molle"
+            "name": "Armando Le Molle",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H28M",
-    "keywords": [
-        "two gun holster",
-        "gun holster",
-        "gun",
-        "holster",
-        "double gun holster"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0192698/",
-            "name": "Federico Curiel"
+            "name": "Federico Curiel",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0065049/",
     "metascore": null,
-    "imdb_votes": 44,
+    "imdb_votes": 47,
     "popularity": 0,
-    "description": "Billy Hayes, the marshal, discovers that the bandit whom he has been pursuing so long, and who has for months been torching his county, is none other than an old friend from childhood. Upon being confronted with the truth, the fri...",
-    "imdb_rating": "6.4/10 from 44 users",
-    "release_date": [],
-    "contentRating": null,
+    "description": "Billy Hayes, the marshal, discovers that the bandit whom he has been pursuing so long, and who has for months been torching his county, is none other than an old friend from childhood. Upon being confronted with the truth, the friend draws his gun, and Billy is forced to kill him in justifiable defense. Overwhelmed by guilt, he renounces his office and swears to never use arms again. He rides off toward the town where he and his old friend grew up together. Upon arriving there, he soon becomes involved in a dangerous situation, where Billy must decide whether he will fulfill his promise to keep away from arms, or intervene to save the honor of a woman and the life of an innocent man.",
+    "imdb_rating": "6.4/10 from 47 users",
+    "release_date": [
+        {
+            "date": "1969-09-05",
+            "country": "Mexico"
+        },
+        {
+            "date": "1971-04-26",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "1969-09-05",
+    "original_title": "Super Colt 38",
     "imdb_rating_average": 6.4,
-    "update_at": "2025-03-07T19:00:29"
+    "update_at": "2026-10-19T16:56:19"
 }

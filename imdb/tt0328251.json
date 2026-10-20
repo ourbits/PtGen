@@ -3,63 +3,110 @@
     "sid": "tt0328251",
     "name": "Petit-jour",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1962",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Musical"
+        "Musical",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0107035/",
-            "name": "Jacques Brel"
+            "name": "Jacques Brel",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0078820/",
-            "name": "Claude Bessy"
+            "name": "Claude Bessy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0221588/",
-            "name": "Olivier Despax"
+            "name": "Olivier Despax",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000419/",
+            "name": "Jean-Luc Godard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0359894/",
+            "name": "Roger Hanin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0439344/",
+            "name": "Anna Karina",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0551651/",
+            "name": "Félix Marten",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0596850/",
+            "name": "Édouard Molinaro",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/gyJAehHWJrke5disDE2wPFXfCMQ.jpg",
     "details": {
+        "Stars": [
+            "Jacques Brel",
+            "Claude Bessy",
+            "Olivier Despax"
+        ],
+        "Genres": [
+            "Musical",
+            "Short"
+        ],
+        "Writer": [
+            "Antoine Flachot",
+            "Jacques Pierre"
+        ],
+        "Runtime": [
+            "16 min"
+        ],
+        "Director": [
+            "Jacques Pierre"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "1962 (France)"
-        ],
-        "Also known as": [
-            "Bladym świtem"
+            "1962-01-01"
         ],
         "Country of origin": [
             "France"
         ],
-        "Production company": [
-            "Production Générale de Films (PROGEFI)"
+        "Production companies": [
+            "Progéfi"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm13755565/",
-            "name": "Antoine Flachot"
+            "name": "Antoine Flachot",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1152179/",
-            "name": "Jacques Pierre"
+            "name": "Jacques Pierre",
+            "@type": "Person"
         }
     ],
     "duration": "PT16M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1152179/",
-            "name": "Jacques Pierre"
+            "name": "Jacques Pierre",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0328251/",
@@ -68,9 +115,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "5.1/10 from 22 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1962-01-01",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1962-01-01",
+    "original_title": "Petit-jour",
     "imdb_rating_average": 5.1,
-    "update_at": "2025-05-12T13:57:47"
+    "update_at": "2026-10-19T10:35:07"
 }

@@ -4,76 +4,134 @@
     "name": "The Hollow Tree",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Family",
-        "Fantasy"
+        "Fantasy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2136467/",
-            "name": "Bill Barnett"
+            "name": "Bill Barnett",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1865738/",
-            "name": "Ashley Bryan"
+            "name": "Ashley Bryan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0183881/",
-            "name": "Alex Courtney"
+            "name": "Alex Courtney",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0335300/",
+            "name": "Carson Grant",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2335809/",
+            "name": "Bari Hyman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2311875/",
+            "name": "Justin Jahnke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7750821/",
+            "name": "Nick Raffaele",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2644552/",
+            "name": "Amy Sparrow",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1752607/",
+            "name": "Dariusz M. Uczkowski",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1738378/",
+            "name": "Jan Uczkowski",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjgyNzhmMzQtNDdjZC00Y2I4LWE4YWEtMmZiZGE3ZTQ5OWZjXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/ntTrPLSLSvgsIyhAVDopPTUdf4i.jpg",
     "details": {
+        "Stars": [
+            "Bill Barnett",
+            "Ashley Bryan",
+            "Alex Courtney"
+        ],
+        "Genres": [
+            "Family",
+            "Fantasy",
+            "Short"
+        ],
+        "Writer": [
+            "Patrick Steward"
+        ],
+        "Runtime": [
+            "28 min"
+        ],
+        "Director": [
+            "Patrick Steward"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "October 4, 2008 (United States)"
-        ],
-        "Official site": [
-            "Official site - http://www.the-hollow-tree.com/"
+            "2008-10-04"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "New York City, New York, USA"
+            "United States of America"
         ],
         "Production companies": [
             "Haydenfilms",
-            "Cyprus Productions",
+            "Cyprus Films",
             "Uczkowski Productions"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2606815/",
-            "name": "Patrick Steward"
+            "name": "Patrick Steward",
+            "@type": "Person"
         }
     ],
     "duration": "PT28M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2606815/",
-            "name": "Patrick Steward"
+            "name": "Patrick Steward",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1288466/",
     "metascore": null,
-    "imdb_votes": 17,
+    "imdb_votes": 18,
     "popularity": 0,
-    "description": "The Hollow Tree is the touching story of a boy finding his way in life by listening to a tale about a brother and sister who lose their way in a haunted forest. Timothy runs away from home after refusing to move away. He stumbles ...",
-    "imdb_rating": "7.4/10 from 17 users",
-    "release_date": [],
-    "contentRating": "G",
+    "description": "The Hollow Tree is a 2007 film directed by Patrick Steward and co-produced by Haydenfilms. It tells the touching story of a runaway who encounters a mysterious stranger who enlightens him to the reality of “home\".",
+    "imdb_rating": "7.0/10 from 18 users",
+    "release_date": [
+        {
+            "date": "2008-10-04",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2008-10-04",
-    "imdb_rating_average": 7.4,
-    "update_at": "2025-09-22T09:42:37"
+    "original_title": "The Hollow Tree",
+    "imdb_rating_average": 7.0,
+    "update_at": "2026-10-19T15:00:40"
 }

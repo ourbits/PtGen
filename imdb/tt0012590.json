@@ -3,6 +3,7 @@
     "sid": "tt0012590",
     "name": "Princess Jones",
     "site": "imdb",
+    "year": "1921",
     "@type": "Movie",
     "genre": [
         "Comedy"
@@ -10,68 +11,115 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0129896/",
-            "name": "Alice Calhoun"
+            "name": "Alice Calhoun",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0171251/",
-            "name": "Vincent Coleman"
+            "name": "Vincent Coleman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0239422/",
-            "name": "Helen Dubois"
+            "name": "Helen Dubois",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0444560/",
+            "name": "Robert Lee Keeling",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0301252/",
+            "name": "Robert Gaillard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6799627/",
+            "name": "Joseph Burke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0612047/",
+            "name": "Sadie Mullen",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2FiNjg0MjQtZTRiOC00ZGY5LTkwNDgtOTFlMmJmOTBlZmQ5XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/1wfACAEDTZ00CVUOvaYkaGLbhkZ.jpg",
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Stars": [
+            "Alice Calhoun",
+            "Vincent Coleman",
+            "Helen Dubois"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Joseph F. Poland",
+            "Sam Taylor",
+            "A. Van Buren Powell"
+        ],
+        "Runtime": [
+            "50 min"
+        ],
+        "Director": [
+            "Gustav von Seyffertitz"
         ],
         "Release date": [
-            "January 1921 (United States)"
+            "1921-01-01"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Vitagraph Company of America"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0688853/",
-            "name": "Joseph F. Poland"
+            "name": "Joseph F. Poland",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0853130/",
-            "name": "Sam Taylor"
+            "name": "Sam Taylor",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0885808/",
-            "name": "A. Van Buren Powell"
+            "name": "A. Van Buren Powell",
+            "@type": "Person"
         }
     ],
     "duration": "PT50M",
-    "keywords": [
-        "mistaken identity"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0167032/",
-            "name": "Gustav von Seyffertitz"
+            "name": "Gustav von Seyffertitz",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0012590/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Princess Jones, a country storekeeper&apos;s niece who dreams of wealth and position, takes a vacation at a nearby fashionable resort--without realizing its cost--and meets wealthy Arthur Forbes, whose uncle sent him to the country to ...",
+    "description": "Princess Jones, the niece of a country store keeper, dreams of being a wealthy, glamorous lady. While at an luxurious nearby resort she meets the wealthy Arthur Forbes, who falls in love with her and buys her an expensive coat. This leads her to be mistaken by the other guests as a Balkan princess and attracts the eye of a gang of kidnappers.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1921-01-01",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1921-01-01",
+    "original_title": "Princess Jones",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-26T21:00:31"
+    "update_at": "2026-10-19T17:35:06"
 }

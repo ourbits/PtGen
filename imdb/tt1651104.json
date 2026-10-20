@@ -4,69 +4,90 @@
     "name": "The Thorny Rose",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3231770/",
-            "name": "Emily Casey"
+            "name": "Emily Casey",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1991619/",
-            "name": "Katharine Heller"
+            "name": "Katharine Heller",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1371603/",
-            "name": "Kelley Rae O&apos;Donnell"
+            "name": "Kelley Rae O'Donnell",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjA1NTdlNWEtMWU1MC00MmU0LWJkMjctODQ2MzMwYzQ1MGMxXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/pLLBJ0ykraScf37U7HEHqGWFO81.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Emily Casey",
+            "Katharine Heller",
+            "Kelley Rae O'Donnell"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Kenny Hillman"
+        ],
+        "Runtime": [
+            "9 min"
+        ],
+        "Director": [
+            "Carrie Schrader"
         ],
         "Release date": [
-            "July 16, 2008 (United States)"
+            "2008-07-16"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "New York City, New York, USA"
-        ],
-        "Production company": [
-            "Cherry Films NYC"
+        "Production companies": [
+            "Cherry films"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3324545/",
-            "name": "Kenny Hillman"
+            "name": "Kenny Hillman",
+            "@type": "Person"
         }
     ],
     "duration": "PT9M",
-    "keywords": [
-        "dominatrix"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3338192/",
-            "name": "Carrie Schrader"
+            "name": "Carrie Schrader",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1651104/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "A dark comedy about a therapist who can't feel. She enlists the help of a reputable dominatrix to help her through her emotional block, but discovers the dominatrix has a few blocks of her own.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2008-07-16",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2008-07-16",
+    "original_title": "The Thorny Rose",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-08T00:39:12"
+    "update_at": "2026-10-20T00:56:18"
 }

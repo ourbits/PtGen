@@ -4,76 +4,137 @@
     "name": "Das Fräuleinwunder",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0321858/",
-            "name": "Stephanie Glaser"
+            "name": "Stephanie Glaser",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1143713/",
-            "name": "Mona Petri"
+            "name": "Mona Petri",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0253452/",
-            "name": "Buddy Elias"
+            "name": "Buddy Elias",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3256022/",
+            "name": "Lotti Happle",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1773427/",
+            "name": "Karin Pfammatter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0082961/",
+            "name": "Oscar Bingisser",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2831110/",
+            "name": "Pascal Holzer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0051480/",
+            "name": "Peter Bamler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1893839/",
+            "name": "Brigitta Furgler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3256176/",
+            "name": "Maria Boettner",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGFlNDI3ZDctOWUzNy00MTg3LTgyMzctYzAzYmQ0ODlhMGNjXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/bRIQkfuqhlVhw1noc3izSvHkNX2.jpg",
     "details": {
+        "Stars": [
+            "Stephanie Glaser",
+            "Mona Petri",
+            "Buddy Elias"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Urs Buehler",
+            "Maike Franzen"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Sabine Boss"
+        ],
         "Language": [
-            "Swiss German"
+            "German"
         ],
         "Release date": [
-            "January 25, 2009 (Switzerland)"
-        ],
-        "Also known as": [
-            "Il fantastico caso di Frida"
+            "2009-01-25"
         ],
         "Country of origin": [
             "Switzerland"
         ],
-        "Filming locations": [
-            "Herisau, Kanton Appenzell-Ausserrhoden, Switzerland"
-        ],
-        "Production company": [
-            "Abrakadabra Films"
+        "Production companies": [
+            "Abrakadabra Films",
+            "Schweizer Fernsehen"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0119126/",
-            "name": "Urs Buehler"
+            "name": "Urs Buehler",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3262287/",
-            "name": "Maike Franzen"
+            "name": "Maike Franzen",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
     "keywords": [
-        ""
+        "woman director"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0098086/",
-            "name": "Sabine Boss"
+            "name": "Sabine Boss",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1344720/",
     "metascore": null,
-    "imdb_votes": 57,
+    "imdb_votes": 61,
     "popularity": 0,
-    "description": "A miracle pill makes the 80-year-old look young again and she now has to come to terms with a new identity.",
-    "imdb_rating": "6.4/10 from 57 users",
-    "release_date": [],
+    "description": "On her eightieth birthday, a lawyer gives Frida Borel, the wealthy heiress of a textile fortune from St. Gallen, a mysterious pill from the legacy of her father, who died long ago. This miracle pill is supposed to relieve her of the misery and infirmity of old age. The effect is as surprising as it is far-reaching: Frida becomes physically young again, although she remains mentally the same age as before. But who is going to believe a 25-year-old who claims to be 80? Not even her long-time gardener, Roman, recognises her anymore. Suddenly Frida finds herself penniless. After being waited on her whole life, she now has to go to work for a living. And if that were not unsettling enough, her nephew Georg and his greedy wife, Eva, pilfer everything they can from of her villa. Frida has to acknowledge that her closest relatives would literally walk over her dead body if given the chance.",
+    "imdb_rating": "6.4/10 from 61 users",
+    "release_date": [
+        {
+            "date": "2009-01-25",
+            "country": "Switzerland"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2009-01-25",
+    "original_title": "Das Fräuleinwunder",
     "imdb_rating_average": 6.4,
-    "update_at": "2025-02-10T18:04:39"
+    "update_at": "2026-10-19T19:35:15"
 }

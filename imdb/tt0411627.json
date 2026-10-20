@@ -3,82 +3,131 @@
     "sid": "tt0411627",
     "name": "Manon",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2001",
+    "@type": "TVMovie",
     "genre": [
-        "Music",
         "Drama",
+        "Music",
         "Romance"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0281765/",
-            "name": "Renée Fleming"
+            "name": "Renée Fleming",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1235563/",
-            "name": "Marcelo Álvarez"
+            "name": "Marcelo Álvarez",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1158623/",
-            "name": "Jean-Luc Chaignaud"
+            "name": "Jean-Luc Chaignaud",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1482585/",
+            "name": "Alain Vernhes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0845368/",
+            "name": "Michel Sénéchal",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1645247/",
+            "name": "Franck Ferrari",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1462329/",
+            "name": "Jaël Azzaretti",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1645441/",
+            "name": "Isabelle Cals",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1626039/",
+            "name": "Delphine Haidan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0270879/",
+            "name": "Christophe Fel",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTU4OTM3NjA3OF5BMl5BanBnXkFtZTcwNTYxODMyMQ@@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Renée Fleming",
+            "Marcelo Álvarez",
+            "Jean-Luc Chaignaud"
         ],
-        "Country of origin": [
-            "France"
+        "Genres": [
+            "Drama",
+            "Music",
+            "Romance"
         ],
-        "Filming locations": [
-            "Paris, France"
+        "Writer": [
+            "Henri Meilhac",
+            "Philippe Gille",
+            "Abbé Prévost"
         ],
-        "Production companies": [
-            "France 2 (FR2)",
-            "Opéra National de Paris",
-            "François Roussillon et Associés"
+        "Runtime": [
+            "164 min"
+        ],
+        "Director": [
+            "François Roussillon"
+        ],
+        "Release date": [
+            "2001"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0576830/",
-            "name": "Henri Meilhac"
+            "name": "Henri Meilhac",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0318816/",
-            "name": "Philippe Gille"
+            "name": "Philippe Gille",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0699539/",
-            "name": "Abbé Prévost"
+            "name": "Abbé Prévost",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H44M",
-    "keywords": [
-        "paris france",
-        "prisoner",
-        "opera",
-        "menage a trois",
-        "courtesan"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1347324/",
-            "name": "François Roussillon"
+            "name": "François Roussillon",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0411627/",
     "metascore": null,
-    "imdb_votes": 33,
+    "imdb_votes": 30,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "7.9/10 from 33 users",
+    "imdb_rating": "7.9/10 from 30 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2001",
+    "original_title": "Manon",
     "imdb_rating_average": 7.9,
-    "update_at": "2026-03-23T10:00:50"
+    "update_at": "2026-10-19T10:21:22"
 }

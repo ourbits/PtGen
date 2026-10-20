@@ -4,69 +4,118 @@
     "name": "Little Women",
     "site": "imdb",
     "year": "1946",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
-        "Family",
         "Drama",
+        "Family",
         "Romance"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0371135/",
-            "name": "Margaret Hayes"
+            "name": "Margaret Hayes",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1139441/",
-            "name": "Dorothy Emery"
+            "name": "Dorothy Emery",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0497797/",
-            "name": "Madeline Lee"
+            "name": "Madeline Lee",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0914953/",
+            "name": "Billie Lou Watt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0859961/",
+            "name": "Charles Thompson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1136980/",
+            "name": "Fran Lee",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0557709/",
+            "name": "Ruth Masters",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0782377/",
+            "name": "Tom Seidel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0696152/",
+            "name": "Peter Preses",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0086787/",
+            "name": "Gene Blakely",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Margaret Hayes",
+            "Dorothy Emery",
+            "Madeline Lee"
+        ],
+        "Genres": [
+            "Drama",
+            "Family",
+            "Romance"
+        ],
+        "Writer": [
+            "Louisa May Alcott"
+        ],
+        "Runtime": [
+            "70 min"
+        ],
+        "Director": [
+            "Ernest Colling"
         ],
         "Release date": [
-            "January 29, 1946 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "WNBT New York City"
+            "1946"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0017301/",
-            "name": "Louisa May Alcott"
+            "name": "Louisa May Alcott",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H10M",
-    "keywords": [
-        "early television",
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1135694/",
-            "name": "Ernest Colling"
+            "name": "Ernest Colling",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0309802/",
     "metascore": null,
-    "imdb_votes": 14,
+    "imdb_votes": 13,
     "popularity": 0,
-    "description": "Louisa May Alcott&apos;s autobiographical account of her life with her three sisters in Concord, Massachusetts in the 1860s. With their father fighting in the American Civil War, sisters Jo, Meg, Amy and Beth are at home with their mot...",
-    "imdb_rating": "9/10 from 14 users",
+    "description": null,
+    "imdb_rating": "9.0/10 from 13 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1946-01-29",
-    "imdb_rating_average": 9,
-    "update_at": "2025-06-15T17:55:41"
+    "datePublished": "1946",
+    "original_title": "Little Women",
+    "imdb_rating_average": 9.0,
+    "update_at": "2026-10-19T20:07:12"
 }
