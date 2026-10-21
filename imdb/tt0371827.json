@@ -4,69 +4,109 @@
     "name": "Mockingbird",
     "site": "imdb",
     "year": "2002",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1408496/",
-            "name": "James Douglas"
+            "name": "James Douglas",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1400309/",
-            "name": "Amanda Stephens"
+            "name": "Amanda Stephens",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0448675/",
-            "name": "Bryan Kent"
+            "name": "Bryan Kent",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1414964/",
+            "name": "Jeromy Barber",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1494918/",
+            "name": "Frank Brantley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1155261/",
+            "name": "Juliana Gilchrist",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1407467/",
+            "name": "Sofia Nordenstam",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1967269/",
+            "name": "Hugo Perez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1546150/",
+            "name": "Mel Rodriguez III",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "James Douglas",
+            "Amanda Stephens",
+            "Bryan Kent"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Mel Rodriguez III"
+        ],
+        "Runtime": [
+            "17 min"
+        ],
+        "Director": [
+            "Mel Rodriguez III"
         ],
         "Release date": [
-            "February 5, 2002 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Austin, Texas, USA"
-        ],
-        "Production company": [
-            "Insomniac Films"
+            "2002"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1546150/",
-            "name": "Mel Rodriguez III"
+            "name": "Mel Rodriguez III",
+            "@type": "Person"
         }
     ],
     "duration": "PT17M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1546150/",
-            "name": "Mel Rodriguez III"
+            "name": "Mel Rodriguez III",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0371827/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Jerry Falco is here on Earth on assignment from the Almighty to help people in need, most recently a waitress at the Mockingbird lounge. Or, he may just be insane.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2002-02-05",
+    "datePublished": "2002",
+    "original_title": "Mockingbird",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-05T09:51:46"
+    "update_at": "2026-10-21T00:00:16"
 }

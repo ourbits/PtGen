@@ -3,7 +3,7 @@
     "sid": "tt19757646",
     "name": "My Robot Sophia",
     "site": "imdb",
-    "year": "2025",
+    "year": "2022",
     "@type": "Movie",
     "genre": [
         "Documentary"
@@ -11,72 +11,95 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm8665945/",
-            "name": "David Hanson"
+            "name": "David Hanson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm9800851/",
-            "name": "Sophia the Robot"
+            "name": "Sophia the Robot",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm8804348/",
-            "name": "Sarah Rose Siskind"
+            "name": "Sarah Rose Siskind",
+            "@type": "Person"
         }
     ],
-    "critic": 6,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjQzZTEzZTktMjc2MS00NzBkLTg5NWMtODZlOTI2YjRiYmJmXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/bRcFaWPIiv9lU0h2EdyVhclgwgO.jpg",
     "details": {
+        "Stars": [
+            "David Hanson",
+            "Sophia the Robot",
+            "Sarah Rose Siskind"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Writer": [
+            "Daniel Koehler"
+        ],
+        "Runtime": [
+            "89 min"
+        ],
+        "Director": [
+            "Jon Kasbe",
+            "Crystal Moselle"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 6, 2025 (United States)"
-        ],
-        "Official site": [
-            "Tribeca - https://tribecafilm.com/films/sophia-2022"
+            "2022-06-10"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
-            "Give Thanks",
             "Impact Partners",
-            "Kasbe Films"
+            "Somesuch",
+            "Kasbe Films",
+            "Give Thanks"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3152690/",
-            "name": "Daniel Koehler"
+            "name": "Daniel Koehler",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H29M",
-    "keywords": [
-        "one word title",
-        "inventor",
-        "a.i.",
-        "sophia the robot",
-        "robot"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm5068551/",
-            "name": "Jon Kasbe"
+            "name": "Jon Kasbe",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1145920/",
-            "name": "Crystal Moselle"
+            "name": "Crystal Moselle",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt19757646/",
     "metascore": null,
-    "imdb_votes": 22,
+    "imdb_votes": 75,
     "popularity": 0,
-    "description": "This stirring and visually immersive documentary brings us inside the spirited pursuits of David Hanson, a restless inventor aiming to perfect the world&apos;s most life-like A.I.",
-    "imdb_rating": "8.4/10 from 22 users",
-    "release_date": [],
+    "description": "This stirring and visually immersive documentary brings us inside the spirited pursuits of David Hanson, a restless inventor aiming to perfect the world’s most life-like A.I. With freewheeling energy and storytelling gusto, Jon Kasbe and Crystal M...",
+    "imdb_rating": "6.0/10 from 75 users",
+    "release_date": [
+        {
+            "date": "2022-06-10",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2025-05-06",
-    "imdb_rating_average": 8.4,
-    "update_at": "2025-06-03T06:15:00"
+    "datePublished": "2022-06-10",
+    "original_title": "My Robot Sophia",
+    "imdb_rating_average": 6.0,
+    "update_at": "2026-10-20T21:56:14"
 }

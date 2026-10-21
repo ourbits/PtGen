@@ -3,6 +3,7 @@
     "sid": "tt0418152",
     "name": "The Shakespeare Sessions",
     "site": "imdb",
+    "year": "2003",
     "@type": "Movie",
     "genre": [
         "Documentary"
@@ -10,54 +11,83 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0059178/",
-            "name": "John Barton"
+            "name": "John Barton",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0355991/",
-            "name": "Peter Hall"
+            "name": "Peter Hall",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000163/",
-            "name": "Dustin Hoffman"
+            "name": "Dustin Hoffman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000177/",
+            "name": "Kevin Kline",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0633223/",
+            "name": "Cynthia Nixon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000630/",
+            "name": "Liev Schreiber",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTgyNGNiZmYtMmY4MC00NGIzLWIxNzgtZjcxOWFmOTBmZWQ4XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "John Barton",
+            "Peter Hall",
+            "Dustin Hoffman"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Director": [
+            "Oren Jacoby"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "2003 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Storyville Films"
+            "2003-01-01"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
-    "duration": null,
-    "keywords": [
-        "reference to william shakespeare"
-    ],
+    "duration": "PT1H",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0415007/",
-            "name": "Oren Jacoby"
+            "name": "Oren Jacoby",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0418152/",
     "metascore": null,
-    "imdb_votes": 31,
+    "imdb_votes": 33,
     "popularity": 0,
     "description": "Major film and television stars re-enact famous scenes from the plays of William Shakespeare .",
-    "imdb_rating": "8/10 from 31 users",
-    "release_date": [],
+    "imdb_rating": "8.0/10 from 33 users",
+    "release_date": [
+        {
+            "date": "2003-01-01",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 8,
-    "update_at": "2025-05-12T05:01:12"
+    "datePublished": "2003-01-01",
+    "original_title": "The Shakespeare Sessions",
+    "imdb_rating_average": 8.0,
+    "update_at": "2026-10-20T14:35:39"
 }

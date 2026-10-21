@@ -4,7 +4,7 @@
     "name": "Best Kept Secrets",
     "site": "imdb",
     "year": "1984",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Thriller"
@@ -12,66 +12,124 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001157/",
-            "name": "Patty Duke"
+            "name": "Patty Duke",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0002078/",
-            "name": "Frederic Forrest"
+            "name": "Frederic Forrest",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001075/",
-            "name": "Peter Coyote"
+            "name": "Peter Coyote",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001236/",
+            "name": "Meg Foster",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0758692/",
+            "name": "Albert Salmi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0173125/",
+            "name": "Miriam Colon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0166359/",
+            "name": "David Clennon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0785277/",
+            "name": "Pepe Serna",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0827572/",
+            "name": "Philip Sterling",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0103071/",
+            "name": "Richard Bradford",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGI2NTk0MTAtZjhmMS00MjU4LTljNmEtYTRmZTc4ZjNhZDBkXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/iegpkQ5r0QBn52ixSGyBNOEHGSg.jpg",
     "details": {
+        "Stars": [
+            "Patty Duke",
+            "Frederic Forrest",
+            "Peter Coyote"
+        ],
+        "Genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "Writer": [
+            "April Smith"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "Jerrold Freedman"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 26, 1984 (United States)"
-        ],
-        "Also known as": [
-            "Under Suspicion"
+            "1984-03-26"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "California, USA"
+            "United States of America"
         ],
         "Production companies": [
+            "Sarabande Productions",
             "ABC Circle Films",
-            "Sarabande Productions"
+            "ABC"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0807347/",
-            "name": "April Smith"
+            "name": "April Smith",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H35M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0293197/",
-            "name": "Jerrold Freedman"
+            "name": "Jerrold Freedman",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0086956/",
     "metascore": null,
-    "imdb_votes": 70,
+    "imdb_votes": 73,
     "popularity": 0,
-    "description": "Laura Dietz (Patty Duke Astin) plays the wife of police officer Blaise Dietz (Frederic Forrest), who wants to join a special investigative unit. Officer Dietz is denied this position on the basis of information concerning his wife...",
-    "imdb_rating": "5.7/10 from 70 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "Blaise Dietz (Patty Duke Astin) plays the wife of police officer Blaise Dietz (Frederic Forrest), who wants to join a special investigative unit. Forrest is denied this position on the basis of information concerning his wife. The information, which reveals a dicey extramarital affair, was culled from a department surveillance file that was supposed to have been destroyed by court order. Blaise battles through legal channels to expose the police force's illegal actions, even as she and her husband suffer the innuendoes and cold shoulders from his fellow officers.",
+    "imdb_rating": "5.7/10 from 73 users",
+    "release_date": [
+        {
+            "date": "1984-03-26",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "1984-03-26",
+    "original_title": "Best Kept Secrets",
     "imdb_rating_average": 5.7,
-    "update_at": "2025-05-04T14:22:21"
+    "update_at": "2026-10-20T08:22:25"
 }

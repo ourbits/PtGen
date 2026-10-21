@@ -4,81 +4,146 @@
     "name": "Terror on the 40th Floor",
     "site": "imdb",
     "year": "1974",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001234/",
-            "name": "John Forsythe"
+            "name": "John Forsythe",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0132103/",
-            "name": "Joseph Campanella"
+            "name": "Joseph Campanella",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0137524/",
-            "name": "Lynn Carlin"
+            "name": "Lynn Carlin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0173735/",
+            "name": "Anjanette Comer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0374348/",
+            "name": "Laurie Heineman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0580575/",
+            "name": "Don Meredith",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0676541/",
+            "name": "Kelly Jean Peters",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0779673/",
+            "name": "Pippa Scott",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0348927/",
+            "name": "Louis Guss",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0104919/",
+            "name": "Hank Brandt",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDBlN2UzOGEtNGEwMi00NGY0LTg1ZTYtN2UzMDg5ODA4YmIyXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/oqXsfHHhoeByTFbPvBnwtnGhO4e.jpg",
     "details": {
+        "Stars": [
+            "John Forsythe",
+            "Joseph Campanella",
+            "Lynn Carlin"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Edward Montagne",
+            "Jack Turley"
+        ],
+        "Runtime": [
+            "97 min"
+        ],
+        "Director": [
+            "Jerry Jameson"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "September 17, 1974 (United States)"
-        ],
-        "Also known as": [
-            "The Only Way Is Down"
+            "1974-09-17"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "601 W 5th Street, Los Angeles, California, USA"
+            "United States of America"
         ],
         "Production companies": [
             "Montagne Productions",
-            "Metromedia Producers Corporation (MPC)"
+            "Metromedia Producers Corporation"
         ]
     },
-    "reviews": 10,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0598723/",
-            "name": "Edward Montagne"
+            "name": "Edward Montagne",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0877243/",
-            "name": "Jack Turley"
+            "name": "Jack Turley",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H37M",
     "keywords": [
-        "elevator shaft",
-        "disaster film",
-        "falling to death",
-        "crashing through a window",
-        "drunken man"
+        "fire",
+        "skyscraper",
+        "christmas party",
+        "inferno",
+        "broken elevator",
+        "elevator",
+        "disaster movie",
+        "christmas",
+        "towering inferno",
+        "party"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0417054/",
-            "name": "Jerry Jameson"
+            "name": "Jerry Jameson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0072268/",
     "metascore": null,
-    "imdb_votes": 230,
+    "imdb_votes": 249,
     "popularity": 0,
     "description": "A number of business people, keeping the Christmas Eve office party going longer than was originally intended, are beset by a fire that starts in the basement of their office building and creeps up at them from floor to floor.",
-    "imdb_rating": "4.7/10 from 230 users",
-    "release_date": [],
-    "contentRating": "Unrated",
+    "imdb_rating": "4.7/10 from 249 users",
+    "release_date": [
+        {
+            "date": "1974-09-17",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "1974-09-17",
+    "original_title": "Terror on the 40th Floor",
     "imdb_rating_average": 4.7,
-    "update_at": "2025-03-28T18:00:46"
+    "update_at": "2026-10-20T13:56:17"
 }

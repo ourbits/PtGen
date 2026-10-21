@@ -13,70 +13,132 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001362/",
-            "name": "Bob Hope"
+            "name": "Bob Hope",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001276/",
-            "name": "Jackie Gleason"
+            "name": "Jackie Gleason",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0943837/",
-            "name": "Jane Wyman"
+            "name": "Jane Wyman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000558/",
+            "name": "Leslie Nielsen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0037802/",
+            "name": "Maureen Arthur",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0829717/",
+            "name": "Paul Stewart",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0179782/",
+            "name": "Irwin Corey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001481/",
+            "name": "Tina Louise",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001513/",
+            "name": "Tim Matheson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0131622/",
+            "name": "JoAnna Cameron",
+            "@type": "Person"
         }
     ],
-    "critic": 10,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTJkNWZiNDQtOGNkYi00YzViLThkZmEtMjIzYjhjMjFlYWI3XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/oacohp16AmTABANznLn2H1aoirQ.jpg",
     "details": {
+        "Stars": [
+            "Bob Hope",
+            "Jackie Gleason",
+            "Jane Wyman"
+        ],
+        "Genres": [
+            "Comedy",
+            "Music",
+            "Romance"
+        ],
+        "Writer": [
+            "Ben Starr",
+            "Michael Kanin"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "Norman Panama"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "December 14, 1969 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Evlenmek Yasak"
+            "1969-07-07"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Naho Productions"
         ]
     },
-    "reviews": 19,
+    "reviews": 0,
+    "tagline": "Bob Hope and Jackie Gleason request the honor of your presence at a swinging session on How to Commit Marriage.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0823465/",
-            "name": "Ben Starr"
+            "name": "Ben Starr",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0437720/",
-            "name": "Michael Kanin"
+            "name": "Michael Kanin",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H35M",
     "keywords": [
-        "flower child",
-        "scene during opening credits",
-        "husband and wife share a bed",
-        "twin beds",
-        "split screen"
+        "marriage",
+        "flower child"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0659085/",
-            "name": "Norman Panama"
+            "name": "Norman Panama",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0064449/",
     "metascore": null,
-    "imdb_votes": 592,
+    "imdb_votes": 616,
     "popularity": 0,
-    "description": "Young couple decide to live together and they wind up having a baby. They decide they should give the baby up for adoption. The baby&apos;s Mother&apos;s parents wind up adopting the baby using a fake name.",
-    "imdb_rating": "5.3/10 from 592 users",
-    "release_date": [],
-    "contentRating": "M",
-    "datePublished": "1969-12-14",
+    "description": "A young couple decide to live together and they wind up having a baby. They decide they should give the baby up for adoption. The baby's Mother's parents wind up adopting the baby using a fake name.",
+    "imdb_rating": "5.3/10 from 616 users",
+    "release_date": [
+        {
+            "date": "1969-07-07",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1969-07-07",
+    "original_title": "How to Commit Marriage",
     "imdb_rating_average": 5.3,
-    "update_at": "2025-06-13T02:55:35"
+    "update_at": "2026-10-21T00:00:28"
 }

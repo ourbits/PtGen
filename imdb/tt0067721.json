@@ -4,7 +4,7 @@
     "name": "The Screaming Woman",
     "site": "imdb",
     "year": "1972",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Horror",
@@ -13,73 +13,135 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000014/",
-            "name": "Olivia de Havilland"
+            "name": "Olivia de Havilland",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0625343/",
-            "name": "Ed Nelson"
+            "name": "Ed Nelson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0827084/",
-            "name": "Laraine Stephens"
+            "name": "Laraine Stephens",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001072/",
+            "name": "Joseph Cotten",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0682074/",
+            "name": "Walter Pidgeon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0732457/",
+            "name": "Charles Robinson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0370465/",
+            "name": "Alexandra Hay",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0152452/",
+            "name": "Lonny Chapman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0236866/",
+            "name": "Charles Drake",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0927805/",
+            "name": "Russell Wiggins",
+            "@type": "Person"
         }
     ],
-    "critic": 14,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGE0MTAxYjEtZTMyNC00YTc4LTg1ODMtZTE5NDlmNDdiZjViXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/310ZkynMZGRo9uSdblxWd23jhZZ.jpg",
     "details": {
+        "Stars": [
+            "Olivia de Havilland",
+            "Ed Nelson",
+            "Laraine Stephens"
+        ],
+        "Genres": [
+            "Drama",
+            "Horror",
+            "Thriller"
+        ],
+        "Writer": [
+            "Merwin Gerard",
+            "Ray Bradbury"
+        ],
+        "Runtime": [
+            "73 min"
+        ],
+        "Director": [
+            "Jack Smight"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 29, 1972 (United States)"
-        ],
-        "Also known as": [
-            "Grito de mujer"
+            "1972-01-29"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Bliss Estate, Montecito, California, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Universal Television"
         ]
     },
-    "reviews": 42,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0313975/",
-            "name": "Merwin Gerard"
+            "name": "Merwin Gerard",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001969/",
-            "name": "Ray Bradbury"
+            "name": "Ray Bradbury",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H13M",
     "keywords": [
-        "psychotronic film",
-        "abc movie of the week",
-        "female protagonist",
-        "heroine",
-        "screaming woman"
+        "buried alive",
+        "inheritance",
+        "nervous breakdown",
+        "mental illness",
+        "madness"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0806915/",
-            "name": "Jack Smight"
+            "name": "Jack Smight",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0067721/",
     "metascore": null,
-    "imdb_votes": 1032,
+    "imdb_votes": 1163,
     "popularity": 0,
-    "description": "A wealthy former mental patient goes home to her estate to rest and recuperate. While walking the grounds one day she hears the screams of a woman coming from underneath the ground who has been buried alive. Her family, however, r...",
-    "imdb_rating": "6.5/10 from 1032 users",
-    "release_date": [],
-    "contentRating": "TV-PG",
+    "description": "A wealthy former mental patient goes home to her estate to rest and recuperate. While walking the grounds one day she hears the screams of a woman coming from underneath the ground. Her family, however, refuses to believe her story, and sees the incident as an opportunity to prove the woman's mind has snapped so they can take control of her money.",
+    "imdb_rating": "6.5/10 from 1163 users",
+    "release_date": [
+        {
+            "date": "1972-01-29",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "1972-01-29",
+    "original_title": "The Screaming Woman",
     "imdb_rating_average": 6.5,
-    "update_at": "2025-05-02T00:33:59"
+    "update_at": "2026-10-20T05:07:06"
 }

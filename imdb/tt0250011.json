@@ -4,52 +4,74 @@
     "name": "Svinaherden",
     "site": "imdb",
     "year": "1958",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Family"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0093210/",
-            "name": "Tomas Bolme"
+            "name": "Tomas Bolme",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0464429/",
-            "name": "Sonja Kolthoff"
+            "name": "Sonja Kolthoff",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0551958/",
-            "name": "Bengt Martin"
+            "name": "Bengt Martin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0868078/",
+            "name": "Majken Torkeli",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0874537/",
+            "name": "Folke Trägårdh",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Swedish"
+        "Stars": [
+            "Tomas Bolme",
+            "Sonja Kolthoff",
+            "Bengt Martin"
+        ],
+        "Genres": [
+            "Family"
+        ],
+        "Writer": [
+            "Hans Christian Andersen"
+        ],
+        "Director": [
+            "Ingrid Edström"
         ],
         "Release date": [
-            "February 13, 1958 (Sweden)"
-        ],
-        "Country of origin": [
-            "Sweden"
+            "1958"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0026153/",
-            "name": "Hans Christian Andersen"
+            "name": "Hans Christian Andersen",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "foreign language adaptation"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0249697/",
-            "name": "Ingrid Edström"
+            "name": "Ingrid Edström",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0250011/",
@@ -60,7 +82,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1958-02-13",
+    "datePublished": "1958",
+    "original_title": "Svinaherden",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-12T12:29:09"
+    "update_at": "2026-10-20T09:21:34"
 }

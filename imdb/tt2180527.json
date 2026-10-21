@@ -4,62 +4,89 @@
     "name": "Sicher ist nichts",
     "site": "imdb",
     "year": "2012",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2212134/",
-            "name": "Franziska Arndt"
+            "name": "Franziska Arndt",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0921496/",
-            "name": "Ursula Werner"
+            "name": "Ursula Werner",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4471218/",
-            "name": "Linn Müller"
+            "name": "Linn Müller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2765163/",
+            "name": "Jenny Laura Bischoff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0776558/",
+            "name": "Gabriele Schulze",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0833229/",
+            "name": "Ilse Strambowski",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0954298/",
+            "name": "Eva Zeidler",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Franziska Arndt",
+            "Ursula Werner",
+            "Linn Müller"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Nathalie Schulten"
+        ],
+        "Runtime": [
+            "24 min"
+        ],
+        "Director": [
+            "Nathalie Schulten"
         ],
         "Release date": [
-            "January 18, 2012 (Germany)"
-        ],
-        "Official site": [
-            "Official Site - http://www.nevernat.com/"
-        ],
-        "Country of origin": [
-            "Germany"
-        ],
-        "Filming locations": [
-            "North Rhine-Westphalia, Germany"
-        ],
-        "Production company": [
-            "Fachhochschule Dortmund"
+            "2012"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2603494/",
-            "name": "Nathalie Schulten"
+            "name": "Nathalie Schulten",
+            "@type": "Person"
         }
     ],
     "duration": "PT24M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2603494/",
-            "name": "Nathalie Schulten"
+            "name": "Nathalie Schulten",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2180527/",
@@ -70,7 +97,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2012-01-18",
+    "datePublished": "2012",
+    "original_title": "Sicher ist nichts",
     "imdb_rating_average": 0,
-    "update_at": "2025-04-07T12:26:05"
+    "update_at": "2026-10-20T06:00:22"
 }

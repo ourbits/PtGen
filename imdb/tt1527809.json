@@ -4,52 +4,99 @@
     "name": "Äiti tekee satua",
     "site": "imdb",
     "year": "1972",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Family"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3644407/",
-            "name": "Nina Erlandsson"
+            "name": "Nina Erlandsson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0450067/",
-            "name": "Johanna Kerttula"
+            "name": "Johanna Kerttula",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0481827/",
-            "name": "Ari Laine"
+            "name": "Ari Laine",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3644691/",
+            "name": "Camilla Lehtonen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3644590/",
+            "name": "Monica Lehtonen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1493868/",
+            "name": "Kari Paukkunen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3644254/",
+            "name": "Sari Ryynänen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0802634/",
+            "name": "Jukka Sipilä",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0881408/",
+            "name": "Leena Uotila",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0899395/",
+            "name": "Timo Virkki",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Nina Erlandsson",
+            "Johanna Kerttula",
+            "Ari Laine"
+        ],
+        "Genres": [
+            "Family"
+        ],
+        "Writer": [
+            "Tupuna Vaissi"
+        ],
+        "Director": [
+            "Raili Rusto"
+        ],
         "Release date": [
-            "January 28, 1972 (Finland)"
-        ],
-        "Country of origin": [
-            "Finland"
-        ],
-        "Production company": [
-            "Yleisradio (YLE)"
+            "1972"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2473314/",
-            "name": "Tupuna Vaissi"
+            "name": "Tupuna Vaissi",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "f rated"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0751843/",
-            "name": "Raili Rusto"
+            "name": "Raili Rusto",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1527809/",
@@ -60,7 +107,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1972-01-28",
+    "datePublished": "1972",
+    "original_title": "Äiti tekee satua",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-22T01:00:11"
+    "update_at": "2026-10-20T05:00:16"
 }

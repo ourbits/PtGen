@@ -4,72 +4,131 @@
     "name": "Stalk the Wild Child",
     "site": "imdb",
     "year": "1976",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0418148/",
-            "name": "David Janssen"
+            "name": "David Janssen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0098733/",
-            "name": "Joseph Bottoms"
+            "name": "Joseph Bottoms",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0098726/",
-            "name": "Ben Bottoms"
+            "name": "Ben Bottoms",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0810404/",
+            "name": "Jamie Smith-Jackson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0033458/",
+            "name": "Allan Arbus",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0886556/",
+            "name": "Trish Van Devere",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0861154/",
+            "name": "Jerome Thor",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0308507/",
+            "name": "George Garro",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0674231/",
+            "name": "Rhea Perlman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0881518/",
+            "name": "Morgan Upton",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYThjYzhhNjQtNDI3Yi00ZmJkLWE4ODUtYmJjNjAwNDUwZThmXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/vzUYCtDe8kUdjWp62lXNqtnPCPI.jpg",
     "details": {
+        "Stars": [
+            "David Janssen",
+            "Joseph Bottoms",
+            "Ben Bottoms"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Peter Packer"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "William Hale"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 3, 1976 (United States)"
-        ],
-        "Also known as": [
-            "Farrell"
+            "1976-11-03"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Universal Studios - 100 Universal City Plaza, Universal City, California, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Charles Fries Productions"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0655499/",
-            "name": "Peter Packer"
+            "name": "Peter Packer",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
     "keywords": [
-        "feral child"
+        "wild child",
+        "gentrification"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0355032/",
-            "name": "William Hale"
+            "name": "William Hale",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0075264/",
     "metascore": null,
     "imdb_votes": 51,
     "popularity": 0,
-    "description": "A young boy who had been abandoned as a child and raised by wild dogs is taken to a university, where a team attempts to teach him civilized behavior.",
+    "description": "A young boy who had been abandoned as a child and raised by wild dogs is taken to a university where a team attempts to teach him civilized behavior.",
     "imdb_rating": "6.5/10 from 51 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1976-11-03",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1976-11-03",
+    "original_title": "Stalk the Wild Child",
     "imdb_rating_average": 6.5,
-    "update_at": "2025-10-03T23:35:05"
+    "update_at": "2026-10-20T04:07:12"
 }

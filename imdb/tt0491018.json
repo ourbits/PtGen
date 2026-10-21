@@ -4,42 +4,93 @@
     "name": "Kiss: Rock the Nation - Live",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Music"
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTg1NzEzMjc5MV5BMl5BanBnXkFtZTcwOTk5MjYzMQ@@._V1_.jpg",
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm1653348/",
+            "name": "KISS",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005430/",
+            "name": "Gene Simmons",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0801928/",
+            "name": "Eric Singer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0822571/",
+            "name": "Paul Stanley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1508380/",
+            "name": "Tommy Thayer",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/3jWvoGePcclss3eThA6Uhm2Ed7q.jpg",
     "details": {
+        "Stars": [
+            "KISS",
+            "Gene Simmons",
+            "Eric Singer"
+        ],
+        "Genres": [
+            "Music"
+        ],
+        "Runtime": [
+            "137 min"
+        ],
+        "Director": [
+            "Jonathan Beswick"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "December 13, 2005 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Virginia Beach, Virginia, USA"
+            "2005-12-13"
         ]
     },
-    "reviews": 5,
+    "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": "PT2H17M",
     "keywords": [
-        "live performance",
-        "rock music",
-        "concert film"
+        "concert",
+        "heavy metal",
+        "hard rock",
+        "glam metal"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm1538285/",
+            "name": "Jonathan Beswick",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0491018/",
     "metascore": null,
-    "imdb_votes": 208,
+    "imdb_votes": 210,
     "popularity": 0,
-    "description": "From their formative years in the early &apos;70s to the present day, KISS is regarded as one of the most influential rock and roll bands of all time. Now their legacy continues to grow, as KISS is stronger and more vital than ever, co...",
-    "imdb_rating": "8/10 from 208 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "KISS fans have been largely divided into two camps. On one side you've got the purists who are fans of the original line up (Paul, Gene, Ace, and Peter), and may or may not tolerate any of the other line-ups (and if they do tolerate any of the other line-ups, they always preface any conversation with, \"Of course, the original line-up is the only REAL KISS\"). On the other side you've got the fans who want the best available players to play alongside Paul and Gene. They weren't really happy when the Reunion happened back in '96 as the Revenge line-up was incredibly strong and vibrant musically.",
+    "imdb_rating": "8.0/10 from 210 users",
+    "release_date": [
+        {
+            "date": "2005-12-13",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2005-12-13",
-    "imdb_rating_average": 8,
-    "update_at": "2025-10-10T04:52:25"
+    "original_title": "Kiss: Rock the Nation - Live",
+    "imdb_rating_average": 8.0,
+    "update_at": "2026-10-20T23:07:25"
 }

@@ -4,71 +4,83 @@
     "name": "Come to Know",
     "site": "imdb",
     "year": "2010",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Drama",
-        "Romance"
+        "Romance",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3809932/",
-            "name": "Matthew Delamater"
+            "name": "Matthew Delamater",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3655909/",
-            "name": "Lauren Sowa"
+            "name": "Lauren Sowa",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3869039/",
-            "name": "Stephanie MacDonald"
+            "name": "Stephanie MacDonald",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTdmZTE2YTQtNmE4MS00ZDQyLTkyNGUtNDJhMjBmZmJhZTA4XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Matthew Delamater",
+            "Lauren Sowa",
+            "Stephanie MacDonald"
+        ],
+        "Genres": [
+            "Drama",
+            "Romance",
+            "Short"
+        ],
+        "Writer": [
+            "Bryant Mason"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "Ian Clough"
         ],
         "Release date": [
-            "July 22, 2010 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Portland, Maine, USA"
-        ],
-        "Production company": [
-            "Maine Film Collaborative"
+            "2010"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0556626/",
-            "name": "Bryant Mason"
+            "name": "Bryant Mason",
+            "@type": "Person"
         }
     ],
     "duration": "PT10M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3807219/",
-            "name": "Ian Clough"
+            "name": "Ian Clough",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1602118/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "The morning after, unspoken questions about pleasure surface, unraveling unexpected emotions. With honesty and vulnerability, the man broaches the topic, unraveling layers of trust, ego, and societal pressures.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2010-07-22",
+    "datePublished": "2010",
+    "original_title": "Come to Know",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-17T08:28:07"
+    "update_at": "2026-10-20T12:07:35"
 }

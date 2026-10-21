@@ -3,48 +3,62 @@
     "sid": "tt0220378",
     "name": "Crvene marke sa likom Lenjina",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1984",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0767622/",
-            "name": "Olga Savic"
+            "name": "Olga Savic",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Serbo-Croatian"
+        "Stars": [
+            "Olga Savic"
         ],
-        "Country of origin": [
-            "Yugoslavia"
+        "Genres": [
+            "Drama"
         ],
-        "Production company": [
-            "Radiotelevizija Beograd"
+        "Writer": [
+            "Danilo Kis",
+            "Aleksandar Mandic"
+        ],
+        "Runtime": [
+            "34 min"
+        ],
+        "Director": [
+            "Aleksandar Mandic"
+        ],
+        "Release date": [
+            "1984"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0457101/",
-            "name": "Danilo Kis"
+            "name": "Danilo Kis",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0541800/",
-            "name": "Aleksandar Mandic"
+            "name": "Aleksandar Mandic",
+            "@type": "Person"
         }
     ],
     "duration": "PT34M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0541800/",
-            "name": "Aleksandar Mandic"
+            "name": "Aleksandar Mandic",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0220378/",
@@ -52,10 +66,11 @@
     "imdb_votes": 6,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "7/10 from 6 users",
+    "imdb_rating": "7.0/10 from 6 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 7,
-    "update_at": "2025-05-14T03:21:11"
+    "datePublished": "1984",
+    "original_title": "Crvene marke sa likom Lenjina",
+    "imdb_rating_average": 7.0,
+    "update_at": "2026-10-20T07:28:19"
 }

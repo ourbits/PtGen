@@ -1,72 +1,128 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Sunflowers",
+            "country": "China"
+        }
+    ],
     "sid": "tt7847322",
     "name": "Sun Flowers",
     "site": "imdb",
     "year": "2010",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm5919837/",
-            "name": "Shara Lin"
+            "name": "Shara Lin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4431584/",
-            "name": "Derek Chen"
+            "name": "Derek Chen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3423363/",
-            "name": "Tai-Feng Tu"
+            "name": "Tai-Feng Tu",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2662550/",
+            "name": "Chen-Peng Kao",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2744537/",
+            "name": "Min Wu",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6342154/",
+            "name": "Ting-Hung Wu",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4918457/",
+            "name": "Shih-Mei Tu",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5397442/",
+            "name": "Calvin Li",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6055354/",
+            "name": "Jiwasi Dulan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6157185/",
+            "name": "Yu-Fei Wen",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDQ3MDdlOWMtOWM5YS00ZWFmLWFjYWYtM2Q4NzUxMTFmMzQ0XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/9hDpe6kmzulV1T16iYYMxBINtEo.jpg",
     "details": {
+        "Stars": [
+            "Shara Lin",
+            "Derek Chen",
+            "Tai-Feng Tu"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Yi-Ju Chen",
+            "Chao-Liang Huang",
+            "Shu-Yun Huang"
+        ],
+        "Runtime": [
+            "108 min"
+        ],
+        "Director": [
+            "Chao-Liang Huang"
+        ],
         "Language": [
             "Mandarin"
         ],
         "Release date": [
-            "December 9, 2010 (Taiwan)"
-        ],
-        "Also known as": [
-            "向日葵"
-        ],
-        "Official site": [
-            "Official site (Taiwan) - https://www.pts.org.tw/Program/Template1B_Customize_Menu.aspx?PNum=281&CMNum=397"
+            "2010-05-13"
         ],
         "Country of origin": [
             "Taiwan"
-        ],
-        "Production company": [
-            "Idea Shine"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm5919841/",
-            "name": "Yi-Ju Chen"
+            "name": "Yi-Ju Chen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5919836/",
-            "name": "Chao-Liang Huang"
+            "name": "Chao-Liang Huang",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5919840/",
-            "name": "Shu-Yun Huang"
+            "name": "Shu-Yun Huang",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H48M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm5919836/",
-            "name": "Chao-Liang Huang"
+            "name": "Chao-Liang Huang",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt7847322/",
@@ -75,9 +131,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2010-05-13",
+            "country": "Taiwan"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2010-12-09",
+    "datePublished": "2010-05-13",
+    "original_title": "Sun Flowers",
     "imdb_rating_average": 0,
-    "update_at": "2026-03-07T11:56:58"
+    "update_at": "2026-10-20T04:35:31"
 }

@@ -4,53 +4,137 @@
     "name": "The African Queen",
     "site": "imdb",
     "year": "1977",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Adventure",
         "Drama",
         "Romance"
     ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0643105/",
+            "name": "Warren Oates",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0366866/",
+            "name": "Mariette Hartley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0414125/",
+            "name": "Tyrone Jackson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3404360/",
+            "name": "Alfred Polsen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0745051/",
+            "name": "Wolf Roth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0776048/",
+            "name": "Frank Schuller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0782885/",
+            "name": "Johnny Sekka",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0858644/",
+            "name": "Clarence Thomas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0285468/",
+            "name": "Raymond Forchion",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTI0NmIxNjctMWE3Mi00YWE1LWFkYzYtNDkzOGU1NGQyOGM5XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/ryaY5ro5As0FgOh3Zaf2n38BVrw.jpg",
     "details": {
+        "Stars": [
+            "Warren Oates",
+            "Mariette Hartley",
+            "Tyrone Jackson"
+        ],
+        "Genres": [
+            "Adventure",
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "C.S. Forester",
+            "Irving Gaynor Neiman"
+        ],
+        "Runtime": [
+            "50 min"
+        ],
+        "Director": [
+            "Richard C. Sarafian"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 18, 1977 (United States)"
-        ],
-        "Also known as": [
-            "Regina africană"
+            "1977-03-18"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Dade County, Florida, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "CBS"
         ]
     },
-    "reviews": 1,
-    "creators": [],
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0286163/",
+            "name": "C.S. Forester",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0624846/",
+            "name": "Irving Gaynor Neiman",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT50M",
     "keywords": [
-        "unsold tv series pilot",
-        "cannon",
-        "super weapon",
-        "recaptured",
-        "nazi"
+        "world war ii",
+        "sequel",
+        "failed tv pilot"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0764781/",
+            "name": "Richard C. Sarafian",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0075639/",
     "metascore": null,
-    "imdb_votes": 56,
+    "imdb_votes": 60,
     "popularity": 0,
     "description": "After the events of The African Queen (1951), Charlie and Rose are recaptured by the Germans and forced to tug one of their big cannons that could bring the Nazis victory against the local Allied forces.",
-    "imdb_rating": "6.9/10 from 56 users",
-    "release_date": [],
-    "contentRating": null,
+    "imdb_rating": "6.9/10 from 60 users",
+    "release_date": [
+        {
+            "date": "1977-03-18",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "1977-03-18",
+    "original_title": "The African Queen",
     "imdb_rating_average": 6.9,
-    "update_at": "2025-11-07T12:33:20"
+    "update_at": "2026-10-20T14:56:32"
 }

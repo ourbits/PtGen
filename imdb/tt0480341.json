@@ -4,45 +4,61 @@
     "name": "Baden",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2048035/",
-            "name": "Alex Happel"
+            "name": "Alex Happel",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2046381/",
-            "name": "Sarah Lucke"
+            "name": "Sarah Lucke",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Release date": [
-            "March 11, 2005 (Germany)"
+        "Stars": [
+            "Alex Happel",
+            "Sarah Lucke"
         ],
-        "Country of origin": [
-            "Germany"
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Stefan Kriekhaus"
+        ],
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "Stefan Kriekhaus"
+        ],
+        "Release date": [
+            "2005"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0471240/",
-            "name": "Stefan Kriekhaus"
+            "name": "Stefan Kriekhaus",
+            "@type": "Person"
         }
     ],
     "duration": "PT12M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0471240/",
-            "name": "Stefan Kriekhaus"
+            "name": "Stefan Kriekhaus",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0480341/",
@@ -53,7 +69,8 @@
     "imdb_rating": "6.6/10 from 9 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2005-03-11",
+    "datePublished": "2005",
+    "original_title": "Baden",
     "imdb_rating_average": 6.6,
-    "update_at": "2025-06-06T08:34:03"
+    "update_at": "2026-10-20T20:28:26"
 }

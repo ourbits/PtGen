@@ -4,71 +4,81 @@
     "name": "Nocna voznja",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Mystery"
+        "Mystery",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2418338/",
-            "name": "Janko Popovic Volaric"
+            "name": "Janko Popovic Volaric",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2041861/",
-            "name": "Goran Bogdan"
+            "name": "Goran Bogdan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2833817/",
-            "name": "Maja Posavec"
+            "name": "Maja Posavec",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Serbo-Croatian"
+        "Stars": [
+            "Janko Popovic Volaric",
+            "Goran Bogdan",
+            "Maja Posavec"
+        ],
+        "Genres": [
+            "Mystery",
+            "Short"
+        ],
+        "Writer": [
+            "Andrija Mardesic"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "Andrija Mardesic"
         ],
         "Release date": [
-            "October 22, 2007 (Croatia)"
-        ],
-        "Country of origin": [
-            "Croatia"
-        ],
-        "Production company": [
-            "Akademija Dramskih Umjetnosti (ADU)"
+            "2007"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2834874/",
-            "name": "Andrija Mardesic"
+            "name": "Andrija Mardesic",
+            "@type": "Person"
         }
     ],
     "duration": "PT10M",
-    "keywords": [
-        "tape recording",
-        "slapped in the face",
-        "room",
-        "radio",
-        "private detective"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2834874/",
-            "name": "Andrija Mardesic"
+            "name": "Andrija Mardesic",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1130860/",
     "metascore": null,
-    "imdb_votes": 48,
+    "imdb_votes": 49,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "8.4/10 from 48 users",
+    "imdb_rating": "8.4/10 from 49 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2007-10-22",
+    "datePublished": "2007",
+    "original_title": "Nocna voznja",
     "imdb_rating_average": 8.4,
-    "update_at": "2025-07-13T01:39:30"
+    "update_at": "2026-10-20T22:49:22"
 }

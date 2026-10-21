@@ -3,31 +3,69 @@
     "sid": "tt0441350",
     "name": "Lisa",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2002",
+    "@type": "Short",
     "genre": [
         "Short"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0281415/",
+            "name": "Ianka Fleerackers",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0329677/",
+            "name": "Patrick Goossens",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0680921/",
+            "name": "Philmarie",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Ianka Fleerackers",
+            "Patrick Goossens",
+            "Philmarie"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Daniel Cooreman"
+        ],
+        "Runtime": [
+            "19 min"
+        ],
+        "Director": [
+            "Daniel Cooreman"
         ],
         "Release date": [
-            "2002 (Belgium)"
-        ],
-        "Country of origin": [
-            "Belgium"
-        ],
-        "Production company": [
-            "Polymorfilms"
+            "2002"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0178497/",
+            "name": "Daniel Cooreman",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT19M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0178497/",
+            "name": "Daniel Cooreman",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0441350/",
     "metascore": null,
@@ -37,7 +75,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2002",
+    "original_title": "Lisa",
     "imdb_rating_average": 0,
-    "update_at": "2025-11-02T22:39:08"
+    "update_at": "2026-10-20T13:42:08"
 }

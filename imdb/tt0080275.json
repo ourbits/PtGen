@@ -4,7 +4,7 @@
     "name": "Sinkadus",
     "site": "imdb",
     "year": "1980",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Comedy",
         "Crime"
@@ -12,56 +12,117 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0259624/",
-            "name": "Hans Ernback"
+            "name": "Hans Ernback",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0782621/",
-            "name": "Mona Seilitz"
+            "name": "Mona Seilitz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0259174/",
-            "name": "Stig Ossian Ericson"
+            "name": "Stig Ossian Ericson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0257810/",
+            "name": "Stig Engström",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0632320/",
+            "name": "Tommy Nilson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0138167/",
+            "name": "Birgit Carlstén",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0536389/",
+            "name": "Leif Magnusson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0433636/",
+            "name": "Gun Jönsson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0252434/",
+            "name": "Nils Eklund",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0348266/",
+            "name": "Fred Gunnarsson",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDEzNDQwMDgtYjM2Yi00NWMwLWEzNTItMjVkNjU5NjI2MzQxXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/abxxbWOYExzyvqHNmUfU2eFVgkQ.jpg",
     "details": {
+        "Stars": [
+            "Hans Ernback",
+            "Mona Seilitz",
+            "Stig Ossian Ericson"
+        ],
+        "Genres": [
+            "Comedy",
+            "Crime"
+        ],
+        "Writer": [
+            "Leif Krantz"
+        ],
+        "Runtime": [
+            "270 min"
+        ],
+        "Director": [
+            "Leif Krantz"
+        ],
         "Language": [
             "Swedish"
         ],
         "Release date": [
-            "September 6, 1980 (Sweden)"
-        ],
-        "Also known as": [
-            "Simonssonin sattumat"
+            "1980-09-06"
         ],
         "Country of origin": [
             "Sweden"
         ],
         "Production companies": [
-            "Drakfilm Produktion",
-            "Sveriges Television (SVT)"
+            "Drakfilm Produktion"
         ]
     },
-    "reviews": 1,
-    "creators": [],
-    "duration": null,
-    "keywords": [
-        "caper crime",
-        "car",
-        "robbery",
-        "manhunt",
-        "gold"
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0469803/",
+            "name": "Leif Krantz",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT4H30M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0469803/",
+            "name": "Leif Krantz",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0080275/",
     "metascore": null,
-    "imdb_votes": 62,
+    "imdb_votes": 64,
     "popularity": 0,
-    "description": "A gang robs an armored car with gold bullion. They store the gold in the wrong car. A car belonging to a depressed man.",
-    "imdb_rating": "6.9/10 from 62 users",
+    "description": "A gang of robbers misplaces their loot of gold bars in the wrong car. After a while both the gang and their new unwitting accomplice find themselves chased both by other criminals who want a cut and the police.",
+    "imdb_rating": "6.8/10 from 64 users",
     "release_date": [],
     "contentRating": null,
     "datePublished": "1980-09-06",
-    "imdb_rating_average": 6.9,
-    "update_at": "2025-09-04T12:28:14"
+    "original_title": "Sinkadus",
+    "imdb_rating_average": 6.8,
+    "update_at": "2026-10-20T20:56:19"
 }

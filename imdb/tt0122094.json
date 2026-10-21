@@ -4,7 +4,7 @@
     "name": "Grynnan",
     "site": "imdb",
     "year": "1996",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Drama",
         "Short"
@@ -12,66 +12,135 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0708159/",
-            "name": "Jacqueline Ramel"
+            "name": "Jacqueline Ramel",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0282350/",
-            "name": "Mats Flink"
+            "name": "Mats Flink",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0489279/",
-            "name": "Stefan Larsson"
+            "name": "Stefan Larsson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0460663/",
+            "name": "Peter Kneip",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0524741/",
+            "name": "Peter Luckhaus",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0436136/",
+            "name": "Åsa Kalmér",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0459702/",
+            "name": "Elisabeth Kling",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0536387/",
+            "name": "Lakke Magnusson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0648065/",
+            "name": "Ingela Olsson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0658653/",
+            "name": "Peter Palmér",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Jacqueline Ramel",
+            "Mats Flink",
+            "Stefan Larsson"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Mats Flink",
+            "Stefan Larsson",
+            "Jacqueline Ramel"
+        ],
+        "Runtime": [
+            "30 min"
+        ],
+        "Director": [
+            "Rickard Günther"
+        ],
+        "Language": [
+            "Swedish"
+        ],
         "Release date": [
-            "February 4, 1996 (Sweden)"
+            "1996-02-03"
         ],
         "Country of origin": [
             "Sweden"
         ],
         "Production companies": [
-            "Svenska Filminstitutet (SFI)",
-            "Torpedfilm"
+            "Torpedfilm",
+            "Svenska Filminstitutet"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0282350/",
-            "name": "Mats Flink"
+            "name": "Mats Flink",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0489279/",
-            "name": "Stefan Larsson"
+            "name": "Stefan Larsson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0708159/",
-            "name": "Jacqueline Ramel"
+            "name": "Jacqueline Ramel",
+            "@type": "Person"
         }
     ],
     "duration": "PT30M",
-    "keywords": [
-        "boat",
-        "stockholm archipelago"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0351613/",
-            "name": "Rickard Günther"
+            "name": "Rickard Günther",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0122094/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "An actress is in an acute crisis after her child died in sudden infant death. She takes the boat to the archipelago island where her husband and the brother are.",
+    "description": "\"The Reef\" - Paula, is in an acute crisis after her child died in sudden infant death. She takes the boat to the archipelago island where her husband Simon and Benjamin, her brother in law, are. Paula and Benjamin have previously had a relationship, Simon does not know this. It is a tensed situation between the three.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1996-02-03",
+            "country": "Sweden"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1996-02-04",
+    "datePublished": "1996-02-03",
+    "original_title": "Grynnan",
     "imdb_rating_average": 0,
-    "update_at": "2025-04-11T20:35:05"
+    "update_at": "2026-10-20T05:00:16"
 }

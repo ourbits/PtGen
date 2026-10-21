@@ -1,5 +1,26 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "마루 밑 배관공",
+            "country": "South Korea"
+        },
+        {
+            "title": "Crawlspace: Em Confinamento",
+            "country": "Brazil"
+        },
+        {
+            "title": "Tarama Alanı",
+            "country": "Turkey"
+        },
+        {
+            "title": "Підвал",
+            "country": "Ukraine"
+        },
+        {
+            "title": "Crawlspace",
+            "country": "United States of America"
+        }
+    ],
     "sid": "tt14394620",
     "name": "Crawlspace",
     "site": "imdb",
@@ -11,35 +32,84 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001794/",
-            "name": "Henry Thomas"
+            "name": "Henry Thomas",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0835426/",
-            "name": "Bradley Stryker"
+            "name": "Bradley Stryker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0003210/",
-            "name": "C. Ernst Harth"
+            "name": "C. Ernst Harth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0731897/",
+            "name": "Jennifer Robertson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2772584/",
+            "name": "Olivia Taylor Dudley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0182099/",
+            "name": "Joe Costa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0521723/",
+            "name": "Catherine Lough Haggquist",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1653170/",
+            "name": "Colin Decker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3629760/",
+            "name": "Andrei Kovski",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0418744/",
+            "name": "Charles Jarman",
+            "@type": "Person"
         }
     ],
-    "critic": 11,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGUwMzZlMjMtNTc4Yy00N2Y3LWI4ZjItNmNiNWY3ZTUxYWY0XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/yZVByCjWvKdSWcYLacoFmnOoSpm.jpg",
     "details": {
+        "Stars": [
+            "Henry Thomas",
+            "Bradley Stryker",
+            "C. Ernst Harth"
+        ],
+        "Genres": [
+            "Thriller"
+        ],
+        "Writer": [
+            "Jacob D. Wehrman"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "L. Gustavo Cooper"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "December 13, 2022 (Canada)"
+            "2022-03-31"
         ],
-        "Also known as": [
-            "Tarama Alanı"
-        ],
-        "Filming locations": [
-            "Maple Ridge, British Columbia, Canada"
-        ],
-        "Countries of origin": [
-            "United States",
-            "Canada"
+        "Country of origin": [
+            "Canada",
+            "United States of America"
         ],
         "Production companies": [
             "SP Media Group",
@@ -47,34 +117,69 @@
             "Front Street Pictures"
         ]
     },
-    "reviews": 38,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm12463535/",
-            "name": "Jacob D. Wehrman"
+            "name": "Jacob D. Wehrman",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
     "keywords": [
-        "psychological thriller",
-        "trap",
-        "man"
+        "small town",
+        "plumber",
+        "murder",
+        "drugs",
+        "trapped",
+        "illegal logging",
+        "crawlspace",
+        "stashed cash",
+        "corrupt cop"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm4998490/",
-            "name": "L. Gustavo Cooper"
+            "name": "L. Gustavo Cooper",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt14394620/",
     "metascore": null,
-    "imdb_votes": 2893,
+    "imdb_votes": 3120,
     "popularity": 0,
-    "description": "A family man finds himself trapped in the crawlspace of a remote Oregon cabin where ruthless poachers have stashed their gains.",
-    "imdb_rating": "4.7/10 from 2893 users",
-    "release_date": [],
+    "description": "After witnessing a brutal murder in a cabin, a man hides in a crawlspace while the killers scour the property for a hidden fortune. As they draw nearer, he must decide if the crawlspace will be his tomb or the battleground in his fight for survival.",
+    "imdb_rating": "4.7/10 from 3120 users",
+    "release_date": [
+        {
+            "date": "2022-11-16",
+            "country": "Brazil"
+        },
+        {
+            "date": "2023-01-23",
+            "country": "Germany"
+        },
+        {
+            "date": "2023-01-23",
+            "country": "Denmark"
+        },
+        {
+            "date": "2022-06-14",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "2022-03-31",
+            "country": "Romania"
+        },
+        {
+            "date": "2022-03-31",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": "R",
-    "datePublished": "2022-12-13",
+    "datePublished": "2022-03-31",
+    "original_title": "Crawlspace",
     "imdb_rating_average": 4.7,
-    "update_at": "2025-07-16T15:42:56"
+    "update_at": "2026-10-20T08:14:23"
 }

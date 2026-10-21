@@ -4,7 +4,7 @@
     "name": "The Fatal Photo",
     "site": "imdb",
     "year": "1923",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Comedy",
         "Short"
@@ -12,56 +12,61 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0571205/",
-            "name": "Raymond McKee"
+            "name": "Raymond McKee",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0027159/",
-            "name": "Mary Anderson"
+            "name": "Mary Anderson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0614879/",
-            "name": "Charles Murray"
+            "name": "Charles Murray",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDk2MDVmNDYtZjY0MS00OWY4LWI2Y2YtYTEzMmYyNWE2M2QyXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Stars": [
+            "Raymond McKee",
+            "Mary Anderson",
+            "Charles Murray"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Director": [
+            "Richard Thorpe"
         ],
         "Release date": [
-            "February 25, 1923 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production companies": [
-            "All Star Comedies",
-            "Mastodon Films"
+            "1923"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0861703/",
-            "name": "Richard Thorpe"
+            "name": "Richard Thorpe",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0343654/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "A photograph of Pa Hinkle, taken in his bachelor days with a bathing girl siren, is rather compromising, and the action centers around his efforts to regain this photo. Jimmie, as the suitor of his daughter Mary, gains possession ...",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1923-02-25",
+    "datePublished": "1923",
+    "original_title": "The Fatal Photo",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-13T18:15:20"
+    "update_at": "2026-10-21T02:35:27"
 }

@@ -4,7 +4,7 @@
     "name": "A.N.I. 1240",
     "site": "imdb",
     "year": "2003",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Sci-Fi",
         "Short"
@@ -12,63 +12,89 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0574197/",
-            "name": "Aaron McPherson"
+            "name": "Aaron McPherson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0336113/",
-            "name": "Marjory Graue"
+            "name": "Marjory Graue",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0113595/",
-            "name": "Garrett M. Brown"
+            "name": "Garrett M. Brown",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1477320/",
+            "name": "Kelsey Lewis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0614559/",
+            "name": "Molly Murphy",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Aaron McPherson",
+            "Marjory Graue",
+            "Garrett M. Brown"
+        ],
+        "Genres": [
+            "Sci-Fi",
+            "Short"
+        ],
+        "Writer": [
+            "Rolf Schrader",
+            "Stephanie Wise"
+        ],
+        "Runtime": [
+            "13 min"
+        ],
+        "Director": [
+            "Rolf Schrader"
         ],
         "Release date": [
-            "September 7, 2003 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "American Film Institute (AFI)"
+            "2003"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0970134/",
-            "name": "Rolf Schrader"
+            "name": "Rolf Schrader",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0936414/",
-            "name": "Stephanie Wise"
+            "name": "Stephanie Wise",
+            "@type": "Person"
         }
     ],
     "duration": "PT13M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0970134/",
-            "name": "Rolf Schrader"
+            "name": "Rolf Schrader",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0383851/",
     "metascore": null,
     "imdb_votes": 16,
     "popularity": 0,
-    "description": "NOAH VI&apos;s &quot;artificial, nanotronic, intellegence system (ANI) has just ten minutes to convince her proud Captain to &quot;merge&quot; with her, permanently erasing his mind and soul, or the space mission will fail and both will die.",
-    "imdb_rating": "7/10 from 16 users",
+    "description": null,
+    "imdb_rating": "7.0/10 from 16 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2003-09-07",
-    "imdb_rating_average": 7,
-    "update_at": "2025-06-26T07:28:42"
+    "datePublished": "2003",
+    "original_title": "A.N.I. 1240",
+    "imdb_rating_average": 7.0,
+    "update_at": "2026-10-20T17:14:28"
 }

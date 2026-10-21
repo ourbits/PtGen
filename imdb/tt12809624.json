@@ -4,37 +4,87 @@
     "name": "The Cost of Living",
     "site": "imdb",
     "year": "2021",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Drama",
-        "Horror"
+        "Horror",
+        "Short"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm12820244/",
+            "name": "Fia Houston-Hamilton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0420029/",
+            "name": "Kieron Jecchinis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3299423/",
+            "name": "Lily Loveless",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm9660102/",
+            "name": "Genesis Lynea",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0815420/",
+            "name": "Mia Soteriou",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDdkMzNmOGUtN2VjOS00MDJlLWEwYjQtMWU0OWZmM2Q0ZWNlXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/4Qy3lWQumXdV4JJ2PxYUtDa3lGW.jpg",
     "details": {
+        "Stars": [
+            "Fia Houston-Hamilton",
+            "Kieron Jecchinis",
+            "Lily Loveless"
+        ],
+        "Genres": [
+            "Drama",
+            "Horror",
+            "Short"
+        ],
+        "Writer": [
+            "Alice Trueman"
+        ],
+        "Director": [
+            "Alice Trueman"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 17, 2021 (United Kingdom)"
-        ],
-        "Official site": [
-            "This is the directors website - http://www.alice-trueman.com/"
-        ],
-        "Country of origin": [
-            "United Kingdom"
+            "2021-03-17"
         ],
         "Production companies": [
-            "British Film Institute (BFI)",
-            "Vault Films"
+            "BFI Network",
+            "Vault UK Films",
+            "National Lottery"
         ]
     },
     "reviews": 0,
-    "creators": [],
-    "duration": null,
-    "keywords": [
-        ""
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm5331184/",
+            "name": "Alice Trueman",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT13M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm5331184/",
+            "name": "Alice Trueman",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt12809624/",
     "metascore": null,
@@ -42,9 +92,15 @@
     "popularity": 0,
     "description": "Lily is stuck in a state of ennui, until Death comes along in the form of a beautiful woman and entices her to live.",
     "imdb_rating": "8.6/10 from 16 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2021-03-17",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2021-03-17",
+    "original_title": "The Cost of Living",
     "imdb_rating_average": 8.6,
-    "update_at": "2025-11-24T10:21:24"
+    "update_at": "2026-10-20T08:56:17"
 }

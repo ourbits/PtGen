@@ -4,7 +4,7 @@
     "name": "Strapped",
     "site": "imdb",
     "year": "1993",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Action",
         "Drama"
@@ -12,70 +12,131 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0830140/",
-            "name": "William James Stiggers Jr."
+            "name": "William James Stiggers Jr.",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0019413/",
-            "name": "Chi Ali"
+            "name": "Chi Ali",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0940158/",
-            "name": "Bokeem Woodbine"
+            "name": "Bokeem Woodbine",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0210915/",
+            "name": "Starletta DuPois",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0267669/",
+            "name": "Mike Farley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0403325/",
+            "name": "Hugh Hurd",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0523538/",
+            "name": "Anthony Lozama",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2573183/",
+            "name": "David Robinson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0373113/",
+            "name": "Mary Hedahl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0329504/",
+            "name": "Kia Goodwin",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTUyMDRjYmItZTFkMS00N2I5LWE0Y2ItYjA0MzNkODM1YWUwXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/txcj4qo5wJ1Vdv0jLCL8Bl1hzU7.jpg",
     "details": {
+        "Stars": [
+            "William James Stiggers Jr.",
+            "Chi Ali",
+            "Bokeem Woodbine"
+        ],
+        "Genres": [
+            "Action",
+            "Drama"
+        ],
+        "Writer": [
+            "Dena Kleiman"
+        ],
+        "Runtime": [
+            "104 min"
+        ],
+        "Director": [
+            "Forest Whitaker"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "August 21, 1993 (United States)"
-        ],
-        "Also known as": [
-            "Atrapados por la violencia"
+            "1993-08-21"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Lotts Avenue, Brooklyn, New York City, New York, USA"
+            "United States of America"
         ],
         "Production companies": [
-            "Home Box Office (HBO)",
-            "Osiris Films"
+            "HBO Films"
         ]
     },
-    "reviews": 9,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0458611/",
-            "name": "Dena Kleiman"
+            "name": "Dena Kleiman",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H44M",
     "keywords": [
-        "gun",
-        "teenager",
-        "blood",
-        "violence",
-        "one word title"
+        "undercover",
+        "ex-con",
+        "police reporter",
+        "gun dealer"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0001845/",
-            "name": "Forest Whitaker"
+            "name": "Forest Whitaker",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0108230/",
     "metascore": null,
-    "imdb_votes": 1232,
+    "imdb_votes": 1280,
     "popularity": 0,
-    "description": "Ex-con attempting to go straight runs accross serious problems. His girlfriend gets arrested for dealing crack to an undercover police officer. In a desperate attempt to get the charges dropped against his woman, he strikes deal w...",
-    "imdb_rating": "6.4/10 from 1232 users",
-    "release_date": [],
-    "contentRating": "R",
+    "description": "Ex-con attempting to go straight runs across serious problems. His girlfriend gets arrested for dealing crack to an undercover police officer. In a desperate attempt to get the charges dropped against his woman, he strikes a deal with a weapons cop to turn in local gun dealers. However, the D.A. is not satisfied with the results, resulting in some serious game playing and double crossing.",
+    "imdb_rating": "6.4/10 from 1280 users",
+    "release_date": [
+        {
+            "date": "2022-10-28",
+            "country": "Germany"
+        },
+        {
+            "date": "1993-08-21",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1993-08-21",
+    "original_title": "Strapped",
     "imdb_rating_average": 6.4,
-    "update_at": "2025-10-05T21:00:08"
+    "update_at": "2026-10-20T06:00:22"
 }

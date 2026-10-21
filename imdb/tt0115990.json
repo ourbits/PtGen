@@ -4,7 +4,7 @@
     "name": "Cuba Libre",
     "site": "imdb",
     "year": "1996",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Drama",
@@ -13,72 +13,131 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0618291/",
-            "name": "Richy Müller"
+            "name": "Richy Müller",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0281832/",
-            "name": "Catherine Flemming"
+            "name": "Catherine Flemming",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0074397/",
-            "name": "Wolfram Berger"
+            "name": "Wolfram Berger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0772325/",
+            "name": "Mark Schlichter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0006739/",
+            "name": "Marquard Bohm",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0295442/",
+            "name": "Jörg Friedrich",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0343070/",
+            "name": "Wilfried Gronau",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0112449/",
+            "name": "Andrea Brose",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0471797/",
+            "name": "Christoph Krix",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0660420/",
+            "name": "Gilles Papelian",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDE2ZGU2NWMtMDJiYi00YzY3LWFjYTEtNGI3YzMwNjQ0YjNhXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/ukd2lJUuvK6iWPJH5HfyjwYAjfc.jpg",
     "details": {
+        "Stars": [
+            "Richy Müller",
+            "Catherine Flemming",
+            "Wolfram Berger"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Christian Petzold",
+            "Harun Farocki"
+        ],
+        "Runtime": [
+            "92 min"
+        ],
+        "Director": [
+            "Christian Petzold"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "November 10, 1996 (Germany)"
+            "1996-11-10"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Filming locations": [
-            "Berlin, Germany"
-        ],
         "Production companies": [
             "Cine Images",
-            "Schramm Film Koerner & Weber",
-            "Zweites Deutsches Fernsehen (ZDF)"
+            "Schramm Film",
+            "ZDF"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0678857/",
-            "name": "Christian Petzold"
+            "name": "Christian Petzold",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0267943/",
-            "name": "Harun Farocki"
+            "name": "Harun Farocki",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H32M",
-    "keywords": [
-        "drink in title",
-        "island name in title",
-        "country name in title",
-        "thirty something",
-        "thief"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0678857/",
-            "name": "Christian Petzold"
+            "name": "Christian Petzold",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0115990/",
     "metascore": null,
-    "imdb_votes": 121,
+    "imdb_votes": 136,
     "popularity": 0,
-    "description": "Tom steals Tina&apos;s love and money, and five years later they meet again by chance. Both wanting to get back what was taken from them, they dream of traveling to Cuba. In the end, however, they only manage to get as far as the Belgi...",
-    "imdb_rating": "6.7/10 from 121 users",
-    "release_date": [],
+    "description": "Tom steals Tina's love and money, and five years later they meet again by chance. Both wanting to get back what was taken from them, they dream of traveling to Cuba. In the end, however, they only manage to get as far as the Belgian coast.",
+    "imdb_rating": "6.9/10 from 136 users",
+    "release_date": [
+        {
+            "date": "1996-11-10",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1996-11-10",
-    "imdb_rating_average": 6.7,
-    "update_at": "2025-08-31T07:39:18"
+    "original_title": "Cuba Libre",
+    "imdb_rating_average": 6.9,
+    "update_at": "2026-10-20T20:42:23"
 }

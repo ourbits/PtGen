@@ -3,6 +3,7 @@
     "sid": "tt0297725",
     "name": "America First",
     "site": "imdb",
+    "year": "1972",
     "@type": "Movie",
     "genre": [
         "Drama"
@@ -10,45 +11,91 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm7226017/",
-            "name": "Richard M. Blumenberg"
+            "name": "Richard M. Blumenberg",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0261921/",
-            "name": "Patricia Estrin"
+            "name": "Patricia Estrin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1064251/",
-            "name": "Walter Keller"
+            "name": "Walter Keller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0448229/",
+            "name": "Michael Kennedy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7226018/",
+            "name": "Alan Langdon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0570248/",
+            "name": "Lois McGuire",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7226020/",
+            "name": "Merle Pecheck",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7226019/",
+            "name": "Rica Spencer",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Richard M. Blumenberg",
+            "Patricia Estrin",
+            "Walter Keller"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Richard M. Blumenberg"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Joseph L. Anderson"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "August 1972 (United Kingdom)"
+            "1972-08-01"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm7226017/",
-            "name": "Richard M. Blumenberg"
+            "name": "Richard M. Blumenberg",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        "television"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0026828/",
-            "name": "Joseph L. Anderson"
+            "name": "Joseph L. Anderson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0297725/",
@@ -57,9 +104,15 @@
     "popularity": 0,
     "description": "A previously isolated Appalachian region is infiltrated by seven travelers, who seek to create a Utopian community with the residents. A television documentary crew films the fraught interactions.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1972-08-01",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1972-08-01",
+    "original_title": "America First",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-22T02:10:04"
+    "update_at": "2026-10-20T18:14:16"
 }
