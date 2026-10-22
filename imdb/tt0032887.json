@@ -4,84 +4,125 @@
     "name": "Papa Gets the Bird",
     "site": "imdb",
     "year": "1940",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Family",
         "Animation",
-        "Comedy"
+        "Comedy",
+        "Family"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm5679732/",
-            "name": "Frank Elmquist"
+            "name": "Frank Elmquist",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0411208/",
-            "name": "Rudolf Ising"
+            "name": "Rudolf Ising",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0411208/",
+            "name": "Rudolf Ising",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1157643/",
-            "name": "Ruby Ray"
+            "name": "Ruby Ray",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0921131/",
+            "name": "Martha Wentworth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0921131/",
+            "name": "Martha Wentworth",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODIzNDA1ZDctZTY3YS00NDY3LTkzMWUtOWI3NjI4NjJhYzczXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/xc7OAHiNCUyYr4xnYPo6nBSDGRM.jpg",
     "details": {
+        "Stars": [
+            "Frank Elmquist",
+            "Rudolf Ising",
+            "Rudolf Ising"
+        ],
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "Writer": [
+            "Jack Cosgriff",
+            "Allen Freleng",
+            "Charles McGirl"
+        ],
+        "Runtime": [
+            "8 min"
+        ],
+        "Director": [
+            "Hugh Harman"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "September 7, 1940 (United States)"
-        ],
-        "Also known as": [
-            "Barney Bear #4: Papa Gets the Bird"
-        ],
-        "Country of origin": [
-            "United States"
+            "1940-09-07"
         ],
         "Production companies": [
-            "Metro-Goldwyn-Mayer (MGM)",
-            "Metro-Goldwyn-Mayer Cartoon Studios"
+            "Metro-Goldwyn-Mayer"
         ]
     },
-    "reviews": 5,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0181816/",
-            "name": "Jack Cosgriff"
+            "name": "Jack Cosgriff",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm13067409/",
-            "name": "Allen Freleng"
+            "name": "Allen Freleng",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1529601/",
-            "name": "Charles McGirl"
+            "name": "Charles McGirl",
+            "@type": "Person"
         }
     ],
     "duration": "PT8M",
     "keywords": [
-        "bird",
-        "bear",
-        "well",
         "canary",
-        "bath"
+        "cartoon bear",
+        "cartoon bird"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0363414/",
-            "name": "Hugh Harman"
+            "name": "Hugh Harman",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0032887/",
     "metascore": null,
-    "imdb_votes": 153,
+    "imdb_votes": 152,
     "popularity": 0,
-    "description": "Mama Bear tells Papa to give their canary a bath. Papa gets the bird angry, Mama calls him a nincompoop, and he goes and sulks in the garage. Young Wilbur comes to cheer him up. He vows to bathe the bird, but in chasing it, lands ...",
-    "imdb_rating": "5.8/10 from 153 users",
-    "release_date": [],
-    "contentRating": "Approved",
+    "description": "Papa Bear attempts to give the family's pet canary a bath. An MGM Bear Family cartoon.",
+    "imdb_rating": "5.8/10 from 152 users",
+    "release_date": [
+        {
+            "date": "1940-09-07",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1940-09-07",
+    "original_title": "Papa Gets the Bird",
     "imdb_rating_average": 5.8,
-    "update_at": "2025-06-06T07:15:38"
+    "update_at": "2026-10-21T06:21:40"
 }

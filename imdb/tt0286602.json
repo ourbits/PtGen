@@ -3,46 +3,57 @@
     "sid": "tt0286602",
     "name": "Dragi moj Milovane Danojlicu",
     "site": "imdb",
-    "@type": "Movie",
-    "genre": null,
+    "year": "1980",
+    "@type": "TVMovie",
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0048040/",
-            "name": "Rados Bajic"
+            "name": "Rados Bajic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0667787/",
-            "name": "Gordana Pavlov"
+            "name": "Gordana Pavlov",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Serbo-Croatian"
+        "Stars": [
+            "Rados Bajic",
+            "Gordana Pavlov"
         ],
-        "Country of origin": [
-            "Yugoslavia"
+        "Writer": [
+            "Milovan Danojlic"
         ],
-        "Production company": [
-            "Radiotelevizija Beograd"
+        "Runtime": [
+            "27 min"
+        ],
+        "Director": [
+            "Aleksandar Mandic"
+        ],
+        "Release date": [
+            "1980"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0995932/",
-            "name": "Milovan Danojlic"
+            "name": "Milovan Danojlic",
+            "@type": "Person"
         }
     ],
     "duration": "PT27M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0541800/",
-            "name": "Aleksandar Mandic"
+            "name": "Aleksandar Mandic",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0286602/",
@@ -53,7 +64,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1980",
+    "original_title": "Dragi moj Milovane Danojlicu",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-05T10:26:26"
+    "update_at": "2026-10-22T02:21:12"
 }

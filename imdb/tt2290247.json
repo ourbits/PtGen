@@ -4,48 +4,128 @@
     "name": "Das Ende einer Nacht",
     "site": "imdb",
     "year": "2012",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Thriller"
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTZlYzliMjQtY2JlMi00ODU3LTkzZDQtMmRmM2EwYjE0ODc1XkEyXkFqcGc@._V1_.jpg",
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0041662/",
+            "name": "Barbara Auer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0919227/",
+            "name": "Ina Weisse",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1002721/",
+            "name": "Jörg Hartmann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1860446/",
+            "name": "Katharina Lorenz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0104966/",
+            "name": "Matthias Brandt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0645178/",
+            "name": "Christoph M. Ohrt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0405966/",
+            "name": "Alexander Hörbe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0644308/",
+            "name": "Johann Adam Oest",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0122021/",
+            "name": "Sigrid Burkholder",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0778353/",
+            "name": "Bernhard Schütz",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/12Qmu8TIhcj9ZzI8s5yWdg6Kb3c.jpg",
     "details": {
+        "Stars": [
+            "Barbara Auer",
+            "Ina Weisse",
+            "Jörg Hartmann"
+        ],
+        "Genres": [
+            "Thriller"
+        ],
+        "Writer": [
+            "Magnus Vattrodt"
+        ],
+        "Runtime": [
+            "89 min"
+        ],
+        "Director": [
+            "Matti Geschonneck"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "March 26, 2012 (Germany)"
-        ],
-        "Also known as": [
-            "Egy éjszaka vége"
+            "2012-03-26"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Filming locations": [
-            "Cologne, North Rhine-Westphalia, Germany"
-        ],
         "Production companies": [
-            "Network Movie Film-und Fernsehproduktion",
-            "Zweites Deutsches Fernsehen (ZDF)"
+            "ZDF"
         ]
     },
-    "reviews": 2,
-    "creators": [],
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm2432835/",
+            "name": "Magnus Vattrodt",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT1H29M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0315117/",
+            "name": "Matti Geschonneck",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2290247/",
     "metascore": null,
-    "imdb_votes": 217,
+    "imdb_votes": 219,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.3/10 from 217 users",
-    "release_date": [],
+    "description": "Judge Katarina Weiss must decide whether the allegations against millionaire businessman Werner Lamberg—that he beat and raped his wife, Sandra—are valid or not. In court, Katarina faces a defense attorney Eva Hartmann who actually manages to refute all charges to such an extent that she secures her client’s provisional release from custody.",
+    "imdb_rating": "7.3/10 from 219 users",
+    "release_date": [
+        {
+            "date": "2012-03-26",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2012-03-26",
+    "original_title": "Das Ende einer Nacht",
     "imdb_rating_average": 7.3,
-    "update_at": "2025-11-29T05:05:24"
+    "update_at": "2026-10-21T17:35:15"
 }

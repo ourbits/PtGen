@@ -11,58 +11,68 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm7654848/",
-            "name": "Bekarys Abdigappar"
+            "name": "Bekarys Abdigappar",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm7654847/",
-            "name": "Ruslan Abibullayev"
+            "name": "Ruslan Abibullayev",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm11853744/",
-            "name": "Symbat Zhumabek"
+            "name": "Symbat Zhumabek",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWViY2ZiNmItZjU1YS00MzMwLWJiZjUtOTYwOTIxZjA4ODVkXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/5b058WZd4m3KdZjyLaFKdwfNzId.jpg",
     "details": {
+        "Stars": [
+            "Bekarys Abdigappar",
+            "Ruslan Abibullayev",
+            "Symbat Zhumabek"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Zhanna Issabayeva"
+        ],
+        "Runtime": [
+            "78 min"
+        ],
+        "Director": [
+            "Zhanna Issabayeva"
+        ],
         "Language": [
             "Kazakh"
         ],
         "Release date": [
-            "January 18, 2015 (India)"
-        ],
-        "Also known as": [
-            "Kołysanka"
-        ],
-        "Official site": [
-            "WFF title description - http://www.wff.pl/en/film/bopem"
+            "2015-10-14"
         ],
         "Country of origin": [
             "Kazakhstan"
-        ],
-        "Filming locations": [
-            "Aralsk, Kazakhstan"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2760074/",
-            "name": "Zhanna Issabayeva"
+            "name": "Zhanna Issabayeva",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H18M",
     "keywords": [
-        "illness",
-        "teenager",
-        "vendetta",
-        "revenge",
-        "punishment"
+        "woman director"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2760074/",
-            "name": "Zhanna Issabayeva"
+            "name": "Zhanna Issabayeva",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt5115954/",
@@ -70,10 +80,16 @@
     "imdb_votes": 41,
     "popularity": 0,
     "description": "Teenager Ruslan is a half-orphan who lives by the dried Aral Sea. When he learns that due to serious illness he has no more than 3 months to live, Ruslan decides to punish those responsible for the death of his beloved mother.",
-    "imdb_rating": "6.9/10 from 41 users",
-    "release_date": [],
+    "imdb_rating": "6.8/10 from 41 users",
+    "release_date": [
+        {
+            "date": "2015-10-14",
+            "country": "Kazakhstan"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2015-01-18",
-    "imdb_rating_average": 6.9,
-    "update_at": "2025-08-01T04:14:25"
+    "datePublished": "2015-10-14",
+    "original_title": "Bopem",
+    "imdb_rating_average": 6.8,
+    "update_at": "2026-10-21T04:28:14"
 }

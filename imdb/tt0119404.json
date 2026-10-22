@@ -4,7 +4,7 @@
     "name": "Jane Eyre",
     "site": "imdb",
     "year": "1997",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Romance"
@@ -12,80 +12,144 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0277525/",
-            "name": "Deborah Findlay"
+            "name": "Deborah Findlay",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0363322/",
-            "name": "Laura Harling"
+            "name": "Laura Harling",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0768936/",
-            "name": "Joanna Scanlan"
+            "name": "Joanna Scanlan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0816351/",
+            "name": "Ben Sowden",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0449040/",
+            "name": "Barbara Keogh",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0304564/",
+            "name": "David Gant",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0431521/",
+            "name": "Emily Joyce",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0251069/",
+            "name": "Gemma Eglington",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0593702/",
+            "name": "Ruth Mitchell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0067665/",
+            "name": "Dominique Belcourt",
+            "@type": "Person"
         }
     ],
-    "critic": 5,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzE5NmE3OGQtYTEzYi00ZTE0LWE0NzgtMzhiYWViZDdjYmM0XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/1j3MacXlWOJg0nrzmBfmlqPoWZp.jpg",
     "details": {
-        "Languages": [
-            "English",
-            "French"
+        "Stars": [
+            "Deborah Findlay",
+            "Laura Harling",
+            "Joanna Scanlan"
+        ],
+        "Genres": [
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Charlotte Brontë",
+            "Kay Mellor"
+        ],
+        "Runtime": [
+            "108 min"
+        ],
+        "Director": [
+            "Robert Young"
+        ],
+        "Language": [
+            "English"
         ],
         "Release date": [
-            "October 19, 1997 (United States)"
-        ],
-        "Also known as": [
-            "簡愛"
-        ],
-        "Official sites": [
-            "A&E page for Jane Eyre - http://www.aetv.com/scenes/janeeyre/index.html",
-            "arabuloku.com - https://www.arabuloku.com/jane-eyre-ozet-ve-karakterler.html"
+            "1997-03-09"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Filming locations": [
-            "Knebworth House, Knebworth, Hertfordshire, England, UK"
-        ],
         "Production companies": [
-            "LWT",
-            "A+E Networks",
             "LWT"
         ]
     },
-    "reviews": 77,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0111576/",
-            "name": "Charlotte Brontë"
+            "name": "Charlotte Brontë",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0578117/",
-            "name": "Kay Mellor"
+            "name": "Kay Mellor",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H48M",
     "keywords": [
-        "character name as title",
-        "orphan",
-        "governess",
-        "french",
-        "dark heroine"
+        "based on novel or book",
+        "period drama",
+        "costume drama"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0950000/",
-            "name": "Robert Young"
+            "name": "Robert Young",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0119404/",
     "metascore": null,
-    "imdb_votes": 3463,
+    "imdb_votes": 3709,
     "popularity": 0,
-    "description": "After placing an ad for employment as a governess, Jane Eyre (Samantha Morton) journeys to Thornfield Hall to inquire about a possible position. She is hired by the housekeeper, Mrs. Fairfax (Gemma Jones), to care for young Adele ...",
-    "imdb_rating": "7/10 from 3463 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
-    "datePublished": "1997-10-19",
-    "imdb_rating_average": 7,
-    "update_at": "2025-03-17T03:35:06"
+    "description": "After a bleak childhood, Jane Eyre goes out into the world to become a governess. As she lives happily in her new position at Thornfield Hall, she meets the dark, cold, and abrupt master of the house, Edward Rochester. Jane and her employer grow close in friendship and she soon finds herself falling in love with him. Happiness seems to have found Jane at last, but could Rochester's terrible secret be about to destroy it forever?",
+    "imdb_rating": "7.0/10 from 3709 users",
+    "release_date": [
+        {
+            "date": "2008-09-24",
+            "country": "France"
+        },
+        {
+            "date": "1997-03-09",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "2011-03-11",
+            "country": "Netherlands"
+        },
+        {
+            "date": "1997-10-19",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1997-03-09",
+    "original_title": "Jane Eyre",
+    "imdb_rating_average": 7.0,
+    "update_at": "2026-10-21T20:14:12"
 }

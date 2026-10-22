@@ -3,50 +3,73 @@
     "sid": "tt0336156",
     "name": "Chega de Cangaço",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2000",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0291940/",
-            "name": "Patrícia França"
+            "name": "Patrícia França",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1203390/",
-            "name": "João Augusto Lyra"
+            "name": "João Augusto Lyra",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0872922/",
-            "name": "Aramis Trindade"
+            "name": "Aramis Trindade",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Portuguese"
+        "Stars": [
+            "Patrícia França",
+            "João Augusto Lyra",
+            "Aramis Trindade"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Marco Hanois"
+        ],
+        "Runtime": [
+            "16 min"
+        ],
+        "Director": [
+            "Marco Hanois"
+        ],
+        "Release date": [
+            "2000-01-01"
         ],
         "Country of origin": [
             "Brazil"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1204926/",
-            "name": "Marco Hanois"
+            "name": "Marco Hanois",
+            "@type": "Person"
         }
     ],
     "duration": "PT16M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1204926/",
-            "name": "Marco Hanois"
+            "name": "Marco Hanois",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0336156/",
@@ -55,9 +78,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2000-01-01",
+            "country": "Brazil"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2000-01-01",
+    "original_title": "Chega de Cangaço",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-26T23:13:22"
+    "update_at": "2026-10-21T05:14:07"
 }

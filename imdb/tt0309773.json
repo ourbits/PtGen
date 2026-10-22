@@ -3,49 +3,78 @@
     "sid": "tt0309773",
     "name": "King Ubu",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1963",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1362480/",
-            "name": "Victoria Hochberg"
+            "name": "Victoria Hochberg",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1034075/",
-            "name": "Arthur Holden"
+            "name": "Arthur Holden",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1263605/",
-            "name": "Jay Jeffrey Jones"
+            "name": "Jay Jeffrey Jones",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1264169/",
+            "name": "Marvin Silber",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1264201/",
+            "name": "Kai Spiegel",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTc1NGE3NjctMzc3OS00OGMyLWFiZGItYWI4YzI4ZjVmY2I0XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Country of origin": [
-            "United States"
+        "Stars": [
+            "Victoria Hochberg",
+            "Arthur Holden",
+            "Jay Jeffrey Jones"
         ],
-        "Production company": [
-            "San Francisco Mime Troupe"
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Alfred Jarry"
+        ],
+        "Runtime": [
+            "5 min"
+        ],
+        "Director": [
+            "Robert Nelson"
+        ],
+        "Release date": [
+            "1963"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0418991/",
-            "name": "Alfred Jarry"
+            "name": "Alfred Jarry",
+            "@type": "Person"
         }
     ],
     "duration": "PT5M",
-    "keywords": [
-        "based on play"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0625703/",
-            "name": "Robert Nelson"
+            "name": "Robert Nelson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0309773/",
@@ -56,7 +85,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1963",
+    "original_title": "King Ubu",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-25T08:14:09"
+    "update_at": "2026-10-21T21:07:12"
 }

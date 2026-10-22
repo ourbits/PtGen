@@ -4,7 +4,7 @@
     "name": "The Beach Club",
     "site": "imdb",
     "year": "1928",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Comedy",
         "Short"
@@ -12,74 +12,134 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0079645/",
-            "name": "Billy Bevan"
+            "name": "Billy Bevan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0403511/",
-            "name": "Madeline Hurlock"
+            "name": "Madeline Hurlock",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0219783/",
-            "name": "Vernon Dent"
+            "name": "Vernon Dent",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0363545/",
+            "name": "Pat Harmon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1206310/",
+            "name": "Edna Adams",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1207891/",
+            "name": "Billy Aikin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0018410/",
+            "name": "Ernie Alexander",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0023894/",
+            "name": "Betty Amann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0036547/",
+            "name": "Marcella Arnold",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0045784/",
+            "name": "Irving Bacon",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2ZjOWFmMDItNmI0ZC00NGVhLTg0YTAtOGU5NWRmMmI4Y2YyXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/zM7VVtMMnTr2iDfDelE6k5lHUF7.jpg",
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Stars": [
+            "Billy Bevan",
+            "Madeline Hurlock",
+            "Vernon Dent"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Al Giebler",
+            "Harry McCoy",
+            "Jefferson Moffitt"
+        ],
+        "Runtime": [
+            "20 min"
+        ],
+        "Director": [
+            "Harry Edwards"
+        ],
+        "Language": [
+            "No Language"
         ],
         "Release date": [
-            "January 22, 1928 (United States)"
-        ],
-        "Also known as": [
-            "The Jolly Joker"
+            "1928-01-21"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Mack Sennett Studios - 1712 Glendale Blvd., Silver Lake, Los Angeles, California, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Mack Sennett Comedies"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0317319/",
-            "name": "Al Giebler"
+            "name": "Al Giebler",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0566745/",
-            "name": "Harry McCoy"
+            "name": "Harry McCoy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0595655/",
-            "name": "Jefferson Moffitt"
+            "name": "Jefferson Moffitt",
+            "@type": "Person"
         }
     ],
     "duration": "PT20M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0250034/",
-            "name": "Harry Edwards"
+            "name": "Harry Edwards",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0018679/",
     "metascore": null,
-    "imdb_votes": 32,
+    "imdb_votes": 29,
     "popularity": 0,
-    "description": "At the beach club, Billy Doolittle enjoys some drinks by the pool. When Billy&apos;s ex-girlfriend arrives with her new beau, Billy becomes jealous and begins to berate his appearance.",
-    "imdb_rating": "6.4/10 from 32 users",
-    "release_date": [],
-    "contentRating": null,
-    "datePublished": "1928-01-22",
-    "imdb_rating_average": 6.4,
-    "update_at": "2025-06-06T17:13:22"
+    "description": "In and out of the water, Billy makes waves at the Blue Point Beach Club.",
+    "imdb_rating": "6.6/10 from 29 users",
+    "release_date": [
+        {
+            "date": "1928-01-21",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
+    "datePublished": "1928-01-21",
+    "original_title": "The Beach Club",
+    "imdb_rating_average": 6.6,
+    "update_at": "2026-10-21T18:42:32"
 }

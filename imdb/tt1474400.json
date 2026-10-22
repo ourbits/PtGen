@@ -4,7 +4,7 @@
     "name": "Hurricane in the Rose Garden",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Comedy",
         "Family",
@@ -13,36 +13,87 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1588136/",
-            "name": "Pascal Atuma"
+            "name": "Pascal Atuma",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0005233/",
-            "name": "Tangi Miller"
+            "name": "Tangi Miller",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1695966/",
-            "name": "Carole Gordon"
+            "name": "Carole Gordon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1550590/",
+            "name": "Tanjareen Thomas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0877681/",
+            "name": "Karri Turner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0434444/",
+            "name": "Hakeem Kae-Kazim",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0258938/",
+            "name": "Oris Erhuero",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0942193/",
+            "name": "Aloma Wright",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2262588/",
+            "name": "Chris Oneliner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1106342/",
+            "name": "Nicole Sciacca",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjY4MDQzMjA0OV5BMl5BanBnXkFtZTcwODU5NDc5Mg@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/fXDB9o7uGYQs6c5tY5Pan0dYwKQ.jpg",
     "details": {
+        "Stars": [
+            "Pascal Atuma",
+            "Tangi Miller",
+            "Carole Gordon"
+        ],
+        "Genres": [
+            "Comedy",
+            "Family",
+            "Romance"
+        ],
+        "Writer": [
+            "Kamafi Adio",
+            "Pascal Atuma"
+        ],
+        "Runtime": [
+            "84 min"
+        ],
+        "Director": [
+            "Ime Etuk"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "October 20, 2009 (United States)"
+            "2009-10-20"
         ],
-        "Official sites": [
-            "Official site - http://www.hurricaneintherosegarden.net/",
-            "Official site - http://www.hurricaneintherosegarden.net/homepage3.htm"
-        ],
-        "Filming locations": [
-            "Dallas, Texas, USA"
-        ],
-        "Countries of origin": [
-            "United States",
-            "Nigeria"
+        "Country of origin": [
+            "Nigeria",
+            "United States of America"
         ],
         "Production companies": [
             "Centurion Entertainment",
@@ -50,40 +101,44 @@
             "Pascal Atuma Productions"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1947221/",
-            "name": "Kamafi Adio"
+            "name": "Kamafi Adio",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1588136/",
-            "name": "Pascal Atuma"
+            "name": "Pascal Atuma",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H24M",
-    "keywords": [
-        "los angeles california",
-        "culture clash",
-        "shot on video",
-        "urban setting",
-        "third world"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1096532/",
-            "name": "Ime Etuk"
+            "name": "Ime Etuk",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1474400/",
     "metascore": null,
-    "imdb_votes": 55,
+    "imdb_votes": 58,
     "popularity": 0,
-    "description": "A family comedy about what happens when a happily married couple&apos;s life is suddenly turned upside-down during an unwelcome visit from the husband&apos;s very traditional and very opinionated Nigerian Mom.",
-    "imdb_rating": "4.5/10 from 55 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "A family comedy about what happens when a happily married couple's life is suddenly turned upside-down during an unwelcome visit from the husband's very traditional and very opinionated Nigerian Mom.",
+    "imdb_rating": "4.6/10 from 58 users",
+    "release_date": [
+        {
+            "date": "2009-10-20",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2009-10-20",
-    "imdb_rating_average": 4.5,
-    "update_at": "2025-05-19T14:08:49"
+    "original_title": "Hurricane in the Rose Garden",
+    "imdb_rating_average": 4.6,
+    "update_at": "2026-10-21T11:42:35"
 }

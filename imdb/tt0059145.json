@@ -6,45 +6,102 @@
     "year": "1965",
     "@type": "Movie",
     "genre": [
-        "Documentary",
         "Biography",
+        "Documentary",
         "History"
     ],
-    "critic": 4,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjExNDYyNTIxNl5BMl5BanBnXkFtZTcwOTQ3MjYyMQ@@._V1_.jpg",
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0533831/",
+            "name": "Archibald Macleish",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0786215/",
+            "name": "Eric Sevareid",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2742509/",
+            "name": "Corinne Alsop Cole",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000912/",
+            "name": "Jack Benny",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0208540/",
+            "name": "Charles de Gaulle",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/lMO0xStAEaDe5QAJezwhrjrodxG.jpg",
     "details": {
+        "Stars": [
+            "Archibald Macleish",
+            "Eric Sevareid",
+            "Corinne Alsop Cole"
+        ],
+        "Genres": [
+            "Biography",
+            "Documentary",
+            "History"
+        ],
+        "Writer": [
+            "Archibald Macleish"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Richard Kaplan"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 8, 1965 (United States)"
+            "1965-11-08"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Richard Kaplan Productions"
+            "United States of America"
         ]
     },
-    "reviews": 2,
-    "creators": [],
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0533831/",
+            "name": "Archibald Macleish",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT1H30M",
-    "keywords": [
-        "democratic party",
-        "american politics",
-        "f rated",
-        "reference to franklin d. roosevelt",
-        "reference to eleanor roosevelt"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0438356/",
+            "name": "Richard Kaplan",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0059145/",
     "metascore": null,
-    "imdb_votes": 224,
+    "imdb_votes": 238,
     "popularity": 0,
-    "description": "Richard Kaplan documents the life of one of America&apos;s most influential first ladies. Orphaned at age 10, Eleanor Roosevelt marries her fifth cousin, Franklin D. Roosevelt, in 1905. His election in 1932 allows Eleanor to step up to...",
-    "imdb_rating": "6.4/10 from 224 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "The life and legacy of Eleanor Roosevelt, from her early years and marriage to Franklin D. through her tenure as the longest-serving U.S. First Lady and her subsequent work as a United Nations delegate advancing global human rights.",
+    "imdb_rating": "6.4/10 from 238 users",
+    "release_date": [
+        {
+            "date": "1965-11-08",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1965-11-08",
+    "original_title": "The Eleanor Roosevelt Story",
     "imdb_rating_average": 6.4,
-    "update_at": "2025-10-02T11:35:09"
+    "update_at": "2026-10-21T06:35:29"
 }

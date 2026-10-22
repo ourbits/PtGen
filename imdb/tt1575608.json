@@ -4,59 +4,93 @@
     "name": "Langeweile",
     "site": "imdb",
     "year": "1969",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0062218/",
-            "name": "Heinz Baumann"
+            "name": "Heinz Baumann",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0726175/",
-            "name": "Gerd Rigauer"
+            "name": "Gerd Rigauer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0480512/",
-            "name": "Walter Ladengast"
+            "name": "Walter Ladengast",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0467831/",
+            "name": "Eva Kotthaus",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0909331/",
+            "name": "Martha Wallner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0357243/",
+            "name": "Hans W. Hamacher",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0471176/",
+            "name": "Rudolf Krieg",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Heinz Baumann",
+            "Gerd Rigauer",
+            "Walter Ladengast"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Leopold Ahlsen",
+            "Maxim Gorky"
+        ],
+        "Runtime": [
+            "45 min"
+        ],
+        "Director": [
+            "Werner Völger"
         ],
         "Release date": [
-            "March 14, 1969 (West Germany)"
-        ],
-        "Country of origin": [
-            "West Germany"
-        ],
-        "Production company": [
-            "Werner Völger Fernseh- und Filmproduktion"
+            "1969"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0014059/",
-            "name": "Leopold Ahlsen"
+            "name": "Leopold Ahlsen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0331003/",
-            "name": "Maxim Gorky"
+            "name": "Maxim Gorky",
+            "@type": "Person"
         }
     ],
     "duration": "PT45M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0905042/",
-            "name": "Werner Völger"
+            "name": "Werner Völger",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1575608/",
@@ -67,7 +101,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1969-03-14",
+    "datePublished": "1969",
+    "original_title": "Langeweile",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-07T18:50:16"
+    "update_at": "2026-10-21T12:56:15"
 }

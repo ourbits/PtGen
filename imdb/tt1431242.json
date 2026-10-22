@@ -4,63 +4,89 @@
     "name": "Ensimmäinen varoitus",
     "site": "imdb",
     "year": "1964",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0436030/",
-            "name": "Reino Kalliolahti"
+            "name": "Reino Kalliolahti",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0688321/",
-            "name": "Tuulikki Pohjola"
+            "name": "Tuulikki Pohjola",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0479243/",
-            "name": "Salme Laaksonen"
+            "name": "Salme Laaksonen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0758962/",
+            "name": "Sylvi Salonen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0617467/",
+            "name": "Orvokki Mäkinen",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Finnish"
+        "Stars": [
+            "Reino Kalliolahti",
+            "Tuulikki Pohjola",
+            "Salme Laaksonen"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "August Strindberg",
+            "Albert Saloranta"
+        ],
+        "Runtime": [
+            "30 min"
+        ],
+        "Director": [
+            "Pekka Koskinen",
+            "Unto Laakso"
         ],
         "Release date": [
-            "September 18, 1964 (Finland)"
-        ],
-        "Country of origin": [
-            "Finland"
-        ],
-        "Production company": [
-            "Tamvisio"
+            "1964"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0834529/",
-            "name": "August Strindberg"
+            "name": "August Strindberg",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0758978/",
-            "name": "Albert Saloranta"
+            "name": "Albert Saloranta",
+            "@type": "Person"
         }
     ],
     "duration": "PT30M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2984297/",
-            "name": "Pekka Koskinen"
+            "name": "Pekka Koskinen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3448045/",
-            "name": "Unto Laakso"
+            "name": "Unto Laakso",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1431242/",
@@ -71,7 +97,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1964-09-18",
+    "datePublished": "1964",
+    "original_title": "Ensimmäinen varoitus",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-04T09:13:26"
+    "update_at": "2026-10-21T15:49:28"
 }

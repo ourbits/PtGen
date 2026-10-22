@@ -3,7 +3,7 @@
     "sid": "tt11664612",
     "name": "Frem",
     "site": "imdb",
-    "year": "2019",
+    "year": "2020",
     "@type": "Movie",
     "genre": [
         "Documentary"
@@ -11,57 +11,85 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm11391923/",
-            "name": "Martin Kovacík"
+            "name": "Martin Kovacík",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDgzOGQzMzgtNWEwNC00OWJlLTk0M2MtMTEzZTVkMGZlM2FlXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/tl6pHZ9fDoQK6KdvywySLAwkIoU.jpg",
     "details": {
+        "Stars": [
+            "Martin Kovacík"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Writer": [
+            "Viera Cákanyová"
+        ],
+        "Runtime": [
+            "73 min"
+        ],
+        "Director": [
+            "Viera Cákanyová"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "October 27, 2019 (Czech Republic)"
+            "2020-09-17"
         ],
-        "Official site": [
-            "Variety report festival line-up - https://variety.com/2019/film/spotlight/kix-frem-docu-talent-sarajevo-film-festival-1203305769/"
-        ],
-        "Countries of origin": [
+        "Country of origin": [
             "Czech Republic",
             "Slovakia"
         ],
         "Production companies": [
-            "Ceská Televize",
             "Hypermarket Film",
-            "Punkchart films"
+            "Punkchart films",
+            "Česká televize"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm6376190/",
-            "name": "Viera Cákanyová"
+            "name": "Viera Cákanyová",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H13M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm6376190/",
-            "name": "Viera Cákanyová"
+            "name": "Viera Cákanyová",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt11664612/",
     "metascore": null,
-    "imdb_votes": 59,
+    "imdb_votes": 61,
     "popularity": 0,
-    "description": "As the climate crisis becomes increasingly urgent beyond the point of no return, and artificial intelligence expands exponentially, FREM presents a striking and sometimes uncomfortable reaction to the current wave of post-humanist...",
-    "imdb_rating": "5.5/10 from 59 users",
-    "release_date": [],
+    "description": "Incomplete thoughts and fragments of dialogue, diverse music interrupted by rushes and glitches, and the seemingly confused, unanchored camera, create a disturbing, philosophical reflection on the limits of anthropocentric thinking.",
+    "imdb_rating": "5.5/10 from 61 users",
+    "release_date": [
+        {
+            "date": "2019-10-27",
+            "country": "Czech Republic"
+        },
+        {
+            "date": "2020-02-21",
+            "country": "Germany"
+        },
+        {
+            "date": "2020-09-17",
+            "country": "Slovakia"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2019-10-27",
+    "datePublished": "2020-09-17",
+    "original_title": "Frem",
     "imdb_rating_average": 5.5,
-    "update_at": "2025-06-28T18:07:07"
+    "update_at": "2026-10-21T05:14:06"
 }

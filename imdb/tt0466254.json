@@ -4,7 +4,7 @@
     "name": "Sinterklaas pakt uit",
     "site": "imdb",
     "year": "2004",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Family",
@@ -13,74 +13,132 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0098389/",
-            "name": "Ron Boszhard"
+            "name": "Ron Boszhard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0098389/",
+            "name": "Ron Boszhard",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0329843/",
-            "name": "Paul van Gorcum"
+            "name": "Paul van Gorcum",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1961028/",
-            "name": "Max Sietsema"
+            "name": "Max Sietsema",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2273147/",
+            "name": "Eurokids",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1961610/",
+            "name": "Dirk Scheele",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1960003/",
+            "name": "Judith Kamerman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1960554/",
+            "name": "Desi Rovers",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0769434/",
+            "name": "Frank Schaafsma",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1176953/",
+            "name": "Koen van der Donk",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjRiNjI1YTMtMzcwYi00NTI1LWJhODItNzUwZmE3OTA2MGJjXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/ejlctPBeIrCwxW7Y17erMmZkDCX.jpg",
     "details": {
+        "Stars": [
+            "Ron Boszhard",
+            "Ron Boszhard",
+            "Paul van Gorcum"
+        ],
+        "Genres": [
+            "Comedy",
+            "Family",
+            "Musical"
+        ],
+        "Writer": [
+            "Ron Boszhard"
+        ],
+        "Runtime": [
+            "71 min"
+        ],
+        "Director": [
+            "Emiel Bakker",
+            "Andries Kooijman",
+            "Winfred van Buren"
+        ],
         "Language": [
             "Dutch"
         ],
         "Release date": [
-            "November 19, 2004 (Netherlands)"
+            "2004-11-19"
         ],
         "Country of origin": [
             "Netherlands"
-        ],
-        "Filming locations": [
-            "Eernewoude, Tytsjerksteradiel, Friesland, Netherlands"
-        ],
-        "Production company": [
-            "ProActs"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0098389/",
-            "name": "Ron Boszhard"
+            "name": "Ron Boszhard",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H11M",
-    "keywords": [
-        "letter",
-        "wish",
-        "deception",
-        "sinterklaas",
-        "book"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1962353/",
-            "name": "Emiel Bakker"
+            "name": "Emiel Bakker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2408735/",
-            "name": "Andries Kooijman"
+            "name": "Andries Kooijman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1959900/",
-            "name": "Winfred van Buren"
+            "name": "Winfred van Buren",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0466254/",
     "metascore": null,
-    "imdb_votes": 0,
+    "imdb_votes": 7,
     "popularity": 0,
-    "description": "A celebration party with various performances of Dutch artists, organized by Sinterklaas himself. But where is he?",
-    "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "description": null,
+    "imdb_rating": "9.6/10 from 7 users",
+    "release_date": [
+        {
+            "date": "2004-11-19",
+            "country": "Netherlands"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2004-11-19",
-    "imdb_rating_average": 0,
-    "update_at": "2026-04-20T07:42:13"
+    "original_title": "Sinterklaas pakt uit",
+    "imdb_rating_average": 9.6,
+    "update_at": "2026-10-21T15:14:43"
 }

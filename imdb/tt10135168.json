@@ -4,42 +4,80 @@
     "name": "Bertha Benz",
     "site": "imdb",
     "year": "2019",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Biography"
+        "Biography",
+        "Short"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0070854/",
+            "name": "Gode Benedix",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4863593/",
+            "name": "Sofie Hoflack",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8350265/",
+            "name": "Ryan Masher",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTdkMDc0Y2EtYjE1Yi00MDQ0LTk2NWMtMWUxZmI1Zjc0OWYwXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Gode Benedix",
+            "Sofie Hoflack",
+            "Ryan Masher"
+        ],
+        "Genres": [
+            "Biography",
+            "Short"
+        ],
+        "Director": [
+            "Sebastian Strasser"
         ],
         "Release date": [
-            "March 8, 2019 (United States)"
+            "2019-03-08"
         ],
         "Country of origin": [
             "Romania"
         ],
-        "Production company": [
-            "Anorak Film"
+        "Production companies": [
+            "Antoni & Anorak Films"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
-    "duration": null,
-    "keywords": [
-        ""
+    "duration": "PT15M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm1917437/",
+            "name": "Sebastian Strasser",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt10135168/",
     "metascore": null,
-    "imdb_votes": 29,
+    "imdb_votes": 30,
     "popularity": 0,
-    "description": "Bertha Benz was a German automotive pioneer. In honor of International Women&apos;s Day in 2019, this biopic was released to highlight the journey of Bertha Benz",
-    "imdb_rating": "8.6/10 from 29 users",
-    "release_date": [],
+    "description": "Bertha Benz was a German automotive pioneer. In honor of International Women's Day in 2019, this biopic was released to highlight the journey of Bertha Benz",
+    "imdb_rating": "8.7/10 from 30 users",
+    "release_date": [
+        {
+            "date": "2019-03-08",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2019-03-08",
-    "imdb_rating_average": 8.6,
-    "update_at": "2025-11-11T06:07:49"
+    "original_title": "Bertha Benz",
+    "imdb_rating_average": 8.7,
+    "update_at": "2026-10-21T20:35:18"
 }

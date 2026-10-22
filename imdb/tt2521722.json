@@ -4,44 +4,110 @@
     "name": "Eugene",
     "site": "imdb",
     "year": "2012",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Drama"
+        "Drama",
+        "Short"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm1854728/",
+            "name": "Michael Govier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2764521/",
+            "name": "Karolina Wydra",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2468438/",
+            "name": "Candace Hammer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0546056/",
+            "name": "Aaron Marcus",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1127632/",
+            "name": "Spencer Susser",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1007554/",
+            "name": "Sunny Mabrey",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWFjODY5NjAtMDFiMi00NzQ0LWE5MGYtMTcyZTI2NzViOWRkXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Michael Govier",
+            "Karolina Wydra",
+            "Candace Hammer"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Adam Blampied",
+            "Mirrah Foulkes",
+            "Spencer Susser"
+        ],
+        "Runtime": [
+            "13 min"
+        ],
+        "Director": [
+            "Spencer Susser"
         ],
         "Release date": [
-            "November 28, 2012 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production companies": [
-            "Blue-Tongue Films",
-            "The Directors Bureau"
+            "2012"
         ]
     },
-    "reviews": 1,
-    "creators": [],
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm6353704/",
+            "name": "Adam Blampied",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2438791/",
+            "name": "Mirrah Foulkes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1127632/",
+            "name": "Spencer Susser",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT13M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm1127632/",
+            "name": "Spencer Susser",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2521722/",
     "metascore": null,
-    "imdb_votes": 120,
+    "imdb_votes": 126,
     "popularity": 0,
-    "description": "A man checks into a hotel and is mysteriously delivered an intriguing gift.",
-    "imdb_rating": "6.4/10 from 120 users",
+    "description": null,
+    "imdb_rating": "6.4/10 from 126 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2012-11-28",
+    "datePublished": "2012",
+    "original_title": "Eugene",
     "imdb_rating_average": 6.4,
-    "update_at": "2025-10-15T02:42:30"
+    "update_at": "2026-10-21T09:00:39"
 }

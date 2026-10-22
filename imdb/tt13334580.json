@@ -3,6 +3,7 @@
     "sid": "tt13334580",
     "name": "Cau Lac Bo Khong Ten",
     "site": "imdb",
+    "year": "1977",
     "@type": "Movie",
     "genre": [
         "Drama"
@@ -10,42 +11,67 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm4707574/",
-            "name": "Son Bac"
+            "name": "Son Bac",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5057052/",
-            "name": "Lan Thanh Bach"
+            "name": "Lan Thanh Bach",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5711203/",
-            "name": "Cuong Bui"
+            "name": "Cuong Bui",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11097845/",
+            "name": "Van Giai",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4021627/",
+            "name": "Ly Huynh",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDlhMjI5YjUtZjc0MC00NmYwLWE1MWYtZmM5MjU2MDAwYWMwXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/4rHNpeEE62HTpwIelmzPrndq9vF.jpg",
     "details": {
+        "Stars": [
+            "Son Bac",
+            "Lan Thanh Bach",
+            "Cuong Bui"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Runtime": [
+            "93 min"
+        ],
+        "Director": [
+            "Khac Loi Nguyen"
+        ],
         "Language": [
             "Vietnamese"
         ],
         "Release date": [
-            "1981 (Vietnam)"
-        ],
-        "Also known as": [
-            "Câu Lạc Bộ Không Tên"
+            "1977-01-01"
         ],
         "Country of origin": [
             "Vietnam"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": "PT1H33M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0629036/",
-            "name": "Khac Loi Nguyen"
+            "name": "Khac Loi Nguyen",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt13334580/",
@@ -54,9 +80,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1977-01-01",
+            "country": "Vietnam"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1977-01-01",
+    "original_title": "Cau Lac Bo Khong Ten",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-28T18:13:14"
+    "update_at": "2026-10-21T04:00:31"
 }

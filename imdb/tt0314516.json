@@ -4,61 +4,106 @@
     "name": "Plein soleil",
     "site": "imdb",
     "year": "1973",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0674340/",
-            "name": "Florence Pernel"
+            "name": "Florence Pernel",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0897493/",
-            "name": "Vania Vilers"
+            "name": "Vania Vilers",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0726421/",
-            "name": "Simone Rieutor"
+            "name": "Simone Rieutor",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0216610/",
+            "name": "Germaine Delbat",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0150655/",
+            "name": "Andrée Champeaux",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1157355/",
+            "name": "Arlette Menard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1157275/",
+            "name": "Anne-Marie Durin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1156165/",
+            "name": "Laurence Prieto",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0563209/",
+            "name": "Nathalie Mazeas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1154835/",
+            "name": "Marie-Paule Casanova",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTBkZWQxZTEtNzZmNS00MGY2LTgxMTktNjk1YWQxNDE4YmYwXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Florence Pernel",
+            "Vania Vilers",
+            "Simone Rieutor"
+        ],
+        "Writer": [
+            "Marie Susini"
+        ],
+        "Director": [
+            "Jean Archimbaud"
         ],
         "Release date": [
-            "April 3, 1973 (France)"
-        ],
-        "Country of origin": [
-            "France"
+            "1973"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0839848/",
-            "name": "Marie Susini"
+            "name": "Marie Susini",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1131844/",
-            "name": "Jean Archimbaud"
+            "name": "Jean Archimbaud",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0314516/",
     "metascore": null,
-    "imdb_votes": 15,
+    "imdb_votes": 16,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "8/10 from 15 users",
+    "imdb_rating": "8.0/10 from 16 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1973-04-03",
-    "imdb_rating_average": 8,
-    "update_at": "2025-09-18T15:49:17"
+    "datePublished": "1973",
+    "original_title": "Plein soleil",
+    "imdb_rating_average": 8.0,
+    "update_at": "2026-10-21T12:56:15"
 }

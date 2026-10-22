@@ -4,73 +4,128 @@
     "name": "Der holledauer Schimmel",
     "site": "imdb",
     "year": "1968",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0326566/",
-            "name": "Alexander Golling"
+            "name": "Alexander Golling",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0802063/",
-            "name": "Erni Singerl"
+            "name": "Erni Singerl",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0516817/",
-            "name": "Gerlinde Locker"
+            "name": "Gerlinde Locker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0341010/",
+            "name": "Max Grießer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0690415/",
+            "name": "Alfred Pongratz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0047058/",
+            "name": "Carl Baierl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0063210/",
+            "name": "Gustl Bayrhammer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0513611/",
+            "name": "Gerhart Lippert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0363252/",
+            "name": "Willy Harlander",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0366775/",
+            "name": "Georg Hartl",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Alexander Golling",
+            "Erni Singerl",
+            "Gerlinde Locker"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Alois Johannes Lippl"
+        ],
+        "Runtime": [
+            "115 min"
+        ],
+        "Director": [
+            "Kurt Wilhelm"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "October 5, 1968 (West Germany)"
-        ],
-        "Also known as": [
-            "Der holledauer Schimmel - Schelmenstück aus dem Hopfenlande"
+            "1968-10-04"
         ],
         "Country of origin": [
-            "West Germany"
+            "Germany"
         ],
-        "Production company": [
-            "Bayerischer Rundfunk (BR)"
+        "Production companies": [
+            "BR"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0513655/",
-            "name": "Alois Johannes Lippl"
+            "name": "Alois Johannes Lippl",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H55M",
-    "keywords": [
-        "rural setting",
-        "matchmaking",
-        "horse breeder",
-        "bavaria",
-        "animosity"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0928929/",
-            "name": "Kurt Wilhelm"
+            "name": "Kurt Wilhelm",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0063076/",
     "metascore": null,
-    "imdb_votes": 23,
+    "imdb_votes": 21,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "9.2/10 from 23 users",
-    "release_date": [],
+    "description": "For decades, the villagers of Haselbach have argued and fought with those of Banzing. But this should finally come to an end: The local councillors decide to reconcile the two villages and the mayors want to seal the peace by marrying off their children. They agree that they don't want to marry each other and that their fathers are only acting out of greed. When they decide to revolt against their elders, they are unexpectedly supported by a \"stranger\" who brings the reason for the dispute between Haselbach and Banzing out of the dark: the Holledauer Schimmel. Plots are forged, tender bonds of love are forged and in the end everyone ends up where they belong.",
+    "imdb_rating": "9.2/10 from 21 users",
+    "release_date": [
+        {
+            "date": "1968-10-04",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1968-10-05",
+    "datePublished": "1968-10-04",
+    "original_title": "Der holledauer Schimmel",
     "imdb_rating_average": 9.2,
-    "update_at": "2025-07-07T14:50:01"
+    "update_at": "2026-10-21T18:21:14"
 }

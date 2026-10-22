@@ -6,70 +6,131 @@
     "year": "1989",
     "@type": "Movie",
     "genre": [
-        "Western",
-        "Drama"
+        "Drama",
+        "Western"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0021728/",
-            "name": "Mario Almada"
+            "name": "Mario Almada",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0345999/",
-            "name": "Blanca Guerra"
+            "name": "Blanca Guerra",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0145061/",
-            "name": "Eric del Castillo"
+            "name": "Eric del Castillo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0699885/",
+            "name": "Rodrigo Puebla",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0523683/",
+            "name": "Víctor Lozoya",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0052486/",
+            "name": "Rafael Banquells",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0327942/",
+            "name": "Rojo Grau",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0708360/",
+            "name": "Ramiro Ramírez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0272017/",
+            "name": "Óscar Fentanes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0763350/",
+            "name": "Valentin Santana",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTA1YWVkNDktN2M2Ny00MmVlLWEwMTYtNzAxYWNlNjRkYmU3XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/5zj5r3h0cuijS6oJ0WWFA2m76PD.jpg",
     "details": {
-        "Languages": [
-            "Spanish",
-            "English"
+        "Stars": [
+            "Mario Almada",
+            "Blanca Guerra",
+            "Eric del Castillo"
+        ],
+        "Genres": [
+            "Drama",
+            "Western"
+        ],
+        "Writer": [
+            "Andre R. Guttfreund",
+            "Jorge Patiño"
+        ],
+        "Runtime": [
+            "82 min"
+        ],
+        "Director": [
+            "Alfredo Gurrola"
         ],
         "Release date": [
-            "August 3, 1989 (Mexico)"
+            "1989-08-03"
         ],
         "Country of origin": [
             "Mexico"
         ],
-        "Production company": [
+        "Production companies": [
             "Productora Metropolitana SA"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0349722/",
-            "name": "Andre R. Guttfreund"
+            "name": "Andre R. Guttfreund",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0665651/",
-            "name": "Jorge Patiño"
+            "name": "Jorge Patiño",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H22M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0348735/",
-            "name": "Alfredo Gurrola"
+            "name": "Alfredo Gurrola",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0217300/",
     "metascore": null,
-    "imdb_votes": 19,
+    "imdb_votes": 21,
     "popularity": 0,
-    "description": "A wandering gunslinger helps peaceful farmers learn to fight as they prepare for an upcoming battle in the countryside.",
-    "imdb_rating": "6.8/10 from 19 users",
-    "release_date": [],
+    "description": "Wandering gunslinger trains peaceable farmers to defend themselves for an impending range war.",
+    "imdb_rating": "6.8/10 from 21 users",
+    "release_date": [
+        {
+            "date": "1989-08-03",
+            "country": "Mexico"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1989-08-03",
+    "original_title": "Cabalgando con la muerte",
     "imdb_rating_average": 6.8,
-    "update_at": "2026-02-14T19:56:47"
+    "update_at": "2026-10-22T00:56:23"
 }

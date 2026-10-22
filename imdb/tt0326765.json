@@ -4,57 +4,71 @@
     "name": "Beyond the Smoke",
     "site": "imdb",
     "year": "1929",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Action"
+        "Action",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0167760/",
-            "name": "Edmund Cobb"
+            "name": "Edmund Cobb",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1214698/",
-            "name": "Regina Doyle"
+            "name": "Regina Doyle",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0795888/",
-            "name": "Walter Shumway"
+            "name": "Walter Shumway",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0166692/",
+            "name": "William Clifford",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Stars": [
+            "Edmund Cobb",
+            "Regina Doyle",
+            "Walter Shumway"
+        ],
+        "Genres": [
+            "Action",
+            "Short"
+        ],
+        "Writer": [
+            "Arthur Henry Gooden"
+        ],
+        "Director": [
+            "Bruce Mitchell"
         ],
         "Release date": [
-            "March 23, 1929 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Universal Pictures"
+            "1929"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0328859/",
-            "name": "Arthur Henry Gooden"
+            "name": "Arthur Henry Gooden",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0593180/",
-            "name": "Bruce Mitchell"
+            "name": "Bruce Mitchell",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0326765/",
@@ -65,7 +79,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1929-03-23",
+    "datePublished": "1929",
+    "original_title": "Beyond the Smoke",
     "imdb_rating_average": 0,
-    "update_at": "2025-03-25T20:00:23"
+    "update_at": "2026-10-21T15:49:40"
 }

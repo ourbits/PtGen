@@ -4,45 +4,65 @@
     "name": "Haaland - Breaking Ground",
     "site": "imdb",
     "year": "2023",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Biography",
+        "Short",
         "Sport"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1342606/",
-            "name": "Alf-Inge Haaland"
+            "name": "Alf-Inge Haaland",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm10994643/",
-            "name": "Erling Haaland"
+            "name": "Erling Haaland",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0512633/",
-            "name": "Gary Lineker"
+            "name": "Gary Lineker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1056066/",
+            "name": "Jamie Redknapp",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0790415/",
+            "name": "Alan Shearer",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Alf-Inge Haaland",
+            "Erling Haaland",
+            "Gary Lineker"
+        ],
+        "Genres": [
+            "Biography",
+            "Short",
+            "Sport"
+        ],
+        "Runtime": [
+            "26 min"
+        ],
         "Release date": [
-            "August 5, 2023 (Netherlands)"
-        ],
-        "Country of origin": [
-            "Netherlands"
-        ],
-        "Production company": [
-            "Viaplay Nederland"
+            "2023"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT26M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt35702644/",
     "metascore": null,
     "imdb_votes": 0,
@@ -51,7 +71,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2023-08-05",
+    "datePublished": "2023",
+    "original_title": "Haaland - Breaking Ground",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-08T16:12:08"
+    "update_at": "2026-10-21T18:07:37"
 }

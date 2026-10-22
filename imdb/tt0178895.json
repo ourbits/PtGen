@@ -1,8 +1,22 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "A gyorsvonat",
+            "country": "Hungary"
+        },
+        {
+            "title": "Pociąg pospieszny",
+            "country": "Poland"
+        },
+        {
+            "title": "Skoryy poezd",
+            "country": "Soviet Union"
+        }
+    ],
     "sid": "tt0178895",
     "name": "Skoryy poezd",
     "site": "imdb",
+    "year": "1988",
     "@type": "Movie",
     "genre": [
         "Drama"
@@ -10,62 +24,121 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0537826/",
-            "name": "Elena Mayorova"
+            "name": "Elena Mayorova",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0686123/",
-            "name": "Yevgeni Pivovarov"
+            "name": "Yevgeni Pivovarov",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0767516/",
-            "name": "Lidiya Savchenko"
+            "name": "Lidiya Savchenko",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0466840/",
+            "name": "Lyudmila Koryushkina",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0012819/",
+            "name": "Tatyana Agafonova",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0807084/",
+            "name": "Taisiya Smirnova",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0119757/",
+            "name": "Aleksandr Bukleyev",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0755932/",
+            "name": "Aleksandr Safronov",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0017907/",
+            "name": "Vadim Aleksandrov",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0017910/",
+            "name": "A. Aleksandrova",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2M4ZjA4NWEtZTBkYi00NjQwLWJmODQtNGQ1NmVhYmFmYWY1XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/oQncZPe3uwKNF8ZYg2STX3sTxV3.jpg",
     "details": {
+        "Stars": [
+            "Elena Mayorova",
+            "Yevgeni Pivovarov",
+            "Lidiya Savchenko"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Elena Laskareva"
+        ],
+        "Runtime": [
+            "99 min"
+        ],
+        "Director": [
+            "Boris Yashin"
+        ],
         "Language": [
             "Russian"
         ],
         "Release date": [
-            "November 1988 (Soviet Union)"
-        ],
-        "Also known as": [
-            "Fast Train"
+            "1988-11-21"
         ],
         "Country of origin": [
             "Soviet Union"
         ],
-        "Production company": [
+        "Production companies": [
             "Mosfilm"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0489596/",
-            "name": "Elena Laskareva"
+            "name": "Elena Laskareva",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H39M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0946583/",
-            "name": "Boris Yashin"
+            "name": "Boris Yashin",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0178895/",
     "metascore": null,
-    "imdb_votes": 31,
+    "imdb_votes": 34,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "5.8/10 from 31 users",
-    "release_date": [],
+    "description": "The train waitress decides not to travel around the world anymore, but to raise her son from boarding school and be with her loved one, the local theater director in native Ferzinki.",
+    "imdb_rating": "6.2/10 from 34 users",
+    "release_date": [
+        {
+            "date": "1988-11-21",
+            "country": "Soviet Union"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 5.8,
-    "update_at": "2025-07-09T07:01:11"
+    "datePublished": "1988-11-21",
+    "original_title": "Skoryy poezd",
+    "imdb_rating_average": 6.2,
+    "update_at": "2026-10-21T15:21:46"
 }

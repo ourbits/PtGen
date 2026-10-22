@@ -3,43 +3,89 @@
     "sid": "tt0086110",
     "name": "Pirate Tape",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1983",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzg0ZDRlNzItOTZmYi00MDE0LTk0Y2YtOTBmYTg5OGU5Mjc0XkEyXkFqcGc@._V1_.jpg",
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0123221/",
+            "name": "William S. Burroughs",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0160651/",
+            "name": "Peter Christopherson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0283699/",
+            "name": "FM Einheit",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/cQg7lCnnUw2pYoadzsSIrxet6lW.jpg",
     "details": {
+        "Stars": [
+            "William S. Burroughs",
+            "Peter Christopherson",
+            "FM Einheit"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Derek Jarman"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "1983 (United Kingdom)"
-        ],
-        "Also known as": [
-            "パイレイト・テープ"
+            "1983-01-01"
         ],
         "Country of origin": [
             "United Kingdom"
-        ],
-        "Filming locations": [
-            "London, England, UK"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": "PT15M",
     "keywords": [
-        "independent film"
+        "biography",
+        "short film"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0418746/",
+            "name": "Derek Jarman",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0086110/",
     "metascore": null,
-    "imdb_votes": 133,
+    "imdb_votes": 136,
     "popularity": 0,
-    "description": "Short portrait of writer William S. Burroughs.",
-    "imdb_rating": "5.7/10 from 133 users",
-    "release_date": [],
+    "description": "Derek Jarman's film portrait of American writer William S. Burroughs was shot in September 1982 during his first visit to England to attend the legendary Final Academy events at the South London Ritzy Cinema. These were Burroughs-themed art and performance nights curated by Psychic TV. Jarman’s film shows Burroughs on Tottenham Court Road signing autographs with fans and inside a shop buying alcohol. The industrial soundtrack by Psychic TV features a sample of Burroughs repeating \"boys, school showers and swimming pools full of 'em'\". Additional footage shot by Jarman during Burroughs' visit is reported to have been confiscated by Scotland Yard in 1991 and remains lost. Jarman and Psychic TV would continue to collaborate (“magic bound us together” Jarman wrote), with Jarman directing the music video for Catalan and staring as the spokesperson in the Psychic TV video A Spokesman for the Temple of Psychick Youth.",
+    "imdb_rating": "5.7/10 from 136 users",
+    "release_date": [
+        {
+            "date": "1987-02-01",
+            "country": "Germany"
+        },
+        {
+            "date": "1983-01-01",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1983-01-01",
+    "original_title": "Pirate Tape",
     "imdb_rating_average": 5.7,
-    "update_at": "2025-11-08T18:27:25"
+    "update_at": "2026-10-21T03:49:20"
 }
