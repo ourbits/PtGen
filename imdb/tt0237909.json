@@ -4,7 +4,7 @@
     "name": "Wenn man sich traut",
     "site": "imdb",
     "year": "2000",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Romance"
@@ -12,63 +12,125 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0433465/",
-            "name": "Julia Jäger"
+            "name": "Julia Jäger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0252191/",
-            "name": "Felix Eitner"
+            "name": "Felix Eitner",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0778091/",
-            "name": "Susanne Schäfer"
+            "name": "Susanne Schäfer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0194529/",
+            "name": "Hansa Czypionka",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0471253/",
+            "name": "Ulrike Kriener",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0786258/",
+            "name": "Anke Sevenich",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0503482/",
+            "name": "Arnfried Lerche",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0369233/",
+            "name": "Alexander Hauff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0446044/",
+            "name": "Petra Kelling",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0957193/",
+            "name": "Hanns Zischler",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTdlYjUwMWQtYmJmZS00MjMxLWI5ZGEtYzE2MmM4M2VjNzg5XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Julia Jäger",
+            "Felix Eitner",
+            "Susanne Schäfer"
+        ],
+        "Genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "Writer": [
+            "Thommie Bayer",
+            "Christoph Waltz"
+        ],
+        "Runtime": [
+            "88 min"
+        ],
+        "Director": [
+            "Christoph Waltz"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "February 28, 2000 (Germany)"
+            "2000-02-28"
         ],
         "Country of origin": [
             "Germany"
-        ],
-        "Production company": [
-            "Zweites Deutsches Fernsehen (ZDF)"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0062967/",
-            "name": "Thommie Bayer"
+            "name": "Thommie Bayer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0910607/",
-            "name": "Christoph Waltz"
+            "name": "Christoph Waltz",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H28M",
-    "keywords": [
-        "marriage"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0910607/",
-            "name": "Christoph Waltz"
+            "name": "Christoph Waltz",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0237909/",
     "metascore": null,
-    "imdb_votes": 41,
+    "imdb_votes": 42,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "8/10 from 41 users",
-    "release_date": [],
+    "imdb_rating": "7.8/10 from 42 users",
+    "release_date": [
+        {
+            "date": "2000-02-28",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2000-02-28",
-    "imdb_rating_average": 8,
-    "update_at": "2025-07-31T08:00:16"
+    "original_title": "Wenn man sich traut",
+    "imdb_rating_average": 7.8,
+    "update_at": "2026-10-22T18:56:41"
 }

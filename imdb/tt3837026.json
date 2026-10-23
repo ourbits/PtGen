@@ -4,64 +4,91 @@
     "name": "Timeless",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Action"
+        "Action",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0467559/",
-            "name": "Kane Kosugi"
+            "name": "Kane Kosugi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0432528/",
-            "name": "Jung Doo-hong"
+            "name": "Jung Doo-hong",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2129584/",
-            "name": "Hwang Byeong-guk"
+            "name": "Hwang Byeong-guk",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0393222/",
+            "name": "James Hong",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3209293/",
+            "name": "Lee Kyoung-mi",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Korean"
+        "Stars": [
+            "Kane Kosugi",
+            "Jung Doo-hong",
+            "Hwang Byeong-guk"
+        ],
+        "Genres": [
+            "Action",
+            "Short"
+        ],
+        "Writer": [
+            "Ryoo Seung-wan"
+        ],
+        "Runtime": [
+            "22 min"
+        ],
+        "Director": [
+            "Ryoo Seung-wan"
         ],
         "Release date": [
-            "November 4, 2009 (South Korea)"
-        ],
-        "Country of origin": [
-            "South Korea"
+            "2009"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0753423/",
-            "name": "Ryoo Seung-wan"
+            "name": "Ryoo Seung-wan",
+            "@type": "Person"
         }
     ],
     "duration": "PT22M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0753423/",
-            "name": "Ryoo Seung-wan"
+            "name": "Ryoo Seung-wan",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt3837026/",
     "metascore": null,
-    "imdb_votes": 6,
+    "imdb_votes": 0,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "7.2/10 from 6 users",
+    "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2009-11-04",
-    "imdb_rating_average": 7.2,
-    "update_at": "2025-08-28T12:07:20"
+    "datePublished": "2009",
+    "original_title": "Timeless",
+    "imdb_rating_average": 0,
+    "update_at": "2026-10-22T13:28:07"
 }

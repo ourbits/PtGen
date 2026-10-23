@@ -4,7 +4,7 @@
     "name": "Roe vs. Wade",
     "site": "imdb",
     "year": "1989",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Biography",
         "Drama"
@@ -12,67 +12,131 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000456/",
-            "name": "Holly Hunter"
+            "name": "Holly Hunter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000456/",
+            "name": "Holly Hunter",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001496/",
-            "name": "Amy Madigan"
+            "name": "Amy Madigan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0304000/",
-            "name": "James Gammon"
+            "name": "James Gammon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0642368/",
+            "name": "Terry O'Quinn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0026627/",
+            "name": "Dion Anderson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000870/",
+            "name": "Kathy Bates",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0580526/",
+            "name": "Micole Mercurio",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0611889/",
+            "name": "Chris Mulkey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0696790/",
+            "name": "Annabella Price",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzliMDk3YzYtMDkyMi00ZTFjLTlmNjYtNWY4NThmM2EzMWVmXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/v7JM0saXGsfZtzIbtNHqgpoD54h.jpg",
     "details": {
+        "Stars": [
+            "Holly Hunter",
+            "Holly Hunter",
+            "Amy Madigan"
+        ],
+        "Genres": [
+            "Biography",
+            "Drama"
+        ],
+        "Writer": [
+            "Alison Cross"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "Gregory Hoblit"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 15, 1989 (United States)"
-        ],
-        "Also known as": [
-            "Dömd till livet"
+            "1989-05-15"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
             "The Mannheim Company",
-            "NBC Productions"
+            "NBC Productions",
+            "NBC"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0189105/",
-            "name": "Alison Cross"
+            "name": "Alison Cross",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H35M",
     "keywords": [
+        "texas",
+        "based on true story",
+        "supreme court",
+        "courtroom",
         "abortion",
-        "american justice",
-        "american court",
-        "sexual issues",
-        "social commentary"
+        "legal system"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0387706/",
-            "name": "Gregory Hoblit"
+            "name": "Gregory Hoblit",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0098212/",
     "metascore": null,
-    "imdb_votes": 389,
+    "imdb_votes": 413,
     "popularity": 0,
-    "description": "Ellen Russell is a lonely, single, poorly-educated Texan who finds herself pregnant with no means to support a child. To avoid giving up the child, she seeks an abortion. Denied an abortion in Texas, Ellen hires a novice lawyer to...",
-    "imdb_rating": "6/10 from 389 users",
-    "release_date": [],
+    "description": "Holly Hunter plays a lonely, single, poorly educated Texan who finds herself pregnant with no means to support a child. To avoid giving up the child, she seeks an abortion. Denied an abortion in Texas the young woman hires a novice lawyer to plead her case in the US supreme court. Eventually the law is changed, but for the character it takes longer than nine months.",
+    "imdb_rating": "6.0/10 from 413 users",
+    "release_date": [
+        {
+            "date": "1989-05-15",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1989-05-15",
-    "imdb_rating_average": 6,
-    "update_at": "2025-06-16T16:22:04"
+    "original_title": "Roe vs. Wade",
+    "imdb_rating_average": 6.0,
+    "update_at": "2026-10-22T09:49:20"
 }

@@ -1,84 +1,155 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Обезглавленный",
+            "country": "Russia"
+        }
+    ],
     "sid": "tt0306063",
     "name": "Severed",
     "site": "imdb",
     "year": "2002",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Horror"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1111804/",
-            "name": "Peter Reh"
+            "name": "Peter Reh",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0102509/",
-            "name": "Vanessa Sanchez"
+            "name": "Vanessa Sanchez",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm8264033/",
-            "name": "Mark Harris"
+            "name": "Mark Harris",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1111759/",
+            "name": "Nehemiah",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3029978/",
+            "name": "Marie Samples",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3030593/",
+            "name": "Michael Wilson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3029024/",
+            "name": "David Jackson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3030597/",
+            "name": "Scott Lewis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3029015/",
+            "name": "Dan Tovall",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3029210/",
+            "name": "Trena Kirkland",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzIwMmJlZWQtMmMxZC00OTI4LWJhMTUtOTI2OWQxMWVlNzIwXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/tXf1TJaX3sMNNN1a7yhHu6pNa0J.jpg",
     "details": {
+        "Stars": [
+            "Peter Reh",
+            "Vanessa Sanchez",
+            "Mark Harris"
+        ],
+        "Genres": [
+            "Horror"
+        ],
+        "Writer": [
+            "Gina Green",
+            "Matt Green",
+            "Aidan Hayes"
+        ],
+        "Runtime": [
+            "89 min"
+        ],
+        "Director": [
+            "Matt Green"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 5, 2002 (United States)"
+            "2002-03-05"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Atlanta, Georgia, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Porter Productions"
         ]
     },
-    "reviews": 20,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1108197/",
-            "name": "Gina Green"
+            "name": "Gina Green",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0337564/",
-            "name": "Matt Green"
+            "name": "Matt Green",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm6366091/",
-            "name": "Aidan Hayes"
+            "name": "Aidan Hayes",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H29M",
     "keywords": [
-        "shot on video",
         "murder",
         "decapitation",
-        "cell phone",
-        "independent film"
+        "serial killer",
+        "slasher",
+        "voodoo ritual",
+        "shot on video"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0337564/",
-            "name": "Matt Green"
+            "name": "Matt Green",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0306063/",
     "metascore": null,
-    "imdb_votes": 253,
+    "imdb_votes": 252,
     "popularity": 0,
     "description": "A ritualistic serial killer is beheading victims all over a city, and those surrounding the case are pulled into his world as they try and stop him.",
-    "imdb_rating": "1.7/10 from 253 users",
-    "release_date": [],
+    "imdb_rating": "1.7/10 from 252 users",
+    "release_date": [
+        {
+            "date": "2002-03-05",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": "R",
     "datePublished": "2002-03-05",
+    "original_title": "Severed",
     "imdb_rating_average": 1.7,
-    "update_at": "2025-07-26T22:26:35"
+    "update_at": "2026-10-22T07:49:13"
 }

@@ -3,38 +3,94 @@
     "sid": "tt0237643",
     "name": "Red Rum",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2000",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Horror",
+        "Short",
         "Thriller"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0083795/",
+            "name": "Eva Birthistle",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0720782/",
+            "name": "Matt Revel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0180965/",
+            "name": "Chris Corrigan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0739902/",
+            "name": "Paul Ronan",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Eva Birthistle",
+            "Matt Revel",
+            "Chris Corrigan"
         ],
-        "Countries of origin": [
-            "Ireland",
-            "United States"
+        "Genres": [
+            "Horror",
+            "Short",
+            "Thriller"
+        ],
+        "Writer": [
+            "Tony Herbert"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Hugh McGrory"
+        ],
+        "Release date": [
+            "2000-01-01"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm2081993/",
+            "name": "Tony Herbert",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT15M",
-    "keywords": [
-        "horse",
-        "girl"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0569519/",
+            "name": "Hugh McGrory",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0237643/",
     "metascore": null,
     "imdb_votes": 19,
     "popularity": 0,
     "description": "After a horse race a girl is tortured until the location of the winning ticket is revealed.",
-    "imdb_rating": "5.4/10 from 19 users",
-    "release_date": [],
+    "imdb_rating": "6.0/10 from 19 users",
+    "release_date": [
+        {
+            "date": "2000-01-01",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 5.4,
-    "update_at": "2025-10-30T12:14:06"
+    "datePublished": "2000-01-01",
+    "original_title": "Red Rum",
+    "imdb_rating_average": 6.0,
+    "update_at": "2026-10-22T14:42:42"
 }

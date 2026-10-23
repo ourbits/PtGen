@@ -13,66 +13,140 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0857776/",
-            "name": "Jean-Marc Thibault"
+            "name": "Jean-Marc Thibault",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0782564/",
-            "name": "Louis Seigner"
+            "name": "Louis Seigner",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0450102/",
-            "name": "Geneviève Kervine"
+            "name": "Geneviève Kervine",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0545461/",
+            "name": "Jean Marchat",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0227514/",
+            "name": "Albert Dinan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0146446/",
+            "name": "Daniel Cauchy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0100424/",
+            "name": "Alain Bouvette",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0142536/",
+            "name": "Denise Carvenne",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0163581/",
+            "name": "Jean Clarieux",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0218184/",
+            "name": "Georges Demas",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzA4NDIwYTQtZjBmOC00YmYzLWIzY2UtMTVmNjFlYWE4NmMyXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Jean-Marc Thibault",
+            "Louis Seigner",
+            "Geneviève Kervine"
+        ],
+        "Genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "Claude Orval"
+        ],
+        "Runtime": [
+            "94 min"
+        ],
+        "Director": [
+            "Pierre Franchi"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "August 9, 1955 (France)"
-        ],
-        "Also known as": [
-            "Nachts auf dem Montmartre"
+            "1955-08-08"
         ],
         "Country of origin": [
             "France"
-        ],
-        "Production company": [
-            "Filmonde"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0651411/",
-            "name": "Claude Orval"
+            "name": "Claude Orval",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H34M",
-    "keywords": [
-        "paris france",
-        "swindler",
-        "pickpocket",
-        "jewelry",
-        "playing poker"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0289969/",
-            "name": "Pierre Franchi"
+            "name": "Pierre Franchi",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0159608/",
     "metascore": null,
-    "imdb_votes": 23,
+    "imdb_votes": 24,
     "popularity": 0,
-    "description": "Bobby (Robert Verdier) is a professional swindler who is well known by the police: some months ago the inspector Doirel has tried to catch him, because every time Bobby has managed to have excellent alibis.While he was doing a bur...",
-    "imdb_rating": "5.5/10 from 23 users",
-    "release_date": [],
+    "description": "Bobby earns his living in Montmartre by duping naïve provincials, along with his pal Julien, as well as crooks and drug dealers, replaced by bicarbonate. His friend Monique, who dances at Le Paradou, is frightened by such a life. A crime of which he is not guilty occurs while he is robbing drug dealer Mureau. Bobby flees, but prefers to let himself be imprisoned. A serious accident is avoided. The brave Inspector Doirel is determined to set the boy straight. Monique will do her bit too.",
+    "imdb_rating": "5.3/10 from 24 users",
+    "release_date": [
+        {
+            "date": "1956-09-01",
+            "country": "Austria"
+        },
+        {
+            "date": "1955-12-09",
+            "country": "Belgium"
+        },
+        {
+            "date": "1955-12-09",
+            "country": "Germany"
+        },
+        {
+            "date": "1958-10-20",
+            "country": "Spain"
+        },
+        {
+            "date": "1957-09-27",
+            "country": "Finland"
+        },
+        {
+            "date": "1955-08-08",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1955-08-09",
-    "imdb_rating_average": 5.5,
-    "update_at": "2025-06-28T07:49:59"
+    "datePublished": "1955-08-08",
+    "original_title": "Les nuits de Montmartre",
+    "imdb_rating_average": 5.3,
+    "update_at": "2026-10-22T06:56:30"
 }

@@ -4,7 +4,7 @@
     "name": "Milosc w przejsciu podziemnym",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Romance"
@@ -12,65 +12,123 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0538875/",
-            "name": "Wojciech Malajkat"
+            "name": "Wojciech Malajkat",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0344734/",
-            "name": "Karolina Gruszka"
+            "name": "Karolina Gruszka",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0460147/",
-            "name": "Marta Klubowicz"
+            "name": "Marta Klubowicz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1573175/",
+            "name": "Joanna Liszowska",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0873540/",
+            "name": "Marcin Tronski",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0764671/",
+            "name": "Tomasz Sapryk",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0811948/",
+            "name": "Malgorzata Socha",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0927240/",
+            "name": "Robert Więckiewicz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0532701/",
+            "name": "Jan Machulski",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0245919/",
+            "name": "Anna Dymna",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2NhYTFjNmItZGEzNi00M2JjLTk4ZTUtM2Q1NjdmN2Q4MTU2XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/cieMF5ecQtFhLxzIeZYxfXuI8a9.jpg",
     "details": {
+        "Stars": [
+            "Wojciech Malajkat",
+            "Karolina Gruszka",
+            "Marta Klubowicz"
+        ],
+        "Genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "Writer": [
+            "Jerzy Pilch"
+        ],
+        "Runtime": [
+            "57 min"
+        ],
+        "Director": [
+            "Janusz Majewski"
+        ],
         "Language": [
             "Polish"
         ],
         "Release date": [
-            "February 14, 2007 (Poland)"
-        ],
-        "Also known as": [
-            "Miłość w przejściu podziemnym"
+            "2007-02-14"
         ],
         "Country of origin": [
             "Poland"
         ],
-        "Filming locations": [
-            "Central Station, Aleje Jerozolimskie, Sródmiescie, Warsaw, Mazowieckie, Poland"
-        ],
-        "Production company": [
-            "Telewizja Polska (TVP)"
+        "Production companies": [
+            "Studio Filmowe Perspektywa",
+            "Telewizja Polska"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0683349/",
-            "name": "Jerzy Pilch"
+            "name": "Jerzy Pilch",
+            "@type": "Person"
         }
     ],
     "duration": "PT57M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0538105/",
-            "name": "Janusz Majewski"
+            "name": "Janusz Majewski",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0970537/",
     "metascore": null,
-    "imdb_votes": 47,
+    "imdb_votes": 49,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "5.9/10 from 47 users",
-    "release_date": [],
+    "imdb_rating": "5.9/10 from 49 users",
+    "release_date": [
+        {
+            "date": "2007-02-14",
+            "country": "Poland"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2007-02-14",
+    "original_title": "Milosc w przejsciu podziemnym",
     "imdb_rating_average": 5.9,
-    "update_at": "2025-07-29T15:50:03"
+    "update_at": "2026-10-22T05:14:26"
 }

@@ -4,65 +4,75 @@
     "name": "Make Your Own Superbowl Ad",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Sport"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000332/",
-            "name": "Don Cheadle"
+            "name": "Don Cheadle",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0251963/",
-            "name": "Rich Eisen"
+            "name": "Rich Eisen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0593245/",
-            "name": "Cutter Garcia"
+            "name": "Cutter Garcia",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0701592/",
+            "name": "Joe Pytka",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Don Cheadle",
+            "Rich Eisen",
+            "Cutter Garcia"
+        ],
+        "Genres": [
+            "Sport"
+        ],
+        "Runtime": [
+            "30 min"
+        ],
+        "Director": [
+            "Robert Markopoulos"
         ],
         "Release date": [
-            "December 23, 2006 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Dallas, Texas, USA"
-        ],
-        "Production company": [
-            "NFL Films"
+            "2006"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT30M",
-    "keywords": [
-        "nfl",
-        "american football sport"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0548594/",
-            "name": "Robert Markopoulos"
+            "name": "Robert Markopoulos",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0945362/",
     "metascore": null,
-    "imdb_votes": 23,
+    "imdb_votes": 22,
     "popularity": 0,
-    "description": "Re-cap/Finalists show for The NFL&apos;s: &quot;Pitch Us Your Idea For The Best NFL Superbowl Commecial Ever...Seriously!&quot; contest.",
-    "imdb_rating": "6.5/10 from 23 users",
+    "description": null,
+    "imdb_rating": "6.5/10 from 22 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2006-12-23",
+    "datePublished": "2006",
+    "original_title": "Make Your Own Superbowl Ad",
     "imdb_rating_average": 6.5,
-    "update_at": "2025-07-23T14:29:09"
+    "update_at": "2026-10-22T16:35:07"
 }

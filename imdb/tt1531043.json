@@ -4,71 +4,101 @@
     "name": "Swerve",
     "site": "imdb",
     "year": "2010",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Drama",
+        "Short",
         "Thriller"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2057036/",
-            "name": "Shiloh Fernandez"
+            "name": "Shiloh Fernandez",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1017334/",
-            "name": "Juno Temple"
+            "name": "Juno Temple",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0039317/",
-            "name": "Chris Ashworth"
+            "name": "Chris Ashworth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1594404/",
+            "name": "Shannon Lucio",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0781913/",
+            "name": "Noah Segan",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjExNjg4ODI3NF5BMl5BanBnXkFtZTcwODIzNjExMw@@._V1_.jpg",
+    "critic": 0,
+    "poster": null,
     "details": {
+        "Stars": [
+            "Shiloh Fernandez",
+            "Juno Temple",
+            "Chris Ashworth"
+        ],
+        "Genres": [
+            "Drama",
+            "Short",
+            "Thriller"
+        ],
+        "Writer": [
+            "Brendan Gabriel Murphy"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Brendan Gabriel Murphy"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "April 17, 2010 (United States)"
-        ],
-        "Official site": [
-            "Official site - http://www.swervethefilm.com/"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Altered State Entertainment"
+            "2010-04-17"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1448832/",
-            "name": "Brendan Gabriel Murphy"
+            "name": "Brendan Gabriel Murphy",
+            "@type": "Person"
         }
     ],
     "duration": "PT15M",
-    "keywords": [
-        "car"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1448832/",
-            "name": "Brendan Gabriel Murphy"
+            "name": "Brendan Gabriel Murphy",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1531043/",
     "metascore": null,
-    "imdb_votes": 127,
+    "imdb_votes": 130,
     "popularity": 0,
-    "description": "After stealing money from a diner, Daniel and his girlfriend Missy wake up in a car wreck. ShortsHD Top 10 Arthouse Film of All-Time.",
-    "imdb_rating": "5.6/10 from 127 users",
-    "release_date": [],
-    "contentRating": "R",
+    "description": "After stealing money from a restaurant, Daniel and his girlfriend Missy wake up in a car wreck.",
+    "imdb_rating": "5.7/10 from 130 users",
+    "release_date": [
+        {
+            "date": "2010-04-17",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2010-04-17",
-    "imdb_rating_average": 5.6,
-    "update_at": "2025-08-12T12:39:15"
+    "original_title": "Swerve",
+    "imdb_rating_average": 5.7,
+    "update_at": "2026-10-22T04:28:06"
 }

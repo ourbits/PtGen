@@ -1,9 +1,15 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "It Came Upon a Midnight Clear",
+            "country": "United States of America"
+        }
+    ],
     "sid": "tt0087489",
     "name": "It Came Upon the Midnight Clear",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1984",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Family"
@@ -11,74 +17,136 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001682/",
-            "name": "Mickey Rooney"
+            "name": "Mickey Rooney",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0342241/",
-            "name": "Scott Grimes"
+            "name": "Scott Grimes",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0950257/",
-            "name": "Barrie Youngfellow"
+            "name": "Barrie Youngfellow",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0310960/",
+            "name": "George Gaynes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0062937/",
+            "name": "Gary Bayer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0341424/",
+            "name": "William Griffis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0681943/",
+            "name": "Christina Pickles",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0131985/",
+            "name": "Hamilton Camp",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0176879/",
+            "name": "Elisha Cook Jr.",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0394778/",
+            "name": "Nicholas Hormann",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzE3N2U3YTItMzBiMy00Mjk0LTg0MzAtYjAxNmQ1ZTNiMTU5XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/sW4g9ZN2RWLp5rNHq61d9BfrmJ3.jpg",
     "details": {
+        "Stars": [
+            "Mickey Rooney",
+            "Scott Grimes",
+            "Barrie Youngfellow"
+        ],
+        "Genres": [
+            "Drama",
+            "Family"
+        ],
+        "Writer": [
+            "Frank Cardea",
+            "George Schenck"
+        ],
+        "Runtime": [
+            "97 min"
+        ],
+        "Director": [
+            "Peter H. Hunt"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "December 1984 (United States)"
-        ],
-        "Also known as": [
-            "Engel auf Abwegen"
+            "1984-12-15"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA"
+            "United States of America"
         ],
         "Production companies": [
-            "Schenck/Cardea Productions",
-            "Columbia Pictures Television"
+            "Columbia TriStar Television",
+            "Schenck/Cardea Productions"
         ]
     },
-    "reviews": 28,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0136333/",
-            "name": "Frank Cardea"
+            "name": "Frank Cardea",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0770886/",
-            "name": "George Schenck"
+            "name": "George Schenck",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H37M",
     "keywords": [
-        "new york city",
-        "pie in the face",
-        "pie fight",
-        "new york",
-        "christmas"
+        "holiday",
+        "manhattan, new york city",
+        "christmas",
+        "grandfather grandson relationship",
+        "retired policeman",
+        "archangel"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0402596/",
-            "name": "Peter H. Hunt"
+            "name": "Peter H. Hunt",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0087489/",
     "metascore": null,
-    "imdb_votes": 675,
+    "imdb_votes": 696,
     "popularity": 0,
-    "description": "Mickey Rooney plays Mike Halligan, a retired cop from Manhattan living in California with his family who decides to show his grandson, who has never seen snow before, what a real white Christmas in New York is like. But he dies fr...",
-    "imdb_rating": "7.5/10 from 675 users",
-    "release_date": [],
-    "contentRating": "Unrated",
-    "datePublished": null,
+    "description": "Retired cop Mike Halligan decides to show his grandson, who has never seen snow before, what a real white Christmas in New York is like. But a sudden fatal heart attack derails those plans, and Halligan makes a deal with the Archangel of Heaven to return to Earth for a week until Christmas in order to give his grandson the seasonal glories of New York City.",
+    "imdb_rating": "7.5/10 from 696 users",
+    "release_date": [
+        {
+            "date": "1984-12-15",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1984-12-15",
+    "original_title": "It Came Upon the Midnight Clear",
     "imdb_rating_average": 7.5,
-    "update_at": "2026-05-16T05:28:34"
+    "update_at": "2026-10-22T19:00:36"
 }

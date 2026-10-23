@@ -4,66 +4,129 @@
     "name": "Deux flics à Belleville",
     "site": "imdb",
     "year": "1990",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0863816/",
-            "name": "Patrick Timsit"
+            "name": "Patrick Timsit",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0099392/",
-            "name": "Kader Boukhanef"
+            "name": "Kader Boukhanef",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0301556/",
-            "name": "Michel Galabru"
+            "name": "Michel Galabru",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1579097/",
+            "name": "Anaïs Jeanneret",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0784523/",
+            "name": "Jean-Pierre Sentier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0037964/",
+            "name": "José Artur",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0678982/",
+            "name": "Michel Peyrelon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0500044/",
+            "name": "Roch Leibovici",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0521646/",
+            "name": "Rabah Loucif",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0381163/",
+            "name": "Jeanne Herviale",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjRhM2RhNzItMmIyMS00YjhmLTk1OTUtZDE3Zjg1MzYxMGMxXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/5HBNKmsO5ytS3M5pnPtMkAW6KOB.jpg",
     "details": {
+        "Stars": [
+            "Patrick Timsit",
+            "Kader Boukhanef",
+            "Michel Galabru"
+        ],
+        "Genres": [
+            "Crime"
+        ],
+        "Writer": [
+            "Alexis Lecaye"
+        ],
+        "Runtime": [
+            "81 min"
+        ],
+        "Director": [
+            "Sylvain Madigan"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "December 13, 1990 (France)"
-        ],
-        "Also known as": [
-            "Két hekus Belleville-ből"
+            "1990-12-13"
         ],
         "Country of origin": [
             "France"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0496019/",
-            "name": "Alexis Lecaye"
+            "name": "Alexis Lecaye",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H21M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0534919/",
-            "name": "Sylvain Madigan"
+            "name": "Sylvain Madigan",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0221120/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "Two young policemen have the same name, due to an error of the administration. They will have to show their talent.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1990-12-13",
+            "country": "France"
+        },
+        {
+            "date": "1993-05-20",
+            "country": "Hungary"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1990-12-13",
+    "original_title": "Deux flics à Belleville",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-14T05:35:37"
+    "update_at": "2026-10-22T06:28:31"
 }

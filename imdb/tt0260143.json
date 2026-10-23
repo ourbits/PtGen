@@ -4,52 +4,81 @@
     "name": "Lohengrin",
     "site": "imdb",
     "year": "1986",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Music"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0389391/",
-            "name": "Peter Hofmann"
+            "name": "Peter Hofmann",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0534387/",
-            "name": "John Macurdy"
+            "name": "John Macurdy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0554254/",
-            "name": "Éva Marton"
+            "name": "Éva Marton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1661968/",
+            "name": "Metropolitan Opera Chorus",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0992294/",
+            "name": "Anthony Raffell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0730114/",
+            "name": "Leif Roar",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0753437/",
+            "name": "Leonie Rysanek",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTg4MTU5NDc4NF5BMl5BanBnXkFtZTcwMDEwNDMyMQ@@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Peter Hofmann",
+            "John Macurdy",
+            "Éva Marton"
+        ],
+        "Genres": [
+            "Music"
+        ],
+        "Runtime": [
+            "226 min"
         ],
         "Release date": [
-            "March 26, 1986 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
+            "1986"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": "PT3H46M",
-    "keywords": [
-        "filmed opera",
-        "opera"
-    ],
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt0260143/",
     "metascore": null,
     "imdb_votes": 23,
     "popularity": 0,
-    "description": "Lohengrin is a Romantic opera in three acts composed and written by Richard Wagner, first performed in 1850. The opera has inspired other works of art. King Ludwig II of Bavaria named his fairy-tale castle &quot;New Swan Castle&quot;, or &quot;N...",
-    "imdb_rating": "7.9/10 from 23 users",
+    "description": null,
+    "imdb_rating": "7.8/10 from 23 users",
     "release_date": [],
-    "contentRating": "Not Rated",
-    "datePublished": "1986-03-26",
-    "imdb_rating_average": 7.9,
-    "update_at": "2025-06-16T17:00:39"
+    "contentRating": null,
+    "datePublished": "1986",
+    "original_title": "Lohengrin",
+    "imdb_rating_average": 7.8,
+    "update_at": "2026-10-23T01:07:17"
 }

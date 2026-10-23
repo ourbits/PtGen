@@ -4,7 +4,7 @@
     "name": "Survivors of the Holocaust",
     "site": "imdb",
     "year": "1996",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Documentary",
         "History",
@@ -13,62 +13,77 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000229/",
-            "name": "Steven Spielberg"
+            "name": "Steven Spielberg",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1183162/",
-            "name": "Henry Rosmarin"
+            "name": "Henry Rosmarin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1182579/",
-            "name": "Hellmuth Szprycer"
+            "name": "Hellmuth Szprycer",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODc5ODU5ODIzN15BMl5BanBnXkFtZTcwNDIzNTMyMQ@@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Steven Spielberg",
+            "Henry Rosmarin",
+            "Hellmuth Szprycer"
+        ],
+        "Genres": [
+            "Documentary",
+            "History",
+            "War"
+        ],
+        "Runtime": [
+            "70 min"
+        ],
+        "Director": [
+            "Allan Holzman"
         ],
         "Release date": [
-            "January 8, 1996 (United States)"
-        ],
-        "Also known as": [
-            "Sobreviventes do Holocausto"
+            "1996-01-08"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
-            "Survivors of the Shoah Visual History Foundation",
-            "Turner Original Productions"
+            "Turner Original Productions",
+            "Survivors of the Shoah Visual History Foundation"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT1H10M",
-    "keywords": [
-        "deported jew",
-        "european jew",
-        "jews in europe",
-        "jew hatred",
-        "courage"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0392833/",
-            "name": "Allan Holzman"
+            "name": "Allan Holzman",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0117792/",
     "metascore": null,
-    "imdb_votes": 225,
+    "imdb_votes": 223,
     "popularity": 0,
-    "description": "This documentary blends personal accounts of what happened before, during and after WWII. One testimony tells of a sister sending tear-stained letters from the prison camp, while another survivor tells the story of how his father ...",
-    "imdb_rating": "7.2/10 from 225 users",
-    "release_date": [],
+    "description": "This documentary blends personal accounts of what happened before, during and after WWII. One testimony tells of a sister sending tear-stained letters from the prison camp, while another survivor tells the story of how his father traded portions of the family's food that was being saved for the liberation march, a few slices of bread, for a Jewish prayer book in order to perform a Passover sedar and for Sabbath. Woven together with survivor testimonies, archival footage, original music, source music and survivors' personal photographs and artifacts, the documentary will show the richness of life before the war, the rise and fall of Nazi power, the liberation of the camps and life now, 50 years later, all as seen through the eyes of those who survived.",
+    "imdb_rating": "7.2/10 from 223 users",
+    "release_date": [
+        {
+            "date": "1996-01-08",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1996-01-08",
+    "original_title": "Survivors of the Holocaust",
     "imdb_rating_average": 7.2,
-    "update_at": "2026-02-14T04:00:14"
+    "update_at": "2026-10-22T13:56:36"
 }

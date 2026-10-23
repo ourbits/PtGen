@@ -4,85 +4,130 @@
     "name": "Action Auto",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0303078/",
-            "name": "Patrick Gallo"
+            "name": "Patrick Gallo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3094871/",
-            "name": "Chris Mackenzie"
+            "name": "Chris Mackenzie",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0547827/",
-            "name": "P.J. Marino"
+            "name": "P.J. Marino",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1482871/",
+            "name": "Eric Price",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2907003/",
+            "name": "Edward L. Green",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0654369/",
+            "name": "Geoffrey Owens",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0672539/",
+            "name": "Eddie Pepitone",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1429293/",
+            "name": "Cece Pleasants",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0918641/",
+            "name": "Charlie Weirauch",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5OTYyNTcxM15BMl5BanBnXkFtZTcwNzgwMzAwMw@@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Patrick Gallo",
+            "Chris Mackenzie",
+            "P.J. Marino"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Grant Calof",
+            "Dan Dworkin",
+            "Greg Lee"
+        ],
+        "Director": [
+            "Grant Calof",
+            "Dan Dworkin",
+            "Greg Lee"
         ],
         "Release date": [
-            "November 13, 2009 (United States)"
-        ],
-        "Official site": [
-            "Official site - http://www.actionautotv.com/"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "North Hollywood, Los Angeles, California, USA"
+            "2009"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1545976/",
-            "name": "Grant Calof"
+            "name": "Grant Calof",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1322707/",
-            "name": "Dan Dworkin"
+            "name": "Dan Dworkin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0497339/",
-            "name": "Greg Lee"
+            "name": "Greg Lee",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1545976/",
-            "name": "Grant Calof"
+            "name": "Grant Calof",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1322707/",
-            "name": "Dan Dworkin"
+            "name": "Dan Dworkin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0497339/",
-            "name": "Greg Lee"
+            "name": "Greg Lee",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1545975/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Deep in the bowels of the San Fernando Valley, four salesmen ply their trade the only way they know how...brutally.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2009-11-13",
+    "datePublished": "2009",
+    "original_title": "Action Auto",
     "imdb_rating_average": 0,
-    "update_at": "2026-02-02T17:42:27"
+    "update_at": "2026-10-22T19:28:20"
 }

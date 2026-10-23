@@ -4,7 +4,7 @@
     "name": "Klassentreffen",
     "site": "imdb",
     "year": "2004",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Drama"
@@ -12,62 +12,113 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0317385/",
-            "name": "Frank Giering"
+            "name": "Frank Giering",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0902083/",
-            "name": "Johann von Bülow"
+            "name": "Johann von Bülow",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0553324/",
-            "name": "Lisa Martinek"
+            "name": "Lisa Martinek",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0679967/",
+            "name": "Barbara Philipp",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0834479/",
+            "name": "Devid Striesow",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0462315/",
+            "name": "Harald Koch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0257187/",
+            "name": "Julie Engelbrecht",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0091420/",
+            "name": "Oliver Böttcher",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0314353/",
+            "name": "Alex Geringas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0623993/",
+            "name": "Sandra Nedeleff",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Frank Giering",
+            "Johann von Bülow",
+            "Lisa Martinek"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "Writer": [
+            "Arne Sommer"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Marc Hertel"
         ],
         "Release date": [
-            "January 28, 2004 (Germany)"
-        ],
-        "Country of origin": [
-            "Germany"
-        ],
-        "Filming locations": [
-            "Frankfurt am Main, Hesse, Germany"
-        ],
-        "Production company": [
-            "Hessischer Rundfunk (HR)"
+            "2004-01-28"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1321660/",
-            "name": "Arne Sommer"
+            "name": "Arne Sommer",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0381015/",
-            "name": "Marc Hertel"
+            "name": "Marc Hertel",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0388184/",
     "metascore": null,
-    "imdb_votes": 71,
+    "imdb_votes": 72,
     "popularity": 0,
-    "description": "A class reunion fifteen years after high school is a bittersweet opportunity for a first life review",
-    "imdb_rating": "6.6/10 from 71 users",
-    "release_date": [],
+    "description": null,
+    "imdb_rating": "6.6/10 from 72 users",
+    "release_date": [
+        {
+            "date": "2004-01-28",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2004-01-28",
+    "original_title": "Klassentreffen",
     "imdb_rating_average": 6.6,
-    "update_at": "2025-07-01T10:39:11"
+    "update_at": "2026-10-22T05:28:06"
 }

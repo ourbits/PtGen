@@ -5,42 +5,117 @@
     "site": "imdb",
     "year": "1975",
     "@type": "TVSeries",
-    "genre": null,
+    "genre": [
+        "Soap",
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Mystery"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0607439/",
-            "name": "Laerte Morrone"
+            "name": "Laerte Morrone",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0209795/",
-            "name": "Maria Isabel de Lizandra"
+            "name": "Maria Isabel de Lizandra",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0763636/",
-            "name": "Rodrigo Santiago"
+            "name": "Rodrigo Santiago",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0374985/",
+            "name": "Célia Helena",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0322483/",
+            "name": "Elias Gleizer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0245057/",
+            "name": "Liana Duval",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0135629/",
+            "name": "Herson Capri",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0023739/",
+            "name": "Gésio Amadeu",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0741340/",
+            "name": "Deive Rose",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0147370/",
+            "name": "Olney Cazarré",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Laerte Morrone",
+            "Maria Isabel de Lizandra",
+            "Rodrigo Santiago"
+        ],
+        "Genres": [
+            "Soap",
+            "Sci-Fi & Fantasy",
+            "Drama",
+            "Mystery"
+        ],
+        "Writer": [
+            "Sérgio Jockyman",
+            "Machado de Assis"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Luiz Gallon"
+        ],
         "Language": [
             "Portuguese"
         ],
         "Release date": [
-            "August 11, 1975 (Brazil)"
-        ],
-        "Country of origin": [
-            "Brazil"
-        ],
-        "Production company": [
-            "TV Tupi"
+            "1975-08-11"
         ]
     },
     "reviews": 0,
-    "creators": [],
-    "duration": null,
-    "keywords": [
-        "based on novel"
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0423493/",
+            "name": "Sérgio Jockyman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0207162/",
+            "name": "Machado de Assis",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT1H",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0303114/",
+            "name": "Luiz Gallon",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0209849/",
     "metascore": null,
@@ -51,6 +126,7 @@
     "release_date": [],
     "contentRating": null,
     "datePublished": "1975-08-11",
+    "original_title": "Vila do Arco",
     "imdb_rating_average": 0,
-    "update_at": "2025-04-17T16:34:03"
+    "update_at": "2026-10-22T07:21:28"
 }
