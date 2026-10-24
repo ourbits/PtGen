@@ -5,71 +5,139 @@
     "site": "imdb",
     "year": "1937",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Music"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0176550/",
-            "name": "Rosita Contreras"
+            "name": "Rosita Contreras",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0763944/",
-            "name": "Enrique Santos Discépolo"
+            "name": "Enrique Santos Discépolo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0496533/",
-            "name": "Amanda Ledesma"
+            "name": "Amanda Ledesma",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0135277/",
+            "name": "Marcos Caplán",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0710977/",
+            "name": "Ernesto Raquén",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0095115/",
+            "name": "Juan Bono",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0671174/",
+            "name": "Pascual Pelliciota",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0061298/",
+            "name": "Guillermo Battaglia",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0897641/",
+            "name": "Oscar Villa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0812910/",
+            "name": "Adelaida Soler",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzE3MDI1MWEtZjcwMS00NWY0LTljMTEtY2RkM2M1YTYyN2Y5XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Rosita Contreras",
+            "Enrique Santos Discépolo",
+            "Amanda Ledesma"
+        ],
+        "Genres": [
+            "Music"
+        ],
+        "Writer": [
+            "René Garzón",
+            "Luis Moglia Barth",
+            "Enrique Santos Discépolo"
+        ],
+        "Runtime": [
+            "76 min"
+        ],
+        "Director": [
+            "Luis Moglia Barth"
+        ],
         "Language": [
             "Spanish"
         ],
         "Release date": [
-            "November 17, 1937 (Argentina)"
+            "1937-11-17"
         ],
         "Country of origin": [
             "Argentina"
         ],
-        "Production company": [
-            "Argentina Sono Film S.A.C.I."
+        "Production companies": [
+            "Argentina Sono Film"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0309001/",
-            "name": "René Garzón"
+            "name": "René Garzón",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0595768/",
-            "name": "Luis Moglia Barth"
+            "name": "Luis Moglia Barth",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0763944/",
-            "name": "Enrique Santos Discépolo"
+            "name": "Enrique Santos Discépolo",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H16M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0595768/",
-            "name": "Luis Moglia Barth"
+            "name": "Luis Moglia Barth",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0195053/",
     "metascore": null,
-    "imdb_votes": 0,
+    "imdb_votes": 5,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "imdb_rating": "7.8/10 from 5 users",
+    "release_date": [
+        {
+            "date": "1937-11-17",
+            "country": "Argentina"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1937-11-17",
-    "imdb_rating_average": 0,
-    "update_at": "2025-08-14T08:00:43"
+    "original_title": "Melodías porteñas",
+    "imdb_rating_average": 7.8,
+    "update_at": "2026-10-23T20:35:06"
 }

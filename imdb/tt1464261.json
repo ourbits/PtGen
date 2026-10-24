@@ -4,55 +4,102 @@
     "name": "Maan parhaat",
     "site": "imdb",
     "year": "1963",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0617429/",
-            "name": "Toivo Mäkelä"
+            "name": "Toivo Mäkelä",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0904897/",
-            "name": "Emma Väänänen"
+            "name": "Emma Väänänen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0649363/",
-            "name": "Matti Oravisto"
+            "name": "Matti Oravisto",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0758745/",
+            "name": "Ville-Veikko Salminen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0849177/",
+            "name": "Liisi Tandefelt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0432991/",
+            "name": "Sakari Jurkka",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0634962/",
+            "name": "Marita Nordberg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0433304/",
+            "name": "Kaarlo Juurela",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0427018/",
+            "name": "Leo Jokela",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0651331/",
+            "name": "Kirsti Ortola",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Finnish"
+        "Stars": [
+            "Toivo Mäkelä",
+            "Emma Väänänen",
+            "Matti Oravisto"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Eino Leino"
+        ],
+        "Runtime": [
+            "105 min"
+        ],
+        "Director": [
+            "Seppo Wallin"
         ],
         "Release date": [
-            "December 11, 1963 (Finland)"
-        ],
-        "Country of origin": [
-            "Finland"
-        ],
-        "Production company": [
-            "Suomen Televisio"
+            "1963"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0500467/",
-            "name": "Eino Leino"
+            "name": "Eino Leino",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H45M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0909205/",
-            "name": "Seppo Wallin"
+            "name": "Seppo Wallin",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1464261/",
@@ -63,7 +110,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1963-12-11",
+    "datePublished": "1963",
+    "original_title": "Maan parhaat",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-28T02:28:07"
+    "update_at": "2026-10-23T14:49:06"
 }

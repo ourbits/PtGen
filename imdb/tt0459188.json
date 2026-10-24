@@ -3,7 +3,8 @@
     "sid": "tt0459188",
     "name": "Bad Company",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1946",
+    "@type": "Short",
     "genre": [
         "Drama",
         "Short"
@@ -11,49 +12,81 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0175992/",
-            "name": "Mabel Constanduros"
+            "name": "Mabel Constanduros",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0206111/",
-            "name": "Diana Dawson"
+            "name": "Diana Dawson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0066716/",
-            "name": "Gordon Begg"
+            "name": "Gordon Begg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0608447/",
+            "name": "Kenneth Mosely",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0255700/",
+            "name": "Bob Elson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1918377/",
+            "name": "Granville Squires",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0335602/",
+            "name": "Pauline Grant",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Mabel Constanduros",
+            "Diana Dawson",
+            "Gordon Begg"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "R. Wakeley"
+        ],
+        "Runtime": [
+            "44 min"
+        ],
+        "Director": [
+            "Paul Barralet"
         ],
         "Release date": [
-            "1946 (United Kingdom)"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Production companies": [
-            "Paul Barralet Productions",
-            "Barrelet"
+            "1946"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1926277/",
-            "name": "R. Wakeley"
+            "name": "R. Wakeley",
+            "@type": "Person"
         }
     ],
     "duration": "PT44M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1291070/",
-            "name": "Paul Barralet"
+            "name": "Paul Barralet",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0459188/",
@@ -64,7 +97,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1946",
+    "original_title": "Bad Company",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-10T02:49:07"
+    "update_at": "2026-10-23T13:42:08"
 }

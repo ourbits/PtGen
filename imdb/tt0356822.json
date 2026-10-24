@@ -4,58 +4,106 @@
     "name": "Le lien",
     "site": "imdb",
     "year": "1960",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0146613/",
-            "name": "Jean-Roger Caussimon"
+            "name": "Jean-Roger Caussimon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0764664/",
-            "name": "Alice Sapritch"
+            "name": "Alice Sapritch",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0189507/",
-            "name": "Roger Crouzet"
+            "name": "Roger Crouzet",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0622069/",
+            "name": "Lucien Nat",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0633532/",
+            "name": "Alain Nobis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0079700/",
+            "name": "Georges Bever",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0492009/",
+            "name": "Charles Lavialle",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0216596/",
+            "name": "Marcel Delaître",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0344911/",
+            "name": "Nina Grégoire",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0656788/",
+            "name": "Laure Paillette",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzQyMzViYjQtZjc5ZC00ZDQ1LWI4ZDktOGViN2M4ZThkMzYxXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Jean-Roger Caussimon",
+            "Alice Sapritch",
+            "Roger Crouzet"
+        ],
+        "Writer": [
+            "Tore Dahlstrom",
+            "Jean-Jacques Robert",
+            "August Strindberg"
+        ],
+        "Director": [
+            "Guy Lessertisseur"
         ],
         "Release date": [
-            "October 18, 1960 (France)"
-        ],
-        "Country of origin": [
-            "France"
+            "1960"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1333593/",
-            "name": "Tore Dahlstrom"
+            "name": "Tore Dahlstrom",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1332940/",
-            "name": "Jean-Jacques Robert"
+            "name": "Jean-Jacques Robert",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0834529/",
-            "name": "August Strindberg"
+            "name": "August Strindberg",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "based on play"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0504351/",
-            "name": "Guy Lessertisseur"
+            "name": "Guy Lessertisseur",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0356822/",
@@ -66,7 +114,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1960-10-18",
+    "datePublished": "1960",
+    "original_title": "Le lien",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-06T21:14:17"
+    "update_at": "2026-10-23T21:56:34"
 }

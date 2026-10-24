@@ -4,68 +4,116 @@
     "name": "A Spring Idyl",
     "site": "imdb",
     "year": "1917",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0085863/",
-            "name": "Charles Stuart Blackton"
+            "name": "Charles Stuart Blackton",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0085870/",
-            "name": "Paula Blackton"
+            "name": "Paula Blackton",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0085872/",
-            "name": "Violet Virginia Blackton"
+            "name": "Violet Virginia Blackton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0402503/",
+            "name": "Jewell Hunt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0448682/",
+            "name": "Charles Kent",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0531584/",
+            "name": "Marc McDermott",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0725021/",
+            "name": "Charles Richman",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDY5ZGM5MTQtM2UyZi00ZGRmLWIzY2MtNmE5MjBjODcwN2ZkXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/udCSaeo4kCP4QBM7UoqvSp39u4Q.jpg",
     "details": {
+        "Stars": [
+            "Charles Stuart Blackton",
+            "Paula Blackton",
+            "Violet Virginia Blackton"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Paula Blackton"
+        ],
+        "Director": [
+            "J. Stuart Blackton"
+        ],
         "Language": [
-            "None"
+            "No Language"
         ],
         "Release date": [
-            "April 9, 1917 (United States)"
+            "1917-04-09"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Vitagraph Company of America"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0085870/",
-            "name": "Paula Blackton"
+            "name": "Paula Blackton",
+            "@type": "Person"
         }
     ],
-    "duration": null,
+    "duration": "PT20M",
     "keywords": [
-        ""
+        "preserved george eastman house"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0085865/",
-            "name": "J. Stuart Blackton"
+            "name": "J. Stuart Blackton",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0143898/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "One of six episodes of Paula Blackton&apos;s Country Life Stories.",
+    "description": "An episode of The \"Country Life Stories\" Series focusing on idealized or dramatic vignettes of rural living, often featuring the real-life children of the Blackton family.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1917-04-09",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1917-04-09",
+    "original_title": "A Spring Idyl",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-28T23:34:27"
+    "update_at": "2026-10-23T16:56:27"
 }

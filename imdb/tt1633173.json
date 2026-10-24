@@ -4,7 +4,7 @@
     "name": "Boris Godunov",
     "site": "imdb",
     "year": "1975",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Music"
@@ -12,50 +12,90 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0848328/",
-            "name": "Martti Talvela"
+            "name": "Martti Talvela",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3864260/",
-            "name": "Tuula Nieminen"
+            "name": "Tuula Nieminen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3874823/",
-            "name": "Veijo Varpio"
+            "name": "Veijo Varpio",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3864281/",
+            "name": "Heikki Toivanen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3471144/",
+            "name": "Pekka Nuotio",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3864262/",
+            "name": "Kalevi Lahtinen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3509729/",
+            "name": "Matti Piipponen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3471104/",
+            "name": "Maiju Kuusoja",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0265897/",
+            "name": "Jorma Falck",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3514499/",
+            "name": "Aino Takala",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Finnish"
+        "Stars": [
+            "Martti Talvela",
+            "Tuula Nieminen",
+            "Veijo Varpio"
+        ],
+        "Genres": [
+            "Drama",
+            "Music"
+        ],
+        "Director": [
+            "Jack Witikka",
+            "Hannu Heikinheimo"
         ],
         "Release date": [
-            "January 1, 1975 (Finland)"
-        ],
-        "Country of origin": [
-            "Finland"
-        ],
-        "Filming locations": [
-            "Olavinlinna, Savonlinna, Finland"
-        ],
-        "Production company": [
-            "Yleisradio (YLE)"
+            "1975"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": null,
-    "keywords": [
-        "opera"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0936786/",
-            "name": "Jack Witikka"
+            "name": "Jack Witikka",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0374065/",
-            "name": "Hannu Heikinheimo"
+            "name": "Hannu Heikinheimo",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1633173/",
@@ -66,7 +106,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1975-01-01",
+    "datePublished": "1975",
+    "original_title": "Boris Godunov",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-25T02:44:41"
+    "update_at": "2026-10-23T15:07:39"
 }

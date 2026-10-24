@@ -4,76 +4,90 @@
     "name": "McGarry and His Mouse",
     "site": "imdb",
     "year": "1960",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0642671/",
-            "name": "Michael O&apos;Shea"
+            "name": "Michael O'Shea",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0562920/",
-            "name": "Virginia Mayo"
+            "name": "Virginia Mayo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0871876/",
-            "name": "Les Tremayne"
+            "name": "Les Tremayne",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0301348/",
+            "name": "Richard Gaines",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Michael O'Shea",
+            "Virginia Mayo",
+            "Les Tremayne"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Maurice Richlin",
+            "Stanley Shapiro"
+        ],
+        "Runtime": [
+            "30 min"
+        ],
+        "Director": [
+            "Norman Tokar"
         ],
         "Release date": [
-            "July 5, 1960 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA"
-        ],
-        "Production company": [
-            "Hal Roach Studios"
+            "1960"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0725009/",
-            "name": "Maurice Richlin"
+            "name": "Maurice Richlin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0788630/",
-            "name": "Stanley Shapiro"
+            "name": "Stanley Shapiro",
+            "@type": "Person"
         }
     ],
     "duration": "PT30M",
-    "keywords": [
-        "male police officer",
-        "police",
-        "police officer",
-        "failed pilot"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0865709/",
-            "name": "Norman Tokar"
+            "name": "Norman Tokar",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0440625/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Pilot for a situation comedy developed by CBS about the adventures of a gentle Irish-American beat cop and his non-confrontational methods of resolving neighborhood problems.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1960-07-05",
+    "datePublished": "1960",
+    "original_title": "McGarry and His Mouse",
     "imdb_rating_average": 0,
-    "update_at": "2026-04-30T19:35:11"
+    "update_at": "2026-10-23T19:00:16"
 }

@@ -4,56 +4,76 @@
     "name": "W.T.F.",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Adventure"
+        "Adventure",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0106998/",
-            "name": "Peter Breitmayer"
+            "name": "Peter Breitmayer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2806942/",
-            "name": "Dream Kasestatad"
+            "name": "Dream Kasestatad",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2852232/",
-            "name": "Jeffrey Miles"
+            "name": "Jeffrey Miles",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2732030/",
+            "name": "Robert Starkey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3319789/",
+            "name": "Chrissy Torres",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Peter Breitmayer",
+            "Dream Kasestatad",
+            "Jeffrey Miles"
+        ],
+        "Genres": [
+            "Adventure",
+            "Short"
+        ],
+        "Writer": [
+            "Steve Boman"
+        ],
+        "Director": [
+            "Steve Boman"
         ],
         "Release date": [
-            "December 12, 2007 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "USC School of Cinema and Television"
+            "2007"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3319782/",
-            "name": "Steve Boman"
+            "name": "Steve Boman",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3319782/",
-            "name": "Steve Boman"
+            "name": "Steve Boman",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1380966/",
@@ -64,7 +84,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2007-12-12",
+    "datePublished": "2007",
+    "original_title": "W.T.F.",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-01T04:14:26"
+    "update_at": "2026-10-24T00:49:11"
 }

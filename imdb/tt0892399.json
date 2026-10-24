@@ -4,7 +4,7 @@
     "name": "The 10th Mountain",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short",
         "War"
@@ -12,64 +12,93 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2437341/",
-            "name": "Ian Arthur"
+            "name": "Ian Arthur",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0138211/",
-            "name": "Martin L. Carlton"
+            "name": "Martin L. Carlton",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1556943/",
-            "name": "Ben Dukes"
+            "name": "Ben Dukes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1204909/",
+            "name": "Christian Gomez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2438057/",
+            "name": "Patrick Mottola",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1827429/",
+            "name": "Jaimie Roedel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2439438/",
+            "name": "Jon-Marc Yaden",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Ian Arthur",
+            "Martin L. Carlton",
+            "Ben Dukes"
+        ],
+        "Genres": [
+            "Short",
+            "War"
+        ],
+        "Writer": [
+            "Ian Arthur"
+        ],
+        "Runtime": [
+            "43 min"
+        ],
+        "Director": [
+            "Alan Larsen"
         ],
         "Release date": [
-            "July 29, 2006 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Claremont, California, USA"
-        ],
-        "Production company": [
-            "Stunt Cat Productions"
+            "2006"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2437341/",
-            "name": "Ian Arthur"
+            "name": "Ian Arthur",
+            "@type": "Person"
         }
     ],
     "duration": "PT43M",
-    "keywords": [
-        "mountain warfare",
-        "world war two",
-        "italian alps"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2443283/",
-            "name": "Alan Larsen"
+            "name": "Alan Larsen",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0892399/",
     "metascore": null,
-    "imdb_votes": 11,
+    "imdb_votes": 13,
     "popularity": 0,
-    "description": "At the peak of World War II, an elite squad from the 10th Mountain division receives a new squad leader, a Filipino. The squad&apos;s mixed views on their new Captain are tested as new orders have them infiltrating a German base in Nor...",
-    "imdb_rating": "5.5/10 from 11 users",
+    "description": null,
+    "imdb_rating": "5.5/10 from 13 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2006-07-29",
+    "datePublished": "2006",
+    "original_title": "The 10th Mountain",
     "imdb_rating_average": 5.5,
-    "update_at": "2025-08-17T12:26:04"
+    "update_at": "2026-10-23T13:28:28"
 }

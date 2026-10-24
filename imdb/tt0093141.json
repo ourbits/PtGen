@@ -4,7 +4,7 @@
     "name": "Hands of a Stranger",
     "site": "imdb",
     "year": "1987",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Drama",
@@ -13,75 +13,132 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000800/",
-            "name": "Armand Assante"
+            "name": "Armand Assante",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001974/",
-            "name": "Blair Brown"
+            "name": "Blair Brown",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000350/",
-            "name": "Beverly D&apos;Angelo"
+            "name": "Beverly D'Angelo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0503627/",
+            "name": "Michael Lerner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0143779/",
+            "name": "Philip Casnoff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0397124/",
+            "name": "Arliss Howard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0573481/",
+            "name": "Sam McMurray",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0582778/",
+            "name": "Irving Metzman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005359/",
+            "name": "Patricia Richardson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001845/",
+            "name": "Forest Whitaker",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGVkNTAyOGItZTEzMS00YTNmLTk0M2MtNjY1OWU3ODdkYjhjXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/mip3WJdbnyzKgfDnaUuw1a5fEtT.jpg",
     "details": {
+        "Stars": [
+            "Armand Assante",
+            "Blair Brown",
+            "Beverly D'Angelo"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Robert Daley",
+            "Arthur Kopit"
+        ],
+        "Runtime": [
+            "179 min"
+        ],
+        "Director": [
+            "Larry Elikann"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 10, 1987 (United States)"
-        ],
-        "Also known as": [
-            "Hands of a Stranger - Ein Mann nimmt Rache"
+            "1987-05-10"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "British Columbia, Canada"
+            "United States of America"
         ],
         "Production companies": [
-            "Edgar J. Scherick Associates",
+            "NBC",
             "Gary Hoffman Productions",
+            "Edgar J. Scherick Associates",
             "Taft Entertainment Television"
         ]
     },
-    "reviews": 10,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1084359/",
-            "name": "Robert Daley"
+            "name": "Robert Daley",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0465792/",
-            "name": "Arthur Kopit"
+            "name": "Arthur Kopit",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H59M",
-    "keywords": [
-        "sex scene",
-        "rape and revenge",
-        "rapist",
-        "long haired male",
-        "blindfolded"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0253605/",
-            "name": "Larry Elikann"
+            "name": "Larry Elikann",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0093141/",
     "metascore": null,
-    "imdb_votes": 312,
+    "imdb_votes": 323,
     "popularity": 0,
-    "description": "A New York cop becomes obsessed with finding his wife&apos;s rapist.",
-    "imdb_rating": "5.9/10 from 312 users",
-    "release_date": [],
-    "contentRating": "TV-14",
+    "description": "A New York cop becomes obsessed with finding his wife's rapist.",
+    "imdb_rating": "6.0/10 from 323 users",
+    "release_date": [
+        {
+            "date": "1987-05-10",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1987-05-10",
-    "imdb_rating_average": 5.9,
-    "update_at": "2025-05-25T01:13:09"
+    "original_title": "Hands of a Stranger",
+    "imdb_rating_average": 6.0,
+    "update_at": "2026-10-23T23:42:13"
 }

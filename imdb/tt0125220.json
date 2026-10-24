@@ -6,75 +6,114 @@
     "year": "1974",
     "@type": "Movie",
     "genre": [
-        "Adult"
+        "Adult",
+        "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0457418/",
-            "name": "Andrea True"
+            "name": "Andrea True",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0535749/",
-            "name": "Michelle Magazine"
+            "name": "Michelle Magazine",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2483804/",
-            "name": "Martine Gay"
+            "name": "Martine Gay",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0534900/",
+            "name": "Helen Madigan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0391159/",
+            "name": "Davey Jones",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0129004/",
+            "name": "Roger Caine",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0003501/",
+            "name": "Jamie Gillis",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": null,
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/7NUANHfFgayOzk9yv0d8tpJozsX.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Andrea True",
+            "Michelle Magazine",
+            "Martine Gay"
+        ],
+        "Genres": [
+            "Adult",
+            "Drama"
+        ],
+        "Writer": [
+            "Anthony Fall",
+            "Jonas Middleton"
+        ],
+        "Runtime": [
+            "70 min"
+        ],
+        "Director": [
+            "Jonas Middleton"
         ],
         "Release date": [
-            "September 2, 1974 (Sweden)"
-        ],
-        "Also known as": [
-            "Sätt på mej älskling"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Mastermind Productions"
+            "1974-01-01"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": "Now, at last you can see it.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0266295/",
-            "name": "Anthony Fall"
+            "name": "Anthony Fall",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0585522/",
-            "name": "Jonas Middleton"
+            "name": "Jonas Middleton",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H10M",
-    "keywords": [
-        "lesbian",
-        "house",
-        "group",
-        "group sex",
-        "oral sex"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0585522/",
-            "name": "Jonas Middleton"
+            "name": "Jonas Middleton",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0125220/",
     "metascore": null,
-    "imdb_votes": 35,
+    "imdb_votes": 41,
     "popularity": 0,
-    "description": "Psychiatrist Miranda Woolf invites her patients to spend the weekend in her house on the coast. During the weekend they take every chance of getting to know each other intimately and the weekend is finished off with a big group se...",
-    "imdb_rating": "6.6/10 from 35 users",
-    "release_date": [],
-    "contentRating": "X",
-    "datePublished": "1974-09-02",
-    "imdb_rating_average": 6.6,
-    "update_at": "2026-03-11T02:42:33"
+    "description": "Psychiatrist Miranda Woolf invites her patients to spend the weekend in her house on the coast. During the weekend they take every chance of getting to know each other intimately and the weekend is finished off with a big group session.",
+    "imdb_rating": "6.1/10 from 41 users",
+    "release_date": [
+        {
+            "date": "1975-03-28",
+            "country": "Germany"
+        },
+        {
+            "date": "1974-01-01",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1974-01-01",
+    "original_title": "Illusions of a Lady",
+    "imdb_rating_average": 6.1,
+    "update_at": "2026-10-23T17:00:30"
 }

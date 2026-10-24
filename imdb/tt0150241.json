@@ -3,66 +3,84 @@
     "sid": "tt0150241",
     "name": "The Cumberland Story",
     "site": "imdb",
-    "year": "1947",
-    "@type": "Movie",
+    "year": "1948",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm4933205/",
-            "name": "James Adam Nimmo"
+            "name": "James Adam Nimmo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4933396/",
-            "name": "Tom Stephenson"
+            "name": "Tom Stephenson",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQ0NGQxMWItMzIxYy00NTUxLWFiYjYtNzRjNzgwNmUyZGZkXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/9HTOwFlE2WZFRIkzJGaK0sroMym.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "James Adam Nimmo",
+            "Tom Stephenson"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Humphrey Jennings"
+        ],
+        "Runtime": [
+            "37 min"
+        ],
+        "Director": [
+            "Humphrey Jennings"
         ],
         "Release date": [
-            "August 31, 1947 (United Kingdom)"
-        ],
-        "Country of origin": [
-            "United Kingdom"
+            "1948-02-16"
         ],
         "Production companies": [
-            "Central Office of Information (COI)",
-            "Crown Film Unit",
-            "Ministry of Fuel and Power"
+            "COI"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0421165/",
-            "name": "Humphrey Jennings"
+            "name": "Humphrey Jennings",
+            "@type": "Person"
         }
     ],
     "duration": "PT37M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0421165/",
-            "name": "Humphrey Jennings"
+            "name": "Humphrey Jennings",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0150241/",
     "metascore": null,
-    "imdb_votes": 44,
+    "imdb_votes": 45,
     "popularity": 0,
-    "description": "A coal mine manager, with the agreement of the union and workers, revitalizes a Cumberland coal mine during 1941, opening up an abandoned coal seam out at sea and bringing in new equipment.",
-    "imdb_rating": "6.2/10 from 44 users",
-    "release_date": [],
+    "description": "A documentary by Humphrey Jennings about the modernization of coal mines in Cumberland.",
+    "imdb_rating": "6.4/10 from 45 users",
+    "release_date": [
+        {
+            "date": "1948-02-16",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1947-08-31",
-    "imdb_rating_average": 6.2,
-    "update_at": "2025-09-22T20:39:20"
+    "datePublished": "1948-02-16",
+    "original_title": "The Cumberland Story",
+    "imdb_rating_average": 6.4,
+    "update_at": "2026-10-23T06:07:29"
 }

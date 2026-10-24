@@ -3,66 +3,96 @@
     "sid": "tt0351301",
     "name": "Manöver",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1967",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0257840/",
-            "name": "Werner Enke"
+            "name": "Werner Enke",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0818810/",
-            "name": "May Spils"
+            "name": "May Spils",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0887463/",
-            "name": "Henry van Lyck"
+            "name": "Henry van Lyck",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Werner Enke",
+            "May Spils",
+            "Henry van Lyck"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "May Spils"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "May Spils"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "April 1967 (West Germany)"
-        ],
-        "Official site": [
-            "Official website - https://www.wernerenke.de/kurzfilm-manoever/"
+            "1967-04-01"
         ],
         "Country of origin": [
-            "West Germany"
+            "Germany"
+        ],
+        "Production companies": [
+            "May Spils"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0818810/",
-            "name": "May Spils"
+            "name": "May Spils",
+            "@type": "Person"
         }
     ],
     "duration": "PT10M",
     "keywords": [
-        ""
+        "woman director"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0818810/",
-            "name": "May Spils"
+            "name": "May Spils",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0351301/",
     "metascore": null,
     "imdb_votes": 36,
     "popularity": 0,
-    "description": null,
+    "description": "A woman's elaborate manoeuvre to get her husband out of bed.",
     "imdb_rating": "7.5/10 from 36 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1967-04-01",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1967-04-01",
+    "original_title": "Manöver",
     "imdb_rating_average": 7.5,
-    "update_at": "2026-01-30T11:35:37"
+    "update_at": "2026-10-24T00:56:07"
 }

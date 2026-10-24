@@ -4,51 +4,121 @@
     "name": "Crossroad",
     "site": "imdb",
     "year": "2016",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0846164/",
-            "name": "Hiroshi Tachi"
+            "name": "Hiroshi Tachi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1476619/",
-            "name": "Masaki Kanda"
+            "name": "Masaki Kanda",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2463438/",
-            "name": "Kie Kitano"
+            "name": "Kie Kitano",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0620241/",
+            "name": "Tamao Nakamura",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0847395/",
+            "name": "Reiko Takashima",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2156427/",
+            "name": "Satoshi Tokushige",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0632761/",
+            "name": "Masahiko Nishimura",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0386217/",
+            "name": "Sei Hiraizumi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0648777/",
+            "name": "Takehiko Ono",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3558335/",
+            "name": "Chieko Iinuma",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzU1N2NjNjAtMTE5MS00YWU2LWE2MzktYWM5OWQwZTIzNzUxXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "Japanese"
+        "Stars": [
+            "Hiroshi Tachi",
+            "Masaki Kanda",
+            "Kie Kitano"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Narito Kaneko",
+            "Toshimichi Ohkawa",
+            "Miyuki Takahashi"
+        ],
+        "Runtime": [
+            "49 min"
+        ],
+        "Director": [
+            "Yûya Fujii",
+            "Shinobu Murata"
         ],
         "Release date": [
-            "February 25, 2016 (Japan)"
-        ],
-        "Also known as": [
-            "クロスロード"
-        ],
-        "Official site": [
-            "Official Site (Japan) - http://www.nhk.or.jp/dsp/crossroad/"
-        ],
-        "Country of origin": [
-            "Japan"
-        ],
-        "Production company": [
-            "NHK"
+            "2016"
         ]
     },
     "reviews": 0,
-    "creators": [],
-    "duration": null,
-    "keywords": [
-        "tv mini series"
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm1221015/",
+            "name": "Narito Kaneko",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0645010/",
+            "name": "Toshimichi Ohkawa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0847170/",
+            "name": "Miyuki Takahashi",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT49M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm5260934/",
+            "name": "Yûya Fujii",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0613606/",
+            "name": "Shinobu Murata",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt5471744/",
     "metascore": null,
@@ -58,7 +128,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2016-02-25",
+    "datePublished": "2016",
+    "original_title": "Crossroad",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-21T05:35:30"
+    "update_at": "2026-10-23T17:42:22"
 }

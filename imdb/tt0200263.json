@@ -3,67 +3,135 @@
     "sid": "tt0200263",
     "name": "Vlajkova tajna",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1976",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0865396/",
-            "name": "Marko Todorovic"
+            "name": "Marko Todorovic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0579840/",
-            "name": "Irfan Mensur"
+            "name": "Irfan Mensur",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0592486/",
-            "name": "Dejan Mironja"
+            "name": "Dejan Mironja",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0812408/",
+            "name": "Ružica Sokić",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0831262/",
+            "name": "Danilo Stojković",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0587416/",
+            "name": "Nikola Milic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0417582/",
+            "name": "Dusan Janicijevic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0819052/",
+            "name": "Olga Spiridonovic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0687173/",
+            "name": "Branko Plesa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0081967/",
+            "name": "Melita Bihali",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Marko Todorovic",
+            "Irfan Mensur",
+            "Dejan Mironja"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Mirko Kovac",
+            "Simo Matavulj"
+        ],
+        "Runtime": [
+            "63 min"
+        ],
+        "Director": [
+            "Eduard Galic"
+        ],
         "Language": [
             "Serbo-Croatian"
+        ],
+        "Release date": [
+            "1976-01-01"
         ],
         "Country of origin": [
             "Yugoslavia"
         ],
-        "Production company": [
+        "Production companies": [
             "Radiotelevizija Beograd"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0468156/",
-            "name": "Mirko Kovac"
+            "name": "Mirko Kovac",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0558164/",
-            "name": "Simo Matavulj"
+            "name": "Simo Matavulj",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H3M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0302087/",
-            "name": "Eduard Galic"
+            "name": "Eduard Galic",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0200263/",
     "metascore": null,
     "imdb_votes": 7,
     "popularity": 0,
-    "description": null,
+    "description": "The subject of the story is care and love of Vlajko, a lonely clerk, for an abandoned sick child. Through sacrifice, the main character finds the meaning of his monotonous life.",
     "imdb_rating": "7.2/10 from 7 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1976-01-01",
+            "country": "Yugoslavia"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1976-01-01",
+    "original_title": "Vlajkova tajna",
     "imdb_rating_average": 7.2,
-    "update_at": "2026-03-16T15:20:21"
+    "update_at": "2026-10-23T17:56:08"
 }

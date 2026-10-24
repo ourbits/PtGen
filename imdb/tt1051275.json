@@ -3,73 +3,119 @@
     "sid": "tt1051275",
     "name": "Witchcraft",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1961",
+    "@type": "TVMovie",
     "genre": [
         "Horror"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0951063/",
-            "name": "Blanche Yurka"
+            "name": "Blanche Yurka",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0052852/",
-            "name": "John Baragrey"
+            "name": "John Baragrey",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0569000/",
-            "name": "Darren McGavin"
+            "name": "Darren McGavin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2688533/",
+            "name": "Annemarie Roussel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0585557/",
+            "name": "Robert Middleton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0926819/",
+            "name": "Bruno Wick",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0867144/",
+            "name": "Franchot Tone",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjBjZjZhODMtNTExMy00NjUxLWJkMDUtMjM5Y2JkMjI1M2EzXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/cFGbe8sIDp8NSrrtPVmsvdgYWMP.jpg",
     "details": {
+        "Stars": [
+            "Blanche Yurka",
+            "John Baragrey",
+            "Darren McGavin"
+        ],
+        "Genres": [
+            "Horror"
+        ],
+        "Writer": [
+            "Frank De Felitta",
+            "William B. Seabrook"
+        ],
+        "Runtime": [
+            "30 min"
+        ],
+        "Director": [
+            "Harold Young"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "1961 (United States)"
-        ],
-        "Also known as": [
-            "Witchcraft: The Doll in Brambles"
+            "1961-01-01"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Charles H. Norton Productions"
+            "United States of America"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0208342/",
-            "name": "Frank De Felitta"
+            "name": "Frank De Felitta",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2690196/",
-            "name": "William B. Seabrook"
+            "name": "William B. Seabrook",
+            "@type": "Person"
         }
     ],
     "duration": "PT30M",
     "keywords": [
-        "psychotronic film"
+        "witch"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0949597/",
-            "name": "Harold Young"
+            "name": "Harold Young",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1051275/",
     "metascore": null,
-    "imdb_votes": 61,
+    "imdb_votes": 81,
     "popularity": 0,
-    "description": "Madame Tirelou is a witch who will not allow her daughter Marie to marry her true love Louis. The witch puts a curse on Louis should he ever set eyes on Marie again. Louis enlists the help of his old friend Fred to break the witch...",
-    "imdb_rating": "6.5/10 from 61 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
-    "datePublished": null,
-    "imdb_rating_average": 6.5,
-    "update_at": "2025-02-11T01:31:07"
+    "description": "Madame Tirelou is a witch who will not allow her daughter Marie to marry her one true love Louis. The witch puts a curse on Louis should he ever set eyes on Marie again. Louis enlists the help of his old friend Fred to break the witch's spell so the young lovers may finally marry. However, Madame Tirelou proves more powerful than non-believer Fred bargained for.  This is actually the Un-Aired Pilot of what was planned to be a weekly television show to run in a 30 minute spot.",
+    "imdb_rating": "6.2/10 from 81 users",
+    "release_date": [
+        {
+            "date": "1961-01-01",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
+    "datePublished": "1961-01-01",
+    "original_title": "Witchcraft",
+    "imdb_rating_average": 6.2,
+    "update_at": "2026-10-23T12:07:15"
 }

@@ -4,31 +4,71 @@
     "name": "Jiang jin",
     "site": "imdb",
     "year": "1983",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Drama"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm7812289/",
+            "name": "Xijun Feng",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7812288/",
+            "name": "Yan Li",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7812287/",
+            "name": "Xun Zhou",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Mandarin"
+        "Stars": [
+            "Xijun Feng",
+            "Yan Li",
+            "Xun Zhou"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Kai Zhou"
+        ],
+        "Director": [
+            "Jianmin Zhang",
+            "Huan Zhou"
         ],
         "Release date": [
-            "February 27, 1983 (China)"
-        ],
-        "Country of origin": [
-            "China"
-        ],
-        "Production company": [
-            "China Central Television (CCTV)"
+            "1983"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm7807340/",
+            "name": "Kai Zhou",
+            "@type": "Person"
+        }
+    ],
     "duration": null,
-    "keywords": [
-        "tv mini series"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm7377598/",
+            "name": "Jianmin Zhang",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3791066/",
+            "name": "Huan Zhou",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt5295878/",
     "metascore": null,
@@ -38,7 +78,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1983-02-27",
+    "datePublished": "1983",
+    "original_title": "Jiang jin",
     "imdb_rating_average": 0,
-    "update_at": "2025-11-11T10:39:11"
+    "update_at": "2026-10-23T20:35:13"
 }

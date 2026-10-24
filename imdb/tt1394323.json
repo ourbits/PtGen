@@ -4,70 +4,128 @@
     "name": "Ein ehrenwerter Herr",
     "site": "imdb",
     "year": "1968",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0071502/",
-            "name": "Heinz Bennent"
+            "name": "Heinz Bennent",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0902215/",
-            "name": "Milena von Eckhardt"
+            "name": "Milena von Eckhardt",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0449999/",
-            "name": "Alexander Kerst"
+            "name": "Alexander Kerst",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0418424/",
+            "name": "Jürgen Janza",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0919208/",
+            "name": "Herbert Weissbach",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0682553/",
+            "name": "Kurd Pieritz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0902820/",
+            "name": "Alexa von Porembsky",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0206859/",
+            "name": "Kerstin De Ahna",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1069280/",
+            "name": "Fritz Haneke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0618072/",
+            "name": "Kurt Mühlhardt",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Heinz Bennent",
+            "Milena von Eckhardt",
+            "Alexander Kerst"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Heinz Pauck",
+            "Jules Romains"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Wolfgang Liebeneiner"
         ],
         "Release date": [
-            "August 3, 1968 (West Germany)"
+            "1968-06-11"
         ],
         "Country of origin": [
-            "West Germany"
-        ],
-        "Production company": [
-            "Deutsche Buchgemeinschaft, Fernseh-Produktion"
+            "Germany"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0666710/",
-            "name": "Heinz Pauck"
+            "name": "Heinz Pauck",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0738653/",
-            "name": "Jules Romains"
+            "name": "Jules Romains",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0509327/",
-            "name": "Wolfgang Liebeneiner"
+            "name": "Wolfgang Liebeneiner",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1394323/",
     "metascore": null,
-    "imdb_votes": 12,
+    "imdb_votes": 11,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "8.7/10 from 12 users",
-    "release_date": [],
+    "imdb_rating": "8.1/10 from 11 users",
+    "release_date": [
+        {
+            "date": "1968-06-11",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1968-08-03",
-    "imdb_rating_average": 8.7,
-    "update_at": "2025-07-17T15:00:20"
+    "datePublished": "1968-06-11",
+    "original_title": "Ein ehrenwerter Herr",
+    "imdb_rating_average": 8.1,
+    "update_at": "2026-10-23T19:14:21"
 }

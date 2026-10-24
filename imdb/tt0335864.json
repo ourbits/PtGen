@@ -4,7 +4,7 @@
     "name": "El amante africano",
     "site": "imdb",
     "year": "1985",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Crime",
         "Drama",
@@ -13,50 +13,114 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0728149/",
-            "name": "Arturo Ripstein"
+            "name": "Arturo Ripstein",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0592340/",
-            "name": "Pedro F. Miret"
+            "name": "Pedro F. Miret",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1061924/",
-            "name": "Marisa Arango"
+            "name": "Marisa Arango",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm16586265/",
+            "name": "Roberto Elías Calles",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm16586264/",
+            "name": "Cruz Fuentes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0305531/",
+            "name": "José Luis García Agraz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm16586263/",
+            "name": "Pepe Hinojosa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0552259/",
+            "name": "Erick Martin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0600039/",
+            "name": "Gustavo Montiel Pagés",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0785498/",
+            "name": "Antonio Serrano",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/4Iu7fMGGRTBpiRSJbgF5CpSfxjF.jpg",
     "details": {
+        "Stars": [
+            "Arturo Ripstein",
+            "Pedro F. Miret",
+            "Marisa Arango"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Jordi García Bergua"
+        ],
+        "Runtime": [
+            "19 min"
+        ],
         "Language": [
             "Spanish"
         ],
         "Release date": [
-            "September 19, 1985 (Mexico)"
+            "1985-09-19"
         ],
         "Country of origin": [
             "Mexico"
+        ],
+        "Production companies": [
+            "Centro de Capacitación Cinematográfica (CCC)"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1420212/",
-            "name": "Jordi García Bergua"
+            "name": "Jordi García Bergua",
+            "@type": "Person"
         }
     ],
     "duration": "PT19M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt0335864/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "A singer is on the run from the law and a criminal gang. She takes refuge at a hotel where she finally reveals a complex story of betrayal and revenge to the investigating detective.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1985-09-19",
+            "country": "Mexico"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1985-09-19",
+    "original_title": "El amante africano",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-01T03:13:06"
+    "update_at": "2026-10-24T02:35:34"
 }

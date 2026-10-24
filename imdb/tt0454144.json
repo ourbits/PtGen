@@ -5,55 +5,89 @@
     "site": "imdb",
     "year": "1916",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0240647/",
-            "name": "Raphaël Duflos"
+            "name": "Raphaël Duflos",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0209789/",
-            "name": "Jean-Marie de l&apos;Isle"
+            "name": "Jean-Marie de l'Isle",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2471276/",
-            "name": "Jeanne Hading"
+            "name": "Jeanne Hading",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0713404/",
+            "name": "Aimée Raynal",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0304849/",
+            "name": "Jean Garat",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2470474/",
+            "name": "Dalbert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2469088/",
+            "name": "Louise Marcilly",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2471740/",
+            "name": "Barbin",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "None"
+        "Stars": [
+            "Raphaël Duflos",
+            "Jean-Marie de l'Isle",
+            "Jeanne Hading"
+        ],
+        "Writer": [
+            "Henry Kistemaekers"
+        ],
+        "Director": [
+            "Henri Pouctal"
         ],
         "Release date": [
-            "November 10, 1916 (France)"
-        ],
-        "Also known as": [
-            "La Flambée"
+            "1916-11-10"
         ],
         "Country of origin": [
             "France"
         ],
-        "Production company": [
-            "Le Film d'Art"
+        "Production companies": [
+            "Le Film d'art"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0457447/",
-            "name": "Henry Kistemaekers"
+            "name": "Henry Kistemaekers",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0693516/",
-            "name": "Henri Pouctal"
+            "name": "Henri Pouctal",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0454144/",
@@ -62,9 +96,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1916-11-10",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1916-11-10",
+    "original_title": "La flambée",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-27T17:28:05"
+    "update_at": "2026-10-23T07:28:14"
 }

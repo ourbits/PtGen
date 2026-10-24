@@ -4,63 +4,75 @@
     "name": "Crux",
     "site": "imdb",
     "year": "2010",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3917616/",
-            "name": "Leslie Brooks"
+            "name": "Leslie Brooks",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1015981/",
-            "name": "Paul Smith"
+            "name": "Paul Smith",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Leslie Brooks",
+            "Paul Smith"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Jared Hardy"
+        ],
+        "Runtime": [
+            "7 min"
+        ],
+        "Director": [
+            "Jared Hardy"
         ],
         "Release date": [
-            "January 1, 2010 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Indiana, USA"
+            "2010"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2050800/",
-            "name": "Jared Hardy"
+            "name": "Jared Hardy",
+            "@type": "Person"
         }
     ],
     "duration": "PT7M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2050800/",
-            "name": "Jared Hardy"
+            "name": "Jared Hardy",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1658069/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Somewhere, there is a seed being planted.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2010-01-01",
+    "datePublished": "2010",
+    "original_title": "Crux",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-06T20:39:34"
+    "update_at": "2026-10-23T19:07:34"
 }

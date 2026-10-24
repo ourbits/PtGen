@@ -4,7 +4,7 @@
     "name": "4000",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Documentary",
         "Short"
@@ -12,51 +12,96 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0135283/",
-            "name": "Fran Capo"
+            "name": "Fran Capo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3235891/",
-            "name": "Meghan Bacher"
+            "name": "Meghan Bacher",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3264573/",
-            "name": "Mary Tomaselli"
+            "name": "Mary Tomaselli",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3263089/",
+            "name": "Steve Balduzzi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3263944/",
+            "name": "Ollie Cook-Miles",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3263974/",
+            "name": "Tommy Stanziola",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3264840/",
+            "name": "Bob Fahrbach",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3240300/",
+            "name": "Geraldine Cruz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3262837/",
+            "name": "Anthony DeGeorge",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3263182/",
+            "name": "Al Fredericks",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTY0MjMyMjYzMF5BMl5BanBnXkFtZTcwNTUyNTk0MQ@@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Fran Capo",
+            "Meghan Bacher",
+            "Mary Tomaselli"
+        ],
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Writer": [
+            "Patricia Folan"
+        ],
+        "Runtime": [
+            "28 min"
+        ],
+        "Director": [
+            "Michael J. Arbouet"
         ],
         "Release date": [
-            "June 12, 2007 (United States)"
-        ],
-        "Also known as": [
-            "4000: The Tobacco Industry's Lethal Secret"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Arbo Pictures Inc."
+            "2007"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3232322/",
-            "name": "Patricia Folan"
+            "name": "Patricia Folan",
+            "@type": "Person"
         }
     ],
     "duration": "PT28M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1802022/",
-            "name": "Michael J. Arbouet"
+            "name": "Michael J. Arbouet",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1039779/",
@@ -67,7 +112,8 @@
     "imdb_rating": "6.4/10 from 10 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2007-06-12",
+    "datePublished": "2007",
+    "original_title": "4000",
     "imdb_rating_average": 6.4,
-    "update_at": "2025-09-07T18:42:21"
+    "update_at": "2026-10-23T13:21:08"
 }

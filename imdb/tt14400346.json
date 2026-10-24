@@ -4,78 +4,104 @@
     "name": "Una Noche Fría",
     "site": "imdb",
     "year": "2021",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm12465804/",
-            "name": "Miguel López"
+            "name": "Miguel López",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm10424976/",
-            "name": "Paúl Moré"
+            "name": "Paúl Moré",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm9502792/",
-            "name": "Ana Ruano"
+            "name": "Ana Ruano",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTgyMzQ0ZGQtZGQxMy00ODdjLTgwYzAtMmE2OWI2YTkwYzJhXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/oZlkErd294xYTk8wAW3RniWISn6.jpg",
     "details": {
+        "Stars": [
+            "Miguel López",
+            "Paúl Moré",
+            "Ana Ruano"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Yago Casariego",
+            "Miguel Tresguerres"
+        ],
+        "Runtime": [
+            "6 min"
+        ],
+        "Director": [
+            "Yago Casariego",
+            "Miguel Tresguerres"
+        ],
         "Language": [
             "Spanish"
         ],
         "Release date": [
-            "April 27, 2021 (Spain)"
+            "2021-04-27"
         ],
-        "Official site": [
-            "Instagram - Una Noche Fría - https://www.instagram.com/unanochefria_corto/"
-        ],
-        "Country of origin": [
-            "Spain"
-        ],
-        "Production company": [
+        "Production companies": [
             "Treca Audiovisual"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm11907741/",
-            "name": "Yago Casariego"
+            "name": "Yago Casariego",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm11968736/",
-            "name": "Miguel Tresguerres"
+            "name": "Miguel Tresguerres",
+            "@type": "Person"
         }
     ],
     "duration": "PT6M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm11907741/",
-            "name": "Yago Casariego"
+            "name": "Yago Casariego",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm11968736/",
-            "name": "Miguel Tresguerres"
+            "name": "Miguel Tresguerres",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt14400346/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Madrid, February 2021. As a containment measure against COVID-19, a curfew is decreed at 22:00, but something as simple as staying home can be a problem for those who don&apos;t have a home.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2021-04-27",
+            "country": "Spain"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2021-04-27",
+    "original_title": "Una Noche Fría",
     "imdb_rating_average": 0,
-    "update_at": "2026-02-23T22:40:10"
+    "update_at": "2026-10-23T20:56:19"
 }

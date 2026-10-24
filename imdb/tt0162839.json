@@ -1,66 +1,89 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "A hetvennégyes nyár emléke",
+            "country": "Hungary"
+        }
+    ],
     "sid": "tt0162839",
-    "name": "A 74-es nyár emlékére",
+    "name": "A 74-es nyár emléke",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1974",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0464861/",
-            "name": "Zsuzsa Koncz"
+            "name": "Zsuzsa Koncz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0468483/",
-            "name": "Kati Kovács"
+            "name": "Kati Kovács",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0558351/",
-            "name": "Máté Victor"
+            "name": "Máté Victor",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/5ztOZszBGvSWkDlFfxdrQbxj32O.jpg",
     "details": {
-        "Language": [
-            "Hungarian"
+        "Stars": [
+            "Zsuzsa Koncz",
+            "Kati Kovács",
+            "Máté Victor"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "György Kovásznai"
         ],
         "Release date": [
-            "1974 (Hungary)"
-        ],
-        "Also known as": [
-            "Memory of the Summer of '74"
+            "1974-01-01"
         ],
         "Country of origin": [
             "Hungary"
         ],
-        "Production company": [
+        "Production companies": [
             "Pannónia Filmstúdió"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT10M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0468526/",
-            "name": "György Kovásznai"
+            "name": "György Kovásznai",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0162839/",
     "metascore": null,
-    "imdb_votes": 38,
+    "imdb_votes": 43,
     "popularity": 0,
-    "description": "Painted animation at its finest in Kovásznai&apos;s stream-of-consciousness portrait of life in the Summer, color and form and brushstrokes constantly morphing and changing, all driven by a kinetic rock score.",
-    "imdb_rating": "6.3/10 from 38 users",
-    "release_date": [],
+    "description": "Screenplay Written by, Painted and Directed by György Kovásznai Music Compilation and Sound Editor: Péter Bársony Music Performed by Gábor Presser, Levente Szörényi, Zsuzsa Koncz, Kati Kovács, Máté Viktor, the LGT and the Hungária Bands Collaborators: János Czipauer, András Osvát, Miklós Papp, Béla Zsebényi, Katalin Kaim, Klára Kassai, and Frigyes Janotyik A subjective interpretation of the everyday life of the 1970s’ Budapest . It is an intriguing mixture of popular culture (music) and high art (composition of images). Kovásznai is not interested in telling a story; there is no linear narrative, the structure of the film is defined by the movements and transformations of the paintings to the rhythm of the music, generating a fundamentally audiovisual sensory experience.",
+    "imdb_rating": "6.4/10 from 43 users",
+    "release_date": [
+        {
+            "date": "1974-01-01",
+            "country": "Hungary"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 6.3,
-    "update_at": "2025-08-12T12:21:29"
+    "datePublished": "1974-01-01",
+    "original_title": "A 74-es nyár emléke",
+    "imdb_rating_average": 6.4,
+    "update_at": "2026-10-24T02:42:22"
 }

@@ -3,68 +3,98 @@
     "sid": "tt0378377",
     "name": "Moo(n)",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2003",
+    "@type": "Short",
     "genre": [
         "Animation",
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Fantasy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1047946/",
-            "name": "Tom Hillenbrand"
+            "name": "Tom Hillenbrand",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0515753/",
-            "name": "Robert Llewellyn"
+            "name": "Robert Llewellyn",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0524240/",
-            "name": "Matt Lucas"
+            "name": "Matt Lucas",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": null,
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/4e4hbnXdMon08RIWkWMe9PoYvrY.jpg",
     "details": {
+        "Stars": [
+            "Tom Hillenbrand",
+            "Robert Llewellyn",
+            "Matt Lucas"
+        ],
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Fantasy"
+        ],
+        "Writer": [
+            "Leigh Hodgkinson"
+        ],
+        "Runtime": [
+            "3 min"
+        ],
+        "Director": [
+            "Leigh Hodgkinson"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "2003 (United Kingdom)"
+            "2003-01-01"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Production company": [
+        "Production companies": [
             "Slinky Pictures"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1411442/",
-            "name": "Leigh Hodgkinson"
+            "name": "Leigh Hodgkinson",
+            "@type": "Person"
         }
     ],
     "duration": "PT3M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1411442/",
-            "name": "Leigh Hodgkinson"
+            "name": "Leigh Hodgkinson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0378377/",
     "metascore": null,
-    "imdb_votes": 65,
+    "imdb_votes": 68,
     "popularity": 0,
-    "description": "A little girl plays with her friend, a cow, until she catches a cold. Her parents take her away from the cow for safety and bring her indoors. As boredom sets in, the cow decides to jump over the moon. The little girl laughs to se...",
-    "imdb_rating": "6.2/10 from 65 users",
-    "release_date": [],
+    "description": "A little girl plays with her friend, a cow, until she catches a cold. Her parents take her away from the cow for safety and bring her indoors. As boredom sets in, the cow decides to jump over the moon. The little girl laughs to see such fun, but she doesn't laugh for long as the cow gets stuck on the moon with little chance of return.",
+    "imdb_rating": "6.2/10 from 68 users",
+    "release_date": [
+        {
+            "date": "2003-01-01",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2003-01-01",
+    "original_title": "Moo(n)",
     "imdb_rating_average": 6.2,
-    "update_at": "2026-02-02T14:28:53"
+    "update_at": "2026-10-23T11:28:21"
 }

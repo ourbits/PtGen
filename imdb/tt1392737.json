@@ -4,82 +4,143 @@
     "name": "Ex$pendable",
     "site": "imdb",
     "year": "2010",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Crime"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0836365/",
-            "name": "Gary Anthony Sturgis"
+            "name": "Gary Anthony Sturgis",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3661487/",
-            "name": "Elizabeth Abate"
+            "name": "Elizabeth Abate",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3367095/",
-            "name": "Karita Anderson"
+            "name": "Karita Anderson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3408241/",
+            "name": "Hasan Bivings",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0085837/",
+            "name": "Michael Blackson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1087032/",
+            "name": "Sundy Carter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3367301/",
+            "name": "Carlos Cordoba",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2569419/",
+            "name": "Thuliso Dingwall",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0382968/",
+            "name": "Taral Hicks",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0426441/",
+            "name": "William L. Johnson",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NzU5ODU5NV5BMl5BanBnXkFtZTcwNzI0MDA3Mw@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/3BNlXdqIJSTVWg3O7rQMmKCtMet.jpg",
     "details": {
+        "Stars": [
+            "Gary Anthony Sturgis",
+            "Elizabeth Abate",
+            "Karita Anderson"
+        ],
+        "Genres": [
+            "Crime"
+        ],
+        "Writer": [
+            "Sean Shurwil Langston",
+            "Julian Phillips",
+            "Julian Phillips"
+        ],
+        "Runtime": [
+            "86 min"
+        ],
+        "Director": [
+            "Frank E. Jackson Jr.",
+            "Eric Lowe"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "October 12, 2010 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Pennsylvania, USA"
+            "2010-10-12"
         ],
         "Production companies": [
-            "Sunjada Productions",
-            "Tough Struggle Entertainment"
+            "Maverick Entertainment Group"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3359895/",
-            "name": "Sean Shurwil Langston"
+            "name": "Sean Shurwil Langston",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2652670/",
-            "name": "Julian Phillips"
+            "name": "Julian Phillips",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3365798/",
-            "name": "Julian Phillips"
+            "name": "Julian Phillips",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H26M",
-    "keywords": [
-        "violence"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2238571/",
-            "name": "Frank E. Jackson Jr."
+            "name": "Frank E. Jackson Jr.",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2110805/",
-            "name": "Eric Lowe"
+            "name": "Eric Lowe",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1392737/",
     "metascore": null,
-    "imdb_votes": 25,
+    "imdb_votes": 29,
     "popularity": 0,
-    "description": "A Philadelphia urban crime sage that explores the world of snitches, rival gangs, policemen and corrupt city officials.",
-    "imdb_rating": "5.5/10 from 25 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "Police informant Raffy-el thinks he's gotten the upper hand on cops and crooks alike when he obtains a master list of all the snitches the Philadelphia police have working for them. Instead, he discovers he's been played. Now he and his brother, Salim, must elude the corrupt cops and fellow criminals who are hunting them down.",
+    "imdb_rating": "5.3/10 from 29 users",
+    "release_date": [
+        {
+            "date": "2010-10-12",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2010-10-12",
-    "imdb_rating_average": 5.5,
-    "update_at": "2025-04-20T04:14:18"
+    "original_title": "Ex$pendable",
+    "imdb_rating_average": 5.3,
+    "update_at": "2026-10-23T03:56:06"
 }

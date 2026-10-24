@@ -4,84 +4,138 @@
     "name": "Stranded",
     "site": "imdb",
     "year": "1986",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000756/",
-            "name": "Loni Anderson"
+            "name": "Loni Anderson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0455133/",
-            "name": "Perry King"
+            "name": "Perry King",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0834626/",
-            "name": "Elaine Stritch"
+            "name": "Elaine Stritch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0112063/",
+            "name": "Joel Brooks",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0935719/",
+            "name": "Edward Winter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0733929/",
+            "name": "Eugene Roche",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0382676/",
+            "name": "William Hickey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0238840/",
+            "name": "Ja'net DuBois",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0919936/",
+            "name": "Joan Welles",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0741558/",
+            "name": "Margot Rose",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTA3ZjEwYWYtZTIyNC00YWY2LTlhMDQtY2NlNmU3OTgyNzhhXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Loni Anderson",
+            "Perry King",
+            "Elaine Stritch"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Stephen Black",
+            "Janis Hirsch",
+            "Henry Stern"
+        ],
+        "Runtime": [
+            "120 min"
+        ],
+        "Director": [
+            "Rod Daniel"
         ],
         "Release date": [
-            "September 22, 1986 (United States)"
-        ],
-        "Also known as": [
-            "Paradies auf Probe"
+            "1986-09-22"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Tahiti, French Polynesia"
+            "United States of America"
         ],
         "Production companies": [
-            "Tim Flack Productions",
+            "NBC",
             "Columbia Pictures Television"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
-            "url": "https://www.imdb.com/name/nm11851118/",
-            "name": "Stephen Black"
+            "url": "https://www.imdb.com/name/nm0085519/",
+            "name": "Stephen Black",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0386488/",
-            "name": "Janis Hirsch"
+            "name": "Janis Hirsch",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0827711/",
-            "name": "Henry Stern"
+            "name": "Henry Stern",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H",
-    "keywords": [
-        "island",
-        "advertising executive",
-        "stranded on an island",
-        "one word title"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0199722/",
-            "name": "Rod Daniel"
+            "name": "Rod Daniel",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0092018/",
     "metascore": null,
-    "imdb_votes": 66,
+    "imdb_votes": 69,
     "popularity": 0,
     "description": "Loni Anderson and Perry King are stranded on a desert island.",
-    "imdb_rating": "6.5/10 from 66 users",
-    "release_date": [],
+    "imdb_rating": "6.3/10 from 69 users",
+    "release_date": [
+        {
+            "date": "1986-09-22",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1986-09-22",
-    "imdb_rating_average": 6.5,
-    "update_at": "2025-06-12T04:13:30"
+    "original_title": "Stranded",
+    "imdb_rating_average": 6.3,
+    "update_at": "2026-10-23T07:00:53"
 }

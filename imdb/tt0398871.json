@@ -4,75 +4,120 @@
     "name": "La cliente",
     "site": "imdb",
     "year": "2004",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0404091/",
-            "name": "Francis Huster"
+            "name": "Francis Huster",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0696163/",
-            "name": "Micheline Presle"
+            "name": "Micheline Presle",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0551761/",
-            "name": "François Marthouret"
+            "name": "François Marthouret",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0732220/",
+            "name": "Michel Robin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0082380/",
+            "name": "Raoul Billerey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1641171/",
+            "name": "Claudine Acs",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0047624/",
+            "name": "Quentin Baillot",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1641961/",
+            "name": "Laurent Baudin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0079534/",
+            "name": "Jessica Beudaert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0094165/",
+            "name": "Jacques Bondoux",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGFhZWJmMWMtYjhlYS00ZjBhLWJlZDktZjM2NTI0NWE4MjE1XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Francis Huster",
+            "Micheline Presle",
+            "François Marthouret"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Pierre Assouline",
+            "Pierre Boutron"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Pierre Boutron"
         ],
         "Release date": [
-            "January 12, 2004 (France)"
-        ],
-        "Also known as": [
-            "The Client"
-        ],
-        "Country of origin": [
-            "France"
-        ],
-        "Production companies": [
-            "France 2 (FR2)",
-            "Production Générale de Films (PROGEFI)"
+            "2004"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0039896/",
-            "name": "Pierre Assouline"
+            "name": "Pierre Assouline",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0100369/",
-            "name": "Pierre Boutron"
+            "name": "Pierre Boutron",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        "jew",
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0100369/",
-            "name": "Pierre Boutron"
+            "name": "Pierre Boutron",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0398871/",
     "metascore": null,
-    "imdb_votes": 25,
+    "imdb_votes": 23,
     "popularity": 0,
-    "description": "Did a woman under occupation denounce a Jewish family who was her friend? Fifty years later, a man wants the truth.",
-    "imdb_rating": "6.7/10 from 25 users",
+    "description": null,
+    "imdb_rating": "6.8/10 from 23 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2004-01-12",
-    "imdb_rating_average": 6.7,
-    "update_at": "2025-06-17T01:33:50"
+    "datePublished": "2004",
+    "original_title": "La cliente",
+    "imdb_rating_average": 6.8,
+    "update_at": "2026-10-23T04:35:06"
 }

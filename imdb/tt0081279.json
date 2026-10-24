@@ -4,7 +4,7 @@
     "name": "Once Upon a Spy",
     "site": "imdb",
     "year": "1980",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Action",
         "Drama",
@@ -13,74 +13,133 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001101/",
-            "name": "Ted Danson"
+            "name": "Ted Danson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0919875/",
-            "name": "Mary Louise Weller"
+            "name": "Mary Louise Weller",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000489/",
-            "name": "Christopher Lee"
+            "name": "Christopher Lee",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0662223/",
+            "name": "Eleanor Parker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0832007/",
+            "name": "Leonard Stone",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0504531/",
+            "name": "Terry Lester",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0568106/",
+            "name": "Jo McDonnell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0618230/",
+            "name": "Lillian Müller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0274888/",
+            "name": "Irena Ferris",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0126312/",
+            "name": "Burke Byrnes",
+            "@type": "Person"
         }
     ],
-    "critic": 9,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDhiOGE0ZWYtZjA2ZS00NGE4LThkOWItOWFlZWI3YjM4Nzg3XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/vBhEae408scxG4y9qMnD8afz8sd.jpg",
     "details": {
+        "Stars": [
+            "Ted Danson",
+            "Mary Louise Weller",
+            "Christopher Lee"
+        ],
+        "Genres": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "Writer": [
+            "Jimmy Sangster",
+            "Lemuel Pitkin"
+        ],
+        "Runtime": [
+            "91 min"
+        ],
+        "Director": [
+            "Ivan Nagy"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "September 19, 1980 (United States)"
-        ],
-        "Also known as": [
-            "Agent wider Willen"
+            "1980-09-19"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Houston, Texas, USA"
+            "United States of America"
         ],
         "Production companies": [
             "David Gerber Productions",
             "Columbia Pictures Television"
         ]
     },
-    "reviews": 12,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0762727/",
-            "name": "Jimmy Sangster"
+            "name": "Jimmy Sangster",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0685713/",
-            "name": "Lemuel Pitkin"
+            "name": "Lemuel Pitkin",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H31M",
     "keywords": [
-        "james bond spoof",
-        "houston texas",
-        "failed pilot",
-        "male protagonist",
-        "father daughter relationship"
+        "spy",
+        "chess champion"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0619475/",
-            "name": "Ivan Nagy"
+            "name": "Ivan Nagy",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0081279/",
     "metascore": null,
-    "imdb_votes": 341,
+    "imdb_votes": 361,
     "popularity": 0,
-    "description": "Ted Danson plays a computer genius who gets involved in the theft of an important N.A.S.A. computer, then thrust into the world of espionage with Sir Christopher Lee.",
-    "imdb_rating": "4.9/10 from 341 users",
-    "release_date": [],
+    "description": "Computer genius and chess champion Ted Danson is lured into service by secret agent Eleanor Parker and becomes a reluctant hero thanks to a number of exploits with villainous Christopher Lee and his army of lethal blue-eyed blonde women.",
+    "imdb_rating": "4.9/10 from 361 users",
+    "release_date": [
+        {
+            "date": "1980-09-19",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1980-09-19",
+    "original_title": "Once Upon a Spy",
     "imdb_rating_average": 4.9,
-    "update_at": "2025-08-05T08:42:42"
+    "update_at": "2026-10-23T14:42:17"
 }

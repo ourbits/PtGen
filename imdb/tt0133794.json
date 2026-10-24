@@ -4,58 +4,97 @@
     "name": "Getting Started",
     "site": "imdb",
     "year": "1979",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Animation",
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Family"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0174345/",
+            "name": "Richard Condie",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0174345/",
+            "name": "Richard Condie",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0106319/",
+            "name": "Jay Brazeau",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjQ5ZWZkZjUtY2NlMS00MDgyLTg4MzctOGI4Y2EzNWNhNzA1XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/agupIW6QmvftgONq6YTUwrvu67r.jpg",
     "details": {
+        "Stars": [
+            "Richard Condie",
+            "Richard Condie",
+            "Jay Brazeau"
+        ],
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "Writer": [
+            "Richard Condie"
+        ],
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "Richard Condie"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 1, 1979 (Canada)"
-        ],
-        "Also known as": [
-            "Minden kezdet..."
-        ],
-        "Official sites": [
-            "Film version française - https://www.youtube.com/watch?v=6sd3C7jHPLk",
-            "movie English version - http://onf.tv/film/getting_started/"
+            "1979-05-01"
         ],
         "Country of origin": [
             "Canada"
         ],
-        "Filming locations": [
-            "Winnipeg, Manitoba, Canada"
-        ],
         "Production companies": [
-            "National Film Board of Canada (NFB)",
-            "Prairie Productions"
+            "ONF | NFB"
         ]
     },
-    "reviews": 11,
-    "creators": [],
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0174345/",
+            "name": "Richard Condie",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT12M",
-    "keywords": [
-        "cartoon",
-        "human",
-        "pianist",
-        "procrastination",
-        "mouse"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0174345/",
+            "name": "Richard Condie",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0133794/",
     "metascore": null,
-    "imdb_votes": 258,
+    "imdb_votes": 264,
     "popularity": 0,
-    "description": "A concert pianist prepares to begin his practising for a major concert coming up. Unfortunately, he has this procrastination problem that prevents him from getting any serious time done, even when his frustration with it literally...",
-    "imdb_rating": "6.7/10 from 258 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "A concert pianist prepares to begin his practising for a major concert coming up. Unfortunately, he has this procrastination problem that prevents him from getting any serious time done, even when his frustration with it literally driving him into a frenzy.",
+    "imdb_rating": "6.7/10 from 264 users",
+    "release_date": [
+        {
+            "date": "1979-05-01",
+            "country": "Canada"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1979-05-01",
+    "original_title": "Getting Started",
     "imdb_rating_average": 6.7,
-    "update_at": "2025-11-27T01:40:27"
+    "update_at": "2026-10-23T08:14:14"
 }

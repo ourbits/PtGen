@@ -4,7 +4,7 @@
     "name": "The Vampire Project",
     "site": "imdb",
     "year": "1995",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Action",
         "Horror",
@@ -13,60 +13,108 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0446552/",
-            "name": "Kathleen Kelly"
+            "name": "Kathleen Kelly",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1296087/",
-            "name": "Robert Hector"
+            "name": "Robert Hector",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0606809/",
-            "name": "Michael R. Morris"
+            "name": "Michael R. Morris",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0199920/",
+            "name": "Eddie Daniels",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0242427/",
+            "name": "Steve Dunleavy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0318879/",
+            "name": "Isabel Gillies",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0403441/",
+            "name": "Gerard Hurley",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGIxYzg5YzQtNjJlNS00MzhmLWFjMzctMGUyMGQ4ZTc5NmUxXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/qhcjxjYcZLPoslYFdw7CEdvB3ZJ.jpg",
     "details": {
+        "Stars": [
+            "Kathleen Kelly",
+            "Robert Hector",
+            "Michael R. Morris"
+        ],
+        "Genres": [
+            "Action",
+            "Horror",
+            "Romance"
+        ],
+        "Writer": [
+            "Michael R. Morris",
+            "John Francis Sullivan"
+        ],
+        "Runtime": [
+            "48 min"
+        ],
+        "Director": [
+            "Michael R. Morris"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "September 10, 1995 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
+            "1995-09-10"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0606809/",
-            "name": "Michael R. Morris"
+            "name": "Michael R. Morris",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0006835/",
-            "name": "John Francis Sullivan"
+            "name": "John Francis Sullivan",
+            "@type": "Person"
         }
     ],
     "duration": "PT48M",
-    "keywords": [
-        "unreleased film"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0606809/",
-            "name": "Michael R. Morris"
+            "name": "Michael R. Morris",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0358752/",
     "metascore": null,
-    "imdb_votes": 31,
+    "imdb_votes": 35,
     "popularity": 0,
-    "description": "When two young and ambitious student filmmakers Michael and Michelle decide to sneak hidden video cameras into the illegal world of Manhattan&apos;s underground after hours clubs, Michelle is targeted by a seductive vampire named Adrian.",
-    "imdb_rating": "5.2/10 from 31 users",
-    "release_date": [],
+    "description": "Doing a documentary on New York's underground after hours clubs, a film school couple discovers a vampire who has his sights set on seducing the girl.",
+    "imdb_rating": "5.0/10 from 35 users",
+    "release_date": [
+        {
+            "date": "1995-09-10",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1995-09-10",
-    "imdb_rating_average": 5.2,
-    "update_at": "2025-04-09T11:35:19"
+    "original_title": "The Vampire Project",
+    "imdb_rating_average": 5.0,
+    "update_at": "2026-10-23T10:00:44"
 }
