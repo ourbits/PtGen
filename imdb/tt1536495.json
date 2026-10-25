@@ -4,45 +4,91 @@
     "name": "Theodore",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Horror"
+        "Horror",
+        "Short"
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDI4OTg4NDU0OF5BMl5BanBnXkFtZTcwMjMyODg5Mg@@._V1_.jpg",
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm1472434/",
+            "name": "Scott Dawson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1696978/",
+            "name": "Andy Gates",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0442207/",
+            "name": "Lloyd Kaufman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3237111/",
+            "name": "Nicholas Leonard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2832735/",
+            "name": "Jonathan Louis Lewis",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Scott Dawson",
+            "Andy Gates",
+            "Lloyd Kaufman"
+        ],
+        "Genres": [
+            "Horror",
+            "Short"
+        ],
+        "Writer": [
+            "David Sherbrook"
+        ],
+        "Runtime": [
+            "11 min"
+        ],
+        "Director": [
+            "David Sherbrook"
         ],
         "Release date": [
-            "October 30, 2009 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Hollywood, Los Angeles, California, USA"
-        ],
-        "Production company": [
-            "Infested Films"
+            "2009"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm3673621/",
+            "name": "David Sherbrook",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT11M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm3673621/",
+            "name": "David Sherbrook",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1536495/",
     "metascore": null,
-    "imdb_votes": 33,
+    "imdb_votes": 34,
     "popularity": 0,
-    "description": "A short, surrealistic horror story of a man hellbent on revenge.",
-    "imdb_rating": "5.8/10 from 33 users",
+    "description": null,
+    "imdb_rating": "5.9/10 from 34 users",
     "release_date": [],
-    "contentRating": "Unrated",
-    "datePublished": "2009-10-30",
-    "imdb_rating_average": 5.8,
-    "update_at": "2025-11-23T23:42:19"
+    "contentRating": null,
+    "datePublished": "2009",
+    "original_title": "Theodore",
+    "imdb_rating_average": 5.9,
+    "update_at": "2026-10-24T09:29:02"
 }

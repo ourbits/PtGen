@@ -4,42 +4,99 @@
     "name": "Jagdgründe",
     "site": "imdb",
     "year": "2011",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0686801/",
+            "name": "Walter Plathe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1517389/",
+            "name": "Eric Bouwer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2318812/",
+            "name": "Julia Philippi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0257130/",
+            "name": "Nadja Engel",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGZkZmFmNWMtZjM2Zi00YTQ3LWJmMTAtNGE0ODU1M2ZmMmM1XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/jOR4ljJnO1Zy1UPdl0f8IXMAntn.jpg",
     "details": {
+        "Stars": [
+            "Walter Plathe",
+            "Eric Bouwer",
+            "Julia Philippi"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Birgit Maiwald"
+        ],
+        "Runtime": [
+            "29 min"
+        ],
+        "Director": [
+            "Jonas Rothlaender"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "May 3, 2011 (Germany)"
+            "2011-05-03"
         ],
         "Country of origin": [
             "Germany"
         ],
         "Production companies": [
             "Deutsche Film- und Fernsehakademie Berlin (DFFB)",
-            "Rundfunk Berlin-Brandenburg (RBB)"
+            "RBB"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm3092726/",
+            "name": "Birgit Maiwald",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT29M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm3867078/",
+            "name": "Jonas Rothlaender",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1895418/",
     "metascore": null,
     "imdb_votes": 8,
     "popularity": 0,
-    "description": null,
+    "description": "After his company goes bankrupt, a man goes into the forest to die.",
     "imdb_rating": "5.4/10 from 8 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2011-05-03",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2011-05-03",
+    "original_title": "Jagdgründe",
     "imdb_rating_average": 5.4,
-    "update_at": "2025-11-02T14:56:19"
+    "update_at": "2026-10-25T01:00:27"
 }

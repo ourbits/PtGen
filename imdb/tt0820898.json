@@ -4,74 +4,103 @@
     "name": "Hy-phen",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2307682/",
-            "name": "Jamey Baker"
+            "name": "Jamey Baker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1488987/",
-            "name": "Mitch Baker"
+            "name": "Mitch Baker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1972813/",
-            "name": "Lily Holleman"
+            "name": "Lily Holleman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0672539/",
+            "name": "Eddie Pepitone",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Jamey Baker",
+            "Mitch Baker",
+            "Lily Holleman"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Mitch Baker",
+            "Joshua Weiner"
+        ],
+        "Runtime": [
+            "18 min"
+        ],
+        "Director": [
+            "Joshua Weiner"
         ],
         "Release date": [
-            "April 25, 2006 (United States)"
+            "2006-04-25"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Los Angeles, California, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Passive Aggressive Productions"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1488987/",
-            "name": "Mitch Baker"
+            "name": "Mitch Baker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0918238/",
-            "name": "Joshua Weiner"
+            "name": "Joshua Weiner",
+            "@type": "Person"
         }
     ],
     "duration": "PT18M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0918238/",
-            "name": "Joshua Weiner"
+            "name": "Joshua Weiner",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0820898/",
     "metascore": null,
-    "imdb_votes": 55,
+    "imdb_votes": 42,
     "popularity": 0,
-    "description": "Randall Mullen quits his day job with the hope that working from home will spur his creativity. Instead, all it spurs are a lot of naps, a little madness, and a new relationship based, in part, on the humane treatment of balloon a...",
-    "imdb_rating": "5.1/10 from 55 users",
-    "release_date": [],
+    "description": "Randall Mullen quits his day job with the hope that working from home will spur his creativity. Instead, all it spurs are a lot of naps, a little madness, and a new relationship based, in part, on the humane treatment of balloon animals.",
+    "imdb_rating": "5.1/10 from 42 users",
+    "release_date": [
+        {
+            "date": "2006-04-25",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2006-04-25",
+    "original_title": "Hy-phen",
     "imdb_rating_average": 5.1,
-    "update_at": "2026-02-01T19:35:29"
+    "update_at": "2026-10-24T21:28:24"
 }

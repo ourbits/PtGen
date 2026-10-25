@@ -3,6 +3,7 @@
     "sid": "tt0086151",
     "name": "Przewodnik",
     "site": "imdb",
+    "year": "1984",
     "@type": "Movie",
     "genre": [
         "Documentary"
@@ -10,44 +11,57 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0804908/",
-            "name": "Piotr Skrzynecki"
+            "name": "Piotr Skrzynecki",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/4lHFKlRYW10d2BWmX3rWkDKCuqf.jpg",
     "details": {
+        "Stars": [
+            "Piotr Skrzynecki"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Writer": [
+            "Tomasz Zygadlo"
+        ],
+        "Runtime": [
+            "109 min"
+        ],
+        "Director": [
+            "Tomasz Zygadlo"
+        ],
         "Language": [
             "Polish"
         ],
         "Release date": [
-            "October 1988 (Poland)"
-        ],
-        "Also known as": [
-            "The Guide Man"
+            "1984-01-01"
         ],
         "Country of origin": [
             "Poland"
         ],
-        "Production company": [
+        "Production companies": [
             "Studio Filmowe im. Karola Irzykowskiego"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0959099/",
-            "name": "Tomasz Zygadlo"
+            "name": "Tomasz Zygadlo",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H49M",
-    "keywords": [
-        "written by director",
-        "one word title"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0959099/",
-            "name": "Tomasz Zygadlo"
+            "name": "Tomasz Zygadlo",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0086151/",
@@ -55,10 +69,16 @@
     "imdb_votes": 9,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "3/10 from 9 users",
-    "release_date": [],
+    "imdb_rating": "3.0/10 from 9 users",
+    "release_date": [
+        {
+            "date": "1984-01-01",
+            "country": "Poland"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 3,
-    "update_at": "2026-02-13T19:21:27"
+    "datePublished": "1984-01-01",
+    "original_title": "Przewodnik",
+    "imdb_rating_average": 3.0,
+    "update_at": "2026-10-24T07:07:19"
 }

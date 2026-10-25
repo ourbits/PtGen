@@ -4,7 +4,7 @@
     "name": "The First Freedom",
     "site": "imdb",
     "year": "1999",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Documentary",
         "Short"
@@ -12,35 +12,40 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0346549/",
-            "name": "Charles Guggenheim"
+            "name": "Charles Guggenheim",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Charles Guggenheim"
+        ],
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Runtime": [
+            "33 min"
+        ],
+        "Director": [
+            "Charles Guggenheim"
         ],
         "Release date": [
-            "September 9, 1999 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Guggenheim Productions"
+            "1999"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT33M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0346549/",
-            "name": "Charles Guggenheim"
+            "name": "Charles Guggenheim",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1442369/",
@@ -51,7 +56,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1999-09-09",
+    "datePublished": "1999",
+    "original_title": "The First Freedom",
     "imdb_rating_average": 0,
-    "update_at": "2025-04-05T10:43:09"
+    "update_at": "2026-10-24T13:49:35"
 }

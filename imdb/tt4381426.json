@@ -5,73 +5,113 @@
     "site": "imdb",
     "year": "2015",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Drama"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm7072571/",
-            "name": "Chartchai Norasethaporn"
+            "name": "Chartchai Norasethaporn",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm12402746/",
-            "name": "Tack Parunyu Rojanawuttitum"
+            "name": "Tack Parunyu Rojanawuttitum",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm7072570/",
-            "name": "Jason Young"
+            "name": "Jason Young",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzY4NTYxNDYtZjZmMi00ODMyLThhNGItZDU2YTgwZTAxNzQ1XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/IPcyPtkIcWOC7jYFTJdy8u6iVW.jpg",
     "details": {
-        "Languages": [
-            "Thai",
+        "Stars": [
+            "Chartchai Norasethaporn",
+            "Tack Parunyu Rojanawuttitum",
+            "Jason Young"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Surussavadi Chuarchart",
+            "Ek Iemchuen",
+            "Pongsatorn Kosolothisup"
+        ],
+        "Runtime": [
+            "103 min"
+        ],
+        "Director": [
+            "Surussavadi Chuarchart"
+        ],
+        "Language": [
             "French",
+            "Thai",
             "English"
         ],
         "Release date": [
-            "March 9, 2015 (Thailand)"
-        ],
-        "Official site": [
-            "Official Facebook - https://www.facebook.com/HilaireTheMovie"
+            "2015-03-09"
         ],
         "Country of origin": [
             "Thailand"
+        ],
+        "Production companies": [
+            "Fivestar Movies"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": "A story of french teacher who devotes himself to siam…",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm7072569/",
-            "name": "Surussavadi Chuarchart"
+            "name": "Surussavadi Chuarchart",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0251424/",
-            "name": "Ek Iemchuen"
+            "name": "Ek Iemchuen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm7072572/",
-            "name": "Pongsatorn Kosolothisup"
+            "name": "Pongsatorn Kosolothisup",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H43M",
     "keywords": [
-        ""
+        "thailand",
+        "based on true story",
+        "teacher",
+        "priest",
+        "thesis",
+        "catholic priest"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm7072569/",
-            "name": "Surussavadi Chuarchart"
+            "name": "Surussavadi Chuarchart",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt4381426/",
     "metascore": null,
-    "imdb_votes": 31,
+    "imdb_votes": 34,
     "popularity": 0,
-    "description": "Pongsatorn is a teacher in Thailand working on his thesis for his Master&apos;s degree. His chosen subject his the life and works of a French Catholic priest who lived in Thailand in the early part of the 20th century. His professor re...",
-    "imdb_rating": "7.2/10 from 31 users",
-    "release_date": [],
+    "description": "Pongsatorn is a teacher in Thailand working on his thesis for his Master's degree. His chosen subject his the life and works of a French Catholic priest who lived in Thailand in the early part of the 20th century. His professor rejects his early drafts to his anger before realising the professor has pushed him to fully understand his chosen topic.",
+    "imdb_rating": "7.1/10 from 34 users",
+    "release_date": [
+        {
+            "date": "2015-03-09",
+            "country": "Thailand"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2015-03-09",
-    "imdb_rating_average": 7.2,
-    "update_at": "2025-09-15T07:56:15"
+    "original_title": "F.Hilaire",
+    "imdb_rating_average": 7.1,
+    "update_at": "2026-10-24T10:14:31"
 }

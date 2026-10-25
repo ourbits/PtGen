@@ -4,7 +4,7 @@
     "name": "The Key to Rebecca",
     "site": "imdb",
     "year": "1985",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Romance",
@@ -13,75 +13,133 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0731772/",
-            "name": "Cliff Robertson"
+            "name": "Cliff Robertson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0815800/",
-            "name": "David Soul"
+            "name": "David Soul",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0399530/",
-            "name": "Season Hubley"
+            "name": "Season Hubley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0713315/",
+            "name": "Lina Raymond",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0703033/",
+            "name": "Anthony Quayle",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0376101/",
+            "name": "David Hemmings",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0191685/",
+            "name": "Robert Culp",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0841528/",
+            "name": "Robert Swales",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0003626/",
+            "name": "Charlie Condou",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0197687/",
+            "name": "Ellis Dale",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTgzMDA0MDM1NV5BMl5BanBnXkFtZTYwOTcyNzA5._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/fu9nIDt6Bwebj6pDDzjC7YtOAzx.jpg",
     "details": {
+        "Stars": [
+            "Cliff Robertson",
+            "David Soul",
+            "Season Hubley"
+        ],
+        "Genres": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "Writer": [
+            "Ken Follett",
+            "Samuel Harris"
+        ],
+        "Runtime": [
+            "194 min"
+        ],
+        "Director": [
+            "David Hemmings"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "April 29, 1985 (United States)"
-        ],
-        "Also known as": [
-            "Ken Follett's 'The Key to Rebecca'"
+            "1985-04-29"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Sousse, Tunisia"
+            "United States of America"
         ],
         "Production companies": [
-            "Castle Combe",
-            "David Lawrence Productions",
-            "Operation Prime Time (OPT)"
+            "Taft Entertainment Television"
         ]
     },
-    "reviews": 10,
+    "reviews": 0,
+    "tagline": "A ruthless Nazi spy. A fearless army major. One had a cause. The other, a conscience. Both had a secret worth dying for.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0284336/",
-            "name": "Ken Follett"
+            "name": "Ken Follett",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0365302/",
-            "name": "Samuel Harris"
+            "name": "Samuel Harris",
+            "@type": "Person"
         }
     ],
     "duration": "PT3H14M",
-    "keywords": [
-        "british major",
-        "belly dancer",
-        "nazi spy plot",
-        "field marshal erwin rommel character",
-        "british sergeant"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0376101/",
-            "name": "David Hemmings"
+            "name": "David Hemmings",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0089412/",
     "metascore": null,
-    "imdb_votes": 570,
+    "imdb_votes": 606,
     "popularity": 0,
-    "description": "In Cairo during World War II, a German Agent tries to infiltrate the British command to lay the groundwork for Erwin Rommel&apos;s conquest of Egypt.",
-    "imdb_rating": "6.4/10 from 570 users",
-    "release_date": [],
-    "contentRating": "R",
+    "description": "From master storyteller and best-selling author, Ken Follett, comes the exotic spy-thriller based on true events.  North Africa, Summer of 1942 — master spy, Alex Wolff is on a mission to send General Erwin Rommel's advancing army the secrets that would unlock the doors to Cairo... and the ultimate Nazi triumph in the war. Wolff's pursuer, Major Vandarn, engages the seductive charm of Elene Fontana to lure him into range for what is to be a startling and explosive confrontation.",
+    "imdb_rating": "6.4/10 from 606 users",
+    "release_date": [
+        {
+            "date": "2000-01-01",
+            "country": "Australia"
+        },
+        {
+            "date": "1985-04-29",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1985-04-29",
+    "original_title": "The Key to Rebecca",
     "imdb_rating_average": 6.4,
-    "update_at": "2025-09-10T03:56:08"
+    "update_at": "2026-10-24T22:56:13"
 }

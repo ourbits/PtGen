@@ -3,62 +3,99 @@
     "sid": "tt35497758",
     "name": "A Rainy Night",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2015",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm7250633/",
-            "name": "Jenny Li"
+            "name": "Jenny Li",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3125360/",
+            "name": "Kah-Wai Lim",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm9452575/",
+            "name": "Hoi Ching Wu",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3151203/",
-            "name": "Guthrie Yip"
+            "name": "Guthrie Yip",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmJjZWJhZGYtNmE1Yy00ZjgxLWEwNDktOTYzZDgyOWZkODhhXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/h6ugoBr1i5GOCZqVjlJZByGFDcF.jpg",
     "details": {
+        "Stars": [
+            "Jenny Li",
+            "Kah-Wai Lim",
+            "Hoi Ching Wu"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Kaiu Choy"
+        ],
+        "Runtime": [
+            "13 min"
+        ],
+        "Director": [
+            "Kaiu Choy"
+        ],
         "Language": [
             "Cantonese"
         ],
         "Release date": [
-            "2015 (Hong Kong)"
-        ],
-        "Official site": [
-            "Stream - https://giloo.ist/zh-TW/episodes/1873/"
+            "2015-01-28"
         ],
         "Country of origin": [
             "Hong Kong"
+        ],
+        "Production companies": [
+            "Ying E Chi"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm5072253/",
-            "name": "Kaiu Choy"
+            "name": "Kaiu Choy",
+            "@type": "Person"
         }
     ],
-    "duration": null,
-    "keywords": [
-        ""
-    ],
+    "duration": "PT13M",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm5072253/",
-            "name": "Kaiu Choy"
+            "name": "Kaiu Choy",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt35497758/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "Fong Ka-Man, has been leading a middle class lifestyle. One day, during a heavy rain in the dusk, bearing the fear of illness, she is unwillingly staying away from the rain inside the tunnel. She first encounters a weird tramp, and then a young farmer who is rushing to deliver his harvest. It’s about how the “normal” passes by the “abnormal”. What makes them “normal” and “abnormal” seems to be realistic, but maybe it is just a void. Fong Ka-Man is anxious to find an exit from the difficult circumstance, but accidentally she finds out that what she yearns for is the disappeared end of this city.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2015-01-28",
+            "country": "Hong Kong"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2015-01-28",
+    "original_title": "A Rainy Night",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-21T20:23:00"
+    "update_at": "2026-10-25T02:21:16"
 }

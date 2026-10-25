@@ -1,10 +1,19 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Нашествие",
+            "country": "Russia"
+        },
+        {
+            "title": "Veneno Mortal",
+            "country": "Brazil"
+        }
+    ],
     "sid": "tt1027806",
     "name": "Copperhead",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Action",
         "Adventure",
@@ -13,71 +22,127 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0424635/",
-            "name": "Brad Johnson"
+            "name": "Brad Johnson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2421382/",
-            "name": "Keith Stone"
+            "name": "Keith Stone",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0339159/",
-            "name": "Brad Greenquist"
+            "name": "Brad Greenquist",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0141981/",
+            "name": "Wendy Carter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1560070/",
+            "name": "Gabriel Womack",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0236711/",
+            "name": "Billy Drago",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1284482/",
+            "name": "Atanas Srebrev",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0421709/",
+            "name": "Todd Jensen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0548701/",
+            "name": "Violeta Markovska",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1197031/",
+            "name": "George Zlatarev",
+            "@type": "Person"
         }
     ],
-    "critic": 7,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjc4OTZlMjMtNWE3OS00Y2NhLTllZDUtYTcxNDUyMWJmNjRlXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/ljPNGJb8tp4x7ttu02NrBkw3K2g.jpg",
     "details": {
+        "Stars": [
+            "Brad Johnson",
+            "Keith Stone",
+            "Brad Greenquist"
+        ],
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "Writer": [
+            "Rafael Jordan"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Todor Chapkanov"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "June 28, 2008 (United States)"
+            "2008-06-28"
         ],
-        "Also known as": [
-            "大蟒蛇：趕盡殺絕"
-        ],
-        "Filming locations": [
-            "Bulgaria"
-        ],
-        "Countries of origin": [
-            "United States",
-            "Bulgaria"
+        "Country of origin": [
+            "Bulgaria",
+            "United States of America"
         ],
         "Production companies": [
-            "Sci Fi Pictures",
+            "Unified Film Organization",
             "BUFO",
-            "Unified Film Organization (UFO)"
+            "Universal Television",
+            "Syfy"
         ]
     },
-    "reviews": 15,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1878140/",
-            "name": "Rafael Jordan"
+            "name": "Rafael Jordan",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        "horror western",
-        "creature feature",
-        "snake",
-        "street shootout"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1359237/",
-            "name": "Todor Chapkanov"
+            "name": "Todor Chapkanov",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1027806/",
     "metascore": null,
-    "imdb_votes": 687,
+    "imdb_votes": 693,
     "popularity": 0,
     "description": "Small town in the Wild West is attacked by poisonous snakes.",
-    "imdb_rating": "3.8/10 from 687 users",
-    "release_date": [],
+    "imdb_rating": "3.7/10 from 693 users",
+    "release_date": [
+        {
+            "date": "2008-06-28",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2008-06-28",
-    "imdb_rating_average": 3.8,
-    "update_at": "2025-09-17T21:54:13"
+    "original_title": "Copperhead",
+    "imdb_rating_average": 3.7,
+    "update_at": "2026-10-24T05:28:31"
 }

@@ -5,66 +5,124 @@
     "site": "imdb",
     "year": "1953",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0879672/",
-            "name": "Mirella Uberti"
+            "name": "Mirella Uberti",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0525794/",
-            "name": "Piero Lulli"
+            "name": "Piero Lulli",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0525793/",
-            "name": "Folco Lulli"
+            "name": "Folco Lulli",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0581028/",
+            "name": "Marisa Merlini",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0289450/",
+            "name": "Arnoldo Foà",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3943335/",
+            "name": "Vera Giovannini",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3943160/",
+            "name": "Italia Foschi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0865048/",
+            "name": "Vincenzo Tocci",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0541480/",
+            "name": "Liliana Mancini",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0244602/",
+            "name": "Vittorio Duse",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmYwYzBmNDMtMGU2Mi00NmJkLWI4NGMtNmIwMDQ4YTExOGYyXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/1w0hcAAQOp6MDPByKqmKNgXqssI.jpg",
     "details": {
+        "Stars": [
+            "Mirella Uberti",
+            "Piero Lulli",
+            "Folco Lulli"
+        ],
+        "Genres": [
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Siro Angeli",
+            "Vittoriano Petrilli",
+            "Giuseppe Vari"
+        ],
+        "Runtime": [
+            "87 min"
+        ],
+        "Director": [
+            "Giuseppe Vari"
+        ],
         "Language": [
             "Italian"
         ],
         "Release date": [
-            "February 20, 1953 (Italy)"
-        ],
-        "Also known as": [
-            "Optužba"
+            "1953-02-20"
         ],
         "Country of origin": [
             "Italy"
         ],
-        "Filming locations": [
-            "Acquasparta, Terni, Umbria, Italy"
-        ],
-        "Production company": [
+        "Production companies": [
             "Vittorio Film"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0029558/",
-            "name": "Siro Angeli"
+            "name": "Siro Angeli",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0678008/",
-            "name": "Vittoriano Petrilli"
+            "name": "Vittoriano Petrilli",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0889966/",
-            "name": "Giuseppe Vari"
+            "name": "Giuseppe Vari",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H27M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0889966/",
-            "name": "Giuseppe Vari"
+            "name": "Giuseppe Vari",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0044746/",
@@ -73,9 +131,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1953-02-20",
+            "country": "Italy"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1953-02-20",
+    "original_title": "Infame accusa",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-12T23:21:28"
+    "update_at": "2026-10-24T04:00:12"
 }

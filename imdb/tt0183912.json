@@ -1,5 +1,14 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Le train de 8h47",
+            "country": "France"
+        },
+        {
+            "title": "Le train de huit heures quarante-sept",
+            "country": "France"
+        }
+    ],
     "sid": "tt0183912",
     "name": "Le train de huit heures quarante-sept",
     "site": "imdb",
@@ -11,73 +20,133 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0045287/",
-            "name": "Bach"
+            "name": "Bach",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0272794/",
-            "name": "Fernandel"
+            "name": "Fernandel",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0496614/",
-            "name": "Fernand Ledoux"
+            "name": "Fernand Ledoux",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0697449/",
+            "name": "Georges Prieur",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0155721/",
+            "name": "Georges Chepfer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7713881/",
+            "name": "Pierre Coubert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0480271/",
+            "name": "René Lacourt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0063333/",
+            "name": "Bazin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0892709/",
+            "name": "Paul Velsa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0201833/",
+            "name": "René Dary",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjEyNmRhNmQtOWM1Yi00NDFkLTgxMmUtOTI2ZTYyMjQ0OTQ5XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/4YEuSwknp7dXqYNSm4vj2jGmQa3.jpg",
     "details": {
+        "Stars": [
+            "Bach",
+            "Fernandel",
+            "Fernand Ledoux"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Georges Courteline",
+            "Léo Marchès",
+            "René Pujol"
+        ],
+        "Runtime": [
+            "80 min"
+        ],
+        "Director": [
+            "Henry Wulschleger"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "May 25, 1934 (France)"
-        ],
-        "Also known as": [
-            "The Eight-Forty-Seven Train"
+            "1934-05-25"
         ],
         "Country of origin": [
             "France"
         ],
-        "Filming locations": [
-            "Studios Pathé-Natan, Joinville-le-pont, Val-de-Marne, France"
-        ],
-        "Production company": [
+        "Production companies": [
             "Les Films Alex Nalpas"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0183801/",
-            "name": "Georges Courteline"
+            "name": "Georges Courteline",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0545496/",
-            "name": "Léo Marchès"
+            "name": "Léo Marchès",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0700259/",
-            "name": "René Pujol"
+            "name": "René Pujol",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H20M",
-    "keywords": [
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0943313/",
-            "name": "Henry Wulschleger"
+            "name": "Henry Wulschleger",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0183912/",
     "metascore": null,
-    "imdb_votes": 26,
+    "imdb_votes": 31,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "5.2/10 from 26 users",
-    "release_date": [],
+    "description": "In 1885, La Guillaumette and Croquebol are two cavalrymen who are constantly victimised by their superior, adjutant Flick. One day, the two men are given an opportunity to redeem themselves by recovering four horses that have gone astray. Unfortunately, they follow the horses' example by taking the wrong train. When they finally make it back to barracks, after a long series of mishaps, they are rewarded with sixty days in prison.",
+    "imdb_rating": "5.3/10 from 31 users",
+    "release_date": [
+        {
+            "date": "1934-05-25",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1934-05-25",
-    "imdb_rating_average": 5.2,
-    "update_at": "2025-09-22T15:52:28"
+    "original_title": "Le train de huit heures quarante-sept",
+    "imdb_rating_average": 5.3,
+    "update_at": "2026-10-24T22:56:13"
 }

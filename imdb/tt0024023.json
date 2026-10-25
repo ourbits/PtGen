@@ -1,70 +1,141 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Ein ganz verflixter Kerl",
+            "country": "Germany"
+        },
+        {
+            "title": "Ein Mann wie Du muß es sein!",
+            "country": "Austria"
+        },
+        {
+            "title": "Ništa bez ljubavi",
+            "country": "Yugoslavia"
+        }
+    ],
     "sid": "tt0024023",
     "name": "Flucht nach Nizza",
     "site": "imdb",
     "year": "1933",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Crime",
+        "Comedy"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0278909/",
-            "name": "Fritz Fischer"
+            "name": "Fritz Fischer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0018437/",
-            "name": "Georg Alexander"
+            "name": "Georg Alexander",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0255731/",
-            "name": "Else Elster"
+            "name": "Else Elster",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0198889/",
+            "name": "Gerhard Dammann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0083343/",
+            "name": "Betty Bird",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0911133/",
+            "name": "Hedwig Wangel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0347520/",
+            "name": "Max Gülstorff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0112466/",
+            "name": "Egon Brosig",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0003586/",
+            "name": "Theo Lingen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0681620/",
+            "name": "Hermann Picha",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/lcdUAL7a8Ss0yDbj4wnDbpswq1e.jpg",
     "details": {
+        "Stars": [
+            "Fritz Fischer",
+            "Georg Alexander",
+            "Else Elster"
+        ],
+        "Genres": [
+            "Crime",
+            "Comedy"
+        ],
+        "Writer": [
+            "Dolly Bruck",
+            "Walter Schlee",
+            "Walter Wassermann"
+        ],
+        "Runtime": [
+            "91 min"
+        ],
+        "Director": [
+            "James Bauer"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "June 14, 1933 (Germany)"
-        ],
-        "Also known as": [
-            "Ništa bez ljubavi"
+            "1933-06-13"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Filming locations": [
-            "London, England, UK"
-        ],
-        "Production company": [
-            "Renaissance-Film"
+        "Production companies": [
+            "Renaissance Films"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2281691/",
-            "name": "Dolly Bruck"
+            "name": "Dolly Bruck",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0772143/",
-            "name": "Walter Schlee"
+            "name": "Walter Schlee",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0913712/",
-            "name": "Walter Wassermann"
+            "name": "Walter Wassermann",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H31M",
-    "keywords": [
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0061850/",
-            "name": "James Bauer"
+            "name": "James Bauer",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0024023/",
@@ -73,9 +144,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1933-06-13",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1933-06-14",
+    "datePublished": "1933-06-13",
+    "original_title": "Flucht nach Nizza",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-09T21:28:09"
+    "update_at": "2026-10-25T02:07:12"
 }

@@ -4,7 +4,7 @@
     "name": "Perfect Witness",
     "site": "imdb",
     "year": "1989",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Drama",
@@ -13,75 +13,145 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001133/",
-            "name": "Brian Dennehy"
+            "name": "Brian Dennehy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001644/",
-            "name": "Aidan Quinn"
+            "name": "Aidan Quinn",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000330/",
-            "name": "Stockard Channing"
+            "name": "Stockard Channing",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0364307/",
+            "name": "Laura Harrington",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005148/",
+            "name": "Delroy Lindo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0341055/",
+            "name": "Joe Grifasi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0688285/",
+            "name": "Ken Pogue",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0281074/",
+            "name": "Markus Flanagan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0546868/",
+            "name": "David Margulies",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0484166/",
+            "name": "Nial Lancaster",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDRiNDcwYzQtZTY0ZS00YjUzLWJmODYtYzNhZDBkNWNiZjlmXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/4um0oxAAS4EqRv6YNfcjVYAIaRL.jpg",
     "details": {
+        "Stars": [
+            "Brian Dennehy",
+            "Aidan Quinn",
+            "Stockard Channing"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Writer": [
+            "Terry Curtis Fox",
+            "Ron Hutchinson"
+        ],
+        "Runtime": [
+            "103 min"
+        ],
+        "Director": [
+            "Robert Mandel"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "October 28, 1989 (United States)"
-        ],
-        "Also known as": [
-            "Perfekta vittnet"
+            "1989-10-28"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "New York City, New York, USA"
+            "United States of America"
         ],
         "Production companies": [
-            "Granger Productions Inc.",
-            "HBO Pictures",
-            "Home Box Office (HBO)"
+            "HBO Films"
         ]
     },
-    "reviews": 8,
+    "reviews": 0,
+    "tagline": "It took a mob to run the city -- and one man to put them away.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0289278/",
-            "name": "Terry Curtis Fox"
+            "name": "Terry Curtis Fox",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0404396/",
-            "name": "Ron Hutchinson"
+            "name": "Ron Hutchinson",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H43M",
     "keywords": [
         "witness",
-        "courtroom",
-        "new york city",
-        "restaurant owner",
-        "woman shot"
+        "organized crime",
+        "courtroom"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0541677/",
-            "name": "Robert Mandel"
+            "name": "Robert Mandel",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0098080/",
     "metascore": null,
-    "imdb_votes": 522,
+    "imdb_votes": 544,
     "popularity": 0,
-    "description": "A witness to a mob killing has second thoughts about testifying when he realizes his family might become a target.",
-    "imdb_rating": "6/10 from 522 users",
-    "release_date": [],
-    "contentRating": "R",
+    "description": "An innocent man is thrust into a political power struggle in this drama. After witnessing a mob killing, New York restaurant owner Sam Paxton (Aidan Quinn) reports the crime. Overzealous attorneys (Brian Dennehy and Stockard Channing) put pressure on Paxton to testify in court, but Paxton is in a tough spot when the mob starts threatening his family. Paxton now faces an impossible choice: testify and put his family at risk … or go to jail.",
+    "imdb_rating": "6.0/10 from 544 users",
+    "release_date": [
+        {
+            "date": "1991-05-17",
+            "country": "Germany"
+        },
+        {
+            "date": "1993-04-17",
+            "country": "France"
+        },
+        {
+            "date": "1990-10-11",
+            "country": "Greece"
+        },
+        {
+            "date": "1989-10-28",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1989-10-28",
-    "imdb_rating_average": 6,
-    "update_at": "2025-04-30T15:12:01"
+    "original_title": "Perfect Witness",
+    "imdb_rating_average": 6.0,
+    "update_at": "2026-10-24T12:07:47"
 }

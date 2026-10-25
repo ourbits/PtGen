@@ -4,65 +4,108 @@
     "name": "Ping Pong",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2040682/",
-            "name": "Jeff Rubino"
+            "name": "Jeff Rubino",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1888156/",
-            "name": "Suzie Cobb"
+            "name": "Suzie Cobb",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1747900/",
-            "name": "Fred Ochs"
+            "name": "Fred Ochs",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2357559/",
+            "name": "Hayley Karl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2812892/",
+            "name": "Brad Leaf",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3159296/",
+            "name": "Aimee Chenal",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1829975/",
+            "name": "Anthony Tedesco",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2650526/",
+            "name": "Alice Fulks",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2172322/",
+            "name": "Danny Zaccagnino",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3159923/",
+            "name": "Ryan Neal",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Jeff Rubino",
+            "Suzie Cobb",
+            "Fred Ochs"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Amanda Marshall",
+            "Erwann Marshall"
+        ],
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "Erwann Marshall"
         ],
         "Release date": [
-            "November 21, 2008 (United States)"
-        ],
-        "Official site": [
-            "MySpace page - http://www.myspace.com/pingpongshortfilm"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Los Angeles, California, USA"
-        ],
-        "Production company": [
-            "Synapse Pictures"
+            "2008"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1622973/",
-            "name": "Amanda Marshall"
+            "name": "Amanda Marshall",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0550875/",
-            "name": "Erwann Marshall"
+            "name": "Erwann Marshall",
+            "@type": "Person"
         }
     ],
     "duration": "PT12M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0550875/",
-            "name": "Erwann Marshall"
+            "name": "Erwann Marshall",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1305739/",
@@ -73,7 +116,8 @@
     "imdb_rating": "7.8/10 from 5 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2008-11-21",
+    "datePublished": "2008",
+    "original_title": "Ping Pong",
     "imdb_rating_average": 7.8,
-    "update_at": "2026-03-12T17:20:07"
+    "update_at": "2026-10-24T05:28:25"
 }

@@ -4,7 +4,7 @@
     "name": "Christmas Getaway",
     "site": "imdb",
     "year": "2017",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Drama",
@@ -13,81 +13,153 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2125623/",
-            "name": "Bridget Regan"
+            "name": "Bridget Regan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1670886/",
-            "name": "Travis Van Winkle"
+            "name": "Travis Van Winkle",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm6068747/",
-            "name": "Raven Stewart"
+            "name": "Raven Stewart",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0745186/",
+            "name": "Teryl Rothery",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1222371/",
+            "name": "Sarah Smyth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1026161/",
+            "name": "Dan Payne",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0761452/",
+            "name": "Alvin Sanders",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8527350/",
+            "name": "Krystle Dos Santos",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6178115/",
+            "name": "Kiefer O'Reilly",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0533227/",
+            "name": "Keith MacKechnie",
+            "@type": "Person"
         }
     ],
-    "critic": 4,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzM5NDgzYWUtY2MwYS00NGNlLWFiYWItMjhiMDM5MTk0ZmUwXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/ohBJhAI7YJrlYmnr4czCvZj1FW7.jpg",
     "details": {
+        "Stars": [
+            "Bridget Regan",
+            "Travis Van Winkle",
+            "Raven Stewart"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Marlene McPherson",
+            "Elizabeth Snyder",
+            "Tracy Andreen"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Mel Damski"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "December 23, 2017 (United States)"
-        ],
-        "Also known as": [
-            "Різдвяна ескапада"
-        ],
-        "Official site": [
-            "Official Site - https://www.hallmarkchannel.com/christmas-getaway"
+            "2017-12-23"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Vancouver, British Columbia, Canada"
+            "United States of America"
         ],
         "Production companies": [
-            "Crown Media Productions",
-            "Front Street Pictures"
+            "Front Street Pictures",
+            "Hallmark Media"
         ]
     },
-    "reviews": 44,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1045048/",
-            "name": "Marlene McPherson"
+            "name": "Marlene McPherson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1010102/",
-            "name": "Elizabeth Snyder"
+            "name": "Elizabeth Snyder",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2703607/",
-            "name": "Tracy Andreen"
+            "name": "Tracy Andreen",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
     "keywords": [
-        "writing an article",
         "single father",
-        "father daughter relationship",
         "christmas",
-        "single parent"
+        "mountain resort",
+        "cohabitation"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0198991/",
-            "name": "Mel Damski"
+            "name": "Mel Damski",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt7688990/",
     "metascore": null,
-    "imdb_votes": 3880,
+    "imdb_votes": 4253,
     "popularity": 0,
-    "description": "A travel writer takes a Christmas vacation, but finds herself double-booked with a widower, his mother, and his daughter at the holiday site.",
-    "imdb_rating": "7/10 from 3880 users",
-    "release_date": [],
-    "contentRating": "TV-G",
+    "description": "When a reservation mix-up at a mountain resort forces a newly-single travel writer to share a cabin with a handsome widower and his precocious daughter over the holidays, their lives are transformed by the magic of Christmas and the unexpected power of love.",
+    "imdb_rating": "7.1/10 from 4253 users",
+    "release_date": [
+        {
+            "date": "2021-12-19",
+            "country": "Canada"
+        },
+        {
+            "date": "2020-12-06",
+            "country": "Germany"
+        },
+        {
+            "date": "2018-11-29",
+            "country": "France"
+        },
+        {
+            "date": "2017-12-23",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "G",
     "datePublished": "2017-12-23",
-    "imdb_rating_average": 7,
-    "update_at": "2025-02-03T17:42:33"
+    "original_title": "Christmas Getaway",
+    "imdb_rating_average": 7.1,
+    "update_at": "2026-10-24T03:14:06"
 }

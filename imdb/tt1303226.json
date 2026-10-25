@@ -4,7 +4,7 @@
     "name": "Nebe a Vincek",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Family",
@@ -13,66 +13,123 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2116124/",
-            "name": "Jaroslav Plesl"
+            "name": "Jaroslav Plesl",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1212577/",
-            "name": "Jan Budar"
+            "name": "Jan Budař",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0459303/",
-            "name": "Bohumil Klepl"
+            "name": "Bohumil Klepl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0125748/",
+            "name": "Zuzana Bydžovská",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1671383/",
+            "name": "Zuzana Kajnarová",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0529432/",
+            "name": "Jiří Lábus",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1169515/",
+            "name": "Jan Vondráček",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0877016/",
+            "name": "Tomáš Turek",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1586431/",
+            "name": "Leos Noha",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0687416/",
+            "name": "Jiří Ployhar",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTEzNjBmZDItNTg0Mi00YWU1LWJmODUtMjQzMjM1Y2FhN2Y1XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/kG1KpPRm79J8B4zlxI15yep6auX.jpg",
     "details": {
+        "Stars": [
+            "Jaroslav Plesl",
+            "Jan Budař",
+            "Bohumil Klepl"
+        ],
+        "Genres": [
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ],
+        "Writer": [
+            "Blanka Josephová-Lunáková"
+        ],
+        "Runtime": [
+            "59 min"
+        ],
+        "Director": [
+            "Petr Zahrádka"
+        ],
         "Language": [
             "Czech"
         ],
         "Release date": [
-            "December 25, 2008 (Czech Republic)"
-        ],
-        "Official site": [
-            "Official site - http://www.ceskatelevize.cz/program/10168323358-nebe-a-vincek.html?searchstring=nebe+a+vincek&backaddr=search&idec=208%20552%2011503"
+            "2008-12-25"
         ],
         "Country of origin": [
             "Czech Republic"
         ],
-        "Production company": [
-            "Ceská Televize"
+        "Production companies": [
+            "Česká televize"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3330677/",
-            "name": "Blanka Josephová-Lunáková"
+            "name": "Blanka Josephová-Lunáková",
+            "@type": "Person"
         }
     ],
     "duration": "PT59M",
-    "keywords": [
-        "disguised human",
-        "chiromancy",
-        "male name in title",
-        "name in title",
-        "telescope"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1303297/",
-            "name": "Petr Zahrádka"
+            "name": "Petr Zahrádka",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1303226/",
     "metascore": null,
-    "imdb_votes": 12,
+    "imdb_votes": 15,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "5.6/10 from 12 users",
-    "release_date": [],
+    "description": "The heavenly student Angelo Žáček doesn't really get the theory. Would he rather prove his abilities in practice? Reforming the sinner Vinck, whom all of heaven has given up on, is child's play for him, and the guardian angel diploma will be in the bag. He is even willing to use methods that are not exactly heavenly. The Master is overcome with despair. Heaven has never seen anything like what the rash Žáček is about to do. The angry teacher sets off after his wayward student to prevent him from committing his unangelic deed. And he might have succeeded, had he arrived a moment earlier. Now the sinner is even closer to hell, and the student will never become a guardian angel. The shaken student, under the Master's supervision, once again sets out to reform the incorrigible Vinck, but this time, if necessary, he will risk his own skin...",
+    "imdb_rating": "5.6/10 from 15 users",
+    "release_date": [
+        {
+            "date": "2008-12-25",
+            "country": "Czech Republic"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2008-12-25",
+    "original_title": "Nebe a Vincek",
     "imdb_rating_average": 5.6,
-    "update_at": "2025-05-19T15:57:39"
+    "update_at": "2026-10-24T06:56:07"
 }

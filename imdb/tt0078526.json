@@ -4,7 +4,7 @@
     "name": "Ziegfeld: The Man and His Women",
     "site": "imdb",
     "year": "1978",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Biography",
         "Drama"
@@ -12,70 +12,123 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0791502/",
-            "name": "Paul Shenar"
+            "name": "Paul Shenar",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0002058/",
-            "name": "Samantha Eggar"
+            "name": "Samantha Eggar",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0506378/",
-            "name": "David Levy"
+            "name": "David Levy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0662808/",
+            "name": "Barbara Parkins",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0668822/",
+            "name": "Pamela Peadon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0674781/",
+            "name": "Valerie Perrine",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0572323/",
+            "name": "Gene McLaughlin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0790333/",
+            "name": "Richard Shea",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0414976/",
+            "name": "Catherine Jacoby",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0236089/",
+            "name": "David Downing",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmNjMjgxZWYtZjAwYi00OThjLThlYzQtY2JmYmVhMmNlYWQ4XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/lstM8GtBUyjPfP6jyWPAVIzGGYj.jpg",
     "details": {
+        "Stars": [
+            "Paul Shenar",
+            "Samantha Eggar",
+            "David Levy"
+        ],
+        "Genres": [
+            "Biography",
+            "Drama"
+        ],
+        "Writer": [
+            "Joanna Lee"
+        ],
+        "Runtime": [
+            "150 min"
+        ],
+        "Director": [
+            "Buzz Kulik"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 21, 1978 (United States)"
-        ],
-        "Also known as": [
-            "Ziegfeld: él y sus mujeres"
+            "1978-05-21"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Stage 16, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA"
+            "United States of America"
         ],
         "Production companies": [
             "Frankovich Productions",
             "Columbia Pictures Television"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0497543/",
-            "name": "Joanna Lee"
+            "name": "Joanna Lee",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H30M",
-    "keywords": [
-        "manhattan new york city",
-        "new york city",
-        "broadway manhattan new york city",
-        "male female relationship",
-        "husband wife relationship"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0474539/",
-            "name": "Buzz Kulik"
+            "name": "Buzz Kulik",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0078526/",
     "metascore": null,
-    "imdb_votes": 64,
+    "imdb_votes": 70,
     "popularity": 0,
-    "description": "Four women intimate with the showman tell his life story.",
-    "imdb_rating": "8/10 from 64 users",
-    "release_date": [],
+    "description": "The life and times of the flamboyant showman who built his legendary Follies around beautiful women -- as told by the women in his life.",
+    "imdb_rating": "7.8/10 from 70 users",
+    "release_date": [
+        {
+            "date": "1978-05-21",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1978-05-21",
-    "imdb_rating_average": 8,
-    "update_at": "2025-02-09T10:31:22"
+    "original_title": "Ziegfeld: The Man and His Women",
+    "imdb_rating_average": 7.8,
+    "update_at": "2026-10-24T23:00:14"
 }

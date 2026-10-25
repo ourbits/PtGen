@@ -4,45 +4,106 @@
     "name": "Vatten",
     "site": "imdb",
     "year": "2013",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm5496863/",
+            "name": "Lova Schildt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5326892/",
+            "name": "Mikaela Ardai Jennefors",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0423919/",
+            "name": "Carina M. Johansson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5495341/",
+            "name": "Vincent Henzel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5816433/",
+            "name": "Alexander Ohakas",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjgzNGNkOTYtMzI0YS00YWFmLWIxZTktNzJiODQxNmIxYjgyXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/klrSUxj0YTZQdNaq7PkcxLqTbZa.jpg",
     "details": {
+        "Stars": [
+            "Lova Schildt",
+            "Mikaela Ardai Jennefors",
+            "Carina M. Johansson"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Niclas Larsson"
+        ],
+        "Runtime": [
+            "30 min"
+        ],
+        "Director": [
+            "Niclas Larsson"
+        ],
         "Language": [
             "Swedish"
         ],
         "Release date": [
-            "January 26, 2013 (Sweden)"
-        ],
-        "Official site": [
-            "Official site - http://www.campdavidfilm.com/"
+            "2013-01-26"
         ],
         "Country of origin": [
             "Sweden"
-        ],
-        "Production company": [
-            "Camp david Film"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0489256/",
+            "name": "Niclas Larsson",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT30M",
     "keywords": [
-        ""
+        "bath house",
+        "young love",
+        "short film"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0489256/",
+            "name": "Niclas Larsson",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2661580/",
     "metascore": null,
     "imdb_votes": 44,
     "popularity": 0,
-    "description": "Vatten is a drama about young unconditional love.",
+    "description": "Clara enjoys swimming by herself in the local pool after dark. One night she discovers a secret in this haunting story of young love.",
     "imdb_rating": "7.2/10 from 44 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2013-01-26",
+            "country": "Sweden"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2013-01-26",
+    "original_title": "Vatten",
     "imdb_rating_average": 7.2,
-    "update_at": "2026-01-06T05:39:05"
+    "update_at": "2026-10-24T09:42:36"
 }

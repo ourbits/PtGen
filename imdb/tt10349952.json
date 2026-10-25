@@ -4,7 +4,7 @@
     "name": "Die Ungewollten - Die Irrfahrt der St. Louis",
     "site": "imdb",
     "year": "2019",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Documentary",
         "Drama",
@@ -13,79 +13,152 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0633947/",
-            "name": "Ulrich Noethen"
+            "name": "Ulrich Noethen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2320246/",
-            "name": "Britta Hammelstein"
+            "name": "Britta Hammelstein",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3965547/",
-            "name": "Johannes Kienast"
+            "name": "Johannes Kienast",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0659959/",
+            "name": "Florian Panzner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2162912/",
+            "name": "Golo Euler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10737675/",
+            "name": "Elgar do Rosário",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10701897/",
+            "name": "Attila Georg Borian",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0144887/",
+            "name": "Virgílio Castelo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0260778/",
+            "name": "Luís Esparteiro",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2109003/",
+            "name": "Gabriela Barros",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDE1OTI4NTYtMzc4My00NDNjLTgyN2ItMGQ1ZjA5ZGMyNzZkXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/rgLNT47Rtqv0gPJls4UDLxEeie9.jpg",
     "details": {
-        "Languages": [
-            "German",
-            "Spanish",
-            "English"
+        "Stars": [
+            "Ulrich Noethen",
+            "Britta Hammelstein",
+            "Johannes Kienast"
+        ],
+        "Genres": [
+            "Documentary",
+            "Drama",
+            "History"
+        ],
+        "Writer": [
+            "Susanne Beck",
+            "Thomas Eifler"
+        ],
+        "Runtime": [
+            "88 min"
+        ],
+        "Director": [
+            "Ben von Grafenstein"
+        ],
+        "Language": [
+            "German"
         ],
         "Release date": [
-            "October 21, 2019 (Germany)"
+            "2019-10-21"
         ],
-        "Also known as": [
-            "Los repudiados: La odisea del St. Louis"
-        ],
-        "Official site": [
-            "Official site (Germany) - https://www.ufa.de/produktionen/die-irrfahrt-der-st-louis"
-        ],
-        "Filming locations": [
-            "Lisbon, Portugal"
-        ],
-        "Production company": [
-            "UFA Fiction"
-        ],
-        "Countries of origin": [
+        "Country of origin": [
             "Germany",
             "Portugal"
+        ],
+        "Production companies": [
+            "UFA Fiction",
+            "nordmedia",
+            "ICA"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1815144/",
-            "name": "Susanne Beck"
+            "name": "Susanne Beck",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1840988/",
-            "name": "Thomas Eifler"
+            "name": "Thomas Eifler",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H28M",
     "keywords": [
-        "reenactment",
-        "1930s",
-        "jew",
-        "german jew",
-        "germany"
+        "based on novel or book",
+        "holocaust (shoah)",
+        "jew persecution",
+        "based on true story",
+        "antisemitism",
+        "based on memoir or autobiography",
+        "docudrama",
+        "hamburg, germany",
+        "havana, cuba",
+        "boat captain",
+        "eve of world war ii"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0902332/",
-            "name": "Ben von Grafenstein"
+            "name": "Ben von Grafenstein",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt10349952/",
     "metascore": null,
-    "imdb_votes": 150,
+    "imdb_votes": 155,
     "popularity": 0,
-    "description": "The movie is based on the real story of 937 German Jewish refugees leaving from Hamburg in 1939, far from Nazism to Cuba. Their journey for freedom became an Odyssey on the Atlantic ocean.",
-    "imdb_rating": "7/10 from 150 users",
-    "release_date": [],
+    "description": "Hamburg, Germany, 1939. Getting a passage aboard the passenger liner St. Louis seems to be the last hope of salvation for more than nine hundred German Jews who, desperate to escape the atrocious persecution to which they are subjected by the Nazi regime, intend to emigrate to Cuba.",
+    "imdb_rating": "7.0/10 from 155 users",
+    "release_date": [
+        {
+            "date": "2019-10-21",
+            "country": "Germany"
+        },
+        {
+            "date": "2022-01-20",
+            "country": "Spain"
+        },
+        {
+            "date": "2021-06-18",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2019-10-21",
-    "imdb_rating_average": 7,
-    "update_at": "2026-03-05T02:28:26"
+    "original_title": "Die Ungewollten - Die Irrfahrt der St. Louis",
+    "imdb_rating_average": 7.0,
+    "update_at": "2026-10-24T07:56:07"
 }

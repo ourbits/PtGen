@@ -4,52 +4,69 @@
     "name": "You Are Going to Be Fine",
     "site": "imdb",
     "year": "2011",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3136985/",
-            "name": "Rory Coyle"
+            "name": "Rory Coyle",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2357157/",
-            "name": "Kelly Erin Decker"
+            "name": "Kelly Erin Decker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3306435/",
-            "name": "Danny Jordan"
+            "name": "Danny Jordan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3684674/",
+            "name": "Sophia Savage",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Rory Coyle",
+            "Kelly Erin Decker",
+            "Danny Jordan"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Sophia Savage"
+        ],
+        "Director": [
+            "J. Daniel Shaffer"
         ],
         "Release date": [
-            "May 24, 2011 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
+            "2011"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3684674/",
-            "name": "Sophia Savage"
+            "name": "Sophia Savage",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2270310/",
-            "name": "J. Daniel Shaffer"
+            "name": "J. Daniel Shaffer",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2011382/",
@@ -60,7 +77,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2011-05-24",
+    "datePublished": "2011",
+    "original_title": "You Are Going to Be Fine",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-29T15:13:30"
+    "update_at": "2026-10-25T01:56:16"
 }
