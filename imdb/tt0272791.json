@@ -1,10 +1,10 @@
 {
     "aka": [],
     "sid": "tt0272791",
-    "name": "Probieren Sie&apos;s mit einem Jüngeren",
+    "name": "Probieren Sie's mit einem Jüngeren",
     "site": "imdb",
     "year": "2000",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Romance"
@@ -12,64 +12,124 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000919/",
-            "name": "Senta Berger"
+            "name": "Senta Berger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0718280/",
-            "name": "Ulrich Reinthaller"
+            "name": "Ulrich Reinthaller",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0352528/",
-            "name": "Karlheinz Hackl"
+            "name": "Karlheinz Hackl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0626083/",
+            "name": "Marianne Nentwich",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0107529/",
+            "name": "Nadeshda Brennicke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0921389/",
+            "name": "Emmy Werner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0378985/",
+            "name": "Markus Hering",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0295989/",
+            "name": "Regina Fritsch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0007818/",
+            "name": "Meriam Abbas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0006945/",
+            "name": "Helmut Berger",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTUyMjg1NzI1M15BMl5BanBnXkFtZTcwNDE3ODU4Ng@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/cFuLlIVsfy9jo04xBtdvme3CIm9.jpg",
     "details": {
+        "Stars": [
+            "Senta Berger",
+            "Ulrich Reinthaller",
+            "Karlheinz Hackl"
+        ],
+        "Genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "Writer": [
+            "Elfriede Hammerl"
+        ],
+        "Runtime": [
+            "85 min"
+        ],
+        "Director": [
+            "Michael Kreihsl"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "December 30, 2000 (Germany)"
+            "2000-12-30"
         ],
-        "Filming locations": [
-            "Vienna, Austria"
-        ],
-        "Countries of origin": [
+        "Country of origin": [
             "Austria",
             "Germany"
         ],
         "Production companies": [
-            "Epo-Film Produktionsgesellschaft",
-            "Österreichischer Rundfunk (ORF)"
+            "ORF",
+            "ARD"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0358532/",
-            "name": "Elfriede Hammerl"
+            "name": "Elfriede Hammerl",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H25M",
-    "keywords": [
-        "heteronormativity"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0470629/",
-            "name": "Michael Kreihsl"
+            "name": "Michael Kreihsl",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0272791/",
     "metascore": null,
-    "imdb_votes": 36,
+    "imdb_votes": 38,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "5/10 from 36 users",
-    "release_date": [],
+    "description": "Anna Haslböck, writing as Karina Norden, hires young drummer Nicolas Auer to pose as her lover and boost sales for her new book on dating younger men. Nicolas, recently dumped by a girlfriend influenced by Anna’s advice, reluctantly plays along while Anna secretly maintains a ten-year affair with industrialist Wolf Richter. As Anna and Nicolas co-host a fledgling talk show, Nicolas begins a real affair with journalist Martina Schwarz, forcing Anna to juggle contracts, jealousy, and public image. When Wolf announces plans to marry a society beauty, Anna’s world unravels - she confesses her long affair to Wolf’s wife Ilse live on air. The on-set revelations by Ilse and her partner Bodo mirror Anna’s own sacrifices. In the end, the show is a hit, Anna frees Nicolas from their PR pact, and Martina forgives him, leaving Anna to rebuild her personal and professional life.",
+    "imdb_rating": "5.0/10 from 38 users",
+    "release_date": [
+        {
+            "date": "2000-12-30",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2000-12-30",
-    "imdb_rating_average": 5,
-    "update_at": "2026-01-15T05:28:31"
+    "original_title": "Probieren Sie's mit einem Jüngeren",
+    "imdb_rating_average": 5.0,
+    "update_at": "2026-10-25T20:49:14"
 }

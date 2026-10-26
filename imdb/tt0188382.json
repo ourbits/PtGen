@@ -4,45 +4,98 @@
     "name": "3 Missing Links",
     "site": "imdb",
     "year": "1927",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0440070/",
+            "name": "Hilliard Karr",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0018419/",
+            "name": "Frank Alexander",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0743169/",
+            "name": "'Kewpie' Ross",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "None"
+        "Stars": [
+            "Hilliard Karr",
+            "Frank Alexander",
+            "'Kewpie' Ross"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Joseph Basil",
+            "E.V. Durling",
+            "Albert Herman"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "Albert Herman"
         ],
         "Release date": [
-            "December 12, 1927 (United States)"
-        ],
-        "Also known as": [
-            "Three Missing Links"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Standard Photoplay Company"
+            "1927-12-11"
         ]
     },
-    "reviews": 1,
-    "creators": [],
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0059837/",
+            "name": "Joseph Basil",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0244219/",
+            "name": "E.V. Durling",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0379092/",
+            "name": "Albert Herman",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT10M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0379092/",
+            "name": "Albert Herman",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0188382/",
     "metascore": null,
-    "imdb_votes": 13,
+    "imdb_votes": 14,
     "popularity": 0,
-    "description": "In the hotel washroom, the fat boys manage to incur tho enmity of a stranger by using his toothbrush, blacking his face with shoe powder, smashing his hat, pulling off his coat tails. Again, they try to enter his car, smash it to ...",
-    "imdb_rating": "4.9/10 from 13 users",
-    "release_date": [],
+    "description": "A Ton of Fun slapstick comedy short directed by Albert Herman.",
+    "imdb_rating": "5.1/10 from 14 users",
+    "release_date": [
+        {
+            "date": "1927-12-11",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1927-12-12",
-    "imdb_rating_average": 4.9,
-    "update_at": "2025-10-19T22:52:20"
+    "datePublished": "1927-12-11",
+    "original_title": "3 Missing Links",
+    "imdb_rating_average": 5.1,
+    "update_at": "2026-10-25T13:35:51"
 }

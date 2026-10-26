@@ -4,7 +4,7 @@
     "name": "Scorn",
     "site": "imdb",
     "year": "2000",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Drama"
@@ -12,72 +12,122 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0425053/",
-            "name": "Eric Johnson"
+            "name": "Eric Johnson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0281956/",
-            "name": "Brendan Fletcher"
+            "name": "Brendan Fletcher",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0842812/",
-            "name": "Bill Switzer"
+            "name": "Bill Switzer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0358922/",
+            "name": "Emily Hampshire",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0389581/",
+            "name": "Michael Hogan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0404929/",
+            "name": "Pam Hyatt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0746414/",
+            "name": "Kelly Rowan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0128290/",
+            "name": "Jesse Cadotte",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0761835/",
+            "name": "Will Sanderson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0589358/",
+            "name": "Stephen E. Miller",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzcyZGY0OGQtODZkYy00ODc3LThkMzktNDNhM2MzMmUxYzA4XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/6PebtJAEYr6ZvO1Hs4Xb82IEC0e.jpg",
     "details": {
+        "Stars": [
+            "Eric Johnson",
+            "Brendan Fletcher",
+            "Bill Switzer"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "Andrew Rai Berzins",
+            "Lisa Hobbs Birnie"
+        ],
+        "Runtime": [
+            "96 min"
+        ],
+        "Director": [
+            "Sturla Gunnarsson"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "September 20, 2000 (Canada)"
-        ],
-        "Also known as": [
-            "El desprecio"
-        ],
-        "Country of origin": [
-            "Canada"
-        ],
-        "Production companies": [
-            "Alliance Atlantis Communications",
-            "Barna-Alper Productions",
-            "Canadian Broadcasting Corporation (CBC)"
+            "2000-09-20"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0078566/",
-            "name": "Andrew Rai Berzins"
+            "name": "Andrew Rai Berzins",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0083719/",
-            "name": "Lisa Hobbs Birnie"
+            "name": "Lisa Hobbs Birnie",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H36M",
-    "keywords": [
-        "murder",
-        "caligula",
-        "wealth",
-        "teenage boy",
-        "school play"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0348274/",
-            "name": "Sturla Gunnarsson"
+            "name": "Sturla Gunnarsson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0240884/",
     "metascore": null,
-    "imdb_votes": 232,
+    "imdb_votes": 235,
     "popularity": 0,
-    "description": "Darren Huenemann, a spoiled 18-year old plots to have two classmates murder his mother and grandmother so he can inherit their fortunes. His worship of Caligula leads him to treat all like those in the Roman Imperial Court, manipu...",
-    "imdb_rating": "5.9/10 from 232 users",
-    "release_date": [],
+    "description": "Darren Huenemann, a spoiled 18-year old plots to have two classmates murder his mother and grandmother so he can inherit their fortunes. His worship of Caligula leads him to treat all like those in the Roman Imperial Court, manipulating, threatening and cajoling those who would stand in his way. Based on a true story of the early Nineties in British Columbia.",
+    "imdb_rating": "6.0/10 from 235 users",
+    "release_date": [
+        {
+            "date": "2000-09-20",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2000-09-20",
-    "imdb_rating_average": 5.9,
-    "update_at": "2025-09-10T04:00:27"
+    "original_title": "Scorn",
+    "imdb_rating_average": 6.0,
+    "update_at": "2026-10-25T15:00:19"
 }

@@ -4,68 +4,103 @@
     "name": "Meth",
     "site": "imdb",
     "year": "2010",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Drama",
-        "Fantasy"
+        "Fantasy",
+        "Horror"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2763829/",
-            "name": "Stephanie Brait"
+            "name": "Stephanie Brait",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2591928/",
-            "name": "Dan Davidson"
+            "name": "Dan Davidson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3669305/",
-            "name": "Ayla Ocasio"
+            "name": "Ayla Ocasio",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0667875/",
+            "name": "Robert Pavlovich",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1982177/",
+            "name": "Nicholas Rose",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3672651/",
+            "name": "Ron Songer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3248033/",
+            "name": "Kellen York",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NTY1OTExMl5BMl5BanBnXkFtZTcwNzYyODg5Mg@@._V1_.jpg",
+    "critic": 0,
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Stephanie Brait",
+            "Dan Davidson",
+            "Ayla Ocasio"
+        ],
+        "Genres": [
+            "Drama",
+            "Fantasy",
+            "Horror"
+        ],
+        "Writer": [
+            "Michael Maney"
+        ],
+        "Runtime": [
+            "25 min"
+        ],
+        "Director": [
+            "Michael Maney"
         ],
         "Release date": [
-            "April 10, 2010 (United States)"
-        ],
-        "Official site": [
-            "Official site - http://www.meththemovie.com/"
-        ],
-        "Country of origin": [
-            "United States"
+            "2010"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1764419/",
-            "name": "Michael Maney"
+            "name": "Michael Maney",
+            "@type": "Person"
         }
     ],
     "duration": "PT25M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1764419/",
-            "name": "Michael Maney"
+            "name": "Michael Maney",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1538850/",
     "metascore": null,
     "imdb_votes": 26,
     "popularity": 0,
-    "description": "Nikki is a crystal meth addict who finds herself host to an unwanted guest with a most unusual request.",
+    "description": null,
     "imdb_rating": "7.3/10 from 26 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2010-04-10",
+    "datePublished": "2010",
+    "original_title": "Meth",
     "imdb_rating_average": 7.3,
-    "update_at": "2025-08-25T12:21:22"
+    "update_at": "2026-10-25T10:07:14"
 }

@@ -5,52 +5,96 @@
     "site": "imdb",
     "year": "1950",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1958894/",
-            "name": "Yoshio Domae"
+            "name": "Yoshio Domae",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0411049/",
-            "name": "Hidemichi Ishikawa"
+            "name": "Hidemichi Ishikawa",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1962932/",
-            "name": "Tetsuya Kaji"
+            "name": "Tetsuya Kaji",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0436787/",
+            "name": "Sōjin Kamiyama",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1957642/",
+            "name": "Hisao Kojima",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1960374/",
+            "name": "Akira Kono",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1128350/",
+            "name": "Ken Mishima",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1959626/",
+            "name": "Tōru Saeki",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1959752/",
+            "name": "Chuichi Soga",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1245909/",
+            "name": "Ken Sudô",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Japanese"
+        "Stars": [
+            "Yoshio Domae",
+            "Hidemichi Ishikawa",
+            "Tetsuya Kaji"
+        ],
+        "Writer": [
+            "Nobuo Goto"
+        ],
+        "Runtime": [
+            "98 min"
+        ],
+        "Director": [
+            "Takashi Azuma"
         ],
         "Release date": [
-            "July 8, 1950 (Japan)"
-        ],
-        "Country of origin": [
-            "Japan"
-        ],
-        "Production company": [
-            "Shûei-sha"
+            "1950"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1963194/",
-            "name": "Nobuo Goto"
+            "name": "Nobuo Goto",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H38M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1963170/",
-            "name": "Takashi Azuma"
+            "name": "Takashi Azuma",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0466964/",
@@ -61,7 +105,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1950-07-08",
+    "datePublished": "1950",
+    "original_title": "Ryûgantô no himitsu",
     "imdb_rating_average": 0,
-    "update_at": "2025-03-10T03:01:21"
+    "update_at": "2026-10-25T10:28:06"
 }

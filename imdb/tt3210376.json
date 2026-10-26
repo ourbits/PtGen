@@ -4,7 +4,7 @@
     "name": "Holiday Road Trip",
     "site": "imdb",
     "year": "2013",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Drama",
@@ -13,75 +13,128 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1008709/",
-            "name": "Ashley Scott"
+            "name": "Ashley Scott",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0005258/",
-            "name": "Patrick Muldoon"
+            "name": "Patrick Muldoon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0661164/",
-            "name": "Kip Pardue"
+            "name": "Kip Pardue",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001313/",
+            "name": "George Hamilton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001480/",
+            "name": "Shelley Long",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0480379/",
+            "name": "Jerry Lacy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0040591/",
+            "name": "Essence Atkins",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0300752/",
+            "name": "Mo Gaffney",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0675950/",
+            "name": "Donna Pescow",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0723621/",
+            "name": "Christopher Rich",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjRlMWUyOTYtNDRmOS00ZGM1LWExZmYtNGQ0Y2NmNDJkMzc0XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/cRfz43odBVeVUZyI3DMsYamtdQH.jpg",
     "details": {
+        "Stars": [
+            "Ashley Scott",
+            "Patrick Muldoon",
+            "Kip Pardue"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Hanz Wasserburger",
+            "Fred Olen Ray"
+        ],
+        "Runtime": [
+            "88 min"
+        ],
+        "Director": [
+            "Fred Olen Ray"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "December 1, 2013 (United States)"
-        ],
-        "Also known as": [
-            "El viaje de la Navidad"
+            "2013-12-01"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Willoughby, Ohio, USA"
-        ],
-        "Production companies": [
-            "Daro Film Distribution",
-            "Hybrid",
-            "Monogram Pictures (II)"
+            "United States of America"
         ]
     },
-    "reviews": 14,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2313590/",
-            "name": "Hanz Wasserburger"
+            "name": "Hanz Wasserburger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0676248/",
-            "name": "Fred Olen Ray"
+            "name": "Fred Olen Ray",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H28M",
     "keywords": [
-        "christmas",
-        "dog",
-        "falling in love",
-        "on the road",
-        "road trip"
+        "christmas"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0676248/",
-            "name": "Fred Olen Ray"
+            "name": "Fred Olen Ray",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt3210376/",
     "metascore": null,
-    "imdb_votes": 677,
+    "imdb_votes": 724,
     "popularity": 0,
-    "description": "Two feuding pet-shop employees fall for each other while escorting a celebrity dog on a Christmas promotional tour.",
-    "imdb_rating": "5.4/10 from 677 users",
-    "release_date": [],
-    "contentRating": "PG",
+    "description": "Ashley Scott plays an executive for a company that produces pet supplies. Just after getting into a fight with her boyfriend about their relationship status, she takes up with the company's mascot and the company president's son on a road trip across America at Christmastime in an effort to get home for the holiday season.",
+    "imdb_rating": "5.3/10 from 724 users",
+    "release_date": [
+        {
+            "date": "2013-12-01",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2013-12-01",
-    "imdb_rating_average": 5.4,
-    "update_at": "2025-02-09T14:44:33"
+    "original_title": "Holiday Road Trip",
+    "imdb_rating_average": 5.3,
+    "update_at": "2026-10-25T14:14:36"
 }

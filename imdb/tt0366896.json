@@ -4,66 +4,120 @@
     "name": "Per amore",
     "site": "imdb",
     "year": "2002",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Romance"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0884891/",
-            "name": "Anna Valle"
+            "name": "Anna Valle",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0130046/",
-            "name": "Paolo Calissano"
+            "name": "Paolo Calissano",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0320969/",
-            "name": "Remo Girone"
+            "name": "Remo Girone",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0681583/",
+            "name": "Ottavia Piccolo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0024152/",
+            "name": "Gerardo Amato",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0070226/",
+            "name": "Stefano Benassi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5342708/",
+            "name": "Marco Cacciola",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0145869/",
+            "name": "Giusi Cataldo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4862135/",
+            "name": "Daniela Delle Cave",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0314554/",
+            "name": "Elio Germano",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTZiYzUwMzgtZTg4OC00Y2Q2LTk1NmItMDI5NGE4OTU1NTlmXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/xhxV9Ma7eJneCFfaVRTOsyOSRNh.jpg",
     "details": {
+        "Stars": [
+            "Anna Valle",
+            "Paolo Calissano",
+            "Remo Girone"
+        ],
+        "Genres": [
+            "Romance"
+        ],
+        "Writer": [
+            "Maria Carmela Cicinnati",
+            "Peter Exacoustos"
+        ],
+        "Director": [
+            "Maria Carmela Cicinnati",
+            "Peter Exacoustos"
+        ],
         "Language": [
             "Italian"
         ],
         "Release date": [
-            "February 19, 2002 (Italy)"
+            "2002-02-19"
         ],
         "Country of origin": [
             "Italy"
         ],
-        "Filming locations": [
-            "Milan, Lombardia, Italy"
-        ],
-        "Production company": [
-            "Aran Endemol S.p.a."
+        "Production companies": [
+            "MediaTrade"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0162062/",
-            "name": "Maria Carmela Cicinnati"
+            "name": "Maria Carmela Cicinnati",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0264024/",
-            "name": "Peter Exacoustos"
+            "name": "Peter Exacoustos",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0162062/",
-            "name": "Maria Carmela Cicinnati"
+            "name": "Maria Carmela Cicinnati",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0264024/",
-            "name": "Peter Exacoustos"
+            "name": "Peter Exacoustos",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0366896/",
@@ -75,6 +129,7 @@
     "release_date": [],
     "contentRating": null,
     "datePublished": "2002-02-19",
+    "original_title": "Per amore",
     "imdb_rating_average": 7.3,
-    "update_at": "2026-02-16T14:21:33"
+    "update_at": "2026-10-26T00:07:11"
 }

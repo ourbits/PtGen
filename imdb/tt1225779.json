@@ -4,7 +4,7 @@
     "name": "Wild About Safety: Timon and Pumbaa Safety Smart at Home!",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Animation",
         "Short"
@@ -12,62 +12,82 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0487010/",
-            "name": "Bruce Lanoil"
+            "name": "Bruce Lanoil",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0754676/",
-            "name": "Ernie Sabella"
+            "name": "Ernie Sabella",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWZlZTU1ODUtODM4MS00N2FkLWI5ZDEtY2FhZGU2ZWM1NTllXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/p4oYOMBpkj0u2NE2OPUmNitoC9b.jpg",
     "details": {
+        "Stars": [
+            "Bruce Lanoil",
+            "Ernie Sabella"
+        ],
+        "Genres": [
+            "Animation",
+            "Short"
+        ],
+        "Writer": [
+            "Douglas Segal"
+        ],
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "Dave Bossert"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 27, 2008 (United States)"
-        ],
-        "Official site": [
-            "Disney (United States) - http://disney.go.com/disneyeducationalproductions/safetysmart/wild_about_safety.html"
+            "2008-01-27"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Los Angeles, California, USA"
+            "United States of America"
         ],
         "Production companies": [
             "Disney Educational Productions",
-            "Duck Soup Studios"
+            "Duck Soup Films Cardiff Limited"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0781769/",
-            "name": "Douglas Segal"
+            "name": "Douglas Segal",
+            "@type": "Person"
         }
     ],
     "duration": "PT12M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0098132/",
-            "name": "Dave Bossert"
+            "name": "Dave Bossert",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1225779/",
     "metascore": null,
-    "imdb_votes": 31,
+    "imdb_votes": 37,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7/10 from 31 users",
-    "release_date": [],
-    "contentRating": null,
+    "description": "Timon and Pumbaa discover what to look for in order for a house to be safe.",
+    "imdb_rating": "6.9/10 from 37 users",
+    "release_date": [
+        {
+            "date": "2008-01-27",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "G",
     "datePublished": "2008-01-27",
-    "imdb_rating_average": 7,
-    "update_at": "2026-03-26T07:42:28"
+    "original_title": "Wild About Safety: Timon and Pumbaa Safety Smart at Home!",
+    "imdb_rating_average": 6.9,
+    "update_at": "2026-10-25T06:56:06"
 }

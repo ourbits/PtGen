@@ -4,7 +4,7 @@
     "name": "Our Girl",
     "site": "imdb",
     "year": "2013",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Action",
         "Drama",
@@ -13,70 +13,125 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm6820709/",
-            "name": "Flossy Grounds"
+            "name": "Flossy Grounds",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1724838/",
-            "name": "Lacey Turner"
+            "name": "Lacey Turner",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5488579/",
-            "name": "Mimi Keene"
+            "name": "Mimi Keene",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0996942/",
+            "name": "Kerry Godliman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0302491/",
+            "name": "Sean Gallagher",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4710129/",
+            "name": "McKell David",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1467001/",
+            "name": "Daniel Black",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4081314/",
+            "name": "Frieda Thiel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3921002/",
+            "name": "Babirye Bukilwa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0633562/",
+            "name": "Cecilia Noble",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDVhY2JiNDMtOTMwMi00MWMxLWE5YTktNGVlOGJhYzU4OTUxXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/ocJeiEE91RyOD4xCBZtw4RFSXYh.jpg",
     "details": {
+        "Stars": [
+            "Flossy Grounds",
+            "Lacey Turner",
+            "Mimi Keene"
+        ],
+        "Genres": [
+            "Action",
+            "Drama",
+            "War"
+        ],
+        "Writer": [
+            "Tony Grounds"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "David Drury"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 24, 2013 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Наша девочка"
+            "2013-03-23"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Filming locations": [
-            "Leighton Buzzard, Bedfordshire, England, UK"
-        ],
         "Production companies": [
-            "BBC Drama Productions",
-            "British Broadcasting Corporation (BBC)"
+            "BBC"
         ]
     },
-    "reviews": 16,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0343929/",
-            "name": "Tony Grounds"
+            "name": "Tony Grounds",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
     "keywords": [
-        "18th birthday",
-        "teenage girl",
-        "army recruit",
-        "british army",
-        "cheating boyfriend"
+        "afghanistan war (2001-2021)"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0238621/",
-            "name": "David Drury"
+            "name": "David Drury",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2485988/",
     "metascore": null,
-    "imdb_votes": 1871,
+    "imdb_votes": 1940,
     "popularity": 0,
-    "description": "Our Girl is the story of Molly Dawes, born and raised in the London Borough of Newham. Molly is the eldest of seven kids with little future, an abusive father, and a mother who always wanted more for her. Leaving school with no qu...",
-    "imdb_rating": "7.6/10 from 1871 users",
-    "release_date": [],
+    "description": "On the evening of her 18th birthday, Molly Dawes finds herself drunk and is sick in the doorway of an army recruitment office. She looks into the window of the office and sees a life-sized photograph of an army girl, everything that Molly isn't but wants to be - respected. The following morning, Molly finds herself back in the recruitment office and  is eventually persuaded to complete an aptitude test. No-one thinks she can stick it out, including herself. But slowly and surely, Molly is maturing and learning to believe in herself. She digs in and finds a strength that she never thought she had.",
+    "imdb_rating": "7.6/10 from 1940 users",
+    "release_date": [
+        {
+            "date": "2013-03-23",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2013-03-24",
+    "datePublished": "2013-03-23",
+    "original_title": "Our Girl",
     "imdb_rating_average": 7.6,
-    "update_at": "2026-04-29T22:49:11"
+    "update_at": "2026-10-25T07:56:14"
 }

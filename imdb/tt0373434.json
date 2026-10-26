@@ -4,65 +4,81 @@
     "name": "The Walls",
     "site": "imdb",
     "year": "2002",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1408426/",
-            "name": "Chris Blunk"
+            "name": "Chris Blunk",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Chris Blunk"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Patrick Rea"
+        ],
+        "Runtime": [
+            "9 min"
+        ],
+        "Director": [
+            "Patrick Rea"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "August 16, 2002 (United States)"
-        ],
-        "Official site": [
-            "SenoReality short films - http://www.senoreality.com/"
+            "2002-01-01"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Lawrence, Kansas, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "SenoReality Pictures"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": "Do walls feel pain?",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1408696/",
-            "name": "Patrick Rea"
+            "name": "Patrick Rea",
+            "@type": "Person"
         }
     ],
     "duration": "PT9M",
-    "keywords": [
-        "dark comedy",
-        "independent film"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1408696/",
-            "name": "Patrick Rea"
+            "name": "Patrick Rea",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0373434/",
     "metascore": null,
-    "imdb_votes": 25,
+    "imdb_votes": 26,
     "popularity": 0,
-    "description": "A man moving into his apartment discovers that his wall has feelings. He then must deal with the wall&apos;s human characteristics.",
-    "imdb_rating": "5.4/10 from 25 users",
-    "release_date": [],
-    "contentRating": "Unrated",
-    "datePublished": "2002-08-16",
-    "imdb_rating_average": 5.4,
-    "update_at": "2025-06-24T14:43:40"
+    "description": "A man moving into his apartment discovers that his wall has feelings. He then must deal with the wall's human characteristics.",
+    "imdb_rating": "5.5/10 from 26 users",
+    "release_date": [
+        {
+            "date": "2002-01-01",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2002-01-01",
+    "original_title": "The Walls",
+    "imdb_rating_average": 5.5,
+    "update_at": "2026-10-25T18:42:24"
 }

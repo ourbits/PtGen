@@ -1,10 +1,23 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Állatfarm",
+            "country": "Hungary"
+        },
+        {
+            "title": "Animal Farm - Farm der Tiere",
+            "country": "Germany"
+        },
+        {
+            "title": "Folwark Zwierzęcy",
+            "country": "Poland"
+        }
+    ],
     "sid": "tt0204824",
     "name": "Animal Farm",
     "site": "imdb",
     "year": "1999",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Drama",
@@ -13,80 +26,166 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001288/",
-            "name": "Kelsey Grammer"
+            "name": "Kelsey Grammer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000453/",
-            "name": "Ian Holm"
+            "name": "Ian Holm",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000506/",
-            "name": "Julia Louis-Dreyfus"
+            "name": "Julia Louis-Dreyfus",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000566/",
+            "name": "Julia Ormond",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000592/",
+            "name": "Pete Postlethwaite",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000592/",
+            "name": "Pete Postlethwaite",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0006890/",
+            "name": "Paul Scofield",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001772/",
+            "name": "Patrick Stewart",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001811/",
+            "name": "Peter Ustinov",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0822157/",
+            "name": "Alan Stanford",
+            "@type": "Person"
         }
     ],
-    "critic": 8,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ2Mjg4ZjYtYzNhOS00MDcyLTk3YTctMTM4MzdmYmE4YzA3XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/vFQo4DdhgHBr0Jy06VpzCYaZaPI.jpg",
     "details": {
+        "Stars": [
+            "Kelsey Grammer",
+            "Ian Holm",
+            "Julia Louis-Dreyfus"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "Writer": [
+            "George Orwell",
+            "Alan Janes",
+            "Martyn Burke"
+        ],
+        "Runtime": [
+            "91 min"
+        ],
+        "Director": [
+            "John Stephenson"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "October 3, 1999 (United States)"
+            "1999-10-03"
         ],
-        "Also known as": [
-            "Колгосп тварин"
-        ],
-        "Filming locations": [
-            "Luggala Estate, County Wicklow, Ireland"
-        ],
-        "Countries of origin": [
+        "Country of origin": [
             "United Kingdom",
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
             "Animal Farm Productions Ltd.",
-            "Hallmark Entertainment",
-            "TNT"
+            "Turner Network Television",
+            "Halcyon Studios"
         ]
     },
-    "reviews": 99,
+    "reviews": 0,
+    "tagline": "Four legs good. Two legs bad.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0000567/",
-            "name": "George Orwell"
+            "name": "George Orwell",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0417465/",
-            "name": "Alan Janes"
+            "name": "Alan Janes",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0121789/",
-            "name": "Martyn Burke"
+            "name": "Martyn Burke",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H31M",
     "keywords": [
-        "satire comedy",
-        "cow",
         "farm",
+        "right and justice",
+        "corruption",
+        "based on novel or book",
         "pig",
-        "communism"
+        "revolution",
+        "battle for power",
+        "theory",
+        "thinking",
+        "constitution",
+        "russian revolution (1917)",
+        "communism",
+        "stalinism",
+        "animatronic",
+        "power abuse"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0827268/",
-            "name": "John Stephenson"
+            "name": "John Stephenson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0204824/",
     "metascore": null,
-    "imdb_votes": 6767,
+    "imdb_votes": 7065,
     "popularity": 0,
-    "description": "The animals of a farm successfully revolt against its human owner, only to slide into a more brutal tyranny amongst themselves.",
-    "imdb_rating": "6/10 from 6767 users",
-    "release_date": [],
-    "contentRating": "PG",
+    "description": "Animals on a farm lead a revolution against the farmers to put their destiny in their own hands. However this revolution eats their own children and they cannot avoid corruption.",
+    "imdb_rating": "6.0/10 from 7065 users",
+    "release_date": [
+        {
+            "date": "2004-11-01",
+            "country": "Australia"
+        },
+        {
+            "date": "2000-02-20",
+            "country": "Germany"
+        },
+        {
+            "date": "2000-06-05",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "1999-10-03",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1999-10-03",
-    "imdb_rating_average": 6,
-    "update_at": "2025-08-24T08:28:06"
+    "original_title": "Animal Farm",
+    "imdb_rating_average": 6.0,
+    "update_at": "2026-10-25T23:49:19"
 }

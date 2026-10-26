@@ -7,79 +7,143 @@
     "@type": "Movie",
     "genre": [
         "Comedy",
-        "Romance",
-        "Drama"
+        "Drama",
+        "Romance"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0003123/",
-            "name": "Dolores Del Río"
+            "name": "Dolores Del Río",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0140504/",
-            "name": "Leo Carrillo"
+            "name": "Leo Carrillo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0287988/",
-            "name": "Norman Foster"
+            "name": "Norman Foster",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0276354/",
+            "name": "Stanley Fields",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0132955/",
+            "name": "Frank Campeau",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0322319/",
+            "name": "Lucile Gleason",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0408433/",
+            "name": "Ralph Ince",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0007215/",
+            "name": "King Baggot",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0156745/",
+            "name": "Lita Chevret",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0301908/",
+            "name": "Roberta Gale",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2MzNGQ5ZjctZTQxYi00ZmRiLWE1YTktYjYzYmM2YjljMjBiXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/ugQtHNsefdSAHX7jnraSoWm81TU.jpg",
     "details": {
+        "Stars": [
+            "Dolores Del Río",
+            "Leo Carrillo",
+            "Norman Foster"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Willard Mack",
+            "Gerald Beaumont",
+            "Elizabeth Meehan"
+        ],
+        "Runtime": [
+            "78 min"
+        ],
+        "Director": [
+            "Herbert Brenon"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 15, 1932 (United States)"
-        ],
-        "Also known as": [
-            "The Dove"
+            "1932-01-15"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "RKO Studios - 780 N. Gower Street, Hollywood, Los Angeles, California, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "RKO Radio Pictures"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": "Tostado, the mighty! ...Dolores, the dancer-scorning, flouting, outwitting the best caballero in all Mexico!",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0533102/",
-            "name": "Willard Mack"
+            "name": "Willard Mack",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0064595/",
-            "name": "Gerald Beaumont"
+            "name": "Gerald Beaumont",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0576035/",
-            "name": "Elizabeth Meehan"
+            "name": "Elizabeth Meehan",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H18M",
     "keywords": [
-        "based on play"
+        "cabaret dancer"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0107543/",
-            "name": "Herbert Brenon"
+            "name": "Herbert Brenon",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0022943/",
     "metascore": null,
-    "imdb_votes": 35,
+    "imdb_votes": 37,
     "popularity": 0,
-    "description": "In Mexicana, Mexico, just over the American border, Dolores, a beautiful cafe singer called &quot;The Dove,&quot; attracts the attention of the very rich Don Jose Maria Lopez y Tostado, who brags to her that he is &quot;the best cabarello in all...",
-    "imdb_rating": "5.8/10 from 35 users",
-    "release_date": [],
-    "contentRating": null,
+    "description": "A café dancer bluffs a Mexican landowner to save her lover.",
+    "imdb_rating": "5.4/10 from 37 users",
+    "release_date": [
+        {
+            "date": "1932-01-15",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "1932-01-15",
-    "imdb_rating_average": 5.8,
-    "update_at": "2025-09-18T18:13:09"
+    "original_title": "Girl of the Rio",
+    "imdb_rating_average": 5.4,
+    "update_at": "2026-10-25T10:49:23"
 }

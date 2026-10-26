@@ -3,8 +3,8 @@
     "sid": "tt8850910",
     "name": "Ticho! Ticho! Ticho!",
     "site": "imdb",
-    "year": "1962",
-    "@type": "Movie",
+    "year": "1963",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Music"
@@ -12,55 +12,107 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0513795/",
-            "name": "Lubomír Lipský"
+            "name": "Lubomír Lipský",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1531601/",
-            "name": "Aja Farkacová"
+            "name": "Aja Farkacová",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0529756/",
-            "name": "Jirí Lír"
+            "name": "Jiří Lír",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0092008/",
+            "name": "Jiřina Bohdalová",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0361567/",
+            "name": "Jirí Hanzl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0683316/",
+            "name": "Eva Pilarová",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0250551/",
+            "name": "Karel Effa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0381228/",
+            "name": "Juraj Herz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0998979/",
+            "name": "Jirí Lukes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3057480/",
+            "name": "Marcela Batková",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Lubomír Lipský",
+            "Aja Farkacová",
+            "Jiří Lír"
+        ],
+        "Genres": [
+            "Comedy",
+            "Music"
+        ],
+        "Writer": [
+            "Boris Moravec"
+        ],
+        "Runtime": [
+            "37 min"
+        ],
+        "Director": [
+            "Boris Moravec"
+        ],
         "Language": [
             "Czech"
         ],
         "Release date": [
-            "December 31, 1962 (Czechoslovakia)"
-        ],
-        "Also known as": [
-            "Ruhe, Ruhe, Ruhe!"
+            "1963-05-14"
         ],
         "Country of origin": [
             "Czechoslovakia"
         ],
-        "Production company": [
-            "Ceskoslovenská Televize"
+        "Production companies": [
+            "Československá televize Praha"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0603169/",
-            "name": "Boris Moravec"
+            "name": "Boris Moravec",
+            "@type": "Person"
         }
     ],
     "duration": "PT37M",
     "keywords": [
-        "repetition in title",
-        "three word title",
-        "hospital",
-        "cemetery",
-        "insomnia"
+        "aftercreditsstinger"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0603169/",
-            "name": "Boris Moravec"
+            "name": "Boris Moravec",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt8850910/",
@@ -69,9 +121,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1963-05-14",
+            "country": "Czechoslovakia"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1962-12-31",
+    "datePublished": "1963-05-14",
+    "original_title": "Ticho! Ticho! Ticho!",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-01T13:00:31"
+    "update_at": "2026-10-25T23:56:07"
 }

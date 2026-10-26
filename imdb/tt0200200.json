@@ -4,45 +4,96 @@
     "name": "Taustan Mikon kotiinpaluu",
     "site": "imdb",
     "year": "1999",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm1293158/",
+            "name": "Veikko Kotavuopio",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1293157/",
+            "name": "Eeva Kotavuopio",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1292182/",
+            "name": "Arsi Filppa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0973843/",
+            "name": "Voitto Stoor",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0435088/",
+            "name": "Martti Kainulainen",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Finnish"
+        "Stars": [
+            "Veikko Kotavuopio",
+            "Eeva Kotavuopio",
+            "Arsi Filppa"
+        ],
+        "Writer": [
+            "Erno Paasilinna",
+            "Rauni Mollberg",
+            "Mikko Tenhunen"
+        ],
+        "Runtime": [
+            "28 min"
+        ],
+        "Director": [
+            "Rauni Mollberg"
         ],
         "Release date": [
-            "October 19, 1999 (Finland)"
-        ],
-        "Also known as": [
-            "Taustas Mikko återvänder hem"
-        ],
-        "Country of origin": [
-            "Finland"
-        ],
-        "Production companies": [
-            "YLE TV2",
-            "Suomen Elokuvasäätiö",
-            "Audiovisuaalisen Kulttuurin Edistämiskeskus (AVEK)"
+            "1999"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0654985/",
+            "name": "Erno Paasilinna",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0597001/",
+            "name": "Rauni Mollberg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0855012/",
+            "name": "Mikko Tenhunen",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT28M",
-    "keywords": [
-        "sequel",
-        "based on book"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0597001/",
+            "name": "Rauni Mollberg",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0200200/",
     "metascore": null,
-    "imdb_votes": 5,
+    "imdb_votes": 6,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "7.8/10 from 5 users",
+    "imdb_rating": "6.7/10 from 6 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1999-10-19",
-    "imdb_rating_average": 7.8,
-    "update_at": "2025-11-21T13:22:02"
+    "datePublished": "1999",
+    "original_title": "Taustan Mikon kotiinpaluu",
+    "imdb_rating_average": 6.7,
+    "update_at": "2026-10-25T10:07:13"
 }

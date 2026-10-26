@@ -4,43 +4,104 @@
     "name": "Le tableau",
     "site": "imdb",
     "year": "2013",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0746028/",
+            "name": "Thérèse Roussel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0675525/",
+            "name": "Fred Personne",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0148996/",
+            "name": "Pascal Cervo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0746019/",
+            "name": "Mireille Roussel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0668184/",
+            "name": "Alain Payen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2265343/",
+            "name": "Louison Bergman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5487541/",
+            "name": "Ilian Bergala",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDY2MWMyMjgtMGRmYS00ZTI0LWIyZjItYWRiOTFiNWJmYmI0XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/kmY8goNuH5ZGTcsRg6mpbjAOO4V.jpg",
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Thérèse Roussel",
+            "Fred Personne",
+            "Pascal Cervo"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Laurent Achard"
+        ],
+        "Runtime": [
+            "31 min"
+        ],
+        "Director": [
+            "Laurent Achard"
         ],
         "Release date": [
-            "June 6, 2013 (France)"
-        ],
-        "Country of origin": [
-            "France"
-        ],
-        "Production companies": [
-            "Les Films du Worso",
-            "Dragon 8",
-            "Centre national du cinéma et de l'image animée (CNC)"
+            "2013-06-06"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0009765/",
+            "name": "Laurent Achard",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT31M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0009765/",
+            "name": "Laurent Achard",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2979646/",
     "metascore": null,
     "imdb_votes": 11,
     "popularity": 0,
-    "description": null,
+    "description": "In the twilight of their life, Odile and Marcel still love each other. Affected by an incurable disease, Odile must be hospitalized. Feeling the end of Odile so close, the couple decided to commit suicide, so not to be separated. The time of a last Sunday.",
     "imdb_rating": "6.5/10 from 11 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2013-06-06",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2013-06-06",
+    "original_title": "Le tableau",
     "imdb_rating_average": 6.5,
-    "update_at": "2025-12-04T22:21:07"
+    "update_at": "2026-10-25T06:42:35"
 }

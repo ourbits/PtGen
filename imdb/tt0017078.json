@@ -4,82 +4,129 @@
     "name": "Long Fliv the King",
     "site": "imdb",
     "year": "1926",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0153713/",
-            "name": "Charley Chase"
+            "name": "Charley Chase",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001316/",
-            "name": "Oliver Hardy"
+            "name": "Oliver Hardy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0805701/",
-            "name": "Martha Sleeper"
+            "name": "Martha Sleeper",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0203439/",
+            "name": "Max Davidson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0538984/",
+            "name": "Fred Malatesta",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0007539/",
+            "name": "John Aasen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0277583/",
+            "name": "Walter Findon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0319532/",
+            "name": "Helen Gilmore",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmE1M2MyMTYtZWYxOC00MjBlLWE3MWQtNzhlZDhhZWM1MjBlXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/7EVBOpfPVbhjlixn4VEQuvuBkIt.jpg",
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Stars": [
+            "Charley Chase",
+            "Oliver Hardy",
+            "Martha Sleeper"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "H.M. Walker",
+            "Charles Alphin"
+        ],
+        "Runtime": [
+            "22 min"
+        ],
+        "Director": [
+            "Leo McCarey"
+        ],
+        "Language": [
+            "No Language"
         ],
         "Release date": [
-            "June 13, 1926 (United States)"
-        ],
-        "Also known as": [
-            "Vive le roi"
+            "1926-06-13"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Hal Roach Studios"
         ]
     },
-    "reviews": 7,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0907778/",
-            "name": "H.M. Walker"
+            "name": "H.M. Walker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0022440/",
-            "name": "Charles Alphin"
+            "name": "Charles Alphin",
+            "@type": "Person"
         }
     ],
     "duration": "PT22M",
     "keywords": [
-        "jew",
-        "fictional country",
-        "death sentence",
         "princess",
-        "royal guard"
+        "condemned man"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0564970/",
-            "name": "Leo McCarey"
+            "name": "Leo McCarey",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0017078/",
     "metascore": null,
-    "imdb_votes": 202,
+    "imdb_votes": 208,
     "popularity": 0,
-    "description": "A princess must find a husband in 24 hours or forfeit her throne. She quickly marries a condemned man--but the man is pardoned.",
-    "imdb_rating": "6.6/10 from 202 users",
-    "release_date": [],
-    "contentRating": "Passed",
+    "description": "This offbeat comedy from future Hollywood screwball director McCarey is about a princess who must find a husband in 24 hours or forfeit her throne. She quickly marries a condemned man--but the man is pardoned.",
+    "imdb_rating": "6.5/10 from 208 users",
+    "release_date": [
+        {
+            "date": "1926-06-13",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "1926-06-13",
-    "imdb_rating_average": 6.6,
-    "update_at": "2025-08-27T02:26:07"
+    "original_title": "Long Fliv the King",
+    "imdb_rating_average": 6.5,
+    "update_at": "2026-10-25T10:42:16"
 }

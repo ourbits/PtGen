@@ -4,7 +4,8 @@
     "site": "douban_celebrity",
     "roles": [
         "演员",
-        "配音"
+        "配音",
+        "作者"
     ],
     "awards": [],
     "gender": "女",
@@ -15,6 +16,13 @@
     "birth_date": "1935年7月23日",
     "birth_place": "日本,东京",
     "last_movies": [
+        {
+            "id": 38595737,
+            "year": "2005",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2934863267.jpg",
+            "title": "检事 霞夕子25 给心爱的人",
+            "release": 1
+        },
         {
             "id": 37114083,
             "year": "2006",
@@ -53,7 +61,7 @@
         {
             "id": 5165193,
             "year": "2006",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "cover": "https://asset.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "出張料理人 ～最後の晩餐届けます～",
             "release": 1
         },
@@ -69,13 +77,6 @@
             "year": "2006",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2905345651.jpg",
             "title": "温泉大作战3",
-            "release": 1
-        },
-        {
-            "id": 3268273,
-            "year": "2005",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2910217224.jpg",
-            "title": "温泉大作战2",
             "release": 1
         },
         {
@@ -102,5 +103,5 @@
         }
     ],
     "name_more_other": [],
-    "update_at": "2025-06-29T07:07:18"
+    "update_at": "2026-10-25T07:42:17"
 }

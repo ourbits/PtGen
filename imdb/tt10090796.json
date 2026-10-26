@@ -1,72 +1,164 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Game of Thrones: The Last Watch",
+            "country": "United Kingdom"
+        },
+        {
+            "title": "Game of Thrones The Last Watch",
+            "country": "United States of America"
+        },
+        {
+            "title": "The Last Watch",
+            "country": "United States of America"
+        }
+    ],
     "sid": "tt10090796",
     "name": "Game of Thrones: The Last Watch",
     "site": "imdb",
     "year": "2019",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0018552/",
-            "name": "Kevin Alexander"
+            "name": "Kevin Alexander",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0654295/",
-            "name": "Alfie Allen"
+            "name": "Alfie Allen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2760664/",
-            "name": "Jacob Anderson"
+            "name": "Jacob Anderson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2167445/",
+            "name": "Gethin Anthony",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1561982/",
+            "name": "Pilou Asbæk",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1023931/",
+            "name": "Candice Banks",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4430828/",
+            "name": "Luke Barnes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000293/",
+            "name": "Sean Bean",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1125275/",
+            "name": "David Benioff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5485781/",
+            "name": "Hafþór Júlíus Björnsson",
+            "@type": "Person"
         }
     ],
-    "critic": 8,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTQ2NThlNGItMzEzMi00Zjk1LWFmZTAtNTJmMTkxMDQzNTE5XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/tVyKpOYDtKzs4SOYCbZn4YNFWHI.jpg",
     "details": {
+        "Stars": [
+            "Kevin Alexander",
+            "Alfie Allen",
+            "Jacob Anderson"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Runtime": [
+            "114 min"
+        ],
+        "Director": [
+            "Jeanie Finlay"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 26, 2019 (United States)"
-        ],
-        "Also known as": [
-            "Гра престолів: Остання варта"
+            "2019-05-26"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
-            "Glimmer Films",
-            "Home Box Office (HBO)"
+            "HBO",
+            "Glimmer Films"
         ]
     },
-    "reviews": 78,
+    "reviews": 0,
+    "tagline": "A farewell to Westeros with the people who built the realm",
     "creators": [],
     "duration": "PT1H54M",
     "keywords": [
         "behind the scenes",
-        "retrospective",
-        "reminiscence",
+        "filmmaking",
         "making of",
-        "clip show"
+        "documentary filmmaking",
+        "creative process",
+        "teamwork",
+        "content creators"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1420141/",
-            "name": "Jeanie Finlay"
+            "name": "Jeanie Finlay",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt10090796/",
     "metascore": null,
-    "imdb_votes": 6932,
+    "imdb_votes": 7080,
     "popularity": 0,
-    "description": "Chronicles the creation of Game of Thrones (2011)&apos;s final season, its most ambitious and complicated one.",
-    "imdb_rating": "7.1/10 from 6932 users",
-    "release_date": [],
-    "contentRating": "TV-MA",
+    "description": "For a year, acclaimed British filmmaker Jeanie Finlay was embedded on the set of the hit HBO series “Game of Thrones,” chronicling the creation of the show’s most ambitious and complicated season.  Debuting one week after the series 8 finale, GAME OF THRONES: THE LAST WATCH delves deep into the mud and blood to reveal the tears and triumphs involved in the challenge of bringing the fantasy world of Westeros to life in the very real studios, fields and car-parks of Northern Ireland.  Made with unprecedented access, GAME OF THRONES: THE LAST WATCH is an up-close and personal portrait from the trenches of production, following the crew and the cast as they contend with extreme weather, punishing deadlines and an ever-excited fandom hungry for spoilers.  Much more than a “making of” documentary, this is a funny, heartbreaking story, told with wit and intimacy, about the bittersweet pleasures of what it means to create a world – and then have to say goodbye to it.",
+    "imdb_rating": "7.1/10 from 7080 users",
+    "release_date": [
+        {
+            "date": "2019-05-27",
+            "country": "Germany"
+        },
+        {
+            "date": "2019-05-27",
+            "country": "Finland"
+        },
+        {
+            "date": "2019-05-27",
+            "country": "France"
+        },
+        {
+            "date": "2019-06-03",
+            "country": "Italy"
+        },
+        {
+            "date": "2019-05-26",
+            "country": "Romania"
+        },
+        {
+            "date": "2019-05-26",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2019-05-26",
+    "original_title": "Game of Thrones: The Last Watch",
     "imdb_rating_average": 7.1,
-    "update_at": "2026-02-11T06:35:41"
+    "update_at": "2026-10-25T16:21:20"
 }

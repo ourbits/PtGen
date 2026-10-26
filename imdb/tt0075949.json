@@ -1,10 +1,27 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Kutya és macska",
+            "country": "Hungary"
+        },
+        {
+            "title": "女刑事JJケーン",
+            "country": "Japan"
+        },
+        {
+            "title": "Como perro y gato",
+            "country": "Peru"
+        },
+        {
+            "title": "İt və Pişik",
+            "country": "Azerbaijan"
+        }
+    ],
     "sid": "tt0075949",
     "name": "Dog and Cat",
     "site": "imdb",
     "year": "1977",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Action",
         "Crime",
@@ -13,31 +30,87 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0031398/",
-            "name": "Lou Antonio"
+            "name": "Lou Antonio",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000107/",
-            "name": "Kim Basinger"
+            "name": "Kim Basinger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0164273/",
-            "name": "Matt Clark"
+            "name": "Matt Clark",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0162541/",
+            "name": "Charles Cioffi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0528433/",
+            "name": "Richard Lynch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0732256/",
+            "name": "Dale Robinette",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0049928/",
+            "name": "Janit Baldwin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0779178/",
+            "name": "Geoffrey Scott",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0940683/",
+            "name": "Lesley Woods",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0071921/",
+            "name": "Matt Bennett",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWM5ZjAwODItNWZhZS00ODI1LWFiZTYtZmMyMjNkZmZiYTY2XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/f6Zkb16agOP0AOPzZBU5CZrAowh.jpg",
     "details": {
+        "Stars": [
+            "Lou Antonio",
+            "Kim Basinger",
+            "Matt Clark"
+        ],
+        "Genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "Heywood Gould",
+            "Tom Greene",
+            "Walter Hill"
+        ],
+        "Runtime": [
+            "74 min"
+        ],
+        "Director": [
+            "Bob Kelljan"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "July 22, 1977 (United States)"
-        ],
-        "Also known as": [
-            "Como perro y gato"
+            "1977-07-22"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
             "Largo Productions",
@@ -45,43 +118,63 @@
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0332392/",
-            "name": "Heywood Gould"
+            "name": "Heywood Gould",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0338936/",
-            "name": "Tom Greene"
+            "name": "Tom Greene",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001353/",
-            "name": "Walter Hill"
+            "name": "Walter Hill",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H14M",
     "keywords": [
-        "death of police officer",
-        "death of partner",
-        "police detective",
-        "rookie cop",
-        "new partner"
+        "gangster",
+        "female detective"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0446059/",
-            "name": "Bob Kelljan"
+            "name": "Bob Kelljan",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0075949/",
     "metascore": null,
-    "imdb_votes": 76,
+    "imdb_votes": 77,
     "popularity": 0,
     "description": "A veteran detective loses his partner in a shooting while they are investigating a gangster who is controlling the local porno rackets. He is stunned to discover that the new partner he is assigned is not only a rookie, but a female.",
-    "imdb_rating": "6.8/10 from 76 users",
-    "release_date": [],
+    "imdb_rating": "6.9/10 from 77 users",
+    "release_date": [
+        {
+            "date": "1981-12-12",
+            "country": "Germany"
+        },
+        {
+            "date": "1987-12-16",
+            "country": "Hungary"
+        },
+        {
+            "date": "1984-06-08",
+            "country": "Peru"
+        },
+        {
+            "date": "1977-07-22",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1977-07-22",
-    "imdb_rating_average": 6.8,
-    "update_at": "2025-05-20T08:52:11"
+    "original_title": "Dog and Cat",
+    "imdb_rating_average": 6.9,
+    "update_at": "2026-10-25T21:49:06"
 }

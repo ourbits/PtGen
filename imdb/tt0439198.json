@@ -11,59 +11,107 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0336842/",
-            "name": "Nadia Gray"
+            "name": "Nadia Gray",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0459778/",
-            "name": "Paul Klinger"
+            "name": "Paul Klinger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0476537/",
-            "name": "Rolf Kutschera"
+            "name": "Rolf Kutschera",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0003585/",
+            "name": "Gustav Knuth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0496596/",
+            "name": "Lotte Ledl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0418079/",
+            "name": "Walter Janssen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0415359/",
+            "name": "Hilde Jaeger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0194450/",
+            "name": "Felix Czerny",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0626909/",
+            "name": "Alfred Neugebauer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0919246/",
+            "name": "Elfie Weissenböck",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDM5NzNhMzAtYTUxYy00ZWM0LTkzMjAtZjEwZDA3ZjNhMjlhXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Nadia Gray",
+            "Paul Klinger",
+            "Rolf Kutschera"
+        ],
+        "Genres": [
+            "Romance"
+        ],
+        "Writer": [
+            "Arthur-Heinz Lehmann",
+            "Theodor Ottawa"
+        ],
+        "Runtime": [
+            "98 min"
+        ],
+        "Director": [
+            "Hermann Kugelstadt"
         ],
         "Release date": [
-            "August 30, 1956 (West Germany)"
-        ],
-        "Also known as": [
-            "Marika, la belle Hongroise"
+            "1956-08-29"
         ],
         "Country of origin": [
             "Austria"
         ],
-        "Filming locations": [
-            "Atelier Schönbrunn, Vienna, Austria"
-        ],
         "Production companies": [
-            "Österreichische Film GmbH (ÖFA)",
-            "Schönbrunn-Film"
+            "ÖFA-Schönbrunn"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1802675/",
-            "name": "Arthur-Heinz Lehmann"
+            "name": "Arthur-Heinz Lehmann",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0653091/",
-            "name": "Theodor Ottawa"
+            "name": "Theodor Ottawa",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H38M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0473998/",
-            "name": "Hermann Kugelstadt"
+            "name": "Hermann Kugelstadt",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0439198/",
@@ -72,9 +120,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1956-08-29",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1956-08-30",
+    "datePublished": "1956-08-29",
+    "original_title": "Hengst Maestoso Austria",
     "imdb_rating_average": 0,
-    "update_at": "2026-01-08T08:35:36"
+    "update_at": "2026-10-25T17:21:28"
 }

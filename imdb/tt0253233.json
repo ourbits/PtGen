@@ -4,7 +4,7 @@
     "name": "Maman II",
     "site": "imdb",
     "year": "1990",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Romance"
@@ -12,54 +12,102 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0083920/",
-            "name": "Daniela Bisconti"
+            "name": "Daniela Bisconti",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0094531/",
-            "name": "Chris Boni"
+            "name": "Chris Boni",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1278830/",
-            "name": "Graziella Cecchi"
+            "name": "Graziella Cecchi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0196674/",
+            "name": "Denise Daems",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0227639/",
+            "name": "Frank Dingenen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0233503/",
+            "name": "Liliane Dorekens",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0234579/",
+            "name": "Els Dottermans",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0250945/",
+            "name": "Sien Eggers",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0311656/",
+            "name": "Polly Geerts",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0312265/",
+            "name": "Joanna Geldof",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Dutch"
+        "Stars": [
+            "Daniela Bisconti",
+            "Chris Boni",
+            "Graziella Cecchi"
+        ],
+        "Genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "Writer": [
+            "Paul Schellekens",
+            "Ineke Swanevelt"
+        ],
+        "Runtime": [
+            "65 min"
+        ],
+        "Director": [
+            "Frank van Mechelen"
         ],
         "Release date": [
-            "March 18, 1990 (Belgium)"
-        ],
-        "Country of origin": [
-            "Belgium"
-        ],
-        "Production company": [
-            "Belgische Radio en Televisie (BRT)"
+            "1990"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0770754/",
-            "name": "Paul Schellekens"
+            "name": "Paul Schellekens",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0841670/",
-            "name": "Ineke Swanevelt"
+            "name": "Ineke Swanevelt",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H5M",
-    "keywords": [
-        "blackmail",
-        "bachelor",
-        "money"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0575318/",
-            "name": "Frank van Mechelen"
+            "name": "Frank van Mechelen",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0253233/",
@@ -70,7 +118,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1990-03-18",
+    "datePublished": "1990",
+    "original_title": "Maman II",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-16T07:39:07"
+    "update_at": "2026-10-25T16:00:31"
 }

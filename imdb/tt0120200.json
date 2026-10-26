@@ -1,9 +1,31 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Star Quest 2",
+            "country": "United States of America"
+        },
+        {
+            "title": "Star Quest II",
+            "country": "United States of America"
+        },
+        {
+            "title": "Galactic Odyssey",
+            "country": "United States of America"
+        },
+        {
+            "title": "Mind Breakers",
+            "country": "Australia"
+        },
+        {
+            "title": "Mind breakers - illusioni della mente",
+            "country": "Italy"
+        }
+    ],
     "sid": "tt0120200",
     "name": "Starquest II",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1996",
+    "@type": "VideoObject",
     "genre": [
         "Sci-Fi",
         "Thriller"
@@ -11,66 +33,126 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000284/",
-            "name": "Adam Baldwin"
+            "name": "Adam Baldwin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000387/",
-            "name": "Robert Englund"
+            "name": "Robert Englund",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0204523/",
-            "name": "Duane Davis"
+            "name": "Duane Davis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0734649/",
+            "name": "Kate Rodger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0658252/",
+            "name": "Gretchen Palmer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0587673/",
+            "name": "Jeannie Millar",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0414165/",
+            "name": "Jolie Jackunas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0872864/",
+            "name": "Jerry Trimble",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0285768/",
+            "name": "Maria Ford",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0639815/",
+            "name": "Shauna O'Brien",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTg2M2VmZWEtZWFiNy00MDcyLWE4YjEtY2YxZjRlNmQ4MjI3XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/aKgvIIqqnOxcaqOPdi6IfnMHttA.jpg",
     "details": {
+        "Stars": [
+            "Adam Baldwin",
+            "Robert Englund",
+            "Duane Davis"
+        ],
+        "Genres": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "Writer": [
+            "Fred Gallo"
+        ],
+        "Runtime": [
+            "92 min"
+        ],
+        "Director": [
+            "Fred Gallo"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "1996 (United States)"
-        ],
-        "Also known as": [
-            "Galactic Odyssey"
+            "1996-01-01"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
-            "The Pacific Trust"
+        "Production companies": [
+            "The Pacific Trust",
+            "Libra Pictures"
         ]
     },
-    "reviews": 17,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0303030/",
-            "name": "Fred Gallo"
+            "name": "Fred Gallo",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H32M",
     "keywords": [
-        "female nudity",
-        "graphic violence",
-        "gore",
-        "woman on top",
-        "sex scene"
+        "spacecraft",
+        "alien"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0303030/",
-            "name": "Fred Gallo"
+            "name": "Fred Gallo",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0120200/",
     "metascore": null,
     "imdb_votes": 351,
     "popularity": 0,
-    "description": "After a nuclear war, four warriors from Earth awaken on a space ship. Unable to determine what purpose they are there and, above all, who rescued them, panic breaks out. The young scientist Lee and his attractive colleague Susan f...",
+    "description": "After a nuclear war, four warriors from Earth awaken on a space ship. Unable to determine what purpose they are there and, above all, who rescued them, panic breaks out. The young scientist Lee and his attractive colleague Susan face the killer aliens in a bitter struggle for the survival of mankind.",
     "imdb_rating": "2.5/10 from 351 users",
-    "release_date": [],
-    "contentRating": "R",
-    "datePublished": null,
+    "release_date": [
+        {
+            "date": "1996-01-01",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1996-01-01",
+    "original_title": "Starquest II",
     "imdb_rating_average": 2.5,
-    "update_at": "2025-09-06T11:35:40"
+    "update_at": "2026-10-25T11:07:08"
 }
