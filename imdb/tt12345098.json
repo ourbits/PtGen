@@ -1,68 +1,87 @@
 {
     "aka": [],
     "sid": "tt12345098",
-    "name": "Özek",
+    "name": "Deer",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2020",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm7895061/",
-            "name": "Barna Bokor"
+            "name": "Barna Bokor",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm11590770/",
-            "name": "Andrea Varga"
+            "name": "Andrea Varga",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm7954177/",
-            "name": "David Yengibarian"
+            "name": "David Yengibarian",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11007436/",
+            "name": "Sára Törley-Havas",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTg0NWUyNmEtNzA1Yi00MThiLWI3ZGUtNjgyNDExZjVkNjI3XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "Hungarian"
+        "Stars": [
+            "Barna Bokor",
+            "Andrea Varga",
+            "David Yengibarian"
         ],
-        "Also known as": [
-            "Özek"
+        "Genres": [
+            "Short"
         ],
-        "Country of origin": [
-            "Hungary"
+        "Writer": [
+            "István Hevesi"
         ],
-        "Production company": [
-            "Budapest Film Produkciós"
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "István Hevesi"
+        ],
+        "Release date": [
+            "2020"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm6126663/",
-            "name": "István Hevesi"
+            "name": "István Hevesi",
+            "@type": "Person"
         }
     ],
     "duration": "PT12M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm6126663/",
-            "name": "István Hevesi"
+            "name": "István Hevesi",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt12345098/",
     "metascore": null,
-    "imdb_votes": 14,
+    "imdb_votes": 13,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "4.2/10 from 14 users",
+    "imdb_rating": "4.2/10 from 13 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2020",
+    "original_title": "Özek",
     "imdb_rating_average": 4.2,
-    "update_at": "2025-07-09T15:26:18"
+    "update_at": "2026-10-26T21:21:21"
 }

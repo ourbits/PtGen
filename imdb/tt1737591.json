@@ -1,80 +1,148 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Легенда о динозаврах",
+            "country": "Russia"
+        },
+        {
+            "title": "The Great Dinosaur Escape",
+            "country": "United States of America"
+        },
+        {
+            "title": "El viaje de los dinosaurios",
+            "country": "Spain"
+        },
+        {
+            "title": "A nagy dínóvándorlás",
+            "country": "Hungary"
+        },
+        {
+            "title": "La Grande Marche des dinosaures",
+            "country": "France"
+        },
+        {
+            "title": "Marsz Dinozaurów",
+            "country": "Poland"
+        }
+    ],
     "sid": "tt1737591",
     "name": "March of the Dinosaurs",
     "site": "imdb",
     "year": "2011",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
-        "Documentary",
         "Animation",
+        "Documentary",
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000410/",
-            "name": "Stephen Fry"
+            "name": "Stephen Fry",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3350437/",
-            "name": "Simon Kerr"
+            "name": "Simon Kerr",
+            "@type": "Person"
         }
     ],
-    "critic": 6,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmFiYTYwZjAtMmMzYy00YTFmLWI0NzQtZDllZjc1ZWM1OTVjXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/8XEoVdYxYosMWGTviC0v8ORPRpW.jpg",
     "details": {
+        "Stars": [
+            "Stephen Fry",
+            "Simon Kerr"
+        ],
+        "Genres": [
+            "Animation",
+            "Documentary",
+            "Drama"
+        ],
+        "Writer": [
+            "Jasper James",
+            "Matthew Thompson"
+        ],
+        "Runtime": [
+            "87 min"
+        ],
+        "Director": [
+            "Matthew Thompson"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "July 7, 2011 (United States)"
+            "2011-04-23"
         ],
-        "Also known as": [
-            "The Great Dinosaur Escape"
-        ],
-        "Countries of origin": [
-            "United Kingdom",
-            "Canada"
+        "Country of origin": [
+            "United Kingdom"
         ],
         "Production companies": [
             "Wide-Eyed Entertainment",
             "Yap Films"
         ]
     },
-    "reviews": 5,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0416583/",
-            "name": "Jasper James"
+            "name": "Jasper James",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1434014/",
-            "name": "Matthew Thompson"
+            "name": "Matthew Thompson",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H27M",
     "keywords": [
-        "vulnerability",
-        "tyrannosaurus rex",
-        "cg animation",
-        "nature documentary",
-        "scar"
+        "dinosaur",
+        "scar",
+        "north america",
+        "edmontosaurus",
+        "feather"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1434014/",
-            "name": "Matthew Thompson"
+            "name": "Matthew Thompson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1737591/",
     "metascore": null,
-    "imdb_votes": 626,
+    "imdb_votes": 650,
     "popularity": 0,
-    "description": "Set 70 million years ago in the Cretaceous period in North America, this animated documentation/drama follows the journey of a young Edmontosaurus named Scar and his herd as they migrate south for the winter. This film depicts rec...",
-    "imdb_rating": "6.5/10 from 626 users",
-    "release_date": [],
+    "description": "Set 70 million years ago in the Cretaceous period in North America, this animated docu/drama follows the journey of a young Edmontosaurus named Scar and his herd as they migrate south for the winter. This film depicts recent findings about Dinosaurs, such as Tyrannosaurs with feathers.",
+    "imdb_rating": "6.5/10 from 650 users",
+    "release_date": [
+        {
+            "date": "2011-08-04",
+            "country": "Australia"
+        },
+        {
+            "date": "2011-04-25",
+            "country": "Canada"
+        },
+        {
+            "date": "2011-08-21",
+            "country": "France"
+        },
+        {
+            "date": "2011-04-23",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "2011-07-07",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2011-07-07",
+    "datePublished": "2011-04-23",
+    "original_title": "March of the Dinosaurs",
     "imdb_rating_average": 6.5,
-    "update_at": "2026-02-23T12:14:38"
+    "update_at": "2026-10-26T03:42:09"
 }

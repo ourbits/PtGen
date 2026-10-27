@@ -4,64 +4,103 @@
     "name": "Sígueme",
     "site": "imdb",
     "year": "2011",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm4716590/",
-            "name": "Jacinto Bobo"
+            "name": "Jacinto Bobo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm11593437/",
-            "name": "Daniel Enríquez"
+            "name": "Daniel Enríquez",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5105262/",
-            "name": "May Melero"
+            "name": "May Melero",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm9381502/",
+            "name": "Alejandro Durán",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTIyMzRjMDYtNzhjYy00MDkwLTg0NGUtZDA1MDQ2ZmYxNGNmXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/wrel0Q5JqygtCiSqnEn9UlLGBNe.jpg",
     "details": {
+        "Stars": [
+            "Jacinto Bobo",
+            "Daniel Enríquez",
+            "May Melero"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Alejandro Durán"
+        ],
+        "Runtime": [
+            "13 min"
+        ],
+        "Director": [
+            "Alejandro Durán"
+        ],
         "Language": [
             "Spanish"
         ],
         "Release date": [
-            "November 1, 2011 (Spain)"
+            "2011-11-01"
         ],
         "Country of origin": [
             "Spain"
+        ],
+        "Production companies": [
+            "Das Tier Producciones"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm9381502/",
-            "name": "Alejandro Durán"
+            "name": "Alejandro Durán",
+            "@type": "Person"
         }
     ],
     "duration": "PT13M",
     "keywords": [
-        ""
+        "gay theme",
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm9381502/",
-            "name": "Alejandro Durán"
+            "name": "Alejandro Durán",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt11709372/",
     "metascore": null,
-    "imdb_votes": 21,
+    "imdb_votes": 23,
     "popularity": 0,
-    "description": "A seemingly ordinary afternoon down by the windy beach changes everything for Rubén when he encounters Paco, something Rubén&apos;s wife Julia appears to sense immediately upon his return. What will become of their love, and to the new...",
-    "imdb_rating": "6.6/10 from 21 users",
-    "release_date": [],
+    "description": "Rubén rides the familiar path down to the beach. Today he'd decided to grab his bike to enjoy the sea air, something he can't do everyday. What Rubén doesn't know is what will soon be unchained by an encounter behind the rocks with a man named Paco.",
+    "imdb_rating": "6.5/10 from 23 users",
+    "release_date": [
+        {
+            "date": "2011-11-01",
+            "country": "Spain"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2011-11-01",
-    "imdb_rating_average": 6.6,
-    "update_at": "2025-06-20T12:13:04"
+    "original_title": "Sígueme",
+    "imdb_rating_average": 6.5,
+    "update_at": "2026-10-26T16:07:17"
 }

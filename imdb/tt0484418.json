@@ -4,7 +4,7 @@
     "name": "Don Carlos",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Music"
@@ -12,75 +12,137 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0587045/",
-            "name": "Alastair Miles"
+            "name": "Alastair Miles",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0889900/",
-            "name": "Ramón Vargas"
+            "name": "Ramón Vargas",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0804796/",
-            "name": "Bo Skovhus"
+            "name": "Bo Skovhus",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2070182/",
+            "name": "Simon Yang",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2071802/",
+            "name": "Dan Paul Dumitrescu",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2064519/",
+            "name": "Iano Tamar",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1534269/",
+            "name": "Nadja Michael",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2072146/",
+            "name": "Cornelia Salje",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1897435/",
+            "name": "Benedict Kobel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2065669/",
+            "name": "Cosmin Ifrim",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODkwODYzOTE0M15BMl5BanBnXkFtZTcwNTg1NTI4Mg@@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Alastair Miles",
+            "Ramón Vargas",
+            "Bo Skovhus"
+        ],
+        "Genres": [
+            "Drama",
+            "Music"
+        ],
+        "Writer": [
+            "Camille du Locle",
+            "François Joseph Méry",
+            "Friedrich Schiller"
+        ],
+        "Runtime": [
+            "180 min"
+        ],
+        "Director": [
+            "Anton Reitzenstein"
+        ],
         "Language": [
-            "French"
+            "Italian"
         ],
         "Release date": [
-            "June 18, 2005 (Germany)"
+            "2005-01-01"
         ],
         "Country of origin": [
-            "Austria"
-        ],
-        "Filming locations": [
-            "Staatsoper, Vienna, Austria"
+            "Germany"
         ],
         "Production companies": [
-            "Österreichischer Rundfunk (ORF)",
-            "3Sat"
+            "ORF"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0238890/",
-            "name": "Camille du Locle"
+            "name": "Camille du Locle",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0617750/",
-            "name": "François Joseph Méry"
+            "name": "François Joseph Méry",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0771646/",
-            "name": "Friedrich Schiller"
+            "name": "Friedrich Schiller",
+            "@type": "Person"
         }
     ],
     "duration": "PT3H",
     "keywords": [
-        "spain",
-        "queen",
         "opera",
-        "live performance",
-        "french opera"
+        "verdi"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0718690/",
-            "name": "Anton Reitzenstein"
+            "name": "Anton Reitzenstein",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0484418/",
     "metascore": null,
     "imdb_votes": 12,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "8/10 from 12 users",
-    "release_date": [],
+    "description": "Politics and love leads to a love triangle between father, son and stepmother.",
+    "imdb_rating": "7.8/10 from 12 users",
+    "release_date": [
+        {
+            "date": "2005-01-01",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2005-06-18",
-    "imdb_rating_average": 8,
-    "update_at": "2025-07-01T03:26:38"
+    "datePublished": "2005-01-01",
+    "original_title": "Don Carlos",
+    "imdb_rating_average": 7.8,
+    "update_at": "2026-10-26T03:00:29"
 }

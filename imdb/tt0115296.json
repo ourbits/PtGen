@@ -4,73 +4,128 @@
     "name": "Nostromo",
     "site": "imdb",
     "year": "1997",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001133/",
-            "name": "Brian Dennehy"
+            "name": "Brian Dennehy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001215/",
-            "name": "Albert Finney"
+            "name": "Albert Finney",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000147/",
-            "name": "Colin Firth"
+            "name": "Colin Firth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0260348/",
+            "name": "Roberto Escobar",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0300282/",
+            "name": "Ruth Gabriel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0383779/",
+            "name": "Fernando Hilbeck",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005583/",
+            "name": "Serena Scott Thomas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0059879/",
+            "name": "Salvatore Basile",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0120753/",
+            "name": "Xavier Burbano",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0246787/",
+            "name": "Emiliano Díez",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTM0MjI5Mjk0MF5BMl5BanBnXkFtZTcwNDAxNDcxMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/9KJyPpDlrosf5buwPB4bLpGYA5a.jpg",
     "details": {
+        "Stars": [
+            "Brian Dennehy",
+            "Albert Finney",
+            "Colin Firth"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Joseph Conrad",
+            "John Hale"
+        ],
+        "Director": [
+            "Alastair Reid"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 5, 1997 (United States)"
-        ],
-        "Also known as": [
-            "Nostromo - Der Schatz in den Bergen"
-        ],
-        "Official site": [
-            "PBS (United States) - http://www.pbs.org/wgbh/masterpiece/archive/programs/nostromo/index.html"
-        ],
-        "Filming locations": [
-            "Cartagena, Bolívar, Colombia"
-        ],
-        "Countries of origin": [
-            "United Kingdom",
-            "Italy",
-            "Spain",
-            "United States"
+            "1997-01-05"
         ],
         "Production companies": [
-            "Prixit",
-            "British Broadcasting Corporation (BBC)",
-            "RAI Radiotelevisione Italiana"
+            "BBC",
+            "GBH",
+            "RAI",
+            "TVE"
         ]
     },
-    "reviews": 6,
-    "creators": [],
-    "duration": null,
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0175676/",
+            "name": "Joseph Conrad",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0354942/",
+            "name": "John Hale",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT55M",
     "keywords": [
-        "tv mini series",
-        "suicide",
-        "gatling gun",
-        "garrote",
-        "fortress"
+        "miniseries"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0717154/",
+            "name": "Alastair Reid",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0115296/",
     "metascore": null,
-    "imdb_votes": 294,
+    "imdb_votes": 298,
     "popularity": 0,
-    "description": "In an unstable South American country, Nostromo, trusted and legendary among peers, is ordered to secure a silver shipment. But even the bravest can be foolish.",
-    "imdb_rating": "6.5/10 from 294 users",
+    "description": "In an unstable South American country, capable Nostromo, a person of trust and a legend among his shipmates, is ordered to secure a shipment of gold and stop any revolutionaries who might try to take it. But even the bravest can be foolish.",
+    "imdb_rating": "6.5/10 from 298 users",
     "release_date": [],
     "contentRating": null,
     "datePublished": "1997-01-05",
+    "original_title": "Nostromo",
     "imdb_rating_average": 6.5,
-    "update_at": "2025-08-14T20:21:32"
+    "update_at": "2026-10-26T16:21:09"
 }

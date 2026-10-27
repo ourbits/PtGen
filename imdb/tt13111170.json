@@ -3,7 +3,7 @@
     "sid": "tt13111170",
     "name": "Runner",
     "site": "imdb",
-    "year": "2024",
+    "year": "2023",
     "@type": "Movie",
     "genre": [
         "Drama"
@@ -11,66 +11,115 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0428122/",
-            "name": "Gene Jones"
-        },
-        {
-            "url": "https://www.imdb.com/name/nm0252114/",
-            "name": "Jonathan Erickson Eisley"
+            "name": "Gene Jones",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm6412267/",
-            "name": "Hannah Schiller"
+            "name": "Hannah Schiller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0252114/",
+            "name": "Jonathan Erickson Eisley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10122443/",
+            "name": "Mia Siffin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm16449274/",
+            "name": "Dolce",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm14253860/",
+            "name": "Darren Houle",
+            "@type": "Person"
         }
     ],
-    "critic": 6,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDdlZGVmMTgtNDQ1ZC00OGVlLWFiY2MtYjVkN2Q2OTE5MjRlXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/9RQSZDI98BZpIldoudNT8jIxj4I.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Gene Jones",
+            "Hannah Schiller",
+            "Jonathan Erickson Eisley"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Marian Mathias"
+        ],
+        "Runtime": [
+            "76 min"
+        ],
+        "Director": [
+            "Marian Mathias"
         ],
         "Release date": [
-            "January 4, 2024 (Uruguay)"
+            "2023-02-02"
         ],
-        "Also known as": [
-            "荒原少女"
-        ],
-        "Countries of origin": [
-            "United States",
+        "Country of origin": [
             "France",
-            "Germany"
+            "Germany",
+            "United States of America"
         ],
         "Production companies": [
             "Killjoy Films",
+            "Easy Riders Films",
             "Pigasus Pictures",
-            "Easy Riders Films"
+            "Man Alive Productions"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm5653464/",
-            "name": "Marian Mathias"
+            "name": "Marian Mathias",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H16M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm5653464/",
-            "name": "Marian Mathias"
+            "name": "Marian Mathias",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt13111170/",
     "metascore": null,
-    "imdb_votes": 155,
+    "imdb_votes": 167,
     "popularity": 0,
-    "description": "An 18-year-old girl dealing with the sudden death of her father and whose life takes an unexpected turn when she carries out his last wish to be buried in his home town along the Mississippi.",
-    "imdb_rating": "5.3/10 from 155 users",
-    "release_date": [],
+    "description": "Haas is an 18-year-old girl who was raised by her father in the rural Midwest. When her father suddenly dies, she must carry out his wish to be buried in the town where he was born. There, she meets a young man named Will, a lonely, creative soul who is working to support his family back home. The two of them form a friendship that challenges both of their understandings of love and loss.",
+    "imdb_rating": "5.4/10 from 167 users",
+    "release_date": [
+        {
+            "date": "2022-09-16",
+            "country": "Spain"
+        },
+        {
+            "date": "2023-09-07",
+            "country": "France"
+        },
+        {
+            "date": "2023-02-02",
+            "country": "Greece"
+        },
+        {
+            "date": "2022-11-09",
+            "country": "Taiwan"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2024-01-04",
-    "imdb_rating_average": 5.3,
-    "update_at": "2025-06-09T04:00:45"
+    "datePublished": "2023-02-02",
+    "original_title": "Runner",
+    "imdb_rating_average": 5.4,
+    "update_at": "2026-10-26T19:56:06"
 }

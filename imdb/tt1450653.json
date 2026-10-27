@@ -4,61 +4,84 @@
     "name": "Jason Aldean: Wide Open",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "TVSpecial",
     "genre": [
         "Music"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2271332/",
-            "name": "Jason Aldean"
+            "name": "Jason Aldean",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4848283/",
-            "name": "Rich Redmond"
+            "name": "Rich Redmond",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3516101/",
-            "name": "Jessica Ussery"
+            "name": "Jessica Ussery",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNThiNDdiOTQtYzZhMS00NTNiLWFjMzgtYmY3NjgzMGFjZDg1XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/2HTknjLE9AQKYsqBajZ7EVjr01C.jpg",
     "details": {
+        "Stars": [
+            "Jason Aldean",
+            "Rich Redmond",
+            "Jessica Ussery"
+        ],
+        "Genres": [
+            "Music"
+        ],
+        "Runtime": [
+            "65 min"
+        ],
+        "Director": [
+            "Ivan Dudynsky"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "April 7, 2009 (United States)"
+            "2009-04-07"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Enliven Entertainment"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT1H5M",
-    "keywords": [
-        "tv special"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0240211/",
-            "name": "Ivan Dudynsky"
+            "name": "Ivan Dudynsky",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1450653/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "On March 6, 2009, a sold out Knoxville (Tenn.) Coliseum crowd found out what millions of Jason Aldean fans already knew: he&apos;s a rising star and a damn fine entertainer. The concert was lights out and over-the-top. Those lucky enou...",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "release_date": [
+        {
+            "date": "2009-04-07",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2009-04-07",
+    "original_title": "Jason Aldean: Wide Open",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-24T05:14:13"
+    "update_at": "2026-10-26T13:56:16"
 }

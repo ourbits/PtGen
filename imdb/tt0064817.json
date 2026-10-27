@@ -4,74 +4,136 @@
     "name": "Pistolen-Jenny",
     "site": "imdb",
     "year": "1969",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
-        "Music"
+        "Music",
+        "Western"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0003813/",
-            "name": "Liselotte Pulver"
+            "name": "Liselotte Pulver",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0772692/",
-            "name": "Helmut Schmid"
+            "name": "Helmut Schmid",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0115633/",
-            "name": "Birke Bruck"
+            "name": "Birke Bruck",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0712022/",
+            "name": "Siegfried Rauch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0771867/",
+            "name": "Rotraud Schindler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0045736/",
+            "name": "Gus Backus",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0530701/",
+            "name": "Günther Lüders",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0938754/",
+            "name": "Ralf Wolter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0076310/",
+            "name": "Marie Bernard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0892885/",
+            "name": "Albert Venohr",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Liselotte Pulver",
+            "Helmut Schmid",
+            "Birke Bruck"
+        ],
+        "Genres": [
+            "Music",
+            "Western"
+        ],
+        "Writer": [
+            "Alfred Weidenmann",
+            "Ronald Hanmer",
+            "Phil Park"
+        ],
+        "Runtime": [
+            "85 min"
+        ],
+        "Director": [
+            "Alfred Weidenmann"
         ],
         "Release date": [
-            "April 17, 1969 (West Germany)"
+            "1969-04-16"
         ],
         "Country of origin": [
-            "West Germany"
-        ],
-        "Production company": [
-            "CCC Television"
+            "Germany"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0917751/",
-            "name": "Alfred Weidenmann"
+            "name": "Alfred Weidenmann",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0360170/",
-            "name": "Ronald Hanmer"
+            "name": "Ronald Hanmer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0661915/",
-            "name": "Phil Park"
+            "name": "Phil Park",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H25M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0917751/",
-            "name": "Alfred Weidenmann"
+            "name": "Alfred Weidenmann",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0064817/",
     "metascore": null,
-    "imdb_votes": 11,
+    "imdb_votes": 13,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "8.7/10 from 11 users",
-    "release_date": [],
+    "imdb_rating": "8.2/10 from 13 users",
+    "release_date": [
+        {
+            "date": "1969-04-16",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1969-04-17",
-    "imdb_rating_average": 8.7,
-    "update_at": "2025-09-19T08:28:20"
+    "datePublished": "1969-04-16",
+    "original_title": "Pistolen-Jenny",
+    "imdb_rating_average": 8.2,
+    "update_at": "2026-10-27T01:35:06"
 }

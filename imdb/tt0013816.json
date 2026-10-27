@@ -1,63 +1,96 @@
 {
     "aka": [],
     "sid": "tt0013816",
-    "name": "Adam und Eva",
+    "name": "Adam and Eve",
     "site": "imdb",
+    "year": "1923",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Romance"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0470328/",
-            "name": "Werner Krauss"
+            "name": "Werner Krauss",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0785762/",
-            "name": "Dagny Servaes"
+            "name": "Dagny Servaes",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0286993/",
-            "name": "Rudolf Forster"
+            "name": "Rudolf Forster",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0923377/",
+            "name": "Ruth Weyher",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0681620/",
+            "name": "Hermann Picha",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0701569/",
+            "name": "Loni Pyrmont",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0511095/",
+            "name": "Charles Lincoln",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "German"
+        "Stars": [
+            "Werner Krauss",
+            "Dagny Servaes",
+            "Rudolf Forster"
+        ],
+        "Genres": [
+            "Romance"
+        ],
+        "Writer": [
+            "Friedrich Porges"
+        ],
+        "Director": [
+            "Friedrich Porges",
+            "Reinhold Schünzel"
         ],
         "Release date": [
-            "1923 (United States)"
-        ],
-        "Also known as": [
-            "Epigeios paradeisos"
+            "1923-05-22"
         ],
         "Country of origin": [
             "Germany"
-        ],
-        "Production company": [
-            "Gespor-Film"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0691748/",
-            "name": "Friedrich Porges"
+            "name": "Friedrich Porges",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0691748/",
-            "name": "Friedrich Porges"
+            "name": "Friedrich Porges",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0778306/",
-            "name": "Reinhold Schünzel"
+            "name": "Reinhold Schünzel",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0013816/",
@@ -66,9 +99,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1923-05-22",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1923-05-22",
+    "original_title": "Adam und Eva",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-10T22:42:39"
+    "update_at": "2026-10-26T23:00:30"
 }

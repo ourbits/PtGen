@@ -1,10 +1,27 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Hollywood Connection",
+            "country": "Germany"
+        },
+        {
+            "title": "Beverly Hills Connection",
+            "country": "Australia"
+        },
+        {
+            "title": "Beverly Hills Blues",
+            "country": "Netherlands"
+        },
+        {
+            "title": "Enquête à Beverly Hills",
+            "country": "France"
+        }
+    ],
     "sid": "tt0088797",
     "name": "Beverly Hills Cowgirl Blues",
     "site": "imdb",
     "year": "1985",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Thriller"
@@ -12,69 +29,122 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000981/",
-            "name": "James Brolin"
+            "name": "James Brolin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0004998/",
-            "name": "Lisa Hartman"
+            "name": "Lisa Hartman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0376101/",
-            "name": "David Hemmings"
+            "name": "David Hemmings",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0274888/",
+            "name": "Irena Ferris",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0350380/",
+            "name": "Michael C. Gwynne",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0357714/",
+            "name": "Alexa Hamilton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0809031/",
+            "name": "Lane Smith",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0389693/",
+            "name": "Drake Hogestyn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0409691/",
+            "name": "Aharon Ipalé",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0198931/",
+            "name": "John McCook",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWJhZmEzYjItOTVlOS00ZjlhLTk1ZjMtOTgxOTE2OGY0ZDEzXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/q3ew5sA7hRtFjbUgsX9usiR7wEW.jpg",
     "details": {
+        "Stars": [
+            "James Brolin",
+            "Lisa Hartman",
+            "David Hemmings"
+        ],
+        "Genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "Writer": [
+            "Rick Husky"
+        ],
+        "Runtime": [
+            "100 min"
+        ],
+        "Director": [
+            "Corey Allen"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "October 5, 1985 (United States)"
-        ],
-        "Also known as": [
-            "Hollywood Connection"
+            "1985-10-05"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Southern California, California, USA"
-        ],
-        "Production company": [
-            "The Leonard Goldberg Company"
+        "Production companies": [
+            "CBS Entertainment Productions"
         ]
     },
-    "reviews": 5,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0403913/",
-            "name": "Rick Husky"
+            "name": "Rick Husky",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H40M",
-    "keywords": [
-        "wyoming",
-        "police officer",
-        "television movie",
-        "made for tv",
-        "searching for the truth"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0001904/",
-            "name": "Corey Allen"
+            "name": "Corey Allen",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0088797/",
     "metascore": null,
-    "imdb_votes": 139,
+    "imdb_votes": 157,
     "popularity": 0,
-    "description": "A Wyoming cop (Lisa Hartman) teams with a Beverly Hills policeman (James Brolin) to track down the killer of her best friend.",
-    "imdb_rating": "5.4/10 from 139 users",
-    "release_date": [],
+    "description": "A Wyoming cop  teams with a Beverly Hills policeman to track down the killer of her best friend.",
+    "imdb_rating": "5.5/10 from 157 users",
+    "release_date": [
+        {
+            "date": "1985-10-05",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1985-10-05",
-    "imdb_rating_average": 5.4,
-    "update_at": "2025-04-04T15:36:42"
+    "original_title": "Beverly Hills Cowgirl Blues",
+    "imdb_rating_average": 5.5,
+    "update_at": "2026-10-26T07:49:08"
 }

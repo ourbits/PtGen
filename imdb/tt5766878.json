@@ -4,53 +4,72 @@
     "name": "Single Belief",
     "site": "imdb",
     "year": "2016",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0497642/",
-            "name": "Kang-sheng Lee"
+            "name": "Kang-sheng Lee",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/nZ7ro91izZcxvy8x92XGRSkIXuu.jpg",
     "details": {
+        "Stars": [
+            "Kang-sheng Lee"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Kang-sheng Lee"
+        ],
         "Language": [
             "Mandarin"
         ],
         "Release date": [
-            "July 8, 2016 (Taiwan)"
+            "2016-12-01"
         ],
         "Country of origin": [
             "Taiwan"
         ],
-        "Production company": [
+        "Production companies": [
             "Homegreen Films"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT15M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0497642/",
-            "name": "Kang-sheng Lee"
+            "name": "Kang-sheng Lee",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt5766878/",
     "metascore": null,
-    "imdb_votes": 28,
+    "imdb_votes": 31,
     "popularity": 0,
-    "description": "Ximending was once the trendiest area in Taipei, and it&apos;s also where Kang-sheng Lee&apos;s first film was shot. Twenty years ago, director Tsai Ming-liang asked Lee if he wanted to be in his film, and Lee&apos;s answer changed the course of...",
-    "imdb_rating": "7.3/10 from 28 users",
-    "release_date": [],
+    "description": "Ximending was once the trendiest area in Taipei, and it's also where Kang-sheng Lee's first film was shot. Twenty years ago, director Ming-liang Tsai asked Lee if he wanted to be in his film, and Lee's answer changed the course of his own life forever. Now Lee returns to where his career began to shoot a film about himself.",
+    "imdb_rating": "7.1/10 from 31 users",
+    "release_date": [
+        {
+            "date": "2016-12-01",
+            "country": "Taiwan"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2016-07-08",
-    "imdb_rating_average": 7.3,
-    "update_at": "2025-05-06T23:28:55"
+    "datePublished": "2016-12-01",
+    "original_title": "Single Belief",
+    "imdb_rating_average": 7.1,
+    "update_at": "2026-10-26T16:35:07"
 }

@@ -4,48 +4,107 @@
     "name": "Liliu",
     "site": "imdb",
     "year": "2019",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTMxYmUwZTItMDA5Yy00MTQxLWEwMGEtMjJmOTNhNzBmYzIzXkEyXkFqcGc@._V1_.jpg",
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm3947973/",
+            "name": "Peter Hayden",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0676138/",
+            "name": "Uelese Petaia",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm13419591/",
+            "name": "Benjamin Tamanikaiyaroi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2056204/",
+            "name": "Ana Tuisila",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8020987/",
+            "name": "Vito Vito",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/tiIADJyfPYMbyE1nZuM641q4iqQ.jpg",
     "details": {
+        "Stars": [
+            "Peter Hayden",
+            "Uelese Petaia",
+            "Benjamin Tamanikaiyaroi"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Jeremiah Tauamiti"
+        ],
+        "Runtime": [
+            "17 min"
+        ],
+        "Director": [
+            "Jeremiah Tauamiti"
+        ],
         "Language": [
-            "English"
+            "English",
+            "Samoan"
         ],
         "Release date": [
-            "February 13, 2019 (Germany)"
-        ],
-        "Official site": [
-            "Official Facebook - https://www.facebook.com/liliishortfilm/"
+            "2019-02-13"
         ],
         "Country of origin": [
             "New Zealand"
-        ],
-        "Filming locations": [
-            "Samoa"
-        ],
-        "Production company": [
-            "SunPix"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": "A court interpreter is stuck between two worlds. Will he stay true to his sworn duty or follow his heart?",
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm6254882/",
+            "name": "Jeremiah Tauamiti",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT17M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm6254882/",
+            "name": "Jeremiah Tauamiti",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt10553488/",
     "metascore": null,
-    "imdb_votes": 10,
+    "imdb_votes": 11,
     "popularity": 0,
-    "description": "An ambitious court interpreter risks everything when a wrongfully imprisoned Chief fights to get back to her stranded grandchildren.",
-    "imdb_rating": "8.4/10 from 10 users",
-    "release_date": [],
+    "description": "Solo, a young Samoan interpreter entrenched in the colonial court system, is suddenly challenged when the High Chief Nua is called to the stand. Defending the charge of trespassing, Nua illuminates a path of righteousness for the young man.",
+    "imdb_rating": "8.6/10 from 11 users",
+    "release_date": [
+        {
+            "date": "2019-08-10",
+            "country": "Australia"
+        },
+        {
+            "date": "2019-02-13",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2019-02-13",
-    "imdb_rating_average": 8.4,
-    "update_at": "2025-10-27T12:56:16"
+    "original_title": "Liliu",
+    "imdb_rating_average": 8.6,
+    "update_at": "2026-10-26T16:07:08"
 }

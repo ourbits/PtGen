@@ -4,11 +4,13 @@
     "site": "douban_celebrity",
     "roles": [
         "编剧",
-        "制片人",
-        "导演"
+        "导演",
+        "制片人"
     ],
     "awards": [
-        "1982年 第54届奥斯卡金像奖 最佳原创剧本 (提名) 二八佳人花公子"
+        "1982年 第54届奥斯卡金像奖 最佳原创剧本 (提名) 二八佳人花公子",
+        "1982年 第34届美国编剧工会奖 电影奖 最佳喜剧原创剧本 二八佳人花公子",
+        "1981年 第47届纽约影评人协会奖 最佳剧本 (提名) 二八佳人花公子"
     ],
     "gender": "",
     "poster": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
@@ -19,9 +21,16 @@
     "birth_place": "",
     "last_movies": [
         {
+            "id": 38651932,
+            "year": "1980",
+            "cover": "https://asset.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "Good Time Harry",
+            "release": 1
+        },
+        {
             "id": 5055023,
             "year": "1973",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "cover": "https://asset.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
             "title": "Lotsa Luck",
             "release": 1
         },
@@ -62,5 +71,5 @@
     "personage_link": "https://www.douban.com/personage/27513476/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-08-22T05:52:14"
+    "update_at": "2026-10-26T06:14:23"
 }

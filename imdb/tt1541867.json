@@ -4,53 +4,63 @@
     "name": "Listen, Sasha",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3552516/",
-            "name": "Laura Dooling"
+            "name": "Laura Dooling",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1090854/",
-            "name": "Othman Zine"
+            "name": "Othman Zine",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDZhMWI5M2QtNjY3My00YWI3LWFjODctMDAyOTllMzE3MmYyXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Laura Dooling",
+            "Othman Zine"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Olaug Spissøy Kyvik"
+        ],
+        "Runtime": [
+            "6 min"
+        ],
+        "Director": [
+            "Olaug Spissøy Kyvik"
         ],
         "Release date": [
-            "October 1, 2009 (Norway)"
-        ],
-        "Filming locations": [
-            "Prague, Czech Republic"
-        ],
-        "Countries of origin": [
-            "Norway",
-            "Czech Republic"
+            "2009"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3223337/",
-            "name": "Olaug Spissøy Kyvik"
+            "name": "Olaug Spissøy Kyvik",
+            "@type": "Person"
         }
     ],
     "duration": "PT6M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3223337/",
-            "name": "Olaug Spissøy Kyvik"
+            "name": "Olaug Spissøy Kyvik",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1541867/",
@@ -61,7 +71,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2009-10-01",
+    "datePublished": "2009",
+    "original_title": "Listen, Sasha",
     "imdb_rating_average": 0,
-    "update_at": "2025-02-09T16:04:09"
+    "update_at": "2026-10-26T06:28:17"
 }

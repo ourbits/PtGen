@@ -4,49 +4,63 @@
     "name": "The Streak",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Sport"
     ],
+    "actors": [],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzA5OTdiMTAtN2E0OS00ZGMwLWI4NjAtZmZmZjhiYzQyYWIzXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/A3NPFu9gdTCRKNXJfutwT0FjfA8.jpg",
     "details": {
+        "Genres": [
+            "Sport"
+        ],
+        "Director": [
+            "Jonathan Hock"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "April 29, 2008 (United States)"
+            "2008-04-29"
         ],
         "Country of origin": [
-            "United Kingdom"
+            "United States of America"
         ],
         "Production companies": [
+            "Horizon Entertainment",
             "Hock Films",
             "Milojo Productions",
-            "ESPN (Entertainment & Sports Programming Network)"
+            "ESPN"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": "The more you win the more you have to lose.",
     "creators": [],
-    "duration": null,
-    "keywords": [
-        "teen sport"
-    ],
+    "duration": "PT1H35M",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0387890/",
-            "name": "Jonathan Hock"
+            "name": "Jonathan Hock",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1161653/",
     "metascore": null,
     "imdb_votes": 46,
     "popularity": 0,
-    "description": "The story of Florida&apos;s Brandon High School&apos;s wrestling program, which holds the longest winning streak in American sports history with a perfect record of 451-0 record spanning 34 years.",
-    "imdb_rating": "9/10 from 46 users",
-    "release_date": [],
-    "contentRating": null,
+    "description": "The story of Florida's Brandon High School's wrestling program, which holds the longest winning streak in American sports history with a perfect record of 451-0 record spanning 34 years.",
+    "imdb_rating": "9.0/10 from 46 users",
+    "release_date": [
+        {
+            "date": "2008-04-29",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "2008-04-29",
-    "imdb_rating_average": 9,
-    "update_at": "2025-08-22T07:57:06"
+    "original_title": "The Streak",
+    "imdb_rating_average": 9.0,
+    "update_at": "2026-10-26T22:35:17"
 }

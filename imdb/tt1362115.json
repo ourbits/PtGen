@@ -4,75 +4,98 @@
     "name": "A Refugee",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Drama",
+        "Short",
         "War"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3287569/",
-            "name": "Vasu Agrawal"
+            "name": "Vasu Agrawal",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2698970/",
-            "name": "Himad Beg"
+            "name": "Himad Beg",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3239512/",
-            "name": "Nikki Chawla"
+            "name": "Nikki Chawla",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3275606/",
+            "name": "Tania Jain",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3288476/",
+            "name": "Ashar Mairaj",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3287425/",
+            "name": "Sundar Natarajan",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Hindi"
+        "Stars": [
+            "Vasu Agrawal",
+            "Himad Beg",
+            "Nikki Chawla"
+        ],
+        "Genres": [
+            "Drama",
+            "Short",
+            "War"
+        ],
+        "Writer": [
+            "Sania Jhankar"
+        ],
+        "Runtime": [
+            "8 min"
+        ],
+        "Director": [
+            "Sania Jhankar"
         ],
         "Release date": [
-            "June 5, 2008 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "New York City, New York, USA"
-        ],
-        "Production company": [
-            "I Laugh I Cry Films"
+            "2008"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2965843/",
-            "name": "Sania Jhankar"
+            "name": "Sania Jhankar",
+            "@type": "Person"
         }
     ],
     "duration": "PT8M",
-    "keywords": [
-        "riot",
-        "bangladesh",
-        "muslim",
-        "india",
-        "hindu"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2965843/",
-            "name": "Sania Jhankar"
+            "name": "Sania Jhankar",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1362115/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "2001 April; the border region of Bangladesh and India is chaotic due to the Hindu-Muslim riots. With this backdrop, an eight-year-old Hindu boy gets lost and finds himself in a Muslim household. As the husband and wife fight over ...",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2008-06-05",
+    "datePublished": "2008",
+    "original_title": "A Refugee",
     "imdb_rating_average": 0,
-    "update_at": "2026-03-05T05:00:10"
+    "update_at": "2026-10-26T18:14:06"
 }

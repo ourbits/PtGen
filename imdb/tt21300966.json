@@ -5,63 +5,108 @@
     "site": "imdb",
     "year": "1953",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0847197/",
-            "name": "Teiji Takahashi"
+            "name": "Teiji Takahashi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0442814/",
-            "name": "Yûji Kawakita"
+            "name": "Yûji Kawakita",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0586227/",
-            "name": "Tatsuya Mihashi"
+            "name": "Tatsuya Mihashi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0383261/",
+            "name": "Chieko Higashiyama",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0436620/",
+            "name": "Kyoko Kami",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0297797/",
+            "name": "Takako Fujino",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0385443/",
+            "name": "Shin'ichi Himori",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1663897/",
+            "name": "Tomoko Kō",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1525234/",
+            "name": "Norikazu Takeda",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0757299/",
+            "name": "Mutsuko Sakura",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Japanese"
+        "Stars": [
+            "Teiji Takahashi",
+            "Yûji Kawakita",
+            "Tatsuya Mihashi"
+        ],
+        "Writer": [
+            "Sekiro Mitsubata",
+            "Yoshitarō Nomura",
+            "Kuni Sasaki"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "Yoshitarō Nomura"
         ],
         "Release date": [
-            "December 8, 1953 (Japan)"
-        ],
-        "Also known as": [
-            "青春三羽烏"
-        ],
-        "Country of origin": [
-            "Japan"
-        ],
-        "Production company": [
-            "Shochiku Ofuna"
+            "1953"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1802721/",
-            "name": "Sekiro Mitsubata"
+            "name": "Sekiro Mitsubata",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0634607/",
-            "name": "Yoshitarô Nomura"
+            "name": "Yoshitarō Nomura",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm10153064/",
-            "name": "Kuni Sasaki"
+            "name": "Kuni Sasaki",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H35M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0634607/",
-            "name": "Yoshitarô Nomura"
+            "name": "Yoshitarō Nomura",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt21300966/",
@@ -72,7 +117,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1953-12-08",
+    "datePublished": "1953",
+    "original_title": "Seishun sanba garasu",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-10T06:49:26"
+    "update_at": "2026-10-26T03:56:29"
 }

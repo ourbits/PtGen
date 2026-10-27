@@ -4,69 +4,114 @@
     "name": "Being Mick",
     "site": "imdb",
     "year": "2001",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
-        "Documentary",
         "Biography",
+        "Documentary",
         "Music"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001396/",
-            "name": "Mick Jagger"
+            "name": "Mick Jagger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0095104/",
-            "name": "Bono"
+            "name": "Bono",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0166661/",
-            "name": "Matt Clifford"
+            "name": "Matt Clifford",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0002097/",
+            "name": "Bob Geldof",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000424/",
+            "name": "Hugh Grant",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0355717/",
+            "name": "Jerry Hall",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0382584/",
+            "name": "George Hickenlooper",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1244910/",
+            "name": "Elizabeth Jagger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1884832/",
+            "name": "Gabriel Jagger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1888330/",
+            "name": "Georgia Jagger",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTU1MTIzNjk5N15BMl5BanBnXkFtZTcwNjc4NjYyMQ@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/rhKKQihOzjsbfN8gREwNp7c8mIS.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Mick Jagger",
+            "Bono",
+            "Matt Clifford"
+        ],
+        "Genres": [
+            "Biography",
+            "Documentary",
+            "Music"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Kevin Macdonald"
         ],
         "Release date": [
-            "November 22, 2001 (United States)"
-        ],
-        "Also known as": [
-            "I huvudet på Mick Jagger"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Production company": [
-            "Jagged Films"
+            "2001-11-22"
         ]
     },
-    "reviews": 6,
+    "reviews": 0,
+    "tagline": "You Would if You Could",
     "creators": [],
     "duration": "PT1H",
-    "keywords": [
-        "singer",
-        "musician",
-        "rock music",
-        "character name in title"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0531817/",
-            "name": "Kevin Macdonald"
+            "name": "Kevin Macdonald",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0302303/",
     "metascore": null,
-    "imdb_votes": 190,
+    "imdb_votes": 197,
     "popularity": 0,
-    "description": "Fly-on-the-wall documentary about rockstar Mick Jagger, and his friends and family, during the recording of his 2001 album &apos;Goddess in the Doorway&apos;.",
-    "imdb_rating": "6.7/10 from 190 users",
-    "release_date": [],
+    "description": "For everyone who's always envied the life of the legendary Rolling Stones frontman, this behind-the-scenes documentary lets you in on Mick Jagger's private life, with family home movies and interviews, and also follows him recording and performing songs from his solo Goddess in the Doorway\" album. Special appearances by Bono, Pete Townshend, Wyclef Jean, Lenny Kravitz, and others are featured.",
+    "imdb_rating": "6.7/10 from 197 users",
+    "release_date": [
+        {
+            "date": "2001-11-22",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2001-11-22",
+    "original_title": "Being Mick",
     "imdb_rating_average": 6.7,
-    "update_at": "2025-05-29T13:49:37"
+    "update_at": "2026-10-26T18:35:13"
 }

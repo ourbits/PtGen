@@ -5,44 +5,92 @@
     "site": "imdb",
     "year": "1980",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Drama"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0038317/",
+            "name": "Mayumi Asaka",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0262137/",
+            "name": "Jun Etô",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0457974/",
+            "name": "Yôko Kizima",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/9fXjyEZjye1QwamTlg5oZnEGbDs.jpg",
     "details": {
+        "Stars": [
+            "Mayumi Asaka",
+            "Jun Etô",
+            "Yôko Kizima"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Hiroto Yokoyama"
+        ],
+        "Runtime": [
+            "88 min"
+        ],
+        "Director": [
+            "Hiroto Yokoyama"
+        ],
         "Language": [
             "Japanese"
         ],
         "Release date": [
-            "September 14, 1980 (Japan)"
-        ],
-        "Also known as": [
-            "純"
+            "1980-04-09"
         ],
         "Country of origin": [
             "Japan"
         ],
-        "Production company": [
+        "Production companies": [
             "Kogei-sha"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0948422/",
+            "name": "Hiroto Yokoyama",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT1H28M",
-    "keywords": [
-        "f rated",
-        "sexual assault",
-        "subway",
-        "comic strip artist"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0948422/",
+            "name": "Hiroto Yokoyama",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0079380/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "Jun has come to Tokyo from his family home, an island which resembles a ship. He works in a machine shop and is attempting to develop a career as a cartoonist in his spare time. When he travels around the town by subway, he has grown into the habit of groping female passengers in a sexual way. They never denounce him, and many seem to respond very favorably, moaning in apparent ecstasy. However, when his girlfriend sees him doing this, she denounces him to the police.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1980-04-09",
+            "country": "Japan"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1980-09-14",
+    "datePublished": "1980-04-09",
+    "original_title": "Jun",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-18T15:35:19"
+    "update_at": "2026-10-26T19:28:06"
 }

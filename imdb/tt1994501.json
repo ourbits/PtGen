@@ -12,64 +12,96 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0314980/",
-            "name": "Andrés Gertrúdix"
+            "name": "Andrés Gertrúdix",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0529813/",
-            "name": "Pilar López de Ayala"
+            "name": "Pilar López de Ayala",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm11382378/",
-            "name": "PlayCacao"
+            "name": "PlayCacao",
+            "@type": "Person"
         }
     ],
-    "critic": 7,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGZmODA0MWUtNDVlOC00NmY1LWJlMmUtOTMxNmI1YTVlYTZiXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/oqlDzLNaySYtfpOLhyDI6qkX7a3.jpg",
     "details": {
+        "Stars": [
+            "Andrés Gertrúdix",
+            "Pilar López de Ayala",
+            "PlayCacao"
+        ],
+        "Genres": [
+            "Drama",
+            "Sci-Fi"
+        ],
+        "Writer": [
+            "Raya Martin"
+        ],
+        "Runtime": [
+            "70 min"
+        ],
+        "Director": [
+            "Raya Martin"
+        ],
         "Language": [
             "Spanish"
         ],
         "Release date": [
-            "August 11, 2011 (Switzerland)"
+            "2011-11-12"
         ],
-        "Official site": [
-            "Official site - http://www.pantallapartida.es/buenasnoches"
-        ],
-        "Countries of origin": [
-            "Spain",
-            "Philippines"
+        "Country of origin": [
+            "Philippines",
+            "Spain"
         ],
         "Production companies": [
-            "Cinematografica",
-            "Pantalla Partida Producciones"
+            "Pantalla Partida",
+            "Cinematografica"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2016451/",
-            "name": "Raya Martin"
+            "name": "Raya Martin",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H10M",
     "keywords": [
-        ""
+        "spain",
+        "television set"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2016451/",
-            "name": "Raya Martin"
+            "name": "Raya Martin",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1994501/",
     "metascore": null,
-    "imdb_votes": 93,
+    "imdb_votes": 96,
     "popularity": 0,
-    "description": "In another lifetime, a Spanish couple takes drugs and teleports through their television set. A troubled young man travels through the countryside and meets a lost woman. During the trip, they discover a museum housing the expatri...",
-    "imdb_rating": "5.4/10 from 93 users",
-    "release_date": [],
+    "description": "In another lifetime, a Spanish couple takes drugs and teleports through their television set. A troubled young man travels through the countryside and meets a lost woman. During the trip, they discover a museum housing the expatriated paintings of the most important Filipino artist of the revolution. Eventually, the Spanish couple disappears toward their colony. Inspired by one of the earliest teleportation accounts, which happened between the Philippines and Mexico during the colonial period.",
+    "imdb_rating": "5.5/10 from 96 users",
+    "release_date": [
+        {
+            "date": "2012-01-25",
+            "country": "Netherlands"
+        },
+        {
+            "date": "2011-11-12",
+            "country": "Philippines"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2011-08-11",
-    "imdb_rating_average": 5.4,
-    "update_at": "2026-05-09T23:42:27"
+    "datePublished": "2011-11-12",
+    "original_title": "Buenas noches, España",
+    "imdb_rating_average": 5.5,
+    "update_at": "2026-10-26T06:56:33"
 }

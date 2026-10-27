@@ -4,7 +4,7 @@
     "name": "Wind Jammers",
     "site": "imdb",
     "year": "2011",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Comedy",
         "Family"
@@ -12,76 +12,140 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3607676/",
-            "name": "Justice Von Maur"
+            "name": "Justice Von Maur",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3947267/",
-            "name": "Claudette Allens"
+            "name": "Claudette Allens",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3937116/",
-            "name": "Taylor Boswell"
+            "name": "Taylor Boswell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6775383/",
+            "name": "Adam Nicholas Brown",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2319866/",
+            "name": "Ashton Crosby",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3937545/",
+            "name": "Nicholas di Michele",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm13505736/",
+            "name": "Johnny Donald",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5412583/",
+            "name": "Bernard Farquharson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2039121/",
+            "name": "Jay Gotlieb",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4114168/",
+            "name": "David Green",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTM1MjAyNzQzN15BMl5BanBnXkFtZTcwODcxNjgxNw@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/gE17xyCRnENb7oFpNTgIMO1UJdP.jpg",
     "details": {
+        "Stars": [
+            "Justice Von Maur",
+            "Claudette Allens",
+            "Taylor Boswell"
+        ],
+        "Genres": [
+            "Comedy",
+            "Family"
+        ],
+        "Writer": [
+            "Michael Ray Brown",
+            "Elliot Loewenstein",
+            "Richard von Maur"
+        ],
+        "Runtime": [
+            "93 min"
+        ],
+        "Director": [
+            "Kareem Mortimer",
+            "Richard von Maur"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 29, 2011 (United States)"
+            "2011-01-29"
         ],
         "Country of origin": [
             "Bahamas"
-        ],
-        "Filming locations": [
-            "Bahamas"
-        ],
-        "Production companies": [
-            "Rosetta Films",
-            "VON MAUR Productions",
-            "Stray Dogs"
         ]
     },
     "reviews": 0,
+    "tagline": "It takes courage to sail an ocean of change.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2404007/",
-            "name": "Michael Ray Brown"
+            "name": "Michael Ray Brown",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3468598/",
-            "name": "Elliot Loewenstein"
+            "name": "Elliot Loewenstein",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3937707/",
-            "name": "Richard von Maur"
+            "name": "Richard von Maur",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H33M",
     "keywords": [
-        ""
+        "sailing",
+        "bahamas"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1190412/",
-            "name": "Kareem Mortimer"
+            "name": "Kareem Mortimer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3937707/",
-            "name": "Richard von Maur"
+            "name": "Richard von Maur",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1669850/",
     "metascore": null,
-    "imdb_votes": 27,
+    "imdb_votes": 41,
     "popularity": 0,
-    "description": "An American teenage girl, Justice, moves to the Bahamas with her father and discovers a strange world. Justice learns to overcome difficult obstacles through the sport of sailing.",
-    "imdb_rating": "7.2/10 from 27 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "Set in the Bahamas, this funny and uplifting family film follows 16 year-old Justice as she overcomes racial prejudice and brings change to her community - all while having the time of her life learning to sail!",
+    "imdb_rating": "5.6/10 from 41 users",
+    "release_date": [
+        {
+            "date": "2011-01-29",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "2011-01-29",
-    "imdb_rating_average": 7.2,
-    "update_at": "2025-05-19T10:35:09"
+    "original_title": "Wind Jammers",
+    "imdb_rating_average": 5.6,
+    "update_at": "2026-10-26T11:00:43"
 }

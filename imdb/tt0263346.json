@@ -1,10 +1,19 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "El murcielago",
+            "country": "Spain"
+        },
+        {
+            "title": "O Morcego",
+            "country": "Brazil"
+        }
+    ],
     "sid": "tt0263346",
     "name": "Die Fledermaus",
     "site": "imdb",
-    "year": "1983",
-    "@type": "Movie",
+    "year": "1984",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Music"
@@ -12,67 +21,133 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0853490/",
-            "name": "Kiri Te Kanawa"
+            "name": "Kiri Te Kanawa",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0696703/",
-            "name": "Hermann Prey"
+            "name": "Hermann Prey",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0642139/",
-            "name": "Dennis O&apos;Neill"
+            "name": "Dennis O'Neill",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0373861/",
+            "name": "Hildegard Heichele",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2891338/",
+            "name": "Paul Crook",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0527710/",
+            "name": "Benjamin Luxon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0486045/",
+            "name": "Michael Langdon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0047044/",
+            "name": "Ingrid Baier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0812137/",
+            "name": "Doris Soffel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0371969/",
+            "name": "Richard Hazell",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTk5MzU3NDU4OV5BMl5BanBnXkFtZTcwMjY5NzcxMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/s8l9EsqlUx3TKXT5BCWuRzZodpa.jpg",
     "details": {
+        "Stars": [
+            "Kiri Te Kanawa",
+            "Hermann Prey",
+            "Dennis O'Neill"
+        ],
+        "Genres": [
+            "Comedy",
+            "Music"
+        ],
+        "Writer": [
+            "Richard Genée",
+            "Carl Haffner"
+        ],
+        "Runtime": [
+            "177 min"
+        ],
+        "Director": [
+            "Humphrey Burton"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "December 31, 1983 (United Kingdom)"
-        ],
-        "Also known as": [
-            "El murciélago"
+            "1984-01-01"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
         "Production companies": [
-            "British Broadcasting Corporation (BBC)",
-            "NVC Arts"
+            "Royal Opera House"
         ]
     },
-    "reviews": 5,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0313252/",
-            "name": "Richard Genée"
+            "name": "Richard Genée",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1194749/",
-            "name": "Carl Haffner"
+            "name": "Carl Haffner",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H57M",
     "keywords": [
-        "opera"
+        "opera",
+        "live performance",
+        "live music",
+        "opera live performance"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0123598/",
-            "name": "Humphrey Burton"
+            "name": "Humphrey Burton",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0263346/",
     "metascore": null,
-    "imdb_votes": 75,
+    "imdb_votes": 82,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "8.7/10 from 75 users",
-    "release_date": [],
+    "description": "Most opera houses ring in the New Year with Johann Strauss Jr.'s most popular operetta--the festiveness of which is appropriate for the occasion--and this December 31, 1983, Covent Garden performance follows suit. An exceptional cast--led by Hermann Prey and Kiri Te Kanawa as the couple whose marriage survives the comic indiscretions of three long acts--obviously has as much fun as the audience. Plácido Domingo leads the Orchestra of the Royal Opera House through its paces with panache. Prince Orlofsky's Act II party is always a splendid opportunity to pull out all the stops with surprise \"guests,\" and this performance makes the most of its chance: entering the proceedings to sing one of his tailor-made chansons, \"She,\" is French crooner Charles Aznavour, who is followed by dancers Merle Park and Wayne Eagling, their delightful pas de deux flashily choreographed by Sir Frederick Ashton.",
+    "imdb_rating": "8.7/10 from 82 users",
+    "release_date": [
+        {
+            "date": "1984-01-01",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1983-12-31",
+    "datePublished": "1984-01-01",
+    "original_title": "Die Fledermaus",
     "imdb_rating_average": 8.7,
-    "update_at": "2025-05-25T04:14:40"
+    "update_at": "2026-10-26T05:28:12"
 }

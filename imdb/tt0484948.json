@@ -5,64 +5,120 @@
     "site": "imdb",
     "year": "2005",
     "@type": "TVSeries",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0781971/",
-            "name": "Dorota Segda"
+            "name": "Dorota Segda",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1435652/",
-            "name": "Anna Guzik"
+            "name": "Anna Guzik",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0394559/",
-            "name": "Barbara Horawianka"
+            "name": "Barbara Horawianka",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1788932/",
+            "name": "Maciej Makowski",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1384437/",
+            "name": "Marta Chodorowska",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0811948/",
+            "name": "Malgorzata Socha",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0062145/",
+            "name": "Adam Bauman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0826386/",
+            "name": "Krzysztof Stelmaszyk",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0842534/",
+            "name": "Bartlomiej Swiderski",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0102765/",
+            "name": "Jacek Braciak",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Dorota Segda",
+            "Anna Guzik",
+            "Barbara Horawianka"
+        ],
+        "Writer": [
+            "Wojciech Nizynski"
+        ],
+        "Runtime": [
+            "45 min"
+        ],
+        "Director": [
+            "Maciej Dejczer",
+            "Leszek Wosiewicz"
+        ],
         "Language": [
             "Polish"
         ],
         "Release date": [
-            "March 5, 2005 (Poland)"
+            "2005"
         ],
-        "Country of origin": [
-            "Poland"
-        ],
-        "Filming locations": [
-            "Warsaw, Mazowieckie, Poland"
-        ],
-        "Production company": [
+        "Production companies": [
             "Awon Film"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0633313/",
-            "name": "Wojciech Nizynski"
+            "name": "Wojciech Nizynski",
+            "@type": "Person"
         }
     ],
-    "duration": null,
-    "keywords": [
-        "police",
-        "love",
-        "friendship",
-        "divorce",
-        "business"
+    "duration": "PT45M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0215166/",
+            "name": "Maciej Dejczer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0941829/",
+            "name": "Leszek Wosiewicz",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0484948/",
     "metascore": null,
-    "imdb_votes": 9,
+    "imdb_votes": 10,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "3.9/10 from 9 users",
+    "imdb_rating": "4.9/10 from 10 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2005-03-05",
-    "imdb_rating_average": 3.9,
-    "update_at": "2025-02-10T14:18:13"
+    "datePublished": "2005",
+    "original_title": "Klinika samotnych serc",
+    "imdb_rating_average": 4.9,
+    "update_at": "2026-10-26T20:49:13"
 }

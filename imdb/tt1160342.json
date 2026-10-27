@@ -4,59 +4,111 @@
     "name": "Unter Kuratel",
     "site": "imdb",
     "year": "1970",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0290955/",
-            "name": "Horst Frank"
+            "name": "Horst Frank",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0445599/",
-            "name": "Krista Keller"
+            "name": "Krista Keller",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0299731/",
-            "name": "Irmgard Först"
+            "name": "Irmgard Först",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0923038/",
+            "name": "Gert Westphal",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0257163/",
+            "name": "Joachim Engel-Denis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0470659/",
+            "name": "Werner Kreindl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0480512/",
+            "name": "Walter Ladengast",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0478183/",
+            "name": "Ilse Künkele",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0065565/",
+            "name": "Renate Becker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2581415/",
+            "name": "Angelika Lingemann",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Horst Frank",
+            "Krista Keller",
+            "Irmgard Först"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Joseph A. Kramm",
+            "Willy H. Thiem"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Ludwig Cremer"
         ],
         "Release date": [
-            "July 9, 1970 (West Germany)"
+            "1970-07-08"
         ],
         "Country of origin": [
-            "West Germany"
-        ],
-        "Production company": [
-            "Süddeutscher Rundfunk (SDR)"
+            "Germany"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0469713/",
-            "name": "Joseph A. Kramm"
+            "name": "Joseph A. Kramm",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1270361/",
-            "name": "Willy H. Thiem"
+            "name": "Willy H. Thiem",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0187345/",
-            "name": "Ludwig Cremer"
+            "name": "Ludwig Cremer",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1160342/",
@@ -65,9 +117,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1970-07-08",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1970-07-09",
+    "datePublished": "1970-07-08",
+    "original_title": "Unter Kuratel",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-17T06:21:37"
+    "update_at": "2026-10-27T01:56:15"
 }

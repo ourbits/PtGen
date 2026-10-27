@@ -6,74 +6,93 @@
     "year": "2003",
     "@type": "TVEpisode",
     "genre": [
-        "Documentary",
         "Biography",
-        "History"
+        "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000229/",
-            "name": "Steven Spielberg"
+            "name": "Steven Spielberg",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0899681/",
-            "name": "Goran Visnjic"
+            "name": "Goran Visnjic",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGNiMTE4ZjgtMzBiZC00ZGFiLWE3MjItMzJjNWYxN2M3OGJiXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/2ZlJw8WvNozhQAhezjfIhht6s9Z.jpg",
     "details": {
-        "Languages": [
+        "Stars": [
+            "Steven Spielberg",
+            "Goran Visnjic"
+        ],
+        "Genres": [
+            "Biography",
+            "Documentary"
+        ],
+        "Writer": [
+            "Anne Makepeace"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Anne Makepeace"
+        ],
+        "Language": [
             "French",
-            "Spanish",
-            "English"
+            "English",
+            "Spanish"
         ],
         "Release date": [
-            "May 28, 2003 (United States)"
-        ],
-        "Also known as": [
-            "Robert Capa - sodassa ja rakkaudessa"
-        ],
-        "Official site": [
-            "Offical site - https://www.pbs.org/wnet/americanmasters/robert-capa-in-love-and-war/47/"
+            "2003-05-28"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
-            "1515 Productions Limited",
-            "American Masters Pictures",
-            "American Masters"
+            "Thirteen",
+            "Eagle Rock Entertainment",
+            "Parthenon Films"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0538484/",
-            "name": "Anne Makepeace"
+            "name": "Anne Makepeace",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
     "keywords": [
-        "photographer",
-        "photography",
-        "character name in title"
+        "biography"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0538484/",
-            "name": "Anne Makepeace"
+            "name": "Anne Makepeace",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0342939/",
     "metascore": null,
     "imdb_votes": 210,
     "popularity": 0,
-    "description": "A documentary about the life of famed war photographer Robert Capa.",
+    "description": "Profile of iconic war photographer Robert Capa, whose career spanned five epic conflicts across three continents before his untimely death at the age of 40. The film traces Endre Freidman's transformation from a young Jewish boy in Budapest to his becoming Robert Capa, the most famous war photographer in the world. (Storyville)",
     "imdb_rating": "7.5/10 from 210 users",
-    "release_date": [],
-    "contentRating": "TV-14",
+    "release_date": [
+        {
+            "date": "2003-05-28",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2003-05-28",
+    "original_title": "Robert Capa: In Love and War",
     "imdb_rating_average": 7.5,
-    "update_at": "2025-10-01T09:00:38"
+    "update_at": "2026-10-27T00:35:21"
 }

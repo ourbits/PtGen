@@ -4,75 +4,119 @@
     "name": "FCU: Fact Checkers Unit",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1628370/",
-            "name": "Ayad Akhtar"
+            "name": "Ayad Akhtar",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1594996/",
-            "name": "Sarah Hudnut Brody"
+            "name": "Sarah Hudnut Brody",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2463498/",
-            "name": "Peter Karinen"
+            "name": "Peter Karinen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000195/",
+            "name": "Bill Murray",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2460943/",
+            "name": "Brian Sacca",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1102891/",
+            "name": "Kristen Schaal",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzQ0ZjAyNjMtMTMxYS00ZjRjLTkyYWUtNTZmMDQ4Zjg4NmNmXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/61xjuOOTSfzQefq5OMP5IBXp7Ua.jpg",
     "details": {
+        "Stars": [
+            "Ayad Akhtar",
+            "Sarah Hudnut Brody",
+            "Peter Karinen"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Dan Beers",
+            "Peter Karinen",
+            "Brian Sacca"
+        ],
+        "Runtime": [
+            "9 min"
+        ],
+        "Director": [
+            "Dan Beers"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "September 9, 2007 (United States)"
+            "2007-09-09"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Moxie Pictures"
+            "United States of America"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0066534/",
-            "name": "Dan Beers"
+            "name": "Dan Beers",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2463498/",
-            "name": "Peter Karinen"
+            "name": "Peter Karinen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2460943/",
-            "name": "Brian Sacca"
+            "name": "Brian Sacca",
+            "@type": "Person"
         }
     ],
     "duration": "PT9M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0066534/",
-            "name": "Dan Beers"
+            "name": "Dan Beers",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1157637/",
     "metascore": null,
-    "imdb_votes": 222,
+    "imdb_votes": 207,
     "popularity": 0,
-    "description": "After being assigned to check a bizarre fact about Bill Murray&apos;s love for drinking milk, two magazine fact checkers break into Bill&apos;s house to spy on him.",
-    "imdb_rating": "6.9/10 from 222 users",
-    "release_date": [],
+    "description": "After being assigned to check a bizarre fact about Bill Murray's love for drinking milk, two magazine fact checkers break into Bill's house to spy on him.",
+    "imdb_rating": "6.9/10 from 207 users",
+    "release_date": [
+        {
+            "date": "2007-09-09",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2007-09-09",
+    "original_title": "FCU: Fact Checkers Unit",
     "imdb_rating_average": 6.9,
-    "update_at": "2026-01-17T03:28:38"
+    "update_at": "2026-10-26T16:42:08"
 }
