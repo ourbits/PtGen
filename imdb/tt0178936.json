@@ -3,65 +3,91 @@
     "sid": "tt0178936",
     "name": "This Film Is a Dog",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1996",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0399629/",
-            "name": "Quinn Hud"
+            "name": "Quinn Hud",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0034982/",
-            "name": "Phoenix Arizona"
+            "name": "Phoenix Arizona",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0425991/",
-            "name": "Peter Johnson"
+            "name": "Peter Johnson",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Quinn Hud",
+            "Phoenix Arizona",
+            "Peter Johnson"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Jonathan Ogilvie"
+        ],
+        "Runtime": [
+            "4 min"
+        ],
+        "Director": [
+            "Jonathan Ogilvie"
+        ],
+        "Language": [
+            "English"
+        ],
         "Release date": [
-            "May 1996 (France)"
+            "1996-01-01"
         ],
         "Country of origin": [
-            "Australia"
-        ],
-        "Production company": [
-            "Black Frame"
+            "New Zealand"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0644700/",
-            "name": "Jonathan Ogilvie"
+            "name": "Jonathan Ogilvie",
+            "@type": "Person"
         }
     ],
     "duration": "PT4M",
-    "keywords": [
-        "mockumentary",
-        "film within a film",
-        "animal in title"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0644700/",
-            "name": "Jonathan Ogilvie"
+            "name": "Jonathan Ogilvie",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0178936/",
     "metascore": null,
     "imdb_votes": 14,
     "popularity": 0,
-    "description": null,
+    "description": "This black and white short film (with hardboiled voiceover) follows canine filmmaker Quinn Hud to the dog-eat-dog world of the Cannes Film Festival to sell his latest work.",
     "imdb_rating": "7.3/10 from 14 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1996-01-01",
+            "country": "New Zealand"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1996-01-01",
+    "original_title": "This Film Is a Dog",
     "imdb_rating_average": 7.3,
-    "update_at": "2026-02-02T12:20:23"
+    "update_at": "2026-10-27T10:56:06"
 }

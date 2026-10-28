@@ -1,72 +1,148 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "ノーラ",
+            "country": "Japan"
+        }
+    ],
     "sid": "tt9909866",
     "name": "Nora",
     "site": "imdb",
     "year": "1985",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
-        "Animation",
         "Action",
-        "Adventure"
+        "Adventure",
+        "Animation"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0945514/",
-            "name": "Yuriko Yamamoto"
+            "name": "Yuriko Yamamoto",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0882581/",
-            "name": "Kenji Utsumi"
+            "name": "Kenji Utsumi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0619077/",
-            "name": "Ichirô Nagai"
+            "name": "Ichiro Nagai",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0620138/",
+            "name": "Shûsei Nakamura",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0634177/",
+            "name": "Akio Nojima",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0386405/",
+            "name": "Masashi Hirose",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0319980/",
+            "name": "Banjo Ginga",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0611458/",
+            "name": "Asami Mukaidono",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0945208/",
+            "name": "Eiko Yamada",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0869301/",
+            "name": "Koji Totani",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2RkODljNGMtYjY4Ni00MWFiLTg2MjMtZDEyZDAyMTBmY2U5XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/k6dyp257A3nlWWjA75kN4GERAKb.jpg",
     "details": {
+        "Stars": [
+            "Yuriko Yamamoto",
+            "Kenji Utsumi",
+            "Ichiro Nagai"
+        ],
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "Writer": [
+            "Satomi Mikuriya"
+        ],
+        "Runtime": [
+            "45 min"
+        ],
+        "Director": [
+            "Satomi Mikuriya"
+        ],
         "Language": [
             "Japanese"
         ],
         "Release date": [
-            "January 21, 1985 (Japan)"
+            "1985-01-21"
         ],
         "Country of origin": [
             "Japan"
         ],
-        "Production company": [
+        "Production companies": [
             "Filmlink International"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1469596/",
-            "name": "Satomi Mikuriya"
+            "name": "Satomi Mikuriya",
+            "@type": "Person"
         }
     ],
     "duration": "PT45M",
     "keywords": [
-        "ova",
-        "anime animation"
+        "man vs machine",
+        "artificial intelligence (a.i.)",
+        "based on manga",
+        "space station",
+        "nuclear threat",
+        "anime",
+        "original video animation (ova)"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1469596/",
-            "name": "Satomi Mikuriya"
+            "name": "Satomi Mikuriya",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt9909866/",
     "metascore": null,
-    "imdb_votes": 38,
+    "imdb_votes": 52,
     "popularity": 0,
-    "description": "Nora is on vacation in a &quot;Holiday Inn&quot; space station. When the artificial gravity fails, the whole space resort becomes chaotic but she helps solve the problem.",
-    "imdb_rating": "4.6/10 from 38 users",
-    "release_date": [],
+    "description": "Nora is on vacation in a \"Holiday Inn\" space station. When the artificial gravity fails, the whole space resort becomes chaotic but she helps solve the problem.",
+    "imdb_rating": "4.8/10 from 52 users",
+    "release_date": [
+        {
+            "date": "1985-01-21",
+            "country": "Japan"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1985-01-21",
-    "imdb_rating_average": 4.6,
-    "update_at": "2025-03-30T00:36:37"
+    "original_title": "Nora",
+    "imdb_rating_average": 4.8,
+    "update_at": "2026-10-27T17:35:27"
 }

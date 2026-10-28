@@ -6,44 +6,148 @@
     "year": "2015",
     "@type": "Movie",
     "genre": [
-        "Documentary",
-        "Comedy"
+        "Comedy",
+        "Documentary"
     ],
-    "critic": 30,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODM0MjExMzkxNl5BMl5BanBnXkFtZTgwNzM1Mzc3NDE@._V1_.jpg",
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm2154960/",
+            "name": "Amy Schumer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000985/",
+            "name": "James L. Brooks",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0031976/",
+            "name": "Judd Apatow",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000155/",
+            "name": "Whoopi Goldberg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0004517/",
+            "name": "Jason Alexander",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0042006/",
+            "name": "Scott Aukerman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0051469/",
+            "name": "Maria Bamford",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1898126/",
+            "name": "Mike Birbiglia",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0085400/",
+            "name": "Lewis Black",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0117339/",
+            "name": "Rob Brydon",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/wjYla0vnZ3HtzAS6JxINNrZ3wY5.jpg",
     "details": {
+        "Stars": [
+            "Amy Schumer",
+            "James L. Brooks",
+            "Judd Apatow"
+        ],
+        "Genres": [
+            "Comedy",
+            "Documentary"
+        ],
+        "Writer": [
+            "Kevin Pollak",
+            "John Vorhaus"
+        ],
+        "Runtime": [
+            "94 min"
+        ],
+        "Director": [
+            "Kevin Pollak"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "April 14, 2015 (United States)"
+            "2015-01-23"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "New York City, New York, USA"
+            "United States of America"
         ],
         "Production companies": [
-            "Barry Katz Entertainment",
             "Heretic Films"
         ]
     },
-    "reviews": 9,
-    "creators": [],
+    "reviews": 0,
+    "tagline": "Kevin Pollak explores the dark side of comedy in this fascinating documentary.",
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0001629/",
+            "name": "Kevin Pollak",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0903449/",
+            "name": "John Vorhaus",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT1H34M",
     "keywords": [
-        "journey"
+        "misery",
+        "comedian",
+        "fame",
+        "suicide of father",
+        "suicidal thoughts",
+        "working conditions",
+        "acting",
+        "comedy club",
+        "stand-up comedian"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0001629/",
+            "name": "Kevin Pollak",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt3132632/",
-    "metascore": 51,
-    "imdb_votes": 1343,
+    "metascore": null,
+    "imdb_votes": 1367,
     "popularity": 0,
-    "description": "Over fifty very famous American, Canadian, British and Australian funny people (filmmakers, writers, actors and comedians) share life and professional journeys and insights, in an effort to shed light on the thesis: Do you have to...",
-    "imdb_rating": "6.3/10 from 1343 users",
-    "release_date": [],
-    "contentRating": "PG-13",
-    "datePublished": "2015-04-14",
+    "description": "Do you have to be miserable to be funny? More than sixty comedians—including stand-ups, writers, actors, and directors from the US, Canada, and abroad—take on this question, sharing anecdotes and insights with lively enthusiasm.",
+    "imdb_rating": "6.3/10 from 1367 users",
+    "release_date": [
+        {
+            "date": "2015-06-25",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "2015-01-23",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2015-01-23",
+    "original_title": "Misery Loves Comedy",
     "imdb_rating_average": 6.3,
-    "update_at": "2025-10-18T16:36:14"
+    "update_at": "2026-10-27T04:28:28"
 }

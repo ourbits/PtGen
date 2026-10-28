@@ -4,80 +4,135 @@
     "name": "Brazzaville Teen-Ager",
     "site": "imdb",
     "year": "2013",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Drama"
+        "Drama",
+        "Music"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0148418/",
-            "name": "Michael Cera"
+            "name": "Michael Cera",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0640081/",
-            "name": "Jack O&apos;Connell"
+            "name": "Jack O'Connell",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001301/",
-            "name": "Charles Grodin"
+            "name": "Charles Grodin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1085754/",
+            "name": "Kelis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1884570/",
+            "name": "Brandon Reilly",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1864039/",
+            "name": "Curtis Conrad",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1478007/",
+            "name": "Curtiss Cook",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0095375/",
+            "name": "Charlotte Booker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0698761/",
+            "name": "Andy Prosky",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3402188/",
+            "name": "Christina Sajous",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTliYTdlOWUtZmExNC00OWY4LWIwMTAtY2EyOTVjM2Q5NTU1XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/trSB3Z3kQLEv5X6VyIzc5val6HO.jpg",
     "details": {
+        "Stars": [
+            "Michael Cera",
+            "Jack O'Connell",
+            "Charles Grodin"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Music"
+        ],
+        "Writer": [
+            "Bruce Jay Friedman",
+            "Michael Cera"
+        ],
+        "Runtime": [
+            "20 min"
+        ],
+        "Director": [
+            "Michael Cera"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "April 22, 2013 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Los Angeles, California, USA"
+            "2013-04-13"
         ],
         "Production companies": [
-            "Ghost Robot",
             "Jash Network"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": "A short movie on the theme of desperation.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0295171/",
-            "name": "Bruce Jay Friedman"
+            "name": "Bruce Jay Friedman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0148418/",
-            "name": "Michael Cera"
+            "name": "Michael Cera",
+            "@type": "Person"
         }
     ],
     "duration": "PT20M",
-    "keywords": [
-        "father son relationship",
-        "visit sick father",
-        "hospital visit",
-        "bar conversation",
-        "publishing company"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0148418/",
-            "name": "Michael Cera"
+            "name": "Michael Cera",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2928426/",
     "metascore": null,
-    "imdb_votes": 200,
+    "imdb_votes": 205,
     "popularity": 0,
-    "description": "In a self-effacing attempt to save his father from a death by deterioration, a young man, named Gunther, enlists his curmudgeonly boss and Kelis to perform a song, called Brazzaville Teen-Ager.",
-    "imdb_rating": "6.4/10 from 200 users",
-    "release_date": [],
-    "contentRating": "TV-MA",
-    "datePublished": "2013-04-22",
+    "description": "In a self-effacing attempt to save his father from a death by deterioration, a young man enlists his curmudgeonly boss and Kelis to perform a song, and a miracle.",
+    "imdb_rating": "6.4/10 from 205 users",
+    "release_date": [
+        {
+            "date": "2013-04-13",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2013-04-13",
+    "original_title": "Brazzaville Teen-Ager",
     "imdb_rating_average": 6.4,
-    "update_at": "2026-04-23T01:21:07"
+    "update_at": "2026-10-27T07:14:31"
 }

@@ -4,71 +4,134 @@
     "name": "The Jilting of Granny Weatherall",
     "site": "imdb",
     "year": "1980",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0235630/",
-            "name": "Richard Dow"
+            "name": "Richard Dow",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0280242/",
-            "name": "Geraldine Fitzgerald"
+            "name": "Geraldine Fitzgerald",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0809135/",
-            "name": "Lois Smith"
+            "name": "Lois Smith",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0178358/",
+            "name": "Roy Cooper",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0842495/",
+            "name": "William Swetland",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0314745/",
+            "name": "Robert Gerringer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0067497/",
+            "name": "Doris Belack",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0168918/",
+            "name": "Frederick Coffin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0227040/",
+            "name": "Mia Dillon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10351276/",
+            "name": "Gladys Clements",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1ODU1NjkxNF5BMl5BanBnXkFtZTgwODgzODk1MDE@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/d7TCrX7YO0f37Vu6ypTUn3gaa4F.jpg",
     "details": {
+        "Stars": [
+            "Richard Dow",
+            "Geraldine Fitzgerald",
+            "Lois Smith"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Katherine Anne Porter",
+            "Corinne Jacker"
+        ],
+        "Runtime": [
+            "57 min"
+        ],
+        "Director": [
+            "Randa Haines"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 3, 1980 (United States)"
+            "1980-03-03"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Learning in Focus"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0692188/",
-            "name": "Katherine Anne Porter"
+            "name": "Katherine Anne Porter",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0413131/",
-            "name": "Corinne Jacker"
+            "name": "Corinne Jacker",
+            "@type": "Person"
         }
     ],
     "duration": "PT57M",
-    "keywords": [
-        "f rated",
-        "character name in title"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0354279/",
-            "name": "Randa Haines"
+            "name": "Randa Haines",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0080959/",
     "metascore": null,
-    "imdb_votes": 84,
+    "imdb_votes": 86,
     "popularity": 0,
-    "description": "Adapted from the short story by acclaimed writer Katherine Anne Porter (Ship of Fools?), THE JILTING OF GRANNY WEATHERALL reminds us of the plight of many women who wait for life to claim them, rather than seek life out for themse...",
-    "imdb_rating": "5.6/10 from 84 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "Granny Weatherall (Geraldine Fitzgerald) is a spunky old lady of eighty who bosses around her doctor and her children. She seems so strong and in control, and yet she has never had the upper hand in her destiny. One morning, a flood of long-forgotten memories bring her to the realization that of all her accomplishments, she cannot console herself for the shame-filled day she was left standing at the alter. Still, her indomitable will to live and act independently infuses the last day of her life. Adapted from the short story by acclaimed writer Katherine Anne Porter (\"Ship of Fools\"), The Jilting of Granny Weatherall reminds us of the plight of many women who wait for life to claim them, rather than seek life out for themselves.",
+    "imdb_rating": "5.5/10 from 86 users",
+    "release_date": [
+        {
+            "date": "1980-03-03",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1980-03-03",
-    "imdb_rating_average": 5.6,
-    "update_at": "2026-02-27T14:56:30"
+    "original_title": "The Jilting of Granny Weatherall",
+    "imdb_rating_average": 5.5,
+    "update_at": "2026-10-27T03:49:20"
 }

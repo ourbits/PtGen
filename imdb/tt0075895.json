@@ -4,7 +4,7 @@
     "name": "Csutak a mikrofon elött",
     "site": "imdb",
     "year": "1977",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Crime"
@@ -12,70 +12,128 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1294243/",
-            "name": "Péter Perlusz"
+            "name": "Péter Perlusz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1291030/",
-            "name": "Gábor Balogh F."
+            "name": "Gábor Balogh F.",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0705713/",
-            "name": "György Radnai"
+            "name": "György Radnai",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1291187/",
+            "name": "György Bihaly",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1290357/",
+            "name": "Tibor Tóth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1293175/",
+            "name": "György Krajczár",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1290356/",
+            "name": "István Tóth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0432098/",
+            "name": "Jácint Juhász",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0194482/",
+            "name": "Judit Czigány",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0350430/",
+            "name": "Árpád Gyenge",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWQ2ZmViZjktODkxZi00ODA3LTlkMDgtODU4MGUwOGRlZjQyXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/jxS9gad5aPMLu7D5V8CluZNaopy.jpg",
     "details": {
+        "Stars": [
+            "Péter Perlusz",
+            "Gábor Balogh F.",
+            "György Radnai"
+        ],
+        "Genres": [
+            "Comedy",
+            "Crime"
+        ],
+        "Writer": [
+            "Zsuzsa Bíró",
+            "Iván Mándy"
+        ],
+        "Runtime": [
+            "106 min"
+        ],
+        "Director": [
+            "Ilona Katkics"
+        ],
         "Language": [
             "Hungarian"
         ],
         "Release date": [
-            "December 26, 1977 (Hungary)"
-        ],
-        "Also known as": [
-            "Csutak a mikrofon előtt"
+            "1977-05-02"
         ],
         "Country of origin": [
             "Hungary"
         ],
-        "Production company": [
+        "Production companies": [
             "Magyar Televízió"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0126952/",
-            "name": "Zsuzsa Bíró"
+            "name": "Zsuzsa Bíró",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0617244/",
-            "name": "Iván Mándy"
+            "name": "Iván Mándy",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H46M",
-    "keywords": [
-        "extortion",
-        "children",
-        "radio play",
-        "f rated",
-        "swimming pool"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0441324/",
-            "name": "Ilona Katkics"
+            "name": "Ilona Katkics",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0075895/",
     "metascore": null,
-    "imdb_votes": 60,
+    "imdb_votes": 63,
     "popularity": 0,
-    "description": "Csutak gets a role in a children&apos;s radio play, but has to face trouble when the star of the show turns out to be a juvenile mobster, who practices extortion on the local kids.",
-    "imdb_rating": "7.5/10 from 60 users",
-    "release_date": [],
+    "description": "Csutak gets a role in a children's radio play, but has to face trouble when the star of the show turns out to be a juvenile mobster, who practices extortion on the local kids.",
+    "imdb_rating": "7.5/10 from 63 users",
+    "release_date": [
+        {
+            "date": "1977-05-02",
+            "country": "Hungary"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1977-12-26",
+    "datePublished": "1977-05-02",
+    "original_title": "Csutak a mikrofon elött",
     "imdb_rating_average": 7.5,
-    "update_at": "2025-05-04T00:33:36"
+    "update_at": "2026-10-27T15:42:28"
 }

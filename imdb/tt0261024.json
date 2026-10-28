@@ -4,7 +4,7 @@
     "name": "Live Aid",
     "site": "imdb",
     "year": "1985",
-    "@type": "Movie",
+    "@type": "TVSpecial",
     "genre": [
         "Documentary",
         "Music"
@@ -12,80 +12,147 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0002097/",
-            "name": "Bob Geldof"
+            "name": "Bob Geldof",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001898/",
-            "name": "Bryan Adams"
+            "name": "Bryan Adams",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0011529/",
-            "name": "Stuart Adamson"
+            "name": "Stuart Adamson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2350919/",
+            "name": "Mo Amin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001914/",
+            "name": "Adam Ant",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0038935/",
+            "name": "Nick Ashford",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001926/",
+            "name": "Joan Baez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0047522/",
+            "name": "Tom Bailey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0066538/",
+            "name": "Garry Beers",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0081691/",
+            "name": "Big Country",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTUzMTg0MjcwOV5BMl5BanBnXkFtZTcwNTcxMTcyMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/bK0KMcbe3LMIoCIBiIAlIRONJKL.jpg",
     "details": {
+        "Stars": [
+            "Bob Geldof",
+            "Bryan Adams",
+            "Stuart Adamson"
+        ],
+        "Genres": [
+            "Documentary",
+            "Music"
+        ],
+        "Writer": [
+            "Bob Geldof",
+            "Richard Rossner"
+        ],
+        "Runtime": [
+            "960 min"
+        ],
+        "Director": [
+            "Vincent Scarza",
+            "Kenneth Shapiro"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "July 13, 1985 (United States)"
+            "1985-07-13"
         ],
-        "Also known as": [
-            "Музыкальный фестиваль Live Aid"
-        ],
-        "Official sites": [
-            "Official Facebook - https://www.facebook.com/liveaid1985/",
-            "Official Twitter - https://twitter.com/live_aid1985"
-        ],
-        "Filming locations": [
-            "John F. Kennedy Stadium - 3601 S. Broad Street, Philadelphia, Pennsylvania, USA"
-        ],
-        "Countries of origin": [
-            "United States",
-            "United Kingdom"
+        "Country of origin": [
+            "United Kingdom",
+            "United States of America"
         ],
         "Production companies": [
-            "American Broadcasting Company (ABC)",
-            "British Broadcasting Corporation (BBC)",
-            "Music Television (MTV)"
+            "BBC",
+            "MTV"
         ]
     },
-    "reviews": 21,
+    "reviews": 0,
+    "tagline": "The day the music changed the world",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0002097/",
-            "name": "Bob Geldof"
+            "name": "Bob Geldof",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1491128/",
+            "name": "Richard Rossner",
+            "@type": "Person"
         }
     ],
     "duration": "PT16H",
     "keywords": [
-        "ethiopia",
-        "famine",
-        "live aid",
-        "rock music",
-        "london england"
+        "concert film",
+        "music documentary"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0769312/",
-            "name": "Vincent Scarza"
+            "name": "Vincent Scarza",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1022180/",
-            "name": "Kenneth Shapiro"
+            "name": "Kenneth Shapiro",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0261024/",
     "metascore": null,
-    "imdb_votes": 2390,
+    "imdb_votes": 2577,
     "popularity": 0,
-    "description": "The broadcast of the biggest benefit concert in history, organized by Bob Geldof and Midge Ure to raise funds for Ethiopian famine relief.",
-    "imdb_rating": "8.5/10 from 2390 users",
-    "release_date": [],
+    "description": "Live Aid was held on 13 July 1985, simultaneously in Wembley Stadium in London, England, and the John F. Kennedy Stadium in Philadelphia, United States. It was one of the largest scale satellite link-ups and television broadcasts of all time: watched live by an estimated global audience of 1.9 billion, across 150 nations. \"It's twelve noon in London, seven AM in Philadelphia, and around the world it's time for Live Aid...!\"",
+    "imdb_rating": "8.5/10 from 2577 users",
+    "release_date": [
+        {
+            "date": "2004-11-08",
+            "country": "Germany"
+        },
+        {
+            "date": "1985-07-13",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "1985-07-13",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1985-07-13",
+    "original_title": "Live Aid",
     "imdb_rating_average": 8.5,
-    "update_at": "2025-02-10T01:06:57"
+    "update_at": "2026-10-27T07:28:07"
 }

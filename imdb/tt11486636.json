@@ -3,8 +3,8 @@
     "sid": "tt11486636",
     "name": "Dark Matter",
     "site": "imdb",
-    "year": "2020",
-    "@type": "Movie",
+    "year": "2019",
+    "@type": "Short",
     "genre": [
         "Short",
         "Sport"
@@ -12,69 +12,91 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm9319958/",
-            "name": "Elias Elhardt"
+            "name": "Elias Elhardt",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1751071/",
-            "name": "Travis Rice"
+            "name": "Travis Rice",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm11222037/",
-            "name": "Graham Tracey"
+            "name": "Graham Tracey",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDJkNmUzNTYtMGU3NC00NjY4LTlmNTUtNjAyNjY3OTcxMTNhXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/xLC257pix86Hr8hFPYeFtw8so42.jpg",
     "details": {
+        "Stars": [
+            "Elias Elhardt",
+            "Travis Rice",
+            "Graham Tracey"
+        ],
+        "Genres": [
+            "Short",
+            "Sport"
+        ],
+        "Writer": [
+            "David Gonzales"
+        ],
+        "Runtime": [
+            "27 min"
+        ],
+        "Director": [
+            "Curt Morgan"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 4, 2020 (Austria)"
-        ],
-        "Official site": [
-            "Distributor's official page. - https://1091.tv/dark-matter"
+            "2019-12-24"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Tordrillo Mountain Lodge, Alaska, USA"
-        ],
-        "Production company": [
-            "Travis Rice"
+        "Production companies": [
+            "1091"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm11222038/",
-            "name": "David Gonzales"
+            "name": "David Gonzales",
+            "@type": "Person"
         }
     ],
     "duration": "PT27M",
     "keywords": [
-        "snow",
         "snowboarding",
-        "quiksilver",
-        "hemp fusion",
-        "depth perception"
+        "snowboard",
+        "documentary short"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3240319/",
-            "name": "Curt Morgan"
+            "name": "Curt Morgan",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt11486636/",
     "metascore": null,
-    "imdb_votes": 111,
+    "imdb_votes": 128,
     "popularity": 0,
     "description": "World-renowned snowboarders Travis Rice and Elias Elhardt team up with legendary director Curt Morgan for a celebration of space and time filmed in the deep backcountry of Alaska, exclusively on location at Tordrillo Mountain Lodge.",
-    "imdb_rating": "7.9/10 from 111 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
-    "datePublished": "2020-03-04",
-    "imdb_rating_average": 7.9,
-    "update_at": "2025-01-23T14:00:35"
+    "imdb_rating": "7.6/10 from 128 users",
+    "release_date": [
+        {
+            "date": "2019-12-24",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
+    "datePublished": "2019-12-24",
+    "original_title": "Dark Matter",
+    "imdb_rating_average": 7.6,
+    "update_at": "2026-10-27T04:49:06"
 }

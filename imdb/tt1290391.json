@@ -4,7 +4,7 @@
     "name": "Catching the Fever",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Comedy",
         "Drama"
@@ -12,49 +12,105 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3131859/",
-            "name": "Jennifer Ankenbrand"
+            "name": "Jennifer Ankenbrand",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2247506/",
-            "name": "Jen Araki-Playfair"
+            "name": "Jen Araki-Playfair",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2840642/",
-            "name": "Thomas Aske Berg"
+            "name": "Thomas Aske Berg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3130501/",
+            "name": "Johanna Bon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3132630/",
+            "name": "Crystal Caban",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1588978/",
+            "name": "Kat Castaneda",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2406381/",
+            "name": "Alexandra Donhoeffner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3131869/",
+            "name": "Carleigh Driever",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3131562/",
+            "name": "Michelle Jessica Easterlin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3133213/",
+            "name": "Maissa Ferjani",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0NDkxNjEwN15BMl5BanBnXkFtZTcwMjMzMzU5MQ@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/k85w8SjhZt9RkH2j20GcrvuwSBN.jpg",
     "details": {
+        "Stars": [
+            "Jennifer Ankenbrand",
+            "Jen Araki-Playfair",
+            "Thomas Aske Berg"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "Writer": [
+            "Armando Blandon"
+        ],
+        "Runtime": [
+            "96 min"
+        ],
+        "Director": [
+            "Armando Blandon"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "September 1, 2008 (United States)"
-        ],
-        "Official site": [
-            "Official site - http://www.catchingthefever.com/"
+            "2008-09-01"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
+        ],
+        "Production companies": [
+            "NA"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2195033/",
-            "name": "Armando Blandon"
+            "name": "Armando Blandon",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H36M",
-    "keywords": [
-        "drunk girl",
-        "drunkenness"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2195033/",
-            "name": "Armando Blandon"
+            "name": "Armando Blandon",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1290391/",
@@ -63,9 +119,15 @@
     "popularity": 0,
     "description": "A comedy about Orlando stuck in a failing relationship. Sexually frustrated, he goes on a dating quest with the help from his buddy.",
     "imdb_rating": "5.9/10 from 36 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "release_date": [
+        {
+            "date": "2008-09-01",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "2008-09-01",
+    "original_title": "Catching the Fever",
     "imdb_rating_average": 5.9,
-    "update_at": "2025-05-19T17:00:26"
+    "update_at": "2026-10-27T02:28:15"
 }

@@ -4,52 +4,77 @@
     "name": "The Guru Singh-Cinderelli",
     "site": "imdb",
     "year": "2004",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0039092/",
-            "name": "Marcus Ashley"
+            "name": "Marcus Ashley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0039092/",
+            "name": "Marcus Ashley",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0326245/",
-            "name": "Jonathan Goldstein"
+            "name": "Jonathan Goldstein",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0002570/",
-            "name": "Melissa Reneé Martin"
+            "name": "Melissa Reneé Martin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4277221/",
+            "name": "Julie Mullen",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Marcus Ashley",
+            "Marcus Ashley",
+            "Jonathan Goldstein"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Sandra Salas"
+        ],
+        "Runtime": [
+            "8 min"
+        ],
+        "Director": [
+            "Ben Rock"
         ],
         "Release date": [
-            "June 19, 2004 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
+            "2004"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1839158/",
-            "name": "Sandra Salas"
+            "name": "Sandra Salas",
+            "@type": "Person"
         }
     ],
     "duration": "PT8M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0734146/",
-            "name": "Ben Rock"
+            "name": "Ben Rock",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0439595/",
@@ -60,7 +85,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2004-06-19",
+    "datePublished": "2004",
+    "original_title": "The Guru Singh-Cinderelli",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-30T22:44:48"
+    "update_at": "2026-10-27T05:28:26"
 }

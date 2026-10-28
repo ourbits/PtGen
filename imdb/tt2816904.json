@@ -11,50 +11,65 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm5606127/",
-            "name": "Insaf Azzam"
+            "name": "Insaf Azzam",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5605716/",
-            "name": "Jorge Prados"
+            "name": "Jorge Prados",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2NiMTU5ODYtZTJlMC00NTU3LWFjZTktMGViOWExN2RkNDg1XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/6vtTkxpV2SMi3S6Q5Czy43v4328.jpg",
     "details": {
+        "Stars": [
+            "Insaf Azzam",
+            "Jorge Prados"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Runtime": [
+            "84 min"
+        ],
+        "Director": [
+            "Britt Beyer"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "April 25, 2013 (Germany)"
-        ],
-        "Country of origin": [
-            "Germany"
-        ],
-        "Production company": [
-            "imFilm - Agentur Verleih"
+            "2013-03-25"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT1H24M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0079895/",
-            "name": "Britt Beyer"
+            "name": "Britt Beyer",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2816904/",
     "metascore": null,
     "imdb_votes": 29,
     "popularity": 0,
-    "description": null,
+    "description": "For ten months, director Britt Beyer accompanied students on an integration course at an adult education center in Berlin.",
     "imdb_rating": "7.7/10 from 29 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2013-03-25",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2013-04-25",
+    "datePublished": "2013-03-25",
+    "original_title": "Werden Sie Deutscher",
     "imdb_rating_average": 7.7,
-    "update_at": "2025-09-16T19:56:22"
+    "update_at": "2026-10-27T18:21:25"
 }

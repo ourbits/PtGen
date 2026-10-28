@@ -4,63 +4,111 @@
     "name": "Das Männerquartett",
     "site": "imdb",
     "year": "1978",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0461796/",
-            "name": "Klaus Knuth"
+            "name": "Klaus Knuth",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0559045/",
-            "name": "Peter Matic"
+            "name": "Peter Matic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0830275/",
-            "name": "Fred Stillkrauth"
+            "name": "Fred Stillkrauth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0051253/",
+            "name": "Gerd Baltus",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0301122/",
+            "name": "Michael Gahr",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0929564/",
+            "name": "Rainer Will",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0442304/",
+            "name": "Christine Kaufmann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4653394/",
+            "name": "Michael Cleff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0230382/",
+            "name": "Gloria Doer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0248937/",
+            "name": "Alfred Edel",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Klaus Knuth",
+            "Peter Matic",
+            "Fred Stillkrauth"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Leonhard Frank",
+            "Michael Verhoeven"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "Michael Verhoeven"
         ],
         "Release date": [
-            "January 16, 1978 (West Germany)"
+            "1978-01-16"
         ],
         "Country of origin": [
-            "West Germany"
-        ],
-        "Filming locations": [
-            "Bamberg, Bavaria, Germany"
-        ],
-        "Production companies": [
-            "Elan-Film Gierke & Company",
-            "Zweites Deutsches Fernsehen (ZDF)"
+            "Germany"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0291016/",
-            "name": "Leonhard Frank"
+            "name": "Leonhard Frank",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0894201/",
-            "name": "Michael Verhoeven"
+            "name": "Michael Verhoeven",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H35M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0894201/",
-            "name": "Michael Verhoeven"
+            "name": "Michael Verhoeven",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1187310/",
@@ -69,9 +117,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1978-01-16",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1978-01-16",
+    "original_title": "Das Männerquartett",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-15T03:26:29"
+    "update_at": "2026-10-27T03:42:09"
 }

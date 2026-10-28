@@ -4,31 +4,53 @@
     "name": "Un cineasta en La Codorniz",
     "site": "imdb",
     "year": "2012",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
+    "actors": [],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjg4OWJlNDEtOTQ2NC00YmYyLWJiNGMtNGEyNTg1MDIxNGEwXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "Spanish"
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Juanma Díaz",
+            "Javier Rioyo"
+        ],
+        "Runtime": [
+            "16 min"
+        ],
+        "Director": [
+            "Javier Rioyo"
         ],
         "Release date": [
-            "May 23, 2012 (Spain)"
-        ],
-        "Country of origin": [
-            "Spain"
-        ],
-        "Production company": [
-            "Creta Producciones"
+            "2012"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm5529487/",
+            "name": "Juanma Díaz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0727954/",
+            "name": "Javier Rioyo",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT16M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0727954/",
+            "name": "Javier Rioyo",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2716246/",
     "metascore": null,
@@ -38,7 +60,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2012-05-23",
+    "datePublished": "2012",
+    "original_title": "Un cineasta en La Codorniz",
     "imdb_rating_average": 0,
-    "update_at": "2026-03-25T00:35:26"
+    "update_at": "2026-10-27T17:14:46"
 }

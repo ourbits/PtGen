@@ -4,64 +4,88 @@
     "name": "Psy Show",
     "site": "imdb",
     "year": "1999",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Fantasy"
+        "Fantasy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0490734/",
-            "name": "Philippe Laudenbach"
+            "name": "Philippe Laudenbach",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0303145/",
-            "name": "Jean-François Gallotte"
+            "name": "Jean-François Gallotte",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Philippe Laudenbach",
+            "Jean-François Gallotte"
+        ],
+        "Genres": [
+            "Fantasy",
+            "Short"
+        ],
+        "Writer": [
+            "Marina de Van"
+        ],
+        "Runtime": [
+            "19 min"
+        ],
+        "Director": [
+            "Marina de Van"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "November 19, 1999 (Italy)"
+            "1999-01-01"
         ],
         "Country of origin": [
             "France"
-        ],
-        "Production companies": [
-            "Centre national du cinéma et de l'image animée (CNC)",
-            "Lazennec Tout Court"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0888418/",
-            "name": "Marina de Van"
+            "name": "Marina de Van",
+            "@type": "Person"
         }
     ],
     "duration": "PT19M",
     "keywords": [
-        "title directed by female"
+        "woman director"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0888418/",
-            "name": "Marina de Van"
+            "name": "Marina de Van",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0235698/",
     "metascore": null,
-    "imdb_votes": 61,
+    "imdb_votes": 60,
     "popularity": 0,
-    "description": "During a psychoanalysis session, a patient discovers with surprise that his analyst keeps moving on his chair.",
-    "imdb_rating": "6.6/10 from 61 users",
-    "release_date": [],
+    "description": "\"Psy-Show\" concerns a man approaching middle age, a fragile soul who becomes the plaything of his psychoanalyst who surreptitiously re-positions his quiet motorized chair as his patient lies on the couch.",
+    "imdb_rating": "6.6/10 from 60 users",
+    "release_date": [
+        {
+            "date": "1999-01-01",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1999-11-19",
+    "datePublished": "1999-01-01",
+    "original_title": "Psy Show",
     "imdb_rating_average": 6.6,
-    "update_at": "2025-05-13T13:26:34"
+    "update_at": "2026-10-27T21:21:16"
 }

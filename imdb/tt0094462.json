@@ -1,10 +1,19 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Um jeden Preis",
+            "country": "Germany"
+        },
+        {
+            "title": "Target: Favorite Son",
+            "country": "United States of America"
+        }
+    ],
     "sid": "tt0094462",
     "name": "Favorite Son",
     "site": "imdb",
     "year": "1988",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Action",
         "Thriller"
@@ -12,59 +21,123 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0002122/",
-            "name": "Harry Hamlin"
-        },
-        {
-            "url": "https://www.imdb.com/name/nm0582641/",
-            "name": "Lynnette Mettey"
+            "name": "Harry Hamlin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001282/",
-            "name": "Tony Goldwyn"
+            "name": "Tony Goldwyn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0582641/",
+            "name": "Lynnette Mettey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0571639/",
+            "name": "Philip McKeon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0404663/",
+            "name": "Rif Hutton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0243024/",
+            "name": "Rosemary Dunsmore",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0064187/",
+            "name": "Lou Beatty Jr.",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0265637/",
+            "name": "Michael Fairman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0091722/",
+            "name": "William Bogert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0339889/",
+            "name": "Mary Gregory",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTAyMjk4MTk3M15BMl5BanBnXkFtZTcwODE5NTIyMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/nB7Z1VpDWI1JmC9H3JmENJNMEyU.jpg",
     "details": {
+        "Stars": [
+            "Harry Hamlin",
+            "Tony Goldwyn",
+            "Lynnette Mettey"
+        ],
+        "Genres": [
+            "Action",
+            "Thriller"
+        ],
+        "Writer": [
+            "Steve Sohmer"
+        ],
+        "Runtime": [
+            "172 min"
+        ],
+        "Director": [
+            "Jeff Bleckner"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "October 30, 1988 (United States)"
-        ],
-        "Also known as": [
-            "Target: Favorite Son"
+            "1988-10-30"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Washington, District of Columbia, USA"
+            "United States of America"
         ],
         "Production companies": [
             "Steve Sohmer Productions",
             "NBC Productions"
         ]
     },
-    "reviews": 7,
-    "creators": [],
-    "duration": null,
+    "reviews": 0,
+    "tagline": "The only thing more dangerous than his politics... is the woman behind them.",
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0812289/",
+            "name": "Steve Sohmer",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT2H52M",
     "keywords": [
-        "sex scene",
-        "lingerie",
-        "garter belt",
-        "fbi federal bureau of investigation",
-        "teleplay adapted by author"
+        "conspiracy",
+        "miniseries",
+        "u.s. senator",
+        "usa politics"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0088121/",
+            "name": "Jeff Bleckner",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0094462/",
     "metascore": null,
-    "imdb_votes": 248,
+    "imdb_votes": 259,
     "popularity": 0,
-    "description": "Vice presidential candidate survives assassination, leading to uncovering of conspiracy by president&apos;s staff to ensure re-election through unscrupulous means. Investigator unravels the web of deceit.",
-    "imdb_rating": "7.2/10 from 248 users",
+    "description": "Favorite Son is a miniseries about political intrigue that aired on NBC in 1988 a week before that year's presidential election. It starred Harry Hamlin, Linda Kozlowski, James Whitmore, Robert Loggia, John Mahoney, Ronny Cox, and a pre-Seinfeld Jason Alexander. The miniseries was adapted from the 1987 novel of the same written by Steve Sohmer, who also wrote the teleplay.",
+    "imdb_rating": "7.3/10 from 259 users",
     "release_date": [],
-    "contentRating": "R",
+    "contentRating": null,
     "datePublished": "1988-10-30",
-    "imdb_rating_average": 7.2,
-    "update_at": "2025-06-05T22:52:17"
+    "original_title": "Favorite Son",
+    "imdb_rating_average": 7.3,
+    "update_at": "2026-10-27T19:07:31"
 }

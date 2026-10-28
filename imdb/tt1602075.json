@@ -3,62 +3,99 @@
     "sid": "tt1602075",
     "name": "Dinner",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2009",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Drama",
-        "Romance"
+        "Romance",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3810883/",
-            "name": "John McCabe"
+            "name": "John McCabe",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1269765/",
-            "name": "Karen Pavlick"
+            "name": "Karen Pavlick",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1975034/",
-            "name": "Mari Marks"
+            "name": "Mari Marks",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1154604/",
+            "name": "Noelle Arzillo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2624176/",
+            "name": "Mackenzie Brooke Smith",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3291718/",
+            "name": "Mark Woods",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "John McCabe",
+            "Karen Pavlick",
+            "Mari Marks"
         ],
-        "Country of origin": [
-            "United States"
+        "Genres": [
+            "Drama",
+            "Romance",
+            "Short"
+        ],
+        "Writer": [
+            "Jeremy McGovern"
+        ],
+        "Runtime": [
+            "17 min"
+        ],
+        "Director": [
+            "Jeremy McGovern"
+        ],
+        "Release date": [
+            "2009"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3705304/",
-            "name": "Jeremy McGovern"
+            "name": "Jeremy McGovern",
+            "@type": "Person"
         }
     ],
     "duration": "PT17M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3705304/",
-            "name": "Jeremy McGovern"
+            "name": "Jeremy McGovern",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1602075/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Did love give up on you, or did you give up on love?",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2009",
+    "original_title": "Dinner",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-28T08:49:40"
+    "update_at": "2026-10-27T18:14:16"
 }

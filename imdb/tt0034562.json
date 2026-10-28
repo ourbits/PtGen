@@ -5,71 +5,133 @@
     "site": "imdb",
     "year": "1943",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Drama"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0562841/",
-            "name": "Alfredo Mayo"
+            "name": "Alfredo Mayo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0729153/",
-            "name": "Amparo Rivelles"
+            "name": "Amparo Rivelles",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0126721/",
-            "name": "Florencia Bécquer"
+            "name": "Florencia Bécquer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0739190/",
+            "name": "Alberto Romea",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0694747/",
+            "name": "Miguel Pozanco",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0087339/",
+            "name": "Tomás Blanco",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0549579/",
+            "name": "Joaquina Maroto",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0181545/",
+            "name": "Juan Cortés",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0760632/",
+            "name": "Jacinto San Emeterio",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0483831/",
+            "name": "Roberto Lampaya",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmZjZDk5N2QtNjMwNy00MzJmLTk5ZDgtNmY0YTdjYmQzN2ZiXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Alfredo Mayo",
+            "Amparo Rivelles",
+            "Florencia Bécquer"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Juan López Núñez",
+            "Matías Cirici Ventalló",
+            "José Buchs"
+        ],
+        "Runtime": [
+            "98 min"
+        ],
+        "Director": [
+            "José Buchs"
+        ],
         "Language": [
             "Spanish"
         ],
         "Release date": [
-            "January 1, 1943 (Spain)"
-        ],
-        "Country of origin": [
-            "Spain"
-        ],
-        "Production company": [
-            "Compañía Industrial Film Español S.A. (CIFESA)"
+            "1943-01-01"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0529891/",
-            "name": "Juan López Núñez"
+            "name": "Juan López Núñez",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0162725/",
-            "name": "Matías Cirici Ventalló"
+            "name": "Matías Cirici Ventalló",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0118272/",
-            "name": "José Buchs"
+            "name": "José Buchs",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H38M",
-    "keywords": [
-        "melodrama"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0118272/",
-            "name": "José Buchs"
+            "name": "José Buchs",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0034562/",
     "metascore": null,
-    "imdb_votes": 10,
+    "imdb_votes": 12,
     "popularity": 0,
-    "description": "When well-bred Rafael meets beautiful but inconstant Eugenia he is fascinated to the point of even becoming a torero to please her wish for fame.",
-    "imdb_rating": "5.9/10 from 10 users",
-    "release_date": [],
+    "description": "Directed by José Buchs",
+    "imdb_rating": "5.8/10 from 12 users",
+    "release_date": [
+        {
+            "date": "1943-01-01",
+            "country": "Spain"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1943-01-01",
-    "imdb_rating_average": 5.9,
-    "update_at": "2025-05-22T07:13:22"
+    "original_title": "Un caballero famoso",
+    "imdb_rating_average": 5.8,
+    "update_at": "2026-10-27T22:00:23"
 }

@@ -3,61 +3,82 @@
     "sid": "tt1593381",
     "name": "Lemonade",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2007",
+    "@type": "VideoObject",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3318964/",
-            "name": "Fiona Battersby"
+            "name": "Fiona Battersby",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3318431/",
-            "name": "Hannah Battersby"
+            "name": "Hannah Battersby",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2749905/",
-            "name": "Jeremy Fishbein"
+            "name": "Jeremy Fishbein",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Fiona Battersby",
+            "Hannah Battersby",
+            "Jeremy Fishbein"
         ],
-        "Country of origin": [
-            "United States"
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Bree Essrig"
+        ],
+        "Runtime": [
+            "6 min"
+        ],
+        "Director": [
+            "Bree Essrig"
+        ],
+        "Release date": [
+            "2007"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2356026/",
-            "name": "Bree Essrig"
+            "name": "Bree Essrig",
+            "@type": "Person"
         }
     ],
     "duration": "PT6M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2356026/",
-            "name": "Bree Essrig"
+            "name": "Bree Essrig",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1593381/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Today&apos;s consumers are faced with many choices -- including which neighborhood lemonade stand to patronize! Two girls, Cindy and Jill, run competing lemonade stands to earn enough money for the dress of their dreams. A wry but swee...",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2007",
+    "original_title": "Lemonade",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-21T17:14:38"
+    "update_at": "2026-10-27T19:56:07"
 }

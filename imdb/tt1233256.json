@@ -3,53 +3,72 @@
     "sid": "tt1233256",
     "name": "Calvario",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2003",
+    "@type": "VideoObject",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1382270/",
-            "name": "Salvador Amaya"
+            "name": "Salvador Amaya",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0211060/",
-            "name": "Zahira de Quevedo"
+            "name": "Zahira de Quevedo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0261886/",
-            "name": "Alberto Estrella"
+            "name": "Alberto Estrella",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0303549/",
+            "name": "Alejandro Galán",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0137728/",
+            "name": "José Carlos Ruiz",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWRmODZmOGUtOWNjNC00ZjBmLWJiNWEtZjNlNDI1ZDEwNzMxXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/hltXrB6dsx4gjKgOxr9XGZqntRE.jpg",
     "details": {
+        "Stars": [
+            "Salvador Amaya",
+            "Zahira de Quevedo",
+            "Alberto Estrella"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Director": [
+            "José Medina"
+        ],
         "Language": [
             "Spanish"
         ],
         "Release date": [
-            "2003 (Mexico)"
+            "2003-12-31"
         ],
         "Country of origin": [
             "Mexico"
-        ],
-        "Filming locations": [
-            "Mexico"
-        ],
-        "Production company": [
-            "Cesar Balestra Producciones"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0575721/",
-            "name": "José Medina"
+            "name": "José Medina",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1233256/",
@@ -58,9 +77,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2003-12-31",
+            "country": "Mexico"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2003-12-31",
+    "original_title": "Calvario",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-01T22:35:07"
+    "update_at": "2026-10-27T10:07:17"
 }

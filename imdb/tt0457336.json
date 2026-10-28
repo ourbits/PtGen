@@ -1,5 +1,10 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Die Liebe einer Nonne",
+            "country": "Austria"
+        }
+    ],
     "sid": "tt0457336",
     "name": "Erinnerungen einer Nonne",
     "site": "imdb",
@@ -11,53 +16,88 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0634322/",
-            "name": "Mary Nolan"
+            "name": "Mary Nolan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0902450/",
-            "name": "Camilla von Hollay"
+            "name": "Camilla von Hollay",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0686038/",
-            "name": "Werner Pittschau"
+            "name": "Werner Pittschau",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0473960/",
+            "name": "Ellen Kürti",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0313308/",
+            "name": "Georg John",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/yDNWt7umdNAU9NgwZLQst7dpm3I.jpg",
     "details": {
-        "Languages": [
-            "None",
+        "Stars": [
+            "Mary Nolan",
+            "Camilla von Hollay",
+            "Werner Pittschau"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Arthur Bergen",
+            "Ernst Iros"
+        ],
+        "Director": [
+            "Arthur Bergen"
+        ],
+        "Language": [
             "German"
         ],
         "Release date": [
-            "February 24, 1927 (Germany)"
+            "1927-02-24"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Production company": [
+        "Production companies": [
             "Münchner Lichtspielkunst AG (Emelka)"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0074029/",
-            "name": "Arthur Bergen"
+            "name": "Arthur Bergen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0410094/",
-            "name": "Ernst Iros"
+            "name": "Ernst Iros",
+            "@type": "Person"
         }
     ],
-    "duration": null,
+    "duration": "PT1H58M",
     "keywords": [
-        ""
+        "berlin, germany",
+        "sexual abuse",
+        "silent film",
+        "1920s",
+        "illegal abortion"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0074029/",
-            "name": "Arthur Bergen"
+            "name": "Arthur Bergen",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0457336/",
@@ -66,9 +106,15 @@
     "popularity": 0,
     "description": "Sister Angelika has the power of life or death over her former tormentor, now sick and placed in her care.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1927-02-24",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1927-02-24",
+    "original_title": "Erinnerungen einer Nonne",
     "imdb_rating_average": 0,
-    "update_at": "2025-04-28T20:55:54"
+    "update_at": "2026-10-27T19:42:08"
 }
