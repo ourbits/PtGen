@@ -1,70 +1,103 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Dios, el Universo y todo lo demás",
+            "country": "Spain"
+        }
+    ],
     "sid": "tt1020960",
     "name": "God, the Universe and Everything Else",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1988",
+    "@type": "VideoObject",
     "genre": [
         "Talk-Show"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0536392/",
-            "name": "Magnus Magnusson"
+            "name": "Magnus Magnusson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0370071/",
-            "name": "Stephen Hawking"
+            "name": "Stephen Hawking",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0002009/",
-            "name": "Arthur C. Clarke"
+            "name": "Arthur C. Clarke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0755981/",
+            "name": "Carl Sagan",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTMwYmE3OTctZjEzNC00NGE1LWI3NjgtYzU4NGViZjhiNzQxXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/bItwIuVD8SDja8ME46i3TTpRJx3.jpg",
     "details": {
+        "Stars": [
+            "Magnus Magnusson",
+            "Stephen Hawking",
+            "Arthur C. Clarke"
+        ],
+        "Genres": [
+            "Talk-Show"
+        ],
+        "Runtime": [
+            "51 min"
+        ],
+        "Director": [
+            "Hector Stewart"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "1988 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Dios, el Universo y todo lo demás"
+            "1988-01-01"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Production company": [
-            "Central Independent Television"
+        "Production companies": [
+            "ITV Central"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT51M",
     "keywords": [
+        "black hole",
+        "god",
         "extraterrestrial",
-        "big bang",
-        "universe",
-        "reference to god",
-        "discussion"
+        "space",
+        "existence"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2639372/",
-            "name": "Hector Stewart"
+            "name": "Hector Stewart",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1020960/",
     "metascore": null,
-    "imdb_votes": 221,
+    "imdb_votes": 226,
     "popularity": 0,
     "description": "In a studio setting, Stephen Hawking, Arthur C. Clarke and Carl Sagan (who joins them via satellite) discuss the Big Bang theory, God, our existence as well as the possibility of extraterrestrial life.",
-    "imdb_rating": "7.8/10 from 221 users",
-    "release_date": [],
-    "contentRating": null,
-    "datePublished": null,
+    "imdb_rating": "7.8/10 from 226 users",
+    "release_date": [
+        {
+            "date": "1988-01-01",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "G",
+    "datePublished": "1988-01-01",
+    "original_title": "God, the Universe and Everything Else",
     "imdb_rating_average": 7.8,
-    "update_at": "2025-08-06T12:14:05"
+    "update_at": "2026-10-28T22:00:47"
 }

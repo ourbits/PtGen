@@ -1,10 +1,27 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Paholaisen kierre",
+            "country": "Finland"
+        },
+        {
+            "title": "Gioco tragico",
+            "country": "Italy"
+        },
+        {
+            "title": "Destination Alcatraz",
+            "country": "Germany"
+        },
+        {
+            "title": "Nervenkitzel",
+            "country": "Germany"
+        }
+    ],
     "sid": "tt0089414",
     "name": "Kicks",
     "site": "imdb",
     "year": "1985",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Thriller"
@@ -12,69 +29,122 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0311270/",
-            "name": "Anthony Geary"
+            "name": "Anthony Geary",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0352379/",
-            "name": "Shelley Hack"
+            "name": "Shelley Hack",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0556985/",
-            "name": "Tom Mason"
+            "name": "Tom Mason",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000718/",
+            "name": "Ian Abercrombie",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0711880/",
+            "name": "Susan Ruttan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0043041/",
+            "name": "James Avery",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0147738/",
+            "name": "Larry Cedar",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0193992/",
+            "name": "Tim Cutt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0237979/",
+            "name": "Ralph Drischell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0282551/",
+            "name": "Joe Flood",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTQ5YWQ0M2UtNzAxOS00NTQ1LTlmYTEtMDNkYWE1OGZhMDQ5XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/oHWnkZRrYGFnUDfswB0gUu6lCRX.jpg",
     "details": {
+        "Stars": [
+            "Anthony Geary",
+            "Shelley Hack",
+            "Tom Mason"
+        ],
+        "Genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "Writer": [
+            "David Levinson"
+        ],
+        "Runtime": [
+            "100 min"
+        ],
+        "Director": [
+            "William Wiard"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 11, 1985 (United States)"
-        ],
-        "Also known as": [
-            "Destination Alcatraz"
+            "1985-03-11"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "California, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "ABC Circle Films"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0506032/",
-            "name": "David Levinson"
+            "name": "David Levinson",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H40M",
-    "keywords": [
-        "cobra",
-        "snake",
-        "game",
-        "one word title",
-        "woman professor"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0911926/",
-            "name": "William Wiard"
+            "name": "William Wiard",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0089414/",
     "metascore": null,
-    "imdb_votes": 46,
+    "imdb_votes": 53,
     "popularity": 0,
     "description": "A wealthy man with a penchant for living on the edge and engaging in dangerous, life-threatening activities becomes romantically involved with a female university professor who has the same proclivities.",
-    "imdb_rating": "6.5/10 from 46 users",
-    "release_date": [],
-    "contentRating": "PG",
+    "imdb_rating": "6.2/10 from 53 users",
+    "release_date": [
+        {
+            "date": "1985-03-11",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1985-03-11",
-    "imdb_rating_average": 6.5,
-    "update_at": "2025-08-11T22:49:22"
+    "original_title": "Kicks",
+    "imdb_rating_average": 6.2,
+    "update_at": "2026-10-28T21:56:08"
 }

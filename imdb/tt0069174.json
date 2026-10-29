@@ -12,79 +12,138 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0095718/",
-            "name": "James Booth"
+            "name": "James Booth",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001972/",
-            "name": "Richard Briers"
+            "name": "Richard Briers",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0250774/",
-            "name": "Julie Ege"
+            "name": "Julie Ege",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0292226/",
+            "name": "Ronald Fraser",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0801786/",
+            "name": "Donald Sinden",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0157796/",
+            "name": "Tsai Chin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0178560/",
+            "name": "Kenneth Cope",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0920272/",
+            "name": "John Wells",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0589711/",
+            "name": "Spike Milligan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0391649/",
+            "name": "Winnie Holman",
+            "@type": "Person"
         }
     ],
-    "critic": 6,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjkwODM1MzIwMV5BMl5BanBnXkFtZTgwMDMyODk1MDE@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/gKnqUYWJA6HyWuEWBC750SAHdxI.jpg",
     "details": {
+        "Stars": [
+            "James Booth",
+            "Richard Briers",
+            "Julie Ege"
+        ],
+        "Genres": [
+            "Comedy",
+            "Crime"
+        ],
+        "Writer": [
+            "Graham Chapman",
+            "John Cleese",
+            "John Fortune"
+        ],
+        "Runtime": [
+            "94 min"
+        ],
+        "Director": [
+            "Jim Clark"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "June 29, 1972 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Rentasleuth"
+            "1972-12-31"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Filming locations": [
-            "High Canons, Buckettsland Lane, Well End, Hertfordshire, England, UK"
-        ],
         "Production companies": [
             "David Paradine Productions",
             "The Rank Organisation",
-            "Virgin Film Productions Limited"
+            "Virgin Films"
         ]
     },
-    "reviews": 9,
+    "reviews": 0,
+    "tagline": "We can't describe it to you... You'll just have to see it. Then see it again.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0001037/",
-            "name": "Graham Chapman"
+            "name": "Graham Chapman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000092/",
-            "name": "John Cleese"
+            "name": "John Cleese",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0287432/",
-            "name": "John Fortune"
+            "name": "John Fortune",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H34M",
     "keywords": [
-        "japanese",
-        "detective agency",
-        "bound and gagged",
-        "gas",
-        "double cross"
+        "detective agency"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0164083/",
-            "name": "Jim Clark"
+            "name": "Jim Clark",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0069174/",
     "metascore": null,
-    "imdb_votes": 289,
+    "imdb_votes": 357,
     "popularity": 0,
-    "description": "The incompetent detectives of Rentadick, Inc. track thieves of an experimental nerve gas that paralyzes from the waist down.",
-    "imdb_rating": "3.9/10 from 289 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
-    "datePublished": "1972-06-29",
-    "imdb_rating_average": 3.9,
-    "update_at": "2025-02-10T00:32:59"
+    "description": "Armitage runs a chemical company that is on the verge of producing a gas that causes temporary disability. Clearly the military want it but it is also sought by a group of Japanese. Both Armitage and Madam Greenfly hire different people in the same detective agency to guard the gas and steal it respectively... confusion, double crosses and hilarity ensue...",
+    "imdb_rating": "3.8/10 from 357 users",
+    "release_date": [
+        {
+            "date": "1972-12-31",
+            "country": "United Kingdom"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1972-12-31",
+    "original_title": "Rentadick",
+    "imdb_rating_average": 3.8,
+    "update_at": "2026-10-28T02:42:32"
 }

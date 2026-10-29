@@ -4,78 +4,127 @@
     "name": "Playboy: The Ultimate Pamela Anderson",
     "site": "imdb",
     "year": "2002",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000097/",
-            "name": "Pamela Anderson"
+            "name": "Pamela Anderson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1996257/",
-            "name": "Barry Anderson"
+            "name": "Barry Anderson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1991746/",
-            "name": "Carol Anderson"
+            "name": "Carol Anderson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2344493/",
+            "name": "Brandon Thomas Lee",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2343612/",
+            "name": "Dylan Jagger Lee",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005005/",
+            "name": "Hugh Hefner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1986898/",
+            "name": "Stephen Wayda",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0333286/",
+            "name": "Marilyn Grabowski",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzA4NzkxMDkxNV5BMl5BanBnXkFtZTcwNTkwMTMyMQ@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/nYAAog4ZzHIIubzqV35zj576Cjy.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Pamela Anderson",
+            "Barry Anderson",
+            "Carol Anderson"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Writer": [
+            "Derek Harvey",
+            "Frank Martin",
+            "Andrew Swift"
+        ],
+        "Runtime": [
+            "50 min"
+        ],
+        "Director": [
+            "Derek Harvey"
         ],
         "Release date": [
-            "February 4, 2002 (United States)"
+            "2002-01-01"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
-            "Playboy Entertainment Group"
+        "Production companies": [
+            "Playboy Home Video"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2609073/",
-            "name": "Derek Harvey"
+            "name": "Derek Harvey",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0552295/",
-            "name": "Frank Martin"
+            "name": "Frank Martin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0842565/",
-            "name": "Andrew Swift"
+            "name": "Andrew Swift",
+            "@type": "Person"
         }
     ],
     "duration": "PT50M",
-    "keywords": [
-        "actress name in title",
-        "five word title",
-        "blonde woman",
-        "female full frontal nudity",
-        "playboy magazine"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2609073/",
-            "name": "Derek Harvey"
+            "name": "Derek Harvey",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0357261/",
     "metascore": null,
-    "imdb_votes": 163,
+    "imdb_votes": 165,
     "popularity": 0,
     "description": "Playboy brings you everything Pamela, from her discovery to present day and all in one place.",
-    "imdb_rating": "7.2/10 from 163 users",
-    "release_date": [],
-    "contentRating": "R",
-    "datePublished": "2002-02-04",
-    "imdb_rating_average": 7.2,
-    "update_at": "2025-04-24T21:15:42"
+    "imdb_rating": "7.1/10 from 165 users",
+    "release_date": [
+        {
+            "date": "2002-01-01",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NC-17",
+    "datePublished": "2002-01-01",
+    "original_title": "Playboy: The Ultimate Pamela Anderson",
+    "imdb_rating_average": 7.1,
+    "update_at": "2026-10-28T18:00:15"
 }

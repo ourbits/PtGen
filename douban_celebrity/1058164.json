@@ -4,7 +4,8 @@
     "site": "douban_celebrity",
     "roles": [
         "演员",
-        "编剧"
+        "编剧",
+        "导演"
     ],
     "awards": [],
     "gender": "",
@@ -15,6 +16,20 @@
     "birth_date": "1971年4月4日",
     "birth_place": "摩洛哥,纳祖尔",
     "last_movies": [
+        {
+            "id": 38508586,
+            "year": "2028",
+            "cover": "https://asset.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Skeer",
+            "release": 0
+        },
+        {
+            "id": 38233165,
+            "year": "2026",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2934286279.jpg",
+            "title": "警界乌龙档",
+            "release": 1
+        },
         {
             "id": 36085357,
             "year": "2022",
@@ -39,21 +54,14 @@
         {
             "id": 5206356,
             "year": "2001",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "cover": "https://asset.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Najib Amhali: Freefight",
-            "release": 1
-        },
-        {
-            "id": 5092613,
-            "year": "1999",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2906565139.jpg",
-            "title": "De boekverfilming",
             "release": 1
         },
         {
             "id": 3421078,
             "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "cover": "https://asset.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "间谍女王",
             "release": 1
         },
@@ -74,14 +82,14 @@
         {
             "id": 2032152,
             "year": "2002",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "cover": "https://asset.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Najib en Julia",
             "release": 1
         },
         {
             "id": 1433087,
             "year": "2004",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "cover": "https://asset.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Hush Hush Baby",
             "release": 1
         }
@@ -94,5 +102,5 @@
     "personage_link": "https://www.douban.com/personage/27263900/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-05-26T01:44:10"
+    "update_at": "2026-10-28T10:07:31"
 }

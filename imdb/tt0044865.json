@@ -4,48 +4,116 @@
     "name": "Madeline",
     "site": "imdb",
     "year": "1952",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Animation",
-        "Short",
-        "Family"
+        "Family",
+        "Short"
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGUyMDU0OTEtZTRhZC00N2IyLTk4ZDItZjM3YjExMTA4OTk0XkEyXkFqcGc@._V1_.jpg",
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0390696/",
+            "name": "Gladys Holland",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0390696/",
+            "name": "Gladys Holland",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0390696/",
+            "name": "Gladys Holland",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/g2yFPAeFjlLswdgAKSjhoxzjJsC.jpg",
     "details": {
-        "Languages": [
+        "Stars": [
+            "Gladys Holland",
+            "Gladys Holland",
+            "Gladys Holland"
+        ],
+        "Genres": [
+            "Animation",
+            "Family",
+            "Short"
+        ],
+        "Writer": [
+            "Ludwig Bemelmans",
+            "Robert Cannon",
+            "T. Hee"
+        ],
+        "Runtime": [
+            "7 min"
+        ],
+        "Director": [
+            "Robert Cannon",
+            "John Hubley"
+        ],
+        "Language": [
             "English",
             "French"
         ],
         "Release date": [
-            "November 27, 1952 (United States)"
+            "1952-11-27"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
-            "United Productions of America (UPA)"
+        "Production companies": [
+            "United Productions of America"
         ]
     },
-    "reviews": 5,
-    "creators": [],
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0069840/",
+            "name": "Ludwig Bemelmans",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0134255/",
+            "name": "Robert Cannon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0373429/",
+            "name": "T. Hee",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT7M",
-    "keywords": [
-        "based on children&apos;s book",
-        "firefighter",
-        "eiffel tower paris",
-        "flower",
-        "voice over narration"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0134255/",
+            "name": "Robert Cannon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0399524/",
+            "name": "John Hubley",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0044865/",
     "metascore": null,
-    "imdb_votes": 286,
+    "imdb_votes": 315,
     "popularity": 0,
-    "description": "In an old house in Paris that was covered in vines, lived twelve little girls in two straight lines.",
-    "imdb_rating": "6.6/10 from 286 users",
-    "release_date": [],
-    "contentRating": "Approved",
+    "description": "This short from the UPA studio was nominated for the 1952 Oscars. Based on the Madeline series of children's books.",
+    "imdb_rating": "6.7/10 from 315 users",
+    "release_date": [
+        {
+            "date": "1952-11-27",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1952-11-27",
-    "imdb_rating_average": 6.6,
-    "update_at": "2025-10-12T11:29:16"
+    "original_title": "Madeline",
+    "imdb_rating_average": 6.7,
+    "update_at": "2026-10-28T16:56:55"
 }

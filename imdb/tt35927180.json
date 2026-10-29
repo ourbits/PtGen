@@ -4,29 +4,62 @@
     "name": "The Cigarette",
     "site": "imdb",
     "year": "2023",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm10669130/",
+            "name": "Kendra Sow",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm9317345/",
+            "name": "Jack Tan",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjQ2OWFjMzUtZGE1Ni00MmE0LWFjOWMtMWVkYjVhNWExNmEyXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Kendra Sow",
+            "Jack Tan"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Anthony Chen"
+        ],
+        "Runtime": [
+            "5 min"
+        ],
+        "Director": [
+            "Anthony Chen"
+        ],
         "Release date": [
-            "September 15, 2023 (Belgium)"
-        ],
-        "Production company": [
-            "Film Fest Gent"
-        ],
-        "Countries of origin": [
-            "Singapore",
-            "Belgium"
+            "2023"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm2021547/",
+            "name": "Anthony Chen",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT5M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm2021547/",
+            "name": "Anthony Chen",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt35927180/",
     "metascore": null,
@@ -36,7 +69,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2023-09-15",
+    "datePublished": "2023",
+    "original_title": "The Cigarette",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-22T04:13:15"
+    "update_at": "2026-10-28T11:56:07"
 }

@@ -5,42 +5,122 @@
     "site": "imdb",
     "year": "1965",
     "@type": "TVSeries",
-    "genre": null,
+    "genre": [
+        "Talk"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0850768/",
-            "name": "Niilo Tarvajärvi"
+            "name": "Niilo Tarvajärvi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2154007/",
+            "name": "Irina Hudova",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0526247/",
-            "name": "Tamara Lund"
+            "name": "Tamara Lund",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0765356/",
+            "name": "Rami Sarmasto",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3494070/",
+            "name": "Jorma Ylönen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3494025/",
-            "name": "Kylänpojat"
+            "name": "Kylänpojat",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0658676/",
+            "name": "Tauno Palo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0712187/",
+            "name": "Tapio Rautavaara",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0664218/",
+            "name": "Spede Pasanen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0427018/",
+            "name": "Leo Jokela",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Niilo Tarvajärvi",
+            "Irina Hudova",
+            "Tamara Lund"
+        ],
+        "Genres": [
+            "Talk"
+        ],
+        "Writer": [
+            "Aarne Tarkas",
+            "Teppo J. Suonperä"
+        ],
+        "Director": [
+            "Jouko Sorjanen",
+            "Pekka Parikka"
+        ],
         "Language": [
             "Finnish"
         ],
         "Release date": [
-            "January 3, 1965 (Finland)"
+            "1965-02-07"
         ],
         "Country of origin": [
             "Finland"
         ],
-        "Production company": [
-            "Mainostelevisio (MTV)"
+        "Production companies": [
+            "MTV"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0850466/",
+            "name": "Aarne Tarkas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3478056/",
+            "name": "Teppo J. Suonperä",
+            "@type": "Person"
+        }
+    ],
     "duration": null,
     "keywords": [
-        ""
+        "charity"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm2735028/",
+            "name": "Jouko Sorjanen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0661502/",
+            "name": "Pekka Parikka",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1454047/",
     "metascore": null,
@@ -50,7 +130,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1965-01-03",
+    "datePublished": "1965-02-07",
+    "original_title": "Ilmasilta",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-03T08:52:14"
+    "update_at": "2026-10-28T06:14:47"
 }

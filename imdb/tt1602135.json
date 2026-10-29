@@ -4,7 +4,7 @@
     "name": "Alfonso, el príncipe maldito",
     "site": "imdb",
     "year": "2010",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Biography",
         "Drama"
@@ -12,48 +12,114 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0305825/",
-            "name": "José Luis García-Pérez"
+            "name": "José Luis García-Pérez",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1017292/",
-            "name": "Cristina Peña"
+            "name": "Cristina Peña",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0266540/",
-            "name": "Fiorella Faltoyano"
+            "name": "Fiorella Faltoyano",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0815505/",
+            "name": "Aníbal Soto",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2301079/",
+            "name": "Guadalupe Lancho",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3943935/",
+            "name": "José Sánchez Orosa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0317762/",
+            "name": "Fernando Gil",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1746761/",
+            "name": "María Delgado",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0896322/",
+            "name": "Francisco Vidal",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0094552/",
+            "name": "Eric Bonicatto",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDk5MTdhZjYtMzgzZS00NmI2LWI0OGYtZjVhNDdjMWM1ZDExXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/oj669xrTXHhA8Bp6XfOZZhCpn6O.jpg",
     "details": {
-        "Language": [
-            "Spanish"
+        "Stars": [
+            "José Luis García-Pérez",
+            "Cristina Peña",
+            "Fiorella Faltoyano"
+        ],
+        "Genres": [
+            "Biography",
+            "Drama"
+        ],
+        "Writer": [
+            "Ángela Armero"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Álvaro Fernández Armero"
         ],
         "Release date": [
-            "September 15, 2010 (Spain)"
+            "2010-09-15"
         ],
         "Country of origin": [
             "Spain"
         ],
-        "Production company": [
+        "Production companies": [
             "Videomedia"
         ]
     },
     "reviews": 0,
-    "creators": [],
-    "duration": null,
-    "keywords": [
-        "tv mini series"
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm1409606/",
+            "name": "Ángela Armero",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT1H",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0273208/",
+            "name": "Álvaro Fernández Armero",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1602135/",
     "metascore": null,
-    "imdb_votes": 40,
+    "imdb_votes": 41,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "5.8/10 from 40 users",
+    "imdb_rating": "5.9/10 from 41 users",
     "release_date": [],
     "contentRating": null,
     "datePublished": "2010-09-15",
-    "imdb_rating_average": 5.8,
-    "update_at": "2025-08-30T08:00:28"
+    "original_title": "Alfonso, el príncipe maldito",
+    "imdb_rating_average": 5.9,
+    "update_at": "2026-10-28T21:35:23"
 }

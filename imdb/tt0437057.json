@@ -4,7 +4,7 @@
     "name": "93, rue Lauriston",
     "site": "imdb",
     "year": "2004",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Drama",
@@ -13,65 +13,125 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0003508/",
-            "name": "Michel Blanc"
+            "name": "Michel Blanc",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0494078/",
-            "name": "Samuel Le Bihan"
+            "name": "Samuel Le Bihan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0488417/",
-            "name": "Gérald Laroche"
+            "name": "Gérald Laroche",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0751606/",
+            "name": "Daniel Russo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0695309/",
+            "name": "Eric Prat",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0153340/",
+            "name": "Christian Charmetant",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0494394/",
+            "name": "Manuel Le Lièvre",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0108486/",
+            "name": "Hervé Briaux",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0344470/",
+            "name": "Olga Grumberg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0624573/",
+            "name": "Jean Nehr",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmRkZThjYTktNjU2Ni00MTdmLTgzZjYtYjE2MGUxYmM3NmM4XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/k5skmFwuZj9Q7cpd4hZreoaIbGJ.jpg",
     "details": {
+        "Stars": [
+            "Michel Blanc",
+            "Samuel Le Bihan",
+            "Gérald Laroche"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama",
+            "History"
+        ],
+        "Writer": [
+            "Jean-Claude Grumberg"
+        ],
+        "Runtime": [
+            "99 min"
+        ],
+        "Director": [
+            "Denys Granier-Deferre"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "December 14, 2004 (France)"
+            "2004-12-14"
         ],
         "Country of origin": [
             "France"
         ],
         "Production companies": [
-            "GMT Productions",
+            "Okko Production",
             "Canal+",
-            "Okko Productions"
+            "GMT Productions"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0344467/",
-            "name": "Jean-Claude Grumberg"
+            "name": "Jean-Claude Grumberg",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H39M",
-    "keywords": [
-        "nazi occupied france",
-        "address in title",
-        "address as title",
-        "french gestapo",
-        "torture by drowning"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0335131/",
-            "name": "Denys Granier-Deferre"
+            "name": "Denys Granier-Deferre",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0437057/",
     "metascore": null,
-    "imdb_votes": 174,
+    "imdb_votes": 178,
     "popularity": 0,
-    "description": "93, rue Lauriston, in the 16th arrondissement de Paris, is an address of bleak memory. It was indeed the headquarter of the French Gestapo, which was active between 1941 and 1944 and was headed by Henri Lafont and Pierre Loutrel, ...",
-    "imdb_rating": "6.7/10 from 174 users",
-    "release_date": [],
+    "description": "93, rue Lauriston, in the 16th arrondissement de Paris, is an address of bleak memory. It was indeed the headquarter of the French Gestapo, which was active between 1941 and 1944 and was headed by Henri Lafont and Pierre Loutrel, two wanted criminals. On the day of 1940 he was demobilized, little did well-meaning Léon Jabinet know that he would be associated with such disreputable characters. And yet, some time later, Odile Panzer, the Jewish girl he has been hiding at his parents'place, is arrested by the Gestapo. On this occasion Léon is offered a deal for her release: collaborating with the Carlingue (another name for the French auxiliaries of the Nazi police) and Odile will be free. Or else... What should he do?",
+    "imdb_rating": "6.7/10 from 178 users",
+    "release_date": [
+        {
+            "date": "2004-12-14",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2004-12-14",
+    "original_title": "93, rue Lauriston",
     "imdb_rating_average": 6.7,
-    "update_at": "2025-08-09T08:42:36"
+    "update_at": "2026-10-28T21:35:08"
 }

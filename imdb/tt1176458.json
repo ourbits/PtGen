@@ -4,7 +4,7 @@
     "name": "Smokers",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Action",
         "Crime"
@@ -12,74 +12,131 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1513066/",
-            "name": "Aida Angotti"
+            "name": "Aida Angotti",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2974622/",
-            "name": "Noelle Barrick"
+            "name": "Noelle Barrick",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2974465/",
-            "name": "Sarah Jean Bolger"
+            "name": "Sarah Jean Bolger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3046213/",
+            "name": "John Chia-Lin Chang",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2975021/",
+            "name": "Aurelien Deseze",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2971040/",
+            "name": "Pete Diaz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2971052/",
+            "name": "Nick Ferrante",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2974626/",
+            "name": "Flite",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1638057/",
+            "name": "William Franke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2971065/",
+            "name": "Damien Gonzales",
+            "@type": "Person"
         }
     ],
-    "critic": 4,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTY2MzE2MTI2MV5BMl5BanBnXkFtZTcwMjIyNTE2MQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": null,
     "details": {
+        "Stars": [
+            "Aida Angotti",
+            "Noelle Barrick",
+            "Sarah Jean Bolger"
+        ],
+        "Genres": [
+            "Action",
+            "Crime"
+        ],
+        "Writer": [
+            "W. Axel Foley",
+            "Michael J. Hull"
+        ],
+        "Runtime": [
+            "93 min"
+        ],
+        "Director": [
+            "W. Axel Foley",
+            "Michael J. Hull"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 24, 2008 (United States)"
+            "2008-03-24"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Brooklyn, New York City, New York, USA"
-        ],
-        "Production company": [
-            "Fifth Column Films"
+            "United States of America"
         ]
     },
-    "reviews": 5,
+    "reviews": 0,
+    "tagline": "Get Ready for the Next Big Hit",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2040006/",
-            "name": "W. Axel Foley"
+            "name": "W. Axel Foley",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0401457/",
-            "name": "Michael J. Hull"
+            "name": "Michael J. Hull",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H33M",
-    "keywords": [
-        "weed",
-        "drugs",
-        "neo noir",
-        "pot",
-        "marijuana"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2040006/",
-            "name": "W. Axel Foley"
+            "name": "W. Axel Foley",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0401457/",
-            "name": "Michael J. Hull"
+            "name": "Michael J. Hull",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1176458/",
     "metascore": null,
-    "imdb_votes": 192,
+    "imdb_votes": 191,
     "popularity": 0,
-    "description": "Aaron, a Kansas transplant, is alone in New York City and just wants to buy a bag of weed.",
-    "imdb_rating": "3.3/10 from 192 users",
-    "release_date": [],
-    "contentRating": "Unrated",
+    "description": "Aaaron, a Kansas transplant is alone in New York City and just wants to buy a bag of weed.",
+    "imdb_rating": "3.3/10 from 191 users",
+    "release_date": [
+        {
+            "date": "2008-03-24",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2008-03-24",
+    "original_title": "Smokers",
     "imdb_rating_average": 3.3,
-    "update_at": "2025-08-23T22:42:27"
+    "update_at": "2026-10-29T00:28:07"
 }

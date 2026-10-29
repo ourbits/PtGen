@@ -3,65 +3,109 @@
     "sid": "tt22889280",
     "name": "Caillou",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2022",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm10784229/",
-            "name": "Lucien Arnaud"
+            "name": "Lucien Arnaud",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0322479/",
-            "name": "Delphine Gleize"
+            "name": "Delphine Gleize",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm14161758/",
-            "name": "Eva Yelmani"
+            "name": "Eva Yelmani",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm14161759/",
+            "name": "Xavier Laforesterie",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1903784/",
+            "name": "Samuel Achache",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1719934/",
+            "name": "Pascale Bodet",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjQyYTM1NWYtNjczNC00ODQxLTllN2YtYjJkMzQ0NzVmMjRhXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Lucien Arnaud",
+            "Delphine Gleize",
+            "Eva Yelmani"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Mathilde Poymiro"
+        ],
+        "Runtime": [
+            "25 min"
+        ],
+        "Director": [
+            "Mathilde Poymiro"
+        ],
         "Language": [
             "French"
+        ],
+        "Release date": [
+            "2022-06-09"
         ],
         "Country of origin": [
             "France"
         ],
         "Production companies": [
-            "Barberousse Films",
-            "Centre national du cinéma et de l'image animée (CNC)",
-            "Région Nouvelle-Aquitaine"
+            "Barberousse Films"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3641025/",
-            "name": "Mathilde Poymiro"
+            "name": "Mathilde Poymiro",
+            "@type": "Person"
         }
     ],
     "duration": "PT25M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3641025/",
-            "name": "Mathilde Poymiro"
+            "name": "Mathilde Poymiro",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt22889280/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "The father of seventeen-year-old Elias suddenly dies. At school as well as at home, his friends and relatives await his reaction, which doesn&apos;t occur. Elias continues his life as if nothing had happened",
+    "description": "The father of seventeen-year-old Elias suddenly dies. At school as well as at home, his friends and relatives await his reaction, which doesn't occur. Elias continues his life as if nothing had happened.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2022-06-09",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2022-06-09",
+    "original_title": "Caillou",
     "imdb_rating_average": 0,
-    "update_at": "2025-02-11T15:00:06"
+    "update_at": "2026-10-28T03:21:24"
 }

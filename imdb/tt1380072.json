@@ -4,7 +4,7 @@
     "name": "Cowboy Killer",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Comedy",
         "Horror"
@@ -12,73 +12,128 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2379536/",
-            "name": "Paul Bailey"
+            "name": "Paul Bailey",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3333685/",
-            "name": "Rich Adams"
+            "name": "Rich Adams",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3333947/",
-            "name": "Sylvia Beeken"
+            "name": "Sylvia Beeken",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2960498/",
+            "name": "Delvin Brooks",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2014719/",
+            "name": "David Buckler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2386878/",
+            "name": "Jerett Burton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2816541/",
+            "name": "Paul Busetti",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2364877/",
+            "name": "Jaymes Camery",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3334263/",
+            "name": "Gene Campbell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3333225/",
+            "name": "Anthony Carlyle",
+            "@type": "Person"
         }
     ],
-    "critic": 25,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMjI1MDkyMV5BMl5BanBnXkFtZTcwMzYxNjk0Mg@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/9GSt7LTOY8SoyrqWbjqWsi0GANP.jpg",
     "details": {
+        "Stars": [
+            "Paul Bailey",
+            "Rich Adams",
+            "Sylvia Beeken"
+        ],
+        "Genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "Writer": [
+            "Jaymes Camery",
+            "Ben Solenberger"
+        ],
+        "Runtime": [
+            "80 min"
+        ],
+        "Director": [
+            "Jason Baustin"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "June 13, 2008 (United States)"
-        ],
-        "Official site": [
-            "Official site - http://www.cowboykillerthemovie.com/"
+            "2008-01-01"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Winchester, Virginia, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Cacchiotti Productions"
         ]
     },
-    "reviews": 6,
+    "reviews": 0,
+    "tagline": "You're in for a damn treat...",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2364877/",
-            "name": "Jaymes Camery"
+            "name": "Jaymes Camery",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2103403/",
-            "name": "Ben Solenberger"
+            "name": "Ben Solenberger",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H20M",
-    "keywords": [
-        "slasher",
-        "serial killer",
-        "small town",
-        "female full frontal nudity",
-        "female nudity"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2364848/",
-            "name": "Jason Baustin"
+            "name": "Jason Baustin",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1380072/",
     "metascore": null,
-    "imdb_votes": 93,
+    "imdb_votes": 95,
     "popularity": 0,
-    "description": "Polite and soft-spoken roving serial killer Roy Thompson fancies himself as an old school cowboy. Roy stops off at a sleepy small town in the Midwest and starts bumping off the locals. When the police prove fail to effectively han...",
-    "imdb_rating": "4.1/10 from 93 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
-    "datePublished": "2008-06-13",
+    "description": "Polite and soft-spoken roving serial killer Roy Thompson fancies himself as an old school cowboy. Roy stops off at a sleepy small town in the Midwest and starts bumping off the locals. When the police prove fail to effectively handle the situation, various quirky residents band together as a vigilante posse and hunt Roy down.",
+    "imdb_rating": "4.1/10 from 95 users",
+    "release_date": [
+        {
+            "date": "2008-01-01",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
+    "datePublished": "2008-01-01",
+    "original_title": "Cowboy Killer",
     "imdb_rating_average": 4.1,
-    "update_at": "2025-05-07T13:39:45"
+    "update_at": "2026-10-28T04:35:20"
 }

@@ -4,31 +4,68 @@
     "name": "Aida",
     "site": "imdb",
     "year": "1968",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Musical"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm3133117/",
+            "name": "Irma Rewell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3481116/",
+            "name": "Esa Uusitalo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3481062/",
+            "name": "Eino Vuorimaa",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Finnish"
+        "Stars": [
+            "Irma Rewell",
+            "Esa Uusitalo",
+            "Eino Vuorimaa"
+        ],
+        "Genres": [
+            "Musical"
+        ],
+        "Writer": [
+            "Irma Rewell"
+        ],
+        "Runtime": [
+            "110 min"
+        ],
+        "Director": [
+            "Heimo Palander"
         ],
         "Release date": [
-            "January 7, 1968 (Finland)"
-        ],
-        "Country of origin": [
-            "Finland"
-        ],
-        "Production company": [
-            "Yleisradio (YLE)"
+            "1968"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm3133117/",
+            "name": "Irma Rewell",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT1H50M",
-    "keywords": [
-        "opera"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0657361/",
+            "name": "Heimo Palander",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1481341/",
     "metascore": null,
@@ -38,7 +75,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1968-01-07",
+    "datePublished": "1968",
+    "original_title": "Aida",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-10T18:00:15"
+    "update_at": "2026-10-29T01:56:08"
 }

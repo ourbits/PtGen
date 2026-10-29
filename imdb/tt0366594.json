@@ -4,74 +4,129 @@
     "name": "Ein Hund kam in die Küche",
     "site": "imdb",
     "year": "2002",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0604349/",
-            "name": "Tobias Moretti"
+            "name": "Tobias Moretti",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0248600/",
-            "name": "Andrea Eckert"
+            "name": "Andrea Eckert",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0580901/",
-            "name": "Karl Merkatz"
+            "name": "Karl Merkatz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0548101/",
+            "name": "Nicole Marischka",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0470059/",
+            "name": "Nino Kratzer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0777768/",
+            "name": "Heinrich Schweiger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0542278/",
+            "name": "Erni Mangold",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0544749/",
+            "name": "Heinz Marecek",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0434753/",
+            "name": "Mathias Kahler-Polagnoli",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0379021/",
+            "name": "Heinrich Herki",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjE3ZDZhMTUtZWEwMy00ZjZmLWE4NDMtZGIxMmNjYTg4NzBiXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/8bSF3C523f54x8GyY28poxs2DtK.jpg",
     "details": {
+        "Stars": [
+            "Tobias Moretti",
+            "Andrea Eckert",
+            "Karl Merkatz"
+        ],
+        "Genres": [
+            "Crime"
+        ],
+        "Writer": [
+            "Gerhard Roth"
+        ],
+        "Runtime": [
+            "89 min"
+        ],
+        "Director": [
+            "Xaver Schwarzenberger"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "November 13, 2002 (Austria)"
+            "2002-11-13"
         ],
         "Country of origin": [
             "Austria"
         ],
-        "Filming locations": [
-            "Gamlitz, Steiermark, Austria"
-        ],
         "Production companies": [
             "Thalia-Film",
-            "Österreichischer Rundfunk (ORF)"
+            "ORF"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0744854/",
-            "name": "Gerhard Roth"
+            "name": "Gerhard Roth",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H29M",
-    "keywords": [
-        "non sexual female nudity",
-        "female rear nudity",
-        "female nudity",
-        "skinny dipping",
-        "lesbian"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0005866/",
-            "name": "Xaver Schwarzenberger"
+            "name": "Xaver Schwarzenberger",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0366594/",
     "metascore": null,
-    "imdb_votes": 57,
+    "imdb_votes": 59,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "5.5/10 from 57 users",
-    "release_date": [],
+    "description": "The teacher Senta falls in love with the award-winning chef Stefan, who rents out his romantic winegrower's house in southern Styria to her during the summer holidays. She soon notices that a quirky gendarmerie inspector is keeping the property under surveillance. Senta finds out too late that the policeman thinks Stefan is a multiple woman murderer and that she is trapped like bait.",
+    "imdb_rating": "5.5/10 from 59 users",
+    "release_date": [
+        {
+            "date": "2002-11-13",
+            "country": "Austria"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2002-11-13",
+    "original_title": "Ein Hund kam in die Küche",
     "imdb_rating_average": 5.5,
-    "update_at": "2026-04-26T15:00:10"
+    "update_at": "2026-10-28T14:56:35"
 }

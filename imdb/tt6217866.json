@@ -4,30 +4,44 @@
     "name": "I Am",
     "site": "imdb",
     "year": "2012",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm4642391/",
+            "name": "Angelina Prendergast",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODllOTdjMjAtNWVlZS00ODY5LTg1NDAtODIyMzllOWY4YmI3XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Angelina Prendergast"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Director": [
+            "Kathryn Brillhart"
         ],
         "Release date": [
-            "June 12, 2012 (United States)"
-        ],
-        "Official site": [
-            "Short Film - https://vimeo.com/45203204"
-        ],
-        "Country of origin": [
-            "United States"
+            "2012"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": null,
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm3200113/",
+            "name": "Kathryn Brillhart",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt6217866/",
     "metascore": null,
@@ -37,7 +51,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2012-06-12",
+    "datePublished": "2012",
+    "original_title": "I Am",
     "imdb_rating_average": 0,
-    "update_at": "2025-11-28T09:49:11"
+    "update_at": "2026-10-28T04:14:07"
 }

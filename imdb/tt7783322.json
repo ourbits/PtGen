@@ -1,5 +1,10 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Harry Potter: una historia de magia",
+            "country": "Spain"
+        }
+    ],
     "sid": "tt7783322",
     "name": "Harry Potter: A History of Magic",
     "site": "imdb",
@@ -11,68 +16,124 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001767/",
-            "name": "Imelda Staunton"
+            "name": "Imelda Staunton",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001116/",
-            "name": "Warwick Davis"
+            "name": "Warwick Davis",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2121541/",
-            "name": "Evanna Lynch"
+            "name": "Evanna Lynch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0546816/",
+            "name": "Miriam Margolyes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000667/",
+            "name": "David Thewlis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0931247/",
+            "name": "Mark Williams",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6564285/",
+            "name": "Michael Blencowe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0746830/",
+            "name": "J.K. Rowling",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTEzMjgxNjk3MDZeQTJeQWpwZ15BbWU4MDUzNjg2MTUz._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/kkzDng2S8w2hT1gap7MdMdx7uUE.jpg",
     "details": {
-        "Languages": [
+        "Stars": [
+            "Imelda Staunton",
+            "Warwick Davis",
+            "Evanna Lynch"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Runtime": [
+            "59 min"
+        ],
+        "Director": [
+            "Alex Harding",
+            "Jude Ho"
+        ],
+        "Language": [
             "English",
-            "Latin"
+            "Latin",
+            "Spanish"
         ],
         "Release date": [
-            "December 25, 2017 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Harry Potter och hans rötter"
-        ],
-        "Official site": [
-            "Official site - http://www.bbc.co.uk/programmes/b09d5n6b"
+            "2017-10-28"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Production company": [
+        "Production companies": [
             "BBC Studios Documentary Unit"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT59M",
     "keywords": [
+        "magic",
+        "sorcery",
+        "wizard",
         "psychotronic filmmaking",
-        "adventure filmmaking",
-        "fantasy filmmaking",
-        "family filmmaking"
+        "artefacts"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm5577200/",
-            "name": "Alex Harding"
+            "name": "Alex Harding",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2901096/",
-            "name": "Jude Ho"
+            "name": "Jude Ho",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt7783322/",
     "metascore": null,
-    "imdb_votes": 440,
+    "imdb_votes": 488,
     "popularity": 0,
-    "description": "In the run up to the Harry Potter: A History of Magic exhibition, J.K. Rowling goes behind the scenes at the British Library to reveal some of the real-life counterparts to her characters.",
-    "imdb_rating": "7/10 from 440 users",
-    "release_date": [],
-    "contentRating": "TV-PG",
-    "datePublished": "2017-12-25",
-    "imdb_rating_average": 7,
-    "update_at": "2025-02-05T09:00:50"
+    "description": "A thrilling journey through legends, belief and folklore, this film goes behind the scenes with the British Library as they search to tell that story through objects in their collection, in an ambitious new exhibition: Harry Potter: A History Of Magic.  J.K. Rowling, who is lending unseen manuscripts, drawings and drafts from her private archives (which will sit alongside treasures from the British Library, as well as original drafts and drawings from Jim Kay) talks about some of the personal items she has lent to the exhibition and gives new insight into her writing, looking at some of the objects from the exhibition that have fired her imagination.",
+    "imdb_rating": "7.0/10 from 488 users",
+    "release_date": [
+        {
+            "date": "2017-10-28",
+            "country": "Brazil"
+        },
+        {
+            "date": "2017-10-28",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "2017-10-28",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "PG",
+    "datePublished": "2017-10-28",
+    "original_title": "Harry Potter: A History of Magic",
+    "imdb_rating_average": 7.0,
+    "update_at": "2026-10-28T09:49:30"
 }

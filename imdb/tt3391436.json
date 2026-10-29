@@ -12,57 +12,74 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0319592/",
-            "name": "David Gilmour"
+            "name": "David Gilmour",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0556885/",
-            "name": "Nick Mason"
+            "name": "Nick Mason",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0914166/",
-            "name": "Roger Waters"
+            "name": "Roger Waters",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTZmOWZkNGYtMDhkNy00N2ViLTg0MjYtOTYwNDBhOGEwNmMwXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/zUXwzmuNkLY9izoksvm7Qud3XAB.jpg",
     "details": {
-        "Languages": [
-            "French",
+        "Stars": [
+            "David Gilmour",
+            "Nick Mason",
+            "Roger Waters"
+        ],
+        "Genres": [
+            "Documentary",
+            "Musical"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Adrian Maben"
+        ],
+        "Language": [
             "English"
         ],
         "Release date": [
-            "October 11, 2013 (Canada)"
-        ],
-        "Also known as": [
-            "Le Festin des huitres"
-        ],
-        "Country of origin": [
-            "France"
-        ],
-        "Filming locations": [
-            "Studio Europa-Sonore, Paris, France"
+            "2013-10-11"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": "PT1H",
     "keywords": [
-        ""
+        "pink floyd"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0531066/",
-            "name": "Adrian Maben"
+            "name": "Adrian Maben",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt3391436/",
     "metascore": null,
-    "imdb_votes": 18,
+    "imdb_votes": 25,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.9/10 from 18 users",
-    "release_date": [],
+    "description": "This film is a portrait of the group as it was more than a year before the release of the album The Dark Side of the Moon. It bears witness to one of the most fruitful periods in its existence. The recording session was filmed with a Coutant camera on 16mm black and white reversal stock. The rushes were found again by the filmmaker and are now preserved at the Cinémathèque française. They have never been seen except for a ten-minute excerpt used in the director's cut of Pink Floyd: Live at Pompeii.",
+    "imdb_rating": "8.0/10 from 25 users",
+    "release_date": [
+        {
+            "date": "2013-10-11",
+            "country": "Canada"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2013-10-11",
-    "imdb_rating_average": 7.9,
-    "update_at": "2025-05-22T04:39:22"
+    "original_title": "Chit Chat with Oysters",
+    "imdb_rating_average": 8.0,
+    "update_at": "2026-10-28T21:28:09"
 }

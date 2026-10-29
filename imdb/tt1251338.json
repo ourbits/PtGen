@@ -4,72 +4,93 @@
     "name": "Army Guy",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "TVShort",
     "genre": [
-        "Short",
         "Action",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2707752/",
-            "name": "Ian Bodell"
+            "name": "Ian Bodell",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0123488/",
-            "name": "David Burtka"
+            "name": "David Burtka",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0310248/",
-            "name": "Dan Gauthier"
+            "name": "Dan Gauthier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0572659/",
+            "name": "Stuart McLean",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2444965/",
+            "name": "Heather Vandeven",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Ian Bodell",
+            "David Burtka",
+            "Dan Gauthier"
+        ],
+        "Genres": [
+            "Action",
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Adam B. Stein"
+        ],
+        "Runtime": [
+            "3 min"
+        ],
+        "Director": [
+            "Adam B. Stein"
         ],
         "Release date": [
-            "August 6, 2007 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Los Angeles, California, USA"
-        ],
-        "Production companies": [
-            "Amblin Television",
-            "DreamWorks Television"
+            "2007"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1437652/",
-            "name": "Adam B. Stein"
+            "name": "Adam B. Stein",
+            "@type": "Person"
         }
     ],
     "duration": "PT3M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1437652/",
-            "name": "Adam B. Stein"
+            "name": "Adam B. Stein",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1251338/",
     "metascore": null,
-    "imdb_votes": 20,
+    "imdb_votes": 23,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "8.1/10 from 20 users",
+    "imdb_rating": "7.8/10 from 23 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2007-08-06",
-    "imdb_rating_average": 8.1,
-    "update_at": "2025-09-24T16:35:34"
+    "datePublished": "2007",
+    "original_title": "Army Guy",
+    "imdb_rating_average": 7.8,
+    "update_at": "2026-10-28T17:21:24"
 }

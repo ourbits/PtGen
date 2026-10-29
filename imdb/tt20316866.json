@@ -5,74 +5,139 @@
     "site": "imdb",
     "year": "1952",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Drama"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0906699/",
-            "name": "Masao Wakahara"
+            "name": "Masao Wakahara",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0463152/",
-            "name": "Michiyo Kogure"
+            "name": "Michiyo Kogure",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0846998/",
-            "name": "Hizuru Takachiho"
+            "name": "Hizuru Takachiho",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0945522/",
+            "name": "Sō Yamamura",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0645011/",
+            "name": "Minoru Ôki",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0622404/",
+            "name": "Daijirō Natsukawa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0945836/",
+            "name": "Eijirô Yanagi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2364254/",
+            "name": "Hisano Yamato",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4772266/",
+            "name": "Eiichi Nozawa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0031878/",
+            "name": "Hiroshi Aoyama",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/A1qpX5g2gGi9wiocx2uiKrhLL1N.jpg",
     "details": {
+        "Stars": [
+            "Masao Wakahara",
+            "Michiyo Kogure",
+            "Hizuru Takachiho"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Junji Sagara",
+            "Tsutomu Sawamura",
+            "Takao Yanai"
+        ],
+        "Runtime": [
+            "109 min"
+        ],
+        "Director": [
+            "Hideo Ōba"
+        ],
         "Language": [
             "Japanese"
         ],
         "Release date": [
-            "December 10, 1952 (Japan)"
-        ],
-        "Also known as": [
-            "情火"
+            "1952-12-10"
         ],
         "Country of origin": [
             "Japan"
         ],
-        "Production company": [
-            "Shochiku Kyoto"
+        "Production companies": [
+            "Shochiku"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm13676073/",
-            "name": "Junji Sagara"
+            "name": "Junji Sagara",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1137993/",
-            "name": "Tsutomu Sawamura"
+            "name": "Tsutomu Sawamura",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0945868/",
-            "name": "Takao Yanai"
+            "name": "Takao Yanai",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H49M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0959971/",
-            "name": "Hideo Ôba"
+            "name": "Hideo Ōba",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt20316866/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "The time was the first year of Keio (1865). Upon hearing the news that the Imperial Army was approaching Hida Takayama, the district head Shimizu Uzen fled to Edo. Local officials like Yoshida Bunsuke and Yoshizumi Hironoshin showed their allegiance by welcoming them. The commander at the time, Umemura Hayami, was a former member of the Tengu Party and had previously been pursued in the town. He took refuge in a restaurant named Kabuya, and owing to a tip-off from a woman named Oraku, he was almost captured for her lover, Yoshizumi. Oraku and Yoshizumi probably feared revenge from that previous encounter, but Umemura had come back to Hida because he couldn't forget Oraku.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1952-12-10",
+            "country": "Japan"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1952-12-10",
+    "original_title": "Jôka",
     "imdb_rating_average": 0,
-    "update_at": "2025-04-17T08:34:12"
+    "update_at": "2026-10-28T04:56:25"
 }

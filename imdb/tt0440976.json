@@ -4,7 +4,7 @@
     "name": "Sons of Thunder",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short",
         "War"
@@ -12,52 +12,82 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0721593/",
-            "name": "Anthony Reynolds"
+            "name": "Anthony Reynolds",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1835859/",
-            "name": "Brian Michael Touhy"
+            "name": "Brian Michael Touhy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0324727/",
-            "name": "Linden Goh"
+            "name": "Linden Goh",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3179896/",
+            "name": "Norman Gregory McGuire",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1640117/",
+            "name": "Peter Vouras",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2135439/",
+            "name": "Matt Wahl",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Anthony Reynolds",
+            "Brian Michael Touhy",
+            "Linden Goh"
+        ],
+        "Genres": [
+            "Short",
+            "War"
+        ],
+        "Writer": [
+            "Steven Morrow",
+            "Anthony Reynolds"
+        ],
+        "Runtime": [
+            "9 min"
+        ],
+        "Director": [
+            "Steven Morrow"
         ],
         "Release date": [
-            "February 4, 2005 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Grass Valley, California, USA"
+            "2005"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0607551/",
-            "name": "Steven Morrow"
+            "name": "Steven Morrow",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0721593/",
-            "name": "Anthony Reynolds"
+            "name": "Anthony Reynolds",
+            "@type": "Person"
         }
     ],
     "duration": "PT9M",
-    "keywords": [
-        "title based on the bible"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0607551/",
-            "name": "Steven Morrow"
+            "name": "Steven Morrow",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0440976/",
@@ -68,7 +98,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2005-02-04",
+    "datePublished": "2005",
+    "original_title": "Sons of Thunder",
     "imdb_rating_average": 0,
-    "update_at": "2026-03-09T00:00:49"
+    "update_at": "2026-10-28T07:21:42"
 }

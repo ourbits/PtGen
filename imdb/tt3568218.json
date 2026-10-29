@@ -4,45 +4,142 @@
     "name": "The C Word",
     "site": "imdb",
     "year": "2015",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODI4NGZkZTQtMTI1Ny00YzU3LWIwMTUtNzY0NTdkMmI2ZDFlXkEyXkFqcGc@._V1_.jpg",
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0809956/",
+            "name": "Sheridan Smith",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0629493/",
+            "name": "Paul Nicholls",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0901110/",
+            "name": "Stephanie Vogt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5085312/",
+            "name": "Tom Hutch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2125359/",
+            "name": "Marcus Griffiths",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1368934/",
+            "name": "Rebekah Staton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3220499/",
+            "name": "Susannah Fielding",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2479265/",
+            "name": "Jamie Baughan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0141324/",
+            "name": "Silas Carson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0540585/",
+            "name": "Michael Maloney",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/sRdSgnQcni14BvpmmMDJbIBOZJd.jpg",
     "details": {
+        "Stars": [
+            "Sheridan Smith",
+            "Paul Nicholls",
+            "Stephanie Vogt"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Nicole Taylor",
+            "Lisa Lynch"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Tim Kirkby"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 3, 2015 (United Kingdom)"
+            "2015-05-03"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Production company": [
-            "British Broadcasting Corporation (BBC)"
+        "Production companies": [
+            "BBC"
         ]
     },
-    "reviews": 4,
-    "creators": [],
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm2822756/",
+            "name": "Nicole Taylor",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7302186/",
+            "name": "Lisa Lynch",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT1H30M",
     "keywords": [
-        "husband wife relationship",
-        "swimming pool",
-        "year 2008",
-        "mammogram",
-        "breast cancer diagnosis"
+        "cancer",
+        "based on memoir or autobiography",
+        "blogger"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm1469191/",
+            "name": "Tim Kirkby",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt3568218/",
     "metascore": null,
-    "imdb_votes": 552,
+    "imdb_votes": 560,
     "popularity": 0,
-    "description": "A woman writes a blog about her experience with terminal cancer.",
-    "imdb_rating": "7.5/10 from 552 users",
-    "release_date": [],
+    "description": "The C Word is an adaptation of Lisa Lynch's inspiring and candid book, based on her blog,  about her battle with cancer.",
+    "imdb_rating": "7.5/10 from 560 users",
+    "release_date": [
+        {
+            "date": "2015-05-03",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "2015-05-08",
+            "country": "Netherlands"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2015-05-03",
+    "original_title": "The C Word",
     "imdb_rating_average": 7.5,
-    "update_at": "2025-10-11T18:13:29"
+    "update_at": "2026-10-28T07:42:16"
 }

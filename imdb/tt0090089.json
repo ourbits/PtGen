@@ -4,7 +4,7 @@
     "name": "Streets of Justice",
     "site": "imdb",
     "year": "1985",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Thriller"
@@ -12,69 +12,113 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0490855/",
-            "name": "John Laughlin"
+            "name": "John Laughlin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0005162/",
-            "name": "Robert Loggia"
+            "name": "Robert Loggia",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000448/",
-            "name": "Lance Henriksen"
+            "name": "Lance Henriksen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0857806/",
+            "name": "Jack Thibeau",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0791502/",
+            "name": "Paul Shenar",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0707043/",
+            "name": "Cristina Raines",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0852377/",
+            "name": "Fred Taylor",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0316455/",
+            "name": "Donald Gibb",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0027567/",
+            "name": "Wayne Anderson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0114578/",
+            "name": "Roger Aaron Brown",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2ZiZTZjM2EtNDllYy00NjI1LWI1YTYtZDYzYjdhMzNjYWU2XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/yQwwLmVaH4C5X4Oo1THIF5QwVh2.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "John Laughlin",
+            "Robert Loggia",
+            "Lance Henriksen"
+        ],
+        "Genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "Writer": [
+            "Christopher Crowe"
+        ],
+        "Runtime": [
+            "120 min"
+        ],
+        "Director": [
+            "Christopher Crowe"
         ],
         "Release date": [
-            "November 10, 1985 (United States)"
-        ],
-        "Also known as": [
-            "Point Blank"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Southern California, California, USA"
-        ],
-        "Production company": [
-            "Universal Television"
+            "1985-11-10"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": "His wife and child were murdered. He's taken everything one man could take. Now he's fighting back.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0189610/",
-            "name": "Christopher Crowe"
+            "name": "Christopher Crowe",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H",
-    "keywords": [
-        "vigilante",
-        "biker",
-        "revenge",
-        "murder of wife",
-        "murder of son"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0189610/",
-            "name": "Christopher Crowe"
+            "name": "Christopher Crowe",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0090089/",
     "metascore": null,
-    "imdb_votes": 73,
+    "imdb_votes": 76,
     "popularity": 0,
     "description": "After bikers kill the wife and son of an auto worker (John Laughlin) and then get off with a light sentence in the court system, he decides to seek his revenge as a clandestine vigilante.",
-    "imdb_rating": "5.9/10 from 73 users",
-    "release_date": [],
+    "imdb_rating": "5.9/10 from 76 users",
+    "release_date": [
+        {
+            "date": "1985-11-10",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1985-11-10",
+    "original_title": "Streets of Justice",
     "imdb_rating_average": 5.9,
-    "update_at": "2025-07-09T15:08:08"
+    "update_at": "2026-10-28T04:28:34"
 }

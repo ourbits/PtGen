@@ -5,57 +5,69 @@
     "site": "imdb",
     "year": "1921",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0041656/",
-            "name": "Carl Auen"
+            "name": "Carl Auen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1458446/",
-            "name": "Toni Ebärg"
+            "name": "Toni Ebärg",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0716829/",
-            "name": "Paul Rehkopf"
+            "name": "Paul Rehkopf",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0728410/",
+            "name": "Preben J. Rist",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "German"
+        "Stars": [
+            "Carl Auen",
+            "Toni Ebärg",
+            "Paul Rehkopf"
+        ],
+        "Writer": [
+            "Robert Heymann",
+            "William Kahn"
+        ],
+        "Director": [
+            "William Kahn"
         ],
         "Release date": [
-            "December 3, 1921 (Germany)"
-        ],
-        "Country of origin": [
-            "Germany"
-        ],
-        "Production company": [
-            "William Kahn-Film GmbH"
+            "1921"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0382298/",
-            "name": "Robert Heymann"
+            "name": "Robert Heymann",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0434934/",
-            "name": "William Kahn"
+            "name": "William Kahn",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0434934/",
-            "name": "William Kahn"
+            "name": "William Kahn",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0473639/",
@@ -66,7 +78,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1921-12-03",
+    "datePublished": "1921",
+    "original_title": "Das Geheimnis der sechs Spielkarten, 2. Teil - Pique Bube",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-08T11:29:14"
+    "update_at": "2026-10-29T00:56:25"
 }

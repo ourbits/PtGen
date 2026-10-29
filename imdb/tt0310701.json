@@ -4,7 +4,7 @@
     "name": "The Baggage Smashers",
     "site": "imdb",
     "year": "1916",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Comedy",
         "Short"
@@ -12,56 +12,79 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0358020/",
-            "name": "Lloyd Hamilton"
+            "name": "Lloyd Hamilton",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0241917/",
-            "name": "Bud Duncan"
+            "name": "Bud Duncan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2261105/",
-            "name": "Eileen Godsey"
+            "name": "Eileen Godsey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0289717/",
+            "name": "Freddie Fralick",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0249530/",
+            "name": "Albert Edmondson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0242399/",
+            "name": "Louise Dunlap",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzM0YWI2YTItY2ZjYy00NTQ0LWE2YzUtZWY2Nzk3MzNjODQ5XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Stars": [
+            "Lloyd Hamilton",
+            "Bud Duncan",
+            "Eileen Godsey"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Lloyd Hamilton"
         ],
         "Release date": [
-            "July 11, 1916 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Kalem Company"
+            "1916"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT15M",
-    "keywords": [
-        "ham and bud series",
-        "actor shares first name with character"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0358020/",
-            "name": "Lloyd Hamilton"
+            "name": "Lloyd Hamilton",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0310701/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "The wild romance of Ham and Bud, hardened men of the road who arrive in the frontier village, and touched by the beauty of the telegrapher, actually consent to take a job. They become official baggage smashers at the station. It i...",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1916-07-11",
+    "datePublished": "1916",
+    "original_title": "The Baggage Smashers",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-05T14:00:16"
+    "update_at": "2026-10-28T16:42:17"
 }

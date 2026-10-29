@@ -1,46 +1,79 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Wilde Tierbabys",
+            "country": "Germany"
+        },
+        {
+            "title": "BBC Animal Babies",
+            "country": "United States of America"
+        },
+        {
+            "title": "Animal Babies",
+            "country": "United States of America"
+        }
+    ],
     "sid": "tt6465202",
     "name": "Animal Babies",
     "site": "imdb",
     "year": "2016",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0118096/",
-            "name": "Gordon Buchanan"
+            "name": "Gordon Buchanan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0118096/",
+            "name": "Gordon Buchanan",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmY3Zjc2ZTItMGU4My00YmI3LTg1OTEtZjc4ZTBjYTEyYWI5XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/fo3tPC93KSMYSI2s8cX3wU5mtIF.jpg",
     "details": {
+        "Stars": [
+            "Gordon Buchanan",
+            "Gordon Buchanan"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Sue Doody"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "October 2, 2016 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Najmłodsi wśród zwierząt"
-        ],
-        "Official site": [
-            "Main website - http://www.bbc.co.uk/programmes/b07ysy9t"
+            "2016-10-02"
         ],
         "Country of origin": [
             "United Kingdom"
-        ],
-        "Production company": [
-            "British Broadcasting Corporation (BBC)"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
-    "duration": null,
+    "duration": "PT1H",
     "keywords": [
-        "tv mini series"
+        "animals",
+        "nature",
+        "babies"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm1619635/",
+            "name": "Sue Doody",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt6465202/",
     "metascore": null,
@@ -51,6 +84,7 @@
     "release_date": [],
     "contentRating": null,
     "datePublished": "2016-10-02",
+    "original_title": "Animal Babies",
     "imdb_rating_average": 7.9,
-    "update_at": "2026-02-12T15:36:05"
+    "update_at": "2026-10-29T01:07:19"
 }

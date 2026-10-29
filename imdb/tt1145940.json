@@ -4,64 +4,72 @@
     "name": "Urtakt",
     "site": "imdb",
     "year": "2001",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Animation",
         "Short"
     ],
+    "actors": [],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "None"
+        "Genres": [
+            "Animation",
+            "Short"
+        ],
+        "Writer": [
+            "Daniel Holzwardt",
+            "Ruediger Kaltenhaeuser"
+        ],
+        "Runtime": [
+            "4 min"
+        ],
+        "Director": [
+            "Daniel Holzwardt",
+            "Ruediger Kaltenhaeuser"
         ],
         "Release date": [
-            "July 13, 2001 (Germany)"
-        ],
-        "Country of origin": [
-            "Germany"
-        ],
-        "Production company": [
-            "Filmakademie Baden-Württemberg"
+            "2001"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2847822/",
-            "name": "Daniel Holzwardt"
+            "name": "Daniel Holzwardt",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2847240/",
-            "name": "Ruediger Kaltenhaeuser"
+            "name": "Ruediger Kaltenhaeuser",
+            "@type": "Person"
         }
     ],
     "duration": "PT4M",
-    "keywords": [
-        "stop motion animation",
-        "stop motion",
-        "puppet",
-        "surrealism"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2847822/",
-            "name": "Daniel Holzwardt"
+            "name": "Daniel Holzwardt",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2847240/",
-            "name": "Ruediger Kaltenhaeuser"
+            "name": "Ruediger Kaltenhaeuser",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1145940/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "This stop-motion animation is about a puppet with a head like a watch. It has a boring everyday like. Coming up with the idea to change the time by altering the watch hand leads to unexpected excitement.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2001-07-13",
+    "datePublished": "2001",
+    "original_title": "Urtakt",
     "imdb_rating_average": 0,
-    "update_at": "2026-03-28T00:56:44"
+    "update_at": "2026-10-29T00:49:19"
 }

@@ -3,45 +3,53 @@
     "sid": "tt0229696",
     "name": "San Francisco: The Movie",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1995",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0461485/",
-            "name": "Joe Knowland"
+            "name": "Joe Knowland",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2299357/",
-            "name": "Dennis Pappalardo"
+            "name": "Dennis Pappalardo",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Joe Knowland",
+            "Dennis Pappalardo"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Runtime": [
+            "30 min"
+        ],
+        "Director": [
+            "Kieth Merrill"
         ],
         "Release date": [
-            "July 1995 (United States)"
-        ],
-        "Also known as": [
-            "The Great San Francisco Adventure"
-        ],
-        "Country of origin": [
-            "United States"
+            "1995"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": "PT30M",
-    "keywords": [
-        "independent film"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0581303/",
-            "name": "Kieth Merrill"
+            "name": "Kieth Merrill",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0229696/",
@@ -52,7 +60,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1995",
+    "original_title": "San Francisco: The Movie",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-02T07:35:20"
+    "update_at": "2026-10-28T07:00:44"
 }

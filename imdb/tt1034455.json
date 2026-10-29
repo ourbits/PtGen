@@ -4,46 +4,93 @@
     "name": "My First Time Driving",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0000715/",
+            "name": "Caroline Aaron",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1925959/",
+            "name": "Sarah Utterback",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1696851/",
+            "name": "Rachel Vacca",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/l6ZTBAVuZahMOcPxGNTbxYWHhZK.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Caroline Aaron",
+            "Sarah Utterback",
+            "Rachel Vacca"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Liz Feldman"
+        ],
+        "Runtime": [
+            "18 min"
+        ],
+        "Director": [
+            "Rebecca Feldman"
         ],
         "Release date": [
-            "April 20, 2007 (United States)"
+            "2007-04-20"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "American Film Institute, Greystone Park & Mansion - 905 Loma Vista Drive, Beverly Hills, California, USA"
-        ],
-        "Production company": [
+        "Production companies": [
+            "AFI",
             "Feldman Sisters Productions"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0271078/",
+            "name": "Liz Feldman",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT18M",
-    "keywords": [
-        "lesbian",
-        "lesbian interest"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm1470284/",
+            "name": "Rebecca Feldman",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1034455/",
     "metascore": null,
-    "imdb_votes": 23,
+    "imdb_votes": 24,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.3/10 from 23 users",
-    "release_date": [],
+    "description": "Seventeen year-old Rachel wants to take the wheel but her mom won’t let go.",
+    "imdb_rating": "7.5/10 from 24 users",
+    "release_date": [
+        {
+            "date": "2007-04-20",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2007-04-20",
-    "imdb_rating_average": 7.3,
-    "update_at": "2025-11-06T00:42:14"
+    "original_title": "My First Time Driving",
+    "imdb_rating_average": 7.5,
+    "update_at": "2026-10-28T08:14:30"
 }

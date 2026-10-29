@@ -4,77 +4,137 @@
     "name": "Stankowskis Millionen",
     "site": "imdb",
     "year": "2011",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0836233/",
-            "name": "Wolfgang Stumph"
+            "name": "Wolfgang Stumph",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0870780/",
-            "name": "Christian Tramitz"
+            "name": "Christian Tramitz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0778335/",
-            "name": "Jörg Schüttauf"
+            "name": "Jörg Schüttauf",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0459086/",
+            "name": "Petra Kleinert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0241694/",
+            "name": "Sky du Mont",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0944233/",
+            "name": "Gustav-Peter Wöhler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0856935/",
+            "name": "Karin Thaler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0199626/",
+            "name": "Floriane Daniel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0459704/",
+            "name": "Gerit Kling",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0843425/",
+            "name": "Laura Syniawa",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/quB9E0kFh1SUMc7YGrP6clZkAI7.jpg",
     "details": {
+        "Stars": [
+            "Wolfgang Stumph",
+            "Christian Tramitz",
+            "Jörg Schüttauf"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Johannes W. Betz",
+            "Thomas Brussig"
+        ],
+        "Runtime": [
+            "88 min"
+        ],
+        "Director": [
+            "Franziska Meyer Price"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "October 3, 2011 (Germany)"
-        ],
-        "Also known as": [
-            "Stankowski - Einer gegen alle"
+            "2011-10-03"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Filming locations": [
-            "Berlin, Germany"
-        ],
         "Production companies": [
             "Studio Hamburg Filmproduktion",
-            "Zweites Deutsches Fernsehen (ZDF)"
+            "ZDF"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0079487/",
-            "name": "Johannes W. Betz"
+            "name": "Johannes W. Betz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0116748/",
-            "name": "Thomas Brussig"
+            "name": "Thomas Brussig",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H28M",
     "keywords": [
-        ""
+        "woman director"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0583444/",
-            "name": "Franziska Meyer Price"
+            "name": "Franziska Meyer Price",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1999256/",
     "metascore": null,
-    "imdb_votes": 46,
+    "imdb_votes": 52,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "6.3/10 from 46 users",
-    "release_date": [],
+    "description": "In 1991, the mood in East Germany is gloomy. Unemployment and poverty among the population in the GDR are high. Many people blame the Treuhand for the misery. Werner Stankowski, a trained computer scientist and computer specialist, is unable to find work despite hundreds of applications. His wife considers him a failure and leaves him for a rich man from the West. Only his best friend Rudi, who is also unemployed, sticks by him. Rudi's wife Gerda keeps the family afloat with a poorly performing erotic mail order business. Werner then gets a job interview with a computer company in Munich. The Wessis denounce Werner during the interview and humiliate him with Stasi slogans.....",
+    "imdb_rating": "6.3/10 from 52 users",
+    "release_date": [
+        {
+            "date": "2011-10-03",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2011-10-03",
+    "original_title": "Stankowskis Millionen",
     "imdb_rating_average": 6.3,
-    "update_at": "2025-05-19T07:28:53"
+    "update_at": "2026-10-28T13:07:58"
 }
