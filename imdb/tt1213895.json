@@ -3,52 +3,75 @@
     "sid": "tt1213895",
     "name": "Marko Miljanov",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2000",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0417712/",
-            "name": "Mihailo &apos;Misa&apos; Janketic"
+            "name": "Mihailo 'Misa' Janketic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0460735/",
-            "name": "Svjetlana Knezevic"
+            "name": "Svjetlana Knezevic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0555422/",
-            "name": "Slobodan Marunovic"
+            "name": "Slobodan Marunovic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0592250/",
+            "name": "Milo Miranovic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0866398/",
+            "name": "Dragica Tomas",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Serbo-Croatian"
+        "Stars": [
+            "Mihailo 'Misa' Janketic",
+            "Svjetlana Knezevic",
+            "Slobodan Marunovic"
         ],
-        "Country of origin": [
-            "Federal Republic of Yugoslavia"
+        "Genres": [
+            "Drama"
         ],
-        "Production company": [
-            "Radiotelevizija Crne Gore"
+        "Writer": [
+            "Novak Kilibarda"
+        ],
+        "Director": [
+            "Slavko Kovacevic"
+        ],
+        "Release date": [
+            "2000"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2974813/",
-            "name": "Novak Kilibarda"
+            "name": "Novak Kilibarda",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2971307/",
-            "name": "Slavko Kovacevic"
+            "name": "Slavko Kovacevic",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1213895/",
@@ -59,7 +82,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2000",
+    "original_title": "Marko Miljanov",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-30T18:00:24"
+    "update_at": "2026-10-29T23:00:22"
 }

@@ -4,29 +4,37 @@
     "name": "Marginalia",
     "site": "imdb",
     "year": "2015",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
+    "actors": [],
     "critic": 0,
     "poster": null,
     "details": {
-        "Release date": [
-            "September 29, 2015 (United States)"
+        "Genres": [
+            "Short"
         ],
-        "Country of origin": [
-            "United States"
+        "Runtime": [
+            "23 min"
+        ],
+        "Director": [
+            "Jerome Hiler"
+        ],
+        "Release date": [
+            "2015"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": "PT23M",
-    "keywords": [
-        "experimental short"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm8661189/",
-            "name": "Jerome Hiler"
+            "name": "Jerome Hiler",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt6358732/",
@@ -34,10 +42,11 @@
     "imdb_votes": 7,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "8/10 from 7 users",
+    "imdb_rating": "7.7/10 from 7 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2015-09-29",
-    "imdb_rating_average": 8,
-    "update_at": "2025-09-01T08:14:12"
+    "datePublished": "2015",
+    "original_title": "Marginalia",
+    "imdb_rating_average": 7.7,
+    "update_at": "2026-10-29T17:21:16"
 }

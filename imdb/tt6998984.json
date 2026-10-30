@@ -4,53 +4,65 @@
     "name": "The Swimming Club",
     "site": "imdb",
     "year": "2016",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Documentary",
         "Short"
     ],
+    "actors": [],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzY4YjIwNzAtZTQyYS00NTI5LWI5MTctMTNlZDliY2Y0YjE5XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/pAkvErfGvh5xo6q3EjL1Z8Bbyol.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "Nicholas Finegan",
+            "Ceci Golding"
         ],
         "Release date": [
-            "November 13, 2016 (United Kingdom)"
+            "2016-11-13"
         ],
         "Country of origin": [
             "United Kingdom"
-        ],
-        "Production companies": [
-            "British Film Institute (BFI)",
-            "Dazed Digital"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT10M",
-    "keywords": [
-        "independent film"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm7290890/",
-            "name": "Nicholas Finegan"
+            "name": "Nicholas Finegan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm9055531/",
-            "name": "Ceci Golding"
+            "name": "Ceci Golding",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt6998984/",
     "metascore": null,
-    "imdb_votes": 25,
+    "imdb_votes": 26,
     "popularity": 0,
-    "description": "If you happen to be transgender and you want to go swimming, which changing room do you go into? In this short documentary we meet a group of trans activists who have taken matters into their own hands and set up a safe space swim...",
-    "imdb_rating": "6.9/10 from 25 users",
-    "release_date": [],
+    "description": "If you happen to be transgender and you want to go swimming, which changing room do you go into? In this short documentary we meet a group of trans activists who have taken matters into their own hands and set up a safe space swimming club. It is a film about the healing effects of community and the relief that comes after taking the bravest plunge of all - to just be yourself. It is also an ode to universal joys of swimming.",
+    "imdb_rating": "7.2/10 from 26 users",
+    "release_date": [
+        {
+            "date": "2016-11-13",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2016-11-13",
-    "imdb_rating_average": 6.9,
-    "update_at": "2026-01-22T03:42:38"
+    "original_title": "The Swimming Club",
+    "imdb_rating_average": 7.2,
+    "update_at": "2026-10-30T00:35:12"
 }

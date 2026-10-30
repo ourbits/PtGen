@@ -1,9 +1,15 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Karameller",
+            "country": "Sweden"
+        }
+    ],
     "sid": "tt0443324",
-    "name": "Karamellumyndin",
+    "name": "Caramels",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2003",
+    "@type": "Short",
     "genre": [
         "Comedy",
         "Short"
@@ -11,63 +17,84 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1458629/",
-            "name": "Gísli Örn Garðarsson"
+            "name": "Gísli Örn Garðarsson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0323463/",
-            "name": "Jón Gnarr"
+            "name": "Jón Gnarr",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1375232/",
-            "name": "Elma Lísa Gunnarsdóttir"
+            "name": "Elma Lísa Gunnarsdóttir",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/jrsYSZxiqQIaAZB8eeQjXYQSBGZ.jpg",
     "details": {
+        "Stars": [
+            "Gísli Örn Garðarsson",
+            "Jón Gnarr",
+            "Elma Lísa Gunnarsdóttir"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Gunnar B. Gudmundsson"
+        ],
+        "Runtime": [
+            "13 min"
+        ],
+        "Director": [
+            "Gunnar B. Gudmundsson"
+        ],
         "Language": [
-            "None"
+            "No Language"
         ],
         "Release date": [
-            "March 2003 (Iceland)"
-        ],
-        "Also known as": [
-            "Karamellumyndin"
+            "2003-03-01"
         ],
         "Country of origin": [
             "Iceland"
-        ],
-        "Production companies": [
-            "Those Two",
-            "Upptekið"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0345685/",
-            "name": "Gunnar B. Gudmundsson"
+            "name": "Gunnar B. Gudmundsson",
+            "@type": "Person"
         }
     ],
     "duration": "PT13M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0345685/",
-            "name": "Gunnar B. Gudmundsson"
+            "name": "Gunnar B. Gudmundsson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0443324/",
     "metascore": null,
-    "imdb_votes": 32,
+    "imdb_votes": 33,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.8/10 from 32 users",
-    "release_date": [],
+    "description": "A short comedy about a mad small town scientist who makes deadly explosive caramels. While he distributes them through the local candy store, a rough-neck detective closes in.",
+    "imdb_rating": "7.8/10 from 33 users",
+    "release_date": [
+        {
+            "date": "2003-03-01",
+            "country": "Iceland"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2003-03-01",
+    "original_title": "Karamellumyndin",
     "imdb_rating_average": 7.8,
-    "update_at": "2025-08-17T08:39:11"
+    "update_at": "2026-10-29T02:49:14"
 }

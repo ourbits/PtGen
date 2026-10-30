@@ -5,69 +5,109 @@
     "site": "imdb",
     "year": "1962",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0755401/",
-            "name": "Keiji Sada"
+            "name": "Keiji Sada",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0476675/",
-            "name": "Miyuki Kuwano"
+            "name": "Miyuki Kuwano",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0457500/",
-            "name": "Yatarô Kitagami"
+            "name": "Yatarô Kitagami",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0043396/",
+            "name": "Keiko Awaji",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0457953/",
+            "name": "Nijiko Kiyokawa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1137457/",
+            "name": "Miki Nakasone",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/Apmqo2A4M42DiCkcEWAfyZMnrRW.jpg",
     "details": {
+        "Stars": [
+            "Keiji Sada",
+            "Miyuki Kuwano",
+            "Yatarô Kitagami"
+        ],
+        "Genres": [
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Hideo Oguni"
+        ],
+        "Runtime": [
+            "82 min"
+        ],
+        "Director": [
+            "Tatsuo Sakai"
+        ],
         "Language": [
             "Japanese"
         ],
         "Release date": [
-            "April 18, 1962 (Japan)"
-        ],
-        "Also known as": [
-            "しのび逢い"
-        ],
-        "Official site": [
-            "Shochiku.co.jp - https://www.shochiku.co.jp/cinema/database/03468/"
+            "1962-04-18"
         ],
         "Country of origin": [
             "Japan"
         ],
-        "Production company": [
-            "Shochiku Ofuna"
+        "Production companies": [
+            "Shochiku"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0644823/",
-            "name": "Hideo Oguni"
+            "name": "Hideo Oguni",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H22M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0757031/",
-            "name": "Tatsuo Sakai"
+            "name": "Tatsuo Sakai",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt36065295/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "A painfully sad woman's heart cries from forbidden love. A love triangle drawn by three stars of Japanese cinema: Keiji Sada, Miyuki Kuwano and Keiko Awaji.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1962-04-18",
+            "country": "Japan"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1962-04-18",
+    "original_title": "Shinobi ai",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-09T15:28:35"
+    "update_at": "2026-10-29T13:56:42"
 }

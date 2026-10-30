@@ -4,70 +4,119 @@
     "name": "Reflection",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Action"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2597909/",
-            "name": "Lisa Sookhiram"
+            "name": "Lisa Sookhiram",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2597909/",
+            "name": "Lisa Sookhiram",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2330124/",
-            "name": "James Kautz"
+            "name": "James Kautz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2432562/",
-            "name": "Gerard Adimando"
+            "name": "Gerard Adimando",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2710810/",
+            "name": "Cara Castronuova",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4513053/",
+            "name": "Courtney-Anne Doody",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2065263/",
+            "name": "Annalyn Frame",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm9801389/",
+            "name": "Josh Gregory",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2575773/",
+            "name": "Andy Konrad",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2050364/",
+            "name": "Janet Miranda",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Lisa Sookhiram",
+            "Lisa Sookhiram",
+            "James Kautz"
+        ],
+        "Genres": [
+            "Action"
+        ],
+        "Writer": [
+            "Robert Dixon"
+        ],
+        "Runtime": [
+            "91 min"
+        ],
+        "Director": [
+            "Robert Dixon"
         ],
         "Release date": [
-            "March 20, 2007 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "New York City, New York, USA"
-        ],
-        "Production company": [
-            "Dixon Media"
+            "2007-03-20"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2598233/",
-            "name": "Robert Dixon"
+            "name": "Robert Dixon",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H31M",
-    "keywords": [
-        "neo noir",
-        "martial arts"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2598233/",
-            "name": "Robert Dixon"
+            "name": "Robert Dixon",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0991027/",
     "metascore": null,
-    "imdb_votes": 25,
+    "imdb_votes": 24,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "5.6/10 from 25 users",
-    "release_date": [],
-    "contentRating": "R",
+    "description": "Nadine (Lisa Sookhiram) is sucked into an otherworld through the mirror -- but nobody knows it; they still see her, but it's her reflection. Yet everyone's puzzled by the new Nadine's aggressively sexual and dangerous behavior. Can her boyfriend, Eric (James Kautz, former World Kickboxing Champion), stop her from going down this path of destruction? Will the real Nadine ever come back?",
+    "imdb_rating": "5.6/10 from 24 users",
+    "release_date": [
+        {
+            "date": "2007-03-20",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2007-03-20",
+    "original_title": "Reflection",
     "imdb_rating_average": 5.6,
-    "update_at": "2025-06-05T17:11:55"
+    "update_at": "2026-10-29T03:00:28"
 }

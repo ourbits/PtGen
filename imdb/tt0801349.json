@@ -4,7 +4,7 @@
     "name": "Triple Threat",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Action",
         "Crime"
@@ -12,70 +12,113 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1102433/",
-            "name": "Lorin Davis"
+            "name": "Lorin Davis",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1702329/",
-            "name": "Curt Bonnem"
+            "name": "Curt Bonnem",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2271950/",
-            "name": "Kay West"
+            "name": "Kay West",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0828007/",
+            "name": "Stephanie Stearns",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0890346/",
+            "name": "Mark Vasconcellos",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2258973/",
+            "name": "Steve Wiley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2272907/",
+            "name": "Michael Burchieri",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0205546/",
+            "name": "Ted Davis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4136577/",
+            "name": "Fidel Paniagua",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4136577/",
+            "name": "Fidel Paniagua",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQwOTAzOTg3NF5BMl5BanBnXkFtZTcwODcxMjMzMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/i88fPxSJVlArmhJIzPBUvV9lEez.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Lorin Davis",
+            "Curt Bonnem",
+            "Kay West"
+        ],
+        "Genres": [
+            "Action",
+            "Crime"
+        ],
+        "Writer": [
+            "Mark Vasconcellos"
+        ],
+        "Runtime": [
+            "94 min"
+        ],
+        "Director": [
+            "Mark Vasconcellos"
         ],
         "Release date": [
-            "April 12, 2005 (United States)"
-        ],
-        "Also known as": [
-            "Tahdid e Sejanebe"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Hollywood, Los Angeles, California, USA"
-        ],
-        "Production companies": [
-            "Tapped Out Productions",
-            "www.bigbask.com"
+            "2005-04-13"
         ]
     },
-    "reviews": 10,
+    "reviews": 0,
+    "tagline": "Beauty, Brains, and Killer Personality",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0890346/",
-            "name": "Mark Vasconcellos"
+            "name": "Mark Vasconcellos",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H34M",
-    "keywords": [
-        "woman hits a man",
-        "woman murders a man",
-        "murderess",
-        "murder",
-        "bikini"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0890346/",
-            "name": "Mark Vasconcellos"
+            "name": "Mark Vasconcellos",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0801349/",
     "metascore": null,
-    "imdb_votes": 187,
+    "imdb_votes": 185,
     "popularity": 0,
-    "description": "Ex-assassin, Dina Lo Bianca, receives an offer she cannot refuse, thrusting her back into the world of hired guns, espionage and surveillance. With the help of her young sexy protégé and Dina&apos;s new straight-laced love interest, th...",
-    "imdb_rating": "2.4/10 from 187 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
-    "datePublished": "2005-04-12",
-    "imdb_rating_average": 2.4,
-    "update_at": "2025-07-01T06:28:48"
+    "description": "Ex-assassin, Dina Lo Bianca, receives an offer she cannot refuse, thrusting her back into the world of hired guns, espionage, and surveillance. Thriple Threat is an action filled thriller loaded with bikinis, bikes, and brawls. A fun, entertaining, rocking feature with rising star talent presented by a true independent film director.",
+    "imdb_rating": "2.5/10 from 185 users",
+    "release_date": [
+        {
+            "date": "2005-04-13",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2005-04-13",
+    "original_title": "Triple Threat",
+    "imdb_rating_average": 2.5,
+    "update_at": "2026-10-29T10:07:29"
 }

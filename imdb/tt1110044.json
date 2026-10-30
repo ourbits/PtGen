@@ -4,61 +4,85 @@
     "name": "Deliverance: The Beginning",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000885/",
-            "name": "Ned Beatty"
+            "name": "Ned Beatty",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000958/",
-            "name": "John Boorman"
+            "name": "John Boorman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001074/",
-            "name": "Ronny Cox"
+            "name": "Ronny Cox",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1468036/",
+            "name": "Christopher Dickey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000608/",
+            "name": "Burt Reynolds",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000685/",
+            "name": "Jon Voight",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTA3YjVmOGEtOTAyOS00MGY4LTllZGMtYTYzMmM4NDk1MGE2XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Ned Beatty",
+            "John Boorman",
+            "Ronny Cox"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Runtime": [
+            "17 min"
+        ],
+        "Director": [
+            "Laurent Bouzereau"
         ],
         "Release date": [
-            "September 18, 2007 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Warner Home Video"
+            "2007"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT17M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0100522/",
-            "name": "Laurent Bouzereau"
+            "name": "Laurent Bouzereau",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1110044/",
     "metascore": null,
-    "imdb_votes": 43,
+    "imdb_votes": 42,
     "popularity": 0,
-    "description": "Explanation by John Boorman of being employed as &apos;Deliverance&apos;s&apos; Director and Producer. Introduction to the four actors cast in the various key roles along with their films comments of their character roles.",
-    "imdb_rating": "7.4/10 from 43 users",
+    "description": null,
+    "imdb_rating": "7.3/10 from 42 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2007-09-18",
-    "imdb_rating_average": 7.4,
-    "update_at": "2025-07-16T05:07:48"
+    "datePublished": "2007",
+    "original_title": "Deliverance: The Beginning",
+    "imdb_rating_average": 7.3,
+    "update_at": "2026-10-29T04:00:40"
 }

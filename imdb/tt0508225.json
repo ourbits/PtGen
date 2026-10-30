@@ -13,70 +13,90 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000033/",
-            "name": "Alfred Hitchcock"
+            "name": "Alfred Hitchcock",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000012/",
-            "name": "Bette Davis"
+            "name": "Bette Davis",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0174607/",
-            "name": "James Congdon"
+            "name": "James Congdon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0007214/",
+            "name": "Frank Albertson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0550760/",
+            "name": "Arthur Marshall",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGNmMjE1NzgtODFjZS00NzZkLTgyMzctMDZjNDgzYzhjMGI3XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Alfred Hitchcock",
+            "Bette Davis",
+            "James Congdon"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "Writer": [
+            "William O'Farrell",
+            "Bernard C. Schoenfeld"
+        ],
+        "Runtime": [
+            "30 min"
+        ],
+        "Director": [
+            "Paul Henreid"
         ],
         "Release date": [
-            "January 25, 1959 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA"
-        ],
-        "Production company": [
-            "Shamley Productions"
+            "1959"
         ]
     },
-    "reviews": 11,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0640993/",
-            "name": "William O&apos;Farrell"
+            "name": "William O'Farrell",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0774441/",
-            "name": "Bernard C. Schoenfeld"
+            "name": "Bernard C. Schoenfeld",
+            "@type": "Person"
         }
     ],
     "duration": "PT30M",
-    "keywords": [
-        "wealthy widow",
-        "elevator",
-        "widow",
-        "rich woman",
-        "accusation"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0002134/",
-            "name": "Paul Henreid"
+            "name": "Paul Henreid",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0508225/",
     "metascore": null,
-    "imdb_votes": 995,
+    "imdb_votes": 1069,
     "popularity": 0,
-    "description": "Miss Fox is a rich old widow who falsely identifies one of the building&apos;s employees as the guy who robbed her, and later she wants to help him but it may be too late.",
-    "imdb_rating": "7.5/10 from 995 users",
+    "description": null,
+    "imdb_rating": "7.5/10 from 1069 users",
     "release_date": [],
-    "contentRating": "TV-14",
-    "datePublished": "1959-01-25",
+    "contentRating": null,
+    "datePublished": "1959",
+    "original_title": "Out There - Darkness",
     "imdb_rating_average": 7.5,
-    "update_at": "2025-04-08T01:33:46"
+    "update_at": "2026-10-29T05:21:29"
 }

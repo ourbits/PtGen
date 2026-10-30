@@ -3,56 +3,74 @@
     "sid": "tt0476164",
     "name": "Camí de tango",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1994",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1345596/",
-            "name": "Roser Batalla"
+            "name": "Roser Batalla",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2011436/",
-            "name": "Julio Zurita"
+            "name": "Julio Zurita",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Catalan"
+        "Stars": [
+            "Roser Batalla",
+            "Julio Zurita"
         ],
-        "Country of origin": [
-            "Spain"
+        "Genres": [
+            "Short"
         ],
-        "Production company": [
-            "Centre d'Estudis Cinematogràfics de Catalunya (CECC)"
+        "Writer": [
+            "Paula Canals",
+            "Paula Canals",
+            "Guillermo Escalona"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "Paula Canals"
+        ],
+        "Release date": [
+            "1994"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0133568/",
-            "name": "Paula Canals"
+            "name": "Paula Canals",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2012072/",
-            "name": "Paula Canals"
+            "name": "Paula Canals",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0260154/",
-            "name": "Guillermo Escalona"
+            "name": "Guillermo Escalona",
+            "@type": "Person"
         }
     ],
     "duration": "PT10M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2012072/",
-            "name": "Paula Canals"
+            "name": "Paula Canals",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0476164/",
@@ -63,7 +81,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1994",
+    "original_title": "Camí de tango",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-06T23:52:25"
+    "update_at": "2026-10-29T23:28:18"
 }

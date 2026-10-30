@@ -4,7 +4,7 @@
     "name": "Water Trix",
     "site": "imdb",
     "year": "1949",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short",
         "Sport"
@@ -12,58 +12,82 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0809570/",
-            "name": "Pete Smith"
+            "name": "Pete Smith",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0871740/",
-            "name": "Charles T. Trego"
+            "name": "Charles T. Trego",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0676934/",
-            "name": "Preston Petersen"
+            "name": "Preston Petersen",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzEyZTFmYjEtZmRiOC00NzMzLTg0NTktN2RiZTk5MTRmZDk0XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/dNLjC2KTLfOlRgPeYGtf75mNCdl.jpg",
     "details": {
+        "Stars": [
+            "Pete Smith",
+            "Charles T. Trego",
+            "Preston Petersen"
+        ],
+        "Genres": [
+            "Short",
+            "Sport"
+        ],
+        "Runtime": [
+            "9 min"
+        ],
+        "Director": [
+            "Charles T. Trego"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 5, 1949 (United States)"
+            "1949-11-05"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
-            "Loew's"
+        "Production companies": [
+            "Metro-Goldwyn-Mayer"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT9M",
     "keywords": [
-        "pete smith specialty",
-        "water skiing",
-        "sailboat",
-        "helicopter",
-        "narration"
+        "sports",
+        "photographer",
+        "water skiing"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0871740/",
-            "name": "Charles T. Trego"
+            "name": "Charles T. Trego",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0042034/",
     "metascore": null,
-    "imdb_votes": 166,
+    "imdb_votes": 171,
     "popularity": 0,
     "description": "In this Pete Smith Specialty, cameraman Charles T. Trego films water skiing champion Preston Petersen, as he and two unnamed female skiers perform various tricks and feats of skill in their sport.",
-    "imdb_rating": "6.1/10 from 166 users",
-    "release_date": [],
-    "contentRating": "Approved",
+    "imdb_rating": "6.1/10 from 171 users",
+    "release_date": [
+        {
+            "date": "1949-11-05",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1949-11-05",
+    "original_title": "Water Trix",
     "imdb_rating_average": 6.1,
-    "update_at": "2025-09-22T03:00:18"
+    "update_at": "2026-10-30T00:56:06"
 }

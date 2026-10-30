@@ -5,31 +5,69 @@
     "site": "imdb",
     "year": "1970",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm5987543/",
+            "name": "Ching Chen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2312932/",
+            "name": "Lien-Kuei Chi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0156875/",
+            "name": "Charlie Chin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0610786/",
+            "name": "Mu Chu",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2679300/",
+            "name": "Ping-Kuan Mai",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Mandarin"
+        "Stars": [
+            "Ching Chen",
+            "Lien-Kuei Chi",
+            "Charlie Chin"
+        ],
+        "Writer": [
+            "Lung-Hsiang Fang"
+        ],
+        "Director": [
+            "Tian-Lin Wang"
         ],
         "Release date": [
-            "December 22, 1970 (Hong Kong)"
-        ],
-        "Also known as": [
-            "The Unknown Swordsman"
-        ],
-        "Country of origin": [
-            "Hong Kong"
-        ],
-        "Production company": [
-            "Cathay Organisation"
+            "1970"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0266750/",
+            "name": "Lung-Hsiang Fang",
+            "@type": "Person"
+        }
+    ],
     "duration": null,
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0911048/",
+            "name": "Tian-Lin Wang",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0199159/",
     "metascore": null,
@@ -39,7 +77,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1970-12-22",
+    "datePublished": "1970",
+    "original_title": "Yi xiang ke",
     "imdb_rating_average": 0,
-    "update_at": "2026-05-04T05:56:30"
+    "update_at": "2026-10-30T00:00:37"
 }

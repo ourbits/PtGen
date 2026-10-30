@@ -1,89 +1,151 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Red Hot and Blue",
+            "country": "United States of America"
+        }
+    ],
     "sid": "tt0100246",
-    "name": "Red Hot and Blue",
+    "name": "Red Hot + Blue: A Tribute to Cole Porter",
     "site": "imdb",
     "year": "1990",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Music"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0051382/",
-            "name": "Afrika Bambaataa"
+            "name": "Afrika Bambaataa",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0095104/",
-            "name": "Bono"
+            "name": "Bono",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0126154/",
-            "name": "David Byrne"
+            "name": "David Byrne",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1220462/",
+            "name": "Neneh Cherry",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0165651/",
+            "name": "Adam Clayton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0857253/",
+            "name": "The Edge",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0310116/",
+            "name": "Jean-Paul Gaultier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001323/",
+            "name": "Debbie Harry",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0410347/",
+            "name": "Bill Irwin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0485807/",
+            "name": "k.d. lang",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDMyYWI3NTAtMmM2Mi00ZjlhLWExMDMtNDRlNTdhMTdkMDdlXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/mCTf3myRuYxXApqnViG8MJUmiUi.jpg",
     "details": {
+        "Stars": [
+            "Afrika Bambaataa",
+            "Bono",
+            "David Byrne"
+        ],
+        "Genres": [
+            "Music"
+        ],
+        "Runtime": [
+            "88 min"
+        ],
+        "Director": [
+            "Percy Adlon",
+            "David Byrne",
+            "Alex Cox"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "September 25, 1990 (United States)"
+            "1990-12-01"
         ],
-        "Also known as": [
-            "Red, Hot and Blue"
-        ],
-        "Official sites": [
-            "-Red Hot + Blue\" Extras - https://vimeo.com/342288595",
-            "-The official website - https://redhot.org/project/red-hot-blue/"
-        ],
-        "Countries of origin": [
-            "Ireland",
-            "United Kingdom",
+        "Country of origin": [
             "France",
             "Japan",
-            "United States"
+            "United Kingdom",
+            "United States of America",
+            "Ireland"
         ],
         "Production companies": [
             "Canal+",
-            "Channel Four Films",
-            "King Cole"
+            "King Cole",
+            "Malcolm Leo Productions, Inc.",
+            "TBS",
+            "Film4 Productions"
         ]
     },
     "reviews": 0,
+    "tagline": "A Benefit for AIDS Research & Relief",
     "creators": [],
     "duration": "PT1H28M",
-    "keywords": [
-        "music video collection",
-        "tribute",
-        "statistics",
-        "song and dance",
-        "research"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0000727/",
-            "name": "Percy Adlon"
+            "name": "Percy Adlon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0126154/",
-            "name": "David Byrne"
+            "name": "David Byrne",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0007182/",
-            "name": "Alex Cox"
+            "name": "Alex Cox",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0100246/",
     "metascore": null,
-    "imdb_votes": 258,
+    "imdb_votes": 261,
     "popularity": 0,
-    "description": "Modern pop performers reinterpreting several songs of Cole Porter in music videos directed by established directors.",
-    "imdb_rating": "7.2/10 from 258 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
-    "datePublished": "1990-09-25",
-    "imdb_rating_average": 7.2,
-    "update_at": "2025-06-09T22:00:33"
+    "description": "This music special is dedicated to dispelling the prejudices associated with the HIV infection and raising money for AIDS research and relief. Some of today's most celebrated recording artists performing their interpretations of the classic songs of Cole Porter.",
+    "imdb_rating": "7.1/10 from 261 users",
+    "release_date": [
+        {
+            "date": "1990-12-01",
+            "country": "Brazil"
+        },
+        {
+            "date": "1990-12-01",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1990-12-01",
+    "original_title": "Red Hot and Blue",
+    "imdb_rating_average": 7.1,
+    "update_at": "2026-10-29T09:21:09"
 }

@@ -1,52 +1,75 @@
 {
     "aka": [],
     "sid": "tt0256098",
-    "name": "L&apos;innocenza ed il piacer",
+    "name": "L'innocenza ed il piacer",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1987",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
-        "Romance",
-        "Music"
+        "Music",
+        "Romance"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0405895/",
-            "name": "Christina Högman"
+            "name": "Christina Högman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0856123/",
-            "name": "Eva Maria Tersson"
+            "name": "Eva Maria Tersson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0557225/",
-            "name": "Deborah Massell"
+            "name": "Deborah Massell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0099534/",
+            "name": "Sophie Boulin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0834193/",
+            "name": "Kurt Streit",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTU1MjUyNTAzN15BMl5BanBnXkFtZTcwMDM2ODgxMQ@@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "Italian"
+        "Stars": [
+            "Christina Högman",
+            "Eva Maria Tersson",
+            "Deborah Massell"
         ],
-        "Country of origin": [
-            "West Germany"
+        "Genres": [
+            "Comedy",
+            "Music",
+            "Romance"
         ],
-        "Production companies": [
-            "RM Arts",
-            "Schwetzinger Festspiele"
+        "Runtime": [
+            "168 min"
+        ],
+        "Director": [
+            "Claus Viller"
+        ],
+        "Release date": [
+            "1987"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT2H48M",
-    "keywords": [
-        "opera"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0898312/",
-            "name": "Claus Viller"
+            "name": "Claus Viller",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0256098/",
@@ -57,7 +80,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1987",
+    "original_title": "L'innocenza ed il piacer",
     "imdb_rating_average": 0,
-    "update_at": "2026-03-09T15:49:23"
+    "update_at": "2026-10-29T17:49:15"
 }

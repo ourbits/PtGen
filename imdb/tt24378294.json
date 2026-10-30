@@ -4,64 +4,90 @@
     "name": "A Folded Ocean",
     "site": "imdb",
     "year": "2023",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Romance"
+        "Romance",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm6481642/",
-            "name": "Anabelle LeMieux"
+            "name": "Anabelle LeMieux",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm10743686/",
-            "name": "John Giacobbe"
+            "name": "John Giacobbe",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDBkZWU1ZjQtODJhNi00ZGU5LWI1YTMtNWI1YmI1MDc1MmVkXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/zMPvM9pVXCKxJV7KXxMbJj1TxCw.jpg",
     "details": {
+        "Stars": [
+            "Anabelle LeMieux",
+            "John Giacobbe"
+        ],
+        "Genres": [
+            "Romance",
+            "Short"
+        ],
+        "Writer": [
+            "Benjamin Brewer"
+        ],
+        "Runtime": [
+            "14 min"
+        ],
+        "Director": [
+            "Benjamin Brewer"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 20, 2023 (United States)"
+            "2023-01-20"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3588247/",
-            "name": "Benjamin Brewer"
+            "name": "Benjamin Brewer",
+            "@type": "Person"
         }
     ],
     "duration": "PT14M",
-    "keywords": [
-        "male nudity",
-        "male rear nudity",
-        "female nudity",
-        "mutant",
-        "female rear nudity"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3588247/",
-            "name": "Benjamin Brewer"
+            "name": "Benjamin Brewer",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt24378294/",
     "metascore": null,
-    "imdb_votes": 91,
+    "imdb_votes": 123,
     "popularity": 0,
     "description": "A couple get lost in each other.",
-    "imdb_rating": "6.7/10 from 91 users",
-    "release_date": [],
+    "imdb_rating": "6.4/10 from 123 users",
+    "release_date": [
+        {
+            "date": "2023-09-10",
+            "country": "Germany"
+        },
+        {
+            "date": "2023-01-20",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2023-01-20",
-    "imdb_rating_average": 6.7,
-    "update_at": "2025-04-14T23:26:34"
+    "original_title": "A Folded Ocean",
+    "imdb_rating_average": 6.4,
+    "update_at": "2026-10-29T10:21:09"
 }

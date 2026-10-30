@@ -4,59 +4,90 @@
     "name": "Een zomer lang",
     "site": "imdb",
     "year": "1959",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0960528/",
-            "name": "Bas ten Batenburg"
+            "name": "Bas ten Batenburg",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0333162/",
-            "name": "Manfred de Graaf"
+            "name": "Manfred de Graaf",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0395905/",
-            "name": "Peronne Hosang"
+            "name": "Peronne Hosang",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0720596/",
+            "name": "Jan Retèl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0806781/",
+            "name": "Betsy Smeets",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2525027/",
+            "name": "Godert Van Colmjon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2528136/",
+            "name": "Joyce Verstraete",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Dutch"
+        "Stars": [
+            "Bas ten Batenburg",
+            "Manfred de Graaf",
+            "Peronne Hosang"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Robert Anderson",
+            "Willy van Hemert"
+        ],
+        "Director": [
+            "Willy van Hemert"
         ],
         "Release date": [
-            "February 25, 1959 (Netherlands)"
-        ],
-        "Country of origin": [
-            "Netherlands"
-        ],
-        "Production company": [
-            "Nederlandse Televisie Stichting (NTS)"
+            "1959"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0027355/",
-            "name": "Robert Anderson"
+            "name": "Robert Anderson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0375984/",
-            "name": "Willy van Hemert"
+            "name": "Willy van Hemert",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0375984/",
-            "name": "Willy van Hemert"
+            "name": "Willy van Hemert",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0948741/",
@@ -67,7 +98,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1959-02-25",
+    "datePublished": "1959",
+    "original_title": "Een zomer lang",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-19T20:56:59"
+    "update_at": "2026-10-29T06:28:34"
 }

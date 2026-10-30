@@ -4,42 +4,104 @@
     "name": "Cimex Lectularius",
     "site": "imdb",
     "year": "2023",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Fantasy"
+        "Fantasy",
+        "Short"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm11787358/",
+            "name": "Adil Mekki",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7887803/",
+            "name": "Brice Michelini",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6781042/",
+            "name": "Lou Roy-Lecollinet",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTRjMmE0MzAtMDAwMS00NjIzLTkwYzgtNWRjNjc3OGY1YTFlXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/rm4PtgZfUKafy8ZyzVFLMENQl10.jpg",
     "details": {
+        "Stars": [
+            "Adil Mekki",
+            "Brice Michelini",
+            "Lou Roy-Lecollinet"
+        ],
+        "Genres": [
+            "Fantasy",
+            "Short"
+        ],
+        "Writer": [
+            "Clémentine Decremps",
+            "Rémi Giordano"
+        ],
+        "Runtime": [
+            "17 min"
+        ],
+        "Director": [
+            "Clémentine Decremps",
+            "Rémi Giordano"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "November 20, 2023 (France)"
+            "2023-11-22"
         ],
         "Country of origin": [
             "France"
-        ],
-        "Production company": [
-            "Take Shelter"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm4204824/",
+            "name": "Clémentine Decremps",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8873227/",
+            "name": "Rémi Giordano",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT17M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm4204824/",
+            "name": "Clémentine Decremps",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8873227/",
+            "name": "Rémi Giordano",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt28154327/",
     "metascore": null,
-    "imdb_votes": 10,
+    "imdb_votes": 11,
     "popularity": 0,
-    "description": "After a one-night stand, Leo, a leather craftsman, is stuck in a down ward spiral, convinced he is infected with bedbugs.",
-    "imdb_rating": "5.2/10 from 10 users",
-    "release_date": [],
+    "description": "After a one-night stand, Léo, a leather craftsman, is trapped in a downward spiral, convinced that he's infested with bedbugs.",
+    "imdb_rating": "5.3/10 from 11 users",
+    "release_date": [
+        {
+            "date": "2023-11-22",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2023-11-20",
-    "imdb_rating_average": 5.2,
-    "update_at": "2025-11-22T15:50:08"
+    "datePublished": "2023-11-22",
+    "original_title": "Cimex Lectularius",
+    "imdb_rating_average": 5.3,
+    "update_at": "2026-10-29T06:14:07"
 }

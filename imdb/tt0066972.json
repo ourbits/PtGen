@@ -4,7 +4,7 @@
     "name": "The Deadly Dream",
     "site": "imdb",
     "year": "1971",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Sci-Fi",
@@ -13,67 +13,124 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000978/",
-            "name": "Lloyd Bridges"
+            "name": "Lloyd Bridges",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001463/",
-            "name": "Janet Leigh"
+            "name": "Janet Leigh",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0079475/",
-            "name": "Carl Betz"
+            "name": "Carl Betz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0002063/",
+            "name": "Leif Erickson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0835144/",
+            "name": "Don Stroud",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0318280/",
+            "name": "Yvonne Gilbert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001395/",
+            "name": "Richard Jaeckel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0683984/",
+            "name": "Phillip Pine",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0625410/",
+            "name": "Herbert Nelson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0006428/",
+            "name": "Arlene Dahl",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTliZTg0ZGYtZGQ0ZC00YWM3LTk3M2YtYWVmYmUwNDBlNjNhXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/f2bI3TACIbgC7I2XJG1D18kD4Cg.jpg",
     "details": {
+        "Stars": [
+            "Lloyd Bridges",
+            "Janet Leigh",
+            "Carl Betz"
+        ],
+        "Genres": [
+            "Drama",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "Writer": [
+            "Barry Oringer"
+        ],
+        "Runtime": [
+            "73 min"
+        ],
+        "Director": [
+            "Alf Kjellin"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "September 25, 1971 (United States)"
-        ],
-        "Also known as": [
-            "El sueño mortal"
+            "1971-09-25"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Universal Studios - 100 Universal City Plaza, Universal City, California, USA"
-        ],
-        "Production company": [
-            "Universal Television"
+        "Production companies": [
+            "Universal Television",
+            "ABC"
         ]
     },
-    "reviews": 9,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0649855/",
-            "name": "Barry Oringer"
+            "name": "Barry Oringer",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H13M",
-    "keywords": [
-        "psychotronic film",
-        "dream",
-        "murder"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0458033/",
-            "name": "Alf Kjellin"
+            "name": "Alf Kjellin",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0066972/",
     "metascore": null,
-    "imdb_votes": 198,
+    "imdb_votes": 249,
     "popularity": 0,
-    "description": "A scientist keeps having dreams that he is marked for murder by a mysterious tribunal for something that he&apos;s not aware that he&apos;s done, and that his wife and his friends are part of the conspiracy. Soon he&apos;s not sure which is the ...",
-    "imdb_rating": "6.8/10 from 198 users",
-    "release_date": [],
-    "contentRating": null,
+    "description": "A scientist keeps having dreams that he is marked for murder by a mysterious tribunal for something that he's not aware that he's done, and that his wife and his friends are part of the conspiracy. Soon he's not sure which is the dream and which is reality.",
+    "imdb_rating": "6.5/10 from 249 users",
+    "release_date": [
+        {
+            "date": "1971-09-25",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "1971-09-25",
-    "imdb_rating_average": 6.8,
-    "update_at": "2026-04-14T21:00:29"
+    "original_title": "The Deadly Dream",
+    "imdb_rating_average": 6.5,
+    "update_at": "2026-10-29T12:21:18"
 }

@@ -6,75 +6,122 @@
     "year": "2003",
     "@type": "Movie",
     "genre": [
-        "Thriller",
-        "Drama"
+        "Drama",
+        "Thriller"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1467289/",
-            "name": "David Tully"
+            "name": "David Tully",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0453039/",
-            "name": "Diedre Kilgore"
+            "name": "Diedre Kilgore",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1262249/",
-            "name": "Johanna Watts"
+            "name": "Johanna Watts",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1384629/",
+            "name": "Ken Dapper",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1443273/",
+            "name": "Steve Briscoe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1463913/",
+            "name": "J. Todd Howell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1099663/",
+            "name": "Anslem Richardson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0436943/",
+            "name": "David Kampman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1132133/",
+            "name": "Michael DeNigris",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1468932/",
+            "name": "Jill Moray",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDk2YmE4MTktNTc4MC00Y2IyLWE1YzktY2FiNDVkM2Q4YmRkXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/3R3vZvsOm1fMChvotcOcEATg2Lk.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "David Tully",
+            "Diedre Kilgore",
+            "Johanna Watts"
+        ],
+        "Genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "Writer": [
+            "Paul DeNigris"
+        ],
+        "Runtime": [
+            "85 min"
+        ],
+        "Director": [
+            "Paul DeNigris"
         ],
         "Release date": [
-            "October 29, 2003 (United States)"
-        ],
-        "Also known as": [
-            "American Falls"
+            "2003-10-28"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Buffalo, New York, USA"
-        ],
-        "Production company": [
-            "Locked Horns Productions"
+            "United States of America"
         ]
     },
-    "reviews": 10,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1366756/",
-            "name": "Paul DeNigris"
+            "name": "Paul DeNigris",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H25M",
-    "keywords": [
-        "young",
-        "man",
-        "obsession",
-        "murder",
-        "niagara falls"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1366756/",
-            "name": "Paul DeNigris"
+            "name": "Paul DeNigris",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0382687/",
     "metascore": null,
-    "imdb_votes": 124,
+    "imdb_votes": 126,
     "popularity": 0,
-    "description": "A troubled young man with a fatal fascination for redheads battles cops, family demons and his own blinding obsession while searching for his missing girlfriend.",
-    "imdb_rating": "4/10 from 124 users",
-    "release_date": [],
-    "contentRating": "R",
-    "datePublished": "2003-10-29",
-    "imdb_rating_average": 4,
-    "update_at": "2025-08-22T08:35:51"
+    "description": "In a smoke-filled dive in Buffalo, NY, David Marx tells us his tale of obsession, betrayal, and murder - leading him to an uncertain fate \"underneath Niagara Falls.\" David tells us how his beautiful redheaded ex-girlfriend, Jennifer Barnes, has disappeared and how he ended up the guardian of the 2.5 million dollars that \"was supposed to have bought Jen's safety.\"",
+    "imdb_rating": "3.9/10 from 126 users",
+    "release_date": [
+        {
+            "date": "2003-10-28",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2003-10-28",
+    "original_title": "The Falls",
+    "imdb_rating_average": 3.9,
+    "update_at": "2026-10-29T02:21:17"
 }

@@ -3,47 +3,91 @@
     "sid": "tt3809346",
     "name": "Malus",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2003",
+    "@type": "VideoObject",
     "genre": [
         "Documentary",
         "Short"
     ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0050210/",
+            "name": "Jeanne Balibar",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0215594/",
+            "name": "Daniele Del Giudice",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/h1pRAlLMm6IS0MDSHlDCxjx4adY.jpg",
     "details": {
-        "Languages": [
+        "Stars": [
+            "Jeanne Balibar",
+            "Daniele Del Giudice"
+        ],
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Writer": [
+            "Mathieu Amalric"
+        ],
+        "Runtime": [
+            "17 min"
+        ],
+        "Director": [
+            "Mathieu Amalric"
+        ],
+        "Language": [
             "Italian",
             "French"
         ],
         "Release date": [
-            "2003 (Portugal)"
+            "2003-01-01"
         ],
         "Country of origin": [
             "France"
         ],
-        "Filming locations": [
-            "Trieste, Friuli-Venezia Giulia, Italy"
-        ],
-        "Production company": [
+        "Production companies": [
             "Gemini Films"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0023832/",
+            "name": "Mathieu Amalric",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT17M",
-    "keywords": [
-        "novel",
-        "book"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0023832/",
+            "name": "Mathieu Amalric",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt3809346/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "A post-script to his \"Le Stade De Wimbledon\"",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2003-01-01",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2003-01-01",
+    "original_title": "Malus",
     "imdb_rating_average": 0,
-    "update_at": "2025-11-23T03:50:10"
+    "update_at": "2026-10-29T18:49:13"
 }

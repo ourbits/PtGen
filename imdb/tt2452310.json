@@ -3,50 +3,80 @@
     "sid": "tt2452310",
     "name": "Something Normal",
     "site": "imdb",
-    "@type": "Movie",
-    "genre": null,
+    "year": "2012",
+    "@type": "TVMovie",
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm4185977/",
-            "name": "Croix Provence"
+            "name": "Croix Provence",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5325699/",
-            "name": "Derek Galarza"
+            "name": "Derek Galarza",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1730935/",
-            "name": "Daryn Kahn"
+            "name": "Daryn Kahn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5325714/",
+            "name": "Diana Garle",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3624160/",
+            "name": "Ansley Gordon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5133511/",
+            "name": "Caleb Emery",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4545284/",
+            "name": "Amber Watson",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjU0MWE0YzctNGYxNS00ZGQyLTliZTEtNTQ2YWM1YzJmNzYyXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Croix Provence",
+            "Derek Galarza",
+            "Daryn Kahn"
         ],
-        "Country of origin": [
-            "United States"
+        "Writer": [
+            "Stephen Andrew Martin"
         ],
-        "Filming locations": [
-            "Winter Park, Florida, USA"
+        "Director": [
+            "Stephen Andrew Martin"
+        ],
+        "Release date": [
+            "2012"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm5324176/",
-            "name": "Stephen Andrew Martin"
+            "name": "Stephen Andrew Martin",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm5324176/",
-            "name": "Stephen Andrew Martin"
+            "name": "Stephen Andrew Martin",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2452310/",
@@ -57,7 +87,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2012",
+    "original_title": "Something Normal",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-05T18:13:49"
+    "update_at": "2026-10-29T11:21:25"
 }

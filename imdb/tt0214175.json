@@ -4,7 +4,7 @@
     "name": "Surf Heroes",
     "site": "imdb",
     "year": "1938",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Documentary",
         "Short"
@@ -12,37 +12,40 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0809570/",
-            "name": "Pete Smith"
+            "name": "Pete Smith",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Pete Smith"
+        ],
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Runtime": [
+            "9 min"
+        ],
+        "Director": [
+            "Charles T. Trego"
         ],
         "Release date": [
-            "May 28, 1938 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Metro-Goldwyn-Mayer (MGM)"
+            "1938"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT9M",
-    "keywords": [
-        "year 1938",
-        "1930s",
-        "20th century"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0871740/",
-            "name": "Charles T. Trego"
+            "name": "Charles T. Trego",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0214175/",
@@ -53,7 +56,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1938-05-28",
+    "datePublished": "1938",
+    "original_title": "Surf Heroes",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-19T13:07:07"
+    "update_at": "2026-10-29T11:07:23"
 }

@@ -4,79 +4,130 @@
     "name": "Dizzy Divers",
     "site": "imdb",
     "year": "1935",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Family",
+        "Animation",
         "Comedy",
-        "Animation"
+        "Family"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0182627/",
-            "name": "William Costello"
+            "name": "William Costello",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0182627/",
+            "name": "William Costello",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0688100/",
-            "name": "Bonnie Poe"
+            "name": "Bonnie Poe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0688100/",
+            "name": "Bonnie Poe",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0926923/",
-            "name": "Gus Wicke"
+            "name": "Gus Wicke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0926923/",
+            "name": "Gus Wicke",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjRkMDgxYTMtOGY3Yy00NzU0LWI3Y2ItYzZlNTJkODBiYTA5XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/uOhASIhiCrDWoQhCIs2Z4KBfhR9.jpg",
     "details": {
+        "Stars": [
+            "William Costello",
+            "William Costello",
+            "Bonnie Poe"
+        ],
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "Writer": [
+            "George Manuell",
+            "Joe Stultz",
+            "Bill Turner"
+        ],
+        "Runtime": [
+            "7 min"
+        ],
+        "Director": [
+            "Dave Fleischer",
+            "Willard Bowsky"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "July 26, 1935 (United States)"
-        ],
-        "Also known as": [
-            "Stuknięci nurkowe"
+            "1935-07-25"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Fleischer Studios"
         ]
     },
-    "reviews": 7,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0544289/",
-            "name": "George Manuell"
+            "name": "George Manuell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0836177/",
+            "name": "Joe Stultz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0877414/",
+            "name": "Bill Turner",
+            "@type": "Person"
         }
     ],
     "duration": "PT7M",
-    "keywords": [
-        "popeye the sailor character",
-        "olive oyl character",
-        "bluto character",
-        "surrealism",
-        "boat"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0281487/",
-            "name": "Dave Fleischer"
+            "name": "Dave Fleischer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0101466/",
-            "name": "Willard Bowsky"
+            "name": "Willard Bowsky",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0026283/",
     "metascore": null,
-    "imdb_votes": 310,
+    "imdb_votes": 338,
     "popularity": 0,
-    "description": "Popeye and Bluto are deep sea divers. Popeye has a treasure map; for some reason he cuts Bluto in on the deal, but of course, Bluto&apos;s idea of 50-50 isn&apos;t exactly fair.",
-    "imdb_rating": "7.1/10 from 310 users",
-    "release_date": [],
-    "contentRating": "Approved",
-    "datePublished": "1935-07-26",
+    "description": "Popeye and Bluto are deep sea divers. Popeye has a treasure map; for some reason he cuts Bluto in on the deal, but of course, Bluto's idea of 50-50 isn't exactly fair...",
+    "imdb_rating": "7.1/10 from 338 users",
+    "release_date": [
+        {
+            "date": "1935-07-25",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1935-07-25",
+    "original_title": "Dizzy Divers",
     "imdb_rating_average": 7.1,
-    "update_at": "2025-08-15T16:14:15"
+    "update_at": "2026-10-30T00:56:06"
 }

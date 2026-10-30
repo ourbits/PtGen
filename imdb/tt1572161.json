@@ -4,58 +4,102 @@
     "name": "Musical Theater of Hope",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0382040/",
-            "name": "Howard Hewett"
+            "name": "Howard Hewett",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3753851/",
-            "name": "Jamie Lynn Blair"
+            "name": "Jamie Lynn Blair",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0085214/",
-            "name": "Charles Black"
+            "name": "Charles Black",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0291684/",
+            "name": "Randall Franks",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3735008/",
+            "name": "Claudette Hixon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3735071/",
+            "name": "Latrice Pace",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3754305/",
+            "name": "Jaquitta Williams",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3754554/",
+            "name": "Jevonne Wilson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3734911/",
+            "name": "Nina Gaddy Wallace",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3734903/",
+            "name": "Tameka Scotton",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmRlNDBkZGYtZTI0ZC00MDgxLWJiNWYtZjJiMTI4ZTBmOTllXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Howard Hewett",
+            "Jamie Lynn Blair",
+            "Charles Black"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Robert Townsend"
+        ],
+        "Runtime": [
+            "22 min"
+        ],
+        "Director": [
+            "Robert Townsend"
         ],
         "Release date": [
-            "October 25, 2009 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Atlanta, Georgia, USA"
-        ],
-        "Production company": [
-            "Bell Town Productions"
+            "2009"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0870186/",
-            "name": "Robert Townsend"
+            "name": "Robert Townsend",
+            "@type": "Person"
         }
     ],
     "duration": "PT22M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0870186/",
-            "name": "Robert Townsend"
+            "name": "Robert Townsend",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1572161/",
@@ -66,7 +110,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2009-10-25",
+    "datePublished": "2009",
+    "original_title": "Musical Theater of Hope",
     "imdb_rating_average": 0,
-    "update_at": "2026-04-29T09:42:14"
+    "update_at": "2026-10-29T14:00:33"
 }

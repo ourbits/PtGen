@@ -6,47 +6,51 @@
     "year": "2015",
     "@type": "TVEpisode",
     "genre": [
-        "Documentary",
         "Biography",
+        "Documentary",
         "History"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1285136/",
-            "name": "Derek Malcolm"
+            "name": "Derek Malcolm",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1954273/",
-            "name": "Ian Nathan"
+            "name": "Ian Nathan",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzg4NDVjZTgtZjk0Ny00ZmEzLWE4NmItZDZhZDc5MjZkMjRmXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Derek Malcolm",
+            "Ian Nathan"
+        ],
+        "Genres": [
+            "Biography",
+            "Documentary",
+            "History"
+        ],
+        "Director": [
+            "Lyndy Saville"
         ],
         "Release date": [
-            "December 1, 2015 (United Kingdom)"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Production companies": [
-            "3DD Productions",
-            "Classic Movie Docs"
+            "2015"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": null,
-    "keywords": [
-        "reference to richard widmark"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3624073/",
-            "name": "Lyndy Saville"
+            "name": "Lyndy Saville",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt11974326/",
@@ -57,7 +61,8 @@
     "imdb_rating": "7.6/10 from 5 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2015-12-01",
+    "datePublished": "2015",
+    "original_title": "Richard Widmark",
     "imdb_rating_average": 7.6,
-    "update_at": "2025-10-03T00:56:19"
+    "update_at": "2026-10-30T01:00:34"
 }

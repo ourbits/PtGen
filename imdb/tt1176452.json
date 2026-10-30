@@ -4,7 +4,7 @@
     "name": "Ben Hogan",
     "site": "imdb",
     "year": "1953",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short",
         "Sport"
@@ -12,64 +12,67 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0731493/",
-            "name": "Peter Roberts"
+            "name": "Peter Roberts",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0389485/",
-            "name": "Ben Hogan"
+            "name": "Ben Hogan",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjMwZTBjZTktZDM4Ny00NzNiLWEyOTMtYzNiMjk3ZTIwNmYxXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Peter Roberts",
+            "Ben Hogan"
+        ],
+        "Genres": [
+            "Short",
+            "Sport"
+        ],
+        "Writer": [
+            "Earle Luby"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "Jay Bonafield"
         ],
         "Release date": [
-            "September 4, 1953 (United States)"
-        ],
-        "Also known as": [
-            "Sportscopes (1953-1954) #1: Ben Hogan"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Augusta National Golf Club - 2604 Washington Road, Augusta, Georgia, USA"
-        ],
-        "Production company": [
-            "RKO Radio Pictures"
+            "1953"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0523991/",
-            "name": "Earle Luby"
+            "name": "Earle Luby",
+            "@type": "Person"
         }
     ],
     "duration": "PT10M",
-    "keywords": [
-        "golf",
-        "the masters",
-        "one reeler",
-        "cigarette smoking"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0093702/",
-            "name": "Jay Bonafield"
+            "name": "Jay Bonafield",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1176452/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "This short, filled with stock-footage from a previous RKO short featuring golfer Ben Hogan, zeroes in on his golfing techniques, while, in April, practicing on the course of The National Golf Club, in Augusta, Georgia, in preparat...",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
-    "contentRating": "Approved",
-    "datePublished": "1953-09-04",
+    "contentRating": null,
+    "datePublished": "1953",
+    "original_title": "Ben Hogan",
     "imdb_rating_average": 0,
-    "update_at": "2026-02-07T05:40:28"
+    "update_at": "2026-10-29T10:21:20"
 }

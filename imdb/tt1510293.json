@@ -4,71 +4,118 @@
     "name": "Two Birds",
     "site": "imdb",
     "year": "2010",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Crime"
+        "Crime",
+        "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0123946/",
-            "name": "Michael Buscemi"
+            "name": "Michael Buscemi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0124540/",
-            "name": "Mauricio Bustamante"
+            "name": "Mauricio Bustamante",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0129538/",
-            "name": "Paul Calderon"
+            "name": "Paul Calderon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0410083/",
+            "name": "Shaun Irons",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3627795/",
+            "name": "Patrick King",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2728123/",
+            "name": "Angelique Letizia",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3613780/",
+            "name": "Kat Mills Martin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0584024/",
+            "name": "Ron Micca",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0641767/",
+            "name": "Maureen O'Malley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3627884/",
+            "name": "Tara Petrozelli",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzY0Mjk3ODE4OV5BMl5BanBnXkFtZTcwNTYxMzczMw@@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Michael Buscemi",
+            "Mauricio Bustamante",
+            "Paul Calderon"
+        ],
+        "Genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "Francesco Saviano"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Francesco Saviano"
         ],
         "Release date": [
-            "September 24, 2010 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Brooklyn, New York City, New York, USA"
-        ],
-        "Production company": [
-            "Brown Recluse Films"
+            "2010"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2760080/",
-            "name": "Francesco Saviano"
+            "name": "Francesco Saviano",
+            "@type": "Person"
         }
     ],
     "duration": "PT15M",
-    "keywords": [
-        "independent film"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2760080/",
-            "name": "Francesco Saviano"
+            "name": "Francesco Saviano",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1510293/",
     "metascore": null,
     "imdb_votes": 8,
     "popularity": 0,
-    "description": "Two friends, Randall and Jerome, venture through the industrial landscape of Brooklyn to retrieve a broken down car. Making an unexpected stop, Randall, in debt to an unstable crime boss, draws Jerome into his life of corruption a...",
+    "description": null,
     "imdb_rating": "8.4/10 from 8 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2010-09-24",
+    "datePublished": "2010",
+    "original_title": "Two Birds",
     "imdb_rating_average": 8.4,
-    "update_at": "2025-09-09T11:07:25"
+    "update_at": "2026-10-29T05:07:29"
 }

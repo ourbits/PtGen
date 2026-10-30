@@ -4,64 +4,73 @@
     "name": "Celibacy",
     "site": "imdb",
     "year": "2004",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2274185/",
-            "name": "Ralph Pinto"
+            "name": "Ralph Pinto",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTAyNTkxMzEwNDReQTJeQWpwZ15BbWU4MDc4MTEwNjAx._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/1fIAhDpxXTmyNtSX6YeAE9KffK8.jpg",
     "details": {
+        "Stars": [
+            "Ralph Pinto"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Antony Thomas"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "June 28, 2004 (United States)"
-        ],
-        "Also known as": [
-            "Flesh and the Devil"
-        ],
-        "Official site": [
-            "HBO (United States) - http://www.hbo.com/docs/programs/celibacy/synopsis.html"
+            "2004-06-28"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
-            "Carlton Television",
-            "Home Box Office (HBO)"
+            "HBO",
+            "HBO Documentary Films"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT1H30M",
-    "keywords": [
-        "celibacy",
-        "abuse",
-        "catholic church",
-        "catholic priest",
-        "sexual repression"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0002793/",
-            "name": "Antony Thomas"
+            "name": "Antony Thomas",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0808195/",
     "metascore": null,
     "imdb_votes": 24,
     "popularity": 0,
-    "description": "Celibacy - The argument basically is that in the mix of sex education that now goes on in schools throughout the western world, about how to have safe sex, one crucially important issue has clearly been overlooked, namely what abo...",
+    "description": "The argument basically is that in the mix of sex education that now goes on in schools throughout the western world, about how to have safe sex, one crucially important issue has clearly been overlooked, namely what about those people who don't want to engage in sexual relations yet? This programme brings real knowledge and understanding to this hotly debated issue.",
     "imdb_rating": "7.3/10 from 24 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "release_date": [
+        {
+            "date": "2004-06-28",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "2004-06-28",
+    "original_title": "Celibacy",
     "imdb_rating_average": 7.3,
-    "update_at": "2025-08-20T11:42:19"
+    "update_at": "2026-10-29T04:00:22"
 }

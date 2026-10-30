@@ -1,71 +1,153 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Marie Stuartovna",
+            "country": "Czech Republic"
+        }
+    ],
     "sid": "tt0095591",
     "name": "Maria Stuarda",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1988",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
-        "Romance",
-        "Music"
+        "Music",
+        "Romance"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0890330/",
-            "name": "Magda Vásáryová"
+            "name": "Magda Vášáryová",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0840116/",
-            "name": "Joan Sutherland"
+            "name": "Joan Sutherland",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0536680/",
-            "name": "Kamila Magálová"
+            "name": "Kamila Magálová",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0869610/",
+            "name": "Huguette Tourangeau",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0460596/",
+            "name": "Milan Kňažko",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0667556/",
+            "name": "Luciano Pavarotti",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0462620/",
+            "name": "Přemysl Kočí",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0816426/",
+            "name": "Roger Soyer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0696583/",
+            "name": "Jan Přeučil",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0606612/",
+            "name": "James Morris",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MDY2MDMyNF5BMl5BanBnXkFtZTYwMjQ1ODM5._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/vItzmSpxAdltr6JLcXmsFqFC8wI.jpg",
     "details": {
-        "Language": [
-            "Italian"
+        "Stars": [
+            "Magda Vášáryová",
+            "Joan Sutherland",
+            "Kamila Magálová"
         ],
-        "Also known as": [
-            "Μαρία Στιούαρτ"
+        "Genres": [
+            "Drama",
+            "Music",
+            "Romance"
+        ],
+        "Writer": [
+            "Giuseppe Bardari",
+            "Friedrich Schiller"
+        ],
+        "Director": [
+            "Petr Weigl"
+        ],
+        "Language": [
+            "Italian",
+            "German"
+        ],
+        "Release date": [
+            "1988-01-01"
         ],
         "Country of origin": [
-            "West Germany"
+            "Czechoslovakia",
+            "Germany"
+        ],
+        "Production companies": [
+            "TV 2000 Film und Fernsehproduktions",
+            "ZDF",
+            "Československá televízia Bratislava"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0054187/",
-            "name": "Giuseppe Bardari"
+            "name": "Giuseppe Bardari",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0771646/",
-            "name": "Friedrich Schiller"
+            "name": "Friedrich Schiller",
+            "@type": "Person"
         }
     ],
-    "duration": null,
+    "duration": "PT1H30M",
     "keywords": [
         "opera"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0917870/",
-            "name": "Petr Weigl"
+            "name": "Petr Weigl",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0095591/",
     "metascore": null,
-    "imdb_votes": 28,
+    "imdb_votes": 29,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.1/10 from 28 users",
-    "release_date": [],
+    "description": "Donizetti's opera as film.",
+    "imdb_rating": "7.2/10 from 29 users",
+    "release_date": [
+        {
+            "date": "1988-01-01",
+            "country": "Germany"
+        },
+        {
+            "date": "1990-04-29",
+            "country": "Czechoslovakia"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 7.1,
-    "update_at": "2025-10-05T16:14:23"
+    "datePublished": "1988-01-01",
+    "original_title": "Maria Stuarda",
+    "imdb_rating_average": 7.2,
+    "update_at": "2026-10-29T10:14:06"
 }

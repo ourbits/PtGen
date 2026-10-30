@@ -1,10 +1,19 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Dinosaurs",
+            "country": "United Kingdom"
+        },
+        {
+            "title": "Dinozavrlar",
+            "country": "Uzbekistan"
+        }
+    ],
     "sid": "tt32493765",
     "name": "The Dinosaurs",
     "site": "imdb",
     "year": "2026",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Documentary",
         "History"
@@ -12,54 +21,106 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000151/",
-            "name": "Morgan Freeman"
+            "name": "Morgan Freeman",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjdkYmIwOWQtNjQxNy00MTBmLWE1NTctNTdmYjhjYTA4NWM1XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
     "details": {
+        "Stars": [
+            "Morgan Freeman"
+        ],
+        "Genres": [
+            "Documentary",
+            "History"
+        ],
+        "Writer": [
+            "David Fowler",
+            "Patrick Makin",
+            "Nick Shoolingin-Jordan"
+        ],
+        "Runtime": [
+            "45 min"
+        ],
+        "Director": [
+            "Nick Shoolingin-Jordan",
+            "Amber Cherry Eames",
+            "Joe Fereday"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 6, 2026 (United States)"
+            "2026-03-06"
         ],
-        "Also known as": [
-            "Динозаври"
-        ],
-        "Official sites": [
-            "Official Netflix - https://www.netflix.com/title/81612719",
-            "Silverback Films (United Kingdom) - https://silverbackfilms.tv/shows/the-dinosaurs/"
-        ],
-        "Countries of origin": [
-            "United States",
+        "Country of origin": [
+            "United States of America",
             "United Kingdom"
         ],
         "Production companies": [
-            "Netflix",
             "Silverback Films",
-            "Amblin Entertainment"
+            "Amblin Documentaries"
         ]
     },
-    "reviews": 59,
-    "creators": [],
-    "duration": null,
+    "reviews": 0,
+    "tagline": "Take an epic journey into a lost world.",
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm1470516/",
+            "name": "David Fowler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3329696/",
+            "name": "Patrick Makin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2085757/",
+            "name": "Nick Shoolingin-Jordan",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT45M",
     "keywords": [
+        "natural disaster",
         "dinosaur",
-        "nature documentary",
-        "natural history",
-        "tv mini series",
-        "ecology"
+        "mass extinction",
+        "evolution",
+        "historical reinterpretation",
+        "informative",
+        "environmental & natural disasters",
+        "prehistoric life",
+        "mesozoic era"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm2085757/",
+            "name": "Nick Shoolingin-Jordan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4324643/",
+            "name": "Amber Cherry Eames",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10617582/",
+            "name": "Joe Fereday",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt32493765/",
     "metascore": null,
-    "imdb_votes": 2505,
-    "popularity": 31,
-    "description": "Explores the evolutionary journey of dinosaurs, unraveling their origins, ecological significance, diversification, and eventual extinction.",
-    "imdb_rating": "7.6/10 from 2505 users",
+    "imdb_votes": 9402,
+    "popularity": 0,
+    "description": "From the first dinosaurs to the last, this epic documentary series examines their 165 million years on Earth and the forces that shaped their evolution.",
+    "imdb_rating": "7.5/10 from 9402 users",
     "release_date": [],
     "contentRating": "TV-PG",
     "datePublished": "2026-03-06",
-    "imdb_rating_average": 7.6,
-    "update_at": "2026-03-11T21:40:18"
+    "original_title": "The Dinosaurs",
+    "imdb_rating_average": 7.5,
+    "update_at": "2026-10-29T13:07:37"
 }

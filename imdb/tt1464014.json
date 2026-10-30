@@ -4,57 +4,79 @@
     "name": "El jardín que se seca",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1340371/",
-            "name": "Horacio Castelo"
+            "name": "Horacio Castelo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0261064/",
-            "name": "Isaura Espinoza"
+            "name": "Isaura Espinoza",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1069218/",
-            "name": "Rubén González Garza"
+            "name": "Rubén González Garza",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1760439/",
+            "name": "Damayanti Quintanar",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0721209/",
+            "name": "Patricia Reyes Spíndola",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGNmOWI0MzUtM2I0MS00ZTA1LTlkOWMtMDVhYjZkOTAwNDRlXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "Spanish"
+        "Stars": [
+            "Horacio Castelo",
+            "Isaura Espinoza",
+            "Rubén González Garza"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Marcelo González"
+        ],
+        "Runtime": [
+            "18 min"
+        ],
+        "Director": [
+            "Marcelo González"
         ],
         "Release date": [
-            "July 25, 2009 (Mexico)"
-        ],
-        "Country of origin": [
-            "Mexico"
-        ],
-        "Production company": [
-            "Cinetzin Films"
+            "2009"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1299603/",
-            "name": "Marcelo González"
+            "name": "Marcelo González",
+            "@type": "Person"
         }
     ],
     "duration": "PT18M",
-    "keywords": [
-        "latino",
-        "hispanic"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1299603/",
-            "name": "Marcelo González"
+            "name": "Marcelo González",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1464014/",
@@ -62,10 +84,11 @@
     "imdb_votes": 6,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "8/10 from 6 users",
+    "imdb_rating": "8.0/10 from 6 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2009-07-25",
-    "imdb_rating_average": 8,
-    "update_at": "2025-08-25T15:22:36"
+    "datePublished": "2009",
+    "original_title": "El jardín que se seca",
+    "imdb_rating_average": 8.0,
+    "update_at": "2026-10-29T04:14:08"
 }
