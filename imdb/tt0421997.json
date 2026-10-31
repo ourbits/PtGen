@@ -4,77 +4,134 @@
     "name": "Comedy Only in da Hood",
     "site": "imdb",
     "year": "2001",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1483123/",
-            "name": "Jay Barron"
+            "name": "Jay Barron",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1483123/",
+            "name": "Jay Barron",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1483123/",
+            "name": "Jay Barron",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2294507/",
-            "name": "Sara Contreras"
+            "name": "Sara Contreras",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0125269/",
-            "name": "Eric Butterbean Esch"
-        }
-    ],
-    "critic": 0,
-    "poster": null,
-    "details": {
-        "Language": [
-            "English"
-        ],
-        "Release date": [
-            "November 12, 2001 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Newark, New Jersey, USA"
-        ],
-        "Production company": [
-            "Mody Mod Films"
-        ]
-    },
-    "reviews": 0,
-    "creators": [
-        {
-            "url": "https://www.imdb.com/name/nm1483123/",
-            "name": "Jay Barron"
+            "name": "Eric Butterbean Esch",
+            "@type": "Person"
         },
         {
-            "url": "https://www.imdb.com/name/nm1499970/",
-            "name": "Samad Davis"
+            "url": "https://www.imdb.com/name/nm1525907/",
+            "name": "Kareem Green",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1385744/",
+            "name": "Gerald Kelly",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0465537/",
-            "name": "Kool Bubba Ice"
+            "name": "Kool Bubba Ice",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0465537/",
+            "name": "Kool Bubba Ice",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0465537/",
+            "name": "Kool Bubba Ice",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/eXHIqD33gnrjYdBy8CzQKZzMls9.jpg",
+    "details": {
+        "Stars": [
+            "Jay Barron",
+            "Jay Barron",
+            "Jay Barron"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Jay Barron",
+            "Samad Davis",
+            "Kool Bubba Ice"
+        ],
+        "Runtime": [
+            "104 min"
+        ],
+        "Director": [
+            "Samad Davis"
+        ],
+        "Release date": [
+            "2001-11-12"
+        ],
+        "Country of origin": [
+            "United States of America"
+        ]
+    },
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm1483123/",
+            "name": "Jay Barron",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1499970/",
+            "name": "Samad Davis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0465537/",
+            "name": "Kool Bubba Ice",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H44M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1499970/",
-            "name": "Samad Davis"
+            "name": "Samad Davis",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0421997/",
     "metascore": null,
-    "imdb_votes": 15,
+    "imdb_votes": 12,
     "popularity": 0,
-    "description": "A collection of sketches detailing hilarious urban adventures only found in da hood! &quot;Comedy Only in Da Hood, Volume 1,&quot; dares to ask questions like &quot;If Eddie Murphy never made it out of da&apos; hood, what would he be doing?&quot; We&apos;ll al...",
-    "imdb_rating": "7.2/10 from 15 users",
-    "release_date": [],
+    "description": "A collection of sketches detailing hilarious urban adventures only found in da hood! \"Comedy Only in Da Hood, Volume 1,\" dares to ask questions like \"If Eddie Murphy never made it out of da' hood, what would he be doing?\" We'll also get another first hand peek into the confidential legal files of none other than the well respected (and feared) Captain Child Support Man! You'll join him as he saves the day for countless Mother's and children, bringing dead beat Dad's to justice; he doesn't want all your money, he just wants what you owe!",
+    "imdb_rating": "7.2/10 from 12 users",
+    "release_date": [
+        {
+            "date": "2001-11-12",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2001-11-12",
+    "original_title": "Comedy Only in da Hood",
     "imdb_rating_average": 7.2,
-    "update_at": "2025-07-22T04:39:25"
+    "update_at": "2026-10-30T05:07:22"
 }

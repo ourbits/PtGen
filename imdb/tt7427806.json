@@ -4,70 +4,138 @@
     "name": "Le K Benzema",
     "site": "imdb",
     "year": "2017",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
-        "Documentary",
         "Biography",
+        "Documentary",
         "Sport"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm5347007/",
-            "name": "Gareth Bale"
+            "name": "Gareth Bale",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3294525/",
-            "name": "Karim Benzema"
+            "name": "Karim Benzema",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1128244/",
-            "name": "Thierry Henry"
+            "name": "Thierry Henry",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5323811/",
+            "name": "Marcelo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2048873/",
+            "name": "Sergio Ramos",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2324750/",
+            "name": "Franck Ribéry",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1860184/",
+            "name": "Cristiano Ronaldo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6571713/",
+            "name": "Raphaël Varane",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1127992/",
+            "name": "Zinédine Zidane",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGMwYjQ1YWQtMDI1ZS00ZDk0LTlkODctY2YwOTQwOGIyNDUxXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/lVxKu3MW4Fp9wICVN7HnzZp84A3.jpg",
     "details": {
+        "Stars": [
+            "Gareth Bale",
+            "Karim Benzema",
+            "Thierry Henry"
+        ],
+        "Genres": [
+            "Biography",
+            "Documentary",
+            "Sport"
+        ],
+        "Writer": [
+            "Damien Piscarel"
+        ],
+        "Runtime": [
+            "120 min"
+        ],
+        "Director": [
+            "Florent Bodin",
+            "Damien Piscarel"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "November 12, 2017 (France)"
-        ],
-        "Also known as": [
-            "El caso Benzema"
+            "2017-11-12"
         ],
         "Country of origin": [
             "France"
         ],
-        "Production company": [
+        "Production companies": [
+            "Canal+",
             "Black Dynamite Production"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm9302074/",
+            "name": "Damien Piscarel",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT2H",
     "keywords": [
-        "soccer"
+        "france",
+        "sports",
+        "football (soccer)"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm9424256/",
-            "name": "Florent Bodin"
+            "name": "Florent Bodin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm9302074/",
-            "name": "Damien Piscarel"
+            "name": "Damien Piscarel",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt7427806/",
     "metascore": null,
-    "imdb_votes": 590,
+    "imdb_votes": 594,
     "popularity": 0,
-    "description": "The life of celebrity soccer player Karim Benzema.",
-    "imdb_rating": "6.9/10 from 590 users",
-    "release_date": [],
+    "description": "France's top scorer in the Champions League, Karim Benzema has 81 caps in the French national team, but has not been called to France since 8 October 2015. On 13 April 2016, the Real Madrid striker was removed from the national team for an indefinite period of time following the \"sextape\" affair. With Damien Piscarel's contribution to the footballer's speech, he was able to look back at the situation, but also evoke his debut at Bron, his Lyon adventure and his transfer to Real Madrid. Zinedine Zidane, Thierry Henry, Cristiano Ronaldo and Franck Ribéry, to mention the Benzema case.",
+    "imdb_rating": "6.9/10 from 594 users",
+    "release_date": [
+        {
+            "date": "2017-11-12",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2017-11-12",
+    "original_title": "Le K Benzema",
     "imdb_rating_average": 6.9,
-    "update_at": "2025-02-04T05:29:14"
+    "update_at": "2026-10-30T15:21:20"
 }

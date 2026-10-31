@@ -4,7 +4,7 @@
     "name": "Galyntine",
     "site": "imdb",
     "year": "2014",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Sci-Fi"
@@ -12,63 +12,119 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1250791/",
-            "name": "Sterling K. Brown"
+            "name": "Sterling K. Brown",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5871038/",
+            "name": "Gus Halper",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1486317/",
-            "name": "Alycia Debnam-Carey"
+            "name": "Alycia Debnam-Carey",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5637553/",
-            "name": "Laura Harrier"
+            "name": "Laura Harrier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3887625/",
+            "name": "Alex Russell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0219748/",
+            "name": "Catherine Dent",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0573134/",
+            "name": "Don McManus",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0104526/",
+            "name": "Steven Brand",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1371862/",
+            "name": "Malaya Rivera Drew",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1705317/",
+            "name": "Will Harris",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTI3OTcyYmUtZmVjMy00YjExLThkMjMtMmMwYmMzOGMyM2VmXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/k4brnNQWsPrIyVUm8KXtisSgOs0.jpg",
     "details": {
+        "Stars": [
+            "Sterling K. Brown",
+            "Gus Halper",
+            "Alycia Debnam-Carey"
+        ],
+        "Genres": [
+            "Drama",
+            "Sci-Fi"
+        ],
+        "Writer": [
+            "Jason Cahill"
+        ],
+        "Director": [
+            "Greg Nicotero"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 1, 2014 (United States)"
+            "2014-06-01"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Alpine, Utah, USA"
+            "United Kingdom"
         ],
         "Production companies": [
-            "AMC Studios",
             "Scott Free Productions"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0128663/",
-            "name": "Jason Cahill"
+            "name": "Jason Cahill",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0630524/",
-            "name": "Greg Nicotero"
+            "name": "Greg Nicotero",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt3602976/",
     "metascore": null,
-    "imdb_votes": 117,
+    "imdb_votes": 124,
     "popularity": 0,
-    "description": "Takes place at a time after a cataclysmic technology-induced disaster has resulted in a new society that has eschewed any form of technology. This catastrophic event leaves small numbers of survivors scattered around the planet an...",
-    "imdb_rating": "8.1/10 from 117 users",
-    "release_date": [],
+    "description": "Takes place at a time after a cataclysmic technology-induced disaster has resulted in a new society that has eschewed any form of technology. This catastrophic event leaves small numbers of survivors scattered around the planet and forced to adapt to isolation and unique challenges.",
+    "imdb_rating": "8.0/10 from 124 users",
+    "release_date": [
+        {
+            "date": "2014-06-01",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2014-01-01",
-    "imdb_rating_average": 8.1,
-    "update_at": "2025-06-22T16:08:19"
+    "datePublished": "2014-06-01",
+    "original_title": "Galyntine",
+    "imdb_rating_average": 8.0,
+    "update_at": "2026-10-30T08:21:25"
 }

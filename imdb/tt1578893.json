@@ -4,7 +4,7 @@
     "name": "Zimmer mit Tante",
     "site": "imdb",
     "year": "2010",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Drama",
@@ -13,66 +13,126 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0817608/",
-            "name": "Jutta Speidel"
+            "name": "Jutta Speidel",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3758734/",
-            "name": "Nadia Hilker"
+            "name": "Nadia Hilker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0622581/",
-            "name": "Ingo Naujoks"
+            "name": "Ingo Naujoks",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0738286/",
+            "name": "Michael Roll",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0194275/",
+            "name": "Ulrich Cyran",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1928839/",
+            "name": "Eva Wittenzellner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0322974/",
+            "name": "Conny Glogger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1921125/",
+            "name": "Lena Amende",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3500749/",
+            "name": "Maren Himmler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3124994/",
+            "name": "Max Kidd",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2RkNzdkZmQtZjcyNi00MWVhLWEzYzctNjMzNDljNmQ0Y2MwXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/suePEs1hNJjNtGuYNocEV3VE5Mj.jpg",
     "details": {
+        "Stars": [
+            "Jutta Speidel",
+            "Nadia Hilker",
+            "Ingo Naujoks"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "Writer": [
+            "Walter Metzger"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Thomas Kronthaler"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "February 6, 2010 (Germany)"
-        ],
-        "Also known as": [
-            "Værelse med tante"
+            "2010-02-06"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Filming locations": [
-            "Munich, Bavaria, Germany"
-        ],
         "Production companies": [
             "A.Pictures Film & TV Production",
-            "ARD Degeto Film"
+            "ARD Degeto"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3759222/",
-            "name": "Walter Metzger"
+            "name": "Walter Metzger",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
     "keywords": [
-        "heteronormativity"
+        "gender ideals"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0472223/",
-            "name": "Thomas Kronthaler"
+            "name": "Thomas Kronthaler",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1578893/",
     "metascore": null,
-    "imdb_votes": 51,
+    "imdb_votes": 50,
     "popularity": 0,
-    "description": "Juvenile detention or retirement home: That&apos;s the choice 17-year-old Malu is faced with after she&apos;s been caught stealing again. In order to save the girl from imprisonment, her aunt Johanna agrees to take Malu in with her until sh...",
-    "imdb_rating": "6/10 from 51 users",
-    "release_date": [],
+    "description": "Juvenile detention or retirement home: That's the choice 17-year-old Malu is faced with after she's been caught stealing again. In order to save the girl from imprisonment, her aunt Johanna agrees to take Malu in with her until she has completed her social service in a retirement home. The rebellious half-orphan, whose single father Paul has hardly any time for her as a pilot, initially finds being placed with her aunt just as restrictive as a stay in prison.",
+    "imdb_rating": "6.0/10 from 50 users",
+    "release_date": [
+        {
+            "date": "2010-02-06",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2010-02-06",
-    "imdb_rating_average": 6,
-    "update_at": "2025-06-04T23:44:48"
+    "original_title": "Zimmer mit Tante",
+    "imdb_rating_average": 6.0,
+    "update_at": "2026-10-30T14:21:16"
 }

@@ -4,32 +4,85 @@
     "name": "Burger Bluffer",
     "site": "imdb",
     "year": "1964",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0019833/",
+            "name": "Gella Allaert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0122172/",
+            "name": "Jef Burm",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0125552/",
+            "name": "Nand Buyl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0212352/",
+            "name": "Denise De Weerdt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0218286/",
+            "name": "Jef Demedts",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0518574/",
+            "name": "Chris Lomme",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0886922/",
+            "name": "Cyriel Van Gent",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1059804/",
+            "name": "Henk van Montfoort",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Dutch"
+        "Stars": [
+            "Gella Allaert",
+            "Jef Burm",
+            "Nand Buyl"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Molière"
+        ],
+        "Runtime": [
+            "95 min"
         ],
         "Release date": [
-            "February 16, 1964 (Belgium)"
-        ],
-        "Country of origin": [
-            "Belgium"
-        ],
-        "Production company": [
-            "Belgische Radio en Televisie (BRT)"
+            "1964"
         ]
     },
     "reviews": 0,
-    "creators": [],
-    "duration": "PT1H35M",
-    "keywords": [
-        ""
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0596942/",
+            "name": "Molière",
+            "@type": "Person"
+        }
     ],
+    "duration": "PT1H35M",
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt0953328/",
     "metascore": null,
     "imdb_votes": 0,
@@ -38,7 +91,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1964-02-16",
+    "datePublished": "1964",
+    "original_title": "Burger Bluffer",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-26T09:28:12"
+    "update_at": "2026-10-30T13:14:17"
 }

@@ -1,8 +1,18 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "The battle of Baozi Gulf",
+            "country": "China"
+        },
+        {
+            "title": "Baozi wan zhan dou",
+            "country": "China"
+        }
+    ],
     "sid": "tt0333136",
     "name": "Baozi wan zhan dou",
     "site": "imdb",
+    "year": "1978",
     "@type": "Movie",
     "genre": [
         "War"
@@ -10,40 +20,57 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1254628/",
-            "name": "Chengbin Li"
+            "name": "Chengbin Li",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1253722/",
-            "name": "Jian Wei"
+            "name": "Jian Wei",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/ih64p5tZ1MwS6fwI8bOB52ec7dU.jpg",
     "details": {
+        "Stars": [
+            "Chengbin Li",
+            "Jian Wei"
+        ],
+        "Genres": [
+            "War"
+        ],
+        "Director": [
+            "Shusen Jiang",
+            "Jiayi Wang"
+        ],
         "Language": [
             "Mandarin"
+        ],
+        "Release date": [
+            "1978-08-08"
         ],
         "Country of origin": [
             "China"
         ],
-        "Production company": [
-            "Changchun Film Studio"
+        "Production companies": [
+            "长春电影制片厂"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1251836/",
-            "name": "Shusen Jiang"
+            "name": "Shusen Jiang",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0156926/",
-            "name": "Jiayi Wang"
+            "name": "Jiayi Wang",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0333136/",
@@ -52,9 +79,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1978-08-08",
+            "country": "China"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1978-08-08",
+    "original_title": "Baozi wan zhan dou",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-23T17:42:11"
+    "update_at": "2026-10-30T10:35:17"
 }

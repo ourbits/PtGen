@@ -1,50 +1,98 @@
 {
     "aka": [],
     "sid": "tt18231764",
-    "name": "Wspolniczka",
+    "name": "Wspólniczka",
     "site": "imdb",
     "year": "1973",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVEpisode",
+    "genre": [
+        "Crime"
+    ],
     "actors": [
         {
-            "url": "https://www.imdb.com/name/nm0059302/",
-            "name": "Tadeusz Bartosik"
-        },
-        {
-            "url": "https://www.imdb.com/name/nm0257566/",
-            "name": "Maciej Englert"
+            "url": "https://www.imdb.com/name/nm0928948/",
+            "name": "Roman Wilhelmi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0631188/",
-            "name": "Malgorzata Niemirska"
+            "name": "Malgorzata Niemirska",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0936587/",
+            "name": "Ewa Wisniewska",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0257566/",
+            "name": "Maciej Englert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0059302/",
+            "name": "Tadeusz Bartosik",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Polish"
+        "Stars": [
+            "Roman Wilhelmi",
+            "Malgorzata Niemirska",
+            "Ewa Wisniewska"
+        ],
+        "Genres": [
+            "Crime"
+        ],
+        "Writer": [
+            "Jacques Rémy",
+            "Louis C. Thomas",
+            "Jolanta Sell"
+        ],
+        "Runtime": [
+            "64 min"
+        ],
+        "Director": [
+            "Anna Minkiewicz",
+            "Janusz Majewski"
         ],
         "Release date": [
-            "December 27, 1973 (Poland)"
-        ],
-        "Official site": [
-            "- - https://filmpolski.pl/fp/index.php?film=522154"
-        ],
-        "Country of origin": [
-            "Poland"
+            "1973"
         ]
     },
     "reviews": 0,
-    "duration": null,
-    "keywords": [
-        ""
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0753728/",
+            "name": "Jacques Rémy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0859125/",
+            "name": "Louis C. Thomas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10141474/",
+            "name": "Jolanta Sell",
+            "@type": "Person"
+        }
     ],
+    "duration": "PT1H4M",
+    "keywords": [],
     "directors": [
         {
+            "url": "https://www.imdb.com/name/nm9755947/",
+            "name": "Anna Minkiewicz",
+            "@type": "Person"
+        },
+        {
             "url": "https://www.imdb.com/name/nm0538105/",
-            "name": "Janusz Majewski"
+            "name": "Janusz Majewski",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt18231764/",
@@ -55,7 +103,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1973-12-27",
+    "datePublished": "1973",
+    "original_title": "Wspólniczka",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-30T19:07:30"
+    "update_at": "2026-10-30T12:14:17"
 }

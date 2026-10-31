@@ -3,46 +3,56 @@
     "sid": "tt1436338",
     "name": "Buona Sera in Las Vegas",
     "site": "imdb",
-    "@type": "Movie",
-    "genre": null,
+    "year": "1965",
+    "@type": "TVMovie",
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0697515/",
-            "name": "Louis Prima"
+            "name": "Louis Prima",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0537809/",
-            "name": "Gia Maione"
+            "name": "Gia Maione",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0124749/",
-            "name": "Sam Butera"
+            "name": "Sam Butera",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1859877/",
+            "name": "The Witnesses",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Louis Prima",
+            "Gia Maione",
+            "Sam Butera"
         ],
-        "Country of origin": [
-            "West Germany"
+        "Director": [
+            "Reinhard Hauff"
         ],
-        "Production companies": [
-            "Bavaria Atelier",
-            "Süddeutscher Rundfunk (SDR)"
+        "Release date": [
+            "1965"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0369240/",
-            "name": "Reinhard Hauff"
+            "name": "Reinhard Hauff",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1436338/",
@@ -53,7 +63,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1965",
+    "original_title": "Buona Sera in Las Vegas",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-20T17:01:01"
+    "update_at": "2026-10-30T21:56:08"
 }

@@ -4,65 +4,87 @@
     "name": "Scrutinize",
     "site": "imdb",
     "year": "2011",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Drama",
-        "Horror"
+        "Horror",
+        "Mystery"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2982211/",
-            "name": "Amanda Bauer"
+            "name": "Amanda Bauer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3603929/",
-            "name": "Winston Burris"
+            "name": "Winston Burris",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3588465/",
-            "name": "Melanie Leanne Miller"
+            "name": "Melanie Leanne Miller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1329798/",
+            "name": "Michael Norwood",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1719751/",
+            "name": "Jamison Reeves",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
+    "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Amanda Bauer",
+            "Winston Burris",
+            "Melanie Leanne Miller"
+        ],
+        "Genres": [
+            "Drama",
+            "Horror",
+            "Mystery"
+        ],
+        "Writer": [
+            "Melanie Leanne Miller"
+        ],
+        "Runtime": [
+            "4 min"
+        ],
+        "Director": [
+            "Brenda Fies",
+            "Elisabeth Fies"
         ],
         "Release date": [
-            "October 5, 2011 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Hollywood, Los Angeles, California, USA"
+            "2011"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3588465/",
-            "name": "Melanie Leanne Miller"
+            "name": "Melanie Leanne Miller",
+            "@type": "Person"
         }
     ],
     "duration": "PT4M",
-    "keywords": [
-        "independent short",
-        "low budget short",
-        "racism",
-        "title directed by female",
-        "teen horror"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2824431/",
-            "name": "Brenda Fies"
+            "name": "Brenda Fies",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2383130/",
-            "name": "Elisabeth Fies"
+            "name": "Elisabeth Fies",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2028547/",
@@ -73,7 +95,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2011-10-05",
+    "datePublished": "2011",
+    "original_title": "Scrutinize",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-25T21:56:15"
+    "update_at": "2026-10-30T20:07:25"
 }

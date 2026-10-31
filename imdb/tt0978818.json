@@ -4,35 +4,88 @@
     "name": "Liebelei",
     "site": "imdb",
     "year": "2003",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0602174/",
+            "name": "Helmut Mooshammer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0250958/",
+            "name": "Maren Eggert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0352219/",
+            "name": "Fritzi Haberlandt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1120812/",
+            "name": "Anna Steffens",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0530561/",
+            "name": "Hans Löw",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0773283/",
+            "name": "Felix Schmidt-Knopp",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0072749/",
+            "name": "Michael Benthin",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Helmut Mooshammer",
+            "Maren Eggert",
+            "Fritzi Haberlandt"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Arthur Schnitzler"
+        ],
+        "Runtime": [
+            "71 min"
+        ],
+        "Director": [
+            "Michael Thalheimer"
         ],
         "Release date": [
-            "May 10, 2003 (Germany)"
-        ],
-        "Country of origin": [
-            "Germany"
-        ],
-        "Filming locations": [
-            "Haus der Berliner Festspiele, Berlin, Germany"
-        ],
-        "Production companies": [
-            "3Sat",
-            "ZDFtheaterkanal"
+            "2003"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0774217/",
+            "name": "Arthur Schnitzler",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT1H11M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm1491131/",
+            "name": "Michael Thalheimer",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0978818/",
     "metascore": null,
@@ -42,7 +95,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2003-05-10",
+    "datePublished": "2003",
+    "original_title": "Liebelei",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-25T02:39:22"
+    "update_at": "2026-10-30T08:35:26"
 }

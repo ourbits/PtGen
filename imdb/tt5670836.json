@@ -4,82 +4,138 @@
     "name": "Groomzilla",
     "site": "imdb",
     "year": "2018",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1794688/",
-            "name": "Darin Brooks"
+            "name": "Darin Brooks",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0723415/",
-            "name": "Elizabeth Rice"
+            "name": "Elizabeth Rice",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0220711/",
-            "name": "Mark Derwin"
+            "name": "Mark Derwin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0257077/",
+            "name": "Georgia Engel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0894690/",
+            "name": "Kate Vernon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0295041/",
+            "name": "Bonita Friedericy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0167139/",
+            "name": "Robert Clotworthy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2853625/",
+            "name": "Eric Petersen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1484343/",
+            "name": "Kimberly Jeppson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0633228/",
+            "name": "DeVaughn Nixon",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTgwZjBhOGMtNTM5ZS00ZDA4LWFkNzItNzc2ZjQzYzYzMWFmXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/dS7U3qArQvbgpqP0hSQ3k0jF2hY.jpg",
     "details": {
+        "Stars": [
+            "Darin Brooks",
+            "Elizabeth Rice",
+            "Mark Derwin"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Darren O'Hare",
+            "Cara J. Russell"
+        ],
+        "Runtime": [
+            "86 min"
+        ],
+        "Director": [
+            "Bradford May"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "February 15, 2018 (France)"
-        ],
-        "Also known as": [
-            "Novio al ataque"
-        ],
-        "Official site": [
-            "Official Site - http://pixltv.com/pixl-family-friendly-movies/"
+            "2018-06-02"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
-            "Domain Media Productions",
-            "Larry Levinson Productions",
-            "Synapse Distribution"
+            "Larry Levinson Productions"
         ]
     },
-    "reviews": 7,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1394523/",
-            "name": "Darren O&apos;Hare"
+            "name": "Darren O'Hare",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4426398/",
-            "name": "Cara J. Russell"
+            "name": "Cara J. Russell",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H26M",
-    "keywords": [
-        "beach",
-        "dancing",
-        "father figure",
-        "in laws",
-        "gift"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0561879/",
-            "name": "Bradford May"
+            "name": "Bradford May",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt5670836/",
     "metascore": null,
-    "imdb_votes": 269,
+    "imdb_votes": 274,
     "popularity": 0,
-    "description": "A woman is surprised and dismayed when her fiance takes the planning of their wedding too seriously.",
-    "imdb_rating": "4.5/10 from 269 users",
-    "release_date": [],
-    "contentRating": "TV-PG",
-    "datePublished": "2018-02-15",
+    "description": "After four years of courting, Alyssa and Tucker are about to tie the knot. However, suddenly the usually easy going Tucker becomes obsessed with every minute detail of the wedding planning, confusing his friends and family with his high strung antics. Unbeknownst to Tucker, he has come down under the spell of his grandmother's very unique engagement ring.",
+    "imdb_rating": "4.5/10 from 274 users",
+    "release_date": [
+        {
+            "date": "2019-02-15",
+            "country": "France"
+        },
+        {
+            "date": "2018-06-02",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2018-06-02",
+    "original_title": "Groomzilla",
     "imdb_rating_average": 4.5,
-    "update_at": "2025-09-04T22:42:30"
+    "update_at": "2026-10-30T20:07:13"
 }

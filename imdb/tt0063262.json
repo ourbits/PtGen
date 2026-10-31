@@ -3,72 +3,98 @@
     "sid": "tt0063262",
     "name": "La maison de Jean-Jacques",
     "site": "imdb",
-    "year": "2010",
-    "@type": "Movie",
+    "year": "1967",
+    "@type": "Short",
     "genre": [
         "Animation",
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0034860/",
-            "name": "Don Arioli"
+            "name": "Don Arioli",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0632551/",
-            "name": "Les Nirenberg"
+            "name": "Les Nirenberg",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0502003/",
-            "name": "Ben Lennick"
+            "name": "Ben Lennick",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzY5ODY4MTctYjMzNi00MTVlLWIyNWMtMGExMjY0ZTYzYWZmXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/9oDEfPTOu8LdJIKZMsMSh5zf6xU.jpg",
     "details": {
+        "Stars": [
+            "Don Arioli",
+            "Les Nirenberg",
+            "Ben Lennick"
+        ],
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Don Arioli"
+        ],
+        "Runtime": [
+            "8 min"
+        ],
+        "Director": [
+            "Ron Tunis"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "October 1, 2010 (United States)"
-        ],
-        "Also known as": [
-            "The House That Jack Built"
+            "1967-01-01"
         ],
         "Country of origin": [
             "Canada"
         ],
-        "Production company": [
-            "National Film Board of Canada (NFB)"
+        "Production companies": [
+            "ONF | NFB"
         ]
     },
-    "reviews": 5,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0034860/",
-            "name": "Don Arioli"
+            "name": "Don Arioli",
+            "@type": "Person"
         }
     ],
     "duration": "PT8M",
-    "keywords": [
-        "no music during end credits"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0876650/",
-            "name": "Ron Tunis"
+            "name": "Ron Tunis",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0063262/",
     "metascore": null,
-    "imdb_votes": 148,
+    "imdb_votes": 159,
     "popularity": 0,
-    "description": "A humorous animation film about a fellow who builds his house in the best suburb he can afford, but he wants something special.",
-    "imdb_rating": "6.7/10 from 148 users",
-    "release_date": [],
-    "contentRating": "G",
-    "datePublished": "2010-10-01",
+    "description": "A humorous animation film about a fellow who builds his house in the best suburb he can afford. He has a picture bride, a picture window and a garden as pretty as a picture, but he wanted something special and, like Jack and the Beanstalk, he finally got it! What he got is a moral for all.",
+    "imdb_rating": "6.7/10 from 159 users",
+    "release_date": [
+        {
+            "date": "1967-01-01",
+            "country": "Canada"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1967-01-01",
+    "original_title": "La maison de Jean-Jacques",
     "imdb_rating_average": 6.7,
-    "update_at": "2025-05-12T03:45:06"
+    "update_at": "2026-10-31T00:21:24"
 }

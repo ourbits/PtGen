@@ -4,65 +4,91 @@
     "name": "The Making of Monsters",
     "site": "imdb",
     "year": "1991",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0026523/",
-            "name": "Christopher Anderson"
+            "name": "Christopher Anderson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0036732/",
-            "name": "Stewart Arnott"
+            "name": "Stewart Arnott",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0532024/",
-            "name": "Lee MacDougall"
+            "name": "Lee MacDougall",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTllM2VmM2MtY2I4NS00ZjBhLWFiMzItMWE0MzZlOTQ5NDdjXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/zgenzvJ09QuRaduURuBuQzmM4jy.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Christopher Anderson",
+            "Stewart Arnott",
+            "Lee MacDougall"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "John Greyson"
+        ],
+        "Runtime": [
+            "35 min"
+        ],
+        "Director": [
+            "John Greyson"
         ],
         "Release date": [
-            "October 1, 1991 (United States)"
+            "1991-09-11"
         ],
         "Country of origin": [
             "Canada"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0340742/",
-            "name": "John Greyson"
+            "name": "John Greyson",
+            "@type": "Person"
         }
     ],
     "duration": "PT35M",
-    "keywords": [
-        "gay interest",
-        "homosexual",
-        "independent film"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0340742/",
-            "name": "John Greyson"
+            "name": "John Greyson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0095571/",
     "metascore": null,
-    "imdb_votes": 41,
+    "imdb_votes": 43,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "8.4/10 from 41 users",
-    "release_date": [],
+    "description": "Experimental musical based on a factual incident, the beating to death of a homosexual man in Toronto, 1985, by five teenagers.",
+    "imdb_rating": "8.4/10 from 43 users",
+    "release_date": [
+        {
+            "date": "1991-09-11",
+            "country": "Canada"
+        },
+        {
+            "date": "1991-10-01",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1991-10-01",
+    "datePublished": "1991-09-11",
+    "original_title": "The Making of Monsters",
     "imdb_rating_average": 8.4,
-    "update_at": "2025-02-27T22:21:07"
+    "update_at": "2026-10-30T20:21:17"
 }

@@ -4,7 +4,7 @@
     "name": "Die Hunde sind schuld",
     "site": "imdb",
     "year": "2001",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Romance"
@@ -12,63 +12,123 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0884157/",
-            "name": "Barbara Valentin"
+            "name": "Barbara Valentin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0699596/",
-            "name": "Tilo Prückner"
+            "name": "Tilo Prückner",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0519756/",
-            "name": "Anna Loos"
+            "name": "Anna Loos",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0079890/",
+            "name": "Alexander Beyer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0485183/",
+            "name": "Dieter Landuris",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0917444/",
+            "name": "Cordelia Wege",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0774935/",
+            "name": "Henry Schott",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0314586/",
+            "name": "Tabea Rahel Germo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0120833/",
+            "name": "Jacob Burchard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0124755/",
+            "name": "Kai Buth",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODkwMWI4MDItYWJhNC00NjE1LTg1MmMtMDllNTczNDg5NzBkXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Barbara Valentin",
+            "Tilo Prückner",
+            "Anna Loos"
+        ],
+        "Genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "Writer": [
+            "Ziska Riemann"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Andreas Prochaska"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "September 12, 2001 (Germany)"
+            "2001-09-19"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Filming locations": [
-            "Kreuzberg, Berlin, Germany"
+        "Production companies": [
+            "die film gmbh",
+            "BR"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0726261/",
-            "name": "Ziska Riemann"
+            "name": "Ziska Riemann",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        "city",
-        "apartment",
-        "dog",
-        "male female relationship",
-        "urban setting"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0698283/",
-            "name": "Andreas Prochaska"
+            "name": "Andreas Prochaska",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0277026/",
     "metascore": null,
     "imdb_votes": 33,
     "popularity": 0,
-    "description": "Funny story about human relationships in the city",
+    "description": null,
     "imdb_rating": "7.1/10 from 33 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2001-09-19",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2001-09-12",
+    "datePublished": "2001-09-19",
+    "original_title": "Die Hunde sind schuld",
     "imdb_rating_average": 7.1,
-    "update_at": "2025-06-13T17:51:14"
+    "update_at": "2026-10-30T04:42:15"
 }

@@ -4,33 +4,73 @@
     "name": "A Love Case",
     "site": "imdb",
     "year": "1917",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0220128/",
+            "name": "Harry Depp",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0083750/",
+            "name": "Lillian Biron",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0395172/",
+            "name": "Ben Horning",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0298202/",
+            "name": "Dale Fuller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0674741/",
+            "name": "Jack Perrin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0542589/",
+            "name": "Marie Manley",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Stars": [
+            "Harry Depp",
+            "Lillian Biron",
+            "Ben Horning"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Director": [
+            "Henry Kernan"
         ],
         "Release date": [
-            "August 19, 1917 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Triangle Film Corporation"
+            "1917"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": null,
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0449516/",
+            "name": "Henry Kernan",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0490661/",
     "metascore": null,
@@ -40,7 +80,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1917-08-19",
+    "datePublished": "1917",
+    "original_title": "A Love Case",
     "imdb_rating_average": 0,
-    "update_at": "2025-11-30T13:40:18"
+    "update_at": "2026-10-30T10:28:13"
 }

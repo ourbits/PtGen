@@ -1,68 +1,123 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "The Capricious Monument",
+            "country": "United States of America"
+        }
+    ],
     "sid": "tt2398620",
-    "name": "Capriciosa",
+    "name": "The Capricious Monument",
     "site": "imdb",
     "year": "1909",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Fantasy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0390479/",
-            "name": "Holger-Madsen"
+            "name": "Holger-Madsen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0526168/",
-            "name": "Gustav Lund"
+            "name": "Gustav Lund",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0526190/",
-            "name": "Jørgen Lund"
+            "name": "Jørgen Lund",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0630927/",
+            "name": "Mathilde Nielsen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0647719/",
+            "name": "Lauritz Olsen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0814379/",
+            "name": "Petrine Sonne",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1814364/",
+            "name": "Kai Voigt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5275255/",
+            "name": "Katherine Wulff",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/tf7NjRxnFWgdOb0fHqY6M2Vz1K6.jpg",
     "details": {
+        "Stars": [
+            "Holger-Madsen",
+            "Gustav Lund",
+            "Jørgen Lund"
+        ],
+        "Genres": [
+            "Comedy",
+            "Fantasy",
+            "Short"
+        ],
+        "Runtime": [
+            "7 min"
+        ],
+        "Director": [
+            "Viggo Larsen"
+        ],
         "Language": [
-            "None"
+            "No Language"
         ],
         "Release date": [
-            "March 8, 1909 (United States)"
-        ],
-        "Also known as": [
-            "Capriciosa"
+            "1909-02-19"
         ],
         "Country of origin": [
             "Denmark"
         ],
-        "Production company": [
-            "Nordisk Film Kompagni"
+        "Production companies": [
+            "Nordisk Film Denmark"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT7M",
     "keywords": [
-        ""
+        "silent film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0488932/",
-            "name": "Viggo Larsen"
+            "name": "Viggo Larsen",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2398620/",
     "metascore": null,
-    "imdb_votes": 24,
+    "imdb_votes": 31,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "4.5/10 from 24 users",
-    "release_date": [],
+    "description": "A young sailor dozes off in the grass in Frederiksberg Have and wakes up surrounded by supernatural fairylike creatures. They take him to the mermaid Capriciosa, who gives him a magic, inexhaustible wallet. The only rule he must abide is never to share his fortune with his family. (stumfilm.dk)",
+    "imdb_rating": "4.7/10 from 31 users",
+    "release_date": [
+        {
+            "date": "1909-02-19",
+            "country": "Denmark"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1909-03-08",
-    "imdb_rating_average": 4.5,
-    "update_at": "2025-09-15T03:00:10"
+    "datePublished": "1909-02-19",
+    "original_title": "Capriciosa",
+    "imdb_rating_average": 4.7,
+    "update_at": "2026-10-31T01:42:08"
 }

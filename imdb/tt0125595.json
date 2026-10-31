@@ -4,53 +4,94 @@
     "name": "Wiederbegegnung",
     "site": "imdb",
     "year": "1982",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0018192/",
-            "name": "Hildegard Alex"
+            "name": "Hildegard Alex",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0079940/",
-            "name": "Regina Beyer"
+            "name": "Regina Beyer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0259537/",
-            "name": "Hannelore Erle"
+            "name": "Hannelore Erle",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0459322/",
+            "name": "Hans Klering",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0525050/",
+            "name": "Rolf Ludwig",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0475362/",
+            "name": "Ulrike Mai",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0542721/",
+            "name": "Dieter Mann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0720682/",
+            "name": "Jürgen Reuter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0785795/",
+            "name": "Martina Servatius",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0918348/",
+            "name": "Horst Weinheimer",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Hildegard Alex",
+            "Regina Beyer",
+            "Hannelore Erle"
+        ],
+        "Writer": [
+            "Regina Weicker"
+        ],
+        "Director": [
+            "Georgi Kissimov"
         ],
         "Release date": [
-            "December 28, 1982 (East Germany)"
-        ],
-        "Also known as": [
-            "Én, te és a telihold"
-        ],
-        "Country of origin": [
-            "East Germany"
+            "1982"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0917730/",
-            "name": "Regina Weicker"
+            "name": "Regina Weicker",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0457415/",
-            "name": "Georgi Kissimov"
+            "name": "Georgi Kissimov",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0125595/",
@@ -61,7 +102,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1982-12-28",
+    "datePublished": "1982",
+    "original_title": "Wiederbegegnung",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-02T22:52:23"
+    "update_at": "2026-10-30T23:07:06"
 }

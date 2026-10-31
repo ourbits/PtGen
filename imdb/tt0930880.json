@@ -4,72 +4,79 @@
     "name": "Rød sol",
     "site": "imdb",
     "year": "2004",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2496127/",
-            "name": "Birger Bratvold"
+            "name": "Birger Bratvold",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Norwegian"
+        "Stars": [
+            "Birger Bratvold"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Writer": [
+            "Stein Johan Grieg Halvorsen",
+            "Elisabeth Nord"
+        ],
+        "Runtime": [
+            "30 min"
+        ],
+        "Director": [
+            "Stein Johan Grieg Halvorsen",
+            "Elisabeth Nord"
         ],
         "Release date": [
-            "July 19, 2004 (Norway)"
-        ],
-        "Official site": [
-            "NRK (Norway) - http://www.nrk.no/programmer/tv_arkiv/faktor/3941375.html"
-        ],
-        "Country of origin": [
-            "Norway"
-        ],
-        "Filming locations": [
-            "Hamar, Hedmark, Norway"
-        ],
-        "Production company": [
-            "Noraaliz"
+            "2004"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0357172/",
-            "name": "Stein Johan Grieg Halvorsen"
+            "name": "Stein Johan Grieg Halvorsen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1931109/",
-            "name": "Elisabeth Nord"
+            "name": "Elisabeth Nord",
+            "@type": "Person"
         }
     ],
     "duration": "PT30M",
-    "keywords": [
-        "schizophrenia"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0357172/",
-            "name": "Stein Johan Grieg Halvorsen"
+            "name": "Stein Johan Grieg Halvorsen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1931109/",
-            "name": "Elisabeth Nord"
+            "name": "Elisabeth Nord",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0930880/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "How the Norwegian artist and painter Birger Bratvold uses his schizophrenia in his work and how his art helps him heal.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2004-07-19",
+    "datePublished": "2004",
+    "original_title": "Rød sol",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-27T07:13:04"
+    "update_at": "2026-10-30T08:42:34"
 }

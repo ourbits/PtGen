@@ -3,46 +3,91 @@
     "sid": "tt0491727",
     "name": "The Spot",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2006",
+    "@type": "VideoObject",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1866720/",
-            "name": "Trappy"
+            "name": "Trappy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1159715/",
-            "name": "Marta Méndez Cross"
+            "name": "Marta Méndez Cross",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0727640/",
-            "name": "Erika Ringor"
+            "name": "Erika Ringor",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0102947/",
+            "name": "Cassandra Braden",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2256048/",
+            "name": "Mirna Garcia",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0349993/",
+            "name": "Jack Guzman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0387470/",
+            "name": "Junie Hoang",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2126887/",
+            "name": "Paola Menacho",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2247212/",
+            "name": "Iris Perez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4794243/",
+            "name": "Stella Regis",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Trappy",
+            "Marta Méndez Cross",
+            "Erika Ringor"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Director": [
+            "Kenneth Normand"
         ],
         "Release date": [
-            "2006 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
+            "2006"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2247283/",
-            "name": "Kenneth Normand"
+            "name": "Kenneth Normand",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0491727/",
@@ -53,7 +98,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2006",
+    "original_title": "The Spot",
     "imdb_rating_average": 0,
-    "update_at": "2025-04-15T21:50:23"
+    "update_at": "2026-10-30T02:14:06"
 }

@@ -4,64 +4,84 @@
     "name": "Samtale om natten i København",
     "site": "imdb",
     "year": "1970",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0464024/",
-            "name": "Brigitte Kolerus"
+            "name": "Brigitte Kolerus",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0512559/",
-            "name": "Michael Lindvad"
+            "name": "Michael Lindvad",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0082343/",
-            "name": "Joen Bille"
+            "name": "Joen Bille",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0109561/",
+            "name": "Marie Brink",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0684773/",
+            "name": "Elith Pio",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjMxMzRiNDMtOGRiZi00NWQ4LTg2NDYtODM4ZTdhNDFhYWVlXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "Danish"
+        "Stars": [
+            "Brigitte Kolerus",
+            "Michael Lindvad",
+            "Joen Bille"
+        ],
+        "Writer": [
+            "Karen Blixen"
+        ],
+        "Runtime": [
+            "47 min"
+        ],
+        "Director": [
+            "Kaspar Rostrup"
         ],
         "Release date": [
-            "February 24, 1970 (Denmark)"
-        ],
-        "Country of origin": [
-            "Denmark"
-        ],
-        "Production company": [
-            "Danmarks Radio (DR)"
+            "1970"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0227598/",
-            "name": "Karen Blixen"
+            "name": "Karen Blixen",
+            "@type": "Person"
         }
     ],
     "duration": "PT47M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0744630/",
-            "name": "Kaspar Rostrup"
+            "name": "Kaspar Rostrup",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0330852/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "A dark night in 18th century inner Copenhagen. A lone figure tumbles away, along small streets and alleys and stairs, and ends up in a small attic room. . .",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1970-02-24",
+    "datePublished": "1970",
+    "original_title": "Samtale om natten i København",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-29T06:52:05"
+    "update_at": "2026-10-30T14:49:07"
 }

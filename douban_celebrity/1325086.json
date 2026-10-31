@@ -4,10 +4,12 @@
     "site": "douban_celebrity",
     "roles": [
         "导演",
-        "编剧"
+        "编剧",
+        "副导演"
     ],
     "awards": [
         "2024年 第74届柏林国际电影节 主竞赛单元 金熊奖 (提名) 另一种结局",
+        "2016年 第61届意大利大卫奖 最佳新导演 (提名) 等待",
         "2015年 第72届威尼斯电影节 主竞赛单元 金狮奖 (提名) 等待"
     ],
     "gender": "男",
@@ -19,10 +21,24 @@
     "birth_place": "意大利，西西里",
     "last_movies": [
         {
+            "id": 38479693,
+            "year": "2027",
+            "cover": "https://asset.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Colpevole",
+            "release": 0
+        },
+        {
+            "id": 38422716,
+            "year": "2028",
+            "cover": "https://asset.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "The Guilty",
+            "release": 0
+        },
+        {
             "id": 37321683,
             "year": "2026",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
-            "title": "Nemesi",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2931022648.jpg",
+            "title": "致命转折点",
             "release": 0
         },
         {
@@ -33,23 +49,30 @@
             "release": 1
         },
         {
-            "id": 30167569,
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2516170301.jpg",
-            "title": "Artists in Love: Rudolf Nureyev & Erik Bruhn",
+            "id": 35224694,
+            "year": "2018",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2622933305.jpg",
+            "title": "佛罗伦萨旧宫：艺术与权力史",
             "release": 1
         },
         {
-            "id": 26775919,
-            "year": "2009",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
-            "title": "Un'altra volta",
+            "id": 30429210,
+            "year": "2019",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2548931180.jpg",
+            "title": "罪城苏布拉 第二季",
+            "release": 1
+        },
+        {
+            "id": 30167569,
+            "year": "2016",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2926689510.jpg",
+            "title": "Artists in Love: Rudolf Nureyev & Erik Bruhn",
             "release": 1
         },
         {
             "id": 26775918,
             "year": "2010",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "cover": "https://asset.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "La porta",
             "release": 1
         },
@@ -70,8 +93,22 @@
         {
             "id": 20392123,
             "year": "2012",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "cover": "https://asset.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "Terra",
+            "release": 1
+        },
+        {
+            "id": 10760030,
+            "year": "2013",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1955988617.jpg",
+            "title": "绝美之城",
+            "release": 1
+        },
+        {
+            "id": 3743063,
+            "year": "2011",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p1506028152.jpg",
+            "title": "为父寻仇",
             "release": 1
         }
     ],
@@ -83,5 +120,5 @@
     "personage_link": "https://www.douban.com/personage/27567979/",
     "property_other": [],
     "name_more_other": [],
-    "update_at": "2025-09-27T04:50:22"
+    "update_at": "2026-10-30T21:00:30"
 }

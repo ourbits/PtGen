@@ -4,83 +4,144 @@
     "name": "Ukkonen",
     "site": "imdb",
     "year": "2001",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Action",
-        "Sci-Fi"
+        "Sci-Fi",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0866918/",
-            "name": "Jorma Tommila"
+            "name": "Jorma Tommila",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0042590/",
-            "name": "Tero Autero"
+            "name": "Tero Autero",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1073006/",
-            "name": "Ida Helander"
+            "name": "Ida Helander",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1371022/",
+            "name": "Marko Jatkola",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2157684/",
+            "name": "Kari Kock",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2151868/",
+            "name": "Simo Koivunen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2159645/",
+            "name": "Antti Kähö",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2151371/",
+            "name": "Antti Laukkarinen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1536503/",
+            "name": "Kalle Määttä",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2155106/",
+            "name": "Kimmo Pulkkinen",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTIyOTIwNzgxMV5BMl5BanBnXkFtZTcwMTIwNzY5MQ@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/gI7UXnyMavoz9TgyZfhnWVvLLbJ.jpg",
     "details": {
+        "Stars": [
+            "Jorma Tommila",
+            "Tero Autero",
+            "Ida Helander"
+        ],
+        "Genres": [
+            "Action",
+            "Sci-Fi",
+            "Short"
+        ],
+        "Writer": [
+            "Jalmari Helander",
+            "Juuso Helander",
+            "Kalle Määttä"
+        ],
+        "Runtime": [
+            "22 min"
+        ],
+        "Director": [
+            "Jalmari Helander"
+        ],
         "Language": [
             "Finnish"
         ],
         "Release date": [
-            "September 24, 2001 (Finland)"
-        ],
-        "Also known as": [
-            "Укконен"
+            "2001-09-24"
         ],
         "Country of origin": [
             "Finland"
         ],
-        "Production company": [
+        "Production companies": [
             "Next Level"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1118351/",
-            "name": "Jalmari Helander"
+            "name": "Jalmari Helander",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1118352/",
-            "name": "Juuso Helander"
+            "name": "Juuso Helander",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1536503/",
-            "name": "Kalle Määttä"
+            "name": "Kalle Määttä",
+            "@type": "Person"
         }
     ],
     "duration": "PT22M",
-    "keywords": [
-        "supernatural power",
-        "hacking",
-        "loneliness",
-        "husband wife relationship",
-        "weapon of mass destruction"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1118351/",
-            "name": "Jalmari Helander"
+            "name": "Jalmari Helander",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0307604/",
     "metascore": null,
-    "imdb_votes": 423,
+    "imdb_votes": 438,
     "popularity": 0,
-    "description": "A scientist who became radioactive in an accident at a research center is framed by a large corporation, leading to a crusade to bring down the corporation and get revenge.",
-    "imdb_rating": "6.7/10 from 423 users",
-    "release_date": [],
+    "description": "Ukkonen (means Thunder) is a short film about a man called Ukkonen who was turned into a radioactive man in an accident in the Generator Corporation research plant, company secretly designing radioactive weapons with an energy business as a cover. Ukkonen starts his crusade to bring the company down and get his revenge.  Nice quality for an independent production, even some special effects and some funny, overdramatic monologue by Ukkonen. Unfortunately the film is very short, lasting only about 20 minutes.  Worth checking out if you somehow find this film.",
+    "imdb_rating": "6.7/10 from 438 users",
+    "release_date": [
+        {
+            "date": "2001-09-24",
+            "country": "Finland"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2001-09-24",
+    "original_title": "Ukkonen",
     "imdb_rating_average": 6.7,
-    "update_at": "2025-02-11T11:29:46"
+    "update_at": "2026-10-30T09:21:09"
 }

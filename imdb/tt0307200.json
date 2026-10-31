@@ -1,9 +1,15 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "K7B Mutation",
+            "country": "Germany"
+        }
+    ],
     "sid": "tt0307200",
     "name": "Mutation",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1999",
+    "@type": "VideoObject",
     "genre": [
         "Horror",
         "Sci-Fi",
@@ -12,67 +18,127 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1120252/",
-            "name": "Mark Door"
+            "name": "Mark Door",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1047856/",
-            "name": "Marc Fehse"
+            "name": "Marc Fehse",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1049039/",
-            "name": "Timo Rose"
+            "name": "Timo Rose",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1120269/",
+            "name": "Carsten Fehse",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1117510/",
+            "name": "Juliane Block",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1223504/",
+            "name": "Mr. Brand",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0470741/",
+            "name": "Oliver Krekel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0773593/",
+            "name": "Andreas Schnaas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1224114/",
+            "name": "Flow Jo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1223527/",
+            "name": "Ingo Brueckmann",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1NzY3NjU5M15BMl5BanBnXkFtZTgwNjQ0ODU0MzE@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/yX3x7HH7TUS8tVyrLbvU0JxVwQ4.jpg",
     "details": {
+        "Stars": [
+            "Mark Door",
+            "Marc Fehse",
+            "Timo Rose"
+        ],
+        "Genres": [
+            "Horror",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "Writer": [
+            "Marc Fehse"
+        ],
+        "Runtime": [
+            "98 min"
+        ],
+        "Director": [
+            "Timo Rose",
+            "Marc Fehse"
+        ],
         "Language": [
             "German"
         ],
-        "Also known as": [
-            "K7B Mutation"
+        "Release date": [
+            "1999-01-01"
         ],
         "Country of origin": [
-            "Germany"
-        ],
-        "Filming locations": [
-            "USA"
+            "Germany",
+            "United States of America"
         ]
     },
-    "reviews": 5,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1047856/",
-            "name": "Marc Fehse"
+            "name": "Marc Fehse",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H38M",
-    "keywords": [
-        "nazi zombie",
-        "chemical",
-        "mutation",
-        "naziploitation",
-        "zombie"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1049039/",
-            "name": "Timo Rose"
+            "name": "Timo Rose",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1047856/",
-            "name": "Marc Fehse"
+            "name": "Marc Fehse",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0307200/",
     "metascore": null,
-    "imdb_votes": 172,
+    "imdb_votes": 162,
     "popularity": 0,
     "description": "A chemical created by Nazi experimentation is discovered in modern-day Germany. Once released, it causes all sorts of horrific bloodshed, mutation, and madness.",
-    "imdb_rating": "3.5/10 from 172 users",
-    "release_date": [],
+    "imdb_rating": "3.5/10 from 162 users",
+    "release_date": [
+        {
+            "date": "1999-01-01",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1999-01-01",
+    "original_title": "Mutation",
     "imdb_rating_average": 3.5,
-    "update_at": "2025-08-06T11:07:12"
+    "update_at": "2026-10-30T09:42:28"
 }

@@ -4,67 +4,99 @@
     "name": "nWo: The Revolution",
     "site": "imdb",
     "year": "2012",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
-        "Documentary",
         "Action",
+        "Documentary",
         "Sport"
     ],
     "actors": [
         {
-            "url": "https://www.imdb.com/name/nm0001356/",
-            "name": "Hulk Hogan"
-        },
-        {
-            "url": "https://www.imdb.com/name/nm0356084/",
-            "name": "Scott Hall"
-        },
-        {
             "url": "https://www.imdb.com/name/nm0621760/",
-            "name": "Kevin Nash"
+            "name": "Kevin Nash",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0218681/",
+            "name": "Bill DeMott",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0266261/",
+            "name": "Dallas Page",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0344604/",
+            "name": "Peter Gruner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0910464/",
+            "name": "Sean Waltman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0225126/",
+            "name": "Ted DiBiase",
+            "@type": "Person"
         }
     ],
-    "critic": 7,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzQ4MzhhMTQtZTA3ZS00NzlkLWEwY2YtYTliYjljYjI4YzNiXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/6RQbeiVYpUV0ZMO7Hv1zMSXyASn.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Kevin Nash",
+            "Bill DeMott",
+            "Dallas Page"
+        ],
+        "Genres": [
+            "Action",
+            "Documentary",
+            "Sport"
+        ],
+        "Runtime": [
+            "63 min"
+        ],
+        "Director": [
+            "Kevin Dunn"
         ],
         "Release date": [
-            "November 6, 2012 (United States)"
+            "2012-11-06"
         ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "World Wrestling Entertainment (WWE)"
+        "Production companies": [
+            "WWE Home Video"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT1H3M",
     "keywords": [
-        "professional wrestling",
-        "hulk hogan",
-        "jerk",
-        "new world order",
-        "hero turned evil"
+        "wrestling"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0242658/",
-            "name": "Kevin Dunn"
+            "name": "Kevin Dunn",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2398018/",
     "metascore": null,
-    "imdb_votes": 279,
+    "imdb_votes": 287,
     "popularity": 0,
-    "description": "From their shocking arrival in the WCW to their eventual resurgence in the WWE, the nWo were one of the most popular wrestling stables in history. This documentary gives an in-depth and behind-the-scenes look at the New World Orde...",
-    "imdb_rating": "7.2/10 from 279 users",
-    "release_date": [],
-    "contentRating": null,
+    "description": "In the 1990s, one revolutionary movement, symbolized by three letters and forged by notorious rebels, painted the industry black &amp; white.  This brand new, never-before-seen documentary reveals the \"too sweet\" saga of the n.W.o.!  Hear from members who were in it 4-Life, as well as stars who witnessed it up close and personal.  From the hostile takeover of WCW, to the stunning defections, internal struggles and shocking resurgence in WWE, the complete story of the New World Order is finally told.  (Both physical DVD &amp; Blu-Ray releases include over 8 hours of special features in addition to the primary 63-minute documentary feature title on Disc 1.)",
+    "imdb_rating": "7.1/10 from 287 users",
+    "release_date": [
+        {
+            "date": "2012-11-06",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "PG",
     "datePublished": "2012-11-06",
-    "imdb_rating_average": 7.2,
-    "update_at": "2026-04-13T05:42:06"
+    "original_title": "nWo: The Revolution",
+    "imdb_rating_average": 7.1,
+    "update_at": "2026-10-30T18:35:14"
 }

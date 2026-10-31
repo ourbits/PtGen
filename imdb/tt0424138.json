@@ -4,60 +4,101 @@
     "name": "Heidi",
     "site": "imdb",
     "year": "1953",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0516986/",
-            "name": "Julia Lockwood"
+            "name": "Julia Lockwood",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0561811/",
-            "name": "Roger Maxwell"
+            "name": "Roger Maxwell",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0266027/",
-            "name": "Vari Falconer"
+            "name": "Vari Falconer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0697579/",
+            "name": "Dorothy Primrose",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0697579/",
+            "name": "Dorothy Primrose",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0781200/",
+            "name": "Lance Secretan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0719683/",
+            "name": "Hilary Rennie",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0388265/",
+            "name": "Charles Hodgson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0731445/",
+            "name": "Nancy Roberts",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0655905/",
+            "name": "Anne Padwick",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Julia Lockwood",
+            "Roger Maxwell",
+            "Vari Falconer"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Joy Harington",
+            "Johanna Spyri"
+        ],
+        "Runtime": [
+            "30 min"
         ],
         "Release date": [
-            "October 6, 1953 (United Kingdom)"
-        ],
-        "Also known as": [
-            "アルプスの少女ハイジ（1953）"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Production company": [
-            "British Broadcasting Corporation (BBC)"
+            "1953"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0363047/",
-            "name": "Joy Harington"
+            "name": "Joy Harington",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0819983/",
-            "name": "Johanna Spyri"
+            "name": "Johanna Spyri",
+            "@type": "Person"
         }
     ],
     "duration": "PT30M",
-    "keywords": [
-        "girl",
-        "based on novel",
-        "character name in title"
-    ],
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt0424138/",
     "metascore": null,
     "imdb_votes": 0,
@@ -66,7 +107,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1953-10-06",
+    "datePublished": "1953",
+    "original_title": "Heidi",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-26T20:36:11"
+    "update_at": "2026-10-30T11:56:06"
 }

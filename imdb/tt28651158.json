@@ -4,76 +4,136 @@
     "name": "Ms. Christmas Comes to Town",
     "site": "imdb",
     "year": "2023",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Romance"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1570568/",
-            "name": "Erica Durance"
+            "name": "Erica Durance",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1570568/",
+            "name": "Erica Durance",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0018271/",
-            "name": "Barbara Niven"
+            "name": "Barbara Niven",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0018271/",
+            "name": "Barbara Niven",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0254392/",
-            "name": "Brennan Elliott"
+            "name": "Brennan Elliott",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0254392/",
+            "name": "Brennan Elliott",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0007103/",
+            "name": "Mark Brandon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0310240/",
+            "name": "Chris Gauthier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0561562/",
+            "name": "Judith Maxie",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0228992/",
+            "name": "Tim Dixon",
+            "@type": "Person"
         }
     ],
-    "critic": 4,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWIzZjE3ZjItNmE4Mi00NTA4LTkyOTUtMmQwM2EyNWNmN2E2XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/yjPaHs1424IQbGbQrg0Y66JN6Cl.jpg",
     "details": {
+        "Stars": [
+            "Erica Durance",
+            "Erica Durance",
+            "Barbara Niven"
+        ],
+        "Genres": [
+            "Romance"
+        ],
+        "Writer": [
+            "Brook Durham"
+        ],
+        "Runtime": [
+            "84 min"
+        ],
+        "Director": [
+            "Jason Bourque"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "October 26, 2023 (United States)"
-        ],
-        "Official site": [
-            "Official Site - https://www.hallmarkchannel.com/ms-christmas-comes-to-town"
+            "2023-10-26"
         ],
         "Country of origin": [
             "Canada"
         ],
-        "Filming locations": [
-            "Vancouver, British Columbia, Canada"
-        ],
-        "Production company": [
+        "Production companies": [
             "Two 4 The Money Media"
         ]
     },
-    "reviews": 10,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0244058/",
-            "name": "Brook Durham"
+            "name": "Brook Durham",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H24M",
     "keywords": [
-        "five word title",
-        "christmas in title",
-        "television movie",
-        "abbreviation in title",
-        "hallmark movie"
+        "holiday",
+        "christmas",
+        "candid"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1028302/",
-            "name": "Jason Bourque"
+            "name": "Jason Bourque",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt28651158/",
     "metascore": null,
-    "imdb_votes": 927,
+    "imdb_votes": 995,
     "popularity": 0,
-    "description": "A shopping channel host known as Ms. Christmas receives a terminal diagnosis, which inspires a multi-city excursion set to spread Christmas cheer before her farewell broadcast.",
-    "imdb_rating": "6.8/10 from 927 users",
-    "release_date": [],
-    "contentRating": "TV-G",
+    "description": "When Ms. Christmas, a shopping channel host, receives a terminal diagnosis, she heads on a multi-city excursion to spread Christmas cheer.",
+    "imdb_rating": "6.8/10 from 995 users",
+    "release_date": [
+        {
+            "date": "2023-10-26",
+            "country": "Canada"
+        },
+        {
+            "date": "2023-10-26",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "PG",
     "datePublished": "2023-10-26",
+    "original_title": "Ms. Christmas Comes to Town",
     "imdb_rating_average": 6.8,
-    "update_at": "2025-06-09T04:42:08"
+    "update_at": "2026-10-30T22:14:32"
 }

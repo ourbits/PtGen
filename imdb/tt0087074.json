@@ -4,53 +4,132 @@
     "name": "Command 5",
     "site": "imdb",
     "year": "1985",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Action",
         "Crime",
         "Drama"
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzhkMjVhY2YtNDRiNy00YWEwLWE0OWEtZDdiOGNlM2M4ZWJhXkEyXkFqcGc@._V1_.jpg",
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0663345/",
+            "name": "Stephen Parr",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0369567/",
+            "name": "Wings Hauser",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0560596/",
+            "name": "John Matuszak",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0750916/",
+            "name": "William Russ",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0810500/",
+            "name": "Sonja Smits",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0797268/",
+            "name": "Gregory Sierra",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001235/",
+            "name": "William Forsythe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0529149/",
+            "name": "Robert F. Lyons",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0007940/",
+            "name": "Bruce Abbott",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0010751/",
+            "name": "Arthur Adams",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/3DFpVj2tby8WpSMH9TEk5cCZu7b.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Stephen Parr",
+            "Wings Hauser",
+            "John Matuszak"
+        ],
+        "Genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "Anthony Spinner",
+            "Tony Ford"
+        ],
+        "Runtime": [
+            "93 min"
+        ],
+        "Director": [
+            "E.W. Swackhamer"
         ],
         "Release date": [
-            "August 7, 1985 (United States)"
-        ],
-        "Also known as": [
-            "Kommando Nr.5"
+            "1985-08-05"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Florence, Arizona, USA"
-        ],
-        "Production company": [
-            "Paramount Television"
+            "United States of America"
         ]
     },
-    "reviews": 2,
-    "creators": [],
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0818961/",
+            "name": "Anthony Spinner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0285909/",
+            "name": "Tony Ford",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT1H33M",
-    "keywords": [
-        "arizona desert",
-        "arizona",
-        "reference to arizona",
-        "criminal",
-        "hostage"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0841416/",
+            "name": "E.W. Swackhamer",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0087074/",
     "metascore": null,
-    "imdb_votes": 95,
+    "imdb_votes": 98,
     "popularity": 0,
-    "description": "Captain Blair Morgan is a military intelligence man, who wants to see some action, and if the military can&apos;t provide with some, he is recruited by a group that wants to form a crime fighting unit that they want to send into areas ...",
-    "imdb_rating": "4.3/10 from 95 users",
-    "release_date": [],
-    "contentRating": "TV-PG",
-    "datePublished": "1985-08-07",
-    "imdb_rating_average": 4.3,
-    "update_at": "2025-10-28T16:54:30"
+    "description": "A team of special military forces has to save a small town which has been taken hostage by an organization called the Brotherhood.",
+    "imdb_rating": "4.2/10 from 98 users",
+    "release_date": [
+        {
+            "date": "1985-08-05",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1985-08-05",
+    "original_title": "Command 5",
+    "imdb_rating_average": 4.2,
+    "update_at": "2026-10-31T00:14:12"
 }

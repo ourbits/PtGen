@@ -4,50 +4,97 @@
     "name": "Le mystère de Saint-Chorlu",
     "site": "imdb",
     "year": "1981",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1229554/",
-            "name": "François Goujon"
+            "name": "François Goujon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1226449/",
-            "name": "Patricia Paquin"
+            "name": "Patricia Paquin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1227025/",
-            "name": "Mathias Boudier"
+            "name": "Mathias Boudier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0864113/",
+            "name": "Bernard Tiphaine",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0152820/",
+            "name": "Lyne Chardonnet",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0124482/",
+            "name": "Raymond Bussières",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0688651/",
+            "name": "Annette Poivre",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0196541/",
+            "name": "Jacques Dacqmine",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0494527/",
+            "name": "Paul Le Person",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0688649/",
+            "name": "Patrick Poivey",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzFiZjUwMGItOTg2Ni00ZDliLTllODgtOGZlY2UzNDc0NjlmXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "François Goujon",
+            "Patricia Paquin",
+            "Mathias Boudier"
+        ],
+        "Writer": [
+            "Richard Caron"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Claude Vajda"
         ],
         "Release date": [
-            "July 7, 1981 (France)"
-        ],
-        "Country of origin": [
-            "France"
+            "1981"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0139157/",
-            "name": "Richard Caron"
+            "name": "Richard Caron",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0883327/",
-            "name": "Claude Vajda"
+            "name": "Claude Vajda",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0329408/",
@@ -58,7 +105,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1981-07-07",
+    "datePublished": "1981",
+    "original_title": "Le mystère de Saint-Chorlu",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-23T07:21:50"
+    "update_at": "2026-10-30T12:49:36"
 }

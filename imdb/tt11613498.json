@@ -1,10 +1,10 @@
 {
     "aka": [],
     "sid": "tt11613498",
-    "name": "Frontera",
+    "name": "Frontier",
     "site": "imdb",
     "year": "2018",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Action",
         "Drama",
@@ -13,68 +13,124 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm11275244/",
-            "name": "Roque Alejandro"
+            "name": "Roque Alejandro",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm11275022/",
-            "name": "Jorge Alonso"
+            "name": "Jorge Alonso",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm11275026/",
-            "name": "Alma Aranda"
+            "name": "Alma Aranda",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11274761/",
+            "name": "Ricardo Cardenas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm9440683/",
+            "name": "Ricardo Cárdenas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11275251/",
+            "name": "Mario Flores",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11275247/",
+            "name": "Sandra Gloria",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11275246/",
+            "name": "Julieta Hernandez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11275139/",
+            "name": "John Howard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11275248/",
+            "name": "Fernando Madrid",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDlkNTMxZTktYjI5MS00MDdiLWI3YzMtY2VjNWIxYmNhMjhiXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/keSRmkBxXXRSfGelREYIxu6NOjs.jpg",
     "details": {
-        "Language": [
-            "Spanish"
+        "Stars": [
+            "Roque Alejandro",
+            "Jorge Alonso",
+            "Alma Aranda"
+        ],
+        "Genres": [
+            "Action",
+            "Drama",
+            "Western"
+        ],
+        "Writer": [
+            "Marcos Almada"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "Marcos Almada"
         ],
         "Release date": [
-            "January 12, 2018 (Mexico)"
-        ],
-        "Also known as": [
-            "Frontera"
-        ],
-        "Official site": [
-            "Facebbok - https://www.facebook.com/almadaproducciones/videos/1419521694879898/?modal=admin_todo_tour"
+            "2018-03-21"
         ],
         "Country of origin": [
             "Mexico"
         ],
-        "Filming locations": [
-            "Durango, Mexico"
-        ],
-        "Production company": [
-            "Marcos Almada"
+        "Production companies": [
+            "Almada Producciones"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": "Texas was theirs for the taking",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1182895/",
-            "name": "Marcos Almada"
+            "name": "Marcos Almada",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H35M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1182895/",
-            "name": "Marcos Almada"
+            "name": "Marcos Almada",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt11613498/",
     "metascore": null,
-    "imdb_votes": 19,
+    "imdb_votes": 23,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "3.1/10 from 19 users",
-    "release_date": [],
-    "contentRating": "TV-MA",
-    "datePublished": "2018-01-12",
-    "imdb_rating_average": 3.1,
-    "update_at": "2025-07-30T07:07:49"
+    "description": "Texas, 1848. Families are being forced off their land by the settlers who come to colonize this unpopulated state. A battle for the land and oil ensues.",
+    "imdb_rating": "2.8/10 from 23 users",
+    "release_date": [
+        {
+            "date": "2020-06-26",
+            "country": "Germany"
+        },
+        {
+            "date": "2018-03-21",
+            "country": "Mexico"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2018-03-21",
+    "original_title": "Frontera",
+    "imdb_rating_average": 2.8,
+    "update_at": "2026-10-30T09:35:06"
 }

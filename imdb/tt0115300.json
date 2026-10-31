@@ -5,59 +5,143 @@
     "site": "imdb",
     "year": "1996",
     "@type": "TVSeries",
-    "genre": null,
+    "genre": [
+        "Drama"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0551678/",
-            "name": "Dirk Martens"
+            "name": "Dirk Martens",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0815359/",
-            "name": "Jan Sosniok"
+            "name": "Jan Sosniok",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0269831/",
-            "name": "Paul Faßnacht"
+            "name": "Paul Faßnacht",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0496441/",
+            "name": "Erwin Leder",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0710950/",
+            "name": "Gundula Rapsch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0960226/",
+            "name": "Ercan Özcelik",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0771933/",
+            "name": "Bernhard Schir",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0317338/",
+            "name": "Karin Giegerich",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0214689/",
+            "name": "Michael Degen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0608160/",
+            "name": "Christoph Mory",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTI5ZmUxNzEtMGFhNC00NDQ1LTk0MTEtNjIxYWJhMWMxNTNlXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/8cPmmGhyxpsDk8qL6k6tn3QxUOx.jpg",
     "details": {
+        "Stars": [
+            "Dirk Martens",
+            "Jan Sosniok",
+            "Paul Faßnacht"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Jochen Alexander Freydank",
+            "Jeff Cox",
+            "Stephan Falk"
+        ],
+        "Runtime": [
+            "45 min"
+        ],
+        "Director": [
+            "Michel Bielawa",
+            "Eva Fritzsche",
+            "Jürgen Kaizik"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "November 14, 1996 (Germany)"
-        ],
-        "Also known as": [
-            "Wzywam dr. Brucknera"
+            "1996-11-14"
         ],
         "Country of origin": [
             "Germany"
-        ],
-        "Production company": [
-            "Phoenix Film Karlheinz Brunnemann"
         ]
     },
     "reviews": 0,
-    "creators": [],
-    "duration": null,
-    "keywords": [
-        "white coat",
-        "medic",
-        "claim in title",
-        "surgeon",
-        "scissors"
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0293770/",
+            "name": "Jochen Alexander Freydank",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1113734/",
+            "name": "Jeff Cox",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1116774/",
+            "name": "Stephan Falk",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT45M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0081373/",
+            "name": "Michel Bielawa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1847841/",
+            "name": "Eva Fritzsche",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0435269/",
+            "name": "Jürgen Kaizik",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0115300/",
     "metascore": null,
-    "imdb_votes": 23,
+    "imdb_votes": 27,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "5.3/10 from 23 users",
+    "description": "OP ruft Dr. Bruckner is a television series that airs in Germany.",
+    "imdb_rating": "5.4/10 from 27 users",
     "release_date": [],
     "contentRating": null,
     "datePublished": "1996-11-14",
-    "imdb_rating_average": 5.3,
-    "update_at": "2026-03-31T15:21:27"
+    "original_title": "OP ruft Dr. Bruckner - Die besten Ärzte Deutschlands",
+    "imdb_rating_average": 5.4,
+    "update_at": "2026-10-30T18:28:15"
 }

@@ -4,79 +4,113 @@
     "name": "Selling Shorts",
     "site": "imdb",
     "year": "1931",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Romance"
+        "Romance",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0058478/",
-            "name": "Louis John Bartels"
+            "name": "Louis John Bartels",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0106745/",
-            "name": "Margaret Breen"
+            "name": "Margaret Breen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0693055/",
-            "name": "Victor Potel"
+            "name": "Victor Potel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0757943/",
+            "name": "Virginia Sale",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0417168/",
+            "name": "Bud Jamison",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2FhODQ5ZTAtZjlhNC00ZDVlLTk2ZjQtOGE3NTNmMzQ3ZWVjXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Louis John Bartels",
+            "Margaret Breen",
+            "Victor Potel"
+        ],
+        "Genres": [
+            "Comedy",
+            "Romance",
+            "Short"
+        ],
+        "Writer": [
+            "Nicholas T. Barrows",
+            "Chuck Callahan"
+        ],
+        "Runtime": [
+            "17 min"
+        ],
+        "Director": [
+            "Harry Edwards"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 30, 1931 (United States)"
-        ],
-        "Also known as": [
-            "Traveling Man #3: Selling Shorts"
+            "1931-11-29"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "RKO Pathé Pictures"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0057897/",
-            "name": "Nicholas T. Barrows"
+            "name": "Nicholas T. Barrows",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0130181/",
-            "name": "Chuck Callahan"
+            "name": "Chuck Callahan",
+            "@type": "Person"
         }
     ],
     "duration": "PT17M",
-    "keywords": [
-        "traveling man series",
-        "third in series",
-        "arkansas",
-        "con man",
-        "deception"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0250034/",
-            "name": "Harry Edwards"
+            "name": "Harry Edwards",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0432440/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "Third in the series of six Traveling Man two-reel comedy shorts. While traveling they are in need of some moonshine....",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
-    "contentRating": "Passed",
-    "datePublished": "1931-11-30",
+    "release_date": [
+        {
+            "date": "1931-11-29",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
+    "datePublished": "1931-11-29",
+    "original_title": "Selling Shorts",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-26T17:52:11"
+    "update_at": "2026-10-30T06:00:26"
 }

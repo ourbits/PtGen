@@ -5,72 +5,130 @@
     "site": "imdb",
     "year": "1949",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Drama"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0496185/",
-            "name": "Ginette Leclerc"
+            "name": "Ginette Leclerc",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0217612/",
-            "name": "Édouard Delmont"
+            "name": "Édouard Delmont",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0885299/",
-            "name": "André Valmy"
+            "name": "André Valmy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0609746/",
+            "name": "Marcel Mouloudji",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0685781/",
+            "name": "Ludmilla Pitoëff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0029007/",
+            "name": "Paulette Andrieux",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0069283/",
+            "name": "Henri Belly",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0138892/",
+            "name": "André Carnège",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0099905/",
+            "name": "Jean-Jacques Bourgeois",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0477742/",
+            "name": "Jean-Pierre Kérien",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTllZDgwYzktZmM4Yy00YWM0LTkwYjMtZTcxNTAyNzMzNDc1XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/XADCzvJFNaAIR290j1ioowAM0H.jpg",
     "details": {
+        "Stars": [
+            "Ginette Leclerc",
+            "Édouard Delmont",
+            "André Valmy"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Pierre Apestéguy",
+            "Roger Vercel"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "Henri Calef"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "August 26, 1949 (France)"
-        ],
-        "Also known as": [
-            "Troubled Waters"
+            "1949-08-26"
         ],
         "Country of origin": [
             "France"
-        ],
-        "Production company": [
-            "Euzko Film"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0032013/",
-            "name": "Pierre Apestéguy"
+            "name": "Pierre Apestéguy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0893712/",
-            "name": "Roger Vercel"
+            "name": "Roger Vercel",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H35M",
-    "keywords": [
-        "family relationships",
-        "group",
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0129830/",
-            "name": "Henri Calef"
+            "name": "Henri Calef",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0169836/",
     "metascore": null,
-    "imdb_votes": 61,
+    "imdb_votes": 64,
     "popularity": 0,
-    "description": "History of the family and community conflicts between a small group of people who depend on fishing around Mont St. Michel.",
-    "imdb_rating": "6.5/10 from 61 users",
-    "release_date": [],
+    "description": "A woman returns to her hometown along the French coast, seeking answers about the death of her brother.",
+    "imdb_rating": "6.6/10 from 64 users",
+    "release_date": [
+        {
+            "date": "1949-08-26",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1949-08-26",
-    "imdb_rating_average": 6.5,
-    "update_at": "2025-06-20T21:57:35"
+    "original_title": "Les eaux troubles",
+    "imdb_rating_average": 6.6,
+    "update_at": "2026-10-30T20:49:07"
 }

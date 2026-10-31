@@ -6,28 +6,92 @@
     "year": "2013",
     "@type": "Movie",
     "genre": [
-        "Documentary",
         "Biography",
+        "Documentary",
         "Drama"
     ],
-    "critic": 13,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDJlZDUzY2UtNzliNS00NGRkLWEwMjktMGNhOTFhZTM5OThjXkEyXkFqcGc@._V1_.jpg",
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0001838/",
+            "name": "Rachel Weisz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0298146/",
+            "name": "Andrea Fullajtár",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0083830/",
+            "name": "Krisztina Bíró",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1785099/",
+            "name": "Eszter Bíró",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1139409/",
+            "name": "Tímea Búza",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5553933/",
+            "name": "Judit Hoffman Varga",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1537616/",
+            "name": "Iván Angelusz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5553762/",
+            "name": "Peter Bowing",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0283785/",
+            "name": "Tamás Fodor",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0311476/",
+            "name": "Martina Gedeck",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/h2G3XyTuupJRDqGkuM6wKftPCYz.jpg",
     "details": {
-        "Languages": [
-            "Hungarian",
-            "English",
-            "German"
+        "Stars": [
+            "Rachel Weisz",
+            "Andrea Fullajtár",
+            "Krisztina Bíró"
+        ],
+        "Genres": [
+            "Biography",
+            "Documentary",
+            "Drama"
+        ],
+        "Writer": [
+            "Diana Groó"
+        ],
+        "Runtime": [
+            "63 min"
+        ],
+        "Director": [
+            "Diana Groó"
+        ],
+        "Language": [
+            "English"
         ],
         "Release date": [
-            "April 25, 2013 (Hungary)"
+            "2013-04-25"
         ],
-        "Official site": [
-            "official website - http://www.reginajonasmovie.com/"
-        ],
-        "Countries of origin": [
-            "Hungary",
-            "United Kingdom",
-            "Germany"
+        "Country of origin": [
+            "Hungary"
         ],
         "Production companies": [
             "Katapult Film",
@@ -36,24 +100,60 @@
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0344155/",
+            "name": "Diana Groó",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT1H3M",
     "keywords": [
-        "jewish woman",
-        "holocaust",
-        "archive",
-        "female rabbi",
-        "heroism"
+        "holocaust (shoah)",
+        "rabbi",
+        "historical figure",
+        "judaism",
+        "woman rabbi"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0344155/",
+            "name": "Diana Groó",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2749172/",
     "metascore": null,
-    "imdb_votes": 85,
+    "imdb_votes": 89,
     "popularity": 0,
-    "description": "The story of Regina Jonas found me. The world&apos;s first woman Rabbi lived in Berlin of the 1930s, and her greatest dream was to become a Rabbi. She felt that she was born to be a Rabbi, but women were barred from becoming a Rabbi ac...",
-    "imdb_rating": "6.4/10 from 85 users",
-    "release_date": [],
+    "description": "The first woman rabbi in the world, Regina Jonas, comes to light, courtesy of Rachel Weisz – who plays her – and her father George Weisz, who was the executive producer for this poetic and beautiful documentary. The daughter of an Orthodox Jewish peddler, Jonas was ordained in Berlin in 1935. During the Nazi era and the war, her sermons and her unparalleled devotion brought encouragement to the persecuted German Jews. Regina Jonas was murdered in Auschwitz in 1944. The only surviving photo of Jonas serves as a leitmotif for the film, showing a determined young woman gazing at the camera with self-confidence.",
+    "imdb_rating": "6.4/10 from 89 users",
+    "release_date": [
+        {
+            "date": "2013-08-01",
+            "country": "Bosnia and Herzegovina"
+        },
+        {
+            "date": "2013-11-01",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "2013-04-25",
+            "country": "Hungary"
+        },
+        {
+            "date": "2013-07-01",
+            "country": "Israel"
+        },
+        {
+            "date": "2014-04-25",
+            "country": "Poland"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2013-04-25",
+    "original_title": "Regina",
     "imdb_rating_average": 6.4,
-    "update_at": "2025-12-12T17:35:13"
+    "update_at": "2026-10-30T19:00:15"
 }

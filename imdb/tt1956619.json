@@ -11,49 +11,68 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2065838/",
-            "name": "Kit Armstrong"
+            "name": "Kit Armstrong",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2732670/",
-            "name": "Alfred Brendel"
+            "name": "Alfred Brendel",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjM5ODA1OTgwMF5BMl5BanBnXkFtZTgwMjI1NzAxMzE@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Kit Armstrong",
+            "Alfred Brendel"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Runtime": [
+            "76 min"
+        ],
+        "Director": [
+            "Mark Kidel"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "June 4, 2011 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Brendel - Kit: Ge järnet på pianostolen"
+            "2011-06-04"
         ],
         "Country of origin": [
             "United Kingdom"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": "PT1H16M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0452298/",
-            "name": "Mark Kidel"
+            "name": "Mark Kidel",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1956619/",
     "metascore": null,
-    "imdb_votes": 18,
+    "imdb_votes": 20,
     "popularity": 0,
-    "description": "An intimate account of the relationship between young composer and pianist Kit Armstrong and the world renowned Alfred Brendel, Set the Piano Stool on Fire captures both the creative process and champions the value of teaching and...",
-    "imdb_rating": "6.8/10 from 18 users",
-    "release_date": [],
+    "description": "An intimate account of the relationship between young composer and pianist Kit Armstrong and the world renowned Alfred Brendel, Set the Piano Stool on Fire captures both the creative process and champions the value of teaching and collaboration. Featuring the only filmed footage of Brendel during his farewell tour, this is highly revealing and essential viewing for anyone interested in classical music.",
+    "imdb_rating": "7.1/10 from 20 users",
+    "release_date": [
+        {
+            "date": "2011-06-04",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2011-06-04",
-    "imdb_rating_average": 6.8,
-    "update_at": "2025-09-24T13:00:26"
+    "original_title": "Set the Piano Stool on Fire",
+    "imdb_rating_average": 7.1,
+    "update_at": "2026-10-30T20:21:15"
 }
