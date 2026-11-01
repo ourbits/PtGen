@@ -4,70 +4,128 @@
     "name": "Vor Sonnenuntergang",
     "site": "imdb",
     "year": "1970",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0386076/",
-            "name": "Werner Hinz"
+            "name": "Werner Hinz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0782650/",
-            "name": "Manfred Seipold"
+            "name": "Manfred Seipold",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0769556/",
-            "name": "Doris Schade"
+            "name": "Doris Schade",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0281534/",
+            "name": "Herbert Fleischmann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0407991/",
+            "name": "Luitgard Im",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0833080/",
+            "name": "Günter Strack",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0335091/",
+            "name": "Anneli Granget",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0871020/",
+            "name": "Cordula Trantow",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0375728/",
+            "name": "Gefion Helmke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0257315/",
+            "name": "Wolfgang Engels",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Werner Hinz",
+            "Manfred Seipold",
+            "Doris Schade"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Oswald Döpke",
+            "Gerhart Hauptmann"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "Oswald Döpke"
         ],
         "Release date": [
-            "October 31, 1970 (West Germany)"
+            "1970-10-31"
         ],
         "Country of origin": [
-            "West Germany"
-        ],
-        "Production company": [
-            "Zweites Deutsches Fernsehen (ZDF)"
+            "Germany"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0246875/",
-            "name": "Oswald Döpke"
+            "name": "Oswald Döpke",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0369458/",
-            "name": "Gerhart Hauptmann"
+            "name": "Gerhart Hauptmann",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H35M",
-    "keywords": [
-        "based on play"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0246875/",
-            "name": "Oswald Döpke"
+            "name": "Oswald Döpke",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0316867/",
     "metascore": null,
-    "imdb_votes": 30,
+    "imdb_votes": 24,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "9.5/10 from 30 users",
-    "release_date": [],
+    "imdb_rating": "9.1/10 from 24 users",
+    "release_date": [
+        {
+            "date": "1970-10-31",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1970-10-31",
-    "imdb_rating_average": 9.5,
-    "update_at": "2025-04-28T11:11:41"
+    "original_title": "Vor Sonnenuntergang",
+    "imdb_rating_average": 9.1,
+    "update_at": "2026-10-31T16:07:43"
 }

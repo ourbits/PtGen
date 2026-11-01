@@ -6,85 +6,162 @@
     "year": "2017",
     "@type": "Movie",
     "genre": [
-        "Documentary",
-        "Biography"
+        "Biography",
+        "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3077682/",
-            "name": "Roger Stone"
+            "name": "Roger Stone",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0874339/",
-            "name": "Donald Trump"
+            "name": "Donald Trump",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0562413/",
-            "name": "Jane Mayer"
+            "name": "Jane Mayer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0562413/",
+            "name": "Jane Mayer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1422020/",
+            "name": "Jeffrey Toobin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1227121/",
+            "name": "Tucker Carlson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2821092/",
+            "name": "Ann Stone",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2821092/",
+            "name": "Ann Stone",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2928995/",
+            "name": "Paul Manafort",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1193766/",
+            "name": "Wayne Barrett",
+            "@type": "Person"
         }
     ],
-    "critic": 29,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjExNjAxOWQtYmU5ZS00OGM4LTg0ZWUtNTE1MjJiYjZiYmE0XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/n0FXjHHG4a0apw3X4zggpIC5fih.jpg",
     "details": {
+        "Stars": [
+            "Roger Stone",
+            "Donald Trump",
+            "Jane Mayer"
+        ],
+        "Genres": [
+            "Biography",
+            "Documentary"
+        ],
+        "Writer": [
+            "Dylan Bank",
+            "Daniel DiMauro",
+            "Morgan Pehme"
+        ],
+        "Runtime": [
+            "92 min"
+        ],
+        "Director": [
+            "Dylan Bank",
+            "Daniel DiMauro",
+            "Morgan Pehme"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 12, 2017 (United States)"
-        ],
-        "Also known as": [
-            "Gọi Cho Tôi Roger Stone"
+            "2017-04-23"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
+        ],
+        "Production companies": [
+            "Stone Cold"
         ]
     },
-    "reviews": 30,
+    "reviews": 0,
+    "tagline": "Let's get this party started.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1906442/",
-            "name": "Dylan Bank"
+            "name": "Dylan Bank",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2595452/",
-            "name": "Daniel DiMauro"
+            "name": "Daniel DiMauro",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1412827/",
-            "name": "Morgan Pehme"
+            "name": "Morgan Pehme",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H32M",
     "keywords": [
-        "politics",
-        "political campaign",
-        "president of the united states",
-        "presidential candidate",
-        "presidential campaign"
+        "politics"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1906442/",
-            "name": "Dylan Bank"
+            "name": "Dylan Bank",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2595452/",
-            "name": "Daniel DiMauro"
+            "name": "Daniel DiMauro",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1412827/",
-            "name": "Morgan Pehme"
+            "name": "Morgan Pehme",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt6714534/",
-    "metascore": 75,
-    "imdb_votes": 7825,
+    "metascore": null,
+    "imdb_votes": 8017,
     "popularity": 0,
-    "description": "A documentary exploring the life and career of notorious Republican dirty trickster and longtime Trump adviser, Roger Stone, who helped create the real estate mogul&apos;s political career.",
-    "imdb_rating": "7.3/10 from 7825 users",
-    "release_date": [],
-    "contentRating": "TV-14",
-    "datePublished": "2017-05-12",
+    "description": "From his days of testifying at the Watergate hearings to advising recent presidential candidate Donald Trump, Roger Stone has long offended people on both sides of the political fence as a force in conservative America. Outspoken author, pundit, ahead of his time election strategist, this is his story.",
+    "imdb_rating": "7.3/10 from 8017 users",
+    "release_date": [
+        {
+            "date": "2017-05-12",
+            "country": "Poland"
+        },
+        {
+            "date": "2017-04-23",
+            "country": "Romania"
+        },
+        {
+            "date": "2017-04-23",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2017-04-23",
+    "original_title": "Get Me Roger Stone",
     "imdb_rating_average": 7.3,
-    "update_at": "2025-02-01T08:28:51"
+    "update_at": "2026-10-31T06:07:21"
 }

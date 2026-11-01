@@ -4,72 +4,91 @@
     "name": "The Bar",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0217938/",
-            "name": "Peter DeLuise"
+            "name": "Peter DeLuise",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1140759/",
-            "name": "Simone Bailly"
+            "name": "Simone Bailly",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0627586/",
-            "name": "Peter New"
+            "name": "Peter New",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1675002/",
+            "name": "Nicholas Elia",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2744995/",
+            "name": "Berit Beattie",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDkzZGU2ZjgtMmExOS00MWM2LWJjZWItMTg0OGQ5MTUxYTNjXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Peter DeLuise",
+            "Simone Bailly",
+            "Peter New"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Peter New"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "Mike Jackson"
         ],
         "Release date": [
-            "August 27, 2007 (Canada)"
-        ],
-        "Country of origin": [
-            "Canada"
-        ],
-        "Filming locations": [
-            "Vancouver, British Columbia, Canada"
-        ],
-        "Production companies": [
-            "Dilemma Productions",
-            "Steam Powered Films",
-            "The Hot Shot Shorts Film Contest"
+            "2007"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0627586/",
-            "name": "Peter New"
+            "name": "Peter New",
+            "@type": "Person"
         }
     ],
     "duration": "PT10M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1389935/",
-            "name": "Mike Jackson"
+            "name": "Mike Jackson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1090184/",
     "metascore": null,
-    "imdb_votes": 14,
+    "imdb_votes": 15,
     "popularity": 0,
-    "description": "Whiskey music plays in a seedy bar, where pool sharks roam and the liquor flows like forgotten tears. A film noir comedy about love, life, tulips and xylophones.",
-    "imdb_rating": "7.2/10 from 14 users",
+    "description": null,
+    "imdb_rating": "7.2/10 from 15 users",
     "release_date": [],
-    "contentRating": "Not Rated",
-    "datePublished": "2007-08-27",
+    "contentRating": null,
+    "datePublished": "2007",
+    "original_title": "The Bar",
     "imdb_rating_average": 7.2,
-    "update_at": "2025-07-30T00:21:27"
+    "update_at": "2026-10-31T23:07:06"
 }

@@ -1,9 +1,22 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Cuéntame tu historia",
+            "country": "Argentina"
+        },
+        {
+            "title": "Hollywood, Vermont",
+            "country": "Italy"
+        },
+        {
+            "title": "Velké trable malého města",
+            "country": "Czech Republic"
+        }
+    ],
     "sid": "tt0120202",
     "name": "State and Main",
     "site": "imdb",
-    "year": "2001",
+    "year": "2000",
     "@type": "Movie",
     "genre": [
         "Comedy",
@@ -12,72 +25,149 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000450/",
-            "name": "Philip Seymour Hoffman"
+            "name": "Philip Seymour Hoffman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000513/",
-            "name": "William H. Macy"
+            "name": "William H. Macy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0682071/",
-            "name": "Rebecca Pidgeon"
+            "name": "Rebecca Pidgeon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0383449/",
+            "name": "Michael Higgins",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0103511/",
+            "name": "Michael Bradshaw",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0483727/",
+            "name": "Morris Lamore",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm18252830/",
+            "name": "Allen Soule",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0163988/",
+            "name": "Clark Gregg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0419633/",
+            "name": "Ricky Jay",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005466/",
+            "name": "Julia Stiles",
+            "@type": "Person"
         }
     ],
-    "critic": 76,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDZlODVmNTItNjJmYS00MWIxLWJkMGYtN2Y3YzAzMjM3ZDM3XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/348hvpWeSGdAQlCrGvKbpC0FpQN.jpg",
     "details": {
-        "Languages": [
-            "English",
-            "Italian"
+        "Stars": [
+            "Philip Seymour Hoffman",
+            "William H. Macy",
+            "Rebecca Pidgeon"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "Writer": [
+            "David Mamet"
+        ],
+        "Runtime": [
+            "105 min"
+        ],
+        "Director": [
+            "David Mamet"
+        ],
+        "Language": [
+            "Italian",
+            "English"
         ],
         "Release date": [
-            "January 12, 2001 (United States)"
-        ],
-        "Also known as": [
-            "State & Main"
+            "2000-08-26"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Malden, Massachusetts, USA"
+            "France",
+            "United States of America"
         ],
         "Production companies": [
-            "Filmtown Entertainment",
-            "Green/Renzi",
-            "El Dorado Pictures"
+            "Fine Line Features",
+            "Filmtown Entertainment Group",
+            "El Dorado Pictures",
+            "Green/Renzi"
         ]
     },
-    "reviews": 183,
+    "reviews": 0,
+    "tagline": "Lock your windows. Hide your daughters. Say your prayers.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0000519/",
-            "name": "David Mamet"
+            "name": "David Mamet",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H45M",
     "keywords": [
-        "satire",
-        "ensemble cast",
         "small town",
+        "movie business",
+        "mayor",
+        "film in film",
+        "statutory rape",
         "filmmaking",
+        "new england",
+        "book store",
         "vermont"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0000519/",
-            "name": "David Mamet"
+            "name": "David Mamet",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0120202/",
-    "metascore": 75,
-    "imdb_votes": 22964,
+    "metascore": null,
+    "imdb_votes": 23740,
     "popularity": 0,
-    "description": "A movie crew invades a small town whose residents are all too ready to give up their values for showbiz glitz.",
-    "imdb_rating": "6.7/10 from 22964 users",
-    "release_date": [],
-    "contentRating": "R",
-    "datePublished": "2001-01-12",
+    "description": "The residents of a small Vermont town don't know what hit them when a beleaguered Hollywood film crew brings a chaotic shoot to their quaint village.",
+    "imdb_rating": "6.7/10 from 23740 users",
+    "release_date": [
+        {
+            "date": "2000-08-26",
+            "country": "Canada"
+        },
+        {
+            "date": "2002-10-02",
+            "country": "Germany"
+        },
+        {
+            "date": "2001-01-17",
+            "country": "France"
+        },
+        {
+            "date": "2001-01-12",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2000-08-26",
+    "original_title": "State and Main",
     "imdb_rating_average": 6.7,
-    "update_at": "2025-02-11T22:55:00"
+    "update_at": "2026-10-31T10:49:07"
 }

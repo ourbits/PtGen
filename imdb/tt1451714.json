@@ -3,65 +3,90 @@
     "sid": "tt1451714",
     "name": "The Machine Stops",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2009",
+    "@type": "TVShort",
     "genre": [
-        "Short",
-        "Sci-Fi"
+        "Sci-Fi",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3481092/",
-            "name": "Mascha Moore"
+            "name": "Mascha Moore",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3524449/",
-            "name": "Erik VanderWal"
+            "name": "Erik VanderWal",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/tkqzJrnYDB6QEtcLSIy7rpI6aP5.jpg",
     "details": {
+        "Stars": [
+            "Mascha Moore",
+            "Erik VanderWal"
+        ],
+        "Genres": [
+            "Sci-Fi",
+            "Short"
+        ],
+        "Writer": [
+            "E.M. Forster"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "Adam Freise",
+            "Nathan Freise"
+        ],
         "Language": [
             "English"
         ],
-        "Country of origin": [
-            "United States"
+        "Release date": [
+            "2009-05-21"
         ]
     },
     "reviews": 0,
+    "tagline": "Short, Sci-Fi,",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0286950/",
-            "name": "E.M. Forster"
+            "name": "E.M. Forster",
+            "@type": "Person"
         }
     ],
     "duration": "PT10M",
-    "keywords": [
-        "machine",
-        "interaction",
-        "son",
-        "mother",
-        "underground"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm6424737/",
-            "name": "Adam Freise"
+            "name": "Adam Freise",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm6424738/",
-            "name": "Nathan Freise"
+            "name": "Nathan Freise",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1451714/",
     "metascore": null,
     "imdb_votes": 23,
     "popularity": 0,
-    "description": "Two people live in a dark technological utopia/dystopia - &quot;the Machine&quot;. Kuno and Vashti, have differing opinions about the world which they live in and their interaction and conflict as their society comes to a sudden collapse. T...",
+    "description": "Two people live in a dark technological utopia/dystopia - \"the Machine\". Kuno and Vashti, have differing opinions about the world which they live in and their interaction and conflict as their society comes to a sudden collapse. The story raises themes of man's role in the midst of a technology-dependent built environment that are seemingly more relevant today than when the original short story was published in 1909.",
     "imdb_rating": "7.1/10 from 23 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2009-05-21",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2009-05-21",
+    "original_title": "The Machine Stops",
     "imdb_rating_average": 7.1,
-    "update_at": "2025-04-27T11:42:52"
+    "update_at": "2026-10-31T18:21:17"
 }

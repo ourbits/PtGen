@@ -4,74 +4,105 @@
     "name": "The Driver",
     "site": "imdb",
     "year": "2015",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Crime"
+        "Crime",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0685856/",
-            "name": "Michael Pitt"
+            "name": "Michael Pitt",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2793591/",
-            "name": "Astrid Bergès-Frisbey"
+            "name": "Astrid Bergès-Frisbey",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0334318/",
-            "name": "Stephen Graham"
+            "name": "Stephen Graham",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0212814/",
+            "name": "Jerry Dean",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0552423/",
+            "name": "Ivan Martin",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGQyN2Q1NDYtMTBiNC00MDU0LTk3OWUtOTg1YjQ2MzhiMTJhXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/qLoJUWtZNPY2cCakc1F40pRzpsz.jpg",
     "details": {
+        "Stars": [
+            "Michael Pitt",
+            "Astrid Bergès-Frisbey",
+            "Stephen Graham"
+        ],
+        "Genres": [
+            "Crime",
+            "Short"
+        ],
+        "Writer": [
+            "Jonathan Hirschbein",
+            "Michael Pitt"
+        ],
+        "Runtime": [
+            "18 min"
+        ],
+        "Director": [
+            "Michael Pitt"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "June 3, 2015 (United States)"
-        ],
-        "Official site": [
-            "hollywood reporter - http://www.hollywoodreporter.com/news/michael-pitt-stars-rag-bones-799876"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "New York, USA"
+            "2015-06-03"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1272009/",
-            "name": "Jonathan Hirschbein"
+            "name": "Jonathan Hirschbein",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0685856/",
-            "name": "Michael Pitt"
+            "name": "Michael Pitt",
+            "@type": "Person"
         }
     ],
     "duration": "PT18M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0685856/",
-            "name": "Michael Pitt"
+            "name": "Michael Pitt",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt5254562/",
     "metascore": null,
-    "imdb_votes": 156,
+    "imdb_votes": 161,
     "popularity": 0,
-    "description": "A movie about directors directing other directors. Psychological thriller at its finest.",
-    "imdb_rating": "6.6/10 from 156 users",
-    "release_date": [],
+    "description": "THE DRIVER is a film noir, contemplating the darker side of chasing the American dream.",
+    "imdb_rating": "6.6/10 from 161 users",
+    "release_date": [
+        {
+            "date": "2015-06-03",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2015-06-03",
+    "original_title": "The Driver",
     "imdb_rating_average": 6.6,
-    "update_at": "2026-05-23T06:07:31"
+    "update_at": "2026-10-31T02:28:07"
 }

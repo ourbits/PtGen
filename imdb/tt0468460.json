@@ -4,7 +4,7 @@
     "name": "Carol + 2",
     "site": "imdb",
     "year": "1966",
-    "@type": "Movie",
+    "@type": "TVSpecial",
     "genre": [
         "Comedy",
         "Musical"
@@ -12,68 +12,95 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000993/",
-            "name": "Carol Burnett"
+            "name": "Carol Burnett",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000840/",
-            "name": "Lucille Ball"
+            "name": "Lucille Ball",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0609216/",
-            "name": "Zero Mostel"
+            "name": "Zero Mostel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0363217/",
+            "name": "John Harlan",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTk1MmFiNjMtY2ViMi00NjYzLWEwNGItYWJlOTllNTE3MDFkXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/jiFeWABDs94OTizNZuhrIIrpHKF.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Carol Burnett",
+            "Lucille Ball",
+            "Zero Mostel"
+        ],
+        "Genres": [
+            "Comedy",
+            "Musical"
+        ],
+        "Writer": [
+            "Nat Hiken",
+            "Charles Sherman"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Marc Breaux"
         ],
         "Release date": [
-            "March 22, 1966 (United States)"
+            "1966-03-22"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Studio 33, CBS Television City - 7800 Beverly Boulevard, Fairfax, Los Angeles, California, USA"
+            "United States of America"
         ],
         "Production companies": [
-            "Bob Banner Associates",
-            "Burngood"
+            "Bob Banner Associates"
         ]
     },
     "reviews": 0,
+    "tagline": "Two legendary redheads team up with a legendary comb-over!",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0383733/",
-            "name": "Nat Hiken"
+            "name": "Nat Hiken",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm7909812/",
-            "name": "Charles Sherman"
+            "name": "Charles Sherman",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H",
-    "keywords": [
-        "tv special",
-        "character name in title"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0106474/",
-            "name": "Marc Breaux"
+            "name": "Marc Breaux",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0468460/",
     "metascore": null,
-    "imdb_votes": 26,
+    "imdb_votes": 27,
     "popularity": 0,
-    "description": "A fabulous collection of sketches and songs. Zero Mostel performs If I Were a Rich Man from Fiddler on the Roof. The program was written by Nat Hiken (Sgt. Bilko, Car 54 Where Are You)",
-    "imdb_rating": "8.3/10 from 26 users",
-    "release_date": [],
+    "description": "Carol + 2 was the title of the second of a multi-year series of television variety specials starring Carol Burnett which aired on the CBS Television network in the United States between 1962 and 1989.  The first special was produced in 1962, featuring Burnett and Julie Andrews. Carol + 2 premiered on March 22, 1966, with Carol joined by actor Zero Mostel and the legendary Lucille Ball. The program was such a critical and ratings success that CBS rebroadcast it on January 15, 1967.",
+    "imdb_rating": "8.3/10 from 27 users",
+    "release_date": [
+        {
+            "date": "1966-03-22",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1966-03-22",
+    "original_title": "Carol + 2",
     "imdb_rating_average": 8.3,
-    "update_at": "2026-01-12T19:14:37"
+    "update_at": "2026-10-31T07:28:16"
 }

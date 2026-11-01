@@ -4,49 +4,91 @@
     "name": "Missing",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Drama",
         "Short"
     ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0948045/",
+            "name": "Terence Yin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1910347/",
+            "name": "Jovinna Chan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1724836/",
+            "name": "Camy Ting",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0158609/",
+            "name": "David Cho",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/daVr2j0h31uLj2OjtbJLvO2PEcQ.jpg",
     "details": {
-        "Language": [
-            "Cantonese"
+        "Stars": [
+            "Terence Yin",
+            "Jovinna Chan",
+            "Camy Ting"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Kit Hui"
+        ],
+        "Runtime": [
+            "14 min"
+        ],
+        "Director": [
+            "Kit Hui"
         ],
         "Release date": [
-            "April 25, 2005 (United States)"
-        ],
-        "Official site": [
-            "Official site - http://www.factory630.com/"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "New York City, New York, USA"
-        ],
-        "Production companies": [
-            "Headquarters (III)",
-            "Factory630"
+            "2005-04-25"
         ]
     },
-    "reviews": 2,
-    "creators": [],
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0401194/",
+            "name": "Kit Hui",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT14M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0401194/",
+            "name": "Kit Hui",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0458428/",
     "metascore": null,
-    "imdb_votes": 37,
+    "imdb_votes": 36,
     "popularity": 0,
-    "description": "Samuel&apos;s girlfriend, Jenn, is missing. To search for her, Samuel follows a mysterious trail of words written on pieces of paper left by Jenn in the most unlikely places. As he uncovers the mystery of Jenn&apos;s disappearance, Samuel c...",
-    "imdb_rating": "7.9/10 from 37 users",
-    "release_date": [],
+    "description": "Samuel's girlfriend, Jenn, is missing. To search for her, Samuel follows a mysterious trail of words written on pieces of paper left by Jenn in the most unlikely places. As he uncovers the mystery of Jenn's disappearance, Samuel catches a haunting glimpse of New York City and realizes something unexpected.",
+    "imdb_rating": "7.9/10 from 36 users",
+    "release_date": [
+        {
+            "date": "2005-04-25",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2005-04-25",
+    "original_title": "Missing",
     "imdb_rating_average": 7.9,
-    "update_at": "2025-12-27T16:55:09"
+    "update_at": "2026-10-31T21:07:27"
 }

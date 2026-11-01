@@ -1,10 +1,15 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Szerelmi kém",
+            "country": "Hungary"
+        }
+    ],
     "sid": "tt0281888",
-    "name": "Gli occhi dell&apos;amore",
+    "name": "Gli occhi dell'amore",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Romance"
@@ -12,60 +17,114 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0059698/",
-            "name": "Giulio Base"
+            "name": "Giulio Base",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0708045/",
-            "name": "Micaela Ramazzotti"
+            "name": "Micaela Ramazzotti",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0727359/",
-            "name": "Renzo Rinaldi"
+            "name": "Renzo Rinaldi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0513352/",
+            "name": "Luca Lionello",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0665258/",
+            "name": "Mario Patanè",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0672039/",
+            "name": "Marina Pennafina",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0287647/",
+            "name": "Paolo Fosso",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0685593/",
+            "name": "Franco Pistoni",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1216634/",
+            "name": "Davide Halevin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001197/",
+            "name": "Anna Falchi",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDQ2Mjg0ODAtNmU0OC00OTVjLWJiMTktY2Q4NmU2NGE0NTYyXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/678c6Pvsw9zISVVuRhNIN9IDkfO.jpg",
     "details": {
+        "Stars": [
+            "Giulio Base",
+            "Micaela Ramazzotti",
+            "Renzo Rinaldi"
+        ],
+        "Genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "Writer": [
+            "Fabio Grassadonia",
+            "Antonio Piazza",
+            "Stefano Sudriè"
+        ],
+        "Director": [
+            "Giulio Base"
+        ],
         "Language": [
             "Italian"
         ],
         "Release date": [
-            "August 27, 2005 (Hungary)"
-        ],
-        "Also known as": [
-            "Ochii iubirii"
+            "2005-08-27"
         ],
         "Country of origin": [
             "Italy"
         ],
         "Production companies": [
-            "Bongiorno Productions",
             "MediaTrade"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0989305/",
-            "name": "Fabio Grassadonia"
+            "name": "Fabio Grassadonia",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0988803/",
-            "name": "Antonio Piazza"
+            "name": "Antonio Piazza",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0837233/",
-            "name": "Stefano Sudriè"
+            "name": "Stefano Sudriè",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0059698/",
-            "name": "Giulio Base"
+            "name": "Giulio Base",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0281888/",
@@ -73,10 +132,20 @@
     "imdb_votes": 58,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "6.4/10 from 58 users",
-    "release_date": [],
+    "imdb_rating": "6.5/10 from 58 users",
+    "release_date": [
+        {
+            "date": "2005-08-27",
+            "country": "Hungary"
+        },
+        {
+            "date": "2005-08-27",
+            "country": "Italy"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2005-08-27",
-    "imdb_rating_average": 6.4,
-    "update_at": "2025-06-07T01:13:10"
+    "original_title": "Gli occhi dell'amore",
+    "imdb_rating_average": 6.5,
+    "update_at": "2026-10-31T05:42:29"
 }

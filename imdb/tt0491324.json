@@ -3,52 +3,76 @@
     "sid": "tt0491324",
     "name": "Bir Pazar Günü",
     "site": "imdb",
+    "year": "1982",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Drama"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2149473/",
-            "name": "Coskun Sabah"
+            "name": "Coskun Sabah",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0129172/",
-            "name": "Serpil Çakmakli"
+            "name": "Serpil Çakmakli",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0251122/",
-            "name": "Süheyl Egriboz"
+            "name": "Süheyl Eğriboz",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTI4ZWNhMmQtYThlNy00NmRiLWJhNDctMzQwNTI3ZjYxMWJjXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/uFJAJww2OlyGzPkDLzyPyDUf1Se.jpg",
     "details": {
-        "Language": [
-            "Turkish"
+        "Stars": [
+            "Coskun Sabah",
+            "Serpil Çakmakli",
+            "Süheyl Eğriboz"
         ],
-        "Country of origin": [
-            "Turkey"
+        "Genres": [
+            "Drama"
+        ],
+        "Director": [
+            "Remzi A. Jöntürk"
+        ],
+        "Release date": [
+            "1982-01-01"
+        ],
+        "Production companies": [
+            "Çağatay Film"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0433657/",
-            "name": "Remzi A. Jöntürk"
+            "name": "Remzi A. Jöntürk",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0491324/",
     "metascore": null,
-    "imdb_votes": 15,
+    "imdb_votes": 17,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "2.9/10 from 15 users",
-    "release_date": [],
+    "imdb_rating": "3.1/10 from 17 users",
+    "release_date": [
+        {
+            "date": "1982-01-01",
+            "country": "Turkey"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 2.9,
-    "update_at": "2025-04-03T15:11:54"
+    "datePublished": "1982-01-01",
+    "original_title": "Bir Pazar Günü",
+    "imdb_rating_average": 3.1,
+    "update_at": "2026-10-31T05:07:26"
 }

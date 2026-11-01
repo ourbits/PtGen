@@ -3,52 +3,106 @@
     "sid": "tt0373820",
     "name": "Emilia Galotti",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2003",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0937557/",
-            "name": "Johanna Wokalek"
+            "name": "Johanna Wokalek",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0477908/",
-            "name": "Michael König"
+            "name": "Michael König",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0650994/",
-            "name": "Elisabeth Orth"
+            "name": "Elisabeth Orth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0065049/",
+            "name": "Sven-Eric Bechtolf",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0462401/",
+            "name": "Roland Koch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0309337/",
+            "name": "Wolfgang Gasser",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0584226/",
+            "name": "Wolfgang Michael",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1412876/",
+            "name": "Denis Petkovic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0165300/",
+            "name": "Andrea Clausen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0447554/",
+            "name": "Roland Kenda",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/ifJxf1K4skfa8ehVlbrqOCrLWxS.jpg",
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Johanna Wokalek",
+            "Michael König",
+            "Elisabeth Orth"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Gotthold Ephraim Lessing"
+        ],
+        "Runtime": [
+            "148 min"
+        ],
+        "Director": [
+            "Andreas Morell"
+        ],
+        "Release date": [
+            "2003-01-01"
         ],
         "Country of origin": [
             "Germany"
-        ],
-        "Filming locations": [
-            "Berlin, Germany"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0504366/",
-            "name": "Gotthold Ephraim Lessing"
+            "name": "Gotthold Ephraim Lessing",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H28M",
-    "keywords": [
-        "theater"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0003670/",
-            "name": "Andreas Morell"
+            "name": "Andreas Morell",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0373820/",
@@ -57,9 +111,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "4.8/10 from 17 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2003-01-01",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2003-01-01",
+    "original_title": "Emilia Galotti",
     "imdb_rating_average": 4.8,
-    "update_at": "2025-07-31T00:56:21"
+    "update_at": "2026-10-31T22:28:07"
 }

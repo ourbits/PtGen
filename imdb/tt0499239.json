@@ -1,74 +1,125 @@
 {
     "aka": [],
     "sid": "tt0499239",
-    "name": "Mon dernier rôle",
+    "name": "My Last Role",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0156228/",
-            "name": "Patrick Chesnais"
+            "name": "Patrick Chesnais",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0108400/",
-            "name": "Jean-Claude Brialy"
+            "name": "Jean-Claude Brialy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0305368/",
-            "name": "Nicole Garcia"
+            "name": "Nicole Garcia",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0688650/",
+            "name": "Patrick Poivre d'Arvor",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1451016/",
+            "name": "David Pujadas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2159411/",
+            "name": "Malika Ouiche",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2149056/",
+            "name": "Jocelyne Debache",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0579645/",
+            "name": "Didier Menin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0747376/",
+            "name": "Marine Royer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2151365/",
+            "name": "Ariane Steller",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmM5NzhmYzMtNGNjYi00Y2ZjLThjZDktY2NjMDc0ZDVlZWExXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Patrick Chesnais",
+            "Jean-Claude Brialy",
+            "Nicole Garcia"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Olivier Ayache-Vidal"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Olivier Ayache-Vidal"
         ],
         "Release date": [
-            "February 1, 2006 (France)"
-        ],
-        "Also known as": [
-            "My Last Part"
+            "2006-01-01"
         ],
         "Country of origin": [
             "France"
-        ],
-        "Production companies": [
-            "Cartel Productions",
-            "Canal+",
-            "Centre national du cinéma et de l'image animée (CNC)"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1201869/",
-            "name": "Olivier Ayache-Vidal"
+            "name": "Olivier Ayache-Vidal",
+            "@type": "Person"
         }
     ],
     "duration": "PT15M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1201869/",
-            "name": "Olivier Ayache-Vidal"
+            "name": "Olivier Ayache-Vidal",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0499239/",
     "metascore": null,
-    "imdb_votes": 28,
+    "imdb_votes": 27,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.9/10 from 28 users",
-    "release_date": [],
+    "description": "The story revolves around Patrick, an actor, who awaits his last role, believing it would be the most beautiful role he has ever done in his lifetime.",
+    "imdb_rating": "7.9/10 from 27 users",
+    "release_date": [
+        {
+            "date": "2006-01-01",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2006-02-01",
+    "datePublished": "2006-01-01",
+    "original_title": "Mon dernier rôle",
     "imdb_rating_average": 7.9,
-    "update_at": "2026-02-25T20:35:33"
+    "update_at": "2026-10-31T07:35:17"
 }

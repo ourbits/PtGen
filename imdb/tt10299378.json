@@ -4,41 +4,79 @@
     "name": "Riafn",
     "site": "imdb",
     "year": "2019",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Documentary",
-        "Short",
-        "Musical"
+        "Musical",
+        "Short"
     ],
+    "actors": [],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWQwMjMwMzgtM2M0Yi00NDA0LTk0YWEtYWExN2ExZjYzOTBmXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/kZ1jZKXyVrGAVd4ef6f3qoKzzjJ.jpg",
     "details": {
+        "Genres": [
+            "Documentary",
+            "Musical",
+            "Short"
+        ],
+        "Writer": [
+            "Mareike Wegener",
+            "Hannes Lang"
+        ],
+        "Runtime": [
+            "30 min"
+        ],
+        "Director": [
+            "Hannes Lang"
+        ],
+        "Language": [
+            "No Language"
+        ],
         "Release date": [
-            "August 11, 2019 (United States)"
+            "2019-04-07"
         ],
         "Country of origin": [
             "Germany"
-        ],
-        "Production companies": [
-            "Petrolio Film",
-            "ZDF/Arte"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm3173325/",
+            "name": "Mareike Wegener",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3172842/",
+            "name": "Hannes Lang",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT30M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm3172842/",
+            "name": "Hannes Lang",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt10299378/",
     "metascore": null,
     "imdb_votes": 17,
     "popularity": 0,
-    "description": "Riafn is a cinematic journey into the soundscape of the Alps. Idiom, song, as well as calls and commands of shepherds are condensed to create a musical film between artistic ideal and documentary realism.",
+    "description": "Since the dawn of time, the inhabitants of the Alps have used their own language to overcome the distance imposed by the mountainous orography. Riafn is a sort of dialect based on the different forms used by the shepherds and farmers of this area to call their beasts. The inhabitants of the mountains have thus cadenced their day-to-day life on calls to animals, the mooing of the cows, songs and the echo of the mountain. A sort of Alpine orchestra that helped them to cope with isolation.",
     "imdb_rating": "8.2/10 from 17 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2019-04-07",
+            "country": "Switzerland"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2019-08-11",
+    "datePublished": "2019-04-07",
+    "original_title": "Riafn",
     "imdb_rating_average": 8.2,
-    "update_at": "2026-05-27T01:42:27"
+    "update_at": "2026-10-31T07:14:31"
 }

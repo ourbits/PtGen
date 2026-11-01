@@ -4,46 +4,127 @@
     "name": "The Good Years",
     "site": "imdb",
     "year": "1962",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Drama",
         "Music"
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWRhOTQ1ZWQtMWVmZC00ZjNkLThkNTItZDZhZjBjMDhhM2JhXkEyXkFqcGc@._V1_.jpg",
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0000840/",
+            "name": "Lucille Ball",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000020/",
+            "name": "Henry Fonda",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0756340/",
+            "name": "Mort Sahl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0002121/",
+            "name": "Margaret Hamilton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0120326/",
+            "name": "Alan Bunce",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0651796/",
+            "name": "Miko Oscard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8266701/",
+            "name": "Chuck Green",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm17320981/",
+            "name": "Mike Kermoyan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm17320980/",
+            "name": "Webb Tilton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm17320980/",
+            "name": "Webb Tilton",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Lucille Ball",
+            "Henry Fonda",
+            "Mort Sahl"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Music"
+        ],
+        "Writer": [
+            "Sidney Howard",
+            "Walter Lord",
+            "A.J. Russell"
+        ],
+        "Director": [
+            "Franklin J. Schaffner"
         ],
         "Release date": [
-            "January 12, 1962 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "New York City, New York, USA"
-        ],
-        "Production company": [
-            "CBS"
+            "1962"
         ]
     },
-    "reviews": 1,
-    "creators": [],
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0397608/",
+            "name": "Sidney Howard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0520520/",
+            "name": "Walter Lord",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0750976/",
+            "name": "A.J. Russell",
+            "@type": "Person"
+        }
+    ],
     "duration": null,
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0769874/",
+            "name": "Franklin J. Schaffner",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0298348/",
     "metascore": null,
     "imdb_votes": 38,
     "popularity": 0,
-    "description": "Walter Lord&apos;s book &apos;The Good Years&apos; examining American society between 1900 through 1914 Is made into this TV special hosted by Henry Fonda and Lucille Ball with dRamatizations of historical events, musical routines and sketches.",
-    "imdb_rating": "6.8/10 from 38 users",
+    "description": null,
+    "imdb_rating": "6.7/10 from 38 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1962-01-12",
-    "imdb_rating_average": 6.8,
-    "update_at": "2025-11-22T19:20:17"
+    "datePublished": "1962",
+    "original_title": "The Good Years",
+    "imdb_rating_average": 6.7,
+    "update_at": "2026-11-01T00:14:30"
 }

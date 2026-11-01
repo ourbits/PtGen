@@ -4,7 +4,7 @@
     "name": "Burn to Shine 03: Portland, OR",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Documentary",
         "Music"
@@ -12,54 +12,99 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1247855/",
-            "name": "Carrie Brownstein"
+            "name": "Carrie Brownstein",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm18896615/",
+            "name": "Wet Confetti",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2418067/",
-            "name": "The Decemberists"
+            "name": "The Decemberists",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2688948/",
-            "name": "Beth Ditto"
+            "name": "Beth Ditto",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2332397/",
+            "name": "Gossip",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm9880473/",
+            "name": "Lifesavas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4185110/",
+            "name": "Kathy Mendonca",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3611263/",
+            "name": "Mirah",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3549689/",
+            "name": "Brace Paine",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3388017/",
+            "name": "Quasi",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0NDU4NDM5N15BMl5BanBnXkFtZTcwMzg2OTQzMQ@@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Carrie Brownstein",
+            "Wet Confetti",
+            "The Decemberists"
+        ],
+        "Genres": [
+            "Documentary",
+            "Music"
+        ],
+        "Runtime": [
+            "48 min"
+        ],
+        "Director": [
+            "Christoph Green"
         ],
         "Release date": [
-            "August 22, 2006 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Trixie DVD"
+            "2006"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
-    "duration": null,
-    "keywords": [
-        "portland oregon"
-    ],
+    "duration": "PT48M",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2419597/",
-            "name": "Christoph Green"
+            "name": "Christoph Green",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0878655/",
     "metascore": null,
-    "imdb_votes": 25,
+    "imdb_votes": 20,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "7.7/10 from 25 users",
+    "imdb_rating": "7.7/10 from 20 users",
     "release_date": [],
-    "contentRating": "Not Rated",
-    "datePublished": "2006-08-22",
+    "contentRating": null,
+    "datePublished": "2006",
+    "original_title": "Burn to Shine 03: Portland, OR",
     "imdb_rating_average": 7.7,
-    "update_at": "2025-08-30T15:26:07"
+    "update_at": "2026-11-01T00:56:19"
 }

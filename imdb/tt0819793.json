@@ -1,47 +1,93 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Deweneti",
+            "country": "France"
+        }
+    ],
     "sid": "tt0819793",
     "name": "Ousmane",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Drama",
-        "Family"
+        "Family",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2310734/",
-            "name": "Abbase Ba"
+            "name": "Abbase Ba",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0781154/",
-            "name": "Omar Seck"
+            "name": "Omar Seck",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2710771/",
-            "name": "Nianga Diop"
+            "name": "Nianga Diop",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0563776/",
+            "name": "Coly Mbaye",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0226051/",
+            "name": "El Hadj Dieng",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0623494/",
+            "name": "Thierno Ndiaye Doss",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2710182/",
+            "name": "Yalli Diagne",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2711119/",
+            "name": "Moustapha Gaye",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGQxOWM5ZTEtNGZlMC00ZGI1LTkzYWYtYTdhMDJjNzA0NGFmXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/q1VEGIvbSNZF5iga0n413x3FHHk.jpg",
     "details": {
+        "Stars": [
+            "Abbase Ba",
+            "Omar Seck",
+            "Nianga Diop"
+        ],
+        "Genres": [
+            "Drama",
+            "Family",
+            "Short"
+        ],
+        "Writer": [
+            "Rémi Mazet"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Dyana Gaye"
+        ],
         "Language": [
             "Wolof"
         ],
         "Release date": [
-            "June 8, 2006 (United States)"
+            "2006-05-07"
         ],
-        "Also known as": [
-            "Irgendwo in Afrika"
-        ],
-        "Filming locations": [
-            "Dakar, Senegal"
-        ],
-        "Countries of origin": [
-            "Senegal",
-            "France"
+        "Country of origin": [
+            "France",
+            "Senegal"
         ],
         "Production companies": [
             "Andolfi",
@@ -49,33 +95,44 @@
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0563259/",
-            "name": "Rémi Mazet"
+            "name": "Rémi Mazet",
+            "@type": "Person"
         }
     ],
     "duration": "PT15M",
     "keywords": [
-        "letter",
-        "santa claus",
-        "children"
+        "woman director"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1441432/",
-            "name": "Dyana Gaye"
+            "name": "Dyana Gaye",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0819793/",
     "metascore": null,
-    "imdb_votes": 54,
+    "imdb_votes": 55,
     "popularity": 0,
     "description": "Dakar, Senegal. Ousmane, a 7 year old child, begs in the streets. He decides to write a letter to Santa Claus.",
-    "imdb_rating": "7/10 from 54 users",
-    "release_date": [],
+    "imdb_rating": "6.9/10 from 55 users",
+    "release_date": [
+        {
+            "date": "2006-05-07",
+            "country": "Germany"
+        },
+        {
+            "date": "2006-06-08",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2006-06-08",
-    "imdb_rating_average": 7,
-    "update_at": "2025-09-07T21:21:07"
+    "datePublished": "2006-05-07",
+    "original_title": "Ousmane",
+    "imdb_rating_average": 6.9,
+    "update_at": "2026-10-31T16:42:24"
 }

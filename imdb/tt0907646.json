@@ -4,59 +4,73 @@
     "name": "Irony",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2522514/",
-            "name": "Trisha Lamie"
+            "name": "Trisha Lamie",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0135082/",
-            "name": "Michael Capellupo"
+            "name": "Michael Capellupo",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Trisha Lamie",
+            "Michael Capellupo"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Elaine Chang"
+        ],
+        "Runtime": [
+            "2 min"
+        ],
+        "Director": [
+            "Elaine Chang"
         ],
         "Release date": [
-            "November 18, 2006 (Canada)"
-        ],
-        "Country of origin": [
-            "Canada"
+            "2006"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2466043/",
-            "name": "Elaine Chang"
+            "name": "Elaine Chang",
+            "@type": "Person"
         }
     ],
     "duration": "PT2M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2466043/",
-            "name": "Elaine Chang"
+            "name": "Elaine Chang",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0907646/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "In this experimental short, a woman, a steam iron, and a wrinkled shirt collaborate and collide in an ironic parable of power, subordination and imposed uniformity.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2006-11-18",
+    "datePublished": "2006",
+    "original_title": "Irony",
     "imdb_rating_average": 0,
-    "update_at": "2025-04-19T06:52:32"
+    "update_at": "2026-11-01T01:35:27"
 }

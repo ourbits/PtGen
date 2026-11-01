@@ -13,58 +13,86 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1056659/",
-            "name": "John Oliver"
+            "name": "John Oliver",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000410/",
-            "name": "Stephen Fry"
+            "name": "Stephen Fry",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0443286/",
-            "name": "David Kaye"
+            "name": "David Kaye",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGU2YTEwOTMtZGNhZS00YzZlLWIwYjYtNDdlZDIwNWYzZjI1XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "John Oliver",
+            "Stephen Fry",
+            "David Kaye"
+        ],
+        "Genres": [
+            "Comedy",
+            "News",
+            "Talk-Show"
+        ],
+        "Writer": [
+            "Tim Carvell",
+            "Dan Gurewitch",
+            "Jeff Maurer"
+        ],
+        "Runtime": [
+            "29 min"
+        ],
+        "Director": [
+            "Paul Pennolino"
+        ],
         "Release date": [
-            "February 17, 2019 (United States)"
+            "2019"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1618214/",
-            "name": "Tim Carvell"
+            "name": "Tim Carvell",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2870284/",
-            "name": "Dan Gurewitch"
+            "name": "Dan Gurewitch",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm6905711/",
-            "name": "Jeff Maurer"
+            "name": "Jeff Maurer",
+            "@type": "Person"
         }
     ],
     "duration": "PT29M",
-    "keywords": [
-        "satire comedy"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2142199/",
-            "name": "Paul Pennolino"
+            "name": "Paul Pennolino",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt9314916/",
     "metascore": null,
-    "imdb_votes": 396,
+    "imdb_votes": 401,
     "popularity": 0,
-    "description": "The UK could officially leave the European Union next month, which would be a huge change with hugely damaging consequences.",
-    "imdb_rating": "8.4/10 from 396 users",
+    "description": null,
+    "imdb_rating": "8.4/10 from 401 users",
     "release_date": [],
-    "contentRating": "TV-MA",
-    "datePublished": "2019-02-17",
+    "contentRating": null,
+    "datePublished": "2019",
+    "original_title": "Brexit",
     "imdb_rating_average": 8.4,
-    "update_at": "2026-02-27T22:21:50"
+    "update_at": "2026-10-31T09:00:26"
 }

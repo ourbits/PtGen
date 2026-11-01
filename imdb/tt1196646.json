@@ -4,7 +4,7 @@
     "name": "Itan no natsu",
     "site": "imdb",
     "year": "2003",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Drama"
@@ -12,49 +12,99 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0913822/",
-            "name": "Ken Watanabe"
+            "name": "Ken Watanabe",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0590907/",
-            "name": "Kaho Minami"
+            "name": "Kaho Minami",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0766225/",
-            "name": "Kei Satô"
+            "name": "Kei Satō",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0557953/",
+            "name": "Tôru Masuoka",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0620171/",
+            "name": "Kumi Nakamura",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0014551/",
+            "name": "Kazuyuki Aijima",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0594467/",
+            "name": "Naoki Miyashita",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1277299/",
+            "name": "Ayumu Saitô",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0559444/",
+            "name": "Yôji Matsuda",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0654055/",
+            "name": "Shin'ya Ôwada",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Japanese"
+        "Stars": [
+            "Ken Watanabe",
+            "Kaho Minami",
+            "Kei Satō"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "Yoshinaga Fujita",
+            "Jiro Yoshikawa"
+        ],
+        "Director": [
+            "Shingo Matsubara"
         ],
         "Release date": [
-            "January 19, 2003 (Japan)"
-        ],
-        "Country of origin": [
-            "Japan"
+            "2003"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2464294/",
-            "name": "Yoshinaga Fujita"
+            "name": "Yoshinaga Fujita",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3456327/",
-            "name": "Jiro Yoshikawa"
+            "name": "Jiro Yoshikawa",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1224394/",
-            "name": "Shingo Matsubara"
+            "name": "Shingo Matsubara",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1196646/",
@@ -65,7 +115,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2003-01-19",
+    "datePublished": "2003",
+    "original_title": "Itan no natsu",
     "imdb_rating_average": 0,
-    "update_at": "2025-03-26T04:55:24"
+    "update_at": "2026-10-31T14:14:14"
 }

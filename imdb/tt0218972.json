@@ -5,57 +5,87 @@
     "site": "imdb",
     "year": "1995",
     "@type": "TVEpisode",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1579097/",
-            "name": "Anaïs Jeanneret"
+            "name": "Anaïs Jeanneret",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0308036/",
-            "name": "Jean-François Garreaud"
+            "name": "Jean-François Garreaud",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0927907/",
-            "name": "Aurélien Wiik"
+            "name": "Aurélien Wiik",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0442958/",
+            "name": "Ervan Kawczinski",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0547082/",
+            "name": "Louise-Laure Mariani",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0222088/",
+            "name": "Lorànt Deutsch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0664976/",
+            "name": "Stéphanie Pasterkamp",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjdiODM3NDMtNmQ1Ny00OGQ0LWIzMzMtOTBmNzY5MTcwMTUxXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Anaïs Jeanneret",
+            "Jean-François Garreaud",
+            "Aurélien Wiik"
+        ],
+        "Writer": [
+            "Georges Desmouceaux",
+            "Yvan Lopez"
+        ],
+        "Runtime": [
+            "84 min"
+        ],
+        "Director": [
+            "Miguel Courtois"
         ],
         "Release date": [
-            "September 20, 1995 (France)"
-        ],
-        "Country of origin": [
-            "France"
-        ],
-        "Production companies": [
-            "France 2 (FR2)",
-            "Image & Compagnie"
+            "1995"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0221497/",
-            "name": "Georges Desmouceaux"
+            "name": "Georges Desmouceaux",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0520232/",
-            "name": "Yvan Lopez"
+            "name": "Yvan Lopez",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H24M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0183984/",
-            "name": "Miguel Courtois"
+            "name": "Miguel Courtois",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0218972/",
@@ -66,7 +96,8 @@
     "imdb_rating": "6.6/10 from 9 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1995-09-20",
+    "datePublished": "1995",
+    "original_title": "Les faux-frères",
     "imdb_rating_average": 6.6,
-    "update_at": "2025-03-06T23:07:06"
+    "update_at": "2026-10-31T15:42:09"
 }

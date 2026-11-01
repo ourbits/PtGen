@@ -4,7 +4,7 @@
     "name": "Prince Lazure",
     "site": "imdb",
     "year": "1992",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Romance"
@@ -12,69 +12,124 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0276457/",
-            "name": "Patrick Fierry"
+            "name": "Patrick Fierry",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0350750/",
-            "name": "Mitsou"
+            "name": "Mitsou",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0074447/",
-            "name": "Jean Pierre Bergeron"
+            "name": "JP Bergeron",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0575611/",
+            "name": "Roberto Medile",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0128849/",
+            "name": "André Cailloux",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0683603/",
+            "name": "Donald Pilon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0108436/",
+            "name": "Dominique Briand",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0217581/",
+            "name": "Gerard Delmas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0033592/",
+            "name": "Jean Archambault",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1135412/",
+            "name": "Serge Bossac",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjJiMGFlMWMtODFkMy00ZWNiLTkwNzUtNjA5MDdlMGFjYzhkXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/jGr3EcK48XgBhfJJWaROnOFzTFu.jpg",
     "details": {
+        "Stars": [
+            "Patrick Fierry",
+            "Mitsou",
+            "JP Bergeron"
+        ],
+        "Genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "Writer": [
+            "Chantal Renaud"
+        ],
+        "Runtime": [
+            "79 min"
+        ],
+        "Director": [
+            "Danièle J. Suissa"
+        ],
         "Language": [
-            "English"
+            "French"
         ],
         "Release date": [
-            "March 18, 1992 (France)"
+            "1992-03-18"
         ],
-        "Filming locations": [
-            "Montreal, Québec, Canada"
-        ],
-        "Countries of origin": [
+        "Country of origin": [
             "Canada",
             "France"
-        ],
-        "Production companies": [
-            "3 Thèmes Inc.",
-            "Antenne 2 (A2)",
-            "Caméras Continentales"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0719206/",
-            "name": "Chantal Renaud"
+            "name": "Chantal Renaud",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H19M",
-    "keywords": [
-        "hypochondria",
-        "modern fairy tale",
-        "plot",
-        "millionaire",
-        "businessman"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0837657/",
-            "name": "Danièle J. Suissa"
+            "name": "Danièle J. Suissa",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0102712/",
     "metascore": null,
-    "imdb_votes": 42,
+    "imdb_votes": 47,
     "popularity": 0,
-    "description": "Un chef d&apos;entreprise hypocondriaque s&apos;attache à une jolie réceptionniste qui l&apos;aidera à s&apos;opposer farouchement aux louches manoeuvres d&apos;un cadre à l&apos;ambition démesurée.",
-    "imdb_rating": "4.4/10 from 42 users",
-    "release_date": [],
+    "description": "A hypochondriac business manager becomes attached to a pretty receptionist who will help him fiercely oppose the shady maneuvers of an executive with excessive ambition.",
+    "imdb_rating": "4.3/10 from 47 users",
+    "release_date": [
+        {
+            "date": "1992-07-03",
+            "country": "Canada"
+        },
+        {
+            "date": "1992-03-18",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1992-03-18",
-    "imdb_rating_average": 4.4,
-    "update_at": "2025-03-05T09:49:26"
+    "original_title": "Prince Lazure",
+    "imdb_rating_average": 4.3,
+    "update_at": "2026-10-31T23:28:15"
 }

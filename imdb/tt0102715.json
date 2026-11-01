@@ -4,7 +4,7 @@
     "name": "Prisoner of Honor",
     "site": "imdb",
     "year": "1991",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Biography",
         "Drama"
@@ -12,66 +12,137 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000377/",
-            "name": "Richard Dreyfuss"
+            "name": "Richard Dreyfuss",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001657/",
-            "name": "Oliver Reed"
+            "name": "Oliver Reed",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0278752/",
-            "name": "Peter Firth"
+            "name": "Peter Firth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0447305/",
+            "name": "Jeremy Kemp",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000306/",
+            "name": "Brian Blessed",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0891092/",
+            "name": "Peter Vaughan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0171829/",
+            "name": "Kenneth Colley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0624793/",
+            "name": "Catherine Neilson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000755/",
+            "name": "Lindsay Anderson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0039037/",
+            "name": "Christopher Ashley",
+            "@type": "Person"
         }
     ],
-    "critic": 10,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmM0YjA4MmQtMWQ5Zi00MTRjLTllZGItZDliZTEwZTEwYThhXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/pSCqyMQrSnmM4f4FUSl5leGCYIG.jpg",
     "details": {
+        "Stars": [
+            "Richard Dreyfuss",
+            "Oliver Reed",
+            "Peter Firth"
+        ],
+        "Genres": [
+            "Biography",
+            "Drama"
+        ],
+        "Writer": [
+            "Ron Hutchinson"
+        ],
+        "Runtime": [
+            "88 min"
+        ],
+        "Director": [
+            "Ken Russell"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 2, 1991 (United States)"
+            "1991-11-02"
         ],
-        "Also known as": [
-            "Presoners d'honor"
-        ],
-        "Countries of origin": [
-            "United Kingdom",
-            "United States"
+        "Country of origin": [
+            "United Kingdom"
         ],
         "Production companies": [
-            "Dreyfuss / James Productions",
             "Etude",
+            "Dreyfuss / James Productions",
             "Warner Bros. Television"
         ]
     },
-    "reviews": 6,
+    "reviews": 0,
+    "tagline": "As the battle raged, one man fought alone",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0404396/",
-            "name": "Ron Hutchinson"
+            "name": "Ron Hutchinson",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H28M",
     "keywords": [
+        "france",
+        "biography",
+        "antisemitism",
+        "government conspiracy",
         "dreyfus affair",
-        "anti semitism"
+        "19th century",
+        "state crimes",
+        "unjust conviction"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0001692/",
-            "name": "Ken Russell"
+            "name": "Ken Russell",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0102715/",
     "metascore": null,
-    "imdb_votes": 1433,
+    "imdb_votes": 1266,
     "popularity": 0,
-    "description": "An investigation into the conviction of a French Army Captain of treason leads a man into the deadliest of conspiracies that helped divide the people of France and set the stage for the First World War.",
-    "imdb_rating": "6.5/10 from 1433 users",
-    "release_date": [],
-    "contentRating": "PG",
+    "description": "France, 1897: Colonel Georges Picquart challenges the government when he discovers the obscure political maneuvers that leads to the imprisonment of the Jewish Captain Alfred Dreyfus after being convicted of espionage three years earlier.",
+    "imdb_rating": "6.5/10 from 1266 users",
+    "release_date": [
+        {
+            "date": "1999-05-10",
+            "country": "France"
+        },
+        {
+            "date": "1991-11-02",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1991-11-02",
+    "original_title": "Prisoner of Honor",
     "imdb_rating_average": 6.5,
-    "update_at": "2025-04-08T22:00:19"
+    "update_at": "2026-10-31T19:14:20"
 }
