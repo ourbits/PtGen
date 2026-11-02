@@ -3,69 +3,113 @@
     "sid": "tt0261882",
     "name": "Operation X-70",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1972",
+    "@type": "Short",
     "genre": [
         "Animation",
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Sci-Fi"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1277431/",
-            "name": "Arthur Sharr"
+            "name": "Arthur Sharr",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2246580/",
-            "name": "James Humphry"
+            "name": "James Humphry",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2245806/",
-            "name": "Leonard Cohen"
+            "name": "Leonard Cohen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2240826/",
+            "name": "Marvin Mordes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2267526/",
+            "name": "Albert Eric Kaufman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2219811/",
+            "name": "Eric Salminen",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjZjMTBhODAtNzk3Mi00YmFiLWIwZDItMWFlMDM2YWZiOGFiXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": null,
     "details": {
+        "Stars": [
+            "Arthur Sharr",
+            "James Humphry",
+            "Leonard Cohen"
+        ],
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "Writer": [
+            "Raoul Servais"
+        ],
+        "Runtime": [
+            "9 min"
+        ],
+        "Director": [
+            "Raoul Servais"
+        ],
         "Language": [
             "English"
+        ],
+        "Release date": [
+            "1972-05-04"
         ],
         "Country of origin": [
             "Belgium"
         ],
-        "Production company": [
+        "Production companies": [
             "Pen-Film"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0785773/",
-            "name": "Raoul Servais"
+            "name": "Raoul Servais",
+            "@type": "Person"
         }
     ],
     "duration": "PT9M",
-    "keywords": [
-        "dead mouse",
-        "killing a rat",
-        "racist remark",
-        "product presentation",
-        "dead body"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0785773/",
-            "name": "Raoul Servais"
+            "name": "Raoul Servais",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0261882/",
     "metascore": null,
-    "imdb_votes": 201,
+    "imdb_votes": 205,
     "popularity": 0,
-    "description": "The innocent country Nebelux is accidentally bombarded with the poison gas X-70, designed to keep Asiatics in a lethargic and euphoric state.",
-    "imdb_rating": "6.7/10 from 201 users",
-    "release_date": [],
+    "description": "A powerful nation has experimented with a new gas, which does not kill or injure the asphyxiated subjects, only puts them in a lethargic and mystical state.  X-70 gas bombs will be dropped by mistake over Nebelux and provoke an unexpected mutation of the population of this friendly little country. (miff.com.au)",
+    "imdb_rating": "6.7/10 from 205 users",
+    "release_date": [
+        {
+            "date": "1972-05-04",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1972-05-04",
+    "original_title": "Operation X-70",
     "imdb_rating_average": 6.7,
-    "update_at": "2025-09-22T07:07:08"
+    "update_at": "2026-11-01T17:14:34"
 }

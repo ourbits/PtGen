@@ -12,74 +12,133 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0029865/",
-            "name": "France Anglade"
+            "name": "France Anglade",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001120/",
-            "name": "Vittorio De Sica"
+            "name": "Vittorio De Sica",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0088396/",
-            "name": "Bernard Blier"
+            "name": "Bernard Blier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0233312/",
+            "name": "Karin Dor",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0350209/",
+            "name": "François Guérin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0002198/",
+            "name": "Charles Aznavour",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0016617/",
+            "name": "Giorgio Albertazzi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0160532/",
+            "name": "Françoise Christophe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0002085/",
+            "name": "Gert Fröbe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0108400/",
+            "name": "Jean-Claude Brialy",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTBmOWY0NmMtMDZmMC00ZDNkLTg3MDAtYzgwM2NjNzhhNDdmXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/d6TpEfuy6HWvDEQLPyd436l9BAt.jpg",
     "details": {
+        "Stars": [
+            "France Anglade",
+            "Vittorio De Sica",
+            "Bernard Blier"
+        ],
+        "Genres": [
+            "Drama",
+            "History"
+        ],
+        "Writer": [
+            "Jacques Laurent"
+        ],
+        "Runtime": [
+            "105 min"
+        ],
+        "Director": [
+            "Denys de La Patellière"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "January 18, 1968 (Italy)"
+            "1968-01-18"
         ],
-        "Also known as": [
-            "Dear Caroline"
-        ],
-        "Official sites": [
-            "distributor's official site for individuals - http://www.lcj-editions.com/films-/494-caroline-cherie-3550460030811.html",
-            "Distributor's official site for professionals - http://www.lcj-productions.com/catalogue/#01-catalogue-fr"
-        ],
-        "Countries of origin": [
-            "France",
+        "Country of origin": [
             "Italy",
-            "West Germany"
+            "France",
+            "Germany"
         ],
         "Production companies": [
-            "Movietime",
-            "Bercol Films",
-            "Chretien"
+            "Cineurop",
+            "Norddeutsche Filmproduktion"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0491240/",
-            "name": "Jacques Laurent"
+            "name": "Jacques Laurent",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H45M",
-    "keywords": [
-        "woman wrapped in a bedsheet",
-        "female star appears nude",
-        "teenage marriage",
-        "marriage proposal",
-        "noblewoman"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0478800/",
-            "name": "Denys de La Patellière"
+            "name": "Denys de La Patellière",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0061449/",
     "metascore": null,
-    "imdb_votes": 122,
+    "imdb_votes": 151,
     "popularity": 0,
-    "description": "In pre-Revolutionary France, 16-year-old Caroline is caught in a love triangle between her father&apos;s choice, politician Georges Berthier, and the man she loves, Gaston de Sallanches, as aristocrats revel while the French Revolution...",
-    "imdb_rating": "5.1/10 from 122 users",
-    "release_date": [],
-    "contentRating": "PG",
+    "description": "Against the backdrop of the French revolution, young Caroline tries to reunite with her first love, despite her arranged marriage to an older politician.",
+    "imdb_rating": "4.7/10 from 151 users",
+    "release_date": [
+        {
+            "date": "1968-03-22",
+            "country": "Germany"
+        },
+        {
+            "date": "1968-02-04",
+            "country": "France"
+        },
+        {
+            "date": "1968-01-18",
+            "country": "Italy"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1968-01-18",
-    "imdb_rating_average": 5.1,
-    "update_at": "2025-04-20T11:00:14"
+    "original_title": "Caroline chérie",
+    "imdb_rating_average": 4.7,
+    "update_at": "2026-11-01T09:28:07"
 }

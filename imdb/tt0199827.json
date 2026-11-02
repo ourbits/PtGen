@@ -3,6 +3,7 @@
     "sid": "tt0199827",
     "name": "Ninja Hunt",
     "site": "imdb",
+    "year": "1987",
     "@type": "Movie",
     "genre": [
         "Action"
@@ -10,68 +11,95 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0365835/",
-            "name": "Richard Harrison"
+            "name": "Richard Harrison",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0481699/",
+            "name": "Joseph Lai",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0810051/",
-            "name": "Stuart Smith"
+            "name": "Stuart Smith",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0061792/",
-            "name": "Godfrey Ho"
+            "name": "Godfrey Ho",
+            "@type": "Person"
         }
     ],
-    "critic": 6,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmUyNWMxNzQtMjcxNC00NTRjLTliNTktYTRmZTI4MDU2YTdhXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/ewxmfVF7axa6ixQbUSyy5Hin4eZ.jpg",
     "details": {
+        "Stars": [
+            "Richard Harrison",
+            "Joseph Lai",
+            "Stuart Smith"
+        ],
+        "Genres": [
+            "Action"
+        ],
+        "Writer": [
+            "Stephen So"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Joseph Lai",
+            "Godfrey Ho"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "1988 (West Germany)"
-        ],
-        "Country of origin": [
-            "Hong Kong"
-        ],
-        "Production companies": [
-            "The Cannon Group",
-            "IFD Films and Arts"
+            "1987-07-18"
         ]
     },
-    "reviews": 8,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1093416/",
-            "name": "Stephen So"
+            "name": "Stephen So",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        "old film edited with new ninja scenes",
-        "edited from movie",
-        "ninja",
-        "martial arts",
-        "combat"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0481699/",
-            "name": "Joseph Lai"
+            "name": "Joseph Lai",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0061792/",
-            "name": "Godfrey Ho"
+            "name": "Godfrey Ho",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0199827/",
     "metascore": null,
-    "imdb_votes": 116,
+    "imdb_votes": 124,
     "popularity": 0,
-    "description": "CIA Agent vs. ninjas in a battle for a chemical weapon.",
-    "imdb_rating": "4.3/10 from 116 users",
-    "release_date": [],
+    "description": "Gordon Anderson (CIA. Ninja. Ninja Hunter) must face his toughest challenge yet when King Ninja steals a top secret formula known as DAK10 that can activate the desire to kill...  Hong Kong cut and paste edit of the 1983 Taiwanese Film \"錯誤的腳步\" (The Wrong Steps) with new ninja scenes.",
+    "imdb_rating": "3.7/10 from 124 users",
+    "release_date": [
+        {
+            "date": "1988-01-01",
+            "country": "Germany"
+        },
+        {
+            "date": "1987-07-18",
+            "country": "Hong Kong"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 4.3,
-    "update_at": "2025-09-13T10:00:19"
+    "datePublished": "1987-07-18",
+    "original_title": "Ninja Hunt",
+    "imdb_rating_average": 3.7,
+    "update_at": "2026-11-01T06:21:07"
 }

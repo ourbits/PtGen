@@ -4,76 +4,91 @@
     "name": "For Lack of Evidence",
     "site": "imdb",
     "year": "1917",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Crime",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0551212/",
-            "name": "Tina Marshall"
+            "name": "Tina Marshall",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0549187/",
-            "name": "George Marlo"
+            "name": "George Marlo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0123679/",
-            "name": "Ned Burton"
+            "name": "Ned Burton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0054815/",
+            "name": "Adella Barker",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Stars": [
+            "Tina Marshall",
+            "George Marlo",
+            "Ned Burton"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "John C. Brownell",
+            "Hugh McNair Kahler"
+        ],
+        "Director": [
+            "Edwin Stevens"
         ],
         "Release date": [
-            "April 17, 1917 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Universal Film Manufacturing Company"
+            "1917"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0115115/",
-            "name": "John C. Brownell"
+            "name": "John C. Brownell",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0434748/",
-            "name": "Hugh McNair Kahler"
+            "name": "Hugh McNair Kahler",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "white slavery",
-        "new jersey",
-        "police",
-        "court"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0828381/",
-            "name": "Edwin Stevens"
+            "name": "Edwin Stevens",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0369431/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Martha Young, on trial for white slavery, is freed for &quot;lack of evidence.&quot; Sitting in the courtroom is a girl who seems more than ordinarily interested in the trial. A few days later the girl comes across Martha, apparently very i...",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1917-04-17",
+    "datePublished": "1917",
+    "original_title": "For Lack of Evidence",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-17T11:56:04"
+    "update_at": "2026-11-01T05:35:15"
 }

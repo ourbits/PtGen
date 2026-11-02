@@ -3,46 +3,50 @@
     "sid": "tt0985020",
     "name": "Your Own Front Door",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1980",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0709633/",
-            "name": "Leslie Randall"
+            "name": "Leslie Randall",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0746772/",
-            "name": "Patsy Rowlands"
+            "name": "Patsy Rowlands",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Leslie Randall",
+            "Patsy Rowlands"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Director": [
+            "Martin Benson"
         ],
         "Release date": [
-            "1980 (United Kingdom)"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Production company": [
-            "Abbey National PLC"
+            "1980"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2588382/",
-            "name": "Martin Benson"
+            "name": "Martin Benson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0985020/",
@@ -53,7 +57,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1980",
+    "original_title": "Your Own Front Door",
     "imdb_rating_average": 0,
-    "update_at": "2025-03-25T16:13:18"
+    "update_at": "2026-11-02T00:56:07"
 }

@@ -4,7 +4,7 @@
     "name": "Mata Hari",
     "site": "imdb",
     "year": "1981",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Biography",
         "Drama"
@@ -12,52 +12,108 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0198225/",
-            "name": "Josine van Dalsum"
+            "name": "Josine van Dalsum",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0904151/",
-            "name": "Siem Vroom"
+            "name": "Siem Vroom",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0856625/",
-            "name": "Jan Teulings"
+            "name": "Jan Teulings",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0378056/",
+            "name": "Lo van Hensbergen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0429563/",
+            "name": "Leen Jongewaard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0357545/",
+            "name": "Jules Hamel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0880723/",
+            "name": "Henk van Ulsen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0934646/",
+            "name": "Lies de Wind",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0095872/",
+            "name": "Maria de Booy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0436596/",
+            "name": "Piet Kamerman",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjdkMDM1MzEtNjFkNy00M2Q1LTk1YzQtNDVkMjBkNWEzNzA5XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": null,
     "details": {
-        "Language": [
-            "Dutch"
+        "Stars": [
+            "Josine van Dalsum",
+            "Siem Vroom",
+            "Jan Teulings"
+        ],
+        "Genres": [
+            "Biography",
+            "Drama"
+        ],
+        "Writer": [
+            "John van de Rest"
+        ],
+        "Runtime": [
+            "87 min"
+        ],
+        "Director": [
+            "John van de Rest"
         ],
         "Release date": [
-            "October 1, 1981 (Netherlands)"
-        ],
-        "Country of origin": [
-            "Netherlands"
-        ],
-        "Production company": [
-            "Katholieke Radio Omroep (KRO)"
+            "1981"
         ]
     },
-    "reviews": 1,
-    "creators": [],
-    "duration": null,
-    "keywords": [
-        "character name as series title",
-        "mata hari character",
-        "belly dancer",
-        "female nudity",
-        "tv mini series"
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0885989/",
+            "name": "John van de Rest",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT1H27M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0885989/",
+            "name": "John van de Rest",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1071257/",
     "metascore": null,
-    "imdb_votes": 32,
+    "imdb_votes": 34,
     "popularity": 0,
-    "description": "Exotic dancer Mata Hari is arrested on suspicion of treason. Before her trial she is questioned thoroughly reveals her life story from her childhood in Zeeland, her marriage in Indonesia and her success and espionage in France.",
-    "imdb_rating": "6.9/10 from 32 users",
+    "description": null,
+    "imdb_rating": "6.7/10 from 34 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1981-10-01",
-    "imdb_rating_average": 6.9,
-    "update_at": "2025-05-02T07:02:08"
+    "datePublished": "1981",
+    "original_title": "Mata Hari",
+    "imdb_rating_average": 6.7,
+    "update_at": "2026-11-02T01:21:29"
 }

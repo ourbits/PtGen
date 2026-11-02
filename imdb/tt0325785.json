@@ -5,31 +5,111 @@
     "site": "imdb",
     "year": "2002",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Comedy"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0075321/",
+            "name": "Christian Berkel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0768058/",
+            "name": "Andrea Sawatzki",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0471115/",
+            "name": "Walter Kreye",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0311766/",
+            "name": "Johanna-Christine Gehlen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0375506/",
+            "name": "Hannes Hellmann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0380761/",
+            "name": "Mathias Herrmann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0230667/",
+            "name": "Ingrit Dohse",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0304548/",
+            "name": "Albrecht Ganskopf",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1350435/",
+            "name": "Marko Gebbert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1352985/",
+            "name": "Hannah Jürss",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Christian Berkel",
+            "Andrea Sawatzki",
+            "Walter Kreye"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Hansjörg Thurn"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Erwin Keusch"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "September 24, 2002 (Germany)"
-        ],
-        "Also known as": [
-            "Mann ohne Werte"
+            "2002-09-24"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Production company": [
-            "Filmpool Film und Fernsehproduktion"
+        "Production companies": [
+            "Filmpool"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0862215/",
+            "name": "Hansjörg Thurn",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT1H30M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0450660/",
+            "name": "Erwin Keusch",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0325785/",
     "metascore": null,
@@ -37,9 +117,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "5.2/10 from 28 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2002-09-24",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2002-09-24",
+    "original_title": "Der Unbestechliche",
     "imdb_rating_average": 5.2,
-    "update_at": "2025-11-23T09:50:30"
+    "update_at": "2026-11-01T14:14:24"
 }

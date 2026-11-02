@@ -3,7 +3,8 @@
     "sid": "tt0414532",
     "name": "Son of Satan",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2004",
+    "@type": "Short",
     "genre": [
         "Animation",
         "Drama",
@@ -12,59 +13,85 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1686133/",
-            "name": "Tony Ortiz"
+            "name": "Tony Ortiz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1695126/",
-            "name": "John Svenzer"
+            "name": "John Svenzer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1628228/",
-            "name": "J.J. Villard"
+            "name": "J.J. Villard",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": null,
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/8Ca7SOLAVNTvOixVdk6NFPICxeo.jpg",
     "details": {
+        "Stars": [
+            "Tony Ortiz",
+            "John Svenzer",
+            "J.J. Villard"
+        ],
+        "Genres": [
+            "Animation",
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Charles Bukowski"
+        ],
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "J.J. Villard"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 2004 (United States)"
+            "2004-06-21"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "California Institute of the Arts"
+            "United States of America"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0001977/",
-            "name": "Charles Bukowski"
+            "name": "Charles Bukowski",
+            "@type": "Person"
         }
     ],
     "duration": "PT12M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1628228/",
-            "name": "J.J. Villard"
+            "name": "J.J. Villard",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0414532/",
     "metascore": null,
-    "imdb_votes": 28,
+    "imdb_votes": 31,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.1/10 from 28 users",
-    "release_date": [],
-    "contentRating": null,
-    "datePublished": null,
+    "description": "It’s not always easy when you are a kid. Bullying, cussing, growing up. It’s all a part of life. Adaptation of the Charles Bukowski story.",
+    "imdb_rating": "7.1/10 from 31 users",
+    "release_date": [
+        {
+            "date": "2004-06-21",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
+    "datePublished": "2004-06-21",
+    "original_title": "Son of Satan",
     "imdb_rating_average": 7.1,
-    "update_at": "2025-07-31T13:00:15"
+    "update_at": "2026-11-01T11:21:08"
 }

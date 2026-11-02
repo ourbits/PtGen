@@ -4,41 +4,63 @@
     "name": "Resolved Mysteries",
     "site": "imdb",
     "year": "2001",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm2908069/",
+            "name": "Karmin Cortes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2800446/",
+            "name": "Kyriakos Marudas",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Karmin Cortes",
+            "Kyriakos Marudas"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Director": [
+            "Rod Lopez"
         ],
         "Release date": [
-            "July 13, 2001 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Baltimore, Maryland, USA"
+            "2001"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": null,
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm2468242/",
+            "name": "Rod Lopez",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1177937/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Spoof of Unsolved Mysteries.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2001-07-13",
+    "datePublished": "2001",
+    "original_title": "Resolved Mysteries",
     "imdb_rating_average": 0,
-    "update_at": "2025-11-06T15:35:18"
+    "update_at": "2026-11-01T19:00:32"
 }

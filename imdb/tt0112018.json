@@ -1,10 +1,19 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "The Invaders - Invasion aus dem All",
+            "country": "Germany"
+        },
+        {
+            "title": "The Invaders: 20 Years Later",
+            "country": "United States of America"
+        }
+    ],
     "sid": "tt0112018",
     "name": "The Invaders",
     "site": "imdb",
     "year": "1995",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Sci-Fi",
         "Thriller"
@@ -12,61 +21,132 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000836/",
-            "name": "Scott Bakula"
+            "name": "Scott Bakula",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001615/",
-            "name": "Elizabeth Peña"
+            "name": "Elizabeth Peña",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001796/",
-            "name": "Richard Thomas"
+            "name": "Richard Thomas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0559993/",
+            "name": "DeLane Matthews",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0461679/",
+            "name": "Terence Knox",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0448620/",
+            "name": "Shannon Kenny",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0874232/",
+            "name": "Raoul Max Trujillo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001938/",
+            "name": "Richard Belzer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0947126/",
+            "name": "Mario Yedidia",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0858186/",
+            "name": "Roy Thinnes",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTk1NTQ0NTAyM15BMl5BanBnXkFtZTYwMjI4NzE5._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/zU8xdtYnwMllVRUHSE2BKxIMDYX.jpg",
     "details": {
-        "Languages": [
-            "English",
-            "Spanish"
+        "Stars": [
+            "Scott Bakula",
+            "Elizabeth Peña",
+            "Richard Thomas"
+        ],
+        "Genres": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "Writer": [
+            "Larry Cohen",
+            "James Dott"
+        ],
+        "Runtime": [
+            "148 min"
+        ],
+        "Director": [
+            "Paul Shapiro"
+        ],
+        "Language": [
+            "English"
         ],
         "Release date": [
-            "November 12, 1995 (United States)"
-        ],
-        "Also known as": [
-            "The New Invaders"
+            "1995-11-12"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Los Angeles Police Museum - 6045 York Blvd., Los Angeles, California, USA"
+            "United States of America"
         ],
         "Production companies": [
+            "Wilshire Court Productions",
             "Spelling Entertainment",
-            "Papazian-Hirsch Entertainment International",
-            "Wilshire Court Productions"
+            "Papazian-Hirsch Entertainment International"
         ]
     },
-    "reviews": 16,
-    "creators": [],
-    "duration": null,
+    "reviews": 0,
+    "tagline": "They are among us",
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0169540/",
+            "name": "Larry Cohen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0234574/",
+            "name": "James Dott",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT2H28M",
     "keywords": [
-        "tv mini series",
-        "failed television pilot",
-        "alien conspiracy",
-        "unlikely hero",
-        "sequel"
+        "alien invasion"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0788610/",
+            "name": "Paul Shapiro",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0112018/",
     "metascore": null,
-    "imdb_votes": 539,
+    "imdb_votes": 570,
     "popularity": 0,
-    "description": "A man named Nolan Wood tries to stop an invasion of Earth by aliens disguised as humans.",
-    "imdb_rating": "5/10 from 539 users",
-    "release_date": [],
+    "description": "Nolan Wood is a pilot who uncovers a plot to promote the ecological destruction of Earth in order to pave the way for alien colonization. Now, with the help of a dedicated, open-minded doctor, Wood embarks on a desperate race to convince authorities of this conspiracy - while staying one step ahead of his alien pursuer - in this cautionary tale.",
+    "imdb_rating": "5.0/10 from 570 users",
+    "release_date": [
+        {
+            "date": "1995-11-12",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1995-11-12",
-    "imdb_rating_average": 5,
-    "update_at": "2025-10-05T09:14:12"
+    "original_title": "The Invaders",
+    "imdb_rating_average": 5.0,
+    "update_at": "2026-11-01T11:42:34"
 }

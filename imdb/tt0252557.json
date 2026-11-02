@@ -1,65 +1,153 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Jacques le fataliste et son maître",
+            "country": "France"
+        }
+    ],
     "sid": "tt0252557",
     "name": "Jacques le fataliste et son maître",
     "site": "imdb",
     "year": "1984",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [
+        "Drama"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0156228/",
-            "name": "Patrick Chesnais"
+            "name": "Patrick Chesnais",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0874559/",
-            "name": "Guy Tréjan"
+            "name": "Guy Tréjan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0673749/",
-            "name": "François Périer"
+            "name": "François Périer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0899403/",
+            "name": "Henri Virlojeux",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0296594/",
+            "name": "Catherine Frot",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0703302/",
+            "name": "Rosette",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0317957/",
+            "name": "Arlette Gilbert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0759826/",
+            "name": "Catherine Samie",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0745959/",
+            "name": "Marie Rousseau",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0719761/",
+            "name": "Magali Renoir",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWFiN2E2YjMtYWFhMy00OTVkLWEzMzktZTAwYTAwMzFmYjRkXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/cCrTenbeGvD6wMaq3IcN05o5BXq.jpg",
     "details": {
+        "Stars": [
+            "Patrick Chesnais",
+            "Guy Tréjan",
+            "François Périer"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Denis Diderot"
+        ],
+        "Director": [
+            "Claude Santelli"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "December 19, 1984 (France)"
+            "1984-12-19"
         ],
-        "Country of origin": [
-            "France"
+        "Production companies": [
+            "Antenne 2"
         ]
     },
     "reviews": 0,
+    "tagline": "Jacques and his master travel through the countryside, encountering various adventures. Along the way, Jacques tells how he met Denise after the Battle of Fontenoy.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0225784/",
-            "name": "Denis Diderot"
+            "name": "Denis Diderot",
+            "@type": "Person"
         }
     ],
-    "duration": null,
+    "duration": "PT2H9M",
     "keywords": [
-        "based on novel",
-        "character name in title"
+        "literary adaptation",
+        "road story",
+        "metafiction",
+        "french literature",
+        "english subtitles",
+        "french cinema",
+        "jacques le fataliste et son maître",
+        "jacques the fatalist and his master",
+        "claude santelli",
+        "denis diderot",
+        "patrick chesnais",
+        "guy tréjan",
+        "françois périer",
+        "french television film",
+        "television adaptation",
+        "diderot adaptation",
+        "philosophical comedy",
+        "french television",
+        "antenne 2",
+        "sfp",
+        "1984 film",
+        "18th century literature"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0763464/",
-            "name": "Claude Santelli"
+            "name": "Claude Santelli",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0252557/",
     "metascore": null,
-    "imdb_votes": 0,
+    "imdb_votes": 9,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "description": "Jacques (Patrick Chesnais) and his master (Guy Tréjan) ride through the countryside on a mysterious journey punctuated by adventures, according to the people they encounter and the inns that receive them along the way. At the same time, Jacques tells his master how he came to know the beautiful Denise (Marie-Christine Rousseau), following the many twists of chance that occurred after the episode of the Battle of Fontenoy.",
+    "imdb_rating": "7.3/10 from 9 users",
+    "release_date": [
+        {
+            "date": "1984-12-19",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1984-12-19",
-    "imdb_rating_average": 0,
-    "update_at": "2026-03-23T12:22:10"
+    "original_title": "Jacques le fataliste et son maître",
+    "imdb_rating_average": 7.3,
+    "update_at": "2026-11-01T16:49:26"
 }

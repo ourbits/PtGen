@@ -4,67 +4,134 @@
     "name": "Lente",
     "site": "imdb",
     "year": "1983",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0082388/",
-            "name": "Lydia Billiet"
+            "name": "Lydia Billiet",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1024025/",
-            "name": "Johan Bral"
+            "name": "Johan Bral",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1275029/",
-            "name": "Rose Calmeyn"
+            "name": "Rose Calmeyn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0180163/",
+            "name": "Walter Cornelis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0210313/",
+            "name": "Jo De Meyere",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0212392/",
+            "name": "Roger De Wilde",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0374637/",
+            "name": "Blanka Heirman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0501081/",
+            "name": "Dolf Lemaitre",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0726801/",
+            "name": "Cecile Rigolle",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0862339/",
+            "name": "Chris Thys",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/fZjXvinrKY0leVRrDIiJ0UrAkML.jpg",
     "details": {
+        "Stars": [
+            "Lydia Billiet",
+            "Johan Bral",
+            "Rose Calmeyn"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Cyriel Buysse",
+            "Rudy Geldhof"
+        ],
+        "Runtime": [
+            "55 min"
+        ],
+        "Director": [
+            "Dré Poppe"
+        ],
         "Language": [
             "Dutch"
         ],
         "Release date": [
-            "January 16, 1983 (Belgium)"
+            "1983-01-16"
         ],
         "Country of origin": [
             "Belgium"
+        ],
+        "Production companies": [
+            "Belgische Radio en Televisie"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0125571/",
-            "name": "Cyriel Buysse"
+            "name": "Cyriel Buysse",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0312260/",
-            "name": "Rudy Geldhof"
+            "name": "Rudy Geldhof",
+            "@type": "Person"
         }
     ],
     "duration": "PT55M",
-    "keywords": [
-        "based on book"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0691545/",
-            "name": "Dré Poppe"
+            "name": "Dré Poppe",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0253208/",
     "metascore": null,
     "imdb_votes": 7,
     "popularity": 0,
-    "description": null,
+    "description": "Leontientje, the Parisian niece of an East Flemish farming family, comes to stay. Aunt Zeunia is dying and has asked for her. Her visit completely disrupts life on the farm. The men fight for her attention, and the city girl is delighted by every bit of nature: 'Comme c'est beau!'. Her Parisian manners—two kisses for everyone—drive the farmer's wife up the wall: \"All that fuss!\" But the youngest farmer starts dreaming...",
     "imdb_rating": "6.4/10 from 7 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1983-01-16",
+            "country": "Belgium"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1983-01-16",
+    "original_title": "Lente",
     "imdb_rating_average": 6.4,
-    "update_at": "2025-09-28T06:13:27"
+    "update_at": "2026-11-01T20:00:38"
 }

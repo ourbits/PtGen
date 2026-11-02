@@ -3,60 +3,83 @@
     "sid": "tt6278040",
     "name": "Tight Embrace",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2017",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0158988/",
-            "name": "Michael Chomiak"
+            "name": "Michael Chomiak",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm8607609/",
-            "name": "Colin Eaton"
+            "name": "Colin Eaton",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0333702/",
-            "name": "David Alan Graf"
+            "name": "David Alan Graf",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8068976/",
+            "name": "Stephen Moran",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5524254/",
+            "name": "Kimberlee Oren",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Michael Chomiak",
+            "Colin Eaton",
+            "David Alan Graf"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Kunlin Wang",
+            "Oliver Wong"
+        ],
+        "Director": [
+            "Kunlin Wang"
         ],
         "Release date": [
-            "2017 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Chapman University"
+            "2017"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm7731263/",
-            "name": "Kunlin Wang"
+            "name": "Kunlin Wang",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm8498530/",
-            "name": "Oliver Wong"
+            "name": "Oliver Wong",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm7731263/",
-            "name": "Kunlin Wang"
+            "name": "Kunlin Wang",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt6278040/",
@@ -67,7 +90,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2017",
+    "original_title": "Tight Embrace",
     "imdb_rating_average": 0,
-    "update_at": "2026-05-21T11:35:24"
+    "update_at": "2026-11-01T09:21:17"
 }

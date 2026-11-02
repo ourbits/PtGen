@@ -12,28 +12,82 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0201833/",
-            "name": "René Dary"
+            "name": "René Dary",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0014656/",
-            "name": "Raymond Aimos"
+            "name": "Raymond Aimos",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0138987/",
-            "name": "Martine Carol"
+            "name": "Martine Carol",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0223005/",
+            "name": "Arthur Devère",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0558936/",
+            "name": "Milly Mathis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0535576/",
+            "name": "Julien Maffre",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0078242/",
+            "name": "Jean Berton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0765022/",
+            "name": "Fernand Sardou",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0260195/",
+            "name": "Maurice Escande",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0096404/",
+            "name": "Ariane Borg",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzYzYjg2NjQtYmI3OS00OWVjLTgwNTktOTEwMDllOGUwNGM5XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/wJwwJPcmxRv2HhXNVrvIKYNWwqm.jpg",
     "details": {
+        "Stars": [
+            "René Dary",
+            "Raymond Aimos",
+            "Martine Carol"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "Writer": [
+            "André-Paul Antoine",
+            "Louis Poterat"
+        ],
+        "Runtime": [
+            "102 min"
+        ],
+        "Director": [
+            "Maurice Cam"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "August 29, 1945 (France)"
-        ],
-        "Also known as": [
-            "Dyo psyhes sto skotadi"
+            "1945-08-29"
         ],
         "Country of origin": [
             "France"
@@ -43,36 +97,48 @@
             "S.B. Films"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0031135/",
-            "name": "André-Paul Antoine"
+            "name": "André-Paul Antoine",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0693076/",
-            "name": "Louis Poterat"
+            "name": "Louis Poterat",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H42M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0131051/",
-            "name": "Maurice Cam"
+            "name": "Maurice Cam",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0191007/",
     "metascore": null,
-    "imdb_votes": 22,
+    "imdb_votes": 26,
     "popularity": 0,
     "description": "Two hitch-hikers are on the way to Marseilles pursued by her husband.",
-    "imdb_rating": "7.2/10 from 22 users",
-    "release_date": [],
+    "imdb_rating": "6.5/10 from 26 users",
+    "release_date": [
+        {
+            "date": "1946-12-30",
+            "country": "Austria"
+        },
+        {
+            "date": "1945-08-29",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1945-08-29",
-    "imdb_rating_average": 7.2,
-    "update_at": "2026-05-25T13:35:48"
+    "original_title": "Bifur 3",
+    "imdb_rating_average": 6.5,
+    "update_at": "2026-11-01T08:07:31"
 }

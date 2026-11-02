@@ -4,73 +4,96 @@
     "name": "Eines langen Tages Reise in die Nacht",
     "site": "imdb",
     "year": "1973",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0374919/",
-            "name": "Martin Held"
+            "name": "Martin Held",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0776453/",
-            "name": "Eva Katharina Schultz"
+            "name": "Eva Katharina Schultz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0294842/",
-            "name": "András Fricsay Kali Son"
+            "name": "András Fricsay Kali Son",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0126993/",
+            "name": "Gerd Böckmann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0901882/",
+            "name": "Gwendolyn von Ambesser",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Martin Held",
+            "Eva Katharina Schultz",
+            "András Fricsay Kali Son"
+        ],
+        "Writer": [
+            "Eugene O'Neill",
+            "Ursula Schuh",
+            "Oscar Fritz Schuh"
+        ],
+        "Runtime": [
+            "125 min"
+        ],
+        "Director": [
+            "Peter Beauvais"
         ],
         "Release date": [
-            "April 20, 1973 (West Germany)"
-        ],
-        "Country of origin": [
-            "West Germany"
-        ],
-        "Production company": [
-            "Hessischer Rundfunk (HR)"
+            "1973"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0642156/",
-            "name": "Eugene O&apos;Neill"
+            "name": "Eugene O'Neill",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1182402/",
-            "name": "Ursula Schuh"
+            "name": "Ursula Schuh",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1288502/",
-            "name": "Oscar Fritz Schuh"
+            "name": "Oscar Fritz Schuh",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H5M",
-    "keywords": [
-        "foreign language adaptation",
-        "based on play"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0064723/",
-            "name": "Peter Beauvais"
+            "name": "Peter Beauvais",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0311418/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Over the course of one day in August 1912, the family of retired actor James Tyrone grapples with the morphine addiction of his wife Mary, the illness of their youngest son Edmund and the alcoholism and debauchery of their older s...",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1973-04-20",
+    "datePublished": "1973",
+    "original_title": "Eines langen Tages Reise in die Nacht",
     "imdb_rating_average": 0,
-    "update_at": "2025-03-31T16:16:13"
+    "update_at": "2026-11-01T18:00:37"
 }

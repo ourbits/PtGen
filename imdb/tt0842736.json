@@ -4,66 +4,128 @@
     "name": "Gutgehendes Geschäft zu verkaufen",
     "site": "imdb",
     "year": "1933",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0066941/",
-            "name": "Ernst Behmer"
+            "name": "Ernst Behmer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2262087/",
-            "name": "Charlotte Berlow"
+            "name": "Charlotte Berlow",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0469119/",
-            "name": "Charlie Kracker"
+            "name": "Charlie Kracker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0003586/",
+            "name": "Theo Lingen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0769738/",
+            "name": "Willi Schaeffers",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0845575/",
+            "name": "Senta Söneland",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0894204/",
+            "name": "Paul Verhoeven",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0902716/",
+            "name": "Beate von Molo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0902980/",
+            "name": "Wolfgang von Schwindt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2349878/",
+            "name": "Erich Weiland",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Ernst Behmer",
+            "Charlotte Berlow",
+            "Charlie Kracker"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "H.W. Becker"
+        ],
+        "Runtime": [
+            "23 min"
+        ],
+        "Director": [
+            "H.W. Becker"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "September 11, 1933 (Germany)"
+            "1933-10-11"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Production company": [
+        "Production companies": [
             "Prickler-Film"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0065425/",
-            "name": "H.W. Becker"
+            "name": "H.W. Becker",
+            "@type": "Person"
         }
     ],
     "duration": "PT23M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0065425/",
-            "name": "H.W. Becker"
+            "name": "H.W. Becker",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0842736/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "Short film about a fortune teller.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1933-10-11",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1933-09-11",
+    "datePublished": "1933-10-11",
+    "original_title": "Gutgehendes Geschäft zu verkaufen",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-01T13:35:28"
+    "update_at": "2026-11-01T18:07:20"
 }

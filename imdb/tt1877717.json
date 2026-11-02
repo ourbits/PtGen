@@ -4,31 +4,106 @@
     "name": "Märztage in Berlin",
     "site": "imdb",
     "year": "1987",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "History"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0251468/",
+            "name": "Kaspar Eichel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0351663/",
+            "name": "Gert Gütschow",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0373752/",
+            "name": "Hans-Joachim Hegewald",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0517939/",
+            "name": "Wolfgang Lohse",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0659022/",
+            "name": "Michael Pan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0659579/",
+            "name": "Jörg Panknin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0684797/",
+            "name": "Klaus Piontek",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0770884/",
+            "name": "Frank-Otto Schenk",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0774218/",
+            "name": "Barbara Schnitzler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0775022/",
+            "name": "Gunter Schoß",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Kaspar Eichel",
+            "Gert Gütschow",
+            "Hans-Joachim Hegewald"
+        ],
+        "Genres": [
+            "History"
+        ],
+        "Writer": [
+            "Hans Bentzien"
+        ],
+        "Runtime": [
+            "80 min"
+        ],
+        "Director": [
+            "Michael Knof"
         ],
         "Release date": [
-            "March 17, 1987 (East Germany)"
+            "1987-03-17"
         ],
         "Country of origin": [
-            "East Germany"
-        ],
-        "Production company": [
-            "Fernsehen der DDR"
+            "Germany"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm2658071/",
+            "name": "Hans Bentzien",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT1H20M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0461282/",
+            "name": "Michael Knof",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1877717/",
     "metascore": null,
@@ -36,9 +111,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1987-03-17",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1987-03-17",
+    "original_title": "Märztage in Berlin",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-31T08:21:51"
+    "update_at": "2026-11-01T02:21:07"
 }

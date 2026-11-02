@@ -5,25 +5,50 @@
     "site": "imdb",
     "year": "2005",
     "@type": "TVSeries",
-    "genre": null,
+    "genre": [],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0897668/",
+            "name": "Rosa Villacastín",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1840607/",
+            "name": "Olga Marset",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4193371/",
+            "name": "Omar Suárez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2068576/",
+            "name": "Lucía Riaño",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Spanish"
+        "Stars": [
+            "Rosa Villacastín",
+            "Olga Marset",
+            "Omar Suárez"
+        ],
+        "Runtime": [
+            "90 min"
         ],
         "Release date": [
-            "January 12, 2005 (Spain)"
-        ],
-        "Country of origin": [
-            "Spain"
+            "2005"
         ]
     },
     "reviews": 0,
-    "duration": null,
-    "keywords": [
-        ""
-    ],
+    "tagline": null,
+    "creators": [],
+    "duration": "PT1H30M",
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt0444749/",
     "metascore": null,
     "imdb_votes": 0,
@@ -32,7 +57,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2005-01-12",
+    "datePublished": "2005",
+    "original_title": "La vida es rosa",
     "imdb_rating_average": 0,
-    "update_at": "2025-11-03T08:14:12"
+    "update_at": "2026-11-01T04:21:07"
 }

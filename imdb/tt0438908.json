@@ -4,7 +4,7 @@
     "name": "Malos habitos",
     "site": "imdb",
     "year": "2002",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Drama",
         "Short"
@@ -12,60 +12,83 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0010157/",
-            "name": "Alpha Acosta"
+            "name": "Alpha Acosta",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0261886/",
-            "name": "Alberto Estrella"
+            "name": "Alberto Estrella",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/yT2qMEQz2RHNw7uSmDCKDTrgrqs.jpg",
     "details": {
+        "Stars": [
+            "Alpha Acosta",
+            "Alberto Estrella"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Tony Wakefield"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "Tony Wakefield"
+        ],
         "Language": [
             "Spanish"
         ],
         "Release date": [
-            "December 7, 2002 (Slovakia)"
+            "2002-01-01"
         ],
         "Country of origin": [
             "Mexico"
         ],
-        "Filming locations": [
-            "Mexico"
-        ],
         "Production companies": [
-            "Andromeda Films",
-            "Instituto Mexicano de Cinematografía (IMCINE)"
+            "Instituto Mexicano de Cinematografía"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1104012/",
-            "name": "Tony Wakefield"
+            "name": "Tony Wakefield",
+            "@type": "Person"
         }
     ],
     "duration": "PT10M",
     "keywords": [
-        "male nudity",
-        "male rear nudity"
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1104012/",
-            "name": "Tony Wakefield"
+            "name": "Tony Wakefield",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0438908/",
     "metascore": null,
     "imdb_votes": 6,
     "popularity": 0,
-    "description": null,
+    "description": "A couple makes love. Nothing seems to be up. Yet they feel guilty... Then we find out why.",
     "imdb_rating": "5.8/10 from 6 users",
-    "release_date": [],
-    "contentRating": "R",
-    "datePublished": "2002-12-07",
+    "release_date": [
+        {
+            "date": "2002-01-01",
+            "country": "Mexico"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2002-01-01",
+    "original_title": "Malos habitos",
     "imdb_rating_average": 5.8,
-    "update_at": "2025-03-25T22:13:27"
+    "update_at": "2026-11-01T10:28:52"
 }

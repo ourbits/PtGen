@@ -6,82 +6,134 @@
     "year": "1923",
     "@type": "Movie",
     "genre": [
+        "Drama",
         "Western"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0363218/",
-            "name": "Kenneth Harlan"
+            "name": "Kenneth Harlan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0896538/",
-            "name": "Florence Vidor"
+            "name": "Florence Vidor",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0801193/",
-            "name": "Russell Simpson"
+            "name": "Russell Simpson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0641776/",
+            "name": "Pat O'Malley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0369058/",
+            "name": "Raymond Hatton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0743704/",
+            "name": "Milton Ross",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0021025/",
+            "name": "Sam Allen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0352873/",
+            "name": "Bert Hadley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0303780/",
+            "name": "Fred Gamble",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0424704/",
+            "name": "Cammilla Johnson",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGI2OWE5NDctY2FlOC00N2QwLWI0ZDYtMThlN2IyMzk3ZWIyXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/w3I9T3AJw5aiqVUbrualPT9h68j.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Kenneth Harlan",
+            "Florence Vidor",
+            "Russell Simpson"
+        ],
+        "Genres": [
+            "Drama",
+            "Western"
+        ],
+        "Writer": [
+            "Kirk La Shelle",
+            "Louis D. Lighton",
+            "Hope Loring"
+        ],
+        "Runtime": [
+            "80 min"
+        ],
+        "Director": [
+            "Tom Forman"
         ],
         "Release date": [
-            "September 30, 1923 (United States)"
-        ],
-        "Also known as": [
-            "De schrik der veedieven"
+            "1923-09-29"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Lone Pine, California, USA"
-        ],
-        "Production company": [
-            "B.P. Schulberg Productions"
+            "United States of America"
         ]
     },
-    "reviews": 5,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0479052/",
-            "name": "Kirk La Shelle"
+            "name": "Kirk La Shelle",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0510024/",
-            "name": "Louis D. Lighton"
+            "name": "Louis D. Lighton",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0521002/",
-            "name": "Hope Loring"
+            "name": "Hope Loring",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H20M",
-    "keywords": [
-        "the virginian character",
-        "male protagonist",
-        "cowboy",
-        "remade",
-        "based on play"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0286379/",
-            "name": "Tom Forman"
+            "name": "Tom Forman",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0014582/",
     "metascore": null,
-    "imdb_votes": 69,
+    "imdb_votes": 75,
     "popularity": 0,
-    "description": "Molly Wood arrives in a small Western town to be the new schoolmarm. The Virginian, foreman on a local ranch, takes a shine to her, and vows that he will make her love him. The Virginian&apos;s best friend Steve falls in with bad guys ...",
-    "imdb_rating": "6.2/10 from 69 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
-    "datePublished": "1923-09-30",
-    "imdb_rating_average": 6.2,
-    "update_at": "2026-04-18T18:00:48"
+    "description": "Molly Wood arrives in a small western town to be the new schoolmarm. The Virginian, foreman on a local ranch, takes a shine to her, and vows that he will make her love him. The Virginian's best friend, Steve, falls in with bad guys led by Trampas. The Virginian catches them cattle rustling. As foreman, he must give the order to hang his friend. Trampas gets away and shoots the Virginian in the back. Molly nurses him to health, and falls in love with him. They plan to marry, but on their wedding day Trampas returns, looking for trouble.",
+    "imdb_rating": "6.1/10 from 75 users",
+    "release_date": [
+        {
+            "date": "1923-09-29",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1923-09-29",
+    "original_title": "The Virginian",
+    "imdb_rating_average": 6.1,
+    "update_at": "2026-11-01T21:35:21"
 }

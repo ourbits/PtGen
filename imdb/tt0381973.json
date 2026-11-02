@@ -4,7 +4,7 @@
     "name": "Dag 1",
     "site": "imdb",
     "year": "1997",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Sci-Fi",
         "Short",
@@ -13,57 +13,102 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0175758/",
-            "name": "Kåre Conradi"
+            "name": "Kåre Conradi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0282463/",
-            "name": "Bjørn Floberg"
+            "name": "Bjørn Floberg",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0744673/",
-            "name": "Alex Rosén"
+            "name": "Alex Rosén",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0894513/",
+            "name": "Line Verndal",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/o81hZkkqQWj9pN3VOR7RJInvRDe.jpg",
     "details": {
+        "Stars": [
+            "Kåre Conradi",
+            "Bjørn Floberg",
+            "Alex Rosén"
+        ],
+        "Genres": [
+            "Sci-Fi",
+            "Short",
+            "Thriller"
+        ],
+        "Writer": [
+            "Joachim Rønning",
+            "Espen Sandberg"
+        ],
+        "Runtime": [
+            "22 min"
+        ],
+        "Director": [
+            "Joachim Rønning",
+            "Espen Sandberg"
+        ],
         "Language": [
             "Norwegian"
         ],
         "Release date": [
-            "June 12, 1997 (Norway)"
+            "1997-06-12"
         ],
         "Country of origin": [
             "Norway"
-        ],
-        "Filming locations": [
-            "Oslo, Norway"
         ]
     },
     "reviews": 0,
-    "duration": "PT22M",
-    "keywords": [
-        ""
-    ],
-    "directors": [
+    "tagline": null,
+    "creators": [
         {
             "url": "https://www.imdb.com/name/nm1461392/",
-            "name": "Joachim Rønning"
+            "name": "Joachim Rønning",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1650283/",
-            "name": "Espen Sandberg"
+            "name": "Espen Sandberg",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT22M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm1461392/",
+            "name": "Joachim Rønning",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1650283/",
+            "name": "Espen Sandberg",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0381973/",
     "metascore": null,
-    "imdb_votes": 29,
+    "imdb_votes": 30,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "4/10 from 29 users",
-    "release_date": [],
+    "description": "The city must be evacuated. Everything is going to hell. But a man is on his way to town. He's going to a job interview, he's nervous and repeats over and over to himself: \"Sorry I'm late... Sorry I'm late.\"",
+    "imdb_rating": "4.2/10 from 30 users",
+    "release_date": [
+        {
+            "date": "1997-06-12",
+            "country": "Norway"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1997-06-12",
-    "imdb_rating_average": 4,
-    "update_at": "2025-09-21T21:42:26"
+    "original_title": "Dag 1",
+    "imdb_rating_average": 4.2,
+    "update_at": "2026-11-01T09:42:09"
 }

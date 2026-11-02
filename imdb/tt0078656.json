@@ -5,52 +5,140 @@
     "site": "imdb",
     "year": "1979",
     "@type": "TVSeries",
-    "genre": null,
+    "genre": [
+        "Family"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0781356/",
-            "name": "Walter Sedlmayr"
+            "name": "Walter Sedlmayr",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0280138/",
-            "name": "Veronika Fitz"
+            "name": "Veronika Fitz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0062370/",
-            "name": "Monika Baumgartner"
+            "name": "Monika Baumgartner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0038334/",
+            "name": "Werner Asam",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0921201/",
+            "name": "Elmar Wepper",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0322495/",
+            "name": "Reinhard Glemnitz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0463219/",
+            "name": "Irene Kohl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0093141/",
+            "name": "Jo Bolling",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0264523/",
+            "name": "Veronika Faber",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0104960/",
+            "name": "Marianne Brandt",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzNlNTU0OGQtZGRlYS00M2ZhLTk0Y2ItY2YzZDYzYTQxNDZlXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/uRa17AuqBeFLamuVL8YXv1q3Qqi.jpg",
     "details": {
+        "Stars": [
+            "Walter Sedlmayr",
+            "Veronika Fitz",
+            "Monika Baumgartner"
+        ],
+        "Genres": [
+            "Family"
+        ],
+        "Writer": [
+            "Franz Geiger",
+            "Helmut Pigge",
+            "Peter Weissflog"
+        ],
+        "Runtime": [
+            "45 min"
+        ],
+        "Director": [
+            "Georg Tressler",
+            "Peter Weissflog"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "October 18, 1979 (West Germany)"
+            "1979-10-18"
         ],
         "Country of origin": [
             "Germany"
         ]
     },
     "reviews": 0,
-    "duration": null,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0311903/",
+            "name": "Franz Geiger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0679521/",
+            "name": "Helmut Pigge",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0919262/",
+            "name": "Peter Weissflog",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT45M",
     "keywords": [
-        "money",
-        "speculation",
-        "real estate deal",
-        "agriculture",
-        "real estate speculation"
+        "farmer",
+        "culture"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0872274/",
+            "name": "Georg Tressler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0919262/",
+            "name": "Peter Weissflog",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0078656/",
     "metascore": null,
-    "imdb_votes": 27,
+    "imdb_votes": 29,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.1/10 from 27 users",
+    "description": "Der Millionenbauer is a German television series.",
+    "imdb_rating": "7.1/10 from 29 users",
     "release_date": [],
     "contentRating": null,
     "datePublished": "1979-10-18",
+    "original_title": "Der Millionenbauer",
     "imdb_rating_average": 7.1,
-    "update_at": "2025-07-29T18:07:25"
+    "update_at": "2026-11-01T05:07:17"
 }

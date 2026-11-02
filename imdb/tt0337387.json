@@ -4,54 +4,100 @@
     "name": "Vassa Geleznova",
     "site": "imdb",
     "year": "1972",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0890248/",
-            "name": "Rosy Varte"
+            "name": "Rosy Varte",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0004625/",
-            "name": "Daniel Gélin"
+            "name": "Daniel Gélin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0458917/",
-            "name": "Nita Klein"
+            "name": "Nita Klein",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0307849/",
+            "name": "Edith Garnier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0713119/",
+            "name": "Maud Rayer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0520920/",
+            "name": "Edith Loria",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0353848/",
+            "name": "Florence Haguenauer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0004059/",
+            "name": "Yvon Sarray",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0022080/",
+            "name": "René Alone",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1058802/",
+            "name": "Christian Le Guillochet",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWU3ZjBkYWQtY2IxNS00YWI1LThlM2ItMzNiMzUxYzc2NDU5XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Rosy Varte",
+            "Daniel Gélin",
+            "Nita Klein"
+        ],
+        "Writer": [
+            "Arthur Adamov",
+            "Maxim Gorky"
+        ],
+        "Director": [
+            "Pierre Badel"
         ],
         "Release date": [
-            "February 26, 1972 (France)"
-        ],
-        "Country of origin": [
-            "France"
+            "1972"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0010683/",
-            "name": "Arthur Adamov"
+            "name": "Arthur Adamov",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0331003/",
-            "name": "Maxim Gorky"
+            "name": "Maxim Gorky",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "based on play"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0046001/",
-            "name": "Pierre Badel"
+            "name": "Pierre Badel",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0337387/",
@@ -62,7 +108,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1972-02-26",
+    "datePublished": "1972",
+    "original_title": "Vassa Geleznova",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-04T18:35:15"
+    "update_at": "2026-11-01T13:42:27"
 }
