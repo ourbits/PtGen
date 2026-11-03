@@ -4,57 +4,88 @@
     "name": "Tikapuut",
     "site": "imdb",
     "year": "1967",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0617423/",
-            "name": "Risto Mäkelä"
+            "name": "Risto Mäkelä",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0904897/",
-            "name": "Emma Väänänen"
+            "name": "Emma Väänänen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0758722/",
-            "name": "Esko Salminen"
+            "name": "Esko Salminen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0876746/",
+            "name": "Arto Tuominen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0577414/",
+            "name": "Eero Melasniemi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0375803/",
+            "name": "Kauko Helovirta",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2791368/",
+            "name": "Pirkko Peltomäki",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Finnish"
+        "Stars": [
+            "Risto Mäkelä",
+            "Emma Väänänen",
+            "Esko Salminen"
+        ],
+        "Writer": [
+            "Walentin Chorell",
+            "Seppo Virtanen"
+        ],
+        "Runtime": [
+            "55 min"
+        ],
+        "Director": [
+            "Heikki Ritavuori"
         ],
         "Release date": [
-            "June 9, 1967 (Finland)"
-        ],
-        "Country of origin": [
-            "Finland"
-        ],
-        "Production company": [
-            "Yleisradio (YLE)"
+            "1967"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0159208/",
-            "name": "Walentin Chorell"
+            "name": "Walentin Chorell",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3225797/",
-            "name": "Seppo Virtanen"
+            "name": "Seppo Virtanen",
+            "@type": "Person"
         }
     ],
     "duration": "PT55M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0728505/",
-            "name": "Heikki Ritavuori"
+            "name": "Heikki Ritavuori",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1337031/",
@@ -65,7 +96,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1967-06-09",
+    "datePublished": "1967",
+    "original_title": "Tikapuut",
     "imdb_rating_average": 0,
-    "update_at": "2026-04-11T23:00:22"
+    "update_at": "2026-11-02T04:42:22"
 }

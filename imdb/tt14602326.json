@@ -4,7 +4,7 @@
     "name": "Muppets Haunted Mansion",
     "site": "imdb",
     "year": "2021",
-    "@type": "Movie",
+    "@type": "TVSpecial",
     "genre": [
         "Adventure",
         "Comedy",
@@ -13,82 +13,193 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0004715/",
-            "name": "Will Arnett"
+            "name": "Will Arnett",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0378245/",
-            "name": "Taraji P. Henson"
+            "name": "Taraji P. Henson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2023050/",
-            "name": "Darren Criss"
+            "name": "Darren Criss",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1304328/",
+            "name": "Yvette Nicole Brown",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0324397/",
+            "name": "Dave Goelz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0324397/",
+            "name": "Dave Goelz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0324397/",
+            "name": "Dave Goelz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0057321/",
+            "name": "Bill Barretta",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0057321/",
+            "name": "Bill Barretta",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0057321/",
+            "name": "Bill Barretta",
+            "@type": "Person"
         }
     ],
-    "critic": 31,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWViODY1ODYtN2U5ZS00YzlmLWIzOWEtMDk4ODRkYTMxOTdlXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/AeVMV8cMvNhn6aKozAH3pysvftm.jpg",
     "details": {
+        "Stars": [
+            "Will Arnett",
+            "Taraji P. Henson",
+            "Darren Criss"
+        ],
+        "Genres": [
+            "Adventure",
+            "Comedy",
+            "Family"
+        ],
+        "Writer": [
+            "Bill Barretta",
+            "Kirk R. Thatcher",
+            "Kelly Younger"
+        ],
+        "Runtime": [
+            "50 min"
+        ],
+        "Director": [
+            "Kirk R. Thatcher"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "October 8, 2021 (United States)"
-        ],
-        "Also known as": [
-            "Маппети в маєтку з привидами"
-        ],
-        "Official site": [
-            "Disney+ - https://www.disneyplus.com/movies/muppets-haunted-mansion/5F6XYZYVhMms"
+            "2021-10-08"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Sable Ranch, Santa Clarita, California, USA"
+            "United States of America"
         ],
         "Production companies": [
-            "Disney Branded Television",
-            "Disney+",
-            "Soapbox Films"
+            "Soapbox Films",
+            "The Muppets Studio"
         ]
     },
-    "reviews": 115,
+    "reviews": 0,
+    "tagline": "Cue the light(ning)!",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0057321/",
-            "name": "Bill Barretta"
+            "name": "Bill Barretta",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0857130/",
-            "name": "Kirk R. Thatcher"
+            "name": "Kirk R. Thatcher",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm8566357/",
-            "name": "Kelly Younger"
+            "name": "Kelly Younger",
+            "@type": "Person"
         }
     ],
     "duration": "PT50M",
     "keywords": [
-        "tv special",
-        "the muppets",
         "halloween",
-        "based on theme park ride",
-        "haunted mansion"
+        "musical",
+        "puppet",
+        "puppetry",
+        "halloween night",
+        "anthropomorphic puppets",
+        "holiday special",
+        "based on theme park ride"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0857130/",
-            "name": "Kirk R. Thatcher"
+            "name": "Kirk R. Thatcher",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt14602326/",
     "metascore": null,
-    "imdb_votes": 8717,
+    "imdb_votes": 9593,
     "popularity": 0,
-    "description": "On Halloween night, Gonzo is challenged to spend one night in The Haunted Mansion.",
-    "imdb_rating": "6.3/10 from 8717 users",
-    "release_date": [],
-    "contentRating": "TV-PG",
+    "description": "On Halloween night, Gonzo and Pepe are challenged to face their fears and stay in the Haunted Mansion until sunrise,  encountering many frightening, funny, and perhaps a little familiar, phantoms over the course of their stay.",
+    "imdb_rating": "6.3/10 from 9593 users",
+    "release_date": [
+        {
+            "date": "2021-10-08",
+            "country": "Brazil"
+        },
+        {
+            "date": "2021-10-08",
+            "country": "Germany"
+        },
+        {
+            "date": "2021-10-08",
+            "country": "Denmark"
+        },
+        {
+            "date": "2021-10-08",
+            "country": "Spain"
+        },
+        {
+            "date": "2021-10-08",
+            "country": "France"
+        },
+        {
+            "date": "2021-10-08",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "2021-10-08",
+            "country": "Ireland"
+        },
+        {
+            "date": "2021-10-08",
+            "country": "Italy"
+        },
+        {
+            "date": "2021-10-08",
+            "country": "Japan"
+        },
+        {
+            "date": "2021-10-08",
+            "country": "South Korea"
+        },
+        {
+            "date": "2021-10-08",
+            "country": "Netherlands"
+        },
+        {
+            "date": "2021-10-08",
+            "country": "Singapore"
+        },
+        {
+            "date": "2021-10-08",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "PG",
     "datePublished": "2021-10-08",
+    "original_title": "Muppets Haunted Mansion",
     "imdb_rating_average": 6.3,
-    "update_at": "2025-05-15T20:12:06"
+    "update_at": "2026-11-02T21:21:10"
 }

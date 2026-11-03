@@ -4,49 +4,93 @@
     "name": "Trigger",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Crime",
+        "Short",
         "Thriller"
     ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm3136066/",
+            "name": "Wayne Chadwick",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1937692/",
+            "name": "Sanford Kong",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2262433/",
+            "name": "John Koniditsiotis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3119336/",
+            "name": "Kit Lang",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0767051/",
+            "name": "John Paul Saurine",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTUyNGY2ZjUtZmM3NC00MDdiLTk2MjctM2ZlZGYyNzAyZmQ5XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Wayne Chadwick",
+            "Sanford Kong",
+            "John Koniditsiotis"
+        ],
+        "Genres": [
+            "Crime",
+            "Short",
+            "Thriller"
+        ],
+        "Writer": [
+            "Ashley Cooper"
+        ],
+        "Runtime": [
+            "6 min"
+        ],
+        "Director": [
+            "Ashley Cooper"
         ],
         "Release date": [
-            "September 13, 2008 (United States)"
-        ],
-        "Country of origin": [
-            "Canada"
-        ],
-        "Filming locations": [
-            "Toronto, Ontario, Canada"
-        ],
-        "Production company": [
-            "Rule Five Productions"
+            "2008"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm3118738/",
+            "name": "Ashley Cooper",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT6M",
-    "keywords": [
-        "revenge",
-        "murder",
-        "hitman",
-        "independent film"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm3118738/",
+            "name": "Ashley Cooper",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1285014/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "A veteran contract killer explains the psychology of the job to his new apprentice as they await the arrival of a client.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2008-09-13",
+    "datePublished": "2008",
+    "original_title": "Trigger",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-16T20:56:08"
+    "update_at": "2026-11-02T17:28:25"
 }

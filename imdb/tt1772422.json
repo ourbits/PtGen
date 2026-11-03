@@ -11,28 +11,82 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000256/",
-            "name": "Jenny Agutter"
+            "name": "Jenny Agutter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4269084/",
+            "name": "Tom Davis",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001364/",
-            "name": "Bob Hoskins"
+            "name": "Bob Hoskins",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0716490/",
-            "name": "Vincent Regan"
+            "name": "Vincent Regan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0205289/",
+            "name": "Phil Davis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0840303/",
+            "name": "Dudley Sutton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0878240/",
+            "name": "Rita Tushingham",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1402751/",
+            "name": "Montserrat Lombard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0536461/",
+            "name": "Kate Magowan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3038143/",
+            "name": "Emily Atack",
+            "@type": "Person"
         }
     ],
-    "critic": 5,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTgzOTUxMzY3MV5BMl5BanBnXkFtZTcwNDk2MDc2Nw@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/3VROYF5j0AjqI8hAtcBAYcQzHA6.jpg",
     "details": {
+        "Stars": [
+            "Jenny Agutter",
+            "Tom Davis",
+            "Bob Hoskins"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Mark Baxter",
+            "Sacha Bennett",
+            "Paolo Hewitt"
+        ],
+        "Runtime": [
+            "101 min"
+        ],
+        "Director": [
+            "Sacha Bennett"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "April 27, 2012 (United Kingdom)"
-        ],
-        "Also known as": [
-            "La apuesta"
+            "2012-04-27"
         ],
         "Country of origin": [
             "United Kingdom"
@@ -42,42 +96,55 @@
             "Talent Films"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": "Sometimes in life, the odds are in your favour.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm4178838/",
-            "name": "Mark Baxter"
+            "name": "Mark Baxter",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1204790/",
-            "name": "Sacha Bennett"
+            "name": "Sacha Bennett",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3868499/",
-            "name": "Paolo Hewitt"
+            "name": "Paolo Hewitt",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H41M",
     "keywords": [
-        "1980s",
-        "friend",
-        "group"
+        "racehorse"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1204790/",
-            "name": "Sacha Bennett"
+            "name": "Sacha Bennett",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1772422/",
     "metascore": null,
-    "imdb_votes": 345,
+    "imdb_votes": 356,
     "popularity": 0,
-    "description": "A group of friends buy a racehorse to safeguard them in the event that they lose their jobs amidst the turbulence in 1980s Britain.",
-    "imdb_rating": "4.8/10 from 345 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "Set against the turbulent mid 1980s of money, privatisation, unions and dramatic media evolution: A lifelong group of friends find themselves at the bad end of a redundancy pay-out and invest their savings into a racehorse, hoping that one final race can turn their fortunes around.",
+    "imdb_rating": "4.9/10 from 356 users",
+    "release_date": [
+        {
+            "date": "2012-04-27",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "2012-04-27",
+            "country": "Ireland"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2012-04-27",
-    "imdb_rating_average": 4.8,
-    "update_at": "2025-06-11T18:56:53"
+    "original_title": "Outside Bet",
+    "imdb_rating_average": 4.9,
+    "update_at": "2026-11-02T03:49:07"
 }

@@ -4,65 +4,106 @@
     "name": "Ben and Holly",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0414875/",
-            "name": "Josh Jacobson"
+            "name": "Josh Jacobson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1977971/",
-            "name": "Casey Collier"
+            "name": "Casey Collier",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1194254/",
-            "name": "Izabella Sevin"
+            "name": "Izabella Sevin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0337964/",
+            "name": "Katie Lucas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2018126/",
+            "name": "Lacey Green",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1083282/",
+            "name": "Yvonne Green",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0370361/",
+            "name": "Phil Hawn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2014888/",
+            "name": "Lee King",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMzA2MzkxM15BMl5BanBnXkFtZTcwMzIwNzAzMQ@@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Josh Jacobson",
+            "Casey Collier",
+            "Izabella Sevin"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Kurt Haas"
+        ],
+        "Runtime": [
+            "21 min"
+        ],
+        "Director": [
+            "Kurt Haas"
         ],
         "Release date": [
-            "January 30, 2005 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
+            "2005"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1750127/",
-            "name": "Kurt Haas"
+            "name": "Kurt Haas",
+            "@type": "Person"
         }
     ],
     "duration": "PT21M",
-    "keywords": [
-        "independent film",
-        "character name in title"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1750127/",
-            "name": "Kurt Haas"
+            "name": "Kurt Haas",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0469034/",
     "metascore": null,
     "imdb_votes": 35,
     "popularity": 0,
-    "description": "When Holly&apos;s mom goes to live with her new boyfriend for the summer, sixteen year-old Ben and Holly turn a parentless house into their own private universe. They swim in the pool, cook in the kitchen, play dress-up in Holly&apos;s pare...",
+    "description": null,
     "imdb_rating": "7.4/10 from 35 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2005-01-30",
+    "datePublished": "2005",
+    "original_title": "Ben and Holly",
     "imdb_rating_average": 7.4,
-    "update_at": "2025-08-24T03:14:30"
+    "update_at": "2026-11-02T13:00:31"
 }

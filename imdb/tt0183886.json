@@ -4,82 +4,127 @@
     "name": "Three Blonde Mice",
     "site": "imdb",
     "year": "1942",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0610253/",
-            "name": "Alan Mowbray"
+            "name": "Alan Mowbray",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0032356/",
-            "name": "Dorothy Appleby"
+            "name": "Dorothy Appleby",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0172559/",
-            "name": "Monte Collins"
+            "name": "Monte Collins",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0417168/",
+            "name": "Bud Jamison",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0233352/",
+            "name": "Ann Doran",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0014704/",
+            "name": "Mary Ainslee",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0129082/",
+            "name": "Sally Cairns",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Alan Mowbray",
+            "Dorothy Appleby",
+            "Monte Collins"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Arthur Ripley",
+            "Jack White",
+            "Jack Cluett"
+        ],
+        "Runtime": [
+            "16 min"
+        ],
+        "Director": [
+            "Jules White"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 22, 1942 (United States)"
-        ],
-        "Also known as": [
-            "An All-Star Comedy: Three Blonde Mice"
+            "1942-01-22"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Columbia Pictures"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0727999/",
-            "name": "Arthur Ripley"
+            "name": "Arthur Ripley",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0924901/",
-            "name": "Jack White"
+            "name": "Jack White",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0167313/",
-            "name": "Jack Cluett"
+            "name": "Jack Cluett",
+            "@type": "Person"
         }
     ],
     "duration": "PT16M",
-    "keywords": [
-        "male police officer",
-        "police",
-        "all star comedies",
-        "comedy short",
-        "two reeler"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0925028/",
-            "name": "Jules White"
+            "name": "Jules White",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0183886/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "When a cop stops him for speeding, Alan tries to get out of it by claiming that he is rushing home to his expectant wife. When the cop decides to follow him home to check up on his story, Alan has to come up with a wife and child.",
+    "description": "To avoid getting a traffic ticket, Alan poses as an expectant father rushing to see his wife; when the cop follows him, hes forced to produce a wife and a child.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
-    "contentRating": "Approved",
+    "release_date": [
+        {
+            "date": "1942-01-22",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1942-01-22",
+    "original_title": "Three Blonde Mice",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-22T13:26:04"
+    "update_at": "2026-11-03T01:00:35"
 }

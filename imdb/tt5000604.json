@@ -4,67 +4,103 @@
     "name": "House of Cards",
     "site": "imdb",
     "year": "2015",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm5353409/",
-            "name": "Josephine Botting"
+            "name": "Josephine Botting",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm6715042/",
-            "name": "Trey Carswell"
+            "name": "Trey Carswell",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm7724812/",
-            "name": "Robert Dobson"
+            "name": "Robert Dobson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8707795/",
+            "name": "Alicia Field",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7165388/",
+            "name": "Valerie Grace",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7566281/",
+            "name": "Kevin Lyons",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0726593/",
+            "name": "Jonathan Rigby",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0790501/",
+            "name": "Reece Shearsmith",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjVhODVkY2ItM2FkNy00ZmQ1LTkwMDQtNGQyNDRlNWY4MmQ0XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/yTcjutX5dPZWRwMfHVjCDRlUUN.jpg",
     "details": {
+        "Stars": [
+            "Josephine Botting",
+            "Trey Carswell",
+            "Robert Dobson"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Runtime": [
+            "58 min"
+        ],
+        "Director": [
+            "Jake West"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 9, 2015 (United Kingdom)"
-        ],
-        "Official site": [
-            "Producer's Official site - http://www.nucleusfilms.com/"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Filming locations": [
-            "Holloway, London, England, UK"
-        ],
-        "Production company": [
-            "Nucleus Films"
+            "2015-11-09"
         ]
     },
     "reviews": 0,
+    "tagline": "The Making of DR. TERROR'S HOUSE OF HORRORS",
     "creators": [],
     "duration": "PT58M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0922115/",
-            "name": "Jake West"
+            "name": "Jake West",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt5000604/",
     "metascore": null,
-    "imdb_votes": 24,
+    "imdb_votes": 26,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "6.9/10 from 24 users",
-    "release_date": [],
+    "description": "The Making of DR. TERROR'S HOUSE OF HORRORS",
+    "imdb_rating": "7.0/10 from 26 users",
+    "release_date": [
+        {
+            "date": "2015-11-09",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2015-11-09",
-    "imdb_rating_average": 6.9,
-    "update_at": "2025-10-01T22:39:27"
+    "original_title": "House of Cards",
+    "imdb_rating_average": 7.0,
+    "update_at": "2026-11-02T21:14:18"
 }

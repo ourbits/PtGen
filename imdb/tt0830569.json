@@ -4,56 +4,69 @@
     "name": "Hunt the Tiger",
     "site": "imdb",
     "year": "1929",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0003124/",
-            "name": "Pedro de Cordoba"
+            "name": "Pedro de Cordoba",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0456628/",
-            "name": "Alexander Kirkland"
+            "name": "Alexander Kirkland",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0853623/",
-            "name": "Verree Teasdale"
+            "name": "Verree Teasdale",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Pedro de Cordoba",
+            "Alexander Kirkland",
+            "Verree Teasdale"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Henry A. Hering"
+        ],
+        "Runtime": [
+            "20 min"
+        ],
+        "Director": [
+            "James Leo Meehan"
         ],
         "Release date": [
-            "November 10, 1929 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "RCA"
+            "1929"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2329938/",
-            "name": "Henry A. Hering"
+            "name": "Henry A. Hering",
+            "@type": "Person"
         }
     ],
     "duration": "PT20M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0576043/",
-            "name": "James Leo Meehan"
+            "name": "James Leo Meehan",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0830569/",
@@ -64,7 +77,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1929-11-10",
+    "datePublished": "1929",
+    "original_title": "Hunt the Tiger",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-24T23:21:11"
+    "update_at": "2026-11-02T19:07:07"
 }

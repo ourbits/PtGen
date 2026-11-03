@@ -4,78 +4,110 @@
     "name": "Bingo Crosbyana",
     "site": "imdb",
     "year": "1936",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Animation",
-        "Family",
-        "Short"
+        "Comedy",
+        "Family"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0088285/",
-            "name": "Billy Bletcher"
+            "name": "Billy Bletcher",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0088285/",
+            "name": "Billy Bletcher",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0360684/",
-            "name": "Bernice Hansen"
+            "name": "Bernice Hansen",
+            "@type": "Person"
         },
         {
-            "url": "https://www.imdb.com/name/nm14299661/",
-            "name": "Billy Paye"
+            "url": "https://www.imdb.com/name/nm1760452/",
+            "name": "The Rhythmettes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0829505/",
+            "name": "Jerry Stewart",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWY3NTliMTctZTU2ZS00NzY5LWI2MmQtNWU2NjNlMGFlMjM0XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/qazLV1fUGKiZf4vk3PO1ZE8rsp1.jpg",
     "details": {
+        "Stars": [
+            "Billy Bletcher",
+            "Billy Bletcher",
+            "Bernice Hansen"
+        ],
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "Writer": [
+            "Ben Hardaway"
+        ],
+        "Runtime": [
+            "8 min"
+        ],
+        "Director": [
+            "Friz Freleng"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 30, 1936 (United States)"
-        ],
-        "Also known as": [
-            "Bingo presumido"
-        ],
-        "Official site": [
-            "Official site - https://play.hbomax.com/episode/urn:hbo:episode:GXwSemAmY5JpiwwEAAAPm"
+            "1936-05-30"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
-            "Leon Schlesinger Studios"
+        "Production companies": [
+            "Leon Schlesinger Productions"
         ]
     },
-    "reviews": 8,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0362041/",
-            "name": "Ben Hardaway"
+            "name": "Ben Hardaway",
+            "@type": "Person"
         }
     ],
     "duration": "PT8M",
     "keywords": [
-        "cartoon spider",
-        "reference to bing crosby",
-        "match",
-        "matchbox",
-        "corkscrew"
+        "cartoon fly",
+        "cartoon insect"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0293989/",
-            "name": "Friz Freleng"
+            "name": "Friz Freleng",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0027362/",
     "metascore": null,
-    "imdb_votes": 300,
+    "imdb_votes": 338,
     "popularity": 0,
-    "description": "A characterization of Bing Crosby as a fly, who comes down to woo all the other insects with his singing talent, and aerial skills.",
-    "imdb_rating": "5.5/10 from 300 users",
-    "release_date": [],
-    "contentRating": "Approved",
+    "description": "Bugs take over a kitchen, prompting a Bing Crosby-esque croon.",
+    "imdb_rating": "5.5/10 from 338 users",
+    "release_date": [
+        {
+            "date": "1936-05-30",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1936-05-30",
+    "original_title": "Bingo Crosbyana",
     "imdb_rating_average": 5.5,
-    "update_at": "2025-05-12T22:28:17"
+    "update_at": "2026-11-02T14:49:52"
 }

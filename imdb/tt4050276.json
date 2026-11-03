@@ -4,48 +4,108 @@
     "name": "Ketamine",
     "site": "imdb",
     "year": "2014",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
-    "critic": 1,
-    "poster": null,
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm4724525/",
+            "name": "Jonas Smulders",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1484364/",
+            "name": "Sanne den Hartogh",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1082803/",
+            "name": "Roy Aernouts",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0091510/",
+            "name": "Sam Bogaerts",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0330982/",
+            "name": "Peter Gorissen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3581054/",
+            "name": "Pierre Van Heddegem",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/noXJ7DCaP7NRpUbqBdnOxYPQEdv.jpg",
     "details": {
+        "Stars": [
+            "Jonas Smulders",
+            "Sanne den Hartogh",
+            "Roy Aernouts"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Thijs de Boer"
+        ],
+        "Runtime": [
+            "49 min"
+        ],
+        "Director": [
+            "Rogier Hesp"
+        ],
         "Language": [
             "Dutch"
         ],
         "Release date": [
-            "September 28, 2014 (Netherlands)"
-        ],
-        "Official site": [
-            "Official Site - http://baldrfilm.nl/projecten/ketamine/?lang=en"
+            "2014-09-28"
         ],
         "Country of origin": [
             "Netherlands"
         ],
-        "Production company": [
+        "Production companies": [
             "BALDR Film"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm6783652/",
+            "name": "Thijs de Boer",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT49M",
-    "keywords": [
-        "nightclub",
-        "male bonding",
-        "ritual",
-        "drinking",
-        "therapy"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm2941557/",
+            "name": "Rogier Hesp",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt4050276/",
     "metascore": null,
-    "imdb_votes": 40,
+    "imdb_votes": 42,
     "popularity": 0,
-    "description": "Two fatherless brothers settle in useless mother&apos;s birth town &apos;for a holiday&apos; after her last-willed funeral, which costs the entire inheritance. Sensitive Vincent (21) is dragged into elder brother Sjoerd (26)&apos;s nihilistic lifesty...",
-    "imdb_rating": "7.4/10 from 40 users",
-    "release_date": [],
+    "description": "Two brothers linger in the little village where they have just buried their mother. In an old trailer, Vincent (20) goes along with his brother Sjoerd (26) on a path of drug abuse and nihilistic behavior. How strong can the love between two brothers, for their deceased mother, an old dog and for life itself be?",
+    "imdb_rating": "7.2/10 from 42 users",
+    "release_date": [
+        {
+            "date": "2014-09-28",
+            "country": "Netherlands"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2014-09-28",
-    "imdb_rating_average": 7.4,
-    "update_at": "2025-10-10T18:49:18"
+    "original_title": "Ketamine",
+    "imdb_rating_average": 7.2,
+    "update_at": "2026-11-02T18:14:26"
 }

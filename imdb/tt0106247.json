@@ -4,67 +4,85 @@
     "name": "All About Bette",
     "site": "imdb",
     "year": "1994",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
-        "Documentary",
-        "Biography"
+        "Biography",
+        "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000149/",
-            "name": "Jodie Foster"
-        },
-        {
-            "url": "https://www.imdb.com/name/nm0000012/",
-            "name": "Bette Davis"
+            "name": "Jodie Foster",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTg2MWNmMmMtNGUxYy00ZTczLTg3YzYtNGRiMzRmNzMwZmY4XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/hQeUeYe1ZpemuwJ5Yb8sA3ggva0.jpg",
     "details": {
+        "Stars": [
+            "Jodie Foster"
+        ],
+        "Genres": [
+            "Biography",
+            "Documentary"
+        ],
+        "Writer": [
+            "David Ansen"
+        ],
+        "Runtime": [
+            "48 min"
+        ],
+        "Director": [
+            "Susan F. Walker"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "July 17, 1994 (United States)"
-        ],
-        "Also known as": [
-            "Wszystko o Bette"
+            "1994-07-17"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Turner Pictures (I)"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": "Rebellious, restless and absolutely remarkable. Meet the real Bette Davis.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0030618/",
-            "name": "David Ansen"
+            "name": "David Ansen",
+            "@type": "Person"
         }
     ],
     "duration": "PT48M",
     "keywords": [
-        "actress",
-        "character name in title"
+        "biography"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0908243/",
-            "name": "Susan F. Walker"
+            "name": "Susan F. Walker",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0106247/",
     "metascore": null,
-    "imdb_votes": 471,
+    "imdb_votes": 473,
     "popularity": 0,
-    "description": "Jodie Foster narrates a profile of actress Bette Davis.",
-    "imdb_rating": "7.8/10 from 471 users",
-    "release_date": [],
+    "description": "Biography of Bette Davis hosted by Jodie Foster.",
+    "imdb_rating": "7.8/10 from 473 users",
+    "release_date": [
+        {
+            "date": "1994-07-17",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1994-07-17",
+    "original_title": "All About Bette",
     "imdb_rating_average": 7.8,
-    "update_at": "2025-06-15T12:14:04"
+    "update_at": "2026-11-02T05:42:16"
 }

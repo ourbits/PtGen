@@ -3,69 +3,99 @@
     "sid": "tt0320798",
     "name": "Les épingles",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1913",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0334788/",
-            "name": "Suzanne Grandais"
+            "name": "Suzanne Grandais",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0674600/",
-            "name": "Léonce Perret"
+            "name": "Léonce Perret",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0449136/",
-            "name": "Émile Keppens"
+            "name": "Émile Keppens",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0677609/",
+            "name": "Valentine Petit",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Suzanne Grandais",
+            "Léonce Perret",
+            "Émile Keppens"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Léonce Perret"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Léonce Perret"
+        ],
         "Language": [
-            "None"
+            "French"
         ],
         "Release date": [
-            "February 1913 (France)"
-        ],
-        "Also known as": [
-            "À propos d'épingles à chapeau"
+            "1913-01-02"
         ],
         "Country of origin": [
             "France"
         ],
-        "Production company": [
+        "Production companies": [
             "Société des Etablissements L. Gaumont"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0674600/",
-            "name": "Léonce Perret"
+            "name": "Léonce Perret",
+            "@type": "Person"
         }
     ],
     "duration": "PT15M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0674600/",
-            "name": "Léonce Perret"
+            "name": "Léonce Perret",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0320798/",
     "metascore": null,
-    "imdb_votes": 10,
+    "imdb_votes": 15,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "5.2/10 from 10 users",
-    "release_date": [],
+    "description": "Leonce Perret brings home a present for wife Suzanne Grandais. It turns out to be point guards for hat pins. Hat pins with such guards have been outlawed. She is disappointed and refuses to use them. When Leonce seem to get a pin prick in her eye, she is upset. When she discovers he is faking, she decides on her own revenge.",
+    "imdb_rating": "5.5/10 from 15 users",
+    "release_date": [
+        {
+            "date": "1913-01-02",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 5.2,
-    "update_at": "2025-08-04T06:07:38"
+    "datePublished": "1913-01-02",
+    "original_title": "Les épingles",
+    "imdb_rating_average": 5.5,
+    "update_at": "2026-11-02T06:07:30"
 }

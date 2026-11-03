@@ -4,71 +4,75 @@
     "name": "The Dry Route",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Sci-Fi"
+        "Sci-Fi",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2032285/",
-            "name": "Sunny Malick"
+            "name": "Sunny Malick",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0333702/",
-            "name": "David Alan Graf"
+            "name": "David Alan Graf",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Sunny Malick",
+            "David Alan Graf"
+        ],
+        "Genres": [
+            "Sci-Fi",
+            "Short"
+        ],
+        "Writer": [
+            "Miles Ambrose"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "Megan Cotler"
         ],
         "Release date": [
-            "September 17, 2005 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Palmdale, California, USA"
-        ],
-        "Production companies": [
-            "Pollack Pictures",
-            "Silvercloud Productions"
+            "2005"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0024407/",
-            "name": "Miles Ambrose"
+            "name": "Miles Ambrose",
+            "@type": "Person"
         }
     ],
     "duration": "PT10M",
-    "keywords": [
-        "gas station",
-        "desert",
-        "delusion",
-        "thirst",
-        "skin"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1996021/",
-            "name": "Megan Cotler"
+            "name": "Megan Cotler",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0478498/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Gayton Keller, a disgruntled radio talk show host, is on his way to Las Vegas when he pulls over to a gas station to refuel. The gas station attendant tries to start up conversation, but is unsuccessful. He tries to warn Gayton ab...",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2005-09-17",
+    "datePublished": "2005",
+    "original_title": "The Dry Route",
     "imdb_rating_average": 0,
-    "update_at": "2026-06-01T10:42:30"
+    "update_at": "2026-11-02T04:14:14"
 }

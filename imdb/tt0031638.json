@@ -11,52 +11,101 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0281686/",
-            "name": "Ian Fleming"
+            "name": "Ian Fleming",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0235077/",
-            "name": "Howard Douglas"
+            "name": "Howard Douglas",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0388117/",
-            "name": "W.T. Hodge"
+            "name": "W.T. Hodge",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0665715/",
+            "name": "Charles Paton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0036464/",
+            "name": "Grace Arnold",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0402698/",
+            "name": "Alastair Hunter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0166916/",
+            "name": "Edith Clinton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0183894/",
+            "name": "Charles Courtney",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4774080/",
+            "name": "Tony Melrose",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0223160/",
+            "name": "George Dewhurst",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Ian Fleming",
+            "Howard Douglas",
+            "W.T. Hodge"
+        ],
+        "Genres": [
+            "Crime"
+        ],
+        "Writer": [
+            "Alexander George",
+            "George A. Cooper"
+        ],
+        "Runtime": [
+            "59 min"
+        ],
+        "Director": [
+            "Widgey R. Newman"
         ],
         "Release date": [
-            "March 3, 1939 (United Kingdom)"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Production company": [
-            "Smith & Newman Productions"
+            "1939-01-09"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm4774086/",
-            "name": "Alexander George"
+            "name": "Alexander George",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0178057/",
-            "name": "George A. Cooper"
+            "name": "George A. Cooper",
+            "@type": "Person"
         }
     ],
     "duration": "PT59M",
-    "keywords": [
-        "police"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0628308/",
-            "name": "Widgey R. Newman"
+            "name": "Widgey R. Newman",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0031638/",
@@ -64,10 +113,16 @@
     "imdb_votes": 36,
     "popularity": 0,
     "description": "A lawyer, who has been accused of being dishonest, works with the police to expose two share pushers who have employed him, saving the investors from ruin.",
-    "imdb_rating": "3.9/10 from 36 users",
-    "release_date": [],
+    "imdb_rating": "4.1/10 from 36 users",
+    "release_date": [
+        {
+            "date": "1939-01-09",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1939-03-03",
-    "imdb_rating_average": 3.9,
-    "update_at": "2025-06-30T01:00:12"
+    "datePublished": "1939-01-09",
+    "original_title": "Men Without Honour",
+    "imdb_rating_average": 4.1,
+    "update_at": "2026-11-02T06:14:06"
 }

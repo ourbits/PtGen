@@ -4,75 +4,94 @@
     "name": "Hangry",
     "site": "imdb",
     "year": "2021",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Horror",
+        "Short",
         "Thriller"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm5230942/",
-            "name": "Ellie Gall"
+            "name": "Ellie Gall",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0005095/",
-            "name": "Justin Kirk"
+            "name": "Justin Kirk",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1354503/",
-            "name": "Abby Brammell"
+            "name": "Abby Brammell",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWQ1OGIwZGItODk3MC00ODViLTk3ZjMtODkwOWFmMTQxYWI5XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/9xpzS9FqJfuVJiwgjJjTeGlrcGs.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Ellie Gall",
+            "Justin Kirk",
+            "Abby Brammell"
+        ],
+        "Genres": [
+            "Horror",
+            "Short",
+            "Thriller"
+        ],
+        "Writer": [
+            "Tennessee Martin"
+        ],
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "Bola Ogun"
         ],
         "Release date": [
-            "January 1, 2021 (United States)"
-        ],
-        "Official site": [
-            "Official Facebook - https://www.facebook.com/HangryTheFilm/"
+            "2021-08-13"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Stept Studios"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm6236970/",
-            "name": "Tennessee Martin"
+            "name": "Tennessee Martin",
+            "@type": "Person"
         }
     ],
     "duration": "PT12M",
-    "keywords": [
-        "teenage girl",
-        "nipples visible through clothing",
-        "teenage girl wrapped in a towel",
-        "incestuous desire",
-        "abusive father"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3768241/",
-            "name": "Bola Ogun"
+            "name": "Bola Ogun",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt9466166/",
     "metascore": null,
-    "imdb_votes": 63,
+    "imdb_votes": 73,
     "popularity": 0,
-    "description": "A teenage daughter, fed up with her father&apos;s verbal and sexual abuse, takes revenge upon after he drinks away her college savings him as a way to replenish the expropriated college fund.",
-    "imdb_rating": "6.5/10 from 63 users",
-    "release_date": [],
+    "description": "When teenage Rae realizes her stepfather has been stealing her mother's medication as her mother inches closer and closer to death, she has to make a decision regardless of her morality...Quiet. Calculated. Strong. And now fearless. LeRoy will find out who his stepdaughter is when her back is against the wall...literally.",
+    "imdb_rating": "6.4/10 from 73 users",
+    "release_date": [
+        {
+            "date": "2021-08-13",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2021-01-01",
-    "imdb_rating_average": 6.5,
-    "update_at": "2025-08-26T06:13:26"
+    "datePublished": "2021-08-13",
+    "original_title": "Hangry",
+    "imdb_rating_average": 6.4,
+    "update_at": "2026-11-02T12:49:28"
 }

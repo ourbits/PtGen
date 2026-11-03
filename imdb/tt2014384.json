@@ -4,74 +4,131 @@
     "name": "Tödlicher Rausch",
     "site": "imdb",
     "year": "2011",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0693383/",
-            "name": "Lisa Maria Potthoff"
+            "name": "Lisa Maria Potthoff",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0439435/",
-            "name": "Fritz Karl"
+            "name": "Fritz Karl",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0664293/",
-            "name": "Olivia Pascal"
+            "name": "Olivia Pascal",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0105779/",
+            "name": "Heinz-Josef Braun",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1319296/",
+            "name": "Matthias Kupfer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0850618/",
+            "name": "Jürgen Tarrach",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0772124/",
+            "name": "Franziska Schlattner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3715444/",
+            "name": "Julia Sophie Schabus",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0456290/",
+            "name": "Dieter Kirchlechner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0406137/",
+            "name": "Wolfgang Hübsch",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGEyNjc5MjQtYTU5Mi00NGRmLThmN2EtZmJlZDNhZDg5MTY0XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/y2KDQVZcYbmbSBMWmmspYoBbZCd.jpg",
     "details": {
+        "Stars": [
+            "Lisa Maria Potthoff",
+            "Fritz Karl",
+            "Olivia Pascal"
+        ],
+        "Genres": [
+            "Crime"
+        ],
+        "Writer": [
+            "Claudia Kaufmann"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Johannes Fabrick"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "December 12, 2011 (Germany)"
+            "2011-12-11"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Filming locations": [
-            "Bad Tölz, Bavaria, Germany"
-        ],
         "Production companies": [
-            "die Film GmbH",
-            "Zweites Deutsches Fernsehen (ZDF)"
+            "ZDF"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2109382/",
-            "name": "Claudia Kaufmann"
+            "name": "Claudia Kaufmann",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
     "keywords": [
-        "two word title",
-        "television movie",
-        "sex scene",
-        "female topless nudity",
-        "female nudity"
+        "alcohol",
+        "intoxication"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0264738/",
-            "name": "Johannes Fabrick"
+            "name": "Johannes Fabrick",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2014384/",
     "metascore": null,
     "imdb_votes": 44,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "5.7/10 from 44 users",
-    "release_date": [],
+    "description": "One o'clock at night. The last three guests are still meeting in the Post, the only pub in Almbrück, after the fire department party when a youth, Florian, angrily challenges the village policeman Georg to a drinking contest. Georg should be careful, Florian threatens, he is a lying pig. The next morning, Florian is dead...",
+    "imdb_rating": "5.8/10 from 44 users",
+    "release_date": [
+        {
+            "date": "2011-12-11",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2011-12-12",
-    "imdb_rating_average": 5.7,
-    "update_at": "2025-06-26T05:26:05"
+    "datePublished": "2011-12-11",
+    "original_title": "Tödlicher Rausch",
+    "imdb_rating_average": 5.8,
+    "update_at": "2026-11-02T23:21:20"
 }

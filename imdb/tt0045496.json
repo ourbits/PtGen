@@ -13,76 +13,136 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0664270/",
-            "name": "Jean-Claude Pascal"
+            "name": "Jean-Claude Pascal",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0133521/",
-            "name": "Gianna Maria Canale"
+            "name": "Gianna Maria Canale",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0002233/",
-            "name": "Erich von Stroheim"
+            "name": "Erich von Stroheim",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0864397/",
+            "name": "Jean Tissier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0227514/",
+            "name": "Albert Dinan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0886870/",
+            "name": "Peter van Eyck",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0814723/",
+            "name": "Daniel Sorano",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0023884/",
+            "name": "Lia Amanda",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0613576/",
+            "name": "Jean Murat",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0496347/",
+            "name": "Daniel Lecourtois",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTA1OWRhOGEtNjc3MC00MzE1LTgwYjYtMWY2MDhlZDc4YzViXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/jnaaRDVgH7rmnOKWnpqrhD65AR7.jpg",
     "details": {
+        "Stars": [
+            "Jean-Claude Pascal",
+            "Gianna Maria Canale",
+            "Erich von Stroheim"
+        ],
+        "Genres": [
+            "Adventure",
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "André-Paul Antoine",
+            "Jean Devaivre",
+            "Jean-Paul Le Chanois"
+        ],
+        "Runtime": [
+            "110 min"
+        ],
+        "Director": [
+            "Jean Devaivre"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "November 15, 1953 (France)"
+            "1953-11-15"
         ],
-        "Also known as": [
-            "Alert in the South"
-        ],
-        "Filming locations": [
-            "Morocco"
-        ],
-        "Countries of origin": [
-            "France",
-            "Italy"
-        ],
-        "Production companies": [
-            "Neptune",
-            "La Société des Films Sirius",
-            "Fono Roma"
+        "Country of origin": [
+            "France"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0031135/",
-            "name": "André-Paul Antoine"
+            "name": "André-Paul Antoine",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0222157/",
-            "name": "Jean Devaivre"
+            "name": "Jean Devaivre",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0237836/",
-            "name": "Jean-Paul Le Chanois"
+            "name": "Jean-Paul Le Chanois",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H50M",
-    "keywords": [
-        "cardinal direction in title"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0222157/",
-            "name": "Jean Devaivre"
+            "name": "Jean Devaivre",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0045496/",
     "metascore": null,
-    "imdb_votes": 46,
+    "imdb_votes": 50,
     "popularity": 0,
     "description": "When 1 of 2 Foreign Legion officers is killed after witnessing a secret experiment on a death ray (capable of shooting down aircraft) in southern Morocco, the other gets vengeance by infiltrating the organization responsible.",
-    "imdb_rating": "6.1/10 from 46 users",
-    "release_date": [],
+    "imdb_rating": "6.2/10 from 50 users",
+    "release_date": [
+        {
+            "date": "1953-11-15",
+            "country": "France"
+        },
+        {
+            "date": "1954-03-10",
+            "country": "Italy"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1953-11-15",
-    "imdb_rating_average": 6.1,
-    "update_at": "2025-06-02T08:00:16"
+    "original_title": "Alerte au sud",
+    "imdb_rating_average": 6.2,
+    "update_at": "2026-11-02T20:28:07"
 }

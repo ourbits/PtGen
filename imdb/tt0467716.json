@@ -3,7 +3,8 @@
     "sid": "tt0467716",
     "name": "Zone libre: Making-of",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2006",
+    "@type": "VideoObject",
     "genre": [
         "Documentary",
         "Short"
@@ -11,47 +12,72 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1731425/",
-            "name": "Quentin Grosset"
+            "name": "Quentin Grosset",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0344467/",
-            "name": "Jean-Claude Grumberg"
+            "name": "Jean-Claude Grumberg",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0344470/",
-            "name": "Olga Grumberg"
+            "name": "Olga Grumberg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0051309/",
+            "name": "Nelly Kafsky",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0539022/",
+            "name": "Christophe Malavoy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0782565/",
+            "name": "Mathilde Seigner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0869850/",
+            "name": "Elisa Tovati",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Quentin Grosset",
+            "Jean-Claude Grumberg",
+            "Olga Grumberg"
+        ],
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Runtime": [
+            "20 min"
+        ],
+        "Director": [
+            "Olivier Serrano"
         ],
         "Release date": [
-            "2006 (France)"
-        ],
-        "Country of origin": [
-            "France"
-        ],
-        "Filming locations": [
-            "Montbron, Charente, France"
-        ],
-        "Production companies": [
-            "Dreamlight Entertainment",
-            "Mazel Productions"
+            "2006"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT20M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1760869/",
-            "name": "Olivier Serrano"
+            "name": "Olivier Serrano",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0467716/",
@@ -62,7 +88,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2006",
+    "original_title": "Zone libre: Making-of",
     "imdb_rating_average": 0,
-    "update_at": "2026-03-09T22:21:46"
+    "update_at": "2026-11-03T00:07:09"
 }

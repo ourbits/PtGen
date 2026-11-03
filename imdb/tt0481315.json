@@ -4,7 +4,7 @@
     "name": "Die Liebe kommt selten allein",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Drama"
@@ -12,62 +12,122 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0927256/",
-            "name": "Thekla Carola Wied"
+            "name": "Thekla Carola Wied",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0551682/",
-            "name": "Florian Martens"
+            "name": "Florian Martens",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0766442/",
-            "name": "Peter Sattmann"
+            "name": "Peter Sattmann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0720593/",
+            "name": "Tobias Retzlaff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0737528/",
+            "name": "Tamara Rohloff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0283741/",
+            "name": "Barbara Focke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0778200/",
+            "name": "René Schoenenberger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0775653/",
+            "name": "Frank-Leo Schröder",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0088744/",
+            "name": "Kirsten Block",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0843425/",
+            "name": "Laura Syniawa",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/ulTgal97WP3Xpi2nXz50ZyJNxKQ.jpg",
     "details": {
+        "Stars": [
+            "Thekla Carola Wied",
+            "Florian Martens",
+            "Peter Sattmann"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "Writer": [
+            "Norbert Eberlein"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Jan Ruzicka"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "August 31, 2006 (Germany)"
+            "2006-08-31"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Filming locations": [
-            "Berlin, Germany"
-        ],
-        "Production company": [
-            "CineCentrum Deutsche Gesellschaft für Film- und Fernsehproduktion mbH"
+        "Production companies": [
+            "ARD"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0248092/",
-            "name": "Norbert Eberlein"
+            "name": "Norbert Eberlein",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        "heteronormativity"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0752313/",
-            "name": "Jan Ruzicka"
+            "name": "Jan Ruzicka",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0481315/",
     "metascore": null,
-    "imdb_votes": 40,
+    "imdb_votes": 41,
     "popularity": 0,
-    "description": "Actually, Eva Beckstedt is an attractive woman in the &quot;best years&quot;. But since the death of her husband, she has turned into a biting misanthrope: nothing and no one is safe from her verbal attacks - tact, compassion and helpfulnes...",
-    "imdb_rating": "6.1/10 from 40 users",
-    "release_date": [],
+    "description": "After the death of her husband, the attractive Eva takes refuge in her self-imposed loneliness and becomes known as a bitch. After a burglary in her picture frame store, she meets detective inspector Ferdinand Rixen. At the same time, master painter Harry Stockert enters her life. The two men cause chaos in her life. In the end, Eva even agrees to look after the 16-year-old pubescent boy next door, Dennis.",
+    "imdb_rating": "6.1/10 from 41 users",
+    "release_date": [
+        {
+            "date": "2006-08-31",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2006-08-31",
+    "original_title": "Die Liebe kommt selten allein",
     "imdb_rating_average": 6.1,
-    "update_at": "2026-02-13T02:42:42"
+    "update_at": "2026-11-02T06:21:10"
 }

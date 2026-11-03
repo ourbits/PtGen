@@ -5,43 +5,68 @@
     "site": "imdb",
     "year": "1925",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1011942/",
-            "name": "María Esther Podestá"
+            "name": "María Esther Podestá",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1004300/",
-            "name": "Ada Falcon"
+            "name": "Ada Falcon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0892797/",
-            "name": "Consuelo Velázquez"
+            "name": "Consuelo Velázquez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1127142/",
+            "name": "Juan Portal",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1124672/",
+            "name": "Diego Figueroa",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "María Esther Podestá",
+            "Ada Falcon",
+            "Consuelo Velázquez"
+        ],
+        "Director": [
+            "Julio Irigoyen"
+        ],
         "Language": [
-            "None"
+            "No Language"
         ],
         "Release date": [
-            "May 15, 1925 (Argentina)"
+            "1925-05-15"
         ],
         "Country of origin": [
             "Argentina"
+        ],
+        "Production companies": [
+            "Buenos Aires Film"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": null,
-    "keywords": [
-        "tango"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0409965/",
-            "name": "Julio Irigoyen"
+            "name": "Julio Irigoyen",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0309004/",
@@ -50,9 +75,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1925-05-15",
+            "country": "Argentina"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1925-05-15",
+    "original_title": "Tu cuna fue un conventillo",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-24T08:21:39"
+    "update_at": "2026-11-02T13:49:19"
 }

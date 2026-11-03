@@ -4,7 +4,7 @@
     "name": "The Eighth Wonder",
     "site": "imdb",
     "year": "1995",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Musical"
@@ -12,63 +12,111 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0387721/",
-            "name": "David Hobson"
+            "name": "David Hobson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1992998/",
-            "name": "Clare Gormley"
+            "name": "Clare Gormley",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0697826/",
-            "name": "John Pringle"
+            "name": "John Pringle",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0697826/",
+            "name": "John Pringle",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0501370/",
+            "name": "Roger Lemke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1994009/",
+            "name": "Anthony Elek",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0788214/",
+            "name": "Donald Shanks",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0306590/",
+            "name": "Robert Gard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1881543/",
+            "name": "Emma Lysons",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1881543/",
+            "name": "Emma Lysons",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "David Hobson",
+            "Clare Gormley",
+            "John Pringle"
+        ],
+        "Genres": [
+            "Drama",
+            "Musical"
+        ],
+        "Writer": [
+            "Alan John",
+            "Dennis Watkins"
+        ],
+        "Director": [
+            "Neil Armfield"
         ],
         "Release date": [
-            "October 20, 1995 (Australia)"
-        ],
-        "Country of origin": [
-            "Australia"
-        ],
-        "Production company": [
-            "Australian Broadcasting Corporation (ABC)"
+            "1995"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0424125/",
-            "name": "Alan John"
+            "name": "Alan John",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0914286/",
-            "name": "Dennis Watkins"
+            "name": "Dennis Watkins",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0035462/",
-            "name": "Neil Armfield"
+            "name": "Neil Armfield",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0471675/",
     "metascore": null,
-    "imdb_votes": 7,
+    "imdb_votes": 8,
     "popularity": 0,
-    "description": "Australian opera based on the real-life saga of the building of the world-famous, iconic Sydney Opera House.",
-    "imdb_rating": "8.2/10 from 7 users",
+    "description": null,
+    "imdb_rating": "7.8/10 from 8 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1995-10-20",
-    "imdb_rating_average": 8.2,
-    "update_at": "2025-09-03T21:00:28"
+    "datePublished": "1995",
+    "original_title": "The Eighth Wonder",
+    "imdb_rating_average": 7.8,
+    "update_at": "2026-11-02T05:35:22"
 }

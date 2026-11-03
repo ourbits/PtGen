@@ -4,7 +4,7 @@
     "name": "Prey of the Chameleon",
     "site": "imdb",
     "year": "1992",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Action",
         "Thriller"
@@ -12,78 +12,142 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001879/",
-            "name": "Daphne Zuniga"
+            "name": "Daphne Zuniga",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001879/",
+            "name": "Daphne Zuniga",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0005554/",
-            "name": "James Wilder"
+            "name": "James Wilder",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000575/",
-            "name": "Alexandra Paul"
+            "name": "Alexandra Paul",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0367496/",
+            "name": "Don Harvey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0922307/",
+            "name": "Red West",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0564353/",
+            "name": "Michelle McBride",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0686344/",
+            "name": "Patricia Place",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11145870/",
+            "name": "Kelly Gwin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0002930/",
+            "name": "Julie St. Claire",
+            "@type": "Person"
         }
     ],
-    "critic": 6,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDg5ZTc3ZTktNDg0ZS00ZjdkLTkzZGMtY2U1NzVmMWQ3MmM4XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/84Ebekn7LyqR3Z0fmjYRc6wpqdj.jpg",
     "details": {
+        "Stars": [
+            "Daphne Zuniga",
+            "Daphne Zuniga",
+            "James Wilder"
+        ],
+        "Genres": [
+            "Action",
+            "Thriller"
+        ],
+        "Writer": [
+            "April Campbell Jones",
+            "Fleming B. Fuller",
+            "Ronald J. Fields"
+        ],
+        "Runtime": [
+            "91 min"
+        ],
+        "Director": [
+            "Fleming B. Fuller"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "July 11, 1992 (South Korea)"
-        ],
-        "Also known as": [
-            "La presa del camaleón"
+            "1992-02-07"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Los Angeles, California, USA"
+            "United States of America"
         ],
         "Production companies": [
             "Prism Entertainment Corporation",
-            "Saban Entertainment"
+            "Saban Entertainment",
+            "Showtime Networks"
         ]
     },
-    "reviews": 5,
+    "reviews": 0,
+    "tagline": "She loves you. She kills you. She becomes you.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0427512/",
-            "name": "April Campbell Jones"
+            "name": "April Campbell Jones",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0298230/",
-            "name": "Fleming B. Fuller"
+            "name": "Fleming B. Fuller",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0276345/",
-            "name": "Ronald J. Fields"
+            "name": "Ronald J. Fields",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H31M",
     "keywords": [
-        "male rear nudity",
-        "bare chested male",
-        "hairy chest",
-        "male pubic hair",
-        "briefs"
+        "sheriff",
+        "fbi",
+        "serial killer",
+        "mental patient",
+        "escaped mental patient"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0298230/",
-            "name": "Fleming B. Fuller"
+            "name": "Fleming B. Fuller",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0105169/",
     "metascore": null,
-    "imdb_votes": 426,
+    "imdb_votes": 444,
     "popularity": 0,
-    "description": "A small town sheriff and her boyfriend become involved in the investigation of an escaped killer who murders her victims and assumes their identities.",
-    "imdb_rating": "5/10 from 426 users",
-    "release_date": [],
-    "contentRating": "R",
-    "datePublished": "1992-07-11",
-    "imdb_rating_average": 5,
-    "update_at": "2025-05-17T22:52:23"
+    "description": "J.D. returns to his hometown many years after leaving Carrie at the altar.  After their unhappy reunion, J.D. heads to California, only to soon fall for a woman he helps with her broken down car.  Little does he know that this woman is a serial killer who takes on the identity of each of her victims.",
+    "imdb_rating": "5.0/10 from 444 users",
+    "release_date": [
+        {
+            "date": "1992-02-07",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1992-02-07",
+    "original_title": "Prey of the Chameleon",
+    "imdb_rating_average": 5.0,
+    "update_at": "2026-11-02T16:07:06"
 }
