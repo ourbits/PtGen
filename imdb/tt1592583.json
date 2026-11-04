@@ -11,66 +11,84 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1767850/",
-            "name": "Eleanor James"
+            "name": "Eleanor James",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2247645/",
-            "name": "Joanne Gale"
+            "name": "Joanne Gale",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1330023/",
-            "name": "Kim Sønderholm"
+            "name": "Kim Sønderholm",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDVhYzEzYmYtNDc5Ni00NTc2LWFhOWMtYjI0MDQzNzY2MDlmXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": null,
     "details": {
+        "Stars": [
+            "Eleanor James",
+            "Joanne Gale",
+            "Kim Sønderholm"
+        ],
+        "Genres": [
+            "Horror"
+        ],
+        "Writer": [
+            "James D. Layton"
+        ],
+        "Director": [
+            "James D. Layton"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 8, 2010 (United States)"
+            "2010"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Filming locations": [
-            "Birmingham, West Midlands, England, UK"
-        ],
-        "Production company": [
+        "Production companies": [
             "Oh Gosh! Productions"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3784306/",
-            "name": "James D. Layton"
+            "name": "James D. Layton",
+            "@type": "Person"
         }
     ],
     "duration": null,
     "keywords": [
-        "friend",
         "webcam",
+        "slasher",
         "torture",
         "terror",
-        "slasher"
+        "friend"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3784306/",
-            "name": "James D. Layton"
+            "name": "James D. Layton",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1592583/",
     "metascore": null,
-    "imdb_votes": 49,
+    "imdb_votes": 50,
     "popularity": 0,
-    "description": "Victoria is a bit sad due due to a break-up with her boyfriend, Matt. Her best friend Lilly tries to cheer her up, but fails. One day a strange character wearing a clown mask appears on her computer screen.",
-    "imdb_rating": "3.9/10 from 49 users",
+    "description": "Victoria (Eleanor James) is a bit sad due due to a break-up with her boyfriend, Matt (Kim Sønderholm). Her best friend Lilly (Joanne Gale) tries to cheer her up, but fails. One day a strange character wearing a clown mask appears on her computer screen. He calls himself Kam and he wants to play a game - it is the beginning of grueling nightmare for Victoria.",
+    "imdb_rating": "3.9/10 from 50 users",
     "release_date": [],
-    "contentRating": "Unrated",
-    "datePublished": "2010-01-08",
+    "contentRating": null,
+    "datePublished": "2010",
+    "original_title": "WebKam",
     "imdb_rating_average": 3.9,
-    "update_at": "2026-02-21T07:28:41"
+    "update_at": "2026-11-03T08:14:25"
 }

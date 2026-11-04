@@ -1,31 +1,50 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Sicília",
+            "country": "Brazil"
+        }
+    ],
     "sid": "tt1079379",
     "name": "Sicilia",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1997",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0002029/",
-            "name": "Maria Grazia Cucinotta"
+            "name": "Maria Grazia Cucinotta",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/fEinh6sej4mEZYPdx0BKKJshjvK.jpg",
     "details": {
+        "Stars": [
+            "Maria Grazia Cucinotta"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Rita Gari"
+        ],
+        "Runtime": [
+            "9 min"
+        ],
+        "Director": [
+            "Michelangelo Antonioni"
+        ],
         "Language": [
             "Italian"
         ],
         "Release date": [
-            "1997 (Italy)"
+            "1997-01-01"
         ],
         "Country of origin": [
-            "Italy"
-        ],
-        "Filming locations": [
             "Italy"
         ],
         "Production companies": [
@@ -34,31 +53,50 @@
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2739617/",
-            "name": "Rita Gari"
+            "name": "Rita Gari",
+            "@type": "Person"
         }
     ],
     "duration": "PT9M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0000774/",
-            "name": "Michelangelo Antonioni"
+            "name": "Michelangelo Antonioni",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1079379/",
     "metascore": null,
-    "imdb_votes": 58,
+    "imdb_votes": 56,
     "popularity": 0,
-    "description": "Visual poem presenting Antonioni&apos;s impressions of Sicily.",
-    "imdb_rating": "6.9/10 from 58 users",
-    "release_date": [],
+    "description": "This short documentary offers a visual portrait of Sicily as observed by Michelangelo Antonioni. Composed as a series of images rather than a narrative account, the film presents Antonioni’s impressions of the landscape and atmosphere of the island.",
+    "imdb_rating": "6.9/10 from 56 users",
+    "release_date": [
+        {
+            "date": "2023-10-19",
+            "country": "Brazil"
+        },
+        {
+            "date": "1997-01-01",
+            "country": "Italy"
+        },
+        {
+            "date": "2008-06-29",
+            "country": "Singapore"
+        },
+        {
+            "date": "2007-04-22",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1997-01-01",
+    "original_title": "Sicilia",
     "imdb_rating_average": 6.9,
-    "update_at": "2026-04-20T09:28:12"
+    "update_at": "2026-11-03T22:56:15"
 }

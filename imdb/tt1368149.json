@@ -4,57 +4,72 @@
     "name": "The Son",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0808606/",
-            "name": "Jamil Walker Smith"
+            "name": "Jamil Walker Smith",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0454546/",
-            "name": "Carlyle King"
+            "name": "Carlyle King",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0620558/",
-            "name": "Rashaan Nall"
+            "name": "Rashaan Nall",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Jamil Walker Smith",
+            "Carlyle King",
+            "Rashaan Nall"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Jamil Walker Smith"
+        ],
+        "Director": [
+            "Jamil Walker Smith",
+            "Rey Valentin"
         ],
         "Release date": [
-            "June 11, 2007 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
+            "2007"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0808606/",
-            "name": "Jamil Walker Smith"
+            "name": "Jamil Walker Smith",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0808606/",
-            "name": "Jamil Walker Smith"
+            "name": "Jamil Walker Smith",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1732800/",
-            "name": "Rey Valentin"
+            "name": "Rey Valentin",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1368149/",
@@ -65,7 +80,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2007-06-11",
+    "datePublished": "2007",
+    "original_title": "The Son",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-03T04:00:26"
+    "update_at": "2026-11-03T06:42:35"
 }

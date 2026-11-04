@@ -4,74 +4,124 @@
     "name": "Les Dents du bonheur",
     "site": "imdb",
     "year": "2023",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1191660/",
-            "name": "Stéphane Bissot"
+            "name": "Stéphane Bissot",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0087207/",
-            "name": "Sandrine Blancke"
+            "name": "Sandrine Blancke",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm14161687/",
-            "name": "Jeanne Civeaux"
+            "name": "Jeanne Civeaux",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm13662765/",
+            "name": "Lou Deleuze",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1211529/",
+            "name": "Florence Janas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2063878/",
+            "name": "Pauline Lorillard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6059055/",
+            "name": "Ana Rodriguez",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGE1ZDc1OWYtMzk3ZC00MGEyLTg2NDItZWZkMGFjNzNiZjVhXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/3v6rweoXNBIXSfYkthP8FfJJ0FO.jpg",
     "details": {
+        "Stars": [
+            "Stéphane Bissot",
+            "Sandrine Blancke",
+            "Jeanne Civeaux"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Joséphine Darcy Hopkins",
+            "Jean-Jacques Kahn"
+        ],
+        "Runtime": [
+            "25 min"
+        ],
+        "Director": [
+            "Joséphine Darcy Hopkins"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "October 20, 2023 (United States)"
-        ],
-        "Also known as": [
-            "Geld oder Zähne"
+            "2023-01-29"
         ],
         "Country of origin": [
+            "Belgium",
             "France"
         ],
-        "Production company": [
+        "Production companies": [
+            "Need Productions",
+            "Le Lapin Blanc Productions",
             "To Be Continued"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm7372380/",
-            "name": "Joséphine Darcy Hopkins"
+            "name": "Joséphine Darcy Hopkins",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0434853/",
-            "name": "Jean-Jacques Kahn"
+            "name": "Jean-Jacques Kahn",
+            "@type": "Person"
         }
     ],
     "duration": "PT25M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm7372380/",
-            "name": "Joséphine Darcy Hopkins"
+            "name": "Joséphine Darcy Hopkins",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt26474106/",
     "metascore": null,
-    "imdb_votes": 90,
+    "imdb_votes": 97,
     "popularity": 0,
-    "description": "Eight-year-old Madeleine accompanies her mother, a beautician, to the homes of new clients. When she arrives at one of the clients, she meets Eugenie, Constance, and Emerald, who invite her to the basement to play a cruel board game.",
-    "imdb_rating": "7.1/10 from 90 users",
-    "release_date": [],
+    "description": "Madeleine go with her mother, a mobile esthetician, at new customer's home in a fancy neighborhood. The 8 years old girl is sent in the game room and three girls invite her to play around a board game. But she has to bet money, which Madeleine has not.",
+    "imdb_rating": "7.1/10 from 97 users",
+    "release_date": [
+        {
+            "date": "2023-01-29",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2023-10-20",
+    "datePublished": "2023-01-29",
+    "original_title": "Les Dents du bonheur",
     "imdb_rating_average": 7.1,
-    "update_at": "2025-10-05T03:39:31"
+    "update_at": "2026-11-03T05:21:22"
 }

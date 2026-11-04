@@ -4,85 +4,146 @@
     "name": "Ellen Foster",
     "site": "imdb",
     "year": "1997",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0364915/",
-            "name": "Julie Harris"
+            "name": "Julie Harris",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0540441/",
-            "name": "Jena Malone"
+            "name": "Jena Malone",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0505971/",
-            "name": "Ted Levine"
+            "name": "Ted Levine",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0640344/",
+            "name": "Glynnis O'Connor",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0598213/",
+            "name": "Debra Monk",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0308241/",
+            "name": "Barbara Garrick",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0123632/",
+            "name": "Kate Burton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0411964/",
+            "name": "Zeljko Ivanek",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0600508/",
+            "name": "Lynne Moody",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0638056/",
+            "name": "Bill Nunn",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDUxYTM0NWUtZTcxNi00ZDE0LTk3MGQtZjYwM2YwNDM2NjQ0XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/iv4tahnFKwqXdWSll0ZbnyxPuWT.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Julie Harris",
+            "Jena Malone",
+            "Ted Levine"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Kaye Gibbons",
+            "Maria Nation",
+            "William Hanley"
+        ],
+        "Runtime": [
+            "94 min"
+        ],
+        "Director": [
+            "John Erman"
         ],
         "Release date": [
-            "December 14, 1997 (United States)"
-        ],
-        "Also known as": [
-            "Hallmark Hall of Fame: Ellen Foster (#47.2)"
+            "1997-12-14"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Vancouver, British Columbia, Canada"
+            "United States of America"
         ],
         "Production companies": [
             "Hallmark Hall of Fame Productions",
             "Hallmark Productions"
         ]
     },
-    "reviews": 14,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0316570/",
-            "name": "Kaye Gibbons"
+            "name": "Kaye Gibbons",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0622329/",
-            "name": "Maria Nation"
+            "name": "Maria Nation",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0360113/",
-            "name": "William Hanley"
+            "name": "William Hanley",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H34M",
     "keywords": [
-        "death",
-        "coming of age",
-        "reflective",
-        "mother daughter relationship",
-        "loss of innocence"
+        "abusive father",
+        "homeless",
+        "homeless girl"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0259589/",
-            "name": "John Erman"
+            "name": "John Erman",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0133735/",
     "metascore": null,
-    "imdb_votes": 639,
+    "imdb_votes": 732,
     "popularity": 0,
-    "description": "After her mother&apos;s death, a young girl is separated from her abusive father and is sent between her various friends and relatives, always longing to find a place to call home.",
-    "imdb_rating": "6.9/10 from 639 users",
-    "release_date": [],
+    "description": "After her mother's death, a young girl is separated from her abusive father and is sent between her various friends and relatives, always longing to find a place to call home.",
+    "imdb_rating": "6.9/10 from 732 users",
+    "release_date": [
+        {
+            "date": "1998-12-02",
+            "country": "Germany"
+        },
+        {
+            "date": "1997-12-14",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": "PG-13",
     "datePublished": "1997-12-14",
+    "original_title": "Ellen Foster",
     "imdb_rating_average": 6.9,
-    "update_at": "2025-02-03T17:00:59"
+    "update_at": "2026-11-03T05:42:08"
 }

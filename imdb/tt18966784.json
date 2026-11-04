@@ -3,6 +3,7 @@
     "sid": "tt18966784",
     "name": "Teddy",
     "site": "imdb",
+    "year": "",
     "@type": "Movie",
     "genre": [
         "Comedy"
@@ -10,38 +11,51 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3264596/",
-            "name": "Kid Cudi"
+            "name": "Kid Cudi",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Kid Cudi"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Kid Cudi"
+        ],
+        "Director": [
+            "Kid Cudi"
+        ],
         "Language": [
             "English"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
-            "Mad Solar Productions",
-            "Netflix"
+            "Mad Solar"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3264596/",
-            "name": "Kid Cudi"
+            "name": "Kid Cudi",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3264596/",
-            "name": "Kid Cudi"
+            "name": "Kid Cudi",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt18966784/",
@@ -52,7 +66,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "",
+    "original_title": "Teddy",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-05T16:49:12"
+    "update_at": "2026-11-03T09:14:18"
 }

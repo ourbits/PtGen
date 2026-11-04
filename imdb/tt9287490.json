@@ -3,7 +3,8 @@
     "sid": "tt9287490",
     "name": "First Blood Part II: Behind the Scenes",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1985",
+    "@type": "VideoObject",
     "genre": [
         "Documentary",
         "Short"
@@ -11,35 +12,45 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0181902/",
-            "name": "George P. Cosmatos"
+            "name": "George P. Cosmatos",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001077/",
-            "name": "Richard Crenna"
+            "name": "Richard Crenna",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000230/",
-            "name": "Sylvester Stallone"
+            "name": "Sylvester Stallone",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "George P. Cosmatos",
+            "Richard Crenna",
+            "Sylvester Stallone"
+        ],
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Runtime": [
+            "2 min"
         ],
         "Release date": [
-            "1985 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
+            "1985"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": "PT2M",
-    "keywords": [
-        "dvd extra"
-    ],
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt9287490/",
     "metascore": null,
     "imdb_votes": 0,
@@ -48,7 +59,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1985",
+    "original_title": "First Blood Part II: Behind the Scenes",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-24T13:14:05"
+    "update_at": "2026-11-04T00:00:13"
 }

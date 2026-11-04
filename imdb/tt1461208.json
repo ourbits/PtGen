@@ -4,70 +4,134 @@
     "name": "Ciao, ciao bambina",
     "site": "imdb",
     "year": "1988",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0749538/",
-            "name": "Vicko Ruic"
+            "name": "Vicko Ruic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0352967/",
-            "name": "Emir Hadzihafizbegovic"
+            "name": "Emir Hadžihafizbegović",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1242930/",
-            "name": "Renata Jurkovic"
+            "name": "Renata Jurkovic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0489913/",
+            "name": "Sven Lasta",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0340005/",
+            "name": "Ivo Gregurević",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0420507/",
+            "name": "Zdenko Jelcic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1165936/",
+            "name": "Ivica Lesnik",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0904479/",
+            "name": "Predrag 'Predjo' Vusovic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0229766/",
+            "name": "Ankica Dobrić",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1059224/",
+            "name": "Danilo Poprzen",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTIwMTZhZmUtYTQ4Ny00MWI0LWE3MTQtODBlOTA5OTQ3ZmIwXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/geZW7Idac0orJlMM5lZoUcsovSP.jpg",
     "details": {
+        "Stars": [
+            "Vicko Ruic",
+            "Emir Hadžihafizbegović",
+            "Renata Jurkovic"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Dragutin Krencer",
+            "Vedran Mihletic"
+        ],
+        "Runtime": [
+            "56 min"
+        ],
+        "Director": [
+            "Vedran Mihletic"
+        ],
         "Language": [
             "Serbo-Croatian"
         ],
         "Release date": [
-            "May 16, 1988 (Yugoslavia)"
+            "1988-05-16"
         ],
         "Country of origin": [
             "Yugoslavia"
         ],
-        "Production company": [
+        "Production companies": [
             "Televizija Zagreb"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0470830/",
-            "name": "Dragutin Krencer"
+            "name": "Dragutin Krencer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0586242/",
-            "name": "Vedran Mihletic"
+            "name": "Vedran Mihletic",
+            "@type": "Person"
         }
     ],
     "duration": "PT56M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0586242/",
-            "name": "Vedran Mihletic"
+            "name": "Vedran Mihletic",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1461208/",
     "metascore": null,
     "imdb_votes": 15,
     "popularity": 0,
-    "description": null,
+    "description": "A monotonous life of a timid clerk from Zagreb takes an unexpected turn when an easygoing slacker from Bosnia deliberately moves into his apartment.",
     "imdb_rating": "6.5/10 from 15 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1988-05-16",
+            "country": "Yugoslavia"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1988-05-16",
+    "original_title": "Ciao, ciao bambina",
     "imdb_rating_average": 6.5,
-    "update_at": "2025-07-22T06:13:20"
+    "update_at": "2026-11-03T21:14:07"
 }

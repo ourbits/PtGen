@@ -3,66 +3,95 @@
     "sid": "tt0210966",
     "name": "Schrödingers kat",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1990",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0004486/",
-            "name": "Bruno Ganz"
+            "name": "Bruno Ganz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm10254831/",
-            "name": "Ischa Gast"
+            "name": "Ischa Gast",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0508085/",
-            "name": "Johan Leysen"
+            "name": "Johan Leysen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0374049/",
+            "name": "Eva van Heijningen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11980260/",
+            "name": "Thomas van Neerbos",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDRjN2U0NzAtZGE4Mi00NDgyLWJlYzktZDUyZTIyN2JhOGE4XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "Dutch"
+        "Stars": [
+            "Bruno Ganz",
+            "Ischa Gast",
+            "Johan Leysen"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Bart Klei"
+        ],
+        "Runtime": [
+            "18 min"
+        ],
+        "Director": [
+            "Paolo Pistolesi"
         ],
         "Release date": [
-            "1990 (Netherlands)"
-        ],
-        "Country of origin": [
-            "Netherlands"
-        ],
-        "Production company": [
-            "SNG Film / Studio Nieuwe Gronden"
+            "1990-07-20"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1757245/",
-            "name": "Bart Klei"
+            "name": "Bart Klei",
+            "@type": "Person"
         }
     ],
     "duration": "PT18M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0685576/",
-            "name": "Paolo Pistolesi"
+            "name": "Paolo Pistolesi",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0210966/",
     "metascore": null,
     "imdb_votes": 33,
     "popularity": 0,
-    "description": null,
+    "description": "What happens if you put a cat in a box and then fill it with gas?",
     "imdb_rating": "6.8/10 from 33 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1990-07-20",
+            "country": "Netherlands"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1990-07-20",
+    "original_title": "Schrödingers kat",
     "imdb_rating_average": 6.8,
-    "update_at": "2025-04-30T05:00:25"
+    "update_at": "2026-11-03T15:28:25"
 }

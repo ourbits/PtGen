@@ -4,7 +4,7 @@
     "name": "Omut",
     "site": "imdb",
     "year": "2024",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Drama",
         "Mystery",
@@ -13,57 +13,109 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm4468655/",
-            "name": "Kseniya Romenkova"
+            "name": "Kseniya Romenkova",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm7579654/",
-            "name": "Anton Denisenko"
+            "name": "Anton Denisenko",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm7278789/",
-            "name": "Valeriy Pankov"
+            "name": "Valeriy Pankov",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6767702/",
+            "name": "Julianna Mihnevich",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5741562/",
+            "name": "Egor Klimovich",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6894110/",
+            "name": "Anton Zhukov",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5256982/",
+            "name": "Oksana Lesnaya",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm12913424/",
+            "name": "Anna Semenyako",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10593729/",
+            "name": "Stanislav Savostin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm16744497/",
+            "name": "Marianna Mokhan",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjg1NDNkOGEtNTdmMC00YzY3LTg3M2YtMmFmNDUyOGM0NzQ5XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "Russian"
+        "Stars": [
+            "Kseniya Romenkova",
+            "Anton Denisenko",
+            "Valeriy Pankov"
+        ],
+        "Genres": [
+            "Drama",
+            "Mystery",
+            "Romance"
+        ],
+        "Writer": [
+            "Valentina Vlasova"
+        ],
+        "Runtime": [
+            "49 min"
+        ],
+        "Director": [
+            "Valentina Vlasova"
         ],
         "Release date": [
-            "November 24, 2024 (Russia)"
-        ],
-        "Also known as": [
-            "Омут"
-        ],
-        "Official site": [
-            "TV3 - https://tv3.ru/project/omut"
-        ],
-        "Country of origin": [
-            "Russia"
-        ],
-        "Filming locations": [
-            "Belarus"
-        ],
-        "Production company": [
-            "Kedr"
+            "2024"
         ]
     },
     "reviews": 0,
-    "creators": [],
-    "duration": null,
-    "keywords": [
-        "tv mini series"
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm4495271/",
+            "name": "Valentina Vlasova",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT49M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm4495271/",
+            "name": "Valentina Vlasova",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt34680101/",
     "metascore": null,
-    "imdb_votes": 7,
+    "imdb_votes": 12,
     "popularity": 0,
-    "description": "A psychologist relocates her family to her hometown for her daughter&apos;s health, where she encounters her first love. As their old feelings resurface, their respective spouses fight to preserve their marriages.",
-    "imdb_rating": "8/10 from 7 users",
+    "description": null,
+    "imdb_rating": "7.6/10 from 12 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2024-11-24",
-    "imdb_rating_average": 8,
-    "update_at": "2025-05-18T05:26:26"
+    "datePublished": "2024",
+    "original_title": "Omut",
+    "imdb_rating_average": 7.6,
+    "update_at": "2026-11-03T05:00:14"
 }

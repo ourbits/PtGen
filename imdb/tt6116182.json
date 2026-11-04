@@ -4,81 +4,140 @@
     "name": "Am Ruder",
     "site": "imdb",
     "year": "2017",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0617852/",
-            "name": "Wotan Wilke Möhring"
+            "name": "Wotan Wilke Möhring",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1918947/",
-            "name": "Julia Koschitz"
+            "name": "Julia Koschitz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2128801/",
-            "name": "Inga Birkenfeld"
+            "name": "Inga Birkenfeld",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2146564/",
+            "name": "Godehard Giese",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1869349/",
+            "name": "Thelma Buabeng",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0096011/",
+            "name": "Dirk Borchardt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1493930/",
+            "name": "Rainer Piwek",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0508996/",
+            "name": "Simon Licht",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0367074/",
+            "name": "Hubertus Hartmann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6581043/",
+            "name": "Gonca de Haas",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmUwMTdiYjEtZTI4ZC00MjUyLWJiM2MtMGFmZjY2OGEyYWFiXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/yLyeut04TcA1hl786OyeTN6IEIY.jpg",
     "details": {
+        "Stars": [
+            "Wotan Wilke Möhring",
+            "Julia Koschitz",
+            "Inga Birkenfeld"
+        ],
+        "Genres": [
+            "Crime"
+        ],
+        "Writer": [
+            "Jakob Arjouni",
+            "Alexandra Maxeiner",
+            "Stephan Wagner"
+        ],
+        "Runtime": [
+            "88 min"
+        ],
+        "Director": [
+            "Stephan Wagner"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "June 7, 2017 (Germany)"
-        ],
-        "Also known as": [
-            "At the Helm"
+            "2017-06-07"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Production company": [
-            "Carte Blanche Film"
+        "Production companies": [
+            "ARD"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0035017/",
-            "name": "Jakob Arjouni"
+            "name": "Jakob Arjouni",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2567667/",
-            "name": "Alexandra Maxeiner"
+            "name": "Alexandra Maxeiner",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0906114/",
-            "name": "Stephan Wagner"
+            "name": "Stephan Wagner",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H28M",
-    "keywords": [
-        "bank robbery",
-        "hostage taker hostage relationship",
-        "female bank robber",
-        "unfaithful wife",
-        "hostage"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0906114/",
-            "name": "Stephan Wagner"
+            "name": "Stephan Wagner",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt6116182/",
     "metascore": null,
-    "imdb_votes": 50,
+    "imdb_votes": 49,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "5.2/10 from 50 users",
-    "release_date": [],
+    "description": "Michael Schröder is the owner of a fitness studio that is not running. His marriage to the aristocratic and wealthy lawyer Elisabeth also only exists on paper. She lives out her love affair with lover Cornelius openly, but a divorce is unthinkable for Elisabeth for reasons of reputation. Because Michael is up to his neck financially, she gets him a loan. When he arrives at the bank, he is taken hostage during a robbery. The masked bank robber turns out to be a female bank robber. Nina seems aggressive, tired of life and unpredictable. The grueling wait for ransom money and a getaway car eventually turns hostage and hostage-taker into a fated couple. Michael even knows who they can demand more money from. But then everything gets out of hand.",
+    "imdb_rating": "5.2/10 from 49 users",
+    "release_date": [
+        {
+            "date": "2017-06-07",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2017-06-07",
+    "original_title": "Am Ruder",
     "imdb_rating_average": 5.2,
-    "update_at": "2025-08-13T03:28:55"
+    "update_at": "2026-11-03T19:49:26"
 }

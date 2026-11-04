@@ -4,7 +4,7 @@
     "name": "Treasures on the Wing",
     "site": "imdb",
     "year": "1912",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Comedy",
         "Short"
@@ -12,55 +12,75 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0704334/",
-            "name": "Billy Quirk"
+            "name": "Billy Quirk",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0180467/",
-            "name": "Blanche Cornwall"
+            "name": "Blanche Cornwall",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1268452/",
-            "name": "Magda Foy"
+            "name": "Magda Foy",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Stars": [
+            "Billy Quirk",
+            "Blanche Cornwall",
+            "Magda Foy"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Director": [
+            "Alice Guy"
+        ],
+        "Language": [
+            "No Language"
         ],
         "Release date": [
-            "September 11, 1912 (United States)"
+            "1912-09-11"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Solax Film Company"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": null,
-    "keywords": [
-        "title directed by female"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0349785/",
-            "name": "Alice Guy"
+            "name": "Alice Guy",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0339816/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Dr. Brown is called out of town on an emergency case. Mrs. Brown loves her husband, is very attentive to him, and sees to the doctor&apos;s wants most diligently. When the doctor is about to leave, Mrs. Brown notices the large awkward ...",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1912-09-11",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1912-09-11",
+    "original_title": "Treasures on the Wing",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-20T16:39:32"
+    "update_at": "2026-11-04T00:42:07"
 }

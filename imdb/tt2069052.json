@@ -4,67 +4,97 @@
     "name": "Mezanin",
     "site": "imdb",
     "year": "2011",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0660913/",
-            "name": "Leona Paraminski"
+            "name": "Leona Paraminski",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1085832/",
-            "name": "Jagoda Kralj"
+            "name": "Jagoda Kralj",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0515149/",
-            "name": "Alen Liveric"
+            "name": "Alen Liveric",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTAyNTMxMTAxMDBeQTJeQWpwZ15BbWU4MDQ5NTc2NTUx._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/kNRKayz1CPXZPcp5q1JPYKECs53.jpg",
     "details": {
+        "Stars": [
+            "Leona Paraminski",
+            "Jagoda Kralj",
+            "Alen Liveric"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Dalibor Matanić"
+        ],
+        "Runtime": [
+            "14 min"
+        ],
+        "Director": [
+            "Dalibor Matanić"
+        ],
         "Language": [
             "Croatian"
         ],
         "Release date": [
-            "July 26, 2011 (Bosnia and Herzegovina)"
+            "2011-07-26"
         ],
         "Country of origin": [
             "Croatia"
         ],
-        "Production company": [
+        "Production companies": [
             "Kinorama"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0558094/",
-            "name": "Dalibor Matanic"
+            "name": "Dalibor Matanić",
+            "@type": "Person"
         }
     ],
     "duration": "PT14M",
     "keywords": [
-        ""
+        "business"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0558094/",
-            "name": "Dalibor Matanic"
+            "name": "Dalibor Matanić",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2069052/",
     "metascore": null,
-    "imdb_votes": 47,
+    "imdb_votes": 51,
     "popularity": 0,
-    "description": "The third part of a six-part omnibus, the film is set in an alienated city ruled by merciless principles of corporate society in which a young woman consents to be reduced to mere human flesh, as it is the only ticket to the game ...",
-    "imdb_rating": "6.2/10 from 47 users",
-    "release_date": [],
+    "description": "Young girl encouraged by her own mother enters the cruel business world.",
+    "imdb_rating": "6.2/10 from 51 users",
+    "release_date": [
+        {
+            "date": "2011-07-26",
+            "country": "Bosnia and Herzegovina"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2011-07-26",
+    "original_title": "Mezanin",
     "imdb_rating_average": 6.2,
-    "update_at": "2025-07-25T18:28:56"
+    "update_at": "2026-11-03T10:35:32"
 }

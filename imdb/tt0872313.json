@@ -4,7 +4,7 @@
     "name": "Big Fish in Middlesex",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Comedy",
         "Drama"
@@ -12,68 +12,122 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0911658/",
-            "name": "Keith Ward"
+            "name": "Keith Ward",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2078574/",
-            "name": "Wes Reid"
+            "name": "Wes Reid",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2414748/",
-            "name": "Fredro Williams"
+            "name": "Fredro Williams",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2409850/",
+            "name": "Michael Wingfield",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2409022/",
+            "name": "Dustin Joseph",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2411045/",
+            "name": "Jonathan Manning",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2407167/",
+            "name": "Becky Kellum",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2410385/",
+            "name": "Michelle Foss",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2413496/",
+            "name": "Cassandra Lisette",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2409885/",
+            "name": "Linda Scranton",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDc4NDIzMV5BMl5BanBnXkFtZTcwMjg1NDM0MQ@@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Keith Ward",
+            "Wes Reid",
+            "Fredro Williams"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "Writer": [
+            "Jonathan Straiton"
+        ],
+        "Runtime": [
+            "113 min"
+        ],
+        "Director": [
+            "Jonathan Straiton"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 4, 2006 (United States)"
-        ],
-        "Official sites": [
-            "Offical MySpace - http://www.myspace.com/bigfishinmiddlesex",
-            "Official site - http://www.bigfishinmiddlesex.com/"
+            "2006-03-04"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
-            "Duke Studios",
             "White Lightning Productions"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": "Sex, Drugs, and Country Livin!",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2410382/",
-            "name": "Jonathan Straiton"
+            "name": "Jonathan Straiton",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H53M",
-    "keywords": [
-        "urban setting",
-        "sex",
-        "drugs",
-        "big fish in middlesex",
-        "independent film"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2410382/",
-            "name": "Jonathan Straiton"
+            "name": "Jonathan Straiton",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0872313/",
     "metascore": null,
-    "imdb_votes": 47,
+    "imdb_votes": 44,
     "popularity": 0,
     "description": "Set against the life in a prejudiced southern small town, with hilarious street-smart humor, the rules are clear- there are no rules.",
-    "imdb_rating": "7.8/10 from 47 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "imdb_rating": "7.9/10 from 44 users",
+    "release_date": [
+        {
+            "date": "2006-03-04",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2006-03-04",
-    "imdb_rating_average": 7.8,
-    "update_at": "2025-09-26T10:14:29"
+    "original_title": "Big Fish in Middlesex",
+    "imdb_rating_average": 7.9,
+    "update_at": "2026-11-03T09:07:30"
 }

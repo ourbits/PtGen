@@ -4,7 +4,7 @@
     "name": "Molly: An American Girl on the Home Front",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Family",
@@ -13,78 +13,135 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2325818/",
-            "name": "Maya Ritter"
+            "name": "Maya Ritter",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0048379/",
-            "name": "David Aaron Baker"
+            "name": "David Aaron Baker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2259148/",
-            "name": "Tory Green"
+            "name": "Tory Green",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0543215/",
+            "name": "Sarah Manninen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1029357/",
+            "name": "Genevieve Farrell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1494947/",
+            "name": "Andrew Chalmers",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000208/",
+            "name": "Molly Ringwald",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2212197/",
+            "name": "Hannah Fleming",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2343592/",
+            "name": "Samantha Somer Wilson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2082118/",
+            "name": "Josette Halpert",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzI2MzQ1OTUtODk1Ni00M2Q2LTg3MmMtNjgzYjQxMTUwOTE1XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/2pnnRadfln0sIRUM8LlEg2aBfe7.jpg",
     "details": {
+        "Stars": [
+            "Maya Ritter",
+            "David Aaron Baker",
+            "Tory Green"
+        ],
+        "Genres": [
+            "Drama",
+            "Family",
+            "War"
+        ],
+        "Writer": [
+            "Anna Sandor",
+            "Valerie Tripp"
+        ],
+        "Runtime": [
+            "85 min"
+        ],
+        "Director": [
+            "Joyce Chopra"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 26, 2006 (United States)"
-        ],
-        "Also known as": [
-            "Molly: An American Girl Victory"
-        ],
-        "Official site": [
-            "Official site - http://www.americangirl.com/movie/molly/"
+            "2006-11-26"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Unionville, Ontario, Canada"
+            "United States of America"
         ],
         "Production companies": [
-            "American Girl",
-            "Disney Channel",
-            "Red Om Films"
+            "Red Om Films",
+            "Warner Bros. Television",
+            "Revolution Studios"
         ]
     },
-    "reviews": 15,
+    "reviews": 0,
+    "tagline": "The world is at war and one girl's hope and courage are put to the test.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0762071/",
-            "name": "Anna Sandor"
+            "name": "Anna Sandor",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2090987/",
-            "name": "Valerie Tripp"
+            "name": "Valerie Tripp",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H25M",
     "keywords": [
-        "year 1944",
-        "year 1943",
-        "1940s",
-        "tap dancing",
-        "nightmare"
+        "world war ii",
+        "american",
+        "woman director"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0159154/",
-            "name": "Joyce Chopra"
+            "name": "Joyce Chopra",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0828151/",
     "metascore": null,
-    "imdb_votes": 1022,
+    "imdb_votes": 1088,
     "popularity": 0,
-    "description": "Molly is a girl living in the year 1943 and WWII has brought many changes to Molly&apos;s life. An English girl comes to live with Molly&apos;s family to escape the bombings. They slowly become good friends.",
-    "imdb_rating": "6.6/10 from 1022 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "Molly is a girl living in the year 1944 and WWII has brought many changes to Molly's life. An English girl comes to live with Molly's family to escape the bombings. They slowly become good friends.",
+    "imdb_rating": "6.7/10 from 1088 users",
+    "release_date": [
+        {
+            "date": "2006-11-26",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2006-11-26",
-    "imdb_rating_average": 6.6,
-    "update_at": "2025-02-12T12:27:19"
+    "original_title": "Molly: An American Girl on the Home Front",
+    "imdb_rating_average": 6.7,
+    "update_at": "2026-11-03T22:49:29"
 }

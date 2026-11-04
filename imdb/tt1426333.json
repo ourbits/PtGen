@@ -4,67 +4,81 @@
     "name": "Onder de tafel",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0196723/",
-            "name": "Hans Dagelet"
+            "name": "Hans Dagelet",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1514445/",
-            "name": "Jochum ten Haaf"
+            "name": "Jochum ten Haaf",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODMwOGQyYWItZjM5OS00MDgxLWJhNTEtM2NhMDYwZDU3MGZmXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": null,
     "details": {
-        "Language": [
-            "Dutch"
+        "Stars": [
+            "Hans Dagelet",
+            "Jochum ten Haaf"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Bastiaan Kroeger"
+        ],
+        "Runtime": [
+            "39 min"
+        ],
+        "Director": [
+            "Sacha Polak"
         ],
         "Release date": [
-            "September 20, 2008 (Netherlands)"
-        ],
-        "Country of origin": [
-            "Netherlands"
-        ],
-        "Filming locations": [
-            "Bungalowpark Landgrave, Zuid-Limburg, Netherlands"
-        ],
-        "Production companies": [
-            "IJswater Films",
-            "Nederlandse Programma Stichting (NPS)",
-            "Verenigde Arbeiders Radio Amateurs (VARA)"
+            "2008-09-27"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1459157/",
-            "name": "Bastiaan Kroeger"
+            "name": "Bastiaan Kroeger",
+            "@type": "Person"
         }
     ],
     "duration": "PT39M",
     "keywords": [
-        ""
+        "alcoholism",
+        "woman director"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2383508/",
-            "name": "Sacha Polak"
+            "name": "Sacha Polak",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1426333/",
     "metascore": null,
-    "imdb_votes": 11,
+    "imdb_votes": 13,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.8/10 from 11 users",
-    "release_date": [],
+    "description": "Onder de tafel is a melancholic father-son tale which starts when Jacob hears that his father Kees has started drinking again. He needs to be picked up at the clinic where he is treated for alcoholism. Jacob takes his father to a bungalow park hoping to be able to connect with him at a place where they used to be a happy family. Kees does not recognize his son and the first chance he gets, he grabs a can of beer. Jacob realises that the only chance he has of reconnecting with his dad, is to drink together. And so they do.",
+    "imdb_rating": "7.8/10 from 13 users",
+    "release_date": [
+        {
+            "date": "2008-09-27",
+            "country": "Netherlands"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2008-09-20",
+    "datePublished": "2008-09-27",
+    "original_title": "Onder de tafel",
     "imdb_rating_average": 7.8,
-    "update_at": "2025-02-10T23:40:38"
+    "update_at": "2026-11-03T20:21:13"
 }

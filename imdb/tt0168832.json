@@ -4,7 +4,7 @@
     "name": "Goo-Goo a Go-Go",
     "site": "imdb",
     "year": "1967",
-    "@type": "Movie",
+    "@type": "TVShort",
     "genre": [
         "Animation",
         "Short"
@@ -12,53 +12,73 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0125518/",
-            "name": "Frank Buxton"
+            "name": "Frank Buxton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0125518/",
+            "name": "Frank Buxton",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0561752/",
-            "name": "Len Maxwell"
+            "name": "Len Maxwell",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Frank Buxton",
+            "Frank Buxton",
+            "Len Maxwell"
+        ],
+        "Genres": [
+            "Animation",
+            "Short"
+        ],
+        "Writer": [
+            "Heywood Kling"
+        ],
+        "Runtime": [
+            "5 min"
+        ],
+        "Director": [
+            "Hal Seeger"
+        ],
         "Release date": [
-            "March 1, 1967 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production companies": [
-            "Hal Seeger Productions",
-            "Screen Gems"
+            "1967"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
-            "url": "https://www.imdb.com/name/nm0459708/",
-            "name": "Heywood Kling"
+            "url": "https://www.imdb.com/name/nm0455388/",
+            "name": "Heywood Kling",
+            "@type": "Person"
         }
     ],
     "duration": "PT5M",
-    "keywords": [
-        "batfink"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0781511/",
-            "name": "Hal Seeger"
+            "name": "Hal Seeger",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0168832/",
     "metascore": null,
-    "imdb_votes": 6,
+    "imdb_votes": 0,
     "popularity": 0,
-    "description": "Hugo A Go-Go has developed a mechanical grenade throwing baby.",
-    "imdb_rating": "7.4/10 from 6 users",
+    "description": null,
+    "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1967-03-01",
-    "imdb_rating_average": 7.4,
-    "update_at": "2025-05-12T08:11:43"
+    "datePublished": "1967",
+    "original_title": "Goo-Goo a Go-Go",
+    "imdb_rating_average": 0,
+    "update_at": "2026-11-03T13:07:17"
 }

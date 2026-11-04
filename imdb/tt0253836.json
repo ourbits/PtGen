@@ -1,9 +1,19 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Giuseppe Verdi - La traviata (Orchestra of the Royal Opera House feat. conductor: Georg Solti)",
+            "country": "Italy"
+        },
+        {
+            "title": "ジュゼッペ・ヴェルディ - 椿姫（ゲオルク・ショルティ指揮ロイヤル・オペラ・ハウス管弦楽団）",
+            "country": "Japan"
+        }
+    ],
     "sid": "tt0253836",
-    "name": "La traviata",
+    "name": "La Traviata",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2001",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Music"
@@ -11,50 +21,104 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0315636/",
-            "name": "Angela Gheorghiu"
+            "name": "Angela Gheorghiu",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0519797/",
-            "name": "Frank Lopardo"
+            "name": "Frank Lopardo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0637715/",
-            "name": "Leo Nucci"
+            "name": "Leo Nucci",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0885568/",
+            "name": "Richard Van Allan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0066583/",
+            "name": "Mark Beesley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0428638/",
+            "name": "Leah-Marian Jones",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0247347/",
+            "name": "Roderick Earle",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0499314/",
+            "name": "Robin Leggate",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0460910/",
+            "name": "Gillian Knight",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0317168/",
+            "name": "Rodney Gibson",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTg0MjQ4MTQ3MV5BMl5BanBnXkFtZTcwMzAwODkyMQ@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/sfQlLJVUeKWVJdXmcZrXPulXkbn.jpg",
     "details": {
+        "Stars": [
+            "Angela Gheorghiu",
+            "Frank Lopardo",
+            "Leo Nucci"
+        ],
+        "Genres": [
+            "Drama",
+            "Music"
+        ],
+        "Writer": [
+            "Francesco Maria Piave",
+            "Alexandre Dumas fils"
+        ],
+        "Runtime": [
+            "134 min"
+        ],
+        "Director": [
+            "Humphrey Burton",
+            "Peter Maniura"
+        ],
         "Language": [
             "Italian"
         ],
-        "Also known as": [
-            "La Traviata by Giuseppe Verdi"
-        ],
-        "Official site": [
-            "Official Site - http://www.deccaclassics.com/en/cat/4783708"
+        "Release date": [
+            "2001-03-04"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Filming locations": [
-            "Royal Opera House, Covent Garden, London, England, UK"
-        ],
         "Production companies": [
-            "British Broadcasting Corporation (BBC)",
-            "Covent Garden Pioneer FSP",
-            "The Royal Opera House"
+            "Royal Opera House",
+            "Decca"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0681309/",
-            "name": "Francesco Maria Piave"
+            "name": "Francesco Maria Piave",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0241414/",
-            "name": "Alexandre Dumas fils"
+            "name": "Alexandre Dumas fils",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H14M",
@@ -64,22 +128,34 @@
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0123598/",
-            "name": "Humphrey Burton"
+            "name": "Humphrey Burton",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0542477/",
-            "name": "Peter Maniura"
+            "name": "Peter Maniura",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0253836/",
     "metascore": null,
     "imdb_votes": 111,
     "popularity": 0,
-    "description": "Courtesan falls in love, lives with her man, but his father convinces her to give him up. Some time after they parted, they have an ugly public confrontation. Ultimately, consumption decides her fate, and her lover regrets his act...",
+    "description": "La traviata (Italian: [la traˈviaːta], \"The Fallen Woman\"[1][2]) is an opera in three acts by Giuseppe Verdi set to an Italian libretto by Francesco Maria Piave. It is based on La dame aux Camélias (1852), a play adapted from the novel by Alexandre Dumas, fils. The opera was originally entitled Violetta, after the main character. It was first performed on 6 March 1853 at the La Fenice opera house in Venice.  Piave and Verdi wanted to follow Dumas in giving the opera a contemporary setting, but the authorities at La Fenice insisted that it be set in the past, \"c. 1700\". It was not until the 1880s that the composer and librettist's original wishes were carried out and \"realistic\" productions were staged.[3]",
     "imdb_rating": "8.7/10 from 111 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2001-03-04",
+            "country": "Germany"
+        },
+        {
+            "date": "1994-01-01",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2001-03-04",
+    "original_title": "La traviata",
     "imdb_rating_average": 8.7,
-    "update_at": "2026-01-15T02:36:04"
+    "update_at": "2026-11-04T01:00:28"
 }

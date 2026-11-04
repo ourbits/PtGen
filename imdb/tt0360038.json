@@ -4,54 +4,89 @@
     "name": "Streichquartett",
     "site": "imdb",
     "year": "1981",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0008705/",
-            "name": "Doris Abeßer"
+            "name": "Doris Abeßer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0353996/",
-            "name": "Helga Hahnemann"
+            "name": "Helga Hahnemann",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0359909/",
-            "name": "Hans-Joachim Hanisch"
+            "name": "Hans-Joachim Hanisch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0375564/",
+            "name": "Helmut Hellstorff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0621492/",
+            "name": "Michael Narloch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0623456/",
+            "name": "Ingeborg Naß",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0826407/",
+            "name": "Hannes Stelzer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0856913/",
+            "name": "Wolfgang Thal",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0903961/",
+            "name": "Ulrich Voß",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Doris Abeßer",
+            "Helga Hahnemann",
+            "Hans-Joachim Hanisch"
+        ],
+        "Writer": [
+            "S.Z. Sakall"
+        ],
+        "Director": [
+            "Hans Knötzsch"
         ],
         "Release date": [
-            "September 22, 1981 (East Germany)"
-        ],
-        "Country of origin": [
-            "East Germany"
-        ],
-        "Production companies": [
-            "Deutscher Fernsehfunk (DFF)",
-            "Fernsehen der DDR"
+            "1981"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0757064/",
-            "name": "S.Z. Sakall"
+            "name": "S.Z. Sakall",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0461877/",
-            "name": "Hans Knötzsch"
+            "name": "Hans Knötzsch",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0360038/",
@@ -62,7 +97,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1981-09-22",
+    "datePublished": "1981",
+    "original_title": "Streichquartett",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-12T07:21:22"
+    "update_at": "2026-11-03T08:56:35"
 }

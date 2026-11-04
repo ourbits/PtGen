@@ -4,62 +4,82 @@
     "name": "Romantic Rumbolia",
     "site": "imdb",
     "year": "1949",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Animation",
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Family"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0625372/",
-            "name": "Frank Nelson"
+            "name": "Frank Nelson",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Frank Nelson"
+        ],
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "Writer": [
+            "Leonard L. Levinson"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "Leonard L. Levinson"
         ],
         "Release date": [
-            "June 15, 1949 (United States)"
+            "1949-06-15"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Republic Pictures"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0506065/",
-            "name": "Leonard L. Levinson"
+            "name": "Leonard L. Levinson",
+            "@type": "Person"
         }
     ],
     "duration": "PT10M",
-    "keywords": [
-        "surrealism",
-        "series film",
-        "jerky journeys"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0506065/",
-            "name": "Leonard L. Levinson"
+            "name": "Leonard L. Levinson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0152224/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "A Jerky Journeys short.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1949-06-15",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1949-06-15",
+    "original_title": "Romantic Rumbolia",
     "imdb_rating_average": 0,
-    "update_at": "2026-03-13T22:40:21"
+    "update_at": "2026-11-03T21:14:07"
 }

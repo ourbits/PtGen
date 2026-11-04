@@ -4,72 +4,148 @@
     "name": "Marceau ou Les enfants de la république",
     "site": "imdb",
     "year": "1961",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [
+        "History",
+        "Drama",
+        "Romance"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0221830/",
-            "name": "Jacques Destoop"
+            "name": "Jacques Destoop",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0901580/",
-            "name": "Danielle Volle"
+            "name": "Danielle Volle",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0916476/",
-            "name": "André Weber"
+            "name": "André Weber",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0200289/",
+            "name": "Raymond Danjou",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0586025/",
+            "name": "Jacques Mignot",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0644796/",
+            "name": "Philippe Ogouz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0855070/",
+            "name": "Jean-Marc Tennberg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0896431/",
+            "name": "Robert Vidalin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0153416/",
+            "name": "André Charpak",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1111622/",
+            "name": "Jacques Gripel",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/2fia47M1sFfe2bKX0IJEl3Edt7I.jpg",
     "details": {
+        "Stars": [
+            "Jacques Destoop",
+            "Danielle Volle",
+            "André Weber"
+        ],
+        "Genres": [
+            "History",
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Auguste Anicet-Bourgeois",
+            "Louis Chavance",
+            "Michel Masson"
+        ],
+        "Runtime": [
+            "119 min"
+        ],
+        "Director": [
+            "René Lucot"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "March 11, 1961 (France)"
+            "1961-12-23"
         ],
         "Country of origin": [
             "France"
         ],
-        "Production company": [
-            "1ère chaîne ORTF"
+        "Production companies": [
+            "Radio-Télévision Française (RTF)"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1250762/",
-            "name": "Auguste Anicet-Bourgeois"
+            "name": "Auguste Anicet-Bourgeois",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0154438/",
-            "name": "Louis Chavance"
+            "name": "Louis Chavance",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3846520/",
-            "name": "Michel Masson"
+            "name": "Michel Masson",
+            "@type": "Person"
         }
     ],
-    "duration": null,
+    "duration": "PT1H59M",
     "keywords": [
-        ""
+        "french revolution",
+        "18th century",
+        "historical drama / biopic"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0524786/",
-            "name": "René Lucot"
+            "name": "René Lucot",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1621185/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "Set during the bloody and turbulent years of the French Revolution, it follows the life and exploits of François-Séverin Marceau, an idealistic and courageous young man who would become one of the most famous generals of the First Republic.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1961-12-23",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1961-03-11",
+    "datePublished": "1961-12-23",
+    "original_title": "Marceau ou Les enfants de la république",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-24T10:26:07"
+    "update_at": "2026-11-04T00:21:30"
 }

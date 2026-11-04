@@ -3,7 +3,8 @@
     "sid": "tt0202469",
     "name": "Message from Canterbury",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1944",
+    "@type": "Short",
     "genre": [
         "Documentary",
         "Short"
@@ -11,57 +12,75 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0854728/",
-            "name": "William Temple"
+            "name": "William Temple",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWY3Y2Y0MTAtYjMzMS00MmU1LWFkMzctODQxZWNhZjY0ZmQzXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/3ZWMwENhIKRsA01Dx9JGUQFkQ8H.jpg",
     "details": {
+        "Stars": [
+            "William Temple"
+        ],
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Writer": [
+            "Emmanuel Strickland",
+            "Michael Sylvester"
+        ],
+        "Runtime": [
+            "22 min"
+        ],
+        "Director": [
+            "George Hoellering"
+        ],
+        "Language": [
+            "English"
+        ],
         "Release date": [
-            "December 1944 (United Kingdom)"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Filming locations": [
-            "Canterbury, Kent, England, UK"
-        ],
-        "Production company": [
-            "Film Traders Ltd."
+            "1944-12-01"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm5088242/",
-            "name": "Emmanuel Strickland"
+            "name": "Emmanuel Strickland",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5087856/",
-            "name": "Michael Sylvester"
+            "name": "Michael Sylvester",
+            "@type": "Person"
         }
     ],
     "duration": "PT22M",
-    "keywords": [
-        "year 1944",
-        "1940s",
-        "20th century"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0388487/",
-            "name": "George Hoellering"
+            "name": "George Hoellering",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0202469/",
     "metascore": null,
-    "imdb_votes": 10,
+    "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "5.6/10 from 10 users",
-    "release_date": [],
+    "description": "Shots of Canterbury Cathedral and the surrounding countryside are accompanied by choral songs and a sermon by the Archbishop of Canterbury, Dr William Temple, on the history and significance of the cathedral.",
+    "imdb_rating": "0/10 from 0 users",
+    "release_date": [
+        {
+            "date": "1944-12-01",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 5.6,
-    "update_at": "2026-03-18T14:56:44"
+    "datePublished": "1944-12-01",
+    "original_title": "Message from Canterbury",
+    "imdb_rating_average": 0,
+    "update_at": "2026-11-03T09:28:28"
 }

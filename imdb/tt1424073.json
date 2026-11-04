@@ -4,70 +4,128 @@
     "name": "Romeo und Jutta",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0836233/",
-            "name": "Wolfgang Stumph"
+            "name": "Wolfgang Stumph",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0726257/",
-            "name": "Katja Riemann"
+            "name": "Katja Riemann",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0440756/",
-            "name": "Anne Kasprik"
+            "name": "Anne Kasprik",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0797031/",
+            "name": "Bernd Stegemann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0377333/",
+            "name": "André Hennicke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0778353/",
+            "name": "Bernhard Schütz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0800314/",
+            "name": "Maria Simon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0727477/",
+            "name": "Irene Rindje",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0432644/",
+            "name": "Günter Junghans",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0554208/",
+            "name": "Peer Martiny",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjAyMjBhMDgtOTBhZC00ZTYyLWE2M2EtMzE2N2YzZGUzZGRmXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/mJa3tBA7xrZI7A6WoiRz37eFCJt.jpg",
     "details": {
+        "Stars": [
+            "Wolfgang Stumph",
+            "Katja Riemann",
+            "Anne Kasprik"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Wolfgang Limmer"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Jörg Grünler"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "September 2, 2009 (Germany)"
+            "2009-09-02"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Filming locations": [
-            "Berlin, Germany"
-        ],
         "Production companies": [
-            "Mitteldeutscher Rundfunk (MDR)",
-            "Polyphon Film-und Fernsehgesellschaft"
+            "ARD"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0510790/",
-            "name": "Wolfgang Limmer"
+            "name": "Wolfgang Limmer",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0345099/",
-            "name": "Jörg Grünler"
+            "name": "Jörg Grünler",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1424073/",
     "metascore": null,
-    "imdb_votes": 43,
+    "imdb_votes": 44,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "5.9/10 from 43 users",
-    "release_date": [],
+    "description": "Jürgen Stoll is not only a Filou and life artist, but the darling of many women. When the marriage swindler is given the choice, prison in the GDR or a career as \"Romeo\" in the FRG, he decides to go to the West. Stoll now plays in the big game of secret agents until he realizes that the Stasi still has very different plans with him.",
+    "imdb_rating": "5.8/10 from 44 users",
+    "release_date": [
+        {
+            "date": "2009-09-02",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2009-09-02",
-    "imdb_rating_average": 5.9,
-    "update_at": "2025-09-16T12:39:26"
+    "original_title": "Romeo und Jutta",
+    "imdb_rating_average": 5.8,
+    "update_at": "2026-11-03T06:28:07"
 }
