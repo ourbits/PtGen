@@ -1,10 +1,15 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Winchell - Reporter aus Leidenschaft",
+            "country": "Germany"
+        }
+    ],
     "sid": "tt0149380",
     "name": "Winchell",
     "site": "imdb",
     "year": "1998",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Biography",
         "Drama",
@@ -13,74 +18,141 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001804/",
-            "name": "Stanley Tucci"
+            "name": "Stanley Tucci",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000444/",
-            "name": "Glenne Headly"
+            "name": "Glenne Headly",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0316079/",
-            "name": "Paul Giamatti"
+            "name": "Paul Giamatti",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001626/",
+            "name": "Christopher Plummer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0075359/",
+            "name": "Xander Berkeley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001798/",
+            "name": "Kevin Tighe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0535084/",
+            "name": "Frank Medrano",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0689269/",
+            "name": "Vic Polizos",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0640887/",
+            "name": "John F. O'Donohue",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0338867/",
+            "name": "Michael Greene",
+            "@type": "Person"
         }
     ],
-    "critic": 8,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjBkZDBiOTAtNWJlZi00ZTFmLTlhNGUtY2E1ZDQ3OTIzZWE1XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/47DPQPq3n4fKvn9tcAE9F61Kbhu.jpg",
     "details": {
+        "Stars": [
+            "Stanley Tucci",
+            "Glenne Headly",
+            "Paul Giamatti"
+        ],
+        "Genres": [
+            "Biography",
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Herman Klurfeld",
+            "Scott Abbott"
+        ],
+        "Runtime": [
+            "105 min"
+        ],
+        "Director": [
+            "Paul Mazursky"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 21, 1998 (United States)"
-        ],
-        "Also known as": [
-            "Winchell: Cronista de sociedad"
+            "1998-11-21"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Mount St. Mary's College, Doheny Mansion - 10 Chester Pl, Los Angeles, California, USA"
+            "United States of America"
         ],
         "Production companies": [
-            "HBO Films",
-            "Fried Films"
+            "Fried Films",
+            "HBO Films"
         ]
     },
-    "reviews": 13,
+    "reviews": 0,
+    "tagline": "He didn't report the news ... he made it.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0460241/",
-            "name": "Herman Klurfeld"
+            "name": "Herman Klurfeld",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0008053/",
-            "name": "Scott Abbott"
+            "name": "Scott Abbott",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H45M",
     "keywords": [
-        "columnist",
-        "radio",
-        "writing",
         "career",
-        "1950s"
+        "writing",
+        "radio",
+        "biography",
+        "historical figure",
+        "columnist"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0005196/",
-            "name": "Paul Mazursky"
+            "name": "Paul Mazursky",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0149380/",
     "metascore": null,
-    "imdb_votes": 647,
+    "imdb_votes": 661,
     "popularity": 0,
-    "description": "The true story of the influential and controversial columnist, Walter Winchell.",
-    "imdb_rating": "6.7/10 from 647 users",
-    "release_date": [],
+    "description": "The true story of the influential and controversial columnist Walter Winchell, who ruled the newspaper and radio waves with his groundbreaking brand of gossip and news for more than thirty years.",
+    "imdb_rating": "6.6/10 from 661 users",
+    "release_date": [
+        {
+            "date": "1999-11-02",
+            "country": "Germany"
+        },
+        {
+            "date": "1998-11-21",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": "R",
     "datePublished": "1998-11-21",
-    "imdb_rating_average": 6.7,
-    "update_at": "2025-07-13T05:09:17"
+    "original_title": "Winchell",
+    "imdb_rating_average": 6.6,
+    "update_at": "2026-11-04T04:28:06"
 }

@@ -4,72 +4,139 @@
     "name": "Georgia",
     "site": "imdb",
     "year": "2021",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Crime",
-        "Drama"
+        "Drama",
+        "Horror"
     ],
     "actors": [
         {
+            "url": "https://www.imdb.com/name/nm3786499/",
+            "name": "Lee Yang-hee",
+            "@type": "Person"
+        },
+        {
             "url": "https://www.imdb.com/name/nm9728137/",
-            "name": "Lee Chae-kyung"
+            "name": "Lee Chae-kyung",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm11994859/",
-            "name": "Kim Chae-won"
+            "name": "Kim Chae-won",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3673286/",
-            "name": "Hyun Jun Wesley Cho"
+            "name": "Hyun Jun Wesley Cho",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11994854/",
+            "name": "Kim Gyu-nam",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11994855/",
+            "name": "Seon Woo Hong",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11994858/",
+            "name": "Yoon Hyun-gil",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11994856/",
+            "name": "Hyeon Jin Kim",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8119757/",
+            "name": "Jeon Kwang-jin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11994857/",
+            "name": "Yoon Kyung-ho",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDgzM2M2MWMtNTVjNy00OGVmLTg0NWYtZjQwZDNhMGUzZDQ5XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/qOsjedFMCaah5zNFwDIqF9dledK.jpg",
     "details": {
+        "Stars": [
+            "Lee Yang-hee",
+            "Lee Chae-kyung",
+            "Kim Chae-won"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Horror"
+        ],
+        "Writer": [
+            "Jayil Pak"
+        ],
+        "Runtime": [
+            "30 min"
+        ],
+        "Director": [
+            "Jayil Pak"
+        ],
         "Language": [
             "Korean"
         ],
         "Release date": [
-            "May 16, 2021 (United States)"
+            "2021-01-22"
         ],
-        "Official site": [
-            "Official Website - https://jayilpak.com/"
-        ],
-        "Production company": [
-            "Jayil Pak"
-        ],
-        "Countries of origin": [
-            "United States",
+        "Country of origin": [
             "South Korea"
+        ],
+        "Production companies": [
+            "Korean Film Council"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": "Based on a true story",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm6231716/",
-            "name": "Jayil Pak"
+            "name": "Jayil Pak",
+            "@type": "Person"
         }
     ],
     "duration": "PT30M",
     "keywords": [
-        ""
+        "based on true story",
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm6231716/",
-            "name": "Jayil Pak"
+            "name": "Jayil Pak",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt13310158/",
     "metascore": null,
-    "imdb_votes": 65,
+    "imdb_votes": 67,
     "popularity": 0,
-    "description": "When the police refuse to investigate their daughter&apos;s alleged suicide, two computer-illiterate parents decide to design a protest banner. Based on the infamous Miryang case in South Korea which shocked the nation in 2004 and cont...",
-    "imdb_rating": "8/10 from 65 users",
-    "release_date": [],
+    "description": "When the police refuse to investigate their daughter’s alleged suicide, two computer-illiterate parents decide to design a protest banner.  Based on the infamous Miryang case in South Korea which shocked the nation in 2004 and continues to fuel public outrage even today.",
+    "imdb_rating": "8.1/10 from 67 users",
+    "release_date": [
+        {
+            "date": "2021-01-22",
+            "country": "Australia"
+        },
+        {
+            "date": "2020-10-21",
+            "country": "South Korea"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2021-05-16",
-    "imdb_rating_average": 8,
-    "update_at": "2025-08-17T09:00:09"
+    "datePublished": "2021-01-22",
+    "original_title": "Georgia",
+    "imdb_rating_average": 8.1,
+    "update_at": "2026-11-04T13:14:14"
 }

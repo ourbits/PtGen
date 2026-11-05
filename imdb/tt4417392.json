@@ -4,68 +4,117 @@
     "name": "The Secret World of Lewis Carroll",
     "site": "imdb",
     "year": "2015",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1436009/",
-            "name": "Martha Kearney"
+            "name": "Martha Kearney",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001290/",
-            "name": "Richard E. Grant"
+            "name": "Richard E. Grant",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1099514/",
-            "name": "Philip Pullman"
+            "name": "Philip Pullman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1107102/",
+            "name": "Will Self",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4830604/",
+            "name": "Robert Douglas-Fairhurst",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5764318/",
+            "name": "Edward Wakeling",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7099895/",
+            "name": "Nicholas Shrimpton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7099896/",
+            "name": "Vanessa Tait",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7099897/",
+            "name": "Morton N. Cohen",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDJjNmRjY2YtNjFhOS00NTMyLWExYzctNjZhZjMzNGJlOTA5XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/2S0ggtJDdP5Ml30Kd8li4Ddd1Mo.jpg",
     "details": {
+        "Stars": [
+            "Martha Kearney",
+            "Richard E. Grant",
+            "Philip Pullman"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Clare Beavan"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 31, 2015 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Lewis Carrolls hemliga värld"
+            "2015-01-31"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Filming locations": [
-            "Oxford, Oxfordshire, England, UK"
-        ],
         "Production companies": [
             "Swan Films",
-            "British Broadcasting Corporation (BBC)"
+            "BBC"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT1H",
     "keywords": [
-        ""
+        "lewis carroll"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1471780/",
-            "name": "Clare Beavan"
+            "name": "Clare Beavan",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt4417392/",
     "metascore": null,
-    "imdb_votes": 114,
+    "imdb_votes": 119,
     "popularity": 0,
-    "description": "Documentary to mark the 150th anniversary of Alice&apos;s Adventures in Wonderland.",
-    "imdb_rating": "6.6/10 from 114 users",
-    "release_date": [],
+    "description": "It's a timeless classic of children's literature and the third most-quoted book in English after the Bible and Shakespeare. But what lies behind the extraordinary appeal of Alice's Adventures in Wonderland to generations of adults and children alike? To mark the 150th anniversary of its publication, this film explores the life and imagination of its author, the Reverend Charles Dodgson, better known as Lewis Carroll. Journalist Martha Kearney delves into the biographies of both Carroll himself and of the young girl, Alice Liddell, who inspired his most famous creation. She discusses the book with a range of experts, biographers and distinguished cultural figures - from actor Richard E Grant to children's author Philip Pullman - and explores with them the mystery of how a retiring, buttoned-up and meticulous mathematics don, who spent almost his entire life within the cloistered confines of Christ Church Oxford, was able to capture the world of childhood in such a captivating way.",
+    "imdb_rating": "6.5/10 from 119 users",
+    "release_date": [
+        {
+            "date": "2015-01-31",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2015-01-31",
-    "imdb_rating_average": 6.6,
-    "update_at": "2025-09-17T09:13:05"
+    "original_title": "The Secret World of Lewis Carroll",
+    "imdb_rating_average": 6.5,
+    "update_at": "2026-11-04T03:35:20"
 }

@@ -5,55 +5,96 @@
     "site": "imdb",
     "year": "1955",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0297852/",
-            "name": "Keiko Fujita"
+            "name": "Keiko Fujita",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0359226/",
-            "name": "Yuriko Hanabusa"
+            "name": "Yuriko Hanabusa",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1367145/",
-            "name": "Akiko Hino"
+            "name": "Akiko Hino",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0395947/",
+            "name": "Michiko Hoshi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1346442/",
+            "name": "Atsuko Ichinomiya",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0411697/",
+            "name": "Hisaya Itô",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0467043/",
+            "name": "Kanji Koshiba",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0467047/",
+            "name": "Fubuki Koshiji",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4462753/",
+            "name": "Hiroko Mikasa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0605270/",
+            "name": "Masayuki Mori",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Japanese"
+        "Stars": [
+            "Keiko Fujita",
+            "Yuriko Hanabusa",
+            "Akiko Hino"
+        ],
+        "Writer": [
+            "Katsuhito Inomata"
+        ],
+        "Runtime": [
+            "105 min"
+        ],
+        "Director": [
+            "Yasuki Chiba"
         ],
         "Release date": [
-            "February 20, 1955 (Japan)"
-        ],
-        "Also known as": [
-            "A Flower Blooms"
-        ],
-        "Country of origin": [
-            "Japan"
-        ],
-        "Production company": [
-            "Toei Tokyo"
+            "1955"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0409253/",
-            "name": "Katsuhito Inomata"
+            "name": "Katsuhito Inomata",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H45M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0157140/",
-            "name": "Yasuki Chiba"
+            "name": "Yasuki Chiba",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1942074/",
@@ -64,7 +105,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1955-02-20",
+    "datePublished": "1955",
+    "original_title": "Magokoro no hana hiraku: Jokyû",
     "imdb_rating_average": 0,
-    "update_at": "2026-02-06T05:07:32"
+    "update_at": "2026-11-05T01:00:40"
 }

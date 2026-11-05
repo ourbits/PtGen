@@ -4,7 +4,7 @@
     "name": "Marines in the Making",
     "site": "imdb",
     "year": "1942",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Documentary",
         "Short"
@@ -12,61 +12,96 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0809570/",
-            "name": "Pete Smith"
+            "name": "Pete Smith",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0360101/",
-            "name": "R.E. &apos;Dick&apos; Hanley"
+            "name": "R.E. 'Dick' Hanley",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0395731/",
-            "name": "Charles Horvath"
+            "name": "Charles Horvath",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0573640/",
+            "name": "Stephen McNally",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0573640/",
+            "name": "Stephen McNally",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTIzNWYxM2EtZWNhZS00ZTEyLTkzODktYTg0ODMyOTllZjBhXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/j83imZ82RaU8mOws4VWgyIHFmB.jpg",
     "details": {
+        "Stars": [
+            "Pete Smith",
+            "R.E. 'Dick' Hanley",
+            "Charles Horvath"
+        ],
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Runtime": [
+            "9 min"
+        ],
+        "Director": [
+            "Herbert Polesie"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "December 26, 1942 (United States)"
+            "1942-12-26"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Chicago, Illinois, USA"
-        ],
-        "Production company": [
-            "Loew's"
+        "Production companies": [
+            "Metro-Goldwyn-Mayer"
         ]
     },
-    "reviews": 8,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT9M",
     "keywords": [
-        "exercise",
-        "united states marine corps",
-        "creed",
-        "combat",
-        "pete smith specialty"
+        "marine corps",
+        "rifle",
+        "marine",
+        "u.s. marine",
+        "us military",
+        "hand to hand combat",
+        "military training"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0688977/",
-            "name": "Herbert Polesie"
+            "name": "Herbert Polesie",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0035041/",
     "metascore": null,
-    "imdb_votes": 262,
+    "imdb_votes": 271,
     "popularity": 0,
-    "description": "A look at U.S. Marine Corps combat training during the first year of World War II, including conditioning techniques adapted from athletics, hand-to-hand combat tactics, and traditional drills.",
-    "imdb_rating": "5.7/10 from 262 users",
-    "release_date": [],
-    "contentRating": "Approved",
+    "description": "This short film shows U.S. Marines in training at a number of unidentified bases, with a focus on hand-to-hand combat.",
+    "imdb_rating": "5.7/10 from 271 users",
+    "release_date": [
+        {
+            "date": "1942-12-26",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1942-12-26",
+    "original_title": "Marines in the Making",
     "imdb_rating_average": 5.7,
-    "update_at": "2025-06-28T03:30:05"
+    "update_at": "2026-11-04T05:07:16"
 }

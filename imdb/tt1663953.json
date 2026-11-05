@@ -4,7 +4,7 @@
     "name": "Wangan ni kieta onna",
     "site": "imdb",
     "year": "1989",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Mystery"
@@ -12,59 +12,82 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0468726/",
-            "name": "Rumiko Koyanagi"
+            "name": "Rumiko Koyanagi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0847400/",
-            "name": "Kaku Takashina"
+            "name": "Kaku Takashina",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0620407/",
-            "name": "Noboru Nakaya"
+            "name": "Noboru Nakaya",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0475837/",
+            "name": "Fukumi Kuroda",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0651528/",
+            "name": "Ken Ohsawa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1229790/",
+            "name": "Ryûzô Tanaka",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Japanese"
+        "Stars": [
+            "Rumiko Koyanagi",
+            "Kaku Takashina",
+            "Noboru Nakaya"
+        ],
+        "Genres": [
+            "Crime",
+            "Mystery"
+        ],
+        "Writer": [
+            "Sue Grafton",
+            "Shûji Kataoka"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "Genji Nakamura"
         ],
         "Release date": [
-            "February 28, 1989 (Japan)"
-        ],
-        "Also known as": [
-            "湾岸に消えた女"
-        ],
-        "Country of origin": [
-            "Japan"
-        ],
-        "Production company": [
-            "Nippon Television Network (NTV)"
+            "1989"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0333859/",
-            "name": "Sue Grafton"
+            "name": "Sue Grafton",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0441162/",
-            "name": "Shûji Kataoka"
+            "name": "Shûji Kataoka",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H35M",
-    "keywords": [
-        "client",
-        "survivor",
-        "atonement",
-        "fraud",
-        "expectation"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0620132/",
-            "name": "Genji Nakamura"
+            "name": "Genji Nakamura",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1663953/",
@@ -75,7 +98,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1989-02-28",
+    "datePublished": "1989",
+    "original_title": "Wangan ni kieta onna",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-21T11:57:18"
+    "update_at": "2026-11-04T07:49:14"
 }

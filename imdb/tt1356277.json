@@ -4,66 +4,114 @@
     "name": "Gli abiti nuovi del granduca",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1396568/",
-            "name": "Andrea Paci"
+            "name": "Andrea Paci",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0321417/",
-            "name": "Niki Giustini"
+            "name": "Niki Giustini",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0759269/",
-            "name": "Graziano Salvadori"
+            "name": "Graziano Salvadori",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1396569/",
+            "name": "Paolo Parco",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0655385/",
+            "name": "Alessandro Paci",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1422112/",
+            "name": "Fabio Villoresi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1420206/",
+            "name": "Max Galligani",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0598350/",
+            "name": "Carlo Monni",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0778466/",
+            "name": "Francesco Scimemi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0655388/",
+            "name": "Matteo Paci",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ4ZGNiNzgtNDU0Ni00MzcyLTgxMDctOWE3YzU5Mjg4MWNiXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/wCqLCuyDlPOOXdJiVYw9Htq2lPu.jpg",
     "details": {
-        "Language": [
-            "Italian"
+        "Stars": [
+            "Andrea Paci",
+            "Niki Giustini",
+            "Graziano Salvadori"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Hans Christian Andersen",
+            "Alessandro Paci",
+            "Andrea Paci"
+        ],
+        "Runtime": [
+            "54 min"
+        ],
+        "Director": [
+            "Alessandro Paci"
         ],
         "Release date": [
-            "June 28, 2005 (Italy)"
-        ],
-        "Country of origin": [
-            "Italy"
-        ],
-        "Filming locations": [
-            "Certaldo, Tuscany, Italy"
-        ],
-        "Production company": [
-            "Cecchi Gori Home Video"
+            "2005-06-27"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0026153/",
-            "name": "Hans Christian Andersen"
+            "name": "Hans Christian Andersen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0655385/",
-            "name": "Alessandro Paci"
+            "name": "Alessandro Paci",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1396568/",
-            "name": "Andrea Paci"
+            "name": "Andrea Paci",
+            "@type": "Person"
         }
     ],
     "duration": "PT54M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0655385/",
-            "name": "Alessandro Paci"
+            "name": "Alessandro Paci",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1356277/",
@@ -72,9 +120,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2005-06-27",
+            "country": "Italy"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2005-06-28",
+    "datePublished": "2005-06-27",
+    "original_title": "Gli abiti nuovi del granduca",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-05T11:08:54"
+    "update_at": "2026-11-04T20:35:21"
 }

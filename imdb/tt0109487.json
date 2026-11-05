@@ -4,89 +4,149 @@
     "name": "Cosmic Slop",
     "site": "imdb",
     "year": "1994",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Sci-Fi"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1093741/",
-            "name": "George Clinton"
+            "name": "George Clinton",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0347039/",
-            "name": "Robert Guillaume"
+            "name": "Robert Guillaume",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0724247/",
-            "name": "Michele Lamar Richards"
+            "name": "Michele Lamar Richards",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0076251/",
+            "name": "Jason Bernard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0249962/",
+            "name": "Edward Edwards",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0908648/",
+            "name": "George Wallace",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0714753/",
+            "name": "Brian Reddy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0027055/",
+            "name": "Larry Anderson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0676349/",
+            "name": "Brock Peters",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0077491/",
+            "name": "Bertice Berry",
+            "@type": "Person"
         }
     ],
-    "critic": 8,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMTM2NjQ2N15BMl5BanBnXkFtZTcwNjEwMDUzMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/ifaElnjy7YUe6jrbsEOo98ux7fu.jpg",
     "details": {
+        "Stars": [
+            "George Clinton",
+            "Robert Guillaume",
+            "Michele Lamar Richards"
+        ],
+        "Genres": [
+            "Sci-Fi"
+        ],
+        "Writer": [
+            "Reginald Hudlin",
+            "Trey Ellis",
+            "Derrick Bell"
+        ],
+        "Runtime": [
+            "83 min"
+        ],
+        "Director": [
+            "Reginald Hudlin",
+            "Warrington Hudlin",
+            "Kevin Rodney Sullivan"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 8, 1994 (United States)"
-        ],
-        "Also known as": [
-            "Kosminen yhteys"
+            "1994-11-08"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "The Hudlin Brothers"
+            "United States of America"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0399737/",
-            "name": "Reginald Hudlin"
+            "name": "Reginald Hudlin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0255133/",
-            "name": "Trey Ellis"
+            "name": "Trey Ellis",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2684164/",
-            "name": "Derrick Bell"
+            "name": "Derrick Bell",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H23M",
-    "keywords": [
-        "african american",
-        "alien",
-        "hispanic",
-        "revolution",
-        "cultural"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0399737/",
-            "name": "Reginald Hudlin"
+            "name": "Reginald Hudlin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0399738/",
-            "name": "Warrington Hudlin"
+            "name": "Warrington Hudlin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0838198/",
-            "name": "Kevin Rodney Sullivan"
+            "name": "Kevin Rodney Sullivan",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0109487/",
     "metascore": null,
-    "imdb_votes": 309,
+    "imdb_votes": 323,
     "popularity": 0,
-    "description": "A science fiction anthology series that aired on HBO. It was hosted by Parliament lead singer George Clinton. It also starred Casey Kasem, Robert Guillaume, and Anthony Anderson.",
-    "imdb_rating": "6.2/10 from 309 users",
-    "release_date": [],
+    "description": "In the tradition of The Twilight Zone, this bizarre, thought-provoking trilogy addresses the destiny of the world's minorities: Part I: A conservative African American politician must choose between his people's survival and appeasing his white colleagues when space aliens propose to share their profound knowledge in exchange for all black people on earth. Part II: The Virgin Mary's appearance in an inner-city housing project forces a Hispanic priest to face the hidden cultural origins of Western religion. Part III: On the dawn of the \"Black Revolution,\" an African American couple discovers who the \"real\" enemy is.",
+    "imdb_rating": "6.3/10 from 323 users",
+    "release_date": [
+        {
+            "date": "1994-11-08",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1994-11-08",
-    "imdb_rating_average": 6.2,
-    "update_at": "2025-09-04T18:26:36"
+    "original_title": "Cosmic Slop",
+    "imdb_rating_average": 6.3,
+    "update_at": "2026-11-04T07:49:14"
 }

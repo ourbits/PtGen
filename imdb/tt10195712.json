@@ -3,6 +3,7 @@
     "sid": "tt10195712",
     "name": "Hong Fa Qia",
     "site": "imdb",
+    "year": "1996",
     "@type": "Movie",
     "genre": [
         "Drama"
@@ -10,52 +11,79 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0227621/",
-            "name": "Jiali Ding"
+            "name": "Jiali Ding",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0508556/",
-            "name": "Yapeng Li"
+            "name": "Yapeng Li",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0699699/",
-            "name": "Cunxin Pu"
+            "name": "Cunxin Pu",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7896370/",
+            "name": "Guan Wang",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10625258/",
+            "name": "Hao Wu",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/ov0dsknsRHT9kY5a2CQDB989skY.jpg",
     "details": {
+        "Stars": [
+            "Jiali Ding",
+            "Yapeng Li",
+            "Cunxin Pu"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Wei Cheng",
+            "Geng Xu"
+        ],
+        "Director": [
+            "Geng Xu"
+        ],
         "Language": [
-            "Chinese"
+            "Mandarin"
         ],
         "Release date": [
-            "1996 (China)"
-        ],
-        "Also known as": [
-            "红发卡"
+            "1996-01-01"
         ],
         "Country of origin": [
             "China"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm10625259/",
-            "name": "Wei Cheng"
+            "name": "Wei Cheng",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0944626/",
-            "name": "Geng Xu"
+            "name": "Geng Xu",
+            "@type": "Person"
         }
     ],
-    "duration": null,
-    "keywords": [
-        ""
-    ],
+    "duration": "PT1H39M",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0944626/",
-            "name": "Geng Xu"
+            "name": "Geng Xu",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt10195712/",
@@ -64,9 +92,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1996-01-01",
+            "country": "China"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1996-01-01",
+    "original_title": "Hong Fa Qia",
     "imdb_rating_average": 0,
-    "update_at": "2025-02-06T19:33:44"
+    "update_at": "2026-11-04T16:01:12"
 }

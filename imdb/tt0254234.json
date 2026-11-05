@@ -4,31 +4,79 @@
     "name": "Le comte Ory",
     "site": "imdb",
     "year": "1982",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Music"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm1163558/",
+            "name": "Bruce Brewer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0220142/",
+            "name": "Xavier Depraz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0221111/",
+            "name": "Claudio Desderi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0750280/",
+            "name": "Peter-Christoph Runge",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Bruce Brewer",
+            "Xavier Depraz",
+            "Claudio Desderi"
+        ],
+        "Genres": [
+            "Music"
+        ],
+        "Writer": [
+            "Charles-Gaspard Delestre-Poirson",
+            "Eugène Scribe"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Jacques Trébouta"
         ],
         "Release date": [
-            "February 26, 1982 (France)"
-        ],
-        "Country of origin": [
-            "France"
-        ],
-        "Production company": [
-            "TF1"
+            "1982"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0216792/",
+            "name": "Charles-Gaspard Delestre-Poirson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0780107/",
+            "name": "Eugène Scribe",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT1H30M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0874546/",
+            "name": "Jacques Trébouta",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0254234/",
     "metascore": null,
@@ -38,7 +86,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1982-02-26",
+    "datePublished": "1982",
+    "original_title": "Le comte Ory",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-10T14:29:18"
+    "update_at": "2026-11-04T16:14:16"
 }

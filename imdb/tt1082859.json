@@ -5,51 +5,64 @@
     "site": "imdb",
     "year": "1924",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0648803/",
-            "name": "Matsunosuke Onoe"
+            "name": "Matsunosuke Onoe",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2372047/",
-            "name": "En&apos;ichirô Jitsukawa"
+            "name": "En'ichirō Jitsukawa",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2426685/",
-            "name": "Kakumatsuro Arashi"
+            "name": "Kakumatsurō Arashi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2082516/",
+            "name": "Kijaku Ōtani",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1770187/",
+            "name": "Sen'nosuke Nakamura",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2369538/",
+            "name": "Ichitarō Kataoka",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "Japanese"
+        "Stars": [
+            "Matsunosuke Onoe",
+            "En'ichirō Jitsukawa",
+            "Kakumatsurō Arashi"
+        ],
+        "Director": [
+            "Yaroku Kobayashi"
         ],
         "Release date": [
-            "June 8, 1924 (Japan)"
-        ],
-        "Also known as": [
-            "His Duel with Tsukahara Bokuden"
-        ],
-        "Country of origin": [
-            "Japan"
-        ],
-        "Production company": [
-            "Nikkatsu Kyoto"
+            "1924"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2594718/",
-            "name": "Yaroku Kobayashi"
+            "name": "Yaroku Kobayashi",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1082859/",
@@ -60,7 +73,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1924-06-08",
+    "datePublished": "1924",
+    "original_title": "Miyamoto Musashi",
     "imdb_rating_average": 0,
-    "update_at": "2025-03-09T03:13:28"
+    "update_at": "2026-11-04T05:28:31"
 }

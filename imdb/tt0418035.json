@@ -3,78 +3,135 @@
     "sid": "tt0418035",
     "name": "Otello",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2001",
+    "@type": "TVMovie",
     "genre": [
-        "Music",
-        "Drama"
+        "Drama",
+        "Music"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0004881/",
-            "name": "Plácido Domingo"
+            "name": "Plácido Domingo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0637715/",
-            "name": "Leo Nucci"
+            "name": "Leo Nucci",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1682631/",
-            "name": "Cesare Catani"
+            "name": "Cesare Catani",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0296009/",
+            "name": "Barbara Frittoli",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1680031/",
+            "name": "Rossana Rinaldi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1682632/",
+            "name": "Antonello Ceron",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1173829/",
+            "name": "Giovanni Battista Parodi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1679027/",
+            "name": "Cesare Lana",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0659093/",
+            "name": "Ernesto Panariello",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTgxMTc4OTk5OV5BMl5BanBnXkFtZTcwNjQ5NzYyMQ@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/w6PcNbZ5kXv7moXKH8GzzX7NjZW.jpg",
     "details": {
+        "Stars": [
+            "Plácido Domingo",
+            "Leo Nucci",
+            "Cesare Catani"
+        ],
+        "Genres": [
+            "Drama",
+            "Music"
+        ],
+        "Writer": [
+            "Arrigo Boito",
+            "William Shakespeare"
+        ],
+        "Runtime": [
+            "140 min"
+        ],
+        "Director": [
+            "Carlo Battistoni"
+        ],
         "Language": [
             "Italian"
         ],
-        "Also known as": [
-            "Οθέλλος"
+        "Release date": [
+            "2001-12-07"
         ],
         "Country of origin": [
             "Italy"
         ],
-        "Filming locations": [
-            "Teatro alla Scala, Milan, Lombardia, Italy"
-        ],
-        "Production company": [
+        "Production companies": [
+            "ArtHaus",
             "Rai Trade"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0092435/",
-            "name": "Arrigo Boito"
+            "name": "Arrigo Boito",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000636/",
-            "name": "William Shakespeare"
+            "name": "William Shakespeare",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H20M",
     "keywords": [
-        "shakespeare&apos;s othello",
-        "venice italy",
-        "opera",
-        "live performance",
-        "jealousy"
+        "opera"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0061489/",
-            "name": "Carlo Battistoni"
+            "name": "Carlo Battistoni",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0418035/",
     "metascore": null,
     "imdb_votes": 25,
     "popularity": 0,
-    "description": "The Moorish general Othello is manipulated into thinking that his new wife Desdemona has been carrying on an affair with his lieutenant Michael Cassio when in reality it is all part of the scheme of a bitter ensign named Iago.",
-    "imdb_rating": "8/10 from 25 users",
-    "release_date": [],
+    "description": "This was Domingo's last set of performances as Otello in La Scala. In spite of his relatively advanced age, he is still in excellent form, both vocally and in terms of stage presence. Nucci is also his usual self, delivering a performance of very high standard. Barbara Frittoli is an excellent Desdemona, in good voice and gives a very moving performance. Muti conducts with great emotion and tight accuracy, conveying the full orchestral drama of the score.",
+    "imdb_rating": "7.9/10 from 25 users",
+    "release_date": [
+        {
+            "date": "2001-12-07",
+            "country": "Italy"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 8,
-    "update_at": "2025-06-28T13:39:16"
+    "datePublished": "2001-12-07",
+    "original_title": "Otello",
+    "imdb_rating_average": 7.9,
+    "update_at": "2026-11-04T03:28:06"
 }

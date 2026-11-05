@@ -4,53 +4,101 @@
     "name": "Trois petits coups",
     "site": "imdb",
     "year": "2004",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0013203/",
-            "name": "Alexandrine Agostini"
+            "name": "Alexandrine Agostini",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0015775/",
-            "name": "Carl Alacchi"
+            "name": "Carl Alacchi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0054912/",
-            "name": "Jessica Barker"
+            "name": "Jessica Barker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0087145/",
+            "name": "Bruno Blanchet",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0092847/",
+            "name": "Vincent Bolduc",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0099039/",
+            "name": "Sylvie Boucher",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0099886/",
+            "name": "Hélène Bourgeois Leclerc",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0152871/",
+            "name": "Michel Charette",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1927934/",
+            "name": "Amélie Grenier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0501168/",
+            "name": "Guillaume Lemay-Thivierge",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmQ0NDAzNjYtYTU0NC00ZGJhLWE0ZTgtMWEyMTc0ZWYwNWI5XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Alexandrine Agostini",
+            "Carl Alacchi",
+            "Jessica Barker"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Alex Veilleux"
+        ],
+        "Director": [
+            "Mariloup Wolfe"
         ],
         "Release date": [
-            "January 2, 2004 (Canada)"
-        ],
-        "Country of origin": [
-            "Canada"
+            "2004"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2623858/",
-            "name": "Alex Veilleux"
+            "name": "Alex Veilleux",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0938105/",
-            "name": "Mariloup Wolfe"
+            "name": "Mariloup Wolfe",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1010053/",
@@ -61,7 +109,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2004-01-02",
+    "datePublished": "2004",
+    "original_title": "Trois petits coups",
     "imdb_rating_average": 0,
-    "update_at": "2025-03-27T05:55:30"
+    "update_at": "2026-11-04T21:49:06"
 }

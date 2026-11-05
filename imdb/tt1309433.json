@@ -1,82 +1,137 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Den första dagen",
+            "country": "Sweden"
+        }
+    ],
     "sid": "tt1309433",
-    "name": "Der erste Tag",
+    "name": "The First Day",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1070602/",
-            "name": "Franziska Weisz"
+            "name": "Franziska Weisz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3165395/",
-            "name": "Samuel Jung"
+            "name": "Samuel Jung",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1588460/",
-            "name": "Andreas Kiendl"
+            "name": "Andreas Kiendl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3165603/",
+            "name": "Nikolai Gemel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3166499/",
+            "name": "Marlene Del Bello",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0644256/",
+            "name": "Ferry Oellinger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2127962/",
+            "name": "Beatrix Brunschko",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1683439/",
+            "name": "Martina Zinner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0954348/",
+            "name": "Johannes Zeiler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0250910/",
+            "name": "Rainer Egger",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjNiNTE4ZDktMmJjOS00ZjVkLWE3ZWYtNmJmNDFiNGVhYmM3XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/bVxoYPyc5Gr9wR4hjVa8sxbLLS9.jpg",
     "details": {
+        "Stars": [
+            "Franziska Weisz",
+            "Samuel Jung",
+            "Andreas Kiendl"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Susanne Freund"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Andreas Prochaska"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "November 6, 2008 (Austria)"
+            "2008-11-06"
         ],
-        "Also known as": [
-            "Den första dagen"
-        ],
-        "Filming locations": [
-            "Horn, Lower Austria, Austria"
-        ],
-        "Countries of origin": [
+        "Country of origin": [
             "Austria",
             "France"
         ],
         "Production companies": [
-            "ARTE",
-            "MR Filmproduktion",
-            "Österreichischer Rundfunk (ORF)"
+            "ZDF"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0294500/",
-            "name": "Susanne Freund"
+            "name": "Susanne Freund",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        "nuclear power plant",
-        "czech austrian relations",
-        "radioactive fallout",
-        "radiation",
-        "nuclear accident"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0698283/",
-            "name": "Andreas Prochaska"
+            "name": "Andreas Prochaska",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1309433/",
     "metascore": null,
-    "imdb_votes": 164,
+    "imdb_votes": 168,
     "popularity": 0,
-    "description": "Story about the reaction of Austrian officials towards a maximum credible accident in the nuclear power plant Dukovany in the nearby Czech Republic.",
-    "imdb_rating": "6.8/10 from 164 users",
-    "release_date": [],
+    "description": "The movie is about a nuclear desaster in the Czech nuclear power station Dukovany.",
+    "imdb_rating": "6.8/10 from 168 users",
+    "release_date": [
+        {
+            "date": "2008-11-06",
+            "country": "Austria"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2008-11-06",
+    "original_title": "Der erste Tag",
     "imdb_rating_average": 6.8,
-    "update_at": "2026-01-16T15:35:30"
+    "update_at": "2026-11-04T11:56:47"
 }

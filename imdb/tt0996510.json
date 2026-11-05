@@ -3,55 +3,103 @@
     "sid": "tt0996510",
     "name": "Scherzoso ma non troppo",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1964",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0321294/",
-            "name": "Aldo Giuffrè"
+            "name": "Aldo Giuffrè",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0652373/",
-            "name": "Enrico Osterman"
+            "name": "Enrico Osterman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2604968/",
-            "name": "Benedetta Barzini"
+            "name": "Benedetta Barzini",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0660035/",
+            "name": "Germana Paolieri",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0597840/",
+            "name": "Silvia Monelli",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0279914/",
+            "name": "Enzo Fisichella",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0729277/",
+            "name": "Giuliana Rivera",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1044819/",
+            "name": "Marcello Bertini",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0884684/",
+            "name": "Mario Valgoi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0097569/",
+            "name": "Gianni Bortolotto",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Italian"
+        "Stars": [
+            "Aldo Giuffrè",
+            "Enrico Osterman",
+            "Benedetta Barzini"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Furio Bordon"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Gilberto Tofano"
         ],
         "Release date": [
-            "1964 (Italy)"
-        ],
-        "Country of origin": [
-            "Italy"
-        ],
-        "Production company": [
-            "RAI Radiotelevisione Italiana"
+            "1964"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm9766116/",
-            "name": "Furio Bordon"
+            "name": "Furio Bordon",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0865491/",
-            "name": "Gilberto Tofano"
+            "name": "Gilberto Tofano",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0996510/",
@@ -62,7 +110,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1964",
+    "original_title": "Scherzoso ma non troppo",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-15T10:29:15"
+    "update_at": "2026-11-05T01:56:13"
 }

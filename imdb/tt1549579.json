@@ -4,57 +4,63 @@
     "name": "Country",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0753769/",
-            "name": "Armando del Río"
+            "name": "Armando del Río",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0551397/",
-            "name": "Silvia Marsó"
+            "name": "Silvia Marsó",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzM4Y2FlYzktNjE1Yy00ZmQxLWFhNGYtYTVlNDRiN2NmZTYyXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "Spanish"
+        "Stars": [
+            "Armando del Río",
+            "Silvia Marsó"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Jesús Prieto"
+        ],
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "Jesús Prieto"
         ],
         "Release date": [
-            "November 1, 2007 (Spain)"
-        ],
-        "Country of origin": [
-            "Spain"
-        ],
-        "Filming locations": [
-            "Madrid, Spain"
-        ],
-        "Production company": [
-            "CineTAI"
+            "2007"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3681114/",
-            "name": "Jesús Prieto"
+            "name": "Jesús Prieto",
+            "@type": "Person"
         }
     ],
     "duration": "PT12M",
-    "keywords": [
-        "records",
-        "radio",
-        "country"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3681114/",
-            "name": "Jesús Prieto"
+            "name": "Jesús Prieto",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1549579/",
@@ -65,7 +71,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2007-11-01",
+    "datePublished": "2007",
+    "original_title": "Country",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-08T12:28:17"
+    "update_at": "2026-11-04T15:35:21"
 }

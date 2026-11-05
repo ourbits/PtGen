@@ -4,7 +4,7 @@
     "name": "Hungry Ghosts",
     "site": "imdb",
     "year": "2020",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Drama",
         "Horror",
@@ -12,64 +12,131 @@
     ],
     "actors": [
         {
-            "url": "https://www.imdb.com/name/nm0000986/",
-            "name": "Bryan Brown"
-        },
-        {
             "url": "https://www.imdb.com/name/nm3241371/",
-            "name": "Clare Bowen"
+            "name": "Clare Bowen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2176218/",
-            "name": "Catherine Van-Davies"
+            "name": "Catherine Van-Davies",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000986/",
+            "name": "Bryan Brown",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1507708/",
+            "name": "Ryan Corr",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10025415/",
+            "name": "Jillian Nguyen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0164838/",
+            "name": "Justine Clarke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1152693/",
+            "name": "Ferdinand Hoang",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2513071/",
+            "name": "Gabrielle Chan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4683818/",
+            "name": "Suzy Wrong",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0950725/",
+            "name": "Gareth Yuen",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTY3MWUwZmItYzE0Ny00OTE3LTk3NDMtZjVhMDJmOTc1ODdmXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/hVCgPUa3erqloRrYdhnWgKGAHsk.jpg",
     "details": {
+        "Stars": [
+            "Clare Bowen",
+            "Catherine Van-Davies",
+            "Bryan Brown"
+        ],
+        "Genres": [
+            "Drama",
+            "Horror",
+            "Mystery"
+        ],
+        "Writer": [
+            "Timothy Hobart",
+            "John Ridley",
+            "Michele Lee"
+        ],
+        "Runtime": [
+            "55 min"
+        ],
+        "Director": [
+            "Shawn Seet"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "August 24, 2020 (Australia)"
-        ],
-        "Official site": [
-            "Screen Australia - Guide - https://www.screenaustralia.gov.au/the-screen-guide/t/hungry-ghosts-2019/37608/"
+            "2020-08-24"
         ],
         "Country of origin": [
             "Australia"
         ],
         "Production companies": [
-            "Film Victoria",
-            "Matchbox Pictures",
-            "Screen Australia"
+            "Matchbox Pictures"
         ]
     },
-    "reviews": 20,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm4189640/",
-            "name": "Timothy Hobart"
+            "name": "Timothy Hobart",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0725984/",
-            "name": "John Ridley"
+            "name": "John Ridley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10746196/",
+            "name": "Michele Lee",
+            "@type": "Person"
         }
     ],
-    "duration": null,
-    "keywords": [
-        "tv mini series",
-        "festival"
+    "duration": "PT55M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0781673/",
+            "name": "Shawn Seet",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt10438052/",
     "metascore": null,
-    "imdb_votes": 302,
+    "imdb_votes": 306,
     "popularity": 0,
-    "description": "When a tomb in Vietnam is opened on the eve of the Hungry Ghost Festival, a vengeful spirit is unleashed. May Le must rediscover her true heritage and accept her destiny to help bring balance to a community still traumatised by war.",
-    "imdb_rating": "5.8/10 from 302 users",
+    "description": "When a tomb in Vietnam is accidentally opened on the eve of the Hungry Ghost Festival, a vengeful spirit is unleashed, bringing the dead with him. As these spirits wreak havoc across the Vietnamese-Australian community in Melbourne, reclaiming lost loves and exacting revenge, young woman May Le must rediscover her true heritage and accept her destiny to help bring balance to a community still traumatized by war.",
+    "imdb_rating": "5.8/10 from 306 users",
     "release_date": [],
     "contentRating": null,
     "datePublished": "2020-08-24",
+    "original_title": "Hungry Ghosts",
     "imdb_rating_average": 5.8,
-    "update_at": "2026-03-15T04:43:13"
+    "update_at": "2026-11-04T17:56:06"
 }

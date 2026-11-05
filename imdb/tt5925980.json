@@ -3,72 +3,100 @@
     "sid": "tt5925980",
     "name": "Map of Hell",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2016",
+    "@type": "TVMovie",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0095581/",
-            "name": "Daniel Booroff"
+            "name": "Daniel Booroff",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3189311/",
-            "name": "Stefanos Dimoulas"
+            "name": "Stefanos Dimoulas",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm8312937/",
-            "name": "W. Scott Poole"
+            "name": "W. Scott Poole",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001803/",
+            "name": "Danny Trejo",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODUxMGQ3ODgtNzNhMi00OGYwLTlkNTQtYjg0ZjZjNjVkZGM5XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/aj8Dka2rj1Pk3bIicCpXrTg8sWX.jpg",
     "details": {
+        "Stars": [
+            "Daniel Booroff",
+            "Stefanos Dimoulas",
+            "W. Scott Poole"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Writer": [
+            "Julian Jones"
+        ],
+        "Runtime": [
+            "88 min"
+        ],
+        "Director": [
+            "Julian Jones"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "June 2016 (United States)"
-        ],
-        "Also known as": [
-            "A pokol anatómiája"
-        ],
-        "Official site": [
-            "Official Facebook - https://www.facebook.com/natgeotvUS/videos/vb.29194481004/10153981013486005/?type=2&theater"
+            "2016-06-02"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
-            "National Geographic Studios"
+        "Production companies": [
+            "National Geographic",
+            "Splice Post"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2293215/",
-            "name": "Julian Jones"
+            "name": "Julian Jones",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H28M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2293215/",
-            "name": "Julian Jones"
+            "name": "Julian Jones",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt5925980/",
     "metascore": null,
-    "imdb_votes": 47,
+    "imdb_votes": 49,
     "popularity": 0,
-    "description": "National Geographic explores the human notion of hell and the meaning of the phrase &quot;hell on earth&quot;.",
-    "imdb_rating": "6.5/10 from 47 users",
-    "release_date": [],
+    "description": "Host Danny Trejo sets out to discover the origin of the idea of hell.",
+    "imdb_rating": "6.4/10 from 49 users",
+    "release_date": [
+        {
+            "date": "2016-06-02",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 6.5,
-    "update_at": "2025-09-23T06:21:10"
+    "datePublished": "2016-06-02",
+    "original_title": "Map of Hell",
+    "imdb_rating_average": 6.4,
+    "update_at": "2026-11-04T12:35:17"
 }

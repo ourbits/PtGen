@@ -5,61 +5,82 @@
     "site": "imdb",
     "year": "2010",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3353813/",
-            "name": "Michiyoshi Maeda"
+            "name": "Michiyoshi Maeda",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0015128/",
-            "name": "Miyoko Akaza"
+            "name": "Miyoko Akaza",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3820778/",
-            "name": "Hana Konoe"
+            "name": "Hana Konoe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0576365/",
+            "name": "Yûki Meguro",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10519528/",
+            "name": "Tokuhisa Yamashita",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmM1YzlkN2ItMDk1MS00YWI2LWExNzQtY2ZhYWRjYjAxMDc2XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/h1mREuhHNNDX3wUxrrf4oOOprLt.jpg",
     "details": {
+        "Stars": [
+            "Michiyoshi Maeda",
+            "Miyoko Akaza",
+            "Hana Konoe"
+        ],
+        "Runtime": [
+            "94 min"
+        ],
+        "Director": [
+            "Shigeru Ishihara"
+        ],
         "Language": [
             "Japanese"
         ],
         "Release date": [
-            "April 10, 2010 (Japan)"
-        ],
-        "Also known as": [
-            "獄（ひとや）に咲く花"
-        ],
-        "Country of origin": [
-            "Japan"
-        ],
-        "Production company": [
-            "Global Pictures"
+            "2010-04-10"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
-    "duration": null,
-    "keywords": [
-        ""
-    ],
+    "duration": "PT1H34M",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0410974/",
-            "name": "Shigeru Ishihara"
+            "name": "Shigeru Ishihara",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1606611/",
     "metascore": null,
-    "imdb_votes": 7,
+    "imdb_votes": 8,
     "popularity": 0,
-    "description": "Set in 1854, Torajiro attempts to flee to America, but fails. He is then jailed at a prison located in the mountains, which is owned by the Choshu Hagi family. In prison, Torajiro meets Hisashi, who is in prison for communicating ...",
-    "imdb_rating": "6.5/10 from 7 users",
-    "release_date": [],
+    "description": "When U.S. Commodore Matthew Perry's infamous Black Ships arrived in Uraga Harbour in 1853 saw his chance to let that breath out, and he and a friend snuck aboard Perry's ship in an attempt to return with him to America. When Perry's crew caught him and returned him to the mainland the ruling Shogunate put him under house arrest, a light sentence considering that the official penalty for leaving Japan was death. It was during his time of house arrest that Shōin saw the whirlwind of foreign influence that Perry's visit had initiated. To try and counteract this Shōin set up a school in his native Hagi in Yamaguchi Prefecture where he taught traditional Japanese values, military strategy and a redefinition of bushido, the samurai code. This school, the Shoka Sonjuku produced some of the leading revolutionaries who would bring about the downfall of the Shogunate.",
+    "imdb_rating": "6.5/10 from 8 users",
+    "release_date": [
+        {
+            "date": "2010-04-10",
+            "country": "Japan"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2010-04-10",
+    "original_title": "Hitoya ni saku hana",
     "imdb_rating_average": 6.5,
-    "update_at": "2025-06-16T05:00:49"
+    "update_at": "2026-11-04T03:00:15"
 }

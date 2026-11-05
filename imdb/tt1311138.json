@@ -4,59 +4,96 @@
     "name": "Lichtschacht",
     "site": "imdb",
     "year": "1967",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0927264/",
-            "name": "Elisabeth Wiedemann"
+            "name": "Elisabeth Wiedemann",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0197221/",
-            "name": "Werner Dahms"
+            "name": "Werner Dahms",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3170303/",
-            "name": "Evi Müller"
+            "name": "Evi Müller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0291819/",
+            "name": "Alice Franz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0899162/",
+            "name": "Udo Vioff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3170552/",
+            "name": "Wanda Putzgruber",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0773880/",
+            "name": "Joachim Schneider",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Elisabeth Wiedemann",
+            "Werner Dahms",
+            "Evi Müller"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Joseph Glücksmann",
+            "Morton Wishengrad"
+        ],
+        "Runtime": [
+            "80 min"
+        ],
+        "Director": [
+            "Hans-Dieter Schwarze"
         ],
         "Release date": [
-            "March 2, 1967 (West Germany)"
+            "1967-03-02"
         ],
         "Country of origin": [
-            "West Germany"
-        ],
-        "Production company": [
-            "Telefilm Saar GmbH"
+            "Germany"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1283111/",
-            "name": "Joseph Glücksmann"
+            "name": "Joseph Glücksmann",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0936536/",
-            "name": "Morton Wishengrad"
+            "name": "Morton Wishengrad",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H20M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0777683/",
-            "name": "Hans-Dieter Schwarze"
+            "name": "Hans-Dieter Schwarze",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1311138/",
@@ -65,9 +102,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1967-03-02",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1967-03-02",
+    "original_title": "Lichtschacht",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-19T11:35:04"
+    "update_at": "2026-11-04T15:28:06"
 }

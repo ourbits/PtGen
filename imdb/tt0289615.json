@@ -4,81 +4,131 @@
     "name": "We Know Where You Live. Live!",
     "site": "imdb",
     "year": "2001",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0412850/",
-            "name": "Eddie Izzard"
+            "name": "Eddie Izzard",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0080276/",
-            "name": "Sanjeev Bhaskar"
+            "name": "Sanjeev Bhaskar",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0085990/",
-            "name": "Richard Blackwood"
+            "name": "Richard Blackwood",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0095104/",
+            "name": "Bono",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1035448/",
+            "name": "Badly Drawn Boy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0128267/",
+            "name": "Sam Cadman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1033967/",
+            "name": "Al Campbell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0165651/",
+            "name": "Adam Clayton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0206588/",
+            "name": "Simon Day",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0214177/",
+            "name": "Jack Dee",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MDkyMzA2MF5BMl5BanBnXkFtZTcwMTA1ODUyMQ@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/kZQIaFLYk9d4wYDw6e5pNYtph1k.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Eddie Izzard",
+            "Sanjeev Bhaskar",
+            "Richard Blackwood"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Ivor Baddiel",
+            "Tim Brooke-Taylor",
+            "Graham Chapman"
+        ],
+        "Runtime": [
+            "94 min"
+        ],
+        "Director": [
+            "Declan Lowney"
         ],
         "Release date": [
-            "June 16, 2001 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Amnesty International's We Know Where You Live Live!"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Filming locations": [
-            "Toronto, Ontario, Canada"
-        ],
-        "Production companies": [
-            "Amnesty International",
-            "Initial Productions"
+            "2001-06-16"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0045975/",
-            "name": "Ivor Baddiel"
+            "name": "Ivor Baddiel",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0111756/",
-            "name": "Tim Brooke-Taylor"
+            "name": "Tim Brooke-Taylor",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001037/",
-            "name": "Graham Chapman"
+            "name": "Graham Chapman",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H34M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0523276/",
-            "name": "Declan Lowney"
+            "name": "Declan Lowney",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0289615/",
     "metascore": null,
-    "imdb_votes": 183,
+    "imdb_votes": 187,
     "popularity": 0,
-    "description": "Live benefit show for Amnesty International, hosted by Eddie Izzard and with performances from the cream of British comedy including Harry Enfield, Dom Joly, Vic Reeves and Paul Whitehouse.",
-    "imdb_rating": "6.7/10 from 183 users",
-    "release_date": [],
+    "description": "Ever since the comedy greats stepped beyond the fringe for The Secret Policemen's Ball the annual Amnesty International concert has been one of the highlights of the comedy circuit. 2001's offering was called We Know Where You Live and let's face it, where else are you going to see the UK's top comedians and pop acts on one stage? Compeered by the \"surreal stylings\" of Eddie Izzard, this compilation of the night's highlights includes a new version of the classic \"Four Yorkshiremen\" sketch with Eddie, Harry Enfield, Vic Reeves and Alan Rickman. Rickman stubbornly sticks to the script while all around him improvise. There is also a great performance from Harry Enfield and Paul Whitehouse as the Self-Righteous Brothers and the Goodness Gracious Me team going out for \"an English\".",
+    "imdb_rating": "6.7/10 from 187 users",
+    "release_date": [
+        {
+            "date": "2001-06-16",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2001-06-16",
+    "original_title": "We Know Where You Live. Live!",
     "imdb_rating_average": 6.7,
-    "update_at": "2025-04-26T22:26:40"
+    "update_at": "2026-11-04T17:21:40"
 }

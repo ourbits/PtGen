@@ -4,32 +4,81 @@
     "name": "Brcko u Zagrebu",
     "site": "imdb",
     "year": "1917",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm1084980/",
+            "name": "Stjepan Bojnicic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1029831/",
+            "name": "Arnost Grund",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1280841/",
+            "name": "Irma Polak",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1224889/",
+            "name": "Tonka Savic-Flieder-Macuka",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzVjNmEzYTQtYzE0ZS00Y2RlLTg4OTYtYTEwNjYwN2RmZThiXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/eJMNqlTnnXwflsCdTW2bG037vn0.jpg",
     "details": {
+        "Stars": [
+            "Stjepan Bojnicic",
+            "Arnost Grund",
+            "Irma Polak"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Arnost Grund"
+        ],
+        "Director": [
+            "Arsen Maas"
+        ],
         "Language": [
-            "None"
+            "Croatian"
         ],
         "Release date": [
-            "August 28, 1917 (Croatia)"
+            "1917-01-01"
         ],
         "Country of origin": [
             "Croatia"
         ],
-        "Production company": [
+        "Production companies": [
             "Croatia Film"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm1029831/",
+            "name": "Arnost Grund",
+            "@type": "Person"
+        }
+    ],
     "duration": null,
-    "keywords": [
-        "lost film"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm1283675/",
+            "name": "Arsen Maas",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0305331/",
     "metascore": null,
@@ -37,9 +86,15 @@
     "popularity": 0,
     "description": "A provincial boy named Brcko comes to the city of Zagreb looking for adventure.",
     "imdb_rating": "5.2/10 from 9 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1917-01-01",
+            "country": "Croatia"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1917-08-28",
+    "datePublished": "1917-01-01",
+    "original_title": "Brcko u Zagrebu",
     "imdb_rating_average": 5.2,
-    "update_at": "2025-12-08T22:30:04"
+    "update_at": "2026-11-04T07:21:24"
 }
