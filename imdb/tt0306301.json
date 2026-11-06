@@ -1,5 +1,14 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Coluche",
+            "country": "France"
+        },
+        {
+            "title": "Coluche 1faux",
+            "country": "France"
+        }
+    ],
     "sid": "tt0306301",
     "name": "Coluche 1 faux",
     "site": "imdb",
@@ -11,32 +20,44 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0173354/",
-            "name": "Coluche"
+            "name": "Coluche",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MzMyNzE0OV5BMl5BanBnXkFtZTcwMTQwNzA4MQ@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/kI2VqZmnvr4yLg3RONQgPKo8Zfz.jpg",
     "details": {
+        "Stars": [
+            "Coluche"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Coluche"
+        ],
+        "Runtime": [
+            "26 min"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "October 10, 1985 (France)"
-        ],
-        "Country of origin": [
-            "France"
-        ],
-        "Production company": [
-            "Canal+"
+            "1985-06-11"
         ]
     },
     "reviews": 0,
-    "creators": [],
-    "duration": null,
-    "keywords": [
-        "parody comedy",
-        "spoof"
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0173354/",
+            "name": "Coluche",
+            "@type": "Person"
+        }
     ],
+    "duration": "PT26M",
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt0306301/",
     "metascore": null,
     "imdb_votes": 16,
@@ -45,7 +66,8 @@
     "imdb_rating": "7.7/10 from 16 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1985-10-10",
+    "datePublished": "1985-06-11",
+    "original_title": "Coluche 1 faux",
     "imdb_rating_average": 7.7,
-    "update_at": "2025-09-14T11:56:20"
+    "update_at": "2026-11-05T15:56:07"
 }

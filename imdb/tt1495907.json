@@ -4,61 +4,84 @@
     "name": "Pijamas",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0052560/",
-            "name": "Carlota Bantulà"
+            "name": "Carlota Bantulà",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3576797/",
-            "name": "Sara Catalán"
+            "name": "Sara Catalán",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1228169/",
-            "name": "Lluïsa Mallol"
+            "name": "Lluïsa Mallol",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1230014/",
+            "name": "Àurea Márquez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1970747/",
+            "name": "María Teresa Ortega",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0992703/",
+            "name": "Albert Pérez",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGVlZTdiZjgtOWEzMC00NDE5LTlmZjAtMjZmZGEwYzk2OTNiXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "Spanish"
+        "Stars": [
+            "Carlota Bantulà",
+            "Sara Catalán",
+            "Lluïsa Mallol"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Elena Trapé"
+        ],
+        "Runtime": [
+            "14 min"
+        ],
+        "Director": [
+            "Elena Trapé"
         ],
         "Release date": [
-            "November 13, 2008 (Spain)"
-        ],
-        "Country of origin": [
-            "Spain"
-        ],
-        "Filming locations": [
-            "Barcelona, Catalonia, Spain"
-        ],
-        "Production companies": [
-            "Escola Superior de Cinema i Audiovisuals de Catalunya (ESCAC)",
-            "Escándalo Films",
-            "Tesauro"
+            "2008"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3069762/",
-            "name": "Elena Trapé"
+            "name": "Elena Trapé",
+            "@type": "Person"
         }
     ],
     "duration": "PT14M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3069762/",
-            "name": "Elena Trapé"
+            "name": "Elena Trapé",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1495907/",
@@ -66,10 +89,11 @@
     "imdb_votes": 6,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "5/10 from 6 users",
+    "imdb_rating": "5.0/10 from 6 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2008-11-13",
-    "imdb_rating_average": 5,
-    "update_at": "2025-06-02T05:52:05"
+    "datePublished": "2008",
+    "original_title": "Pijamas",
+    "imdb_rating_average": 5.0,
+    "update_at": "2026-11-05T13:56:31"
 }

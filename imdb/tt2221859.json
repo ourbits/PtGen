@@ -3,75 +3,127 @@
     "sid": "tt2221859",
     "name": "Susan 313",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2012",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000156/",
-            "name": "Jeff Goldblum"
+            "name": "Jeff Goldblum",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2053085/",
-            "name": "June Diane Raphael"
+            "name": "June Diane Raphael",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0449299/",
+            "name": "Tig Notaro",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0504962/",
-            "name": "Ken Leung"
-        }
-    ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDA2YzE4ZGMtZjQ5OC00MzQwLWIyZDktOGFkYzlhMzJmNTMzXkEyXkFqcGc@._V1_.jpg",
-    "details": {
-        "Language": [
-            "English"
-        ],
-        "Release date": [
-            "2012 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production companies": [
-            "20th Century Fox Television",
-            "Imagine Television"
-        ]
-    },
-    "reviews": 1,
-    "creators": [
-        {
-            "url": "https://www.imdb.com/name/nm2813438/",
-            "name": "Jon Schroeder"
+            "name": "Ken Leung",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0798971/",
-            "name": "Sarah Silverman"
+            "name": "Sarah Silverman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0169712/",
+            "name": "Robert Cohen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0569068/",
+            "name": "Eddie McGee",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2715265/",
+            "name": "Harris Wittels",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2186776/",
+            "name": "Reem Kadem",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2357497/",
+            "name": "Sunil Narkar",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": null,
+    "details": {
+        "Stars": [
+            "Jeff Goldblum",
+            "June Diane Raphael",
+            "Tig Notaro"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Jon Schroeder",
+            "Sarah Silverman",
+            "Dan Sterling"
+        ],
+        "Runtime": [
+            "30 min"
+        ],
+        "Director": [
+            "Ken Kwapis"
+        ],
+        "Release date": [
+            "2012"
+        ]
+    },
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm2813438/",
+            "name": "Jon Schroeder",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0798971/",
+            "name": "Sarah Silverman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1003839/",
-            "name": "Dan Sterling"
+            "name": "Dan Sterling",
+            "@type": "Person"
         }
     ],
     "duration": "PT30M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0477129/",
-            "name": "Ken Kwapis"
+            "name": "Ken Kwapis",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2221859/",
     "metascore": null,
-    "imdb_votes": 122,
+    "imdb_votes": 125,
     "popularity": 0,
-    "description": "A woman returns to her old life after a decade-long breakup, ready to pick up where she left off and finds it&apos;s not as easy as she thought because those around her have moved on.",
-    "imdb_rating": "6/10 from 122 users",
+    "description": null,
+    "imdb_rating": "5.9/10 from 125 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 6,
-    "update_at": "2025-06-12T19:21:05"
+    "datePublished": "2012",
+    "original_title": "Susan 313",
+    "imdb_rating_average": 5.9,
+    "update_at": "2026-11-05T12:07:37"
 }

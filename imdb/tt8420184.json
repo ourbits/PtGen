@@ -1,76 +1,161 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "La dernière danse",
+            "country": "Canada"
+        },
+        {
+            "title": "乔丹：最后一舞",
+            "country": "China"
+        },
+        {
+            "title": "乔丹：最后的舞动",
+            "country": "China"
+        },
+        {
+            "title": "Michael Jordan: The Last Dance",
+            "country": "United Kingdom"
+        },
+        {
+            "title": "마이클 조던: 더 라스트 댄스",
+            "country": "South Korea"
+        },
+        {
+            "title": "Ostatni Taniec",
+            "country": "Poland"
+        },
+        {
+            "title": "Son Dans",
+            "country": "Turkey"
+        }
+    ],
     "sid": "tt8420184",
     "name": "The Last Dance",
     "site": "imdb",
     "year": "2020",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
-        "Documentary",
         "Biography",
+        "Documentary",
         "History"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0003044/",
-            "name": "Michael Jordan"
+            "name": "Michael Jordan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0413944/",
-            "name": "Phil Jackson"
+            "name": "Phil Jackson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0685011/",
-            "name": "Scottie Pippen"
+            "name": "Scottie Pippen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0017718/",
+            "name": "David Aldridge",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0449807/",
+            "name": "Steve Kerr",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1123990/",
+            "name": "Michael Wilbon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0429908/",
+            "name": "Deloris Jordan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1429990/",
+            "name": "John Paxson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1947900/",
+            "name": "Bill Wennington",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1676593/",
+            "name": "Andrea Kremer",
+            "@type": "Person"
         }
     ],
-    "critic": 28,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTQyYmQ1N2UtYjFkNS00NzgyLTk5YTUtYjExMDdjOTA3MGU2XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/oVf4xGGbDtwVHiKn8uTuSriY7PH.jpg",
     "details": {
+        "Stars": [
+            "Michael Jordan",
+            "Phil Jackson",
+            "Scottie Pippen"
+        ],
+        "Genres": [
+            "Biography",
+            "Documentary",
+            "History"
+        ],
+        "Runtime": [
+            "50 min"
+        ],
+        "Director": [
+            "Jason Hehir"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "April 19, 2020 (United States)"
-        ],
-        "Also known as": [
-            "最後一舞"
-        ],
-        "Official sites": [
-            "Official Netflix - https://www.netflix.com/title/80203144/",
-            "Official site (ESPN) - https://www.espn.com/nba/story/_/id/28973557/the-last-dance-updates-untold-story-michael-jordan-chicago-bulls"
+            "2020-04-19"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Chicago, Illinois, USA"
+            "United States of America"
         ],
         "Production companies": [
             "ESPN Films",
-            "NBA Entertainment",
-            "Mandalay Sports Media (MSM)"
+            "Mandalay Sports Media",
+            "NBA Entertainment"
         ]
     },
-    "reviews": 542,
+    "reviews": 0,
+    "tagline": "The legends. The truth.",
     "creators": [],
-    "duration": null,
+    "duration": "PT50M",
     "keywords": [
-        "nba",
-        "espn",
-        "reference to michael jordan",
-        "reference to chicago bulls",
-        "reference to phil jackson"
+        "interview",
+        "sports",
+        "jordan",
+        "basketball",
+        "behind the scenes",
+        "sports documentary",
+        "national basketball association (nba)",
+        "chicago bulls"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm2629370/",
+            "name": "Jason Hehir",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt8420184/",
     "metascore": null,
-    "imdb_votes": 163723,
-    "popularity": 1429,
-    "description": "Led by Michael Jordan, the 1990s Chicago Bulls establish themselves as one of the most notable dynasties in sports history.",
-    "imdb_rating": "9/10 from 163723 users",
+    "imdb_votes": 185863,
+    "popularity": 0,
+    "description": "A 10-part documentary chronicling the untold story of Michael Jordan and the Chicago Bulls dynasty with rare, never-before-seen footage and sound from the 1997-98 championship season – plus over 100 interviews with famous figures and basketball’s biggest names.",
+    "imdb_rating": "9.0/10 from 185863 users",
     "release_date": [],
     "contentRating": "TV-MA",
     "datePublished": "2020-04-19",
-    "imdb_rating_average": 9,
-    "update_at": "2025-02-20T06:56:05"
+    "original_title": "The Last Dance",
+    "imdb_rating_average": 9.0,
+    "update_at": "2026-11-05T10:00:26"
 }

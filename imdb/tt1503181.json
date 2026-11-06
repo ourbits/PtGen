@@ -4,58 +4,99 @@
     "name": "Tilapää",
     "site": "imdb",
     "year": "1970",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0029809/",
-            "name": "Sointu Angervo"
+            "name": "Sointu Angervo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0045689/",
-            "name": "Asta Backman"
+            "name": "Asta Backman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0045694/",
-            "name": "Fritz-Hugo Backman"
+            "name": "Fritz-Hugo Backman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0357124/",
+            "name": "Kaarlo Halttunen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0357125/",
+            "name": "Marjukka Halttunen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0374434/",
+            "name": "Heikki Heino",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0405480/",
+            "name": "Alli Häjänen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0407565/",
+            "name": "Rauni Ikäheimo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0432993/",
+            "name": "Vappu Jurkka",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0433518/",
+            "name": "Helvi Järveläinen",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Finnish"
+        "Stars": [
+            "Sointu Angervo",
+            "Asta Backman",
+            "Fritz-Hugo Backman"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Eila Pennanen"
+        ],
+        "Director": [
+            "Seppo Wallin"
         ],
         "Release date": [
-            "September 7, 1970 (Finland)"
-        ],
-        "Also known as": [
-            "Aitiopaikka - Tilapää"
-        ],
-        "Country of origin": [
-            "Finland"
-        ],
-        "Production company": [
-            "Mainostelevisio (MTV)"
+            "1970"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1398869/",
-            "name": "Eila Pennanen"
+            "name": "Eila Pennanen",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0909205/",
-            "name": "Seppo Wallin"
+            "name": "Seppo Wallin",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1503181/",
@@ -66,7 +107,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1970-09-07",
+    "datePublished": "1970",
+    "original_title": "Tilapää",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-03T14:14:34"
+    "update_at": "2026-11-05T05:07:12"
 }

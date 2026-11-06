@@ -5,52 +5,133 @@
     "site": "imdb",
     "year": "1980",
     "@type": "TVSeries",
-    "genre": null,
+    "genre": [
+        "Comedy"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0824377/",
-            "name": "Ingrid Steeger"
+            "name": "Ingrid Steeger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0390474/",
-            "name": "Helmut Holger"
+            "name": "Helmut Holger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0390474/",
+            "name": "Helmut Holger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0197040/",
-            "name": "Klaus Dahlen"
+            "name": "Klaus Dahlen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0197040/",
+            "name": "Klaus Dahlen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0041940/",
+            "name": "Peer Augustinski",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0041940/",
+            "name": "Peer Augustinski",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1560473/",
+            "name": "Ulrike Martinek",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1560473/",
+            "name": "Ulrike Martinek",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0479805/",
+            "name": "Ysabelle Lacamp",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDVlMzg5YmEtZmY5Ny00ZDBiLWE1MmEtNjAwYTQ1Zjc3M2E3XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Ingrid Steeger",
+            "Helmut Holger",
+            "Helmut Holger"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Michel Fermaud",
+            "Walter Kempley",
+            "Michael Pfleghar"
+        ],
+        "Runtime": [
+            "45 min"
+        ],
+        "Director": [
+            "Michael Pfleghar"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "October 14, 1980 (West Germany)"
+            "1980-10-14"
         ],
         "Country of origin": [
-            "West Germany"
-        ],
-        "Production company": [
-            "Westdeutscher Rundfunk (WDR)"
+            "Germany"
         ]
     },
     "reviews": 0,
-    "creators": [],
-    "duration": null,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0272749/",
+            "name": "Michel Fermaud",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0447474/",
+            "name": "Walter Kempley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0679528/",
+            "name": "Michael Pfleghar",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT45M",
     "keywords": [
-        ""
+        "family"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0679528/",
+            "name": "Michael Pfleghar",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0080285/",
     "metascore": null,
-    "imdb_votes": 13,
+    "imdb_votes": 17,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "6.4/10 from 13 users",
+    "imdb_rating": "6.2/10 from 17 users",
     "release_date": [],
     "contentRating": null,
     "datePublished": "1980-10-14",
-    "imdb_rating_average": 6.4,
-    "update_at": "2025-06-02T15:36:39"
+    "original_title": "Susi",
+    "imdb_rating_average": 6.2,
+    "update_at": "2026-11-05T07:07:06"
 }

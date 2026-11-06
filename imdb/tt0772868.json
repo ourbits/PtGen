@@ -4,78 +4,144 @@
     "name": "In Conference",
     "site": "imdb",
     "year": "1931",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0167395/",
-            "name": "Andy Clyde"
+            "name": "Andy Clyde",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0340807/",
-            "name": "Harry Gribbon"
+            "name": "Harry Gribbon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0933442/",
-            "name": "George Wilson"
+            "name": "George Wilson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0641619/",
+            "name": "Patsy O'Leary",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0768474/",
+            "name": "Marion Sayers",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0384944/",
+            "name": "Ernest Hilliard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0640837/",
+            "name": "Spec O'Donnell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0516398/",
+            "name": "Marvin Loback",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4170157/",
+            "name": "Bernice Graves",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0134758/",
+            "name": "Maxine Cantway",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/mmWygKKPEvVThlpzdFtMqxfVqBC.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Andy Clyde",
+            "Harry Gribbon",
+            "George Wilson"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Ewart Adamson",
+            "Molly Herman",
+            "Harry McCoy"
+        ],
+        "Runtime": [
+            "21 min"
+        ],
+        "Director": [
+            "Edward F. Cline"
         ],
         "Release date": [
-            "April 26, 1931 (United States)"
+            "1931-04-26"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Mack Sennett Studios - 1712 Glendale Blvd., Silver Lake, Los Angeles, California, USA"
-        ],
-        "Production company": [
+        "Production companies": [
+            "Educational Pictures",
             "Mack Sennett Comedies"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0011485/",
-            "name": "Ewart Adamson"
+            "name": "Ewart Adamson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1149110/",
-            "name": "Molly Herman"
+            "name": "Molly Herman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0566745/",
-            "name": "Harry McCoy"
+            "name": "Harry McCoy",
+            "@type": "Person"
         }
     ],
     "duration": "PT21M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0166836/",
-            "name": "Edward F. Cline"
+            "name": "Edward F. Cline",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0772868/",
     "metascore": null,
-    "imdb_votes": 0,
+    "imdb_votes": 12,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "description": "Walter MacIntosh and Abe Salisbury are filmmakers in the process of viewing their swashbuckling romance epic, 'The Loves of LaVorees', starring silent screen idol, Romaine Salisbury, hotly contested within Hollywood and part of an expensive silent film production, only for Bovine Productions to switch to sound production and reveal to them for the first time, Romaine's real all-talking, all-singing voice.",
+    "imdb_rating": "6.0/10 from 12 users",
+    "release_date": [
+        {
+            "date": "1931-08-19",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "1931-04-26",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1931-04-26",
-    "imdb_rating_average": 0,
-    "update_at": "2025-07-19T03:39:19"
+    "original_title": "In Conference",
+    "imdb_rating_average": 6.0,
+    "update_at": "2026-11-05T02:28:19"
 }

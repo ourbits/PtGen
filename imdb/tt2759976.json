@@ -4,79 +4,134 @@
     "name": "Time of Death",
     "site": "imdb",
     "year": "2013",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Thriller"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0005370/",
-            "name": "Kathleen Robertson"
+            "name": "Kathleen Robertson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0893464/",
-            "name": "Gianpaolo Venuta"
+            "name": "Gianpaolo Venuta",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1686536/",
-            "name": "Sarah Power"
+            "name": "Sarah Power",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1022732/",
+            "name": "Link Baker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1016334/",
+            "name": "Daniel Fathers",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0035676/",
+            "name": "Dean Armstrong",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0132301/",
+            "name": "Christian Campbell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0155389/",
+            "name": "Terry Chen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000911/",
+            "name": "Nigel Bennett",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0155913/",
+            "name": "Jonas Chernick",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTU5NTgzNjgwNl5BMl5BanBnXkFtZTcwMTM0NzczOQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/uCrBOmtErhxXVSeuWdXsMLXipU2.jpg",
     "details": {
+        "Stars": [
+            "Kathleen Robertson",
+            "Gianpaolo Venuta",
+            "Sarah Power"
+        ],
+        "Genres": [
+            "Thriller"
+        ],
+        "Writer": [
+            "Tom Gates",
+            "James Phillips"
+        ],
+        "Runtime": [
+            "94 min"
+        ],
+        "Director": [
+            "Frédéric D'Amours"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "July 19, 2013 (United States)"
-        ],
-        "Also known as": [
-            "La hora de la muerte"
-        ],
-        "Official site": [
-            "official site - http://www.incendo.ca/productions/time-of-death"
+            "2013-07-19"
         ],
         "Country of origin": [
             "Canada"
         ],
-        "Filming locations": [
-            "Montréal, Québec, Canada"
-        ],
-        "Production company": [
+        "Production companies": [
             "Incendo Productions"
         ]
     },
-    "reviews": 42,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3247373/",
-            "name": "Tom Gates"
+            "name": "Tom Gates",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1156122/",
-            "name": "James Phillips"
+            "name": "James Phillips",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H34M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1322562/",
-            "name": "Frédéric D&apos;Amours"
+            "name": "Frédéric D'Amours",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2759976/",
     "metascore": null,
-    "imdb_votes": 1247,
+    "imdb_votes": 1338,
     "popularity": 0,
-    "description": "When a CEO connected to defense contracts is murdered 10:44pm, an FBI special agent is sent to cooperate with local police. She gets a handsome rookie detective. When another is murdered 10:44pm, the duo look into the past.",
-    "imdb_rating": "5.7/10 from 1247 users",
-    "release_date": [],
+    "description": "Following the death of CEO Robert Loring at precisely 10:44 pm, the FBI sends in Jordan Price, one of their best and brightest to solve the case. As other key executives are murdered at exactly the same time, Jordan finds herself investigating the past in order to solve the case. She quickly discovers the ultimate cover up and is under the gun to solve the mystery before the next victim is killed.",
+    "imdb_rating": "5.7/10 from 1338 users",
+    "release_date": [
+        {
+            "date": "2013-07-19",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2013-07-19",
+    "original_title": "Time of Death",
     "imdb_rating_average": 5.7,
-    "update_at": "2025-08-07T17:28:42"
+    "update_at": "2026-11-05T14:56:28"
 }

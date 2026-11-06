@@ -4,7 +4,7 @@
     "name": "Under the Little Big Top",
     "site": "imdb",
     "year": "1953",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Documentary",
         "Short"
@@ -12,38 +12,40 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0319497/",
-            "name": "Art Gilmore"
+            "name": "Art Gilmore",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Art Gilmore"
+        ],
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "André de la Varre"
         ],
         "Release date": [
-            "April 25, 1953 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Sarasota, Florida, USA"
-        ],
-        "Production company": [
-            "Warner Bros."
+            "1953"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT10M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0890186/",
-            "name": "André de la Varre"
+            "name": "André de la Varre",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1512260/",
@@ -54,7 +56,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1953-04-25",
+    "datePublished": "1953",
+    "original_title": "Under the Little Big Top",
     "imdb_rating_average": 0,
-    "update_at": "2025-04-16T10:13:21"
+    "update_at": "2026-11-05T07:35:24"
 }

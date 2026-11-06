@@ -11,41 +11,54 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2272669/",
-            "name": "Odine Johne"
+            "name": "Odine Johne",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5501029/",
-            "name": "Julien Lickert"
+            "name": "Julien Lickert",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWQ3YWI4OTgtOWRjNS00MWQzLTg3MTItNzk3NjJmMWQ3YzZkXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Odine Johne",
+            "Julien Lickert"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Nicolas Ehret"
+        ],
+        "Runtime": [
+            "84 min"
+        ],
+        "Director": [
+            "Nicolas Ehret"
         ],
         "Release date": [
-            "November 7, 2015 (Germany)"
-        ],
-        "Country of origin": [
-            "Germany"
+            "2015"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm6810441/",
-            "name": "Nicolas Ehret"
+            "name": "Nicolas Ehret",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H24M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm6810441/",
-            "name": "Nicolas Ehret"
+            "name": "Nicolas Ehret",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt7881510/",
@@ -56,7 +69,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2015-11-07",
+    "datePublished": "2015",
+    "original_title": "Hit the Road Gunnar",
     "imdb_rating_average": 0,
-    "update_at": "2026-02-24T13:42:25"
+    "update_at": "2026-11-06T01:56:13"
 }

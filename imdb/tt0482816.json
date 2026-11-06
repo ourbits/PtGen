@@ -3,45 +3,62 @@
     "sid": "tt0482816",
     "name": "Le pendentif",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1921",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0535297/",
-            "name": "Marguerite Madys"
+            "name": "Marguerite Madys",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0107819/",
-            "name": "Pierre Bressol"
+            "name": "Pierre Bressol",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "None"
+        "Stars": [
+            "Marguerite Madys",
+            "Pierre Bressol"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Edmond Fleg"
+        ],
+        "Director": [
+            "Pierre Colombier"
+        ],
+        "Release date": [
+            "1921-10-23"
         ],
         "Country of origin": [
             "France"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2373018/",
-            "name": "Edmond Fleg"
+            "name": "Edmond Fleg",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0173017/",
-            "name": "Pierre Colombier"
+            "name": "Pierre Colombier",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0482816/",
@@ -50,9 +67,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1921-10-23",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1921-10-23",
+    "original_title": "Le pendentif",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-03T09:39:09"
+    "update_at": "2026-11-05T22:49:06"
 }

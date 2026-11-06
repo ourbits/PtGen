@@ -4,64 +4,111 @@
     "name": "Barbárok",
     "site": "imdb",
     "year": "1989",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0373708/",
-            "name": "Géza D. Hegedüs"
+            "name": "Géza Hegedűs D.",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0078792/",
-            "name": "Emma Bessenyei"
+            "name": "Emma Bessenyei",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0464857/",
-            "name": "Gábor Koncz"
+            "name": "Gábor Koncz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0854590/",
+            "name": "Hédi Temessy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0473477/",
+            "name": "Anna Kubik",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0468482/",
+            "name": "János Kovács",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0586743/",
+            "name": "István Mikó",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0433405/",
+            "name": "Béla Jáki",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0619434/",
+            "name": "Anna Nagy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0407169/",
+            "name": "István Iglódi",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Hungarian"
+        "Stars": [
+            "Géza Hegedűs D.",
+            "Emma Bessenyei",
+            "Gábor Koncz"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Maxim Gorky",
+            "Andor Gábor",
+            "Péter Havas"
+        ],
+        "Director": [
+            "Péter Havas"
         ],
         "Release date": [
-            "February 15, 1989 (Hungary)"
-        ],
-        "Country of origin": [
-            "Hungary"
-        ],
-        "Production company": [
-            "Magyar Televízió Müvelödési Föszerkesztöség (MTV) (I)"
+            "1989"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0331003/",
-            "name": "Maxim Gorky"
+            "name": "Maxim Gorky",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0350602/",
-            "name": "Andor Gábor"
+            "name": "Andor Gábor",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1213794/",
-            "name": "Péter Havas"
+            "name": "Péter Havas",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "foreign language adaptation",
-        "based on play"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1213794/",
-            "name": "Péter Havas"
+            "name": "Péter Havas",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1090185/",
@@ -72,7 +119,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1989-02-15",
+    "datePublished": "1989",
+    "original_title": "Barbárok",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-16T23:55:35"
+    "update_at": "2026-11-05T03:35:08"
 }

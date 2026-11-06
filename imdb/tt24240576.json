@@ -4,67 +4,96 @@
     "name": "Three Ladies",
     "site": "imdb",
     "year": "2010",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3108401/",
-            "name": "Casey Christensen"
+            "name": "Casey Christensen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1890231/",
-            "name": "Mike Dayem"
+            "name": "Mike Dayem",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1004196/",
-            "name": "Ellen Etten"
+            "name": "Ellen Etten",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2463731/",
+            "name": "Josh Heine",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2428922/",
+            "name": "Ryan Lonergan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2228444/",
+            "name": "Garrett McKechnie",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODYzMGI0OWUtOWIwMi00ZGE2LWI2NzctNThiOTM4ZGViODU5XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Casey Christensen",
+            "Mike Dayem",
+            "Ellen Etten"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Casey Christensen",
+            "Ellen Etten",
+            "Ryan Lonergan"
+        ],
+        "Runtime": [
+            "6 min"
+        ],
+        "Director": [
+            "Ryan Lonergan"
         ],
         "Release date": [
-            "November 10, 2010 (United States)"
-        ],
-        "Official site": [
-            "link to film - https://vimeo.com/704675840"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Against the Barrel Productions"
+            "2010"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3108401/",
-            "name": "Casey Christensen"
+            "name": "Casey Christensen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1004196/",
-            "name": "Ellen Etten"
+            "name": "Ellen Etten",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2428922/",
-            "name": "Ryan Lonergan"
+            "name": "Ryan Lonergan",
+            "@type": "Person"
         }
     ],
     "duration": "PT6M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2428922/",
-            "name": "Ryan Lonergan"
+            "name": "Ryan Lonergan",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt24240576/",
@@ -75,7 +104,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2010-11-10",
+    "datePublished": "2010",
+    "original_title": "Three Ladies",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-05T04:07:27"
+    "update_at": "2026-11-05T07:35:32"
 }

@@ -4,74 +4,109 @@
     "name": "Petite faiblesse",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Drama",
-        "Mystery"
+        "Mystery",
+        "Romance"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2010238/",
-            "name": "Grégory Granier"
+            "name": "Grégory Granier",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2018883/",
-            "name": "Anthony Hallot"
+            "name": "Anthony Hallot",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0517975/",
-            "name": "Florence Loiret Caille"
+            "name": "Florence Loiret Caille",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2097062/",
+            "name": "Nicole Mauffrey",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjQzMjhmZTAtNzE1MC00MDU2LWE1MTktYmNlMjQxZTVlODAyXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/cwJ1em8RlHeX0HopsSAqjQyfjAI.jpg",
     "details": {
+        "Stars": [
+            "Grégory Granier",
+            "Anthony Hallot",
+            "Florence Loiret Caille"
+        ],
+        "Genres": [
+            "Drama",
+            "Mystery",
+            "Romance"
+        ],
+        "Writer": [
+            "Arnault Labaronne"
+        ],
+        "Runtime": [
+            "18 min"
+        ],
+        "Director": [
+            "Arnault Labaronne"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "November 16, 2005 (France)"
+            "2005-11-16"
         ],
         "Country of origin": [
             "France"
         ],
         "Production companies": [
             "Antiprod",
-            "Centre national du cinéma et de l'image animée (CNC)",
-            "Société des Producteurs de Cinéma et de Télévision (Procirep)"
+            "CNC",
+            "PROCIREP"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1481606/",
-            "name": "Arnault Labaronne"
+            "name": "Arnault Labaronne",
+            "@type": "Person"
         }
     ],
     "duration": "PT18M",
     "keywords": [
-        "female rear nudity",
-        "female nudity",
-        "bisexual husband",
-        "bisexual",
-        "pregnant wife"
+        "lgbt",
+        "gay theme",
+        "short film",
+        "cheating husband"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1481606/",
-            "name": "Arnault Labaronne"
+            "name": "Arnault Labaronne",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0476335/",
     "metascore": null,
-    "imdb_votes": 34,
+    "imdb_votes": 35,
     "popularity": 0,
     "description": "While his wife is pregnant, Marc enters into a strange relationship with a young Polish man who is willing to do anything.",
-    "imdb_rating": "6.4/10 from 34 users",
-    "release_date": [],
+    "imdb_rating": "6.4/10 from 35 users",
+    "release_date": [
+        {
+            "date": "2005-11-16",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2005-11-16",
+    "original_title": "Petite faiblesse",
     "imdb_rating_average": 6.4,
-    "update_at": "2026-02-06T03:28:26"
+    "update_at": "2026-11-05T13:49:32"
 }

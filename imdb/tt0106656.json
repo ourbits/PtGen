@@ -5,74 +5,134 @@
     "site": "imdb",
     "year": "1993",
     "@type": "TVEpisode",
-    "genre": null,
+    "genre": [
+        "Comedy",
+        "Romance",
+        "TV Movie"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0562201/",
-            "name": "Rik Mayall"
+            "name": "Rik Mayall",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000307/",
-            "name": "Helena Bonham Carter"
+            "name": "Helena Bonham Carter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000307/",
+            "name": "Helena Bonham Carter",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0330601/",
-            "name": "Serena Gordon"
+            "name": "Serena Gordon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0878302/",
+            "name": "Dorothy Tutin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0662511/",
+            "name": "Nathaniel Parker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0167340/",
+            "name": "Martin Clunes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0143667/",
+            "name": "Bill Cashmore",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0054922/",
+            "name": "Judith Barker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0552899/",
+            "name": "Peter Martin",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTgwMTU3MjQxN15BMl5BanBnXkFtZTgwMzc3MTA3MDE@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/5eP72RHRgvAvv1meM2vcEzyKO5A.jpg",
     "details": {
+        "Stars": [
+            "Rik Mayall",
+            "Helena Bonham Carter",
+            "Helena Bonham Carter"
+        ],
+        "Genres": [
+            "Comedy",
+            "Romance",
+            "TV Movie"
+        ],
+        "Writer": [
+            "Nick Vivian"
+        ],
+        "Runtime": [
+            "51 min"
+        ],
+        "Director": [
+            "Nick Hamm"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "June 3, 1993 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Танцующая королева"
+            "1993-06-03"
         ],
         "Country of origin": [
             "United Kingdom"
-        ],
-        "Filming locations": [
-            "Scarborough, North Yorkshire, England, UK"
         ],
         "Production companies": [
             "First Choice",
             "Granada Television"
         ]
     },
-    "reviews": 12,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0900327/",
-            "name": "Nick Vivian"
+            "name": "Nick Vivian",
+            "@type": "Person"
         }
     ],
     "duration": "PT51M",
     "keywords": [
-        "female nudity",
-        "female topless nudity",
-        "train",
-        "stripper",
-        "abba"
+        "romance"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0358327/",
-            "name": "Nick Hamm"
+            "name": "Nick Hamm",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0106656/",
     "metascore": null,
-    "imdb_votes": 702,
+    "imdb_votes": 719,
     "popularity": 0,
-    "description": "Neil is about to be married and is celebrating in the time honoured tradition of the stag night. His friends hire a strippagram by the name of Pandora (Helena Bonham Carter) but Neil is so intoxicated he doesn&apos;t take any notice of...",
-    "imdb_rating": "7.8/10 from 702 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "Dancing Queen is a 1993 British romantic comedy film starring Rik Mayall and Helena Bonham Carter. It follows the misfortune of Neil (Mayall), a bridegroom trying to get back to his bride with the help of his newfound friend Pandora/Julie (Bonham Carter) the stripper. It was the third episode of the first series of the Granada Television series Rik Mayall Presents.",
+    "imdb_rating": "7.8/10 from 719 users",
+    "release_date": [
+        {
+            "date": "1993-06-03",
+            "country": "United Kingdom"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1993-06-03",
+    "original_title": "Dancing Queen",
     "imdb_rating_average": 7.8,
-    "update_at": "2025-05-22T19:44:43"
+    "update_at": "2026-11-05T08:07:06"
 }

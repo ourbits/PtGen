@@ -1,75 +1,107 @@
 {
     "aka": [],
     "sid": "tt0151493",
-    "name": "Marie Stuart",
+    "name": "Mary Stuart",
     "site": "imdb",
     "year": "1908",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Biography",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0217963/",
-            "name": "Jeanne Delvair"
+            "name": "Jeanne Delvair",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0344930/",
-            "name": "Jacques Grétillat"
+            "name": "Jacques Grétillat",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0470307/",
-            "name": "Henry Krauss"
+            "name": "Henry Krauss",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0135053/",
+            "name": "Paul Capellani",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1690605/",
+            "name": "Véra Sergine",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/xoCgIYlkefEI6dQxA434UeqpKFi.jpg",
     "details": {
-        "Languages": [
-            "None",
-            "French"
+        "Stars": [
+            "Jeanne Delvair",
+            "Jacques Grétillat",
+            "Henry Krauss"
+        ],
+        "Genres": [
+            "Biography",
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Michel Carré"
+        ],
+        "Director": [
+            "Albert Capellani"
+        ],
+        "Language": [
+            "No Language"
         ],
         "Release date": [
-            "November 23, 1908 (United States)"
-        ],
-        "Also known as": [
-            "Marie Stuart"
+            "1908-09-07"
         ],
         "Country of origin": [
             "France"
         ],
-        "Production company": [
+        "Production companies": [
             "Pathé Frères"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0141150/",
-            "name": "Michel Carré"
+            "name": "Michel Carré",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "historical event"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0135052/",
-            "name": "Albert Capellani"
+            "name": "Albert Capellani",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0151493/",
     "metascore": null,
-    "imdb_votes": 13,
+    "imdb_votes": 17,
     "popularity": 0,
-    "description": "The principal events in the life of Mary Queen of Scots. She was the daughter of Jacques the Fifth and Mary Guise and married Francis the Second, King of France. After the death of her husband in 1560, Mary Stuart left France and ...",
-    "imdb_rating": "4.9/10 from 13 users",
-    "release_date": [],
+    "description": "The film depicts the main events in the life of Mary, Queen of Scots. She married Francis II, King of France. After her husband's death in 1560, Mary Stuart left France and returned to her native Scotland. Her father having died around the same time, she became Queen. She was about 19 years old, and her youth, great beauty, and charming manner won the hearts of the Scots. She was a devout Catholic, and when she ascended the throne, she found the country in the hands of Protestants, who caused much unrest. They revolted and imprisoned the young Queen. She escaped and sought help from Queen Elizabeth, but Elizabeth betrayed her and imprisoned her again. With the help of a page, she escaped through a window, but Elizabeth had her recaptured by her soldiers after a fierce struggle. She was therefore returned to prison once again and sentenced to death after a sham trial. It was with her gentle smile that Marie laid her head on the block.",
+    "imdb_rating": "4.1/10 from 17 users",
+    "release_date": [
+        {
+            "date": "1908-09-07",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1908-11-23",
-    "imdb_rating_average": 4.9,
-    "update_at": "2025-06-03T04:14:05"
+    "datePublished": "1908-09-07",
+    "original_title": "Marie Stuart",
+    "imdb_rating_average": 4.1,
+    "update_at": "2026-11-05T10:07:06"
 }

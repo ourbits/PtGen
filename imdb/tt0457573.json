@@ -4,70 +4,81 @@
     "name": "Flores",
     "site": "imdb",
     "year": "2001",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1697027/",
-            "name": "Anna George"
+            "name": "Anna George",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2289461/",
-            "name": "Martin Toohey"
+            "name": "Martin Toohey",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1060815/",
-            "name": "Andrea Videla"
+            "name": "Andrea Videla",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Spanish"
+        "Stars": [
+            "Anna George",
+            "Martin Toohey",
+            "Andrea Videla"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Kevin Cutts"
+        ],
+        "Runtime": [
+            "29 min"
+        ],
+        "Director": [
+            "Kevin Cutts"
         ],
         "Release date": [
-            "October 15, 2001 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "New York City, New York, USA"
-        ],
-        "Production company": [
-            "Austin Films! Inc."
+            "2001"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1570120/",
-            "name": "Kevin Cutts"
+            "name": "Kevin Cutts",
+            "@type": "Person"
         }
     ],
     "duration": "PT29M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1570120/",
-            "name": "Kevin Cutts"
+            "name": "Kevin Cutts",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0457573/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "A Mexican couple has come to New York in search of the immigrant&apos;s dream. Settling into his routine, the man, Mateo, continues to see two children in an obviously abusive situation. In attempting to rescue them he jeopardizes ever...",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2001-10-15",
+    "datePublished": "2001",
+    "original_title": "Flores",
     "imdb_rating_average": 0,
-    "update_at": "2026-05-25T04:42:22"
+    "update_at": "2026-11-05T18:42:26"
 }

@@ -3,78 +3,105 @@
     "sid": "tt1549724",
     "name": "Before They Die!",
     "site": "imdb",
+    "year": "2008",
     "@type": "Movie",
     "genre": [
-        "Documentary",
         "Crime",
+        "Documentary",
         "History"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0014977/",
-            "name": "Franklyn Ajaye"
+            "name": "Franklyn Ajaye",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm7889785/",
-            "name": "Otis Clark"
+            "name": "Otis Clark",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm7889786/",
-            "name": "Olivia Hooker"
+            "name": "Olivia Hooker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2059036/",
+            "name": "Charles Ogletree",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7889787/",
+            "name": "Wess Young",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/2N6odANs2CfPWZMbBWgxbfWkmcn.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Franklyn Ajaye",
+            "Otis Clark",
+            "Olivia Hooker"
+        ],
+        "Genres": [
+            "Crime",
+            "Documentary",
+            "History"
+        ],
+        "Runtime": [
+            "92 min"
+        ],
+        "Director": [
+            "Reginald Turner",
+            "St. Clair Bourne",
+            "Michael Hausfeld"
         ],
         "Release date": [
-            "November 2008 (United States)"
+            "2008-11-01"
         ],
-        "Official sites": [
-            "Official site - http://www.beforetheydiemovie.com/",
-            "Official site - http://www.BeforeTheyDieMovie.com/"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Tulsa, Oklahoma, USA"
+        "Production companies": [
+            "Mportant Films, LLC"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": "PT1H32M",
-    "keywords": [
-        "tulsa",
-        "riot",
-        "tulsa race riot",
-        "african american history",
-        "african american"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0877820/",
-            "name": "Reginald Turner"
+            "name": "Reginald Turner",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0100049/",
-            "name": "St. Clair Bourne"
+            "name": "St. Clair Bourne",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3708603/",
-            "name": "Michael Hausfeld"
+            "name": "Michael Hausfeld",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1549724/",
     "metascore": null,
-    "imdb_votes": 15,
+    "imdb_votes": 18,
     "popularity": 0,
-    "description": "This is the story of the Tulsa Race Riot of 1921, the worst case of domestic terrorism in American history. It is about the few remaining survivors and their fight for justice and compensation; their demand for the dignity and rec...",
-    "imdb_rating": "7.1/10 from 15 users",
-    "release_date": [],
-    "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 7.1,
-    "update_at": "2025-08-19T11:49:07"
+    "description": "Before They Die! A film chronicling the survivors of the 1921 Tulsa Race Riot and their quest for justice.",
+    "imdb_rating": "7.5/10 from 18 users",
+    "release_date": [
+        {
+            "date": "2008-11-01",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
+    "datePublished": "2008-11-01",
+    "original_title": "Before They Die!",
+    "imdb_rating_average": 7.5,
+    "update_at": "2026-11-05T04:49:14"
 }

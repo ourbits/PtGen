@@ -4,69 +4,86 @@
     "name": "Infantile",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2409938/",
-            "name": "Moti Brecher"
+            "name": "Moti Brecher",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1004601/",
-            "name": "Tamara Levinson"
+            "name": "Tamara Levinson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2408488/",
-            "name": "Tal Meiri"
+            "name": "Tal Meiri",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3245705/",
+            "name": "Josheph Shamriz",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Hebrew"
+        "Stars": [
+            "Moti Brecher",
+            "Tamara Levinson",
+            "Tal Meiri"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Lior Shamriz"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Lior Shamriz"
         ],
         "Release date": [
-            "June 5, 2005 (Israel)"
-        ],
-        "Country of origin": [
-            "Israel"
-        ],
-        "Production company": [
-            "Jehuti Films"
+            "2005"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2413757/",
-            "name": "Lior Shamriz"
+            "name": "Lior Shamriz",
+            "@type": "Person"
         }
     ],
     "duration": "PT15M",
-    "keywords": [
-        "male rear nudity",
-        "male nudity",
-        "male frontal nudity"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2413757/",
-            "name": "Lior Shamriz"
+            "name": "Lior Shamriz",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1090326/",
     "metascore": null,
     "imdb_votes": 13,
     "popularity": 0,
-    "description": "The rough ride home of Tal and Moti, a soon to be married couple. The movie is questioning identifying with characters and the line between fiction and documented exhibitionism.",
+    "description": null,
     "imdb_rating": "7.3/10 from 13 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2005-06-05",
+    "datePublished": "2005",
+    "original_title": "Infantile",
     "imdb_rating_average": 7.3,
-    "update_at": "2025-10-03T22:21:13"
+    "update_at": "2026-11-05T08:21:39"
 }
