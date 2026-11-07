@@ -5,43 +5,136 @@
     "site": "imdb",
     "year": "1931",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Drama"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0002158/",
+            "name": "Edvin Adolphson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0054011/",
+            "name": "Carl Barcklind",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0862727/",
+            "name": "Inga Tidblad",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0841889/",
+            "name": "Karin Swanström",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0138156/",
+            "name": "Rune Carlsten",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0526398/",
+            "name": "Nils Lundell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0089002/",
+            "name": "Georg Blomstedt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0116307/",
+            "name": "John W. Brunius",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0414955/",
+            "name": "Nils Jacobsson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0906306/",
+            "name": "Nils Wahlbom",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDZlOTkwNTMtNGNhNC00YjA0LTk4NjEtN2Q4ZjFiMzQ1NTQzXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Edvin Adolphson",
+            "Carl Barcklind",
+            "Inga Tidblad"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Gustaf Collijn",
+            "Marcel Pagnol"
+        ],
+        "Runtime": [
+            "101 min"
+        ],
+        "Director": [
+            "John W. Brunius",
+            "Alexander Korda"
+        ],
         "Language": [
             "Swedish"
         ],
         "Release date": [
-            "November 12, 1931 (Sweden)"
+            "1931-11-12"
         ],
-        "Also known as": [
-            "Længslen mod Havet"
-        ],
-        "Filming locations": [
-            "Marseille, Bouches-du-Rhône, France"
-        ],
-        "Countries of origin": [
-            "France",
+        "Country of origin": [
             "Sweden"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0171994/",
+            "name": "Gustaf Collijn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0656528/",
+            "name": "Marcel Pagnol",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT1H41M",
-    "keywords": [
-        "eastern europe",
-        "love",
-        "based on play"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0116307/",
+            "name": "John W. Brunius",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0466099/",
+            "name": "Alexander Korda",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0022098/",
     "metascore": null,
-    "imdb_votes": 20,
+    "imdb_votes": 21,
     "popularity": 0,
     "description": "Marius is torn between the love for Fanny on land and the desire to go out to sea.",
-    "imdb_rating": "4.5/10 from 20 users",
-    "release_date": [],
+    "imdb_rating": "3.9/10 from 21 users",
+    "release_date": [
+        {
+            "date": "1931-11-12",
+            "country": "Sweden"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1931-11-12",
-    "imdb_rating_average": 4.5,
-    "update_at": "2025-11-25T13:07:12"
+    "original_title": "Längtan till havet",
+    "imdb_rating_average": 3.9,
+    "update_at": "2026-11-06T16:28:29"
 }

@@ -4,71 +4,128 @@
     "name": "A Shadow in the Streets",
     "site": "imdb",
     "year": "1975",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0516215/",
-            "name": "Tony Lo Bianco"
+            "name": "Tony Lo Bianco",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0636065/",
-            "name": "Sheree North"
+            "name": "Sheree North",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000763/",
-            "name": "Dana Andrews"
+            "name": "Dana Andrews",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0491590/",
+            "name": "Ed Lauter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0919934/",
+            "name": "Jesse Welles",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0376347/",
+            "name": "Bill Henderson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0049845/",
+            "name": "Dick Balduzzi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0925005/",
+            "name": "John Sylvester White",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0207616/",
+            "name": "Lee de Broux",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0237595/",
+            "name": "Lieux Dressler",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/zP92qK2yoojAHaRFtfYvE03UjpJ.jpg",
     "details": {
+        "Stars": [
+            "Tony Lo Bianco",
+            "Sheree North",
+            "Dana Andrews"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "John D.F. Black"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Richard Donner"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 28, 1975 (United States)"
-        ],
-        "Also known as": [
-            "Una sombra en las calles"
+            "1975-01-28"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
-            "Playboy Productions"
+        "Production companies": [
+            "Playboy Enterprises"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0085353/",
-            "name": "John D.F. Black"
+            "name": "John D.F. Black",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        "ex convict",
-        "parole",
-        "prison"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0001149/",
-            "name": "Richard Donner"
+            "name": "Richard Donner",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0073690/",
     "metascore": null,
-    "imdb_votes": 29,
+    "imdb_votes": 33,
     "popularity": 0,
     "description": "An ex-convict trying to straighten his life out takes a job as a parole agent in an experimental project to help former inmates.",
-    "imdb_rating": "7.1/10 from 29 users",
-    "release_date": [],
-    "contentRating": null,
+    "imdb_rating": "7.2/10 from 33 users",
+    "release_date": [
+        {
+            "date": "1975-01-28",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "1975-01-28",
-    "imdb_rating_average": 7.1,
-    "update_at": "2025-09-16T11:00:07"
+    "original_title": "A Shadow in the Streets",
+    "imdb_rating_average": 7.2,
+    "update_at": "2026-11-06T23:42:08"
 }

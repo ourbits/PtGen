@@ -3,46 +3,66 @@
     "sid": "tt7364368",
     "name": "I Have a Message for You",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2017",
+    "@type": "Short",
     "genre": [
-        "Documentary",
         "Animation",
-        "Short"
+        "Biography",
+        "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm10371401/",
-            "name": "Klara Prowisor"
+            "name": "Klara Prowisor",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm10371402/",
-            "name": "Philippe Szyper"
+            "name": "Philippe Szyper",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWE5ZWNkNWUtZWRkOC00OGNiLWE2NjQtNzRkY2Y2ZmFmYjhkXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/5YM3imlje6qpkcWfPujJ2owu0bJ.jpg",
     "details": {
+        "Stars": [
+            "Klara Prowisor",
+            "Philippe Szyper"
+        ],
+        "Genres": [
+            "Animation",
+            "Biography",
+            "Documentary"
+        ],
+        "Runtime": [
+            "13 min"
+        ],
+        "Director": [
+            "Matan Rochlitz"
+        ],
         "Language": [
-            "French"
+            "French",
+            "Hebrew"
         ],
         "Release date": [
-            "September 2017 (Italy)"
+            "2017-09-01"
         ],
-        "Countries of origin": [
+        "Country of origin": [
+            "Israel",
             "Italy",
-            "United Kingdom",
-            "Israel"
+            "United Kingdom"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": "PT13M",
-    "keywords": [
-        "train"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3718392/",
-            "name": "Matan Rochlitz"
+            "name": "Matan Rochlitz",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt7364368/",
@@ -51,9 +71,15 @@
     "popularity": 0,
     "description": "A story of love, loss and redemption set on a train in 1943.",
     "imdb_rating": "8.4/10 from 37 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2017-09-01",
+            "country": "Italy"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2017-09-01",
+    "original_title": "I Have a Message for You",
     "imdb_rating_average": 8.4,
-    "update_at": "2025-08-02T01:26:19"
+    "update_at": "2026-11-06T20:42:15"
 }

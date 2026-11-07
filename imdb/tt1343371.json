@@ -4,7 +4,7 @@
     "name": "Encounter with Danger",
     "site": "imdb",
     "year": "2010",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Mystery",
@@ -13,71 +13,133 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001147/",
-            "name": "Shannen Doherty"
+            "name": "Shannen Doherty",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0401936/",
-            "name": "Mark Humphrey"
+            "name": "Mark Humphrey",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1438745/",
-            "name": "Sebastien Roberts"
+            "name": "Sebastien Roberts",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0638706/",
+            "name": "David Nykl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2242337/",
+            "name": "Jeffrey Bowyer-Chapman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0570512/",
+            "name": "Andrew McIlroy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0398267/",
+            "name": "Terry Howson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0149942/",
+            "name": "Garry Chalk",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0401969/",
+            "name": "Alf Humphreys",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1340738/",
+            "name": "Jessica Harmon",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmY1OGJlNDQtZWRjZS00ZTFmLTkxNzgtY2Q0ZWRiYTY3YzQwXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/8zTfDvfhI76CjgNeqNd3gC25sJd.jpg",
     "details": {
+        "Stars": [
+            "Shannen Doherty",
+            "Mark Humphrey",
+            "Sebastien Roberts"
+        ],
+        "Genres": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "Writer": [
+            "Jeffrey Schenck",
+            "Peter Sullivan"
+        ],
+        "Runtime": [
+            "88 min"
+        ],
+        "Director": [
+            "Neill Fearnley"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "February 28, 2010 (United States)"
-        ],
-        "Also known as": [
-            "Resistance"
+            "2010-02-28"
         ],
         "Country of origin": [
-            "Canada"
-        ],
-        "Filming locations": [
-            "Langley, British Columbia, Canada"
+            "Canada",
+            "United States of America"
         ],
         "Production companies": [
             "Insight Film Studios",
-            "The Movie Network (TMN)",
-            "Super Ecran"
+            "The Movie Network",
+            "Super Écran",
+            "Movie Central"
         ]
     },
-    "reviews": 5,
+    "reviews": 0,
+    "tagline": "A romantic getaway turns into a living nightmare",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0770848/",
-            "name": "Jeffrey Schenck"
+            "name": "Jeffrey Schenck",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0838289/",
-            "name": "Peter Sullivan"
+            "name": "Peter Sullivan",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H28M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0269899/",
-            "name": "Neill Fearnley"
+            "name": "Neill Fearnley",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1343371/",
     "metascore": null,
-    "imdb_votes": 294,
+    "imdb_votes": 307,
     "popularity": 0,
-    "description": "As Jack leaves town for business, he seizes the opportunity to take Lori along so that they rekindle their relationship. But when he disappears, Lori discovers that Jack was about to reveal the corruption that exists within the co...",
-    "imdb_rating": "4.9/10 from 294 users",
-    "release_date": [],
-    "contentRating": "TV-14",
+    "description": "Lori's fiancee Jack disappears after she accompanies him on a business trip. After she discovers he was about to expose a corruption scandal, all traces of Jack's existence vanish as well. Does Jack really exist or is he a fragment of Lori's imagination? She sets out on a wild hunt for answers.",
+    "imdb_rating": "4.9/10 from 307 users",
+    "release_date": [
+        {
+            "date": "2010-02-28",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2010-02-28",
+    "original_title": "Encounter with Danger",
     "imdb_rating_average": 4.9,
-    "update_at": "2025-04-14T06:21:33"
+    "update_at": "2026-11-06T04:56:19"
 }

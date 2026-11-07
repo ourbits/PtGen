@@ -4,7 +4,7 @@
     "name": "Camera Shy",
     "site": "imdb",
     "year": "2004",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Comedy",
         "Short"
@@ -12,64 +12,98 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1632016/",
-            "name": "Jonathan McDevitt"
+            "name": "Jonathan McDevitt",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1568472/",
-            "name": "Allison Albeen"
+            "name": "Allison Albeen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1307557/",
-            "name": "Harry McDevitt"
+            "name": "Harry McDevitt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1573650/",
+            "name": "Helen McDevitt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1573651/",
+            "name": "Zachary McDevitt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1734685/",
+            "name": "Adam DeNully",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2170084/",
+            "name": "Cary Gitter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1573649/",
+            "name": "Darlene McDevitt",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Jonathan McDevitt",
+            "Allison Albeen",
+            "Harry McDevitt"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Jonathan McDevitt"
+        ],
+        "Runtime": [
+            "33 min"
+        ],
+        "Director": [
+            "Jonathan McDevitt"
         ],
         "Release date": [
-            "April 28, 2004 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Leonia, New Jersey, USA"
-        ],
-        "Production company": [
-            "McDevitt Productions"
+            "2004"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1632016/",
-            "name": "Jonathan McDevitt"
+            "name": "Jonathan McDevitt",
+            "@type": "Person"
         }
     ],
     "duration": "PT33M",
-    "keywords": [
-        "contest",
-        "silent movie",
-        "camera"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1632016/",
-            "name": "Jonathan McDevitt"
+            "name": "Jonathan McDevitt",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0402884/",
     "metascore": null,
     "imdb_votes": 14,
     "popularity": 0,
-    "description": "The tale of a drifter, lovestruck by a femme fatale and swayed to participate in a photography contest to win the cash that will win him a date.",
+    "description": null,
     "imdb_rating": "8.8/10 from 14 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2004-04-28",
+    "datePublished": "2004",
+    "original_title": "Camera Shy",
     "imdb_rating_average": 8.8,
-    "update_at": "2025-05-21T21:15:19"
+    "update_at": "2026-11-06T15:21:44"
 }

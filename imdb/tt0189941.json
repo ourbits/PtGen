@@ -12,63 +12,83 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0357734/",
-            "name": "Anthony Hamilton"
+            "name": "Anthony Hamilton",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0358226/",
-            "name": "Dominic Hamilton-Little"
+            "name": "Dominic Hamilton-Little",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2361187/",
-            "name": "Steven J. Levy"
+            "name": "Steven J. Levy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0652269/",
+            "name": "Beatrix Ost",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0931172/",
+            "name": "Lisa Williams",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWFkNTg4MGMtNTE1OC00NzJkLTg5ZjMtYzk4MTA5OTdmZmZlXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/h8cU80T2wLnFFPDpulVZyGW3IMC.jpg",
     "details": {
+        "Stars": [
+            "Anthony Hamilton",
+            "Dominic Hamilton-Little",
+            "Steven J. Levy"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "Writer": [
+            "Anthony Hamilton",
+            "Dominic Hamilton-Little",
+            "Susan Winter"
+        ],
+        "Runtime": [
+            "105 min"
+        ],
+        "Director": [
+            "Susan Winter"
+        ],
         "Release date": [
-            "June 1, 1997 (United States)"
-        ],
-        "Official site": [
-            "Official site of Pousse Cafe - https://poussecafefilm.com/"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Tampa, Florida, USA"
-        ],
-        "Production company": [
-            "Absinthe"
+            "1997-06-01"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0357734/",
-            "name": "Anthony Hamilton"
+            "name": "Anthony Hamilton",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0358226/",
-            "name": "Dominic Hamilton-Little"
+            "name": "Dominic Hamilton-Little",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0935830/",
-            "name": "Susan Winter"
+            "name": "Susan Winter",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H45M",
-    "keywords": [
-        "gay",
-        "father son relationship",
-        "gay son",
-        "f rated",
-        "gay interest"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0935830/",
-            "name": "Susan Winter"
+            "name": "Susan Winter",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0189941/",
@@ -76,10 +96,16 @@
     "imdb_votes": 34,
     "popularity": 0,
     "description": "A retired game show baron and his estranged gay son spar over old family bitterness and popular culture while testing recipes for a book on the history of cocktails.",
-    "imdb_rating": "7.8/10 from 34 users",
-    "release_date": [],
+    "imdb_rating": "8.1/10 from 34 users",
+    "release_date": [
+        {
+            "date": "1997-06-01",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1997-06-01",
-    "imdb_rating_average": 7.8,
-    "update_at": "2025-09-20T00:29:01"
+    "original_title": "Pousse Cafe",
+    "imdb_rating_average": 8.1,
+    "update_at": "2026-11-06T07:42:25"
 }

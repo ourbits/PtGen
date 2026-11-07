@@ -4,55 +4,82 @@
     "name": "Haluatko ministeriksi?",
     "site": "imdb",
     "year": "2001",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0884789/",
-            "name": "Ritva Valkama"
+            "name": "Ritva Valkama",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0617394/",
-            "name": "Outi Mäenpää"
+            "name": "Outi Mäenpää",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0441110/",
-            "name": "Ria Kataja"
+            "name": "Ria Kataja",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0636729/",
+            "name": "Heikki Nousiainen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0483888/",
+            "name": "Jussi Lampi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0259762/",
+            "name": "Tommi Eronen",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Finnish"
+        "Stars": [
+            "Ritva Valkama",
+            "Outi Mäenpää",
+            "Ria Kataja"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Pentti Järvinen"
+        ],
+        "Runtime": [
+            "45 min"
+        ],
+        "Director": [
+            "Pentti Järvinen"
         ],
         "Release date": [
-            "April 30, 2001 (Finland)"
-        ],
-        "Country of origin": [
-            "Finland"
-        ],
-        "Production company": [
-            "Yleisradio (YLE)"
+            "2001"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0433544/",
-            "name": "Pentti Järvinen"
+            "name": "Pentti Järvinen",
+            "@type": "Person"
         }
     ],
     "duration": "PT45M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0433544/",
-            "name": "Pentti Järvinen"
+            "name": "Pentti Järvinen",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0360630/",
@@ -63,7 +90,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2001-04-30",
+    "datePublished": "2001",
+    "original_title": "Haluatko ministeriksi?",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-04T11:42:24"
+    "update_at": "2026-11-06T12:07:23"
 }

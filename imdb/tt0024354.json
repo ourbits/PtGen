@@ -4,68 +4,91 @@
     "name": "Morning, Noon and Night",
     "site": "imdb",
     "year": "1933",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Animation",
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0748230/",
-            "name": "David Rubinoff"
+            "name": "David Rubinoff",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0688100/",
-            "name": "Bonnie Poe"
+            "name": "Bonnie Poe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0688100/",
+            "name": "Bonnie Poe",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWU3MmJiYWMtNDMxMi00Y2IyLWFkMzgtOTdjMTQ0NzBhZGZlXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/6ia3ibTAY7UiJJxGd3gVP3pxbfs.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "David Rubinoff",
+            "Bonnie Poe",
+            "Bonnie Poe"
+        ],
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Short"
+        ],
+        "Runtime": [
+            "8 min"
+        ],
+        "Director": [
+            "Dave Fleischer",
+            "Dave Tendlar"
         ],
         "Release date": [
-            "October 6, 1933 (United States)"
-        ],
-        "Also known as": [
-            "Утренний, дневной и ночной"
+            "1933-10-05"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Fleischer Studios"
         ]
     },
-    "reviews": 5,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT8M",
-    "keywords": [
-        "betty boop character",
-        "cat versus bird",
-        "part live action"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0281487/",
-            "name": "Dave Fleischer"
+            "name": "Dave Fleischer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0854910/",
-            "name": "Dave Tendlar"
+            "name": "Dave Tendlar",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0024354/",
     "metascore": null,
-    "imdb_votes": 210,
+    "imdb_votes": 226,
     "popularity": 0,
     "description": "To the tune of Rubinoff and his orchestra, Betty Boop and feathered friends try to save a baby bird from the booze-swilling Tom Kats Club.",
-    "imdb_rating": "6.2/10 from 210 users",
-    "release_date": [],
+    "imdb_rating": "6.3/10 from 226 users",
+    "release_date": [
+        {
+            "date": "1933-10-05",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1933-10-06",
-    "imdb_rating_average": 6.2,
-    "update_at": "2025-09-30T09:21:08"
+    "datePublished": "1933-10-05",
+    "original_title": "Morning, Noon and Night",
+    "imdb_rating_average": 6.3,
+    "update_at": "2026-11-06T12:28:43"
 }

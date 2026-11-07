@@ -3,62 +3,89 @@
     "sid": "tt3142662",
     "name": "Lost Memories",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2012",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Drama",
-        "Sci-Fi"
+        "Sci-Fi",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm6710335/",
-            "name": "Luka Kellou"
+            "name": "Luka Kellou",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2925611/",
-            "name": "Magali Heu"
+            "name": "Magali Heu",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1NTk4NzU2N15BMl5BanBnXkFtZTgwMzczMTg5MDE@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/ezilLLlM6XIcNZ1dRmtFipozFpL.jpg",
     "details": {
+        "Stars": [
+            "Luka Kellou",
+            "Magali Heu"
+        ],
+        "Genres": [
+            "Drama",
+            "Sci-Fi",
+            "Short"
+        ],
+        "Writer": [
+            "François Ferracci"
+        ],
+        "Runtime": [
+            "3 min"
+        ],
+        "Director": [
+            "François Ferracci"
+        ],
         "Language": [
             "French"
+        ],
+        "Release date": [
+            "2012-01-01"
         ],
         "Country of origin": [
             "France"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1322797/",
-            "name": "François Ferracci"
+            "name": "François Ferracci",
+            "@type": "Person"
         }
     ],
     "duration": "PT3M",
-    "keywords": [
-        "memory",
-        "voice over narration",
-        "voice over",
-        "photograph",
-        "year 2020"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1322797/",
-            "name": "François Ferracci"
+            "name": "François Ferracci",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt3142662/",
     "metascore": null,
-    "imdb_votes": 144,
+    "imdb_votes": 145,
     "popularity": 0,
     "description": "A beautiful couple, a city over-saturated by holograms and digital stream. A Polaroid camera. Tomorrow will never be the same.",
-    "imdb_rating": "6.8/10 from 144 users",
-    "release_date": [],
+    "imdb_rating": "6.8/10 from 145 users",
+    "release_date": [
+        {
+            "date": "2012-01-01",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2012-01-01",
+    "original_title": "Lost Memories",
     "imdb_rating_average": 6.8,
-    "update_at": "2025-08-19T11:07:09"
+    "update_at": "2026-11-06T20:14:06"
 }

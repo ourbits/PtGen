@@ -4,7 +4,7 @@
     "name": "Chopratown",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Crime",
@@ -13,75 +13,135 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0080276/",
-            "name": "Sanjeev Bhaskar"
+            "name": "Sanjeev Bhaskar",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0143505/",
-            "name": "Natalie Casey"
+            "name": "Natalie Casey",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0836146/",
-            "name": "Neil Stuke"
+            "name": "Neil Stuke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0229084/",
+            "name": "Omid Djalili",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0086485/",
+            "name": "Basienka Blake",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0052218/",
+            "name": "Morwenna Banks",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0202113/",
+            "name": "Sam Dastor",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0014161/",
+            "name": "Lalita Ahmed",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0746101/",
+            "name": "Jimmy Roussounis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0063311/",
+            "name": "Paul Bazely",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/oSKewKCYwHrw9Bsm3WPvRqaMk6q.jpg",
     "details": {
+        "Stars": [
+            "Sanjeev Bhaskar",
+            "Natalie Casey",
+            "Neil Stuke"
+        ],
+        "Genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "Anil Gupta",
+            "Richard Pinto",
+            "Sharat Sardana"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Sean Grundy"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "December 19, 2005 (United Kingdom)"
+            "2005-12-19"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Filming locations": [
-            "Brick Lane, Shoreditch, London, England, UK"
-        ],
         "Production companies": [
-            "Hat Trick Productions",
-            "British Broadcasting Corporation (BBC)"
+            "BBC"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0348463/",
-            "name": "Anil Gupta"
+            "name": "Anil Gupta",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1038875/",
-            "name": "Richard Pinto"
+            "name": "Richard Pinto",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1032487/",
-            "name": "Sharat Sardana"
+            "name": "Sharat Sardana",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H",
-    "keywords": [
-        "private detective",
-        "east end london",
-        "london england",
-        "multicultural",
-        "ex cop"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1527082/",
-            "name": "Sean Grundy"
+            "name": "Sean Grundy",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0482481/",
     "metascore": null,
-    "imdb_votes": 35,
+    "imdb_votes": 38,
     "popularity": 0,
     "description": "Vic Chopra (Sanjeev Bhaskar) investigates Ali Ergun (Omid Djalili) a shady Turkish bakery owner. During his investigation he falls foul of Asian wide boy Ash Desai (Manish Patel) and added to this is the mystery of a missing cow!",
-    "imdb_rating": "7.1/10 from 35 users",
-    "release_date": [],
+    "imdb_rating": "7.0/10 from 38 users",
+    "release_date": [
+        {
+            "date": "2005-12-19",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2005-12-19",
-    "imdb_rating_average": 7.1,
-    "update_at": "2025-05-23T17:34:31"
+    "original_title": "Chopratown",
+    "imdb_rating_average": 7.0,
+    "update_at": "2026-11-06T20:42:24"
 }

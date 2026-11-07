@@ -4,60 +4,119 @@
     "name": "Rihanna 777",
     "site": "imdb",
     "year": "2013",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1982597/",
-            "name": "Rihanna"
+            "name": "Rihanna",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0419650/",
-            "name": "Jay-Z"
+            "name": "Jay-Z",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5683201/",
-            "name": "Jay Brown"
+            "name": "Jay Brown",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5683347/",
+            "name": "Mike Ruffino",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001541/",
+            "name": "Kylie Minogue",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0079306/",
+            "name": "Nuno Bettencourt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5683349/",
+            "name": "Timothy Dormer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8165986/",
+            "name": "Claire Knight",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5683221/",
+            "name": "Michael Christian",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3397638/",
+            "name": "Janell Snowden",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTk5OTMwNDExNF5BMl5BanBnXkFtZTcwMzIwMzY0OQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/vrZage8M1mdzvnfIq6z3A06cmXp.jpg",
     "details": {
+        "Stars": [
+            "Rihanna",
+            "Jay-Z",
+            "Jay Brown"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Toby L."
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 6, 2013 (United States)"
+            "2013-05-06"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Mexico City, Distrito Federal, Mexico"
+        "Production companies": [
+            "The Island Def Jam Music Group"
         ]
     },
     "reviews": 0,
+    "tagline": "One woman takes on the world",
+    "creators": [],
     "duration": "PT1H",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2373628/",
-            "name": "Toby L."
+            "name": "Toby L.",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2782646/",
     "metascore": null,
-    "imdb_votes": 210,
+    "imdb_votes": 213,
     "popularity": 0,
-    "description": "Gives viewers a behind-the-scenes look at Rihanna&apos;s unprecedented globetrotting concert tour that hit seven countries in seven days with seven shows to promote her seventh album.",
-    "imdb_rating": "4.9/10 from 210 users",
-    "release_date": [],
-    "contentRating": null,
+    "description": "Gives viewers a behind-the-scenes look at Rihanna's unprecedented globetrotting concert tour that hit seven countries in seven days with seven shows to promote her seventh album.",
+    "imdb_rating": "4.9/10 from 213 users",
+    "release_date": [
+        {
+            "date": "2013-05-06",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "PG",
     "datePublished": "2013-05-06",
+    "original_title": "Rihanna 777",
     "imdb_rating_average": 4.9,
-    "update_at": "2025-07-06T19:56:12"
+    "update_at": "2026-11-06T19:35:15"
 }

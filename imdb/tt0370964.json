@@ -3,66 +3,85 @@
     "sid": "tt0370964",
     "name": "Mirad",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1997",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm14769995/",
-            "name": "Haydn Squibb"
+            "name": "Haydn Squibb",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0193661/",
-            "name": "Sinéad Cusack"
+            "name": "Sinéad Cusack",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000460/",
-            "name": "Jeremy Irons"
+            "name": "Jeremy Irons",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1208105/",
+            "name": "Jamie Yeates",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmRiMjU1ZTYtMDE0MC00Mzc1LWJmNDQtNjc2MGVlNTRhNWY0XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Haydn Squibb",
+            "Sinéad Cusack",
+            "Jeremy Irons"
         ],
-        "Also known as": [
-            "The English Programme - Unit 53: Mirad, a Boy from Bosnia"
+        "Genres": [
+            "Drama"
         ],
-        "Country of origin": [
-            "United Kingdom"
+        "Writer": [
+            "Ad de Bont"
         ],
-        "Production company": [
-            "Double Exposure"
+        "Runtime": [
+            "50 min"
+        ],
+        "Director": [
+            "Jeremy Irons"
+        ],
+        "Release date": [
+            "1997"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1393177/",
-            "name": "Ad de Bont"
+            "name": "Ad de Bont",
+            "@type": "Person"
         }
     ],
     "duration": "PT50M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0000460/",
-            "name": "Jeremy Irons"
+            "name": "Jeremy Irons",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0370964/",
     "metascore": null,
-    "imdb_votes": 31,
+    "imdb_votes": 33,
     "popularity": 0,
-    "description": "A drama about one boy caught up in the horror of the war in Bosnia",
-    "imdb_rating": "6.6/10 from 31 users",
+    "description": null,
+    "imdb_rating": "6.5/10 from 33 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 6.6,
-    "update_at": "2025-08-24T12:56:17"
+    "datePublished": "1997",
+    "original_title": "Mirad",
+    "imdb_rating_average": 6.5,
+    "update_at": "2026-11-06T10:49:07"
 }

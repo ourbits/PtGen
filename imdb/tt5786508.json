@@ -6,75 +6,134 @@
     "year": "2016",
     "@type": "Movie",
     "genre": [
+        "Action",
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2207767/",
-            "name": "Edmilson Filho"
+            "name": "Edmilson Filho",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm9263141/",
-            "name": "Igor Jansen"
+            "name": "Igor Jansen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1047855/",
-            "name": "Falcão"
+            "name": "Falcão",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0802704/",
+            "name": "Fafy Siqueira",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5653752/",
+            "name": "Bruna Hamú",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0763287/",
+            "name": "Dedé Santana",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0579509/",
+            "name": "Frank Menezes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6320499/",
+            "name": "Denis Lacerda",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0439187/",
+            "name": "Karla Karenina",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6191928/",
+            "name": "Lailtinho Brega",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzFmOWU3NzEtN2UzZS00YTE2LTk2ODgtZDg4NGZhYmNkN2UxXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/hHmD5ziiVvOM1femGTazj4bfkGK.jpg",
     "details": {
+        "Stars": [
+            "Edmilson Filho",
+            "Igor Jansen",
+            "Falcão"
+        ],
+        "Genres": [
+            "Action",
+            "Comedy"
+        ],
+        "Writer": [
+            "L.G. Bayão"
+        ],
+        "Runtime": [
+            "100 min"
+        ],
+        "Director": [
+            "Halder Gomes"
+        ],
         "Language": [
             "Portuguese"
         ],
         "Release date": [
-            "October 20, 2016 (Brazil)"
-        ],
-        "Official site": [
-            "Official site (Brazil) - http://www.globofilmes.globo.com/filme/o-shaolin-do-sertao/"
+            "2016-10-13"
         ],
         "Country of origin": [
             "Brazil"
         ],
-        "Filming locations": [
-            "Quixadá, Ceará, Brazil"
-        ],
         "Production companies": [
-            "ATC Entretenimento",
+            "ATC Entretenimentos",
             "Globo Filmes",
-            "Paramount Pictures"
+            "Paramount Pictures Brasil",
+            "Telecine",
+            "Agência Nacional do Cinema - ANCINE"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm5055462/",
-            "name": "L.G. Bayão"
+            "name": "L.G. Bayão",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H40M",
     "keywords": [
-        "sertao",
-        "northeast brazil",
-        "reference to hong kong",
-        "martial arts"
+        "fight"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1959340/",
-            "name": "Halder Gomes"
+            "name": "Halder Gomes",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt5786508/",
     "metascore": null,
-    "imdb_votes": 809,
+    "imdb_votes": 871,
     "popularity": 0,
-    "description": "Aluízio Li, an aficionado and alienated by martial arts films in the state of Ceara (Brazil) in the 80s, sees your playful and innocent world in check when a retired professional wrestler (Toni Tora Pleura) decides to challenge al...",
-    "imdb_rating": "6.5/10 from 809 users",
-    "release_date": [],
+    "description": "Aluízio Li is a martial arts fan who lives with his head in the world of fights from dreaming and watching Chinese films. He believes he is a Shaolin monk, dressing and behaving just like his cinematic references. However, he is the subject of mocking jokes in his hometown, Quixadá, in the backlands of Ceará. His days of peace will end when retired MMA fighter Toni Tora Pleura announces a \"tour\" of challenges to bullies in several cities in the interior of Ceará, including Quixadá.",
+    "imdb_rating": "6.5/10 from 871 users",
+    "release_date": [
+        {
+            "date": "2016-10-13",
+            "country": "Brazil"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2016-10-20",
+    "datePublished": "2016-10-13",
+    "original_title": "O Shaolin do Sertão",
     "imdb_rating_average": 6.5,
-    "update_at": "2025-09-10T10:28:30"
+    "update_at": "2026-11-06T19:28:22"
 }

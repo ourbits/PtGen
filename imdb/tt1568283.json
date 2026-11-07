@@ -4,64 +4,79 @@
     "name": "Slap! The Gondola",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Fantasy"
+        "Fantasy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0175739/",
-            "name": "Tony Conrad"
+            "name": "Tony Conrad",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0086540/",
-            "name": "April March"
+            "name": "April March",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0654889/",
-            "name": "Genesis P-Orridge"
+            "name": "Genesis P-Orridge",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/nRaP2E9lRx7Sw8LVSGN098yxtRX.jpg",
     "details": {
+        "Stars": [
+            "Tony Conrad",
+            "April March",
+            "Genesis P-Orridge"
+        ],
+        "Genres": [
+            "Comedy",
+            "Fantasy",
+            "Short"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Marie Losier"
+        ],
         "Release date": [
-            "November 12, 2009 (United States)"
-        ],
-        "Official site": [
-            "Official site DVD - https://re-voir.com/shop/fr/marie-losier/906-marie-losier-hello-happiness.html"
-        ],
-        "Country of origin": [
-            "Germany"
-        ],
-        "Production companies": [
-            "Arsenal Institute for Film and Video Art",
-            "Hebbel-Theater Berlin"
+            "2009-10-28"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT15M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1633031/",
-            "name": "Marie Losier"
+            "name": "Marie Losier",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1568283/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Musical with music, musicians, muses and fishes... On a giant ferry, two mermaids (Tony Conrad and Genesis P-Orridge) play violin to attract the fish from the sea, when suddenly a giant fish with 30 dancers in its stomach lands on...",
+    "description": "Musical with music, musicians, muses and fishes... On a giant ferry, two mermaids (Tony Conrad and Genesis P-Orridge) play violin to attract the fish from the sea, when suddenly a giant fish with 30 dancers in its stomach lands on board. April March, the great singer appears while singing out of the fish belly while 30 costumed dancers jump around in this surreal setting ... when a fish fight ensue.. 'What a brilliant explosion of brilliance! Brilliant colors! Brilliant music! Brilliant costumes! Brilliant casting! I shall cherish this masterpiece forever!' Guy Maddin, Nov 2009  Part of the project \"LIVE FILM! JACK SMITH! Five Flaming Days in a Rented World\".",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2009-10-28",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2009-11-12",
+    "datePublished": "2009-10-28",
+    "original_title": "Slap! The Gondola",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-28T22:39:30"
+    "update_at": "2026-11-06T21:14:06"
 }

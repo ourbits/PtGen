@@ -6,73 +6,140 @@
     "year": "1960",
     "@type": "Movie",
     "genre": [
-        "Musical",
         "Comedy",
-        "Western"
+        "Drama",
+        "Music"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0009736/",
-            "name": "Miguel Aceves Mejía"
+            "name": "Miguel Aceves Mejía",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0022132/",
-            "name": "América Alonso"
+            "name": "América Alonso",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0144961/",
-            "name": "Rosa de Castilla"
+            "name": "Rosa de Castilla",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0815524/",
+            "name": "Fernando Soto",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0408633/",
+            "name": "Ángel Infante",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0062593/",
+            "name": "José Baviera",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0959321/",
+            "name": "Guillermo Álvarez Bianchi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0349336/",
+            "name": "Armando Gutiérrez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0307404/",
+            "name": "Emilio Garibay",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0154605/",
+            "name": "José Chávez",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGI5MTc5ZDItNzg2MS00MTYyLWFiZTctYjRlYmQxYmY5OWVkXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/fx8cJmr4DaxbZUvqNmffyUcA6t1.jpg",
     "details": {
+        "Stars": [
+            "Miguel Aceves Mejía",
+            "América Alonso",
+            "Rosa de Castilla"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Music"
+        ],
+        "Writer": [
+            "Miguel Morayta",
+            "Adolfo Torres Portillo"
+        ],
+        "Runtime": [
+            "99 min"
+        ],
+        "Director": [
+            "Miguel Morayta"
+        ],
         "Language": [
             "Spanish"
         ],
         "Release date": [
-            "March 31, 1960 (Mexico)"
+            "1960-03-31"
         ],
         "Country of origin": [
-            "Mexico"
+            "Mexico",
+            "Venezuela"
         ],
-        "Filming locations": [
-            "Mexico"
-        ],
-        "Production company": [
-            "Filmadora Independiente"
+        "Production companies": [
+            "Filmadora Independiente",
+            "Tropical Films"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0603217/",
-            "name": "Miguel Morayta"
+            "name": "Miguel Morayta",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0868531/",
-            "name": "Adolfo Torres Portillo"
+            "name": "Adolfo Torres Portillo",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H39M",
     "keywords": [
-        ""
+        "mexico"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0603217/",
-            "name": "Miguel Morayta"
+            "name": "Miguel Morayta",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0277138/",
     "metascore": null,
-    "imdb_votes": 9,
+    "imdb_votes": 12,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "4.4/10 from 9 users",
-    "release_date": [],
+    "description": "Anthropologist goes to small town to do field work supporting her theories about the primitive/subhuman origins of machismo.",
+    "imdb_rating": "4.9/10 from 12 users",
+    "release_date": [
+        {
+            "date": "1960-03-31",
+            "country": "Mexico"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1960-03-31",
-    "imdb_rating_average": 4.4,
-    "update_at": "2025-04-27T17:00:48"
+    "original_title": "Me importa poco",
+    "imdb_rating_average": 4.9,
+    "update_at": "2026-11-06T07:42:24"
 }

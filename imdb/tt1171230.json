@@ -4,49 +4,52 @@
     "name": "Christmas in Washington",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "TVSpecial",
     "genre": [
         "Music"
     ],
+    "actors": [],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Genres": [
+            "Music"
+        ],
+        "Writer": [
+            "George Stevens Jr.",
+            "Michael Stevens"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Michael Stevens"
         ],
         "Release date": [
-            "December 12, 2007 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Washington, District of Columbia, USA"
-        ],
-        "Production company": [
-            "New Liberty Productions"
+            "2007"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0828211/",
-            "name": "George Stevens Jr."
+            "name": "George Stevens Jr.",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0828623/",
-            "name": "Michael Stevens"
+            "name": "Michael Stevens",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H",
-    "keywords": [
-        "tv special",
-        "christmas"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0828623/",
-            "name": "Michael Stevens"
+            "name": "Michael Stevens",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1171230/",
@@ -57,7 +60,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2007-12-12",
+    "datePublished": "2007",
+    "original_title": "Christmas in Washington",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-23T15:26:08"
+    "update_at": "2026-11-06T05:21:09"
 }

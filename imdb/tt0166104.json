@@ -5,55 +5,101 @@
     "site": "imdb",
     "year": "1998",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0304460/",
-            "name": "Jamie Gannon"
+            "name": "Jamie Gannon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0302170/",
-            "name": "Kelly Galindo"
+            "name": "Kelly Galindo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0829839/",
-            "name": "Stacy Stewart"
+            "name": "Stacy Stewart",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0153714/",
+            "name": "Charlie Chase",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0415306/",
+            "name": "Marc Anthony Jadlowe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0179780/",
+            "name": "Iren Corey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0810342/",
+            "name": "William Smith",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0953494/",
+            "name": "Tony Zarindast",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0100558/",
+            "name": "Tony Bova",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0256013/",
+            "name": "Angela Emanuel",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTE3Y2RjMzgtYTcxYS00NmJhLTk5NDItZDk0NTc3ZjVhNDkxXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/ys4iAAPtN6PRRkIwd7V8YttKrsA.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Jamie Gannon",
+            "Kelly Galindo",
+            "Stacy Stewart"
+        ],
+        "Director": [
+            "Tony Zarindast"
         ],
         "Release date": [
-            "July 30, 1998 (United States)"
-        ],
-        "Countries of origin": [
-            "United States",
-            "Canada"
+            "1998-12-31"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": null,
-    "keywords": [
-        "love"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0953494/",
-            "name": "Tony Zarindast"
+            "name": "Tony Zarindast",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0166104/",
     "metascore": null,
-    "imdb_votes": 18,
+    "imdb_votes": 21,
     "popularity": 0,
-    "description": "Pino Buchero has to find his brother, who has disappeared. Forced to use an alias, Pino heads to the United States, encounters an assortment of strangers, falls in love and decides to kill his brother, when he finally finds him.",
-    "imdb_rating": "3.2/10 from 18 users",
-    "release_date": [],
+    "description": "A film by Tony Zarindast.",
+    "imdb_rating": "3.3/10 from 21 users",
+    "release_date": [
+        {
+            "date": "1998-12-31",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1998-07-30",
-    "imdb_rating_average": 3.2,
-    "update_at": "2025-06-29T13:00:16"
+    "datePublished": "1998-12-31",
+    "original_title": "Blood of His Own",
+    "imdb_rating_average": 3.3,
+    "update_at": "2026-11-06T02:35:26"
 }

@@ -1,69 +1,95 @@
 {
     "aka": [],
     "sid": "tt0316395",
-    "name": "Pete&apos;s a Pizza",
+    "name": "Pete's a Pizza",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2000",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Animation",
-        "Family"
+        "Family",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000331/",
-            "name": "Chevy Chase"
+            "name": "Chevy Chase",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTI1MDg0NTU5Nl5BMl5BanBnXkFtZTcwNzczODUyMQ@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/5pFdVFWd2dGYzNmHrxT7VJL3fPK.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Chevy Chase"
+        ],
+        "Genres": [
+            "Animation",
+            "Family",
+            "Short"
+        ],
+        "Writer": [
+            "William Steig"
+        ],
+        "Runtime": [
+            "6 min"
+        ],
+        "Director": [
+            "Gary Goldberger",
+            "Peter H. Reynolds"
         ],
         "Release date": [
-            "2000 (United States)"
+            "2000-01-05"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
-            "FableVision Studios",
-            "Weston Woods Studios"
+            "Weston Woods Studios",
+            "FableVision Studios"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0825308/",
-            "name": "William Steig"
+            "name": "William Steig",
+            "@type": "Person"
         }
     ],
     "duration": "PT6M",
     "keywords": [
-        "voice over narration",
-        "based on children&apos;s book",
-        "character name in title"
+        "pizza",
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2467805/",
-            "name": "Gary Goldberger"
+            "name": "Gary Goldberger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0990287/",
-            "name": "Peter H. Reynolds"
+            "name": "Peter H. Reynolds",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0316395/",
     "metascore": null,
-    "imdb_votes": 37,
+    "imdb_votes": 40,
     "popularity": 0,
-    "description": "Pete&apos;s parents know exactly what to do when Pete&apos;s in a bad mood. They turn Pete into the funniest pizza ever.",
-    "imdb_rating": "6.2/10 from 37 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
-    "datePublished": null,
-    "imdb_rating_average": 6.2,
-    "update_at": "2025-07-24T13:35:18"
+    "description": "Pete's parents know exactly what to do when Pete's in a bad mood. They turn Pete into the funniest pizza ever.",
+    "imdb_rating": "6.0/10 from 40 users",
+    "release_date": [
+        {
+            "date": "2000-01-05",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2000-01-05",
+    "original_title": "Pete's a Pizza",
+    "imdb_rating_average": 6.0,
+    "update_at": "2026-11-06T08:28:33"
 }

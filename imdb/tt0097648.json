@@ -4,7 +4,7 @@
     "name": "The Karen Carpenter Story",
     "site": "imdb",
     "year": "1989",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Biography",
         "Drama",
@@ -13,73 +13,127 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001269/",
-            "name": "Cynthia Gibb"
+            "name": "Cynthia Gibb",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0027223/",
-            "name": "Mitchell Anderson"
+            "name": "Mitchell Anderson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0324533/",
-            "name": "Peter Michael Goetz"
+            "name": "Peter Michael Goetz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0570263/",
+            "name": "Michael McGuire",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0383805/",
+            "name": "Lise Hilboldt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0319445/",
+            "name": "Kip Gilman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0591019/",
+            "name": "Richard Minchenberg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0122020/",
+            "name": "Scott Burkholder",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001221/",
+            "name": "Louise Fletcher",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0716555/",
+            "name": "John Patrick Reger",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2IxMDY5OTItMTU3MC00YTFlLWIwN2UtZjMxNjY1ODllNjMwXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/2EVVJIpi0WVLTg5Dbxpa3xtsFpo.jpg",
     "details": {
+        "Stars": [
+            "Cynthia Gibb",
+            "Mitchell Anderson",
+            "Peter Michael Goetz"
+        ],
+        "Genres": [
+            "Biography",
+            "Drama",
+            "Music"
+        ],
+        "Writer": [
+            "Barry Morrow"
+        ],
+        "Runtime": [
+            "120 min"
+        ],
+        "Director": [
+            "Joseph Sargent",
+            "Richard Carpenter"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 1, 1989 (United States)"
-        ],
-        "Also known as": [
-            "La historia de Karen Carpenter"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Rockwell Defense Plant - Bellflower & Imperial Highway, Downey, California, USA"
-        ],
-        "Production company": [
-            "Weintraub Entertainment Group"
+            "1989-01-01"
         ]
     },
-    "reviews": 45,
+    "reviews": 0,
+    "tagline": "She'd only just begun... and suddenly it was over.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0607454/",
-            "name": "Barry Morrow"
+            "name": "Barry Morrow",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H",
     "keywords": [
-        "character name as title",
-        "four word title",
-        "bulimia",
-        "female protagonist",
-        "death of protagonist"
+        "rise and fall",
+        "positive music",
+        "musical siblings"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0765121/",
-            "name": "Joseph Sargent"
+            "name": "Joseph Sargent",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0139443/",
-            "name": "Richard Carpenter"
+            "name": "Richard Carpenter",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0097648/",
     "metascore": null,
-    "imdb_votes": 1512,
+    "imdb_votes": 1611,
     "popularity": 0,
-    "description": "Story of the meteoric rise and sudden fall of Karen Carpenter, who became a famous singer before battling anorexia and bulimia.",
-    "imdb_rating": "6.9/10 from 1512 users",
-    "release_date": [],
-    "contentRating": null,
+    "description": "Story of the meteoric rise and sudden fall of Karen Carpenter, who became a famous singer before battling anorexia and bulimia. This made-for-TV movie is the authorized version of the life of Karen Carpenter and was made with the approval of Richard Carpenter and the Carpenter family.",
+    "imdb_rating": "6.9/10 from 1611 users",
+    "release_date": [
+        {
+            "date": "1989-01-01",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "1989-01-01",
+    "original_title": "The Karen Carpenter Story",
     "imdb_rating_average": 6.9,
-    "update_at": "2025-04-29T17:39:05"
+    "update_at": "2026-11-06T04:35:06"
 }

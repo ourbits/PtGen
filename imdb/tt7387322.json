@@ -4,7 +4,7 @@
     "name": "Hearth and Home",
     "site": "imdb",
     "year": "2017",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Animation",
         "Short"
@@ -12,57 +12,79 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm5202715/",
-            "name": "Nikki Castillo"
+            "name": "Nikki Castillo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0191906/",
-            "name": "Jim Cummings"
+            "name": "Jim Cummings",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5136382/",
-            "name": "Jye Frasca"
+            "name": "Jye Frasca",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10196139/",
+            "name": "Chris Guerra",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0353219/",
+            "name": "Daniel Hagen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0506439/",
+            "name": "Hope Levy",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzdmY2MzNmItZjYxNi00M2Q4LWFiYjYtNmI0NjRjNmE5NWVlXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Nikki Castillo",
+            "Jim Cummings",
+            "Jye Frasca"
+        ],
+        "Genres": [
+            "Animation",
+            "Short"
+        ],
+        "Runtime": [
+            "6 min"
+        ],
+        "Director": [
+            "Jeramiah Johnson"
         ],
         "Release date": [
-            "August 23, 2017 (United States)"
-        ],
-        "Official site": [
-            "blizzards info site - http://hearthstone.blizzpro.com/2017/08/23/hearth-and-home-animated-short/"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Blizzard Entertainment"
+            "2017"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT6M",
-    "keywords": [
-        "snow"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2086546/",
-            "name": "Jeramiah Johnson"
+            "name": "Jeramiah Johnson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt7387322/",
     "metascore": null,
-    "imdb_votes": 17,
+    "imdb_votes": 18,
     "popularity": 0,
-    "description": "Young Ava wanders lost in a snowy forest when a mouse helps to magically transport her to a strange tavern. A host of fantastical characters join in a raucous song that helps Ava overcome her fears to become a part of this magical...",
-    "imdb_rating": "7.1/10 from 17 users",
+    "description": null,
+    "imdb_rating": "7.1/10 from 18 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2017-08-23",
+    "datePublished": "2017",
+    "original_title": "Hearth and Home",
     "imdb_rating_average": 7.1,
-    "update_at": "2025-08-25T23:14:17"
+    "update_at": "2026-11-06T20:00:14"
 }

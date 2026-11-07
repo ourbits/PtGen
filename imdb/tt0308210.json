@@ -3,62 +3,98 @@
     "sid": "tt0308210",
     "name": "Edwige Feuillère en scène",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1992",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0275428/",
-            "name": "Edwige Feuillère"
+            "name": "Edwige Feuillère",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0874559/",
-            "name": "Guy Tréjan"
+            "name": "Guy Tréjan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0046133/",
-            "name": "Laurence Badie"
+            "name": "Laurence Badie",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0044206/",
+            "name": "Alain Azerot",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjU2Y2UyM2YtYjkxMS00OTg0LWE3MDMtOTNiNzFhMTFkNGE1XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/rbOm8ZAB8BcO5CY5zFm5LtLEUBs.jpg",
     "details": {
+        "Stars": [
+            "Edwige Feuillère",
+            "Guy Tréjan",
+            "Laurence Badie"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Marcel Aymé",
+            "Paul Claudel",
+            "Jean Cocteau"
+        ],
+        "Runtime": [
+            "73 min"
+        ],
+        "Director": [
+            "Serge Moati"
+        ],
         "Language": [
             "French"
+        ],
+        "Release date": [
+            "1992-01-01"
         ],
         "Country of origin": [
             "France"
         ],
         "Production companies": [
-            "France 3",
+            "Théâtre de la Madeleine",
             "Technisonor",
-            "Théâtre de la Madeleine"
+            "France•3"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0043924/",
-            "name": "Marcel Aymé"
+            "name": "Marcel Aymé",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0165227/",
-            "name": "Paul Claudel"
+            "name": "Paul Claudel",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0168413/",
-            "name": "Jean Cocteau"
+            "name": "Jean Cocteau",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H13M",
     "keywords": [
-        "based on play"
+        "one-woman show"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0594959/",
-            "name": "Serge Moati"
+            "name": "Serge Moati",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0308210/",
@@ -67,9 +103,15 @@
     "popularity": 0,
     "description": "On stage, the actress talks about her life in the 20th-century French theatre, the great authors she played and the famous stage directors of the time who directed her.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1992-01-01",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1992-01-01",
+    "original_title": "Edwige Feuillère en scène",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-25T21:42:17"
+    "update_at": "2026-11-06T22:42:15"
 }

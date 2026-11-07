@@ -4,80 +4,103 @@
     "name": "The Little Red Hen",
     "site": "imdb",
     "year": "1934",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Animation",
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Family"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0085626/",
-            "name": "Norm Blackburn"
+            "name": "Norm Blackburn",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0088285/",
-            "name": "Billy Bletcher"
+            "name": "Billy Bletcher",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0621699/",
-            "name": "Clarence Nash"
+            "name": "Clarence Nash",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2Q1ZTZiMTgtNjE2Zi00MWNhLThiMTEtM2Y5MGRmNzM5MzY4XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/72uPue3lFrRgHsAVD5HPwuV43Xw.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Norm Blackburn",
+            "Billy Bletcher",
+            "Clarence Nash"
+        ],
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "Writer": [
+            "Otto Englander"
+        ],
+        "Runtime": [
+            "7 min"
+        ],
+        "Director": [
+            "Ub Iwerks",
+            "Shamus Culhane",
+            "Al Eugster"
         ],
         "Release date": [
-            "March 17, 1934 (United States)"
+            "1934-02-15"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Celebrity Productions"
+            "United States of America"
         ]
     },
-    "reviews": 5,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0257481/",
-            "name": "Otto Englander"
+            "name": "Otto Englander",
+            "@type": "Person"
         }
     ],
     "duration": "PT7M",
-    "keywords": [
-        "bread",
-        "laziness",
-        "baking bread",
-        "wheat",
-        "farm"
-    ],
+    "keywords": [],
     "directors": [
         {
+            "url": "https://www.imdb.com/name/nm0412650/",
+            "name": "Ub Iwerks",
+            "@type": "Person"
+        },
+        {
             "url": "https://www.imdb.com/name/nm0191386/",
-            "name": "Shamus Culhane"
+            "name": "Shamus Culhane",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0262337/",
-            "name": "Al Eugster"
-        },
-        {
-            "url": "https://www.imdb.com/name/nm0412650/",
-            "name": "Ub Iwerks"
+            "name": "Al Eugster",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0141559/",
     "metascore": null,
-    "imdb_votes": 144,
+    "imdb_votes": 145,
     "popularity": 0,
-    "description": "In this classic fable, a hen asks help with chores from other farm animals. None of the animals want to help do work, but they all want to share the fruits of the hen&apos;s labor.",
-    "imdb_rating": "6/10 from 144 users",
-    "release_date": [],
+    "description": "In this classic fable, a hen asks help with chores from other farm animals. None of the animals want to help do work, but they all want to share the fruits of the hen's labor.",
+    "imdb_rating": "6.0/10 from 145 users",
+    "release_date": [
+        {
+            "date": "1934-02-15",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1934-03-17",
-    "imdb_rating_average": 6,
-    "update_at": "2026-01-08T21:42:33"
+    "datePublished": "1934-02-15",
+    "original_title": "The Little Red Hen",
+    "imdb_rating_average": 6.0,
+    "update_at": "2026-11-06T08:28:05"
 }

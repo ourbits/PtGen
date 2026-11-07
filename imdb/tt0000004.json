@@ -4,50 +4,65 @@
     "name": "Un bon bock",
     "site": "imdb",
     "year": "1892",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Animation",
         "Short"
     ],
+    "actors": [],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjZjNDNlYjctNjhhNy00ZDNhLWJiZDUtNjVmZDAxZjM1ZjA0XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/osv0TcCymlsOucqkZBssSuS4tD.jpg",
     "details": {
+        "Genres": [
+            "Animation",
+            "Short"
+        ],
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "Émile Reynaud"
+        ],
         "Language": [
-            "None"
+            "No Language"
         ],
         "Release date": [
-            "October 28, 1892 (France)"
-        ],
-        "Also known as": [
-            "Полная кружка пива"
+            "1892-10-28"
         ],
         "Country of origin": [
             "France"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": "PT12M",
     "keywords": [
-        "lost film",
-        "three word title",
-        "early animation",
-        "first of its kind"
+        "19th century",
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0721526/",
-            "name": "Émile Reynaud"
+            "name": "Émile Reynaud",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0000004/",
     "metascore": null,
-    "imdb_votes": 186,
+    "imdb_votes": 203,
     "popularity": 0,
-    "description": "Lost 1892 French short animated film directed by Émile Reynaud about a wanderer who orders a good beer (&quot;Un bon bock&quot;) and meets a traveler who also orders a beer. They enter an argument because a kitchen boy steals their beers.",
-    "imdb_rating": "5.3/10 from 186 users",
-    "release_date": [],
+    "description": "One of the first animated short films. A wanderer enters a cabaret in the countryside and asks a waitress for a beer. She comes back with a pint, as the wanderer begins to court her. However, the kitchen boy comes, drinks the beer and vanishes. The wanderer, misunderstanding, asks for another beer. Then a traveler enters and has an argument with the wandered. During the argument, the kitchen boy appears, sips the second beer and runs away. As the traveler quits, the customer finds his glass empty again. He calls the waitress, expresses his disappointment and leaves. The kitchen boy comes in and explains to the waitress what he did with the two beers. They make fun together of the wanderer and leave. A lost film.",
+    "imdb_rating": "5.0/10 from 203 users",
+    "release_date": [
+        {
+            "date": "1892-10-28",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1892-10-28",
-    "imdb_rating_average": 5.3,
-    "update_at": "2025-03-11T19:29:16"
+    "original_title": "Un bon bock",
+    "imdb_rating_average": 5.0,
+    "update_at": "2026-11-06T15:07:21"
 }

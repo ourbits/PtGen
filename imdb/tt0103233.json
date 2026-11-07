@@ -4,7 +4,7 @@
     "name": "The Walter Ego",
     "site": "imdb",
     "year": "1991",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Comedy",
         "Short"
@@ -12,60 +12,108 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0929502/",
-            "name": "Lee Wilkof"
+            "name": "Lee Wilkof",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0698998/",
-            "name": "David Proval"
+            "name": "David Proval",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0662599/",
-            "name": "Sachi Parker"
+            "name": "Sachi Parker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0051104/",
+            "name": "Talia Balsam",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0728787/",
+            "name": "Margaret Hill Ritter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0614887/",
+            "name": "Christopher Murray",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0719037/",
+            "name": "Bert Remsen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0765101/",
+            "name": "David Sargent",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0732573/",
+            "name": "Douglas Robinson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0748232/",
+            "name": "Marla Rubinoff",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWYyMjc5ZGMtODJhNC00NDJmLTkyZTgtNDA2ZWFlZTRjYTU2XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Lee Wilkof",
+            "David Proval",
+            "Sachi Parker"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Scott Frank"
+        ],
+        "Runtime": [
+            "28 min"
+        ],
+        "Director": [
+            "John Putch"
         ],
         "Release date": [
-            "February 10, 1991 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production companies": [
-            "PutchFilms",
-            "Putch Productions"
+            "1991"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0291082/",
-            "name": "Scott Frank"
+            "name": "Scott Frank",
+            "@type": "Person"
         }
     ],
     "duration": "PT28M",
-    "keywords": [
-        "independent film"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0003289/",
-            "name": "John Putch"
+            "name": "John Putch",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0103233/",
     "metascore": null,
     "imdb_votes": 32,
     "popularity": 0,
-    "description": "An insignificant little man takes the advice of his insignificant older brother and flowers into the man he always wanted to be.",
-    "imdb_rating": "6/10 from 32 users",
+    "description": "Walter is a meek man who gets pushed around by everyone - until the day he snaps and pushes back.",
+    "imdb_rating": "6.1/10 from 32 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1991-02-10",
-    "imdb_rating_average": 6,
-    "update_at": "2026-04-20T17:42:26"
+    "datePublished": "1991",
+    "original_title": "The Walter Ego",
+    "imdb_rating_average": 6.1,
+    "update_at": "2026-11-06T09:42:20"
 }

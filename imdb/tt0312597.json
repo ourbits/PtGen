@@ -4,72 +4,98 @@
     "name": "Die Dame und der Blinde",
     "site": "imdb",
     "year": "1959",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0251208/",
-            "name": "Gerd Ehlers"
+            "name": "Gerd Ehlers",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0381772/",
-            "name": "Albert Hetterle"
+            "name": "Albert Hetterle",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0445659/",
-            "name": "Inge Keller"
+            "name": "Inge Keller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0687106/",
+            "name": "Werner Pledath",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0726043/",
+            "name": "Harry Riebauer",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Gerd Ehlers",
+            "Albert Hetterle",
+            "Inge Keller"
+        ],
+        "Writer": [
+            "Hans-Erich Korbschmitt",
+            "Joachim Witte"
+        ],
+        "Runtime": [
+            "59 min"
+        ],
+        "Director": [
+            "Hans-Erich Korbschmitt"
         ],
         "Release date": [
-            "December 22, 1959 (East Germany)"
-        ],
-        "Also known as": [
-            "A hölgy és a vak"
+            "1959-12-22"
         ],
         "Country of origin": [
-            "East Germany"
-        ],
-        "Production companies": [
-            "Deutsche Film (DEFA)",
-            "Deutscher Fernsehfunk (DFF)"
+            "Germany"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0466056/",
-            "name": "Hans-Erich Korbschmitt"
+            "name": "Hans-Erich Korbschmitt",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1520953/",
-            "name": "Joachim Witte"
+            "name": "Joachim Witte",
+            "@type": "Person"
         }
     ],
     "duration": "PT59M",
-    "keywords": [
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0466056/",
-            "name": "Hans-Erich Korbschmitt"
+            "name": "Hans-Erich Korbschmitt",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0312597/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "A woman meets a blind man who helped her during the war and has fallen on hard times since.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1959-12-22",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1959-12-22",
+    "original_title": "Die Dame und der Blinde",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-25T19:52:09"
+    "update_at": "2026-11-07T01:42:08"
 }

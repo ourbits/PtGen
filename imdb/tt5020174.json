@@ -4,79 +4,111 @@
     "name": "Taking Flight",
     "site": "imdb",
     "year": "2015",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
+        "Adventure",
         "Animation",
-        "Short",
-        "Adventure"
+        "Family"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm6239143/",
-            "name": "Asher Blinkoff"
+            "name": "Asher Blinkoff",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0706716/",
-            "name": "Kevin Rahm"
+            "name": "Kevin Rahm",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0936403/",
-            "name": "Ray Wise"
+            "name": "Ray Wise",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0NzE5MjYzOF5BMl5BanBnXkFtZTgwNDExNjM4NjE@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/wMqhCsSSzByM1WuV7jkyvfhejYO.jpg",
     "details": {
+        "Stars": [
+            "Asher Blinkoff",
+            "Kevin Rahm",
+            "Ray Wise"
+        ],
+        "Genres": [
+            "Adventure",
+            "Animation",
+            "Family"
+        ],
+        "Writer": [
+            "Limbert Fabian",
+            "Brandon Oldenburg",
+            "Angie Sun"
+        ],
+        "Runtime": [
+            "6 min"
+        ],
+        "Director": [
+            "Brandon Oldenburg"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "September 18, 2015 (United States)"
-        ],
-        "Official site": [
-            "Official site - http://takingflightfilm.com/"
+            "2015-09-18"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Moonbot Studios"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1096546/",
-            "name": "Limbert Fabian"
+            "name": "Limbert Fabian",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1099141/",
-            "name": "Brandon Oldenburg"
+            "name": "Brandon Oldenburg",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5430091/",
-            "name": "Angie Sun"
+            "name": "Angie Sun",
+            "@type": "Person"
         }
     ],
     "duration": "PT6M",
     "keywords": [
-        ""
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1099141/",
-            "name": "Brandon Oldenburg"
+            "name": "Brandon Oldenburg",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt5020174/",
     "metascore": null,
-    "imdb_votes": 150,
+    "imdb_votes": 154,
     "popularity": 0,
-    "description": "A small boy&apos;s day with Grandpa transforms into an epic adventure.",
-    "imdb_rating": "7.1/10 from 150 users",
-    "release_date": [],
+    "description": "Taking Flight is a short film inspired by the life and heritage of Antonio Pasin, inventor of the Radio Flyer wagon. In this fictional tribute to Pasin's legacy, what begins as a small boy's over-scheduled, over supervised, boring day with Grandpa turns into a larger-than-life journey, narrowly escaping wild monkeys and battling aliens to save the universe. Through the power of imagination and epic adventure, a boy learns to be a kid, a father learns to be a dad, a grandpa reminds all of us what childhood is all about.",
+    "imdb_rating": "7.1/10 from 154 users",
+    "release_date": [
+        {
+            "date": "2015-09-18",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2015-09-18",
+    "original_title": "Taking Flight",
     "imdb_rating_average": 7.1,
-    "update_at": "2025-10-04T19:07:19"
+    "update_at": "2026-11-06T05:56:07"
 }

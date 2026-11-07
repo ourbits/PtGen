@@ -3,62 +3,110 @@
     "sid": "tt0094240",
     "name": "La valse des médias",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1987",
+    "@type": "Short",
     "genre": [
+        "Comedy",
         "Documentary",
-        "Short",
-        "Comedy"
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0008430/",
-            "name": "Jean Abeillé"
+            "name": "Jean Abeillé",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2694695/",
-            "name": "Michèle Brujaille"
+            "name": "Michèle Brujaille",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1076126/",
-            "name": "Claude Buchwald"
+            "name": "Claude Buchwald",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0540800/",
+            "name": "Olivier Maltinti",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0577840/",
+            "name": "Claude Melki",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0609741/",
+            "name": "Luc Moullet",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjgzYTgwOTYtYzAzZS00OGI1LTg3YTItYTAxZjI5YTQzMmI4XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/ks3ql9cUFtyFWpl0N9YsKiZ5zUN.jpg",
     "details": {
+        "Stars": [
+            "Jean Abeillé",
+            "Michèle Brujaille",
+            "Claude Buchwald"
+        ],
+        "Genres": [
+            "Comedy",
+            "Documentary",
+            "Short"
+        ],
+        "Writer": [
+            "Luc Moullet"
+        ],
+        "Runtime": [
+            "27 min"
+        ],
+        "Director": [
+            "Luc Moullet"
+        ],
         "Language": [
             "French"
+        ],
+        "Release date": [
+            "1987-01-01"
         ],
         "Country of origin": [
             "France"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0609741/",
-            "name": "Luc Moullet"
+            "name": "Luc Moullet",
+            "@type": "Person"
         }
     ],
     "duration": "PT27M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0609741/",
-            "name": "Luc Moullet"
+            "name": "Luc Moullet",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0094240/",
     "metascore": null,
-    "imdb_votes": 26,
+    "imdb_votes": 27,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "6.6/10 from 26 users",
-    "release_date": [],
+    "description": "Study on the evolution and modernization of public libraries and media libraries.",
+    "imdb_rating": "6.6/10 from 27 users",
+    "release_date": [
+        {
+            "date": "1987-01-01",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1987-01-01",
+    "original_title": "La valse des médias",
     "imdb_rating_average": 6.6,
-    "update_at": "2025-09-08T06:00:23"
+    "update_at": "2026-11-07T01:56:26"
 }

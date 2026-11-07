@@ -4,46 +4,76 @@
     "name": "Chileno emergente",
     "site": "imdb",
     "year": "2005",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
-            "url": "https://www.imdb.com/name/nm1763705/",
-            "name": "Alejandro Montes"
-        },
-        {
             "url": "https://www.imdb.com/name/nm1437830/",
-            "name": "Daniella Tobar"
+            "name": "Daniella Tobar",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0179540/",
-            "name": "Peggy Cordero"
+            "name": "Peggy Cordero",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1763705/",
+            "name": "Alejandro Montes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0555152/",
+            "name": "José Martínez",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Spanish"
+        "Stars": [
+            "Daniella Tobar",
+            "Peggy Cordero",
+            "Alejandro Montes"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Francisca Fuenzalida",
+            "Trinidad Jiménez"
+        ],
+        "Director": [
+            "Martin Arechaga"
         ],
         "Release date": [
-            "November 15, 2005 (Chile)"
-        ],
-        "Country of origin": [
-            "Chile"
-        ],
-        "Production companies": [
-            "Nueva Imagen",
-            "ZonaCinema Ltda."
+            "2005"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm1802128/",
+            "name": "Francisca Fuenzalida",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1911164/",
+            "name": "Trinidad Jiménez",
+            "@type": "Person"
+        }
+    ],
     "duration": null,
-    "keywords": [
-        "tv mini series"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm1890785/",
+            "name": "Martin Arechaga",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0456764/",
     "metascore": null,
@@ -53,7 +83,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2005-11-15",
+    "datePublished": "2005",
+    "original_title": "Chileno emergente",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-14T20:33:35"
+    "update_at": "2026-11-06T19:07:15"
 }
