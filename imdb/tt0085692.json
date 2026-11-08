@@ -1,10 +1,23 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Το κυνηγόσκυλο των Μπάσκερβιλ",
+            "country": "Greece"
+        },
+        {
+            "title": "Το λαγωνικό των Μπάσκερβιλ",
+            "country": "Greece"
+        },
+        {
+            "title": "Baskervillərin İti",
+            "country": "Azerbaijan"
+        }
+    ],
     "sid": "tt0085692",
     "name": "The Hound of the Baskervilles",
     "site": "imdb",
     "year": "1983",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Horror",
@@ -13,73 +26,137 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0007183/",
-            "name": "Ian Richardson"
+            "name": "Ian Richardson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0161427/",
-            "name": "Donald Churchill"
+            "name": "Donald Churchill",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001186/",
-            "name": "Denholm Elliott"
+            "name": "Denholm Elliott",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0053392/",
+            "name": "Glynis Barber",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000306/",
+            "name": "Brian Blessed",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0111376/",
+            "name": "Eleanor Bron",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0431837/",
+            "name": "Edward Judd",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0479951/",
+            "name": "Ronald Lacey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0789864/",
+            "name": "Martin Shaw",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0095665/",
+            "name": "Connie Booth",
+            "@type": "Person"
         }
     ],
-    "critic": 10,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMDc0ODkzMF5BMl5BanBnXkFtZTcwMTg2NDIyMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/knEO4TxWPv9M2WwydYU9k0rXua5.jpg",
     "details": {
+        "Stars": [
+            "Ian Richardson",
+            "Donald Churchill",
+            "Denholm Elliott"
+        ],
+        "Genres": [
+            "Crime",
+            "Horror",
+            "Mystery"
+        ],
+        "Writer": [
+            "Charles Edward Pogue",
+            "Arthur Conan Doyle"
+        ],
+        "Runtime": [
+            "100 min"
+        ],
+        "Director": [
+            "Douglas Hickox"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 3, 1983 (United States)"
-        ],
-        "Also known as": [
-            "Der Hund von Baskerville"
+            "1983-11-03"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Filming locations": [
-            "Knightshayes Court, Bolham, Tiverton, Devon, England, UK"
-        ],
-        "Production company": [
+        "Production companies": [
             "Mapleton Films"
         ]
     },
-    "reviews": 46,
+    "reviews": 0,
+    "tagline": "Holmes and Watson's most chilling case... an age-old curse... a ravenous monster...",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0688279/",
-            "name": "Charles Edward Pogue"
+            "name": "Charles Edward Pogue",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0236279/",
-            "name": "Arthur Conan Doyle"
+            "name": "Arthur Conan Doyle",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H40M",
     "keywords": [
-        "sherlock holmes character",
-        "dr. john watson character",
-        "hound",
-        "murder",
-        "dog"
+        "based on novel or book",
+        "moor (terrain)",
+        "sherlock holmes"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0382779/",
-            "name": "Douglas Hickox"
+            "name": "Douglas Hickox",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0085692/",
     "metascore": null,
-    "imdb_votes": 1674,
+    "imdb_votes": 1849,
     "popularity": 0,
-    "description": "Sherlock Holmes comes to the aid of his friend Henry Baskerville, who is under a family curse and menaced by a demonic dog that prowls the bogs near his estate and murders people.",
-    "imdb_rating": "6.5/10 from 1674 users",
-    "release_date": [],
-    "contentRating": null,
+    "description": "When a nobleman is threatened by a family curse on his newly inherited estate, detective Sherlock Holmes is hired to investigate.",
+    "imdb_rating": "6.5/10 from 1849 users",
+    "release_date": [
+        {
+            "date": "1986-02-21",
+            "country": "Germany"
+        },
+        {
+            "date": "1983-11-03",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "PG-13",
     "datePublished": "1983-11-03",
+    "original_title": "The Hound of the Baskervilles",
     "imdb_rating_average": 6.5,
-    "update_at": "2025-07-22T13:28:54"
+    "update_at": "2026-11-07T08:21:06"
 }

@@ -4,7 +4,7 @@
     "name": "Operaatio Interheil",
     "site": "imdb",
     "year": "2001",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Crime",
         "Drama"
@@ -12,60 +12,115 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0452770/",
-            "name": "Vera Kiiskinen"
+            "name": "Vera Kiiskinen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1389849/",
-            "name": "Vuokko Hovatta"
+            "name": "Vuokko Hovatta",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0839432/",
-            "name": "Martti Suosalo"
+            "name": "Martti Suosalo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0617450/",
+            "name": "Jarmo Mäkinen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0252447/",
+            "name": "Riko Eklundh",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1300300/",
+            "name": "Amira Khalifa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1948761/",
+            "name": "Stella Neri-Porvali",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1007170/",
+            "name": "Jori Halttunen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0877210/",
+            "name": "Juha Turkka",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0548516/",
+            "name": "Jorma Markkula",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Vera Kiiskinen",
+            "Vuokko Hovatta",
+            "Martti Suosalo"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "Iiro Küttner"
+        ],
+        "Director": [
+            "Jukka-Pekka Siili"
+        ],
         "Language": [
             "Finnish"
         ],
         "Release date": [
-            "February 21, 2001 (Finland)"
-        ],
-        "Official sites": [
-            "Fantiasiafilmi (Finland) - http://www.fantasiafilm.com/selainvalinta.html",
-            "YLE (Finland) - http://www.yle.fi/interheil/"
+            "2001-02-21"
         ],
         "Country of origin": [
             "Finland"
         ],
-        "Filming locations": [
-            "Helsinki, Finland"
-        ],
         "Production companies": [
-            "FantasiaFilmi Oy",
-            "Yleisradio (YLE)"
+            "Fantasiafilmi",
+            "YLE"
         ]
     },
     "reviews": 0,
-    "creators": [],
-    "duration": null,
-    "keywords": [
-        "tv mini series",
-        "skinhead",
-        "secret police",
-        "sabotage",
-        "infiltration"
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0478241/",
+            "name": "Iiro Küttner",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT50M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0797655/",
+            "name": "Jukka-Pekka Siili",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0337775/",
     "metascore": null,
-    "imdb_votes": 21,
+    "imdb_votes": 20,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "6.3/10 from 21 users",
+    "description": "Thriller about Antti, an unemployed architect who is hired by the Security Police to infiltrate an ultra-right-wing organisation in a town in southern Finland. The group is passive and not dangerous. To keep his job Antti starts to invent action for the group.",
+    "imdb_rating": "6.7/10 from 20 users",
     "release_date": [],
     "contentRating": null,
     "datePublished": "2001-02-21",
-    "imdb_rating_average": 6.3,
-    "update_at": "2025-06-17T12:49:10"
+    "original_title": "Operaatio Interheil",
+    "imdb_rating_average": 6.7,
+    "update_at": "2026-11-07T19:56:13"
 }

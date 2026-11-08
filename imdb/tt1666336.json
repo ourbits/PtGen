@@ -4,74 +4,120 @@
     "name": "The Gambler",
     "site": "imdb",
     "year": "1956",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0045968/",
-            "name": "Hermione Baddeley"
+            "name": "Hermione Baddeley",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0190194/",
-            "name": "Rosalie Crutchley"
+            "name": "Rosalie Crutchley",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0232019/",
-            "name": "James Donald"
+            "name": "James Donald",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0943936/",
+            "name": "Peter Wyngarde",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0578154/",
+            "name": "Andree Melly",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0407810/",
+            "name": "Peter Illing",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0926001/",
+            "name": "Gordon Whiting",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0493218/",
+            "name": "Gerald Lawson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0709994/",
+            "name": "Boris Ranevsky",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0408588/",
+            "name": "Elaine Inescourt",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Hermione Baddeley",
+            "Rosalie Crutchley",
+            "James Donald"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Fyodor Dostoevsky",
+            "Norman Ginsbury"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Tony Richardson"
         ],
         "Release date": [
-            "August 9, 1956 (United Kingdom)"
-        ],
-        "Also known as": [
-            "次郎長遊侠伝 天城鴉"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Production company": [
-            "British Broadcasting Corporation (BBC)"
+            "1956"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0234502/",
-            "name": "Fyodor Dostoevsky"
+            "name": "Fyodor Dostoevsky",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0320156/",
-            "name": "Norman Ginsbury"
+            "name": "Norman Ginsbury",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        "roulette",
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0724798/",
-            "name": "Tony Richardson"
+            "name": "Tony Richardson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1666336/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "A writer becomes obsessed by roulette.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1956-08-09",
+    "datePublished": "1956",
+    "original_title": "The Gambler",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-28T01:49:04"
+    "update_at": "2026-11-07T21:42:13"
 }

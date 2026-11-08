@@ -4,7 +4,7 @@
     "name": "The Big Heist",
     "site": "imdb",
     "year": "2001",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Drama"
@@ -12,80 +12,140 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000661/",
-            "name": "Donald Sutherland"
+            "name": "Donald Sutherland",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001334/",
-            "name": "John Heard"
+            "name": "John Heard",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0364807/",
-            "name": "Jamie Harris"
+            "name": "Jamie Harris",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0452286/",
+            "name": "Janet Kidder",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0762191/",
+            "name": "Nick Sandow",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0602930/",
+            "name": "Michael P. Moran",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0684187/",
+            "name": "Joe Pingue",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0748513/",
+            "name": "Bo Rucker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0803157/",
+            "name": "Rocco Sisto",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0603763/",
+            "name": "Robert Morelli",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTZmZWU5NWQtY2JmNS00MTYzLThmMDgtNjQyNmE2YzAwZjRmXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/dhbMcbJhD0Cd9601DRMfIbuTFV1.jpg",
     "details": {
+        "Stars": [
+            "Donald Sutherland",
+            "John Heard",
+            "Jamie Harris"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "Ernest Volkman",
+            "John Cummings",
+            "Jere Cunningham"
+        ],
+        "Runtime": [
+            "92 min"
+        ],
+        "Director": [
+            "Robert Markowitz"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "June 10, 2001 (United States)"
+            "2001-06-10"
         ],
-        "Also known as": [
-            "El golpe de su vida"
-        ],
-        "Filming locations": [
-            "Toronto, Ontario, Canada"
-        ],
-        "Countries of origin": [
-            "United States",
-            "Canada"
+        "Country of origin": [
+            "Canada",
+            "United States of America"
         ],
         "Production companies": [
-            "A+E Networks",
-            "Alliance Atlantis Communications",
-            "Gary Hoffman Productions"
+            "Alliance Atlantis",
+            "Gary Hoffman Productions",
+            "A+E Studios"
         ]
     },
-    "reviews": 9,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1002161/",
-            "name": "Ernest Volkman"
+            "name": "Ernest Volkman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1003807/",
-            "name": "John Cummings"
+            "name": "John Cummings",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0192342/",
-            "name": "Jere Cunningham"
+            "name": "Jere Cunningham",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H32M",
     "keywords": [
-        "heist",
-        "dark comedy",
-        "new york city",
-        "organized crime",
-        "irish american"
+        "robbery",
+        "mafia"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0548740/",
-            "name": "Robert Markowitz"
+            "name": "Robert Markowitz",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0287336/",
     "metascore": null,
-    "imdb_votes": 315,
+    "imdb_votes": 321,
     "popularity": 0,
-    "description": "Jimmy Burke is a small time hood, who has one final chance to make the biggest score of his life.",
-    "imdb_rating": "5.3/10 from 315 users",
-    "release_date": [],
+    "description": "Based on the 1986 book \"The Heist: How a Gang Stole $8,000,000 at Kennedy Airport and Lived to Regret It\", by Ernest Volkman and John Cummings,  this TV movie tells the story about the 1978 Lufthansa Heist at JFK Airport in New York - the largest cash robbery ever committed on American soil. The heist was also the subject of the much better-known 1990 film \"Goodfella\"s, directed by Martin Scorsese. It was also the subject of another made-for-television film: \"The 10 Million Dollar Getaway\" from 1991.",
+    "imdb_rating": "5.4/10 from 321 users",
+    "release_date": [
+        {
+            "date": "2001-06-10",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2001-06-10",
-    "imdb_rating_average": 5.3,
-    "update_at": "2025-09-01T06:39:18"
+    "original_title": "The Big Heist",
+    "imdb_rating_average": 5.4,
+    "update_at": "2026-11-07T08:21:33"
 }

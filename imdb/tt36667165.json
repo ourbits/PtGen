@@ -5,67 +5,142 @@
     "site": "imdb",
     "year": "2025",
     "@type": "TVSeries",
-    "genre": null,
+    "genre": [
+        "Comedy"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3974671/",
-            "name": "Marc Rius"
+            "name": "Marc Rius",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5445024/",
-            "name": "Adrian Grösser"
+            "name": "Adrian Grösser",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1414974/",
-            "name": "Llum Barrera"
+            "name": "Llum Barrera",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1688657/",
+            "name": "Albert Ribalta",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5256792/",
+            "name": "Paula Malia",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2187703/",
+            "name": "Betsy Túrnez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2392048/",
+            "name": "Núria Casas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm18586906/",
+            "name": "Íria Vallespí",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0046588/",
+            "name": "David Bagés",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm16119155/",
+            "name": "Íria Sena",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2MxNmNmZTYtNjllMi00Zjc1LThlODctMDJkY2YyMzhlZTE5XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/2pRv3icHhUiLXjjeleJ6MQuwG6D.jpg",
     "details": {
+        "Stars": [
+            "Marc Rius",
+            "Adrian Grösser",
+            "Llum Barrera"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Dani Amor",
+            "Dani de la Orden",
+            "Oriol Pérez Alcaraz"
+        ],
+        "Director": [
+            "Oriol Pérez Alcaraz",
+            "Dani de la Orden"
+        ],
         "Language": [
             "Catalan"
         ],
         "Release date": [
-            "October 22, 2025 (Spain)"
+            "2025-10-22"
         ],
         "Country of origin": [
             "Spain"
         ],
         "Production companies": [
             "3Cat",
-            "Sábado Time",
+            "Playtime Movies",
             "Sábado Películas"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
+            "url": "https://www.imdb.com/name/nm2438163/",
+            "name": "Dani Amor",
+            "@type": "Person"
+        },
+        {
             "url": "https://www.imdb.com/name/nm1738082/",
-            "name": "Dani de la Orden"
+            "name": "Dani de la Orden",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5611427/",
-            "name": "Oriol Pérez Alcaraz"
-        },
-        {
-            "url": "https://www.imdb.com/name/nm4485092/",
-            "name": "Eduard Sola"
+            "name": "Oriol Pérez Alcaraz",
+            "@type": "Person"
         }
     ],
     "duration": null,
     "keywords": [
-        ""
+        "sitcom",
+        "catalan language"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm5611427/",
+            "name": "Oriol Pérez Alcaraz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1738082/",
+            "name": "Dani de la Orden",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt36667165/",
     "metascore": null,
-    "imdb_votes": 52,
+    "imdb_votes": 101,
     "popularity": 0,
-    "description": "A powerful construction tycoon acquires the nation&apos;s final free-standing news outlet, bringing ulterior motives that threaten independent journalism.",
-    "imdb_rating": "6.7/10 from 52 users",
+    "description": "Miqui shares an apartment with his best friend, Èric, and leads a more or less stable life until, in the span of just a few days, two unexpected events force him to rethink his entire future. Left with few alternatives, he ends up moving back into the family home, where he must live with his parents again while trying to rebuild his personal and professional life. Surrounding him are neighbors, friends, and family members who turn every minor daily issue into an endless source of complications, misunderstandings, and situations that are absurdly relatable.",
+    "imdb_rating": "6.4/10 from 101 users",
     "release_date": [],
     "contentRating": null,
     "datePublished": "2025-10-22",
-    "imdb_rating_average": 6.7,
-    "update_at": "2026-02-19T13:20:26"
+    "original_title": "La casa nostra",
+    "imdb_rating_average": 6.4,
+    "update_at": "2026-11-07T05:35:07"
 }

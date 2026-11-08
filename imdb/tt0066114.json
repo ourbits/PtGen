@@ -4,85 +4,143 @@
     "name": "My Sweet Charlie",
     "site": "imdb",
     "year": "1970",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001157/",
-            "name": "Patty Duke"
+            "name": "Patty Duke",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0293272/",
-            "name": "Al Freeman Jr."
+            "name": "Al Freeman Jr.",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0707077/",
-            "name": "Ford Rainey"
+            "name": "Ford Rainey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0362774/",
+            "name": "William Hardy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0933176/",
+            "name": "Chris Wilson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0600911/",
+            "name": "Archie Moore",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0932244/",
+            "name": "Noble Willingham",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0911482/",
+            "name": "Dave Ward",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0658115/",
+            "name": "Anthony Palmer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0807503/",
+            "name": "Brandon Smith",
+            "@type": "Person"
         }
     ],
-    "critic": 6,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NDIwNDAxMl5BMl5BanBnXkFtZTcwNDU0NTYxMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/1GnEP5b1KtwrU6e3N9bVZUTllvE.jpg",
     "details": {
+        "Stars": [
+            "Patty Duke",
+            "Al Freeman Jr.",
+            "Ford Rainey"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "David Westheimer",
+            "Richard Levinson",
+            "William Link"
+        ],
+        "Runtime": [
+            "97 min"
+        ],
+        "Director": [
+            "Lamont Johnson"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 20, 1970 (United States)"
-        ],
-        "Also known as": [
-            "Mi dulce Charlie"
+            "1970-01-20"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Galveston, Texas, USA"
+            "United States of America"
         ],
         "Production companies": [
             "Bob Banner Associates",
             "Universal Television"
         ]
     },
-    "reviews": 13,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0006773/",
-            "name": "David Westheimer"
+            "name": "David Westheimer",
+            "@type": "Person"
         },
         {
-            "url": "https://www.imdb.com/name/nm0506087/",
-            "name": "Richard Levinson"
+            "url": "https://www.imdb.com/name/nm0500377/",
+            "name": "Richard Levinson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0512894/",
-            "name": "William Link"
+            "name": "William Link",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H37M",
     "keywords": [
-        "johnson and duke",
-        "abandoned house",
-        "survival",
-        "on the run",
-        "black american"
+        "interracial romance"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0425593/",
-            "name": "Lamont Johnson"
+            "name": "Lamont Johnson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0066114/",
     "metascore": null,
-    "imdb_votes": 286,
+    "imdb_votes": 299,
     "popularity": 0,
     "description": "A pregnant white Southern girl and a black New York lawyer, both on the run in rural Texas, meet up in a boarded-up, abandoned house and realize they both need each other in order to survive.",
-    "imdb_rating": "7.5/10 from 286 users",
-    "release_date": [],
-    "contentRating": "G",
+    "imdb_rating": "7.5/10 from 299 users",
+    "release_date": [
+        {
+            "date": "1970-01-20",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1970-01-20",
+    "original_title": "My Sweet Charlie",
     "imdb_rating_average": 7.5,
-    "update_at": "2025-07-01T18:49:58"
+    "update_at": "2026-11-07T03:49:14"
 }

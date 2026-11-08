@@ -4,83 +4,133 @@
     "name": "Resurrection",
     "site": "imdb",
     "year": "1999",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001127/",
-            "name": "Dana Delany"
+            "name": "Dana Delany",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0002084/",
-            "name": "Brenda Fricker"
+            "name": "Brenda Fricker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0157915/",
-            "name": "Nick Chinlund"
+            "name": "Nick Chinlund",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0322182/",
+            "name": "Matthew Glave",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001549/",
+            "name": "Rita Moreno",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0467416/",
+            "name": "Mitchell Kosterman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0908022/",
+            "name": "Matthew Walker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0057626/",
+            "name": "Catherine Barroll",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0121751/",
+            "name": "Kaitlyn Burke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1799274/",
+            "name": "Pamela Calderon",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2ZkZTQyNTItNDgyNi00ODI5LTk4MGUtOGJmYTQ5YjViNDcwXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/vWQQ8TVtVKp2rXcCXbjYCY6AQJC.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Dana Delany",
+            "Brenda Fricker",
+            "Nick Chinlund"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Lewis John Carlino",
+            "Sally Robinson"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Stephen Gyllenhaal"
         ],
         "Release date": [
-            "March 15, 1999 (United States)"
+            "1999-03-15"
         ],
-        "Also known as": [
-            "Resurrección"
-        ],
-        "Filming locations": [
-            "Britannia Beach, British Columbia, Canada"
-        ],
-        "Countries of origin": [
-            "United States",
-            "Canada"
+        "Country of origin": [
+            "United States of America"
         ],
         "Production companies": [
+            "CBS",
             "Alan Barnette Productions",
-            "Great Falls Productions",
-            "Studios USA Television"
+            "Great Falls Productions"
         ]
     },
-    "reviews": 9,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0137573/",
-            "name": "Lewis John Carlino"
+            "name": "Lewis John Carlino",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0548736/",
-            "name": "Sally Robinson"
+            "name": "Sally Robinson",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        "psychotronic film",
-        "nosebleed",
-        "spinal injury",
-        "sick child",
-        "scientist"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0350455/",
-            "name": "Stephen Gyllenhaal"
+            "name": "Stephen Gyllenhaal",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0193462/",
     "metascore": null,
-    "imdb_votes": 285,
+    "imdb_votes": 274,
     "popularity": 0,
-    "description": "After a woman is crippled in an auto accident which killed her husband, she suddenly develops the powers to heal. First she uses the power to heal herself and then turns to others. However, her powers are beyond healing psychic sc...",
-    "imdb_rating": "5.7/10 from 285 users",
-    "release_date": [],
+    "description": "After a woman is crippled in an auto accident which killed her husband, she suddenly develops the powers to heal. First she uses the power to heal herself and then turns to others. However, her powers are beyond healing psychic scars that exist between her and her mother. Meanwhile, her best friend and her doctor struggle to understand her newfound abilities.",
+    "imdb_rating": "5.8/10 from 274 users",
+    "release_date": [
+        {
+            "date": "1999-03-15",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1999-03-15",
-    "imdb_rating_average": 5.7,
-    "update_at": "2025-09-23T15:13:15"
+    "original_title": "Resurrection",
+    "imdb_rating_average": 5.8,
+    "update_at": "2026-11-07T02:14:27"
 }

@@ -3,55 +3,70 @@
     "sid": "tt1346234",
     "name": "Agamennone",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1965",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0097953/",
-            "name": "Andrea Bosic"
+            "name": "Andrea Bosic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0068952/",
-            "name": "Marisa Belli"
+            "name": "Marisa Belli",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1435455/",
-            "name": "Mariella Furgiuele"
+            "name": "Mariella Furgiuele",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0320468/",
+            "name": "Renzo Giovampietro",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Italian"
+        "Stars": [
+            "Andrea Bosic",
+            "Marisa Belli",
+            "Mariella Furgiuele"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Vittorio Alfieri"
+        ],
+        "Director": [
+            "Lidia C. Ripandelli"
         ],
         "Release date": [
-            "1965 (Italy)"
-        ],
-        "Country of origin": [
-            "Italy"
-        ],
-        "Production company": [
-            "RAI Radiotelevisione Italiana"
+            "1965"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2598341/",
-            "name": "Vittorio Alfieri"
+            "name": "Vittorio Alfieri",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1238718/",
-            "name": "Lidia C. Ripandelli"
+            "name": "Lidia C. Ripandelli",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1346234/",
@@ -62,7 +77,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1965",
+    "original_title": "Agamennone",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-22T06:14:52"
+    "update_at": "2026-11-07T23:28:32"
 }

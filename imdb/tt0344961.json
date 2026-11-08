@@ -4,7 +4,7 @@
     "name": "Cut Out for Love",
     "site": "imdb",
     "year": "1937",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Musical",
         "Romance",
@@ -13,50 +13,63 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0637161/",
-            "name": "Donald Novis"
+            "name": "Donald Novis",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0201118/",
-            "name": "Dorothy Dare"
+            "name": "Dorothy Dare",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2294650/",
-            "name": "Jack Seymour"
+            "name": "Jack Seymour",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0852682/",
+            "name": "June Taylor",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2294667/",
+            "name": "Don Gautier",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Donald Novis",
+            "Dorothy Dare",
+            "Jack Seymour"
+        ],
+        "Genres": [
+            "Musical",
+            "Romance",
+            "Short"
+        ],
+        "Runtime": [
+            "20 min"
+        ],
+        "Director": [
+            "Joseph Henabery"
         ],
         "Release date": [
-            "September 3, 1937 (United States)"
-        ],
-        "Also known as": [
-            "Broadway Brevities (1936-1937 season) #35: Cut Out for Love"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Warner Bros."
+            "1937"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT20M",
-    "keywords": [
-        "broadway brevity",
-        "song",
-        "singing",
-        "vaudeville",
-        "singer"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0376221/",
-            "name": "Joseph Henabery"
+            "name": "Joseph Henabery",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0344961/",
@@ -66,8 +79,9 @@
     "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
-    "contentRating": "Approved",
-    "datePublished": "1937-09-03",
+    "contentRating": null,
+    "datePublished": "1937",
+    "original_title": "Cut Out for Love",
     "imdb_rating_average": 0,
-    "update_at": "2026-04-17T22:49:05"
+    "update_at": "2026-11-07T22:56:13"
 }

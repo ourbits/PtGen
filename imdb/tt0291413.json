@@ -4,64 +4,112 @@
     "name": "Papy super star",
     "site": "imdb",
     "year": "1991",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [
+        "TV Movie"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0498876/",
-            "name": "Jean Lefebvre"
+            "name": "Jean Lefebvre",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0498876/",
+            "name": "Jean Lefebvre",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0868139/",
-            "name": "Pierre Tornade"
+            "name": "Pierre Tornade",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0689054/",
-            "name": "Joseph Poli"
+            "name": "Joseph Poli",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0429781/",
+            "name": "Gaëtan Jor",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0483166/",
+            "name": "Henri Lambert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0858796/",
+            "name": "Éric Thomas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1049171/",
+            "name": "Jean-Claude Poirot",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmRlY2EzNzEtMTlmMy00OWY0LWJmMmQtY2NiYzk0MmZmNTA3XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/yBp1L1NflAzIlSdp9NlxDQQzowb.jpg",
     "details": {
+        "Stars": [
+            "Jean Lefebvre",
+            "Jean Lefebvre",
+            "Pierre Tornade"
+        ],
+        "Genres": [
+            "TV Movie"
+        ],
+        "Writer": [
+            "Jean-Claude Massoulier"
+        ],
+        "Runtime": [
+            "84 min"
+        ],
+        "Director": [
+            "Serge Pénard"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "September 28, 1991 (France)"
-        ],
-        "Also known as": [
-            "L'adagio di Alboretti"
-        ],
-        "Country of origin": [
-            "France"
+            "1991-09-28"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0557550/",
-            "name": "Jean-Claude Massoulier"
+            "name": "Jean-Claude Massoulier",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H24M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0701801/",
-            "name": "Serge Pénard"
+            "name": "Serge Pénard",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0291413/",
     "metascore": null,
-    "imdb_votes": 9,
+    "imdb_votes": 10,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "4.7/10 from 9 users",
-    "release_date": [],
+    "imdb_rating": "4.7/10 from 10 users",
+    "release_date": [
+        {
+            "date": "1991-09-28",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1991-09-28",
+    "original_title": "Papy super star",
     "imdb_rating_average": 4.7,
-    "update_at": "2025-10-08T14:52:31"
+    "update_at": "2026-11-07T11:14:22"
 }

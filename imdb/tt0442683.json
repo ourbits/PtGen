@@ -4,7 +4,7 @@
     "name": "Like Father Like Son",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Drama",
@@ -13,70 +13,135 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1840132/",
-            "name": "Somerset Prew"
+            "name": "Somerset Prew",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0595634/",
-            "name": "Georgia Tennant"
+            "name": "Georgia Tennant",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1842417/",
-            "name": "Francesca Fowler"
+            "name": "Francesca Fowler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1752067/",
+            "name": "Florence Bell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0714876/",
+            "name": "Jemma Redgrave",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0338292/",
+            "name": "Robson Green",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0931604/",
+            "name": "Rosemary Williams",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0171829/",
+            "name": "Kenneth Colley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0205289/",
+            "name": "Phil Davis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0371846/",
+            "name": "Pippa Haywood",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NTc5NzU4OF5BMl5BanBnXkFtZTcwNzU1NzA0MQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/cDlwpJRYZlPIKqzgeVylZnt2rwE.jpg",
     "details": {
+        "Stars": [
+            "Somerset Prew",
+            "Georgia Tennant",
+            "Francesca Fowler"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "Writer": [
+            "Shaun McKenna"
+        ],
+        "Runtime": [
+            "137 min"
+        ],
+        "Director": [
+            "Nicholas Laughland"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 24, 2005 (United Kingdom)"
-        ],
-        "Also known as": [
-            "有其父必有其子"
+            "2005-01-24"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Filming locations": [
-            "Twickenham, Middlesex, England, UK"
-        ],
         "Production companies": [
             "Ecosse Films",
-            "ITV - Independent Television"
+            "ITV"
         ]
     },
-    "reviews": 8,
+    "reviews": 0,
+    "tagline": "Are the sins of the father visited upon the son?",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1843336/",
-            "name": "Shaun McKenna"
+            "name": "Shaun McKenna",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H17M",
     "keywords": [
+        "prison",
+        "high school",
+        "teacher",
+        "serial killer",
+        "single mother",
+        "convict",
         "strangler",
-        "reference to brad pitt",
-        "murder",
-        "death",
-        "strangulation"
+        "troubled teen",
+        "murder investigation",
+        "teenage son"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0490838/",
-            "name": "Nicholas Laughland"
+            "name": "Nicholas Laughland",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0442683/",
     "metascore": null,
-    "imdb_votes": 422,
+    "imdb_votes": 469,
     "popularity": 0,
-    "description": "It was originally shown as a two-part miniseries. The plot summaries were as follows. Episode 1 Life for Dee Stanton (Jemma Redgrave) is improving at every turn. Her legal career is blossoming and her boyfriend Dominic (Robson Gre...",
-    "imdb_rating": "6.9/10 from 422 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "Life for Dee Stanton is improving at every turn. Her legal career is blossoming and her boyfriend Dominic unexpectedly proposes to her. Things were very different 11 years ago when her husband Paul was jailed for the brutal murders of four girls and Dee was hounded from her home. Dee has kept all this a secret from her 15-year-old son Jamie. Now he has discovered the truth about his father and demands to see him.",
+    "imdb_rating": "6.9/10 from 469 users",
+    "release_date": [
+        {
+            "date": "2005-01-24",
+            "country": "United Kingdom"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2005-01-24",
+    "original_title": "Like Father Like Son",
     "imdb_rating_average": 6.9,
-    "update_at": "2025-08-03T19:00:32"
+    "update_at": "2026-11-07T05:07:13"
 }

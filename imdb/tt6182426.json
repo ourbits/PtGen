@@ -4,59 +4,105 @@
     "name": "Shut Up and Dance",
     "site": "imdb",
     "year": "2015",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm4760674/",
-            "name": "Nick Bastounes"
+            "name": "Nick Bastounes",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0060594/",
-            "name": "Tom Bastounes"
+            "name": "Tom Bastounes",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2254262/",
-            "name": "Caitlin Custer"
+            "name": "Caitlin Custer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8534773/",
+            "name": "Nate Herman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8540350/",
+            "name": "Michael Madgiak",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0582206/",
+            "name": "Susan Messing",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8540349/",
+            "name": "Alex Pappas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7505901/",
+            "name": "Andy Polacek",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5584749/",
+            "name": "Lana Smithner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8540348/",
+            "name": "Kimberly Vaughn",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmY0OTcxZjgtZDNiYy00ODE1LWJlZDYtY2RmYzlhOGMzYjMxXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Nick Bastounes",
+            "Tom Bastounes",
+            "Caitlin Custer"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Michael C. McCarthy"
+        ],
+        "Director": [
+            "Michael C. McCarthy",
+            "Mark Vadik"
         ],
         "Release date": [
-            "August 2, 2015 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Mighty Small Pictures"
+            "2015"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0565258/",
-            "name": "Michael C. McCarthy"
+            "name": "Michael C. McCarthy",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0565258/",
-            "name": "Michael C. McCarthy"
+            "name": "Michael C. McCarthy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1067375/",
-            "name": "Mark Vadik"
+            "name": "Mark Vadik",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt6182426/",
@@ -67,7 +113,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2015-08-02",
+    "datePublished": "2015",
+    "original_title": "Shut Up and Dance",
     "imdb_rating_average": 0,
-    "update_at": "2026-05-19T19:49:09"
+    "update_at": "2026-11-07T04:14:17"
 }

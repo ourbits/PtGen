@@ -1,76 +1,149 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Agatha Christie - Mein Leben in Bildern",
+            "country": "Germany"
+        },
+        {
+            "title": "Agatha Christie: Egy élet képekben",
+            "country": "Hungary"
+        },
+        {
+            "title": "Агата Кристи: Жизнь в образах",
+            "country": "Russia"
+        }
+    ],
     "sid": "tt0426394",
     "name": "Agatha Christie: A Life in Pictures",
     "site": "imdb",
     "year": "2004",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0931404/",
-            "name": "Olivia Williams"
+            "name": "Olivia Williams",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0557281/",
-            "name": "Anna Massey"
+            "name": "Anna Massey",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0183557/",
-            "name": "Raymond Coulthard"
+            "name": "Raymond Coulthard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0101540/",
+            "name": "Stephen Boxer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0640722/",
+            "name": "Anthony O'Donnell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0640722/",
+            "name": "Anthony O'Donnell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0309693/",
+            "name": "Mark Gatiss",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0494945/",
+            "name": "Richard Leaf",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0942247/",
+            "name": "Bonnie Wright",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0598759/",
+            "name": "Celia Montague",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTIwMDk5NDEzNF5BMl5BanBnXkFtZTcwNTE4NDAzMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/9ypHdeg6m2QRUQOVKrZmZeUVJiD.jpg",
     "details": {
+        "Stars": [
+            "Olivia Williams",
+            "Anna Massey",
+            "Raymond Coulthard"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Richard Curson Smith"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Richard Curson Smith"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "September 22, 2004 (United Kingdom)"
-        ],
-        "Also known as": [
-            "アガサ・クリスティー／謎の失踪 失われた記憶"
+            "2004-09-22"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Production company": [
-            "Wall to Wall Television"
+        "Production companies": [
+            "Acorn Media Enterprises",
+            "BBC",
+            "Wall to Wall"
         ]
     },
-    "reviews": 5,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0193599/",
-            "name": "Richard Curson Smith"
+            "name": "Richard Curson Smith",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
     "keywords": [
-        "agatha christie character",
-        "hercule poirot character",
-        "writer",
-        "disappearance",
-        "world war one"
+        "detective",
+        "murder mystery"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0193599/",
-            "name": "Richard Curson Smith"
+            "name": "Richard Curson Smith",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0426394/",
     "metascore": null,
-    "imdb_votes": 253,
+    "imdb_votes": 261,
     "popularity": 0,
-    "description": "Late in 1926 acclaimed mystery writer Agatha Christie disappears after marital problems and creates a media frenzy.",
-    "imdb_rating": "6.5/10 from 253 users",
-    "release_date": [],
+    "description": "A biopic of Agatha Christie including her 10 day disappearance.",
+    "imdb_rating": "6.6/10 from 261 users",
+    "release_date": [
+        {
+            "date": "2004-09-22",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2004-09-22",
-    "imdb_rating_average": 6.5,
-    "update_at": "2025-02-10T10:26:24"
+    "original_title": "Agatha Christie: A Life in Pictures",
+    "imdb_rating_average": 6.6,
+    "update_at": "2026-11-07T22:42:26"
 }

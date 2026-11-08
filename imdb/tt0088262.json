@@ -4,7 +4,7 @@
     "name": "Threesome",
     "site": "imdb",
     "year": "1984",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Romance"
@@ -12,70 +12,131 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0004834/",
-            "name": "Stephen Collins"
+            "name": "Stephen Collins",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0706298/",
-            "name": "Deborah Raffin"
+            "name": "Deborah Raffin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0383415/",
-            "name": "Joel Higgins"
+            "name": "Joel Higgins",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0381527/",
+            "name": "Susan Hess",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0693994/",
+            "name": "Addison Powell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001127/",
+            "name": "Dana Delany",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0304623/",
+            "name": "Donald Gantry",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0173660/",
+            "name": "Melody Combs",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0577466/",
+            "name": "Harry Melching",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0679792/",
+            "name": "Eleanor Phelps",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWFhZDc4MjAtNDRkMS00YzQ3LTkyMmQtNDM3YTAzOTNjMmM0XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/ntkzjnZcf5suTStvwVmJJokcHJl.jpg",
     "details": {
+        "Stars": [
+            "Stephen Collins",
+            "Deborah Raffin",
+            "Joel Higgins"
+        ],
+        "Genres": [
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Herbert Gold",
+            "Lawrence B. Marcus"
+        ],
+        "Runtime": [
+            "100 min"
+        ],
+        "Director": [
+            "Lou Antonio"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "September 14, 1984 (United States)"
-        ],
-        "Also known as": [
-            "Juego de tres"
+            "1984-09-14"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "CBS"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": "There are some things even best friends won't share.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0324989/",
-            "name": "Herbert Gold"
+            "name": "Herbert Gold",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0546140/",
-            "name": "Lawrence B. Marcus"
+            "name": "Lawrence B. Marcus",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H40M",
     "keywords": [
         "friendship",
-        "love triangle",
-        "new york city",
-        "flashback",
-        "intimacy"
+        "love triangle"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0031398/",
-            "name": "Lou Antonio"
+            "name": "Lou Antonio",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0088262/",
     "metascore": null,
-    "imdb_votes": 59,
+    "imdb_votes": 64,
     "popularity": 0,
-    "description": "The fights, loves, truths, and problems of three friends whose bond is tested by one&apos;s insecurities.",
-    "imdb_rating": "6.6/10 from 59 users",
-    "release_date": [],
-    "contentRating": null,
+    "description": "A New York stockbroker introduces a girlfriend to his buddy from out of town, then regrets it.",
+    "imdb_rating": "6.3/10 from 64 users",
+    "release_date": [
+        {
+            "date": "1984-09-14",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "1984-09-14",
-    "imdb_rating_average": 6.6,
-    "update_at": "2025-08-26T15:00:22"
+    "original_title": "Threesome",
+    "imdb_rating_average": 6.3,
+    "update_at": "2026-11-07T12:00:39"
 }

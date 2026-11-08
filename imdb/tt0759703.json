@@ -4,72 +4,89 @@
     "name": "Sea Mates",
     "site": "imdb",
     "year": "1916",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0072462/",
-            "name": "Clyde Benson"
+            "name": "Clyde Benson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0804254/",
-            "name": "Harold Skinner"
+            "name": "Harold Skinner",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0568282/",
-            "name": "Claire McDowell"
+            "name": "Claire McDowell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0537556/",
+            "name": "Charles Hill Mailes",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Stars": [
+            "Clyde Benson",
+            "Harold Skinner",
+            "Claire McDowell"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Francis Powers",
+            "Frank Wiltermood"
+        ],
+        "Director": [
+            "Francis Powers"
         ],
         "Release date": [
-            "November 2, 1916 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Universal Film Manufacturing Company"
+            "1916"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0694534/",
-            "name": "Francis Powers"
+            "name": "Francis Powers",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0934338/",
-            "name": "Frank Wiltermood"
+            "name": "Frank Wiltermood",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0694534/",
-            "name": "Francis Powers"
+            "name": "Francis Powers",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0759703/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "John Lavoir, a thrifty fisherman and his daughter, Jane, live alone. He is a quiet man, somewhat religious. He guards his daughter carefully, and is anxious that she will marry well. His mind is set upon Joseph, the next prosperou...",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1916-11-02",
+    "datePublished": "1916",
+    "original_title": "Sea Mates",
     "imdb_rating_average": 0,
-    "update_at": "2026-03-08T02:07:48"
+    "update_at": "2026-11-07T10:49:06"
 }

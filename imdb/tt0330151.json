@@ -4,7 +4,7 @@
     "name": "A Christmas Carol",
     "site": "imdb",
     "year": "1981",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Family",
@@ -13,64 +13,132 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm4175723/",
-            "name": "Peter Belden"
+            "name": "Peter Belden",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0071378/",
-            "name": "Corina Benjet"
+            "name": "Corina Benjet",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0083541/",
-            "name": "Raye Birk"
+            "name": "Raye Birk",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4176125/",
+            "name": "Toby Brenner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4176530/",
+            "name": "Jared Brown",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3487766/",
+            "name": "Mimi Carr",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3487766/",
+            "name": "Mimi Carr",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0218556/",
+            "name": "Julia Fletcher",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0218556/",
+            "name": "Julia Fletcher",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4176139/",
+            "name": "Rebecca Garrett",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Peter Belden",
+            "Corina Benjet",
+            "Raye Birk"
+        ],
+        "Genres": [
+            "Drama",
+            "Family",
+            "Fantasy"
+        ],
+        "Writer": [
+            "Charles Dickens",
+            "Dennis Powers",
+            "Laird Williamson"
+        ],
+        "Runtime": [
+            "110 min"
+        ],
+        "Director": [
+            "Laird Williamson"
         ],
         "Release date": [
-            "December 21, 1981 (United States)"
+            "1981-12-21"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
+        ],
+        "Production companies": [
+            "ABC Video Enterprises"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0002042/",
-            "name": "Charles Dickens"
+            "name": "Charles Dickens",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1255724/",
-            "name": "Dennis Powers"
+            "name": "Dennis Powers",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0932082/",
-            "name": "Laird Williamson"
+            "name": "Laird Williamson",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H50M",
-    "keywords": [
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0932082/",
-            "name": "Laird Williamson"
+            "name": "Laird Williamson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0330151/",
     "metascore": null,
-    "imdb_votes": 35,
+    "imdb_votes": 38,
     "popularity": 0,
-    "description": "On Christmas Eve, an old miser named Ebenezer Scrooge is visited by the spirit of his former partner, Jacob Marley. The deceased partner was in his lifetime as mean and miserly as Scrooge is now and he warns him to change his ways...",
-    "imdb_rating": "4.4/10 from 35 users",
-    "release_date": [],
+    "description": "Televised stage performance based on Charles Dickens' novella.",
+    "imdb_rating": "4.4/10 from 38 users",
+    "release_date": [
+        {
+            "date": "1981-12-21",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1981-12-21",
+    "original_title": "A Christmas Carol",
     "imdb_rating_average": 4.4,
-    "update_at": "2025-06-05T09:39:27"
+    "update_at": "2026-11-07T18:28:22"
 }

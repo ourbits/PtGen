@@ -4,73 +4,86 @@
     "name": "All Things Fade",
     "site": "imdb",
     "year": "2017",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1683046/",
-            "name": "Jeffrey Todd"
+            "name": "Jeffrey Todd",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2532606/",
-            "name": "Kieran Biggs"
+            "name": "Kieran Biggs",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1594672/",
-            "name": "Peter Stickles"
+            "name": "Peter Stickles",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWQ4NTc5ZTUtYzM0Yi00Zjc4LTkyYTktZGVmYmI0NmQxZGJjXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/5ycArUX3igc1aSWExeGRPub7PZ4.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Jeffrey Todd",
+            "Kieran Biggs",
+            "Peter Stickles"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "J.T. Seaton"
+        ],
+        "Runtime": [
+            "7 min"
+        ],
+        "Director": [
+            "J.T. Seaton"
         ],
         "Release date": [
-            "September 23, 2017 (United States)"
-        ],
-        "Official sites": [
-            "Official Facebook - https://www.facebook.com/allthingsfadefilm/",
-            "Streaming on IndieHub OTT - https://indiehub.tv/mediapage?view=all-things-fade"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Cat Scare Films"
+            "2017-09-23"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1615010/",
-            "name": "J.T. Seaton"
+            "name": "J.T. Seaton",
+            "@type": "Person"
         }
     ],
     "duration": "PT7M",
-    "keywords": [
-        "hiv",
-        "hiv positive",
-        "gay"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1615010/",
-            "name": "J.T. Seaton"
+            "name": "J.T. Seaton",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt7338604/",
     "metascore": null,
-    "imdb_votes": 42,
+    "imdb_votes": 49,
     "popularity": 0,
-    "description": "When Nathan tells Bret that he&apos;s HIV positive, it doesn&apos;t go well for Nathan. But months later, things take a turn for Bret.",
-    "imdb_rating": "6.9/10 from 42 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "When Nathan tells Bret that he's HIV positive, it doesn't go well for Nathan. But months later, things take a turn for Bret.",
+    "imdb_rating": "6.9/10 from 49 users",
+    "release_date": [
+        {
+            "date": "2017-09-23",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2017-09-23",
+    "original_title": "All Things Fade",
     "imdb_rating_average": 6.9,
-    "update_at": "2025-09-23T23:52:22"
+    "update_at": "2026-11-08T01:28:05"
 }

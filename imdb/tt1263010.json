@@ -4,43 +4,65 @@
     "name": "An deutschen Tischen",
     "site": "imdb",
     "year": "2000",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Documentary"
     ],
+    "actors": [],
     "critic": 0,
     "poster": null,
     "details": {
+        "Genres": [
+            "Documentary"
+        ],
+        "Runtime": [
+            "45 min"
+        ],
+        "Director": [
+            "Raymond Ley"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "October 4, 2000 (Germany)"
+            "2000-10-04"
         ],
         "Country of origin": [
             "Germany"
+        ],
+        "Production companies": [
+            "NDR"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": "PT45M",
     "keywords": [
-        ""
+        "german reunification"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1642225/",
-            "name": "Raymond Ley"
+            "name": "Raymond Ley",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1263010/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "Documentation about the intra-German relations after the reunification.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2000-10-04",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2000-10-04",
+    "original_title": "An deutschen Tischen",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-31T02:55:37"
+    "update_at": "2026-11-07T06:56:22"
 }

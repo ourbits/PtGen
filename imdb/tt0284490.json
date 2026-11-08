@@ -1,5 +1,18 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Showtime",
+            "country": "Czech Republic"
+        },
+        {
+            "title": "作秀时刻",
+            "country": "China"
+        },
+        {
+            "title": "Flics en direct",
+            "country": "Canada"
+        }
+    ],
     "sid": "tt0284490",
     "name": "Showtime",
     "site": "imdb",
@@ -13,80 +26,206 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000134/",
-            "name": "Robert De Niro"
+            "name": "Robert De Niro",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000552/",
-            "name": "Eddie Murphy"
+            "name": "Eddie Murphy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000623/",
-            "name": "Rene Russo"
+            "name": "Rene Russo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0006713/",
+            "name": "Rachael Harris",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0267424/",
+            "name": "Zaid Farid",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0097504/",
+            "name": "Alex Borstein",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1017255/",
+            "name": "Holly Mandel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0542000/",
+            "name": "Marshall Manesh",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0785594/",
+            "name": "Nestor Serrano",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0189278/",
+            "name": "T.J. Cross",
+            "@type": "Person"
         }
     ],
-    "critic": 65,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzNlMjJiNTMtMzc3ZS00ZTBmLWIwYjAtODU4YmMzMWM3ZjlkXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/8sIooUxXZo2blCVuAYbL2wkdUfD.jpg",
     "details": {
+        "Stars": [
+            "Robert De Niro",
+            "Eddie Murphy",
+            "Rene Russo"
+        ],
+        "Genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "Writer": [
+            "Jorge Saralegui",
+            "Keith Sharon",
+            "Alfred Gough"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "Tom Dey"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 15, 2002 (United States)"
+            "2002-03-14"
         ],
-        "Also known as": [
-            "Шоу починається"
-        ],
-        "Filming locations": [
-            "Westin Bonaventure Hotel & Suites - 404 S. Figueroa Street, Downtown, Los Angeles, California, USA"
-        ],
-        "Countries of origin": [
-            "United States",
+        "Country of origin": [
+            "United States of America",
             "Australia"
         ],
         "Production companies": [
-            "Warner Bros.",
+            "Material",
+            "NPV Entertainment",
+            "Tribeca Productions",
             "Village Roadshow Pictures",
-            "NPV Entertainment"
+            "Warner Bros. Pictures"
         ]
     },
-    "reviews": 187,
+    "reviews": 0,
+    "tagline": "Lights. Camera. Aggravation.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0764822/",
-            "name": "Jorge Saralegui"
+            "name": "Jorge Saralegui",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0972440/",
-            "name": "Keith Sharon"
+            "name": "Keith Sharon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0332184/",
-            "name": "Alfred Gough"
+            "name": "Alfred Gough",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H35M",
     "keywords": [
-        "police",
-        "buddy cop",
-        "police shootout",
-        "foot chase",
-        "brawl"
+        "police operation",
+        "fugitive",
+        "hilarious",
+        "amused",
+        "sardonic"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0223359/",
-            "name": "Tom Dey"
+            "name": "Tom Dey",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0284490/",
-    "metascore": 32,
-    "imdb_votes": 66436,
-    "popularity": 0,
-    "description": "A spoof of buddy cop movies where two very different cops are forced to team up on a new reality based television cop show, while tracking down the manufacturer and distributor of an illegally made semi-automatic firearm.",
-    "imdb_rating": "5.6/10 from 66436 users",
-    "release_date": [],
+    "metascore": null,
+    "imdb_votes": 67625,
+    "popularity": 6325,
+    "description": "A spoof of buddy cop movies where two very different cops are forced to team up on a new reality based T.V. cop show.",
+    "imdb_rating": "5.6/10 from 67625 users",
+    "release_date": [
+        {
+            "date": "2002-04-12",
+            "country": "Austria"
+        },
+        {
+            "date": "2002-03-28",
+            "country": "Australia"
+        },
+        {
+            "date": "2002-04-11",
+            "country": "Switzerland"
+        },
+        {
+            "date": "2002-05-02",
+            "country": "Czech Republic"
+        },
+        {
+            "date": "2002-04-10",
+            "country": "Germany"
+        },
+        {
+            "date": "2002-04-19",
+            "country": "Spain"
+        },
+        {
+            "date": "2002-04-24",
+            "country": "France"
+        },
+        {
+            "date": "2002-05-03",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "2002-04-18",
+            "country": "Hungary"
+        },
+        {
+            "date": "2002-05-03",
+            "country": "Ireland"
+        },
+        {
+            "date": "2002-04-19",
+            "country": "Italy"
+        },
+        {
+            "date": "2002-10-21",
+            "country": "Netherlands"
+        },
+        {
+            "date": "2002-05-10",
+            "country": "Poland"
+        },
+        {
+            "date": "2002-04-19",
+            "country": "Portugal"
+        },
+        {
+            "date": "2002-04-19",
+            "country": "Sweden"
+        },
+        {
+            "date": "2002-03-14",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": "PG-13",
-    "datePublished": "2002-03-15",
+    "datePublished": "2002-03-14",
+    "original_title": "Showtime",
     "imdb_rating_average": 5.6,
-    "update_at": "2025-06-26T15:49:11"
+    "update_at": "2026-11-07T07:49:06"
 }

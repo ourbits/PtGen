@@ -5,63 +5,127 @@
     "site": "imdb",
     "year": "1986",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Drama"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0758593/",
-            "name": "Petteri Sallinen"
+            "name": "Petteri Sallinen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0750234/",
-            "name": "Carl-Kristian Rundman"
+            "name": "Carl-Kristian Rundman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1716479/",
-            "name": "Tuula Amberla"
+            "name": "Tuula Amberla",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2048678/",
+            "name": "Jaska Ojala",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1959852/",
+            "name": "Björn Teir",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1958416/",
+            "name": "Ville Nisonen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0948227/",
+            "name": "Anne-Maria Ylitapio",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1456835/",
+            "name": "Erja Alander",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1518462/",
+            "name": "Maria Dolores",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0382175/",
+            "name": "Klaus Heydemann",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2Y5M2M1NjYtOTBjYS00NWEwLWJjMmEtZTA0Nzg5MzA0OWZkXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/dAnsPyhLgo4Cx4QBqAZJs9AcoRd.jpg",
     "details": {
+        "Stars": [
+            "Petteri Sallinen",
+            "Carl-Kristian Rundman",
+            "Tuula Amberla"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Peter Lindholm"
+        ],
+        "Runtime": [
+            "72 min"
+        ],
+        "Director": [
+            "Peter Lindholm"
+        ],
         "Language": [
             "Finnish"
         ],
         "Release date": [
-            "October 24, 1986 (Finland)"
+            "1986-10-24"
         ],
         "Country of origin": [
             "Finland"
         ],
-        "Production company": [
+        "Production companies": [
             "PetFilms"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0391542/",
-            "name": "Peter Lindholm"
+            "name": "Peter Lindholm",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H12M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0391542/",
-            "name": "Peter Lindholm"
+            "name": "Peter Lindholm",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0137879/",
     "metascore": null,
-    "imdb_votes": 6,
+    "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.2/10 from 6 users",
-    "release_date": [],
+    "description": "Ana buys a recording studio in the Kill City neighborhood, whose former owner, \"Lare,\" has disappeared. The studio is broken into the following night, and a tape disappears. Ana is taken in for questioning by the police, who tell her that Lare was last seen at a hotel in London, where a suitcase full of money was found. After this, Ana is beaten unconscious near Kill City and becomes entangled in the world of crime.",
+    "imdb_rating": "0/10 from 0 users",
+    "release_date": [
+        {
+            "date": "1986-10-24",
+            "country": "Finland"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1986-10-24",
-    "imdb_rating_average": 7.2,
-    "update_at": "2025-06-26T05:07:52"
+    "original_title": "Kill City",
+    "imdb_rating_average": 0,
+    "update_at": "2026-11-07T12:07:14"
 }

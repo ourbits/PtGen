@@ -1,10 +1,15 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Barnum cirkuskungen",
+            "country": "Sweden"
+        }
+    ],
     "sid": "tt0090701",
     "name": "Barnum",
     "site": "imdb",
     "year": "1986",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Biography",
         "Drama"
@@ -12,75 +17,145 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000044/",
-            "name": "Burt Lancaster"
+            "name": "Burt Lancaster",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0778016/",
-            "name": "Hanna Schygulla"
+            "name": "Hanna Schygulla",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0740070/",
-            "name": "John Roney"
+            "name": "John Roney",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0711220/",
+            "name": "Sandor Raski",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0540593/",
+            "name": "Patty Maloney",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0696230/",
+            "name": "Laura Press",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0084113/",
+            "name": "Kirsten Bishop",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0383449/",
+            "name": "Michael Higgins",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0301874/",
+            "name": "Lorena Gale",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0359356/",
+            "name": "Deborah Hancock",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWM1YmIwZTctMmFiZi00MjZjLWIxZmMtNWE0OTRhMGE3MDNhXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/4drf6DJQxBzXD21fgUP4jxlc3Fp.jpg",
     "details": {
+        "Stars": [
+            "Burt Lancaster",
+            "Hanna Schygulla",
+            "John Roney"
+        ],
+        "Genres": [
+            "Biography",
+            "Drama"
+        ],
+        "Writer": [
+            "Michael Norell",
+            "Andy Siegel"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Lee Philips"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 30, 1986 (United States)"
+            "1986-11-30"
         ],
-        "Also known as": [
-            "The Life of Barnum"
-        ],
-        "Filming locations": [
-            "Parc Angrignon, located at Montréal, Québec, Canada"
-        ],
-        "Countries of origin": [
-            "United Kingdom",
-            "Canada"
+        "Country of origin": [
+            "United States of America"
         ],
         "Production companies": [
-            "Robert Halmi",
-            "Filmline International"
+            "Filmline International",
+            "Halcyon Studios"
         ]
     },
-    "reviews": 8,
+    "reviews": 0,
+    "tagline": "A Sucker is Born Every Minute!",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0635260/",
-            "name": "Michael Norell"
+            "name": "Michael Norell",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0796896/",
-            "name": "Andy Siegel"
+            "name": "Andy Siegel",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
     "keywords": [
-        "character name as title",
-        "p.t. barnum character",
-        "grandfather grandson relationship",
-        "island",
-        "imagination"
+        "circus",
+        "biography",
+        "family"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0680097/",
-            "name": "Lee Philips"
+            "name": "Lee Philips",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0090701/",
     "metascore": null,
-    "imdb_votes": 253,
+    "imdb_votes": 263,
     "popularity": 0,
     "description": "The amazing biography of legendary circus impresario and unparalleled showman, P.T. Barnum.",
-    "imdb_rating": "6.4/10 from 253 users",
-    "release_date": [],
-    "contentRating": null,
+    "imdb_rating": "6.4/10 from 263 users",
+    "release_date": [
+        {
+            "date": "1986-11-30",
+            "country": "Canada"
+        },
+        {
+            "date": "1988-06-27",
+            "country": "Germany"
+        },
+        {
+            "date": "1986-11-30",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "1986-11-30",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "G",
     "datePublished": "1986-11-30",
+    "original_title": "Barnum",
     "imdb_rating_average": 6.4,
-    "update_at": "2025-08-07T13:49:29"
+    "update_at": "2026-11-07T05:42:08"
 }
