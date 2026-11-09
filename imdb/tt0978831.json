@@ -4,68 +4,88 @@
     "name": "Rotten Apple",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1519540/",
-            "name": "Nathaniel Gleed"
+            "name": "Nathaniel Gleed",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1377017/",
-            "name": "Glenn Conroy"
+            "name": "Glenn Conroy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2742838/",
-            "name": "Tania Kereishi"
+            "name": "Tania Kereishi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2116419/",
+            "name": "Gregg Sulkin",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjdiOGY3YjUtODY4Yi00MDEyLWJlMDUtZGYwODc2YmFmMmZmXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Nathaniel Gleed",
+            "Glenn Conroy",
+            "Tania Kereishi"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Ralitza Petrova"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Ralitza Petrova"
         ],
         "Release date": [
-            "February 10, 2007 (Germany)"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Production company": [
-            "Picture on the Wall"
+            "2007"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2432218/",
-            "name": "Ralitza Petrova"
+            "name": "Ralitza Petrova",
+            "@type": "Person"
         }
     ],
     "duration": "PT15M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2432218/",
-            "name": "Ralitza Petrova"
+            "name": "Ralitza Petrova",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0978831/",
     "metascore": null,
-    "imdb_votes": 29,
+    "imdb_votes": 30,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "6.8/10 from 29 users",
+    "imdb_rating": "6.8/10 from 30 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2007-02-10",
+    "datePublished": "2007",
+    "original_title": "Rotten Apple",
     "imdb_rating_average": 6.8,
-    "update_at": "2025-05-22T18:16:02"
+    "update_at": "2026-11-08T18:28:24"
 }

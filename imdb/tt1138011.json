@@ -4,7 +4,7 @@
     "name": "The Verdict",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Drama"
@@ -12,68 +12,105 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2754622/",
-            "name": "Omar Farook Alvi"
+            "name": "Omar Farook Alvi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000749/",
-            "name": "Mädchen Amick"
+            "name": "Mädchen Amick",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0063800/",
-            "name": "Noah Bean"
+            "name": "Noah Bean",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0066616/",
+            "name": "Chris Beetem",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1384284/",
+            "name": "Lee Burkett",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2592686/",
+            "name": "Jennifer Butler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0132301/",
+            "name": "Christian Campbell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0132499/",
+            "name": "Gregory R. Campbell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3625048/",
+            "name": "Steven Carey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2490771/",
+            "name": "Garrett Ching",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Omar Farook Alvi",
+            "Mädchen Amick",
+            "Noah Bean"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "Jon Maas"
+        ],
+        "Director": [
+            "Mark Piznarski"
         ],
         "Release date": [
-            "June 6, 2008 (United States)"
-        ],
-        "Also known as": [
-            "Вердикт"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Philadelphia, Pennsylvania, USA"
-        ],
-        "Production company": [
-            "Lionsgate Television"
+            "2008"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0530988/",
-            "name": "Jon Maas"
+            "name": "Jon Maas",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "trial",
-        "unsold tv series pilot",
-        "tv series pilot",
-        "tv pilot not ordered to series"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0686184/",
-            "name": "Mark Piznarski"
+            "name": "Mark Piznarski",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1138011/",
     "metascore": null,
-    "imdb_votes": 36,
+    "imdb_votes": 37,
     "popularity": 0,
-    "description": "An up-and-coming assistant D.A. is handed her first big case: the trial of a pop star who has been accused of having her lover killed.",
-    "imdb_rating": "8.4/10 from 36 users",
+    "description": null,
+    "imdb_rating": "8.6/10 from 37 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2008-06-06",
-    "imdb_rating_average": 8.4,
-    "update_at": "2025-07-07T09:39:22"
+    "datePublished": "2008",
+    "original_title": "The Verdict",
+    "imdb_rating_average": 8.6,
+    "update_at": "2026-11-08T17:28:23"
 }

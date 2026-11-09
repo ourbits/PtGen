@@ -4,7 +4,7 @@
     "name": "Ungesühnt",
     "site": "imdb",
     "year": "2010",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Thriller"
@@ -12,63 +12,120 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0469455/",
-            "name": "Ann-Kathrin Kramer"
+            "name": "Ann-Kathrin Kramer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0067038/",
-            "name": "Klaus J. Behrendt"
+            "name": "Klaus J. Behrendt",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0115821/",
-            "name": "Christian Bruhn"
+            "name": "Christian Bruhn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0257151/",
+            "name": "Tina Engel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1384908/",
+            "name": "Rosa Enskat",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0359749/",
+            "name": "Michael Hanemann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1002721/",
+            "name": "Jörg Hartmann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0405583/",
+            "name": "Wolfgang Häntsch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0508996/",
+            "name": "Simon Licht",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0644295/",
+            "name": "Tobias Oertel",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTNmNTI1ZGQtNGQzMC00NWE4LWEwZmItZTM0NzU3YzhhZDZmXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Ann-Kathrin Kramer",
+            "Klaus J. Behrendt",
+            "Christian Bruhn"
+        ],
+        "Genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "Writer": [
+            "Detlef Michel"
+        ],
+        "Director": [
+            "Thorsten Näter"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "April 12, 2010 (Germany)"
+            "2010-04-11"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Filming locations": [
-            "Berlin, Germany"
-        ],
         "Production companies": [
-            "JoJo Film und Fernsehproduktion",
-            "Zweites Deutsches Fernsehen (ZDF)"
+            "JoJo Film- und Fernsehproduktions GmbH",
+            "ZDF"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0584817/",
-            "name": "Detlef Michel"
+            "name": "Detlef Michel",
+            "@type": "Person"
         }
     ],
-    "duration": null,
-    "keywords": [
-        ""
-    ],
+    "duration": "PT1H30M",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0639007/",
-            "name": "Thorsten Näter"
+            "name": "Thorsten Näter",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1510851/",
     "metascore": null,
     "imdb_votes": 35,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "4.9/10 from 35 users",
-    "release_date": [],
+    "description": "Als sie den Angeklagten Robin Böhme (Simon Licht) zum ersten Mal Auge in Auge sieht, bricht die Staatsanwältin Esther Dorwald (Ann-Kathrin Kramer) unter Schock zusammen. Sie hat in ihm den Mann wieder erkannt, der sie vor etwa zwanzig Jahren im Park überfiel und schwer sexuell demütigte und nötigte. Damals waren die Ermittlungen im Sande verlaufen, jetzt ist der Geschäftsmann wegen Waffenhandel und Mord angeklagt. Die Staatsanwältin will ihn zur Rechenschaft ziehen lassen, muss jedoch feststellen, dass die Tat verjährt ist. Der aktuelle Prozess gegen ihn droht ebenfalls zu platzen. Verzweifelt setzt Esther alle Hebel in Bewegung, riskiert den Bruch mit ihrem Mann Lukas (Klaus J. Behrendt) und schreckt auch vor illegalen Maßnahmen nicht zurück, um Robin Böhme dingfest zu machen.",
+    "imdb_rating": "4.8/10 from 35 users",
+    "release_date": [
+        {
+            "date": "2010-04-11",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2010-04-12",
-    "imdb_rating_average": 4.9,
-    "update_at": "2025-07-21T05:57:51"
+    "datePublished": "2010-04-11",
+    "original_title": "Ungesühnt",
+    "imdb_rating_average": 4.8,
+    "update_at": "2026-11-09T01:07:28"
 }

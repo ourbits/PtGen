@@ -4,7 +4,7 @@
     "name": "Terry",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Biography",
         "Drama"
@@ -12,67 +12,136 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0039162/",
-            "name": "Shawn Ashmore"
+            "name": "Shawn Ashmore",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1222820/",
-            "name": "Ryan McDonald"
+            "name": "Ryan McDonald",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0717383/",
-            "name": "Noah Reid"
+            "name": "Noah Reid",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0330438/",
+            "name": "Matt Gordon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0228324/",
+            "name": "Catherine Disher",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0399126/",
+            "name": "David Huband",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0124666/",
+            "name": "Adam Butcher",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0444534/",
+            "name": "David Keeley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0531932/",
+            "name": "Shauna MacDonald",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0493327/",
+            "name": "Shannon Lawson",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzk3NmQ2MmYtM2NiYi00Y2QwLWE2NDQtNGY3NzljMTA3ZGFlXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/mBqSpRGm1qVoDSIJ3G4l5vsPAOm.jpg",
     "details": {
+        "Stars": [
+            "Shawn Ashmore",
+            "Ryan McDonald",
+            "Noah Reid"
+        ],
+        "Genres": [
+            "Biography",
+            "Drama"
+        ],
+        "Writer": [
+            "Dennis Foon"
+        ],
+        "Runtime": [
+            "88 min"
+        ],
+        "Director": [
+            "Don McBrearty"
+        ],
         "Language": [
-            "English"
+            "English",
+            "French"
         ],
         "Release date": [
-            "September 11, 2005 (Canada)"
+            "2005-09-11"
         ],
         "Country of origin": [
             "Canada"
         ],
-        "Filming locations": [
-            "Charlottetown, Prince Edward Island, Canada"
-        ],
         "Production companies": [
             "Shaftesbury Films",
-            "Shaftesbury Heroes"
+            "CTV"
         ]
     },
-    "reviews": 17,
+    "reviews": 0,
+    "tagline": "On April 12, 1980, Terry Fox set out on the Marathon of Hope and raised the spirit of a nation. This is his story.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0285168/",
-            "name": "Dennis Foon"
+            "name": "Dennis Foon",
+            "@type": "Person"
         }
     ],
-    "duration": "PT2H",
+    "duration": "PT1H28M",
     "keywords": [
-        "character name as title",
-        "terry fox character",
-        "one word title",
-        "forename as title",
-        "marathon"
+        "melancholy",
+        "biography",
+        "marathon",
+        "cancer",
+        "historical",
+        "disabled",
+        "fundraising",
+        "long distance running",
+        "gentle",
+        "hopeful",
+        "optimistic"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0564260/",
-            "name": "Don McBrearty"
+            "name": "Don McBrearty",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0467697/",
     "metascore": null,
-    "imdb_votes": 552,
+    "imdb_votes": 569,
     "popularity": 0,
-    "description": "The story of Terry Fox&apos;s unprecendented cross-Canada marathon on an artificial leg for cancer research that made him a national hero.",
-    "imdb_rating": "7.7/10 from 552 users",
-    "release_date": [],
+    "description": "\"Terry\" tells the story of 21-year old amputee Terry Fox who attempted to run across Canada with only one leg. Unfortunately, he only made it to Thunder Bay, Ontario when he died, one month before his 23rd birthday yet his memories will live on forever in the hearts of Canadians everywhere.",
+    "imdb_rating": "7.7/10 from 569 users",
+    "release_date": [
+        {
+            "date": "2005-09-11",
+            "country": "Canada"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2005-09-11",
+    "original_title": "Terry",
     "imdb_rating_average": 7.7,
-    "update_at": "2025-02-10T02:01:39"
+    "update_at": "2026-11-08T08:35:06"
 }

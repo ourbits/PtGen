@@ -4,45 +4,102 @@
     "name": "Giorno segreto",
     "site": "imdb",
     "year": "1978",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0006573/",
-            "name": "Philippe Leroy"
+            "name": "Philippe Leroy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0687958/",
-            "name": "Rossana Podestà"
+            "name": "Rossana Podestà",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0778311/",
-            "name": "Erna Schürer"
+            "name": "Erna Schürer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0166706/",
+            "name": "Marino Masé",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0097392/",
+            "name": "Christian Borromeo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0143303/",
+            "name": "Luigi Casellato",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0550386/",
+            "name": "Claudia Marsani",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1330423/",
+            "name": "Valentina Fortunato",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Italian"
+        "Stars": [
+            "Philippe Leroy",
+            "Rossana Podestà",
+            "Erna Schürer"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Aglauco Casadio",
+            "Raimondo Del Balzo",
+            "Rodolfo Doni"
+        ],
+        "Director": [
+            "Raimondo Del Balzo"
         ],
         "Release date": [
-            "December 19, 1978 (Italy)"
-        ],
-        "Country of origin": [
-            "Italy"
-        ],
-        "Production company": [
-            "RAI Radiotelevisione Italiana"
+            "1978"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0142711/",
+            "name": "Aglauco Casadio",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0215347/",
+            "name": "Raimondo Del Balzo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2410818/",
+            "name": "Rodolfo Doni",
+            "@type": "Person"
+        }
+    ],
     "duration": null,
-    "keywords": [
-        "tv mini series"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0215347/",
+            "name": "Raimondo Del Balzo",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0874547/",
     "metascore": null,
@@ -52,7 +109,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1978-12-19",
+    "datePublished": "1978",
+    "original_title": "Giorno segreto",
     "imdb_rating_average": 0,
-    "update_at": "2025-03-19T01:55:55"
+    "update_at": "2026-11-09T00:28:06"
 }

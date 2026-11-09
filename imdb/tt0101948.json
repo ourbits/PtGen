@@ -4,70 +4,137 @@
     "name": "The Ghosts of Oxford Street",
     "site": "imdb",
     "year": "1991",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Music"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0429367/",
-            "name": "Tom Jones"
+            "name": "Tom Jones",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0640521/",
-            "name": "Sinéad O&apos;Connor"
+            "name": "Sinéad O'Connor",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1176474/",
-            "name": "Rowetta"
+            "name": "Rowetta",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0753145/",
+            "name": "Shaun Ryder",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3081963/",
+            "name": "Rebel MC",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0532287/",
+            "name": "Shane MacGowan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0531533/",
+            "name": "Kirsty MacColl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0510772/",
+            "name": "Alison Limerick",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0022904/",
+            "name": "John Altman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0109465/",
+            "name": "Bryony Brind",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjNlZDYwYzMtOWRiNy00NjEyLTlmYzQtMzFiNTdlNjJlMjBkXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/2zAxPCYmen3b2LSfj3HFqHz2ADa.jpg",
     "details": {
+        "Stars": [
+            "Tom Jones",
+            "Sinéad O'Connor",
+            "Rowetta"
+        ],
+        "Genres": [
+            "Music"
+        ],
+        "Writer": [
+            "Rebecca Frayn",
+            "Malcolm McLaren"
+        ],
+        "Runtime": [
+            "53 min"
+        ],
+        "Director": [
+            "Malcolm McLaren"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "December 25, 1991 (United Kingdom)"
+            "1991-12-25"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Production company": [
+        "Production companies": [
             "Middlemarch Films"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0292451/",
-            "name": "Rebecca Frayn"
+            "name": "Rebecca Frayn",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0572229/",
-            "name": "Malcolm McLaren"
+            "name": "Malcolm McLaren",
+            "@type": "Person"
         }
     ],
     "duration": "PT53M",
     "keywords": [
-        ""
+        "london, england",
+        "christmas"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0572229/",
-            "name": "Malcolm McLaren"
+            "name": "Malcolm McLaren",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0101948/",
     "metascore": null,
-    "imdb_votes": 54,
+    "imdb_votes": 58,
     "popularity": 0,
-    "description": "Join The Happy Mondays, Rebel MC, Sir Tom Jones, Sinead O&apos;Connor, The Pogues, and Kirsty MacColl in a musical celebration of Oxford Street, this retail mecca and its history.",
-    "imdb_rating": "7.6/10 from 54 users",
-    "release_date": [],
+    "description": "Malcolm McLaren, writes, directs and narrates the \"history\" of Oxford Street. With musical performances by The Pogues and Kirsty MacColl, Tom Jones, Sinead O'Connor, Happy Mondays and more.",
+    "imdb_rating": "7.5/10 from 58 users",
+    "release_date": [
+        {
+            "date": "1991-12-25",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1991-12-25",
-    "imdb_rating_average": 7.6,
-    "update_at": "2025-08-16T12:00:18"
+    "original_title": "The Ghosts of Oxford Street",
+    "imdb_rating_average": 7.5,
+    "update_at": "2026-11-08T21:00:20"
 }

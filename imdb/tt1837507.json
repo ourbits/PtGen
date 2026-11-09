@@ -4,78 +4,102 @@
     "name": "Anima",
     "site": "imdb",
     "year": "2013",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Sci-Fi"
+        "Sci-Fi",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1285178/",
-            "name": "Henry Nixon"
+            "name": "Henry Nixon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0382890/",
-            "name": "Katherine Hicks"
+            "name": "Katherine Hicks",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3503950/",
-            "name": "Karl Beattie"
+            "name": "Karl Beattie",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3049546/",
+            "name": "Laura Brent",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1353449/",
+            "name": "Aaron Scully",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTg4NTg1NzM3OF5BMl5BanBnXkFtZTcwMTMzNjQ2Nw@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/cdTYFcysK4Ldy4lns3I737dNmY7.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Henry Nixon",
+            "Katherine Hicks",
+            "Karl Beattie"
+        ],
+        "Genres": [
+            "Sci-Fi",
+            "Short"
+        ],
+        "Writer": [
+            "Scott Mannion"
+        ],
+        "Runtime": [
+            "13 min"
+        ],
+        "Director": [
+            "Scott Mannion"
         ],
         "Release date": [
-            "February 2, 2013 (France)"
-        ],
-        "Official sites": [
-            "Official Facebook - http://www.facebook.com/groups/159323147435158/",
-            "Official site - http://www.animafilm.com.au/"
+            "2013-02-02"
         ],
         "Country of origin": [
             "Australia"
         ],
-        "Filming locations": [
-            "Blue Mountains, New South Wales, Australia"
-        ],
-        "Production company": [
+        "Production companies": [
             "Singularity Films"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": "Escape. This. Life.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3408447/",
-            "name": "Scott Mannion"
+            "name": "Scott Mannion",
+            "@type": "Person"
         }
     ],
     "duration": "PT13M",
-    "keywords": [
-        "computer",
-        "australian science fiction",
-        "mind uploading",
-        "aurora",
-        "telescope"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3408447/",
-            "name": "Scott Mannion"
+            "name": "Scott Mannion",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1837507/",
     "metascore": null,
-    "imdb_votes": 181,
+    "imdb_votes": 180,
     "popularity": 0,
     "description": "Reality blurs as a rogue scientist struggles to keep his terminal wife alive inside a computer system.",
-    "imdb_rating": "7/10 from 181 users",
-    "release_date": [],
-    "contentRating": "G",
+    "imdb_rating": "7.0/10 from 180 users",
+    "release_date": [
+        {
+            "date": "2013-02-02",
+            "country": "France"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2013-02-02",
-    "imdb_rating_average": 7,
-    "update_at": "2025-05-28T19:13:09"
+    "original_title": "Anima",
+    "imdb_rating_average": 7.0,
+    "update_at": "2026-11-08T19:14:19"
 }

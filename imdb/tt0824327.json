@@ -6,37 +6,60 @@
     "year": "2006",
     "@type": "Movie",
     "genre": [
-        "Documentary",
         "Action",
+        "Documentary",
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1197165/",
-            "name": "Francesco Casisa"
+            "name": "Francesco Casisa",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2406612/",
-            "name": "Pino Corrado"
+            "name": "Pino Corrado",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1006993/",
-            "name": "Donatella Finocchiaro"
+            "name": "Donatella Finocchiaro",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0563496/",
+            "name": "Marcello Mazzarella",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjVkZGE2MzktYTBjMi00OTdiLWExOTMtY2IyZTYyODBmZWYzXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/cRVvKlBxAZO1oyWSfgRtK00FTmP.jpg",
     "details": {
+        "Stars": [
+            "Francesco Casisa",
+            "Pino Corrado",
+            "Donatella Finocchiaro"
+        ],
+        "Genres": [
+            "Action",
+            "Documentary",
+            "Drama"
+        ],
+        "Writer": [
+            "Marco Amenta",
+            "Andrea Purgatori"
+        ],
+        "Director": [
+            "Marco Amenta"
+        ],
         "Language": [
             "Italian"
         ],
         "Release date": [
-            "March 31, 2006 (Italy)"
-        ],
-        "Also known as": [
-            "Das Phantom von Corleone"
+            "2006-03-31"
         ],
         "Country of origin": [
+            "France",
             "Italy"
         ],
         "Production companies": [
@@ -46,35 +69,43 @@
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0024617/",
-            "name": "Marco Amenta"
+            "name": "Marco Amenta",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0700865/",
-            "name": "Andrea Purgatori"
+            "name": "Andrea Purgatori",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "mafia"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0024617/",
-            "name": "Marco Amenta"
+            "name": "Marco Amenta",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0824327/",
     "metascore": null,
-    "imdb_votes": 78,
+    "imdb_votes": 79,
     "popularity": 0,
-    "description": "This film tells the story of mafia boss of bosses Bernardo Provenzano, on the run for 43 years, who became known as the Phantom of Corleone.",
-    "imdb_rating": "7.4/10 from 78 users",
-    "release_date": [],
+    "description": "The film is an investigation that punctually reconstructs the story of the boss of bosses Bernardo Provenzano: from his rise to the top of the dome to the end of his very long fugitive life. An intense and painful road movie among disturbing testimonies, trial depositions, statements by judges, lawyers and investigators, punctuated by chase scenes reconstructed with the pace of a thriller. The Cosa Nostra chief's 40-year fugitance comes to an end on April 11, 2006, when Provenzano is arrested in a cottage near Corleone.",
+    "imdb_rating": "7.3/10 from 79 users",
+    "release_date": [
+        {
+            "date": "2006-03-31",
+            "country": "Italy"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2006-03-31",
-    "imdb_rating_average": 7.4,
-    "update_at": "2025-03-09T18:35:35"
+    "original_title": "Il fantasma di Corleone",
+    "imdb_rating_average": 7.3,
+    "update_at": "2026-11-08T14:49:33"
 }

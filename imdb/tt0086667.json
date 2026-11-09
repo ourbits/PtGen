@@ -4,65 +4,135 @@
     "name": "The Barchester Chronicles",
     "site": "imdb",
     "year": "1982",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000587/",
-            "name": "Donald Pleasence"
+            "name": "Donald Pleasence",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0561446/",
-            "name": "Janet Maw"
+            "name": "Janet Maw",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001329/",
-            "name": "Nigel Hawthorne"
+            "name": "Nigel Hawthorne",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0687081/",
+            "name": "Angela Pleasence",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0283409/",
+            "name": "Barbara Flynn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0842578/",
+            "name": "Clive Swift",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000614/",
+            "name": "Alan Rickman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0568603/",
+            "name": "Geraldine McEwan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0358925/",
+            "name": "Susan Hampshire",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0249569/",
+            "name": "Susan Edmonstone",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODlhZmUxODgtNGNkNy00M2VkLWEwZDUtYTUzZWQ3NWNiZWQ3XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/15rdkXySD18fm49x8VMH8PjSbKR.jpg",
     "details": {
+        "Stars": [
+            "Donald Pleasence",
+            "Janet Maw",
+            "Nigel Hawthorne"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Alan Plater",
+            "Anthony Trollope"
+        ],
+        "Runtime": [
+            "385 min"
+        ],
+        "Director": [
+            "David Giles"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 10, 1982 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Барчестерские хроники"
+            "1982-11-10"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Filming locations": [
-            "Peterborough Cathedral, Peterborough, Cambridgeshire, England, UK"
-        ],
-        "Production company": [
-            "British Broadcasting Corporation (BBC)"
+        "Production companies": [
+            "BBC"
         ]
     },
-    "reviews": 23,
-    "creators": [],
-    "duration": null,
+    "reviews": 0,
+    "tagline": "Donald Pleasence is the clergyman at the centre of a scandal.",
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0686786/",
+            "name": "Alan Plater",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0873432/",
+            "name": "Anthony Trollope",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT6H25M",
     "keywords": [
-        "henpecked husband",
-        "bishop",
-        "tv mini series",
-        "slapped in the face",
+        "based on novel or book",
+        "miniseries",
+        "period drama",
+        "19th century",
         "church of england"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0318448/",
+            "name": "David Giles",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0086667/",
     "metascore": null,
-    "imdb_votes": 1279,
+    "imdb_votes": 1355,
     "popularity": 0,
-    "description": "When a crusade against the Church of England&apos;s practice of self-enrichment misfires, scandal taints the cozy community of Barchester when their local church becomes the object of a scathing, investigative report.",
-    "imdb_rating": "8.1/10 from 1279 users",
+    "description": "The Barchester Chronicles is a 1982 BBC television serial produced by Jonathan Powell and dramatised by Alan Plater, based on Anthony Trollope's first two Chronicles of Barsetshire, The Warden (1855) and Barchester Towers (1857).\n\nAgainst the sumptuous background of Peterborough Cathedral and its environs, one is carried into Trollope's world of the intriguing machinations of the clerical establishment of Barchester. Backed by the authenticity of the period detail, the portrayal of all the characters accurately conveys the whole range of human emotions within the stories.",
+    "imdb_rating": "8.1/10 from 1355 users",
     "release_date": [],
     "contentRating": null,
     "datePublished": "1982-11-10",
+    "original_title": "The Barchester Chronicles",
     "imdb_rating_average": 8.1,
-    "update_at": "2025-07-27T19:00:50"
+    "update_at": "2026-11-08T11:00:23"
 }

@@ -4,85 +4,149 @@
     "name": "Frozen in Love",
     "site": "imdb",
     "year": "2018",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Romance"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000337/",
-            "name": "Rachael Leigh Cook"
+            "name": "Rachael Leigh Cook",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2473076/",
-            "name": "Niall Matter"
+            "name": "Niall Matter",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3637261/",
-            "name": "Sandy Sidhu"
+            "name": "Sandy Sidhu",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5073287/",
+            "name": "Madison Ryne Smith",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0319320/",
+            "name": "Tammy Gillis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0389623/",
+            "name": "Susan Hogan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0533227/",
+            "name": "Keith MacKechnie",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3527541/",
+            "name": "Victor Zinck Jr.",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8757966/",
+            "name": "Mason McKenzie",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1754396/",
+            "name": "Darla Fay",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzI5ZTVkMDYtOWU0MS00NzlmLTllNDItMmI3NjU5ZmYwZWRiXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/iF7hEneMVFET1XebgmMqfTLaM6r.jpg",
     "details": {
+        "Stars": [
+            "Rachael Leigh Cook",
+            "Niall Matter",
+            "Sandy Sidhu"
+        ],
+        "Genres": [
+            "Romance"
+        ],
+        "Writer": [
+            "Rick Garman",
+            "Rachael Leigh Cook"
+        ],
+        "Runtime": [
+            "84 min"
+        ],
+        "Director": [
+            "Scott Smith"
+        ],
         "Language": [
+            "German",
             "English"
         ],
         "Release date": [
-            "January 13, 2018 (United States)"
-        ],
-        "Also known as": [
-            "Замерзлі в коханні"
-        ],
-        "Official site": [
-            "The Hallmark Channel (United States) - http://www.hallmarkchannel.com/frozen-in-love"
+            "2018-01-13"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Revelstoke Mountain Resort, British Columbia, Canada"
+            "Canada",
+            "United States of America"
         ],
         "Production companies": [
-            "Muse Entertainment Enterprises",
-            "Frozen Love Productions (Van)",
-            "Head First Productions"
+            "Head First Productions",
+            "Muse Entertainment"
         ]
     },
-    "reviews": 33,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm7837495/",
-            "name": "Rick Garman"
+            "name": "Rick Garman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000337/",
-            "name": "Rachael Leigh Cook"
+            "name": "Rachael Leigh Cook",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H24M",
     "keywords": [
-        "book store owner",
-        "ice hockey player",
-        "public relations",
-        "junior hockey",
-        "anniversary party"
+        "winter",
+        "ice hockey",
+        "book store"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0002433/",
-            "name": "Scott Smith"
+            "name": "Scott Smith",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt7756492/",
     "metascore": null,
-    "imdb_votes": 2449,
+    "imdb_votes": 2629,
     "popularity": 0,
-    "description": "Bad boy hockey player Adam and struggling book-store owner Mary must work together to help rehabilitate each other&apos;s image. Their mutual animosity, and attraction, sees them struggle to achieve their goal.",
-    "imdb_rating": "6.6/10 from 2449 users",
-    "release_date": [],
-    "contentRating": "TV-G",
+    "description": "When struggling bookstore owner Mary and the bad boy of professional hockey, Adam, are teamed together to help facilitate an image makeover for the other, they soon realize that opposites attract and they find themselves unexpectedly frozen in love.",
+    "imdb_rating": "6.6/10 from 2629 users",
+    "release_date": [
+        {
+            "date": "2018-10-22",
+            "country": "Canada"
+        },
+        {
+            "date": "2018-10-16",
+            "country": "France"
+        },
+        {
+            "date": "2018-01-13",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2018-01-13",
+    "original_title": "Frozen in Love",
     "imdb_rating_average": 6.6,
-    "update_at": "2025-04-08T19:28:10"
+    "update_at": "2026-11-08T23:00:25"
 }

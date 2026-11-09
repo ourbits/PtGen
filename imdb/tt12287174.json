@@ -4,53 +4,103 @@
     "name": "Graduation",
     "site": "imdb",
     "year": "2020",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Drama"
+        "Drama",
+        "Family"
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWFmMDIwNjItOTYxZi00OGQ5LTkzMTAtNzIyZmQ0NzgyYWY1XkEyXkFqcGc@._V1_.jpg",
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm6828295/",
+            "name": "Todd Lien",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm9086114/",
+            "name": "Dylan J. Locke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10225747/",
+            "name": "Arthur Peng",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm9849317/",
+            "name": "Crystal J. Huang",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/mLjafe1zyCwaPR6ka21kHLXKgAK.jpg",
     "details": {
-        "Languages": [
-            "English",
-            "Chinese"
+        "Stars": [
+            "Todd Lien",
+            "Dylan J. Locke",
+            "Arthur Peng"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "Writer": [
+            "Robin Wang"
+        ],
+        "Runtime": [
+            "6 min"
+        ],
+        "Director": [
+            "Robin Wang"
+        ],
+        "Language": [
+            "Mandarin",
+            "English"
         ],
         "Release date": [
-            "September 30, 2020 (United States)"
-        ],
-        "Also known as": [
-            "親如一家"
-        ],
-        "Official site": [
-            "code: 508 - https://vimeo.com/411921015"
+            "2020-09-30"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Los Angeles, USA"
-        ],
-        "Production company": [
-            "University of Southern California (USC)"
+        "Production companies": [
+            "The University of Southern California"
         ]
     },
-    "reviews": 2,
-    "creators": [],
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm8974098/",
+            "name": "Robin Wang",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT6M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm8974098/",
+            "name": "Robin Wang",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt12287174/",
     "metascore": null,
-    "imdb_votes": 106,
+    "imdb_votes": 108,
     "popularity": 0,
-    "description": "Following a graduation celebration, four Chinese must navigate their relationship&apos;s future as dictated by the circumstances of life and their families.",
-    "imdb_rating": "7.6/10 from 106 users",
-    "release_date": [],
+    "description": "Following a graduation celebration, four Chinese must navigate their relationships' future as dictated by the circumstances of life and their families.",
+    "imdb_rating": "7.6/10 from 108 users",
+    "release_date": [
+        {
+            "date": "2020-09-30",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2020-09-30",
+    "original_title": "Graduation",
     "imdb_rating_average": 7.6,
-    "update_at": "2025-10-11T07:26:21"
+    "update_at": "2026-11-08T02:14:06"
 }

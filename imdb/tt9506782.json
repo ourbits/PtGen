@@ -4,60 +4,105 @@
     "name": "Comments - Away from keyboard",
     "site": "imdb",
     "year": "2017",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm8007356/",
-            "name": "Kevin Patzke"
+            "name": "Kevin Patzke",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0089647/",
-            "name": "Gabriele Blum"
+            "name": "Gabriele Blum",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2121108/",
-            "name": "Christian Schlemmer"
+            "name": "Christian Schlemmer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8364528/",
+            "name": "Benjamin Pfau",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11810890/",
+            "name": "Philipp Nazarov",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11810891/",
+            "name": "Malika-Hélène Berl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3518001/",
+            "name": "Jürgen Heimüller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11810892/",
+            "name": "Pablo Adamkiewitz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10056662/",
+            "name": "Jalal Mando",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11810893/",
+            "name": "Alaa Alhaidar",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzJhMTgxNDctNGQ4OS00MWMxLTg3ZDktMTBhMGQyYjY0MDRmXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/19x2knvQfhvXXOWO1CKzdeIzBa8.jpg",
     "details": {
+        "Stars": [
+            "Kevin Patzke",
+            "Gabriele Blum",
+            "Christian Schlemmer"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Jannis Alexander Kiefer"
+        ],
+        "Runtime": [
+            "5 min"
+        ],
+        "Director": [
+            "Jannis Alexander Kiefer"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "October 24, 2017 (Germany)"
-        ],
-        "Official sites": [
-            "Official Facebook - https://www.facebook.com/comments.ashortfilm",
-            "Official Site - https://www.deutschland.de/de/video-comments"
-        ],
-        "Country of origin": [
-            "Germany"
-        ],
-        "Production companies": [
-            "Filmuniversität Babelsberg Konrad Wolf",
-            "DFA Produktion"
+            "2017-10-24"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm10356430/",
-            "name": "Jannis Alexander Kiefer"
+            "name": "Jannis Alexander Kiefer",
+            "@type": "Person"
         }
     ],
     "duration": "PT5M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm10356430/",
-            "name": "Jannis Alexander Kiefer"
+            "name": "Jannis Alexander Kiefer",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt9506782/",
@@ -66,9 +111,15 @@
     "popularity": 0,
     "description": "A brief look at the German digital legacy told in four chapters.",
     "imdb_rating": "5.2/10 from 5 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2017-10-24",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2017-10-24",
+    "original_title": "Comments - Away from keyboard",
     "imdb_rating_average": 5.2,
-    "update_at": "2026-02-19T13:00:35"
+    "update_at": "2026-11-09T00:35:20"
 }

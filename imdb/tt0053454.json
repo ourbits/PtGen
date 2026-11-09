@@ -13,79 +13,131 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000896/",
-            "name": "Harry Belafonte"
+            "name": "Harry Belafonte",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0828447/",
-            "name": "Inger Stevens"
+            "name": "Inger Stevens",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0002072/",
-            "name": "Mel Ferrer"
+            "name": "Mel Ferrer",
+            "@type": "Person"
         }
     ],
-    "critic": 31,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjc2M2NmMGQtMDE3ZC00NThhLTk5MjAtY2Y5MTAwODI2OGYyXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/uMB51OAkdrAx7r1dztvLub6RyPJ.jpg",
     "details": {
-        "Languages": [
-            "English",
-            "French"
+        "Stars": [
+            "Harry Belafonte",
+            "Inger Stevens",
+            "Mel Ferrer"
+        ],
+        "Genres": [
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "Writer": [
+            "Ranald MacDougall",
+            "Ferdinand Reyher",
+            "M.P. Shiel"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "Ranald MacDougall"
+        ],
+        "Language": [
+            "French",
+            "English"
         ],
         "Release date": [
-            "May 1, 1959 (United States)"
-        ],
-        "Also known as": [
-            "The End of the World"
+            "1959-05-01"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Manhattan, New York City, New York, USA"
+            "United States of America"
         ],
         "Production companies": [
             "HarBel Productions",
-            "Sol C. Siegel Productions"
+            "Sol C. Siegel Productions",
+            "Metro-Goldwyn-Mayer"
         ]
     },
-    "reviews": 64,
+    "reviews": 0,
+    "tagline": "The Most Unusual Story Ever Told!",
     "creators": [
         {
-            "url": "https://www.imdb.com/name/nm0793149/",
-            "name": "M.P. Shiel"
+            "url": "https://www.imdb.com/name/nm0532030/",
+            "name": "Ranald MacDougall",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0721447/",
-            "name": "Ferdinand Reyher"
+            "name": "Ferdinand Reyher",
+            "@type": "Person"
         },
         {
-            "url": "https://www.imdb.com/name/nm0532030/",
-            "name": "Ranald MacDougall"
+            "url": "https://www.imdb.com/name/nm0793149/",
+            "name": "M.P. Shiel",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H35M",
     "keywords": [
+        "new york city",
         "jealousy",
-        "end of civilization",
-        "end of the world scenario",
-        "last people on earth",
-        "minimal cast"
+        "nuclear war",
+        "love triangle",
+        "post-apocalyptic future",
+        "nuclear holocaust",
+        "apocalypse",
+        "racism",
+        "black and white",
+        "haircut",
+        "cave in"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0532030/",
-            "name": "Ranald MacDougall"
+            "name": "Ranald MacDougall",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0053454/",
     "metascore": null,
-    "imdb_votes": 3634,
+    "imdb_votes": 4077,
     "popularity": 0,
-    "description": "A miner trapped in a cave-in resurfaces, and upon discovering mankind has been wiped out in a nuclear holocaust, sets out to find other survivors.",
-    "imdb_rating": "6.8/10 from 3634 users",
-    "release_date": [],
-    "contentRating": "Approved",
+    "description": "Ralph Burton is a miner who is trapped for several days as a result of a cave-in. When he finally manages to dig himself out, he realizes that all of mankind seems to have been destroyed in a nuclear holocaust. He travels to New York City only to find it deserted. Making a life for himself there, he is flabbergasted to eventually find Sarah Crandall, who also managed to survive. Together, they form a close friendship until the arrival of Benson Thacker who has managed to pilot his small boat into the city's harbor. At this point, tensions rise between the three, particularly between Thacker, who is white, and Burton, who is black.",
+    "imdb_rating": "6.8/10 from 4077 users",
+    "release_date": [
+        {
+            "date": "1959-09-11",
+            "country": "Germany"
+        },
+        {
+            "date": "2026-06-03",
+            "country": "France"
+        },
+        {
+            "date": "1959-08-21",
+            "country": "Italy"
+        },
+        {
+            "date": "1959-09-09",
+            "country": "Sweden"
+        },
+        {
+            "date": "1959-04-23",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "1959-05-01",
+    "original_title": "The World, the Flesh and the Devil",
     "imdb_rating_average": 6.8,
-    "update_at": "2025-02-03T03:35:08"
+    "update_at": "2026-11-08T16:07:28"
 }

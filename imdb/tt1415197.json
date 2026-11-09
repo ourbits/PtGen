@@ -4,77 +4,127 @@
     "name": "Gestreept",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3402487/",
-            "name": "Jonas Baeckeland"
+            "name": "Jonas Baeckeland",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5540605/",
-            "name": "Zouzou Ben Chikha"
+            "name": "Zouzou Ben Chikha",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0125552/",
-            "name": "Nand Buyl"
+            "name": "Nand Buyl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3400756/",
+            "name": "Fabrice Chan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3401456/",
+            "name": "Lukas Eliano",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0311655/",
+            "name": "Ina Geerts",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0374637/",
+            "name": "Blanka Heirman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2570023/",
+            "name": "Eline Kuppens",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3400706/",
+            "name": "Jana Roos",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1066829/",
+            "name": "Raf Walschaerts",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmJkNzFlMWUtNTY4MC00NTRkLWJhNjEtYTM4YjEwYjc0NDk2XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": null,
     "details": {
-        "Language": [
-            "Dutch"
+        "Stars": [
+            "Jonas Baeckeland",
+            "Zouzou Ben Chikha",
+            "Nand Buyl"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Jonas Baeckeland"
+        ],
+        "Runtime": [
+            "21 min"
+        ],
+        "Director": [
+            "Jonas Baeckeland",
+            "Toon Mertens"
         ],
         "Release date": [
-            "February 25, 2009 (Belgium)"
-        ],
-        "Also known as": [
-            "Stripes"
-        ],
-        "Country of origin": [
-            "Belgium"
-        ],
-        "Filming locations": [
-            "Antwerp, Flanders, Belgium"
-        ],
-        "Production company": [
-            "Men with Movie Cameras"
+            "2009-01-25"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3402487/",
-            "name": "Jonas Baeckeland"
+            "name": "Jonas Baeckeland",
+            "@type": "Person"
         }
     ],
     "duration": "PT21M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3402487/",
-            "name": "Jonas Baeckeland"
+            "name": "Jonas Baeckeland",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3400576/",
-            "name": "Toon Mertens"
+            "name": "Toon Mertens",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1415197/",
     "metascore": null,
     "imdb_votes": 12,
     "popularity": 0,
-    "description": "In a city with a cultural mix of nationalities, age and gender, eight complete strangers all have one thing in common; they feel trapped in their own city and in their own lives. A sprinkle of hope enters when a escaped zebra runs...",
+    "description": "In a city with a cultural mix of nationalities, age and gender, eight complete strangers all have one thing in common; they feel trapped in their own city and in their own lives. A sprinkle of hope enters when a escaped zebra runs free in the city. The eight strangers all are subconsciously enticed to catch this zebra. In doing so, their lives intertwine and are profoundly changed. This is a story about liberty, compassion and hope in modern times of troublesome existential thought.",
     "imdb_rating": "5.9/10 from 12 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2009-01-25",
+            "country": "Belgium"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2009-02-25",
+    "datePublished": "2009-01-25",
+    "original_title": "Gestreept",
     "imdb_rating_average": 5.9,
-    "update_at": "2025-07-11T15:00:16"
+    "update_at": "2026-11-08T22:42:07"
 }

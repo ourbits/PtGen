@@ -4,60 +4,105 @@
     "name": "Dienst am Kunden",
     "site": "imdb",
     "year": "1940",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0275829/",
-            "name": "Franz Fiedler"
+            "name": "Franz Fiedler",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0471123/",
-            "name": "Dorit Kreysler"
+            "name": "Dorit Kreysler",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0518577/",
-            "name": "Ludwig Manfred Lommel"
+            "name": "Ludwig Manfred Lommel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0712144/",
+            "name": "Lotte Rausch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0765642/",
+            "name": "Otto Sauter-Sarto",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0830751/",
+            "name": "Valeska Stock",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0853872/",
+            "name": "Horst Teetzmann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0861440/",
+            "name": "Hella Thornegg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0919208/",
+            "name": "Herbert Weissbach",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Franz Fiedler",
+            "Dorit Kreysler",
+            "Ludwig Manfred Lommel"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Richard Frenzel",
+            "Kurt Seifert"
+        ],
+        "Runtime": [
+            "18 min"
+        ],
+        "Director": [
+            "Alfred Stöger"
         ],
         "Release date": [
-            "February 21, 1940 (Germany)"
-        ],
-        "Country of origin": [
-            "Germany"
-        ],
-        "Production company": [
-            "Ulrich & Neuß K.U.-Filmproduktions- und Vertriebs-GmbH"
+            "1940"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1779956/",
-            "name": "Richard Frenzel"
+            "name": "Richard Frenzel",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0782506/",
-            "name": "Kurt Seifert"
+            "name": "Kurt Seifert",
+            "@type": "Person"
         }
     ],
     "duration": "PT18M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0836701/",
-            "name": "Alfred Stöger"
+            "name": "Alfred Stöger",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1265072/",
@@ -68,7 +113,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1940-02-21",
+    "datePublished": "1940",
+    "original_title": "Dienst am Kunden",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-01T14:42:17"
+    "update_at": "2026-11-08T03:42:08"
 }

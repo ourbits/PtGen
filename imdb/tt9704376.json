@@ -6,60 +6,72 @@
     "year": "2019",
     "@type": "TVEpisode",
     "genre": [
+        "Adventure",
         "Comedy",
-        "Sport",
-        "Talk-Show"
+        "Sport"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0165087/",
-            "name": "Jeremy Clarkson"
+            "name": "Jeremy Clarkson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1414369/",
-            "name": "Richard Hammond"
+            "name": "Richard Hammond",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0561982/",
-            "name": "James May"
+            "name": "James May",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmI4ZGQ2MWEtOThlMS00NTYyLTgyNzMtMTNmN2UxZDVhNWEzXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": null,
     "details": {
+        "Stars": [
+            "Jeremy Clarkson",
+            "Richard Hammond",
+            "James May"
+        ],
+        "Genres": [
+            "Adventure",
+            "Comedy",
+            "Sport"
+        ],
+        "Runtime": [
+            "91 min"
+        ],
+        "Director": [
+            "Phil Churchward"
+        ],
         "Release date": [
-            "December 13, 2019 (United Kingdom)"
-        ],
-        "Filming locations": [
-            "Siem Reap, Cambodia"
-        ],
-        "Production companies": [
-            "Expectation Entertainment",
-            "Television Interactive Network Agency",
-            "W. Chump & sons"
+            "2019"
         ]
     },
-    "reviews": 70,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT1H31M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1656402/",
-            "name": "Phil Churchward"
+            "name": "Phil Churchward",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt9704376/",
     "metascore": null,
-    "imdb_votes": 4561,
+    "imdb_votes": 4801,
     "popularity": 0,
-    "description": "The route begins in Cambodia at Siem Reap and then winds downriver to Tonlé Sap lake, before joining the Mekong Delta and sailing into Vietnam. The final port of call is Vung Tau, in south Vietnam.",
-    "imdb_rating": "8.6/10 from 4561 users",
+    "description": null,
+    "imdb_rating": "8.6/10 from 4801 users",
     "release_date": [],
-    "contentRating": "TV-MA",
-    "datePublished": "2019-12-13",
+    "contentRating": null,
+    "datePublished": "2019",
+    "original_title": "The Grand Tour Presents: Seamen",
     "imdb_rating_average": 8.6,
-    "update_at": "2025-02-21T09:14:07"
+    "update_at": "2026-11-08T16:35:41"
 }

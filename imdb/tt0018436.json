@@ -5,28 +5,88 @@
     "site": "imdb",
     "year": "1927",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0919624/",
+            "name": "Niles Welch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0482115/",
+            "name": "Alice Lake",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0792727/",
+            "name": "J. Barney Sherry",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0269265/",
+            "name": "Martin Faust",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0367440/",
+            "name": "Bert Harvey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0007221/",
+            "name": "Maurice Costello",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0725093/",
+            "name": "Edna Richmond",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Stars": [
+            "Niles Welch",
+            "Alice Lake",
+            "J. Barney Sherry"
+        ],
+        "Writer": [
+            "Charles Horan",
+            "H.G. Logalton"
+        ],
+        "Runtime": [
+            "46 min"
+        ],
+        "Director": [
+            "Wilfred Noy"
         ],
         "Release date": [
-            "May 1, 1927 (United States)"
-        ],
-        "Also known as": [
-            "Não Sejas Leviana"
-        ],
-        "Country of origin": [
-            "United States"
+            "1927"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0394524/",
+            "name": "Charles Horan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0517493/",
+            "name": "H.G. Logalton",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT46M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0637507/",
+            "name": "Wilfred Noy",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0018436/",
     "metascore": null,
@@ -36,7 +96,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1927-05-01",
+    "datePublished": "1927",
+    "original_title": "Spider Webs",
     "imdb_rating_average": 0,
-    "update_at": "2025-12-11T02:45:11"
+    "update_at": "2026-11-08T18:21:22"
 }

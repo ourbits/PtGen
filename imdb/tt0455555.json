@@ -4,7 +4,7 @@
     "name": "Inheritance",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Drama",
         "Short"
@@ -12,62 +12,84 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0576243/",
-            "name": "Richard Meese"
+            "name": "Richard Meese",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1884434/",
-            "name": "Robert Olufs"
+            "name": "Robert Olufs",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0949599/",
-            "name": "Harrison Young"
+            "name": "Harrison Young",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjE4ZDJiZmYtMTgyMC00N2VlLTkzMDktY2RlNDUyY2UwMjNiXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/2zvFxZzfJAAG8xxXt5hjW0HLK0w.jpg",
     "details": {
+        "Stars": [
+            "Richard Meese",
+            "Robert Olufs",
+            "Harrison Young"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Paul Cuoco"
+        ],
+        "Runtime": [
+            "9 min"
+        ],
+        "Director": [
+            "Paul Cuoco"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "April 8, 2005 (United States)"
-        ],
-        "Official site": [
-            "Official site - http://www.inheritance.notafraid.com/"
+            "2005-04-08"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Not Afraid! Productions"
+            "United States of America"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1887830/",
-            "name": "Paul Cuoco"
+            "name": "Paul Cuoco",
+            "@type": "Person"
         }
     ],
     "duration": "PT9M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1887830/",
-            "name": "Paul Cuoco"
+            "name": "Paul Cuoco",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0455555/",
     "metascore": null,
     "imdb_votes": 7,
     "popularity": 0,
-    "description": "In an impassioned message from the grave, one concentration camp Liberator forces us to remember the horror humanity is capable of. Utilizing actual photos from the Buchenwald concentration camp, and a soulful performance by Harri...",
+    "description": "In an impassioned message from the grave, one concentration camp Liberator forces us to remember the horror humanity is capable of. Utilizing actual photos from the Buchenwald concentration camp, and a soulful performance by Harrison Young, Inheritance is a gut-wrenching experience that not only informs, but puts the burden of defending humanity squarely on the viewer.",
     "imdb_rating": "7.3/10 from 7 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2005-04-08",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2005-04-08",
+    "original_title": "Inheritance",
     "imdb_rating_average": 7.3,
-    "update_at": "2025-09-22T07:14:05"
+    "update_at": "2026-11-08T23:49:05"
 }

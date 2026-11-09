@@ -3,6 +3,7 @@
     "sid": "tt3667662",
     "name": "Valle de Lobos",
     "site": "imdb",
+    "year": "",
     "@type": "Movie",
     "genre": [
         "Fantasy"
@@ -10,36 +11,45 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0316271/",
-            "name": "Adriano Giannini"
+            "name": "Adriano Giannini",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1417272/",
-            "name": "Gonzalo Valenzuela"
+            "name": "Gonzalo Valenzuela",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0300677/",
-            "name": "Romina Gaetani"
+            "name": "Romina Gaetani",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Spanish"
+        "Stars": [
+            "Adriano Giannini",
+            "Gonzalo Valenzuela",
+            "Romina Gaetani"
         ],
-        "Country of origin": [
-            "Argentina"
+        "Genres": [
+            "Fantasy"
+        ],
+        "Director": [
+            "Alex Tossenberger"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2572686/",
-            "name": "Alex Tossenberger"
+            "name": "Alex Tossenberger",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt3667662/",
@@ -50,7 +60,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "",
+    "original_title": "Valle de Lobos",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-07T23:42:08"
+    "update_at": "2026-11-08T16:49:06"
 }

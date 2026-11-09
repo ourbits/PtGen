@@ -4,7 +4,7 @@
     "name": "Järnvägshotellet",
     "site": "imdb",
     "year": "2003",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Crime",
         "Drama"
@@ -12,51 +12,122 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0527959/",
-            "name": "Rolf Lydahl"
+            "name": "Rolf Lydahl",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0648065/",
-            "name": "Ingela Olsson"
+            "name": "Ingela Olsson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0798852/",
-            "name": "Camaron Silverek"
+            "name": "Camaron Silverek",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0677429/",
+            "name": "Tord Peterson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0710658/",
+            "name": "Alexandra Rapaport",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0027615/",
+            "name": "Anders Andersson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0169531/",
+            "name": "Katharina Cohen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0543175/",
+            "name": "Bodil Mannheimer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1090326/",
+            "name": "Johannes Kuhnke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0121062/",
+            "name": "Per Burell",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDU4MjI4OGQtNGY3MS00YzY1LWIwODItZjI3OTBhY2M2NWI0XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/wPFBmt6ialv5VWJb8teM8hZGBmq.jpg",
     "details": {
+        "Stars": [
+            "Rolf Lydahl",
+            "Ingela Olsson",
+            "Camaron Silverek"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "Hans Rosenfeldt"
+        ],
+        "Runtime": [
+            "174 min"
+        ],
+        "Director": [
+            "Ella Lemhagen"
+        ],
         "Language": [
             "Swedish"
         ],
         "Release date": [
-            "February 10, 2003 (Sweden)"
+            "2003-02-10"
         ],
         "Country of origin": [
             "Sweden"
-        ],
-        "Filming locations": [
-            "Villa Lusthusporten, Djurgården, Stockholm, Stockholms län, Sweden"
-        ],
-        "Production company": [
-            "SVT Drama"
         ]
     },
     "reviews": 0,
-    "creators": [],
-    "duration": null,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0742577/",
+            "name": "Hans Rosenfeldt",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT2H54M",
     "keywords": [
-        "tv mini series"
+        "hotel",
+        "detective",
+        "skeleton",
+        "miniseries",
+        "murder mystery",
+        "hotel renovation",
+        "railway"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0501281/",
+            "name": "Ella Lemhagen",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0308448/",
     "metascore": null,
-    "imdb_votes": 69,
+    "imdb_votes": 85,
     "popularity": 0,
-    "description": "The body of a man is found walled up in an old hotel.",
-    "imdb_rating": "5.7/10 from 69 users",
+    "description": "A skeleton is discovered in a wall when an old railroad hotel is being renovated.",
+    "imdb_rating": "5.8/10 from 85 users",
     "release_date": [],
     "contentRating": null,
     "datePublished": "2003-02-10",
-    "imdb_rating_average": 5.7,
-    "update_at": "2025-04-09T19:55:39"
+    "original_title": "Järnvägshotellet",
+    "imdb_rating_average": 5.8,
+    "update_at": "2026-11-08T18:14:13"
 }

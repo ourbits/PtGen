@@ -1,10 +1,19 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Die Schreckensfahrt der Orion Star",
+            "country": "Germany"
+        },
+        {
+            "title": "Kreuzfahrt des Schreckens",
+            "country": "Germany"
+        }
+    ],
     "sid": "tt0155716",
     "name": "Voyage of Terror",
     "site": "imdb",
     "year": "1998",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Action",
         "Drama",
@@ -13,71 +22,133 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0905993/",
-            "name": "Lindsay Wagner"
+            "name": "Lindsay Wagner",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000461/",
-            "name": "Michael Ironside"
+            "name": "Michael Ironside",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000640/",
-            "name": "Martin Sheen"
+            "name": "Martin Sheen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001976/",
+            "name": "Horst Buchholz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0205657/",
+            "name": "William B. Davis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0410622/",
+            "name": "Katharine Isabelle",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0222294/",
+            "name": "Nathaniel DeVeaux",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0416404/",
+            "name": "David James Lewis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0045584/",
+            "name": "Steve Bacic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0014803/",
+            "name": "Andrew Airlie",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjBkNzg1NTgtZTA0Yi00Mjk5LTk0NTctNmQ5ZmNmMDNlODVkXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/6DRsXI0bQxGWM3rLECltbjLr0FH.jpg",
     "details": {
+        "Stars": [
+            "Lindsay Wagner",
+            "Michael Ironside",
+            "Martin Sheen"
+        ],
+        "Genres": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "Writer": [
+            "Mel Frohman"
+        ],
+        "Runtime": [
+            "89 min"
+        ],
+        "Director": [
+            "Brian Trenchard-Smith"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "June 20, 1998 (United States)"
-        ],
-        "Also known as": [
-            "Alarma en alta mar"
+            "1998-01-02"
         ],
         "Country of origin": [
-            "Canada"
-        ],
-        "Filming locations": [
-            "Vancouver, British Columbia, Canada"
+            "Canada",
+            "Germany",
+            "United States of America"
         ],
         "Production companies": [
-            "ARD Degeto Film",
+            "ARD Degeto",
             "Fox Family Channel",
             "Shavick Entertainment"
         ]
     },
-    "reviews": 8,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0296250/",
-            "name": "Mel Frohman"
+            "name": "Mel Frohman",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H29M",
     "keywords": [
-        "president",
-        "the white house washington d.c.",
-        "cruise",
-        "virus",
-        "ship"
+        "disaster"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0872062/",
-            "name": "Brian Trenchard-Smith"
+            "name": "Brian Trenchard-Smith",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0155716/",
     "metascore": null,
-    "imdb_votes": 458,
+    "imdb_votes": 495,
     "popularity": 0,
-    "description": "An infectious disease researcher is on a cruise with her daughter when an ebola-type virus attacks the ship&apos;s passengers and crew.",
-    "imdb_rating": "4.2/10 from 458 users",
-    "release_date": [],
-    "contentRating": "TV-PG",
-    "datePublished": "1998-06-20",
-    "imdb_rating_average": 4.2,
-    "update_at": "2025-02-24T12:45:10"
+    "description": "An infectious disease researcher is on a cruise with her daughter when an ebola-type virus attacks the ship's passengers and crew.",
+    "imdb_rating": "4.3/10 from 495 users",
+    "release_date": [
+        {
+            "date": "1998-01-02",
+            "country": "Germany"
+        },
+        {
+            "date": "1998-06-20",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1998-01-02",
+    "original_title": "Voyage of Terror",
+    "imdb_rating_average": 4.3,
+    "update_at": "2026-11-09T00:14:14"
 }

@@ -4,55 +4,103 @@
     "name": "Lives of the Infamous Comedy Blaps",
     "site": "imdb",
     "year": "2014",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000980/",
-            "name": "Jim Broadbent"
+            "name": "Jim Broadbent",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1019734/",
-            "name": "David Crow"
+            "name": "David Crow",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0278752/",
-            "name": "Peter Firth"
+            "name": "Peter Firth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2182353/",
+            "name": "Lydia Heights",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1377114/",
+            "name": "Jim Howick",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1169217/",
+            "name": "Oliver Maltman",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2IwMDJhNjQtMTE0NC00ZGVkLWE3NGUtZWZhOTJhY2Y5Nzg4XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Jim Broadbent",
+            "David Crow",
+            "Peter Firth"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "David Crow",
+            "Jim Howick",
+            "Oliver Maltman"
+        ],
+        "Director": [
+            "George Kane"
         ],
         "Release date": [
-            "October 6, 2014 (United Kingdom)"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Production company": [
-            "Big Talk Productions"
+            "2014"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm1019734/",
+            "name": "David Crow",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1377114/",
+            "name": "Jim Howick",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1169217/",
+            "name": "Oliver Maltman",
+            "@type": "Person"
+        }
+    ],
     "duration": null,
-    "keywords": [
-        "tv mini series"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm1753260/",
+            "name": "George Kane",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt4113244/",
     "metascore": null,
     "imdb_votes": 16,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "7.1/10 from 16 users",
+    "imdb_rating": "7.2/10 from 16 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2014-10-06",
-    "imdb_rating_average": 7.1,
-    "update_at": "2025-07-15T13:44:07"
+    "datePublished": "2014",
+    "original_title": "Lives of the Infamous Comedy Blaps",
+    "imdb_rating_average": 7.2,
+    "update_at": "2026-11-08T19:14:19"
 }

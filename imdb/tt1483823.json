@@ -4,63 +4,76 @@
     "name": "Ez-Chewie",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Romance"
+        "Romance",
+        "Sci-Fi"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3562099/",
-            "name": "Hunter Lee Keller"
+            "name": "Hunter Lee Keller",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2236184/",
-            "name": "Michael Longstreth"
+            "name": "Michael Longstreth",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3555188/",
-            "name": "Hannah Paulson"
+            "name": "Hannah Paulson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3554964/",
+            "name": "Rachel Pitt",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGMzODY2YTktMWRmMy00ZmJlLWFmZWYtMDA3ZDcxYmExOTgyXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Hunter Lee Keller",
+            "Michael Longstreth",
+            "Hannah Paulson"
+        ],
+        "Genres": [
+            "Comedy",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "Writer": [
+            "Cameron McCasland"
+        ],
+        "Runtime": [
+            "3 min"
+        ],
+        "Director": [
+            "Cameron McCasland"
         ],
         "Release date": [
-            "August 14, 2009 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "USA"
-        ],
-        "Production company": [
-            "McCasland Releasing"
+            "2009"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1813225/",
-            "name": "Cameron McCasland"
+            "name": "Cameron McCasland",
+            "@type": "Person"
         }
     ],
     "duration": "PT3M",
-    "keywords": [
-        "produced by director",
-        "written by director",
-        "hyphen in title",
-        "punctuation in title"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1813225/",
-            "name": "Cameron McCasland"
+            "name": "Cameron McCasland",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1483823/",
@@ -71,7 +84,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2009-08-14",
+    "datePublished": "2009",
+    "original_title": "Ez-Chewie",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-15T01:42:57"
+    "update_at": "2026-11-08T11:28:23"
 }
