@@ -4,74 +4,134 @@
     "name": "Der Vogelhändler",
     "site": "imdb",
     "year": "1968",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Music"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1368631/",
-            "name": "Peter Minich"
+            "name": "Peter Minich",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0691525/",
-            "name": "Lucia Popp"
+            "name": "Lucia Popp",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0391556/",
-            "name": "Renate Holm"
+            "name": "Renate Holm",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0230372/",
+            "name": "Karl Dönch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1150318/",
+            "name": "Ingrid Ohlenschläger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0778355/",
+            "name": "Ernst Schütz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0003586/",
+            "name": "Theo Lingen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0225888/",
+            "name": "Hans Jürgen Diedrich",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1654921/",
+            "name": "Otto Höpfner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0921149/",
+            "name": "Brigitte Wentzel",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Peter Minich",
+            "Lucia Popp",
+            "Renate Holm"
+        ],
+        "Genres": [
+            "Music"
+        ],
+        "Writer": [
+            "Wolfgang F. Henschel",
+            "Joachim Hess",
+            "Oliver Hassencamp"
+        ],
+        "Runtime": [
+            "120 min"
+        ],
+        "Director": [
+            "Joachim Hess"
         ],
         "Release date": [
-            "January 1, 1968 (West Germany)"
+            "1968-01-01"
         ],
         "Country of origin": [
-            "West Germany"
-        ],
-        "Production company": [
-            "Accord-Film"
+            "Germany"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0378069/",
-            "name": "Wolfgang F. Henschel"
+            "name": "Wolfgang F. Henschel",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0381481/",
-            "name": "Joachim Hess"
+            "name": "Joachim Hess",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0368460/",
-            "name": "Oliver Hassencamp"
+            "name": "Oliver Hassencamp",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0381481/",
-            "name": "Joachim Hess"
+            "name": "Joachim Hess",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1516067/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Christel and bird-dealer Adam have been engaged for years but their hopes evaporate when the Electoral Princess (in the guise of a servant) flirts with him while brash Stanislaus woos Christel who mistakes him for the Electoral Pr...",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1968-01-01",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1968-01-01",
+    "original_title": "Der Vogelhändler",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-29T19:15:15"
+    "update_at": "2026-11-09T22:49:07"
 }

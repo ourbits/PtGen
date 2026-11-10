@@ -4,40 +4,51 @@
     "name": "Unboxing",
     "site": "imdb",
     "year": "2024",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm13146554/",
-            "name": "Yoon Hyo-sik"
+            "name": "Yoon Hyo-sik",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm13278500/",
-            "name": "Seobin Yoon"
+            "name": "Yoon Seo-bin",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGM2Y2MzOTQtMGRmOC00YzY3LTk1N2YtMTUxY2Y5MjMzNTZmXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Release date": [
-            "September 6, 2024 (South Korea)"
+        "Stars": [
+            "Yoon Hyo-sik",
+            "Yoon Seo-bin"
         ],
-        "Country of origin": [
-            "South Korea"
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Director": [
+            "Hae Sim Jung"
+        ],
+        "Release date": [
+            "2024"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm16467868/",
-            "name": "Hae Sim Jung"
+            "name": "Hae Sim Jung",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt33269823/",
@@ -48,7 +59,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2024-09-06",
+    "datePublished": "2024",
+    "original_title": "Unboxing",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-16T16:42:26"
+    "update_at": "2026-11-09T07:35:06"
 }

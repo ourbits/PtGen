@@ -3,7 +3,7 @@
     "sid": "tt1273658",
     "name": "Elevator",
     "site": "imdb",
-    "year": "2009",
+    "year": "2008",
     "@type": "Movie",
     "genre": [
         "Comedy",
@@ -12,68 +12,81 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3095511/",
-            "name": "Cristi Petrescu"
+            "name": "Cristi Petrescu",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3095645/",
-            "name": "Iulia Verdes"
+            "name": "Iulia Verdes",
+            "@type": "Person"
         }
     ],
-    "critic": 7,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTU5NzE1ODU5Ml5BMl5BanBnXkFtZTcwMTI1OTE5Ng@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/3dgVZL1D0LUZ3jwrqbosdhltZAT.jpg",
     "details": {
+        "Stars": [
+            "Cristi Petrescu",
+            "Iulia Verdes"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "Writer": [
+            "Gabriel Pintilei"
+        ],
+        "Runtime": [
+            "85 min"
+        ],
+        "Director": [
+            "George Dorobantu"
+        ],
         "Language": [
             "Romanian"
         ],
         "Release date": [
-            "October 11, 2009 (United States)"
-        ],
-        "Also known as": [
-            "Ascensor"
-        ],
-        "Official site": [
-            "Official site (Romania) - http://www.elevator.ro/"
+            "2008-04-04"
         ],
         "Country of origin": [
             "Romania"
         ],
-        "Filming locations": [
-            "Romania"
-        ],
-        "Production company": [
+        "Production companies": [
             "Keep Movieng"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3095374/",
-            "name": "Gabriel Pintilei"
+            "name": "Gabriel Pintilei",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H25M",
-    "keywords": [
-        "teenage love",
-        "low budget",
-        "teenage boy",
-        "teenage girl",
-        "trapped in an elevator"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3095652/",
-            "name": "George Dorobantu"
+            "name": "George Dorobantu",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1273658/",
     "metascore": null,
-    "imdb_votes": 315,
+    "imdb_votes": 297,
     "popularity": 0,
-    "description": "A boy and a girl, both teenagers, want to get away from the world and be alone for a while, so they hide in an abandoned factory on the outskirts. But there they fall in a trap of their own intention, and get stuck in the cargo el...",
-    "imdb_rating": "6.1/10 from 315 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
-    "datePublished": "2009-10-11",
-    "imdb_rating_average": 6.1,
-    "update_at": "2025-05-15T16:15:09"
+    "description": "A boy and a girl, both teenagers, want to get away from the world and be alone for a while, so they hide in an abandoned factory on the outskirts. But there they fall in a trap of their own intention, and get stuck in the cargo elevator. There is no one around to hear them, and nobody knows their whereabouts. Tension arises after each failed attempt to escape, while they also have to deal with the fact that their entire universe is now reduced to a metal box smaller than a room.",
+    "imdb_rating": "6.0/10 from 297 users",
+    "release_date": [
+        {
+            "date": "2008-04-04",
+            "country": "Romania"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2008-04-04",
+    "original_title": "Elevator",
+    "imdb_rating_average": 6.0,
+    "update_at": "2026-11-09T04:42:15"
 }

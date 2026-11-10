@@ -4,62 +4,79 @@
     "name": "Bad President: Kenya",
     "site": "imdb",
     "year": "2020",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Action",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0319266/",
-            "name": "Alec Gillis"
+            "name": "Alec Gillis",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0005318/",
-            "name": "Carly Pope"
+            "name": "Carly Pope",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1520857/",
-            "name": "Dan Hirst"
+            "name": "Dan Hirst",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm9129831/",
+            "name": "Richard K Simpson",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjI2YjY2OGUtYzcxZi00Yzg5LWE4NDEtMzQzNjQwMzFlZGYzXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Alec Gillis",
+            "Carly Pope",
+            "Dan Hirst"
+        ],
+        "Genres": [
+            "Action",
+            "Comedy",
+            "Short"
+        ],
+        "Runtime": [
+            "5 min"
+        ],
+        "Director": [
+            "Neill Blomkamp"
         ],
         "Release date": [
-            "November 6, 2020 (United States)"
-        ],
-        "Also known as": [
-            "Zły Prezydent: Kenia"
-        ],
-        "Country of origin": [
-            "United States"
+            "2020"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": "PT5M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0088955/",
-            "name": "Neill Blomkamp"
+            "name": "Neill Blomkamp",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt14408028/",
     "metascore": null,
-    "imdb_votes": 138,
+    "imdb_votes": 160,
     "popularity": 0,
-    "description": "In an alternate timeline Arizona State alumni William &quot;Billy&quot; Coltran was the president of the USA. Billy was in Africa catching up with some old business colleagues. (Shot in March 2016).",
-    "imdb_rating": "5/10 from 138 users",
+    "description": null,
+    "imdb_rating": "5.0/10 from 160 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2020-11-06",
-    "imdb_rating_average": 5,
-    "update_at": "2025-09-04T13:56:18"
+    "datePublished": "2020",
+    "original_title": "Bad President: Kenya",
+    "imdb_rating_average": 5.0,
+    "update_at": "2026-11-09T20:07:21"
 }

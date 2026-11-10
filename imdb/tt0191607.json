@@ -11,52 +11,101 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0233682/",
-            "name": "René Dorin"
+            "name": "René Dorin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0756695/",
-            "name": "Saint-Granier"
+            "name": "Saint-Granier",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0661761/",
-            "name": "Parisys"
+            "name": "Parisys",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0202773/",
+            "name": "Davia",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0667113/",
+            "name": "Paul Pauley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2511616/",
+            "name": "Gisèle Daix",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0747519/",
+            "name": "Edmond Roze",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0112534/",
+            "name": "Colette Brosset",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2509644/",
+            "name": "Nelly Bouchardeau",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0086994/",
+            "name": "René Blancard",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/283HzTmVRJFKD4C1yaOK5W7T8hn.jpg",
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "René Dorin",
+            "Saint-Granier",
+            "Parisys"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "René Dorin",
+            "Saint-Granier"
+        ],
+        "Runtime": [
+            "87 min"
+        ],
+        "Director": [
+            "Gaston Roudès"
         ],
         "Release date": [
-            "November 5, 1937 (France)"
-        ],
-        "Country of origin": [
-            "France"
-        ],
-        "Production company": [
-            "Cinéproduction"
+            "1937-11-05"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0233682/",
-            "name": "René Dorin"
+            "name": "René Dorin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0756695/",
-            "name": "Saint-Granier"
+            "name": "Saint-Granier",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H27M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0745577/",
-            "name": "Gaston Roudès"
+            "name": "Gaston Roudès",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0191607/",
@@ -65,9 +114,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1937-11-05",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1937-11-05",
+    "original_title": "Un coup de rouge",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-07T22:01:00"
+    "update_at": "2026-11-09T05:07:06"
 }

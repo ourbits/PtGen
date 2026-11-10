@@ -4,61 +4,80 @@
     "name": "Stars and Their Guitars: The History of the Electric Guitar",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0316531/",
-            "name": "Billy Gibbons"
+            "name": "Billy Gibbons",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0005015/",
-            "name": "Susanna Hoffs"
+            "name": "Susanna Hoffs",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0630973/",
-            "name": "Rick Nielsen"
+            "name": "Rick Nielsen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2453076/",
+            "name": "Elizabeth Saydah",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzE5MWJlMzMtZjk5Yy00MzVkLTg5ZjktMDAwYThmMWFlODc1XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/4LfwS4A3t91XoxfBwmOSh61M147.jpg",
     "details": {
+        "Stars": [
+            "Billy Gibbons",
+            "Susanna Hoffs",
+            "Rick Nielsen"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Director": [
+            "Kent Hagen"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 11, 2008 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Passport International Entertainment"
+            "2008-11-11"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
-    "duration": null,
-    "keywords": [
-        ""
-    ],
+    "duration": "PT2H35M",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0353418/",
-            "name": "Kent Hagen"
+            "name": "Kent Hagen",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1483804/",
     "metascore": null,
-    "imdb_votes": 10,
+    "imdb_votes": 11,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "9.4/10 from 10 users",
-    "release_date": [],
+    "description": "Stars and Their Guitars: A History of the Electric Guitar is a documentary film by filmmaker Kent Hagen. It spotlights the development and history of the classic electric guitar as well as the players that made them famous. Spanning a multitude of genres including rock, blues, rockabilly, country, hard rock, punk and more, this 2008 documentary provides an in-depth look at the six-string's immeasurable impact on society and culture. Les Paul, B.B. King, Duane Eddy, Scotty Moore, Billy Gibbons, Slash, George Thorogood, Joe Satriani, and Elliot Easton are just a few of the guitar legends interviewed. Winner for best documentary at the 2008 Route 66 Film Festival.",
+    "imdb_rating": "8.0/10 from 11 users",
+    "release_date": [
+        {
+            "date": "2008-11-11",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2008-11-11",
-    "imdb_rating_average": 9.4,
-    "update_at": "2025-08-23T06:35:15"
+    "original_title": "Stars and Their Guitars: The History of the Electric Guitar",
+    "imdb_rating_average": 8.0,
+    "update_at": "2026-11-09T13:07:22"
 }

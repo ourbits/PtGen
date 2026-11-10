@@ -4,7 +4,7 @@
     "name": "Winter Heat",
     "site": "imdb",
     "year": "1994",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Romance"
@@ -12,67 +12,119 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0061849/",
-            "name": "Jaime Lyn Bauer"
+            "name": "Jaime Lyn Bauer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0112043/",
-            "name": "Jason Brooks"
+            "name": "Jason Brooks",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0163775/",
-            "name": "Christie Clark"
+            "name": "Christie Clark",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0202182/",
+            "name": "Bryan Dattilo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0239290/",
+            "name": "Brad Joseph Dubin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0299848/",
+            "name": "Ivan G'Vera",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0445476/",
+            "name": "Robert Kelker-Kelly",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0449940/",
+            "name": "Paul Kersey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0450357/",
+            "name": "Lee Kessler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005258/",
+            "name": "Patrick Muldoon",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjQ0MDBjZTItOTI2YS00MWNhLTkxZjItOTlkNTY5ZGEzZmNlXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/6iRms1JtDRndKHsdzRDRvlWT0V3.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Jaime Lyn Bauer",
+            "Jason Brooks",
+            "Christie Clark"
+        ],
+        "Genres": [
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Maura Penders",
+            "James E. Reilly"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Herb Stein"
         ],
         "Release date": [
-            "February 4, 1994 (United States)"
-        ],
-        "Also known as": [
-            "Days of Our Lives: Winter Heat"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production companies": [
-            "Columbia Pictures Television",
-            "Corday Productions"
+            "1994-02-04"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1106086/",
-            "name": "Maura Penders"
+            "name": "Maura Penders",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0717622/",
-            "name": "James E. Reilly"
+            "name": "James E. Reilly",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0825486/",
-            "name": "Herb Stein"
+            "name": "Herb Stein",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0307671/",
     "metascore": null,
-    "imdb_votes": 37,
+    "imdb_votes": 43,
     "popularity": 0,
-    "description": "Suspected murderer and former drug addict Billie Reed and her cop boyfriend are marooned on a desert island. Meanwhile, Carrie and Austin visit a mountain resort for a romantic getaway and discover that Jennifer and Peter are also...",
-    "imdb_rating": "8.2/10 from 37 users",
-    "release_date": [],
+    "description": "Suspected murderer and former drug addict Billie Reed and her cop boyfriend are marooned on a desert island. Meanwhile, Carrie and Austin visit a mountain resort for a romantic getaway and discover that Jennifer and Peter are also there.",
+    "imdb_rating": "7.4/10 from 43 users",
+    "release_date": [
+        {
+            "date": "1994-02-04",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1994-02-04",
-    "imdb_rating_average": 8.2,
-    "update_at": "2025-04-15T21:49:42"
+    "original_title": "Winter Heat",
+    "imdb_rating_average": 7.4,
+    "update_at": "2026-11-09T16:56:07"
 }

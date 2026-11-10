@@ -4,81 +4,141 @@
     "name": "The Wrong Neighbor",
     "site": "imdb",
     "year": "2017",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Thriller"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0091553/",
-            "name": "Andrea Bogart"
+            "name": "Andrea Bogart",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0365351/",
-            "name": "Steve Richard Harris"
+            "name": "Steve Richard Harris",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2277135/",
-            "name": "Cristine Prosperi"
+            "name": "Cristine Prosperi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2460100/",
+            "name": "Ashlynn Yennie",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000514/",
+            "name": "Michael Madsen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4512555/",
+            "name": "Dominic Leeder",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4197678/",
+            "name": "James Gaisford",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1616869/",
+            "name": "Jude B. Lanston",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8908209/",
+            "name": "Ayani Tamar",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0267496/",
+            "name": "Julia Farino",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTAzODQ5OGYtOWQzNS00MmQ0LTgzMWYtMDBmZmQ1OTVlZmYyXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/6HHVPXV2PmM1BG2OoaO6ASZ6MGU.jpg",
     "details": {
+        "Stars": [
+            "Andrea Bogart",
+            "Steve Richard Harris",
+            "Cristine Prosperi"
+        ],
+        "Genres": [
+            "Thriller"
+        ],
+        "Writer": [
+            "Robert Dean Klein",
+            "Jeffrey Schenck",
+            "Peter Sullivan"
+        ],
+        "Runtime": [
+            "88 min"
+        ],
+        "Director": [
+            "Sam Irvin"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "June 10, 2017 (United States)"
-        ],
-        "Also known as": [
-            "My Neighbor's Deadly Obsession"
+            "2017-06-26"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
-            "Hybrid"
+        "Production companies": [
+            "Hybrid",
+            "Lifetime"
         ]
     },
-    "reviews": 26,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0458955/",
-            "name": "Robert Dean Klein"
+            "name": "Robert Dean Klein",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0770848/",
-            "name": "Jeffrey Schenck"
+            "name": "Jeffrey Schenck",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0838289/",
-            "name": "Peter Sullivan"
+            "name": "Peter Sullivan",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H28M",
-    "keywords": [
-        "krav maga",
-        "swim coach",
-        "high school student",
-        "teenage girl",
-        "female stalker"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0006787/",
-            "name": "Sam Irvin"
+            "name": "Sam Irvin",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt6753972/",
     "metascore": null,
-    "imdb_votes": 425,
+    "imdb_votes": 448,
     "popularity": 0,
-    "description": "Newly trial separated Dad takes care of sixteen year old daughter, but meets new neighbor who threatens to unravel his old life.",
-    "imdb_rating": "4.6/10 from 425 users",
-    "release_date": [],
-    "contentRating": "TV-14",
-    "datePublished": "2017-06-10",
+    "description": "A recently separated father and his teenage daughter become the deadly obsession of their neighbor -- a beguiling, deranged young woman willing to do whatever's necessary to take her rightful place as their wife and mother.",
+    "imdb_rating": "4.6/10 from 448 users",
+    "release_date": [
+        {
+            "date": "2017-06-26",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "PG-13",
+    "datePublished": "2017-06-26",
+    "original_title": "The Wrong Neighbor",
     "imdb_rating_average": 4.6,
-    "update_at": "2025-07-27T06:00:23"
+    "update_at": "2026-11-10T00:35:17"
 }

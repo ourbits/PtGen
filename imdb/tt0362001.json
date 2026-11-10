@@ -4,7 +4,7 @@
     "name": "A Painted House",
     "site": "imdb",
     "year": "2003",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Family"
@@ -12,78 +12,136 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001277/",
-            "name": "Scott Glenn"
+            "name": "Scott Glenn",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0054397/",
-            "name": "Arija Bareikis"
+            "name": "Arija Bareikis",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000494/",
-            "name": "Robert Sean Leonard"
+            "name": "Robert Sean Leonard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0227039/",
+            "name": "Melinda Dillon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0503567/",
+            "name": "Logan Lerman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1017524/",
+            "name": "Audrey Marie Anderson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0507212/",
+            "name": "Geoffrey Lewis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1032567/",
+            "name": "Pablo Schreiber",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0928795/",
+            "name": "Michael Shamus Wiles",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1329731/",
+            "name": "Luis Garcia",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmNlOTRlZWEtZTViNC00NWVjLWE0MjktMGUxNTY5ODIyNzhkXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/iurcGxgA8q0VdUo5W2HUaT8wuWA.jpg",
     "details": {
+        "Stars": [
+            "Scott Glenn",
+            "Arija Bareikis",
+            "Robert Sean Leonard"
+        ],
+        "Genres": [
+            "Drama",
+            "Family"
+        ],
+        "Writer": [
+            "Patrick Sheane Duncan",
+            "John Grisham"
+        ],
+        "Runtime": [
+            "97 min"
+        ],
+        "Director": [
+            "Alfonso Arau"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "April 27, 2003 (United States)"
-        ],
-        "Also known as": [
-            "Hallmark Hall of Fame: A Painted House (#52.3)"
-        ],
-        "Official site": [
-            "Official CBS Page - http://www.cbs.com/primetime/movies_specials/mas_painted_house.shtml"
+            "2003-04-27"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Lepanto, Arkansas, USA"
+            "United States of America"
         ],
         "Production companies": [
             "CBS",
-            "Hallmark Hall of Fame Productions",
-            "McGee Street Productions"
+            "Hallmark Hall of Fame Productions"
         ]
     },
-    "reviews": 29,
+    "reviews": 0,
+    "tagline": "Desperate Times, hard truths, unexpected dangers. One extraordinary summer will change a young boy and his family...forever.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0242059/",
-            "name": "Patrick Sheane Duncan"
+            "name": "Patrick Sheane Duncan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001300/",
-            "name": "John Grisham"
+            "name": "John Grisham",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H37M",
     "keywords": [
-        "bare chested boy",
-        "boy bath scene",
-        "boy wears pajamas",
-        "boy protagonist",
-        "migrant worker"
+        "based on novel or book",
+        "arkansas",
+        "flood",
+        "1950s",
+        "grandfather grandson relationship",
+        "hallmark"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0000778/",
-            "name": "Alfonso Arau"
+            "name": "Alfonso Arau",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0362001/",
     "metascore": null,
-    "imdb_votes": 1175,
+    "imdb_votes": 1295,
     "popularity": 0,
-    "description": "A young boy, his family, and the migrant workers they hire to work their cotton farm struggle against difficult odds to raise and sell the crop. Meanwhile, the boy dreams of living in better conditions. However, with this particul...",
-    "imdb_rating": "6.4/10 from 1175 users",
-    "release_date": [],
-    "contentRating": "PG",
+    "description": "A young boy, his family, and the migrant workers they hire to work their cotton farm struggle against difficult odds to raise and sell the crop. Meanwhile, the boy dreams of living in better conditions. However, with this particularly tough farming season, the boy learns that his challenges guide him in discovering who he really is.",
+    "imdb_rating": "6.5/10 from 1295 users",
+    "release_date": [
+        {
+            "date": "2003-04-27",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2003-04-27",
-    "imdb_rating_average": 6.4,
-    "update_at": "2025-02-11T14:30:28"
+    "original_title": "A Painted House",
+    "imdb_rating_average": 6.5,
+    "update_at": "2026-11-10T00:21:27"
 }

@@ -4,74 +4,134 @@
     "name": "Die Geisel",
     "site": "imdb",
     "year": "1977",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0258866/",
-            "name": "Helmut Erfurth"
+            "name": "Helmut Erfurth",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0321084/",
-            "name": "Heinrich Giskes"
+            "name": "Heinrich Giskes",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0344963/",
-            "name": "Herbert Grönemeyer"
+            "name": "Herbert Grönemeyer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0368394/",
+            "name": "O.E. Hasse",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0389687/",
+            "name": "Hannelore Hoger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0417808/",
+            "name": "Brigitte Janner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0434533/",
+            "name": "Tamara Kafka",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0449489/",
+            "name": "Peter Kern",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0483945/",
+            "name": "Günter Lamprecht",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0491548/",
+            "name": "Hermann Lause",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Helmut Erfurth",
+            "Heinrich Giskes",
+            "Herbert Grönemeyer"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Brendan Behan",
+            "Annemarie Böll",
+            "Heinrich Böll"
+        ],
+        "Runtime": [
+            "161 min"
+        ],
+        "Director": [
+            "Peter Zadek"
         ],
         "Release date": [
-            "February 20, 1977 (West Germany)"
+            "1977-02-20"
         ],
         "Country of origin": [
-            "West Germany"
-        ],
-        "Production company": [
-            "Westdeutscher Rundfunk (WDR)"
+            "Germany"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0066848/",
-            "name": "Brendan Behan"
+            "name": "Brendan Behan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1406150/",
-            "name": "Annemarie Böll"
+            "name": "Annemarie Böll",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0127093/",
-            "name": "Heinrich Böll"
+            "name": "Heinrich Böll",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H41M",
-    "keywords": [
-        "based on play"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0951731/",
-            "name": "Peter Zadek"
+            "name": "Peter Zadek",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0076073/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "Former revolutionary Pat and sex worker Meg run a brothel in 1950s Dublin. In addition to five girls and two gay men, the old IRA general Musjö and Mr. Muleady also live in their establishment. One evening, two IRA fighters drag in a prisoner. The hostage is Leslie Williams, a young British soldier who was captured in Northern Ireland and is now to be exchanged for an IRA member...",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1977-02-20",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1977-02-20",
+    "original_title": "Die Geisel",
     "imdb_rating_average": 0,
-    "update_at": "2026-04-27T15:42:15"
+    "update_at": "2026-11-09T12:56:26"
 }

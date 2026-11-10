@@ -1,5 +1,14 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Flesh.ka",
+            "country": "Russia"
+        },
+        {
+            "title": "Flash.card",
+            "country": "United States of America"
+        }
+    ],
     "sid": "tt0952656",
     "name": "Flesh.ka",
     "site": "imdb",
@@ -13,74 +22,95 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0787697/",
-            "name": "Ilya Shakunov"
+            "name": "Ilya Shakunov",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0836534/",
-            "name": "Evgeniy Stychkin"
+            "name": "Evgeniy Stychkin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1285394/",
-            "name": "Ekaterina Guseva"
+            "name": "Ekaterina Guseva",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0850892/",
+            "name": "Andrey Tashkov",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTE5NWI4MmUtNzI4Mi00NWY1LTgzNzEtZDIyYThmMTAwNDY5XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/gNTXDKXWxFMfMT0Qs92Mc8I9j5r.jpg",
     "details": {
+        "Stars": [
+            "Ilya Shakunov",
+            "Evgeniy Stychkin",
+            "Ekaterina Guseva"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Writer": [
+            "Aleksey Timm"
+        ],
+        "Runtime": [
+            "105 min"
+        ],
+        "Director": [
+            "Georgiy Shengeliya"
+        ],
         "Language": [
             "Russian"
         ],
         "Release date": [
-            "November 23, 2006 (Russia)"
-        ],
-        "Also known as": [
-            "Flash.card"
-        ],
-        "Official site": [
-            "Official site (Russia) - http://www.flashfilm.ru/"
+            "2006-11-23"
         ],
         "Country of origin": [
             "Russia"
         ],
-        "Filming locations": [
-            "Fedotovo, Kostromskaya Oblast, Russia"
-        ],
         "Production companies": [
-            "Flash Entertainment Kinokompaniya",
-            "Centre of National Film (CNF)",
-            "Vox Video"
+            "Vox Video",
+            "Flash Intertaiment Kinokompahiya",
+            "CNF"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0863620/",
-            "name": "Aleksey Timm"
+            "name": "Aleksey Timm",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H45M",
-    "keywords": [
-        "wife",
-        "bank",
-        "river",
-        "revenge",
-        "dacha"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0999532/",
-            "name": "Georgiy Shengeliya"
+            "name": "Georgiy Shengeliya",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0952656/",
     "metascore": null,
-    "imdb_votes": 226,
+    "imdb_votes": 236,
     "popularity": 0,
     "description": "Contemporary Russia. A humiliated bank executive takes revenge on his adulterous wife and corrupt employers.",
-    "imdb_rating": "4.4/10 from 226 users",
-    "release_date": [],
+    "imdb_rating": "4.3/10 from 236 users",
+    "release_date": [
+        {
+            "date": "2006-11-23",
+            "country": "Russia"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2006-11-23",
-    "imdb_rating_average": 4.4,
-    "update_at": "2026-04-26T17:49:05"
+    "original_title": "Flesh.ka",
+    "imdb_rating_average": 4.3,
+    "update_at": "2026-11-09T09:00:31"
 }

@@ -4,48 +4,58 @@
     "name": "In seinem Garten liebt Don Perlimplin Belisa",
     "site": "imdb",
     "year": "1966",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0386076/",
-            "name": "Werner Hinz"
+            "name": "Werner Hinz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0630674/",
-            "name": "Ruth Niehaus"
+            "name": "Ruth Niehaus",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0770013/",
-            "name": "Maria Schanda"
+            "name": "Maria Schanda",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0121424/",
+            "name": "Elly Burgmer",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Werner Hinz",
+            "Ruth Niehaus",
+            "Maria Schanda"
+        ],
+        "Runtime": [
+            "45 min"
+        ],
+        "Director": [
+            "Oscar Fritz Schuh"
         ],
         "Release date": [
-            "September 11, 1966 (West Germany)"
-        ],
-        "Country of origin": [
-            "West Germany"
-        ],
-        "Production company": [
-            "Zweites Deutsches Fernsehen (ZDF)"
+            "1966"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT45M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1288502/",
-            "name": "Oscar Fritz Schuh"
+            "name": "Oscar Fritz Schuh",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0343831/",
@@ -56,7 +66,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1966-09-11",
+    "datePublished": "1966",
+    "original_title": "In seinem Garten liebt Don Perlimplin Belisa",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-16T01:49:44"
+    "update_at": "2026-11-09T12:42:27"
 }

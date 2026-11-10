@@ -1,5 +1,18 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Les Grands Fonds",
+            "country": "France"
+        },
+        {
+            "title": "Die Tiefe",
+            "country": "Germany"
+        },
+        {
+            "title": "O Tesouro do Fundo do Mar",
+            "country": "Brazil"
+        }
+    ],
     "sid": "tt0075925",
     "name": "The Deep",
     "site": "imdb",
@@ -13,77 +26,169 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000302/",
-            "name": "Jacqueline Bisset"
+            "name": "Jacqueline Bisset",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000560/",
-            "name": "Nick Nolte"
+            "name": "Nick Nolte",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0930454/",
-            "name": "Dick Anthony Williams"
+            "name": "Dick Anthony Williams",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001727/",
+            "name": "Robert Shaw",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0562745/",
+            "name": "Earl Maynard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0591567/",
+            "name": "Bob Minor",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001283/",
+            "name": "Louis Gossett Jr.",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0908919/",
+            "name": "Eli Wallach",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0876022/",
+            "name": "Teddy Tucker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0856377/",
+            "name": "Robert Tessier",
+            "@type": "Person"
         }
     ],
-    "critic": 50,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzg4YzgxOWItYjM5OC00ZDE2LWI2ZDUtZjhmN2U5NjQ3MDdmXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/z3HXf0nIN7tvpTF8fxiJrvD603f.jpg",
     "details": {
-        "Languages": [
-            "English",
-            "French"
+        "Stars": [
+            "Jacqueline Bisset",
+            "Nick Nolte",
+            "Dick Anthony Williams"
+        ],
+        "Genres": [
+            "Adventure",
+            "Mystery",
+            "Thriller"
+        ],
+        "Writer": [
+            "Peter Benchley",
+            "Tracy Keenan Wynn"
+        ],
+        "Runtime": [
+            "123 min"
+        ],
+        "Director": [
+            "Peter Yates"
+        ],
+        "Language": [
+            "French",
+            "English"
         ],
         "Release date": [
-            "June 17, 1977 (United States)"
+            "1977-06-17"
         ],
-        "Also known as": [
-            "Die Tiefe"
-        ],
-        "Filming locations": [
-            "RMS Rhone Wreck, British Virgin Islands"
-        ],
-        "Countries of origin": [
+        "Country of origin": [
             "United Kingdom",
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
-            "Columbia Pictures",
             "EMI Films",
-            "Casablanca Filmworks"
+            "Casablanca Filmworks",
+            "Columbia Pictures"
         ]
     },
-    "reviews": 97,
+    "reviews": 0,
+    "tagline": "Is anything worth the terror of the Deep?",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0001940/",
-            "name": "Peter Benchley"
+            "name": "Peter Benchley",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0944003/",
-            "name": "Tracy Keenan Wynn"
+            "name": "Tracy Keenan Wynn",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H3M",
     "keywords": [
-        "underwater scene",
-        "scuba diving",
+        "treasure",
+        "based on novel or book",
+        "diving",
+        "ocean",
         "shipwreck",
-        "forced to strip",
-        "bermuda"
+        "bermuda",
+        "scuba diving",
+        "underwater",
+        "drugs",
+        "shark",
+        "caribbean sea"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0946811/",
-            "name": "Peter Yates"
+            "name": "Peter Yates",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0075925/",
-    "metascore": 41,
-    "imdb_votes": 14303,
-    "popularity": 2012,
-    "description": "In Bermuda, two amateur treasure-hunting divers have a run-in with local criminals when they inadvertently discover the secret cargo of a World War II shipwreck.",
-    "imdb_rating": "6.2/10 from 14303 users",
-    "release_date": [],
+    "metascore": null,
+    "imdb_votes": 15729,
+    "popularity": 0,
+    "description": "A pair of young vacationers are involved in a dangerous conflict with treasure hunters when they discover a way into a deadly wreck in Bermuda waters.",
+    "imdb_rating": "6.3/10 from 15729 users",
+    "release_date": [
+        {
+            "date": "1982-06-05",
+            "country": "Brazil"
+        },
+        {
+            "date": "1977-11-20",
+            "country": "Germany"
+        },
+        {
+            "date": "1977-09-20",
+            "country": "France"
+        },
+        {
+            "date": "1977-12-16",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "1977-12-16",
+            "country": "Ireland"
+        },
+        {
+            "date": "1977-07-23",
+            "country": "Japan"
+        },
+        {
+            "date": "1977-06-17",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": "PG",
     "datePublished": "1977-06-17",
-    "imdb_rating_average": 6.2,
-    "update_at": "2025-01-22T03:14:13"
+    "original_title": "The Deep",
+    "imdb_rating_average": 6.3,
+    "update_at": "2026-11-09T03:28:19"
 }

@@ -5,56 +5,102 @@
     "site": "imdb",
     "year": "1942",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0359248/",
-            "name": "Ranko Hanai"
+            "name": "Ranko Hanai",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0409960/",
-            "name": "Takako Irie"
+            "name": "Takako Irie",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0411703/",
-            "name": "Kaoru Itô"
+            "name": "Kaoru Itô",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0411761/",
+            "name": "Toshiko Itō",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0457954/",
+            "name": "Sōji Kiyokawa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6960674/",
+            "name": "Ichi Kô",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1649866/",
+            "name": "Toshio Miki",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1655343/",
+            "name": "Takeshi Shimoda",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1779689/",
+            "name": "Junko Tachibana",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0847031/",
+            "name": "Minoru Takada",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Japanese"
+        "Stars": [
+            "Ranko Hanai",
+            "Takako Irie",
+            "Kaoru Itô"
+        ],
+        "Writer": [
+            "Uio Tomizawa",
+            "Fumio Yoshida"
+        ],
+        "Runtime": [
+            "96 min"
+        ],
+        "Director": [
+            "Yasuki Chiba"
         ],
         "Release date": [
-            "February 5, 1942 (Japan)"
-        ],
-        "Country of origin": [
-            "Japan"
-        ],
-        "Production company": [
-            "Toho"
+            "1942"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1718039/",
-            "name": "Uio Tomizawa"
+            "name": "Uio Tomizawa",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1222103/",
-            "name": "Fumio Yoshida"
+            "name": "Fumio Yoshida",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H36M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0157140/",
-            "name": "Yasuki Chiba"
+            "name": "Yasuki Chiba",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0435388/",
@@ -65,7 +111,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1942-02-05",
+    "datePublished": "1942",
+    "original_title": "Shiroi hekiga",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-30T09:13:09"
+    "update_at": "2026-11-09T14:07:25"
 }

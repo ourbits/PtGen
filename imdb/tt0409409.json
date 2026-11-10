@@ -4,65 +4,93 @@
     "name": "USA the Movie",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0124133/",
-            "name": "George W. Bush"
+            "name": "George W. Bush",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0455052/",
-            "name": "Martin Luther King"
+            "name": "Martin Luther King Jr.",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2187885/",
-            "name": "James Kirk"
+            "name": "James Kirk",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1372144/",
+            "name": "Rudy Stolfer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1565273/",
+            "name": "Amy Goodman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000640/",
+            "name": "Martin Sheen",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTIxNTk3ODMyNF5BMl5BanBnXkFtZTcwODc5MjYyMQ@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/chrx0pELojfSCPfWq5b9dKQCJtY.jpg",
     "details": {
+        "Stars": [
+            "George W. Bush",
+            "Martin Luther King Jr.",
+            "James Kirk"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Runtime": [
+            "103 min"
+        ],
+        "Director": [
+            "Tony Zierra"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 15, 2005 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Mantic Eye"
+            "2005-01-15"
         ]
     },
-    "reviews": 17,
+    "reviews": 0,
+    "tagline": "A Fictional Drive Through Reality",
     "creators": [],
     "duration": "PT1H43M",
-    "keywords": [
-        "poetry",
-        "movie in title",
-        "political activism",
-        "september 11 2001",
-        "iraq war"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1587808/",
-            "name": "Tony Zierra"
+            "name": "Tony Zierra",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0409409/",
     "metascore": null,
-    "imdb_votes": 171,
+    "imdb_votes": 162,
     "popularity": 0,
-    "description": "USA THE MOVIE is an independent landmark, a fictional drive through reality, a prophetic journey into the future of humanity. One of the main elements is Kirk, a comfortable &quot;All American&quot; traveler who awakens from blissful ignora...",
-    "imdb_rating": "5.1/10 from 171 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "Filmed between 9/11 and the Iraq invasion, this poetic road movie follows an All-American drifter confronting war, media, and denial. Retitled USA THE MOVIE from AMERICA OFF LINE after legal battles over the provocative URL aolthemovie.com.",
+    "imdb_rating": "5.1/10 from 162 users",
+    "release_date": [
+        {
+            "date": "2005-01-15",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2005-01-15",
+    "original_title": "USA the Movie",
     "imdb_rating_average": 5.1,
-    "update_at": "2025-06-10T21:00:09"
+    "update_at": "2026-11-09T02:49:16"
 }

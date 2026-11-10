@@ -4,72 +4,101 @@
     "name": "Stranger Out of You",
     "site": "imdb",
     "year": "2019",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Drama",
+        "Short",
         "Thriller"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3379333/",
-            "name": "Adrian Anchondo"
+            "name": "Adrian Anchondo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm10504224/",
-            "name": "Jonny Craig"
+            "name": "Jonny Craig",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2807339/",
-            "name": "Matthew Risch"
+            "name": "Matthew Risch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7625029/",
+            "name": "Israel Zamora",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzQwNmJiNjMtNDM1MS00Mjg5LTljNmUtMzMxZjM3MDdkNzIzXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/u6DOEkz5q3UkIopRTphzflQvuNp.jpg",
     "details": {
+        "Stars": [
+            "Adrian Anchondo",
+            "Jonny Craig",
+            "Matthew Risch"
+        ],
+        "Genres": [
+            "Drama",
+            "Short",
+            "Thriller"
+        ],
+        "Writer": [
+            "Matthew Risch"
+        ],
+        "Runtime": [
+            "16 min"
+        ],
+        "Director": [
+            "Matthew Risch"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "June 21, 2019 (United States)"
+            "2019-06-21"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Plato Films"
+            "United States of America"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2807339/",
-            "name": "Matthew Risch"
+            "name": "Matthew Risch",
+            "@type": "Person"
         }
     ],
     "duration": "PT16M",
     "keywords": [
-        "gay interest",
-        "gay",
-        "gay bar",
-        "gay crush",
-        "man caresses a man"
+        "lgbt"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2807339/",
-            "name": "Matthew Risch"
+            "name": "Matthew Risch",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt9604404/",
     "metascore": null,
-    "imdb_votes": 24,
+    "imdb_votes": 25,
     "popularity": 0,
-    "description": "After meeting his ideal man, obsession quickly morphs into possession in this psychosexual thriller that ventures beyond reality.",
-    "imdb_rating": "6.9/10 from 24 users",
-    "release_date": [],
+    "description": "After a chance meeting with an attractive stranger, a spellbound admirer returns to the same bar and tries to recreate his first encounter. With each nightly visit, a far more sinister and surreal pattern emerges beneath this man’s naïve attempts.",
+    "imdb_rating": "6.9/10 from 25 users",
+    "release_date": [
+        {
+            "date": "2019-06-21",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2019-06-21",
+    "original_title": "Stranger Out of You",
     "imdb_rating_average": 6.9,
-    "update_at": "2026-05-29T16:00:41"
+    "update_at": "2026-11-09T12:42:27"
 }

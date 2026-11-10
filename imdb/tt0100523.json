@@ -4,31 +4,94 @@
     "name": "Rudolfo",
     "site": "imdb",
     "year": "1990",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0108866/",
+            "name": "Nicolas Brieger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0630628/",
+            "name": "Volker Niederfahrenhorst",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0717021/",
+            "name": "Walter Reichelt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0784230/",
+            "name": "Jochen Senf",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0818356/",
+            "name": "Martin Sperr",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0874822/",
+            "name": "Sandra Tschierschwitz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0954986/",
+            "name": "Vitus Zeplichal",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Nicolas Brieger",
+            "Volker Niederfahrenhorst",
+            "Walter Reichelt"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Barbara Grupp",
+            "Beate Klöckner"
+        ],
+        "Director": [
+            "Beate Klöckner"
         ],
         "Release date": [
-            "February 28, 1990 (West Germany)"
+            "1990-02-28"
         ],
         "Country of origin": [
             "Germany"
-        ],
-        "Production company": [
-            "Telefilm Saar GmbH"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0344673/",
+            "name": "Barbara Grupp",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0460332/",
+            "name": "Beate Klöckner",
+            "@type": "Person"
+        }
+    ],
     "duration": null,
-    "keywords": [
-        "f rated"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0460332/",
+            "name": "Beate Klöckner",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0100523/",
     "metascore": null,
@@ -36,9 +99,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1990-02-28",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1990-02-28",
+    "original_title": "Rudolfo",
     "imdb_rating_average": 0,
-    "update_at": "2025-12-02T20:39:18"
+    "update_at": "2026-11-09T21:07:20"
 }

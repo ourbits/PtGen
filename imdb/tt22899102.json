@@ -1,82 +1,175 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Musse räddar julen",
+            "country": "Sweden"
+        },
+        {
+            "title": "Myšák Mickey zachraňuje Vánoce",
+            "country": "Czech Republic"
+        }
+    ],
     "sid": "tt22899102",
     "name": "Mickey Saves Christmas",
     "site": "imdb",
     "year": "2022",
-    "@type": "Movie",
+    "@type": "TVSpecial",
     "genre": [
+        "Adventure",
         "Animation",
-        "Short",
-        "Adventure"
+        "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3645102/",
-            "name": "Bret Iwan"
+            "name": "Bret Iwan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4737765/",
-            "name": "Kaitlyn Robrock"
+            "name": "Kaitlyn Robrock",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0267724/",
-            "name": "Bill Farmer"
+            "name": "Bill Farmer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0267724/",
+            "name": "Bill Farmer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0030615/",
+            "name": "Tony Anselmo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0933281/",
+            "name": "Debra Wilson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0342190/",
+            "name": "Camryn Grimes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2859742/",
+            "name": "Brock Powell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6814613/",
+            "name": "Natalie Coughlin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm16859277/",
+            "name": "Alan de Marte",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmYyZWFkOGEtNWU3OS00MGY0LTkwY2YtMDZiNzlkNzgyNTBjXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/yroznFQnEjgzgHj0vBDm4Hnppv6.jpg",
     "details": {
+        "Stars": [
+            "Bret Iwan",
+            "Kaitlyn Robrock",
+            "Bill Farmer"
+        ],
+        "Genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "Writer": [
+            "Kim Duran"
+        ],
+        "Runtime": [
+            "23 min"
+        ],
+        "Director": [
+            "David H. Brooks"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 27, 2022 (United States)"
-        ],
-        "Also known as": [
-            "Міккі рятує Різдво"
-        ],
-        "Official site": [
-            "\"Mickey Saves Christmas,\" A New Stop-Motion Holiday Special Is Coming For The Holidays - https://dapsmagic.com/2022/10/mickey-saves-christmas-a-new-stop-motion-holiday-special-is-coming-for-the-holidays/"
+            "2022-11-27"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
             "Disney Television Animation",
             "Stoopid Buddy Stoodios"
         ]
     },
-    "reviews": 6,
+    "reviews": 0,
+    "tagline": "Mickey and his friends help Santa save Christmas!",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1642580/",
-            "name": "Kim Duran"
+            "name": "Kim Duran",
+            "@type": "Person"
         }
     ],
     "duration": "PT23M",
     "keywords": [
+        "computer animation",
+        "christmas spirit",
         "christmas",
-        "tv special",
-        "stop motion",
-        "animal character name in title",
-        "snow"
+        "christmas special",
+        "christian tradition"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1908659/",
-            "name": "David H. Brooks"
+            "name": "David H. Brooks",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt22899102/",
     "metascore": null,
-    "imdb_votes": 615,
+    "imdb_votes": 693,
     "popularity": 0,
-    "description": "Mickey, Minnie and their pals attempt to celebrate the perfect Christmas at their snowy cabin; when Pluto causes Santa to lose all the presents on his sleigh, the friends travel to the North Pole on a quest to save Christmas.",
-    "imdb_rating": "5.9/10 from 615 users",
-    "release_date": [],
-    "contentRating": "TV-G",
+    "description": "Mickey, Minnie and their pals attempt to celebrate the perfect Christmas at their snowy cabin. However, when Pluto causes Santa to lose all the presents on his sleigh, the friends travel to the North Pole on a quest to save Christmas.",
+    "imdb_rating": "5.8/10 from 693 users",
+    "release_date": [
+        {
+            "date": "2022-12-23",
+            "country": "Brazil"
+        },
+        {
+            "date": "2022-12-19",
+            "country": "Germany"
+        },
+        {
+            "date": "2022-12-19",
+            "country": "Spain"
+        },
+        {
+            "date": "2022-12-09",
+            "country": "Ireland"
+        },
+        {
+            "date": "2024-01-19",
+            "country": "Israel"
+        },
+        {
+            "date": "2023-12-22",
+            "country": "Poland"
+        },
+        {
+            "date": "2022-11-27",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "G",
     "datePublished": "2022-11-27",
-    "imdb_rating_average": 5.9,
-    "update_at": "2025-07-20T02:52:14"
+    "original_title": "Mickey Saves Christmas",
+    "imdb_rating_average": 5.8,
+    "update_at": "2026-11-09T21:56:20"
 }

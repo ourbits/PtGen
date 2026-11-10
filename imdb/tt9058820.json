@@ -4,7 +4,7 @@
     "name": "My Christmas Inn",
     "site": "imdb",
     "year": "2018",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Drama",
@@ -13,81 +13,148 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0610298/",
-            "name": "Tia Mowry"
+            "name": "Tia Mowry",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2373827/",
-            "name": "Rob Mayes"
+            "name": "Rob Mayes",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0364068/",
-            "name": "Jackée Harry"
+            "name": "Jackée Harry",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005347/",
+            "name": "Tim Reid",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001292/",
+            "name": "Erin Gray",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0942859/",
+            "name": "Tanya Wright",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2093820/",
+            "name": "Melanie Nelson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0823675/",
+            "name": "David Starzyk",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5752523/",
+            "name": "Melanie Stone",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6475805/",
+            "name": "Mason Mac",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzUwMzc4YzYtYTFhNS00ZjI2LWI3ZDUtZTA5NTg0ODk0NTQzXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/dSsJ68MHxtmnMOIaqafPm9SvfDa.jpg",
     "details": {
+        "Stars": [
+            "Tia Mowry",
+            "Rob Mayes",
+            "Jackée Harry"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Jeffrey Schenck",
+            "Peter Sullivan",
+            "Amy Carlson"
+        ],
+        "Runtime": [
+            "100 min"
+        ],
+        "Director": [
+            "Peter Sullivan"
+        ],
         "Language": [
+            "German",
             "English"
         ],
         "Release date": [
-            "November 21, 2018 (United States)"
-        ],
-        "Also known as": [
-            "Mi hostal navidadeño"
-        ],
-        "Official site": [
-            "official Website - https://www.mylifetime.com/"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Salt Lake City, Utah, USA"
-        ],
-        "Production companies": [
-            "Production Media Films",
-            "Hybrid"
+            "2018-11-21"
         ]
     },
-    "reviews": 36,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0770848/",
-            "name": "Jeffrey Schenck"
+            "name": "Jeffrey Schenck",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0838289/",
-            "name": "Peter Sullivan"
+            "name": "Peter Sullivan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm9394808/",
-            "name": "Amy Carlson"
+            "name": "Amy Carlson",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H40M",
     "keywords": [
-        "christmas",
-        "alaska",
-        "inheritance",
-        "inn",
-        "three word title"
+        "christmas"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0838289/",
-            "name": "Peter Sullivan"
+            "name": "Peter Sullivan",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt9058820/",
     "metascore": null,
-    "imdb_votes": 2463,
+    "imdb_votes": 2530,
     "popularity": 0,
-    "description": "A big city advertising executive inherits her great-aunt&apos;s inn and heads to the small Alaskan town where it&apos;s located to get it ready for sale.",
-    "imdb_rating": "5.6/10 from 2463 users",
-    "release_date": [],
-    "contentRating": "TV-G",
+    "description": "With the holiday season in full swing, Jen Taylor is about to score a big promotion at the San Francisco ad agency where she works. But her life is unexpectedly turned upside down when she inherits a cozy inn in Alaska from her aunt. When she goes to inspect the property and meets handsome town attorney Steve Anderson, she's surprised to find that nothing is what she expected. The small town community is full of fun and festive Christmas traditions and soon, Jen starts wondering if the inn might just be the place she belongs, and if Steve could be the Mr. Right she has been waiting for.",
+    "imdb_rating": "5.6/10 from 2530 users",
+    "release_date": [
+        {
+            "date": "2020-11-01",
+            "country": "Brazil"
+        },
+        {
+            "date": "2018-12-30",
+            "country": "Canada"
+        },
+        {
+            "date": "2020-11-01",
+            "country": "Germany"
+        },
+        {
+            "date": "2018-12-22",
+            "country": "France"
+        },
+        {
+            "date": "2018-11-21",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2018-11-21",
+    "original_title": "My Christmas Inn",
     "imdb_rating_average": 5.6,
-    "update_at": "2026-05-23T16:49:11"
+    "update_at": "2026-11-09T17:21:20"
 }

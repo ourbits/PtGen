@@ -5,68 +5,110 @@
     "site": "imdb",
     "year": "1972",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Drama"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0729461/",
-            "name": "Dante Rivero"
+            "name": "Dante Rivero",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0030672/",
-            "name": "Boots Anson-Roa"
+            "name": "Boots Anson-Roa",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0466581/",
-            "name": "Hilda Koronel"
+            "name": "Hilda Koronel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0623028/",
+            "name": "Walter Navarro",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0759242/",
+            "name": "Lou Salvador Jr.",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0022081/",
+            "name": "Alicia Alonzo",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/7jyC9QAB5JeIQCCmlrw0AC6zZRj.jpg",
     "details": {
-        "Languages": [
-            "Filipino",
+        "Stars": [
+            "Dante Rivero",
+            "Boots Anson-Roa",
+            "Hilda Koronel"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Marty Aragon",
+            "Orlando Nadres"
+        ],
+        "Director": [
+            "Lino Brocka"
+        ],
+        "Language": [
             "Tagalog"
         ],
         "Release date": [
-            "June 18, 1972 (Philippines)"
+            "1972-06-18"
         ],
         "Country of origin": [
             "Philippines"
         ],
-        "Production company": [
+        "Production companies": [
             "Lea Productions"
         ]
     },
     "reviews": 0,
+    "tagline": "The world of false glories and proud defeats!",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3016649/",
-            "name": "Marty Aragon"
+            "name": "Marty Aragon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0618981/",
-            "name": "Orlando Nadres"
+            "name": "Orlando Nadres",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0110653/",
-            "name": "Lino Brocka"
+            "name": "Lino Brocka",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0450194/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "Drama among family and friends unfold in Villa Miranda, a town in the world of false glories and true defeats.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1972-06-18",
+            "country": "Philippines"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1972-06-18",
+    "original_title": "Villa Miranda",
     "imdb_rating_average": 0,
-    "update_at": "2026-05-17T04:21:23"
+    "update_at": "2026-11-09T11:00:33"
 }

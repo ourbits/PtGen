@@ -4,49 +4,120 @@
     "name": "Elizabeth Taylor - An Intimate Portrait",
     "site": "imdb",
     "year": "1975",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
-        "Documentary",
-        "Biography"
+        "Biography",
+        "Documentary"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0492444/",
+            "name": "Peter Lawford",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001522/",
+            "name": "Roddy McDowall",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0591486/",
+            "name": "Vincente Minnelli",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001369/",
+            "name": "Rock Hudson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0741423/",
+            "name": "Helen Rose",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0112218/",
+            "name": "Richard Brooks",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0555674/",
+            "name": "Samuel Marx",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1192416/",
+            "name": "Sara Taylor",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzk1MzBhNDgtMDVhNi00NDJjLTk2MjYtMmI0Mjc1OGVmYTFlXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/52Ot9ZiNGjtdGvAbcYBYgnwFDab.jpg",
     "details": {
+        "Stars": [
+            "Peter Lawford",
+            "Roddy McDowall",
+            "Vincente Minnelli"
+        ],
+        "Genres": [
+            "Biography",
+            "Documentary"
+        ],
+        "Writer": [
+            "Al Ramrus"
+        ],
+        "Runtime": [
+            "67 min"
+        ],
+        "Director": [
+            "Pat Shields"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "April 30, 1975 (United States)"
-        ],
-        "Also known as": [
-            "Elizabeth Taylor: An Intimate Portrait"
+            "1975-02-27"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Jack Haley Jr. Productions"
         ]
     },
-    "reviews": 3,
-    "creators": [],
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0708848/",
+            "name": "Al Ramrus",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT1H7M",
-    "keywords": [
-        "actor",
-        "memory",
-        "hollywood california",
-        "newsreel footage",
-        "london england"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0793236/",
+            "name": "Pat Shields",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0322154/",
     "metascore": null,
-    "imdb_votes": 135,
+    "imdb_votes": 136,
     "popularity": 0,
-    "description": "A made-for-television documentary hosted by Peter Lawford in discussions with close friends, family and colleagues of Elizabeth Taylor about her life and career and featuring clips from her films and archive footage from her perso...",
-    "imdb_rating": "6.4/10 from 135 users",
-    "release_date": [],
-    "contentRating": null,
-    "datePublished": "1975-04-30",
-    "imdb_rating_average": 6.4,
-    "update_at": "2025-11-15T00:52:16"
+    "description": "Vintage 1975 documentary about the life of movie queen Elizabeth Taylor hosted by Peter Lawford, and featuring appearances by actors Roddy McDowall and Rock Hudson, directors Richard Brooks and Vincente Minnelli, Elizabeth's mother Sara Taylor, costumer Helen Rose, and producer Sam Marx.",
+    "imdb_rating": "6.3/10 from 136 users",
+    "release_date": [
+        {
+            "date": "1975-02-27",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "PG",
+    "datePublished": "1975-02-27",
+    "original_title": "Elizabeth Taylor - An Intimate Portrait",
+    "imdb_rating_average": 6.3,
+    "update_at": "2026-11-09T03:00:21"
 }

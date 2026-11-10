@@ -6,77 +6,135 @@
     "year": "2020",
     "@type": "Movie",
     "genre": [
-        "Documentary",
-        "Biography"
+        "Biography",
+        "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1367065/",
-            "name": "Kimberly Guilfoyle"
+            "name": "Kimberly Guilfoyle",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm9617955/",
-            "name": "Brad Parscale"
+            "name": "Brad Parscale",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0682780/",
-            "name": "Katrina Pierson"
+            "name": "Katrina Pierson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3815881/",
+            "name": "Matt Schlapp",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2800693/",
+            "name": "Mercedes Schlapp",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0874339/",
+            "name": "Donald Trump",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3892104/",
+            "name": "Eric Trump",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8390554/",
+            "name": "Lara Trump",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2844856/",
+            "name": "Paula White",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11811817/",
+            "name": "Kerry Woolard",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjM2NTVmY2YtMDc1Yy00ZTc2LWEyNTgtZjI3NjQ1MDM5OTVmXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/4dJxlhninWLLJ3YDUbP3JG0Xm5Y.jpg",
     "details": {
+        "Stars": [
+            "Kimberly Guilfoyle",
+            "Brad Parscale",
+            "Katrina Pierson"
+        ],
+        "Genres": [
+            "Biography",
+            "Documentary"
+        ],
+        "Writer": [
+            "Matthew Thayer",
+            "Joe Knopp"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Matthew Thayer"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "October 1, 2020 (United States)"
-        ],
-        "Official site": [
-            "Official site - http://www.thetrumpiknow.com/"
+            "2020-10-01"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Washington DC, New York City, Philadelphia, Dallas, Madison, Tampa, Virginia, USA"
+            "United States of America"
         ],
         "Production companies": [
             "Speropictures",
             "WolfRock Pictures"
         ]
     },
-    "reviews": 13,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm5627037/",
-            "name": "Matthew Thayer"
+            "name": "Matthew Thayer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm7839151/",
-            "name": "Joe Knopp"
+            "name": "Joe Knopp",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        "family relationships",
-        "women"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm5627037/",
-            "name": "Matthew Thayer"
+            "name": "Matthew Thayer",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt12879276/",
     "metascore": null,
-    "imdb_votes": 349,
+    "imdb_votes": 361,
     "popularity": 0,
-    "description": "Follows Trump&apos;s family women firsthand experiences with the President.",
-    "imdb_rating": "3.6/10 from 349 users",
-    "release_date": [],
+    "description": "We form our perceptions of the world based from sound bites on small screens - Including our opinions of the President. This narrow viewpoint opens up for one film producer when he befriends Lara Trump. Lara introduces him and us to several women in the Trump family, administration, campaign, and business. Through these women's firsthand experiences with the President, we gain a broad understanding of the Trump they know.",
+    "imdb_rating": "3.9/10 from 361 users",
+    "release_date": [
+        {
+            "date": "2020-10-01",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2020-10-01",
-    "imdb_rating_average": 3.6,
-    "update_at": "2025-06-12T19:00:39"
+    "original_title": "The Trump I Know",
+    "imdb_rating_average": 3.9,
+    "update_at": "2026-11-09T06:14:19"
 }

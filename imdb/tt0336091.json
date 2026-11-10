@@ -4,7 +4,7 @@
     "name": "Buster Trims Up",
     "site": "imdb",
     "year": "1928",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Comedy",
         "Short"
@@ -12,52 +12,63 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0872855/",
-            "name": "Arthur Trimble"
+            "name": "Arthur Trimble",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2944131/",
-            "name": "The Wonder Dog Pal"
+            "name": "The Wonder Dog Pal",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0362552/",
-            "name": "Lois Hardwick"
+            "name": "Lois Hardwick",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0913452/",
+            "name": "Hannah Washington",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Arthur Trimble",
+            "The Wonder Dog Pal",
+            "Lois Hardwick"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Richard F. Outcault"
+        ],
+        "Director": [
+            "Sam Newfield"
         ],
         "Release date": [
-            "October 17, 1928 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Stern Brothers Productions"
+            "1928"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0653653/",
-            "name": "Richard F. Outcault"
+            "name": "Richard F. Outcault",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "dog",
-        "based on cartoon",
-        "pete the dog",
-        "buster brown series",
-        "character name in title"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0627864/",
-            "name": "Sam Newfield"
+            "name": "Sam Newfield",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0336091/",
@@ -68,7 +79,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1928-10-17",
+    "datePublished": "1928",
+    "original_title": "Buster Trims Up",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-17T01:00:28"
+    "update_at": "2026-11-09T06:56:29"
 }

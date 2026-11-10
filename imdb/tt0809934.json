@@ -4,74 +4,136 @@
     "name": "Pitch",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0048414/",
-            "name": "Dylan Baker"
+            "name": "Dylan Baker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2302986/",
-            "name": "Graham Bowen"
+            "name": "Graham Bowen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1478025/",
-            "name": "Mary Ellen Cravens"
+            "name": "Mary Ellen Cravens",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1275259/",
+            "name": "Alexandra Daddario",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2280060/",
+            "name": "Aaron Fuchs",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0297229/",
+            "name": "Jason Fuchs",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2280068/",
+            "name": "Lillian Fuchs",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1834436/",
+            "name": "Ian Gelfand",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2293211/",
+            "name": "Andy Jobe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2290523/",
+            "name": "Debby Jobe",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3NDI5MzQ3MF5BMl5BanBnXkFtZTcwNjU4NjQzMQ@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/wreG0gU1ik37fCkQw7PJ9gV27UT.jpg",
     "details": {
+        "Stars": [
+            "Dylan Baker",
+            "Graham Bowen",
+            "Mary Ellen Cravens"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Jason Fuchs"
+        ],
+        "Runtime": [
+            "20 min"
+        ],
+        "Director": [
+            "Ian Gelfand"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 23, 2006 (United States)"
-        ],
-        "Official site": [
-            "Official site - http://www.pitch-themovie.com/"
+            "2006-05-17"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "New York City, New York, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Jason Fuchs Productions"
         ]
     },
     "reviews": 0,
+    "tagline": "Lights. Camera. Neuroses.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0297229/",
-            "name": "Jason Fuchs"
+            "name": "Jason Fuchs",
+            "@type": "Person"
         }
     ],
     "duration": "PT20M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1834436/",
-            "name": "Ian Gelfand"
+            "name": "Ian Gelfand",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0809934/",
     "metascore": null,
-    "imdb_votes": 67,
+    "imdb_votes": 70,
     "popularity": 0,
-    "description": "Two NYU film grads, hot off the success of their smash hit student film, prepare to pitch their big action movie to a film studio, in hopes of making the leap to &quot;the next level&quot;.",
-    "imdb_rating": "6.6/10 from 67 users",
-    "release_date": [],
+    "description": "Two NYU film grads, hot off the success of their smash hit student film, prepare to pitch their big action movie to a film studio in hopes of making the leap to \"the next level.\"",
+    "imdb_rating": "6.5/10 from 70 users",
+    "release_date": [
+        {
+            "date": "2006-05-17",
+            "country": "France"
+        },
+        {
+            "date": "2006-05-23",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2006-05-23",
-    "imdb_rating_average": 6.6,
-    "update_at": "2025-09-02T19:56:09"
+    "datePublished": "2006-05-17",
+    "original_title": "Pitch",
+    "imdb_rating_average": 6.5,
+    "update_at": "2026-11-09T11:14:15"
 }

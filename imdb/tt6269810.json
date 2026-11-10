@@ -4,7 +4,7 @@
     "name": "Bad Ben",
     "site": "imdb",
     "year": "2016",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Horror"
@@ -12,55 +12,74 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm8601690/",
-            "name": "Nigel Bach"
+            "name": "Nigel Bach",
+            "@type": "Person"
         }
     ],
-    "critic": 7,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGUzZDg1ZGItNTAzMi00NzZiLTk3MDAtNjA5NjI0MDYwM2FiXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/dov7hptppXDrFdZf3m45JvJJrBP.jpg",
     "details": {
+        "Stars": [
+            "Nigel Bach"
+        ],
+        "Genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "Runtime": [
+            "86 min"
+        ],
+        "Director": [
+            "Nigel Bach"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "October 5, 2016 (United States)"
-        ],
-        "Also known as": [
-            "Плохой Бен"
-        ],
-        "Official site": [
-            "Official Site - http://www.badbenmovie.com/"
+            "2016-10-05"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Egg Harbor Township, New Jersey, USA"
+        "Production companies": [
+            "Nigel Bach Productions"
         ]
     },
-    "reviews": 100,
+    "reviews": 0,
+    "tagline": "Tom Riley  thought this home was a great deal... it turns out it was a nightmare",
+    "creators": [],
     "duration": "PT1H26M",
     "keywords": [
+        "halloween",
+        "haunted house",
+        "evil spirit",
+        "paranormal investigation",
+        "security system",
         "found footage",
-        "two word title",
-        "alliterative title",
-        "found footage horror",
-        "character name in title"
+        "faux documentary"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm8601690/",
-            "name": "Nigel Bach"
+            "name": "Nigel Bach",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt6269810/",
     "metascore": null,
-    "imdb_votes": 2301,
+    "imdb_votes": 2414,
     "popularity": 0,
-    "description": "A man realizes something sinister lives inside his new home.",
-    "imdb_rating": "5.4/10 from 2301 users",
-    "release_date": [],
+    "description": "Tom Riley thought he was getting the deal of a lifetime when he bought a house below market value at a Sheriff's sale. He invested every penny he had with the plan of flipping the home for a profit. Once he owned it, however, he noticed strange happenings, all of which were captured on 21 Surveillance Cameras located throughout the home inside and out. At first, he thought people were breaking in, but he soon realized he was dealing with something Paranormal.",
+    "imdb_rating": "5.4/10 from 2414 users",
+    "release_date": [
+        {
+            "date": "2016-10-05",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2016-10-05",
+    "original_title": "Bad Ben",
     "imdb_rating_average": 5.4,
-    "update_at": "2025-05-19T09:35:11"
+    "update_at": "2026-11-09T08:21:08"
 }

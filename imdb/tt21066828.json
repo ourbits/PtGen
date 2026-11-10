@@ -4,73 +4,97 @@
     "name": "Anticlímax",
     "site": "imdb",
     "year": "2023",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm8525513/",
-            "name": "Alicia Armenteros"
+            "name": "Alicia Armenteros",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5336017/",
-            "name": "Fabián Castro"
+            "name": "Fabián Castro",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3276863/",
-            "name": "Jorge Clemente"
+            "name": "Jorge Clemente",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1349281/",
+            "name": "Belén López",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1254805/",
+            "name": "Manolo Solo",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2EwNjEzMTktOWFjYS00MTExLTkwOTktZWRlOWMxNTUwMWQ1XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "Spanish"
+        "Stars": [
+            "Alicia Armenteros",
+            "Fabián Castro",
+            "Jorge Clemente"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Óscar Romero"
+        ],
+        "Runtime": [
+            "19 min"
+        ],
+        "Director": [
+            "Néstor López",
+            "Óscar Romero"
         ],
         "Release date": [
-            "March 5, 2023 (Spain)"
-        ],
-        "Country of origin": [
-            "Spain"
-        ],
-        "Production companies": [
-            "Filmakers Monkeys",
-            "Mitad & Mitad Producciones",
-            "Setlife Media SL"
+            "2023"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm13047464/",
-            "name": "Óscar Romero"
+            "name": "Óscar Romero",
+            "@type": "Person"
         }
     ],
     "duration": "PT19M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm8740167/",
-            "name": "Néstor López"
+            "name": "Néstor López",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm13047464/",
-            "name": "Óscar Romero"
+            "name": "Óscar Romero",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt21066828/",
     "metascore": null,
-    "imdb_votes": 17,
+    "imdb_votes": 19,
     "popularity": 0,
-    "description": "Jaime and Rocío are a married couple settled in a routine, the passion that existed between them disappeared a long time ago. They never talk about it openly, they have never been able to face reality. A night like any other, they...",
-    "imdb_rating": "6.3/10 from 17 users",
+    "description": null,
+    "imdb_rating": "6.6/10 from 19 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2023-03-05",
-    "imdb_rating_average": 6.3,
-    "update_at": "2026-02-10T23:56:41"
+    "datePublished": "2023",
+    "original_title": "Anticlímax",
+    "imdb_rating_average": 6.6,
+    "update_at": "2026-11-09T15:00:38"
 }
