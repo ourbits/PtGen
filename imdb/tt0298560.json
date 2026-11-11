@@ -1,75 +1,119 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Statistic The Movie",
+            "country": "United States of America"
+        }
+    ],
     "sid": "tt0298560",
     "name": "Statistic: The Movie",
     "site": "imdb",
     "year": "2001",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
-        "Crime",
-        "Action"
+        "Action",
+        "Crime"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1067252/",
-            "name": "Lawrence Page"
+            "name": "Lawrence Page",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1064886/",
-            "name": "Tameko Cameron"
+            "name": "Tameko Cameron",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0714983/",
-            "name": "Redman"
+            "name": "Redman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1065067/",
+            "name": "Mobb Deep",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1064824/",
+            "name": "Lost Boyz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0473642/",
+            "name": "Josip Kuchan",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2U1ZmIzMGMtZDg1YS00YzZlLTlhNDYtOWNhOTM3ZTQzYjc1XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/8MBHETZCeVUlFcnf6kDjBFhhABf.jpg",
     "details": {
+        "Stars": [
+            "Lawrence Page",
+            "Tameko Cameron",
+            "Redman"
+        ],
+        "Genres": [
+            "Action",
+            "Crime"
+        ],
+        "Writer": [
+            "Lawrence Page"
+        ],
+        "Runtime": [
+            "132 min"
+        ],
+        "Director": [
+            "Lawrence Page"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "June 26, 2001 (United States)"
+            "2001-06-26"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
-            "Hollyhood Films",
+            "Hollywood Films",
             "Lawrence Page Films"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": "'TIL DEATH DO US PART",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1067252/",
-            "name": "Lawrence Page"
+            "name": "Lawrence Page",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H12M",
-    "keywords": [
-        "long island new york",
-        "urban setting",
-        "statistics",
-        "lost boyz",
-        "independent film"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1067252/",
-            "name": "Lawrence Page"
+            "name": "Lawrence Page",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0298560/",
     "metascore": null,
-    "imdb_votes": 47,
+    "imdb_votes": 48,
     "popularity": 0,
-    "description": "Footie learned how to survive on the bleak side of Long Island. Later, in prison he was just a statistic. How will life fare now that he is out again?",
-    "imdb_rating": "6/10 from 47 users",
-    "release_date": [],
+    "description": "Footi was destined to become a ghetto bastard after his father brutally killed his mother and then himself. Footie gambles with the law and lost. Now Footie is ready to create his own destiny and share it with his newfound love - Felicia.  Footie gets a 9-5 job and avoided trouble... until trouble found them. Fired and broke, both Footie and Felicia find 2 one way tickets back to the streets. Surrounded by America's most dangerous criminals, Footie and Felicia fight to stay together UNTIL DEATH DO THEY PART.",
+    "imdb_rating": "6.2/10 from 48 users",
+    "release_date": [
+        {
+            "date": "2001-06-26",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2001-06-26",
-    "imdb_rating_average": 6,
-    "update_at": "2025-05-18T18:43:36"
+    "original_title": "Statistic: The Movie",
+    "imdb_rating_average": 6.2,
+    "update_at": "2026-11-10T15:56:19"
 }

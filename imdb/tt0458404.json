@@ -4,78 +4,93 @@
     "name": "Josefs Brüder",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Drama",
+        "Short",
         "War"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1901967/",
-            "name": "Anna Clarin"
+            "name": "Anna Clarin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1903680/",
-            "name": "Florian Eisner"
+            "name": "Florian Eisner",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0279141/",
-            "name": "Thomas Fischer"
+            "name": "Thomas Fischer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0500724/",
+            "name": "Kathi Leitner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0738567/",
+            "name": "Werner Rom",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Anna Clarin",
+            "Florian Eisner",
+            "Thomas Fischer"
+        ],
+        "Genres": [
+            "Drama",
+            "Short",
+            "War"
+        ],
+        "Writer": [
+            "Philipp Clarin"
+        ],
+        "Runtime": [
+            "13 min"
+        ],
+        "Director": [
+            "Philipp Clarin"
         ],
         "Release date": [
-            "April 24, 2005 (Germany)"
-        ],
-        "Official site": [
-            "Official site (Germany) - http://www.josefs-brueder.de/"
-        ],
-        "Country of origin": [
-            "Germany"
-        ],
-        "Filming locations": [
-            "Chiemsee, Bavaria, Germany"
-        ],
-        "Production company": [
-            "Hochschule für Fernsehen und Film München (HFF)"
+            "2005"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0006611/",
-            "name": "Philipp Clarin"
+            "name": "Philipp Clarin",
+            "@type": "Person"
         }
     ],
     "duration": "PT13M",
-    "keywords": [
-        "mountain",
-        "military",
-        "world war two",
-        "germany",
-        "deserter"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0006611/",
-            "name": "Philipp Clarin"
+            "name": "Philipp Clarin",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0458404/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "April 1944. Rosa, a farmers wife, and her daughter Vroni manage a small, remote farm in the Bavarian mountains. Since her brother Josef had been drafted by the army, the usually cheerful Vroni suffers under her mothers bitterness....",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2005-04-24",
+    "datePublished": "2005",
+    "original_title": "Josefs Brüder",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-19T09:21:14"
+    "update_at": "2026-11-10T13:07:39"
 }

@@ -3,7 +3,8 @@
     "sid": "tt0259306",
     "name": "Faust",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1975",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Fantasy",
@@ -12,69 +13,111 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0311443/",
-            "name": "Nicolai Gedda"
+            "name": "Nicolai Gedda",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0816426/",
-            "name": "Roger Soyer"
+            "name": "Roger Soyer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0294262/",
-            "name": "Mirella Freni"
+            "name": "Mirella Freni",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0470269/",
+            "name": "Tom Krause",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1260077/",
+            "name": "Renée Auphan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0815873/",
+            "name": "Jean Soumagnas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0846808/",
+            "name": "Jocelyne Taillon",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTJmNzFiYjktMjAxZi00ZjQyLThlNTAtMzE3MmM0YjI5M2I5XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/2c75Lj9GBQnifTF9hY7qKtpNpaI.jpg",
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Nicolai Gedda",
+            "Roger Soyer",
+            "Mirella Freni"
         ],
-        "Country of origin": [
-            "France"
+        "Genres": [
+            "Drama",
+            "Fantasy",
+            "Music"
         ],
-        "Production companies": [
-            "Institut National de l'Audiovisuel (INA)",
-            "Opéra de Paris"
+        "Writer": [
+            "Jules Barbier",
+            "Michel Carré",
+            "Johann Wolfgang von Goethe"
+        ],
+        "Runtime": [
+            "205 min"
+        ],
+        "Director": [
+            "Yves-André Hubert"
+        ],
+        "Release date": [
+            "1975-01-01"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0053623/",
-            "name": "Jules Barbier"
+            "name": "Jules Barbier",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0141151/",
-            "name": "Michel Carré"
+            "name": "Michel Carré",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0324473/",
-            "name": "Johann Wolfgang von Goethe"
+            "name": "Johann Wolfgang von Goethe",
+            "@type": "Person"
         }
     ],
     "duration": "PT3H25M",
-    "keywords": [
-        "soul selling",
-        "opera",
-        "deal with the devil",
-        "based on play",
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0399493/",
-            "name": "Yves-André Hubert"
+            "name": "Yves-André Hubert",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0259306/",
     "metascore": null,
     "imdb_votes": 14,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "8.3/10 from 14 users",
-    "release_date": [],
+    "description": "L'Opéra de Paris Orchestra & Chorus\r Conductor: Charles Mackerras\r Stage Director: Jorge Lavelli\r Theatre National de l'Opera de Paris, 1975",
+    "imdb_rating": "8.1/10 from 14 users",
+    "release_date": [
+        {
+            "date": "1975-01-01",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 8.3,
-    "update_at": "2026-05-03T17:42:31"
+    "datePublished": "1975-01-01",
+    "original_title": "Faust",
+    "imdb_rating_average": 8.1,
+    "update_at": "2026-11-11T00:35:24"
 }

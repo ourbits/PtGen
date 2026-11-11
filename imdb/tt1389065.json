@@ -4,51 +4,61 @@
     "name": "Collide",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3096796/",
-            "name": "Lia Marie Johnson"
+            "name": "Lia Marie Johnson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1174557/",
-            "name": "Peter Wylie"
+            "name": "Peter Wylie",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "None"
+        "Stars": [
+            "Lia Marie Johnson",
+            "Peter Wylie"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Corbin Billings"
+        ],
+        "Runtime": [
+            "5 min"
+        ],
+        "Director": [
+            "Corbin Billings"
         ],
         "Release date": [
-            "April 26, 2009 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "16769 Capon Tree Lane, Woodbridge, Virginia, USA"
+            "2009"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3348891/",
-            "name": "Corbin Billings"
+            "name": "Corbin Billings",
+            "@type": "Person"
         }
     ],
     "duration": "PT5M",
-    "keywords": [
-        "drunk driving"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3348891/",
-            "name": "Corbin Billings"
+            "name": "Corbin Billings",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1389065/",
@@ -59,7 +69,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2009-04-26",
+    "datePublished": "2009",
+    "original_title": "Collide",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-05T20:44:50"
+    "update_at": "2026-11-10T12:28:14"
 }

@@ -4,84 +4,147 @@
     "name": "Baby Brother",
     "site": "imdb",
     "year": "1927",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Family",
         "Comedy",
+        "Family",
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0167782/",
-            "name": "Joe Cobb"
+            "name": "Joe Cobb",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0174393/",
-            "name": "Jackie Condon"
+            "name": "Jackie Condon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0201371/",
-            "name": "Jean Darling"
+            "name": "Jean Darling",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0396012/",
+            "name": "Allen 'Farina' Hoskins",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0396023/",
+            "name": "Jannie Hoskins",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0404257/",
+            "name": "Bobby 'Wheezer' Hutchins",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0523368/",
+            "name": "Scooter Lowry",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0808646/",
+            "name": "Jay R. Smith",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0949410/",
+            "name": "Clifton Young",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0466506/",
+            "name": "Mildred Kornman",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTE1OTJjMmQtYTk5Mi00ODc5LTlhZmQtNDVmNjU1OTk1NmE5XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/9yyvdlfttXr1WP8GCtxzyWrxHKH.jpg",
     "details": {
+        "Stars": [
+            "Joe Cobb",
+            "Jackie Condon",
+            "Jean Darling"
+        ],
+        "Genres": [
+            "Comedy",
+            "Family",
+            "Short"
+        ],
+        "Writer": [
+            "Hal Roach",
+            "H.M. Walker"
+        ],
+        "Runtime": [
+            "20 min"
+        ],
+        "Director": [
+            "Robert A. McGowan",
+            "Charles Oelze"
+        ],
         "Language": [
-            "English"
+            "No Language"
         ],
         "Release date": [
-            "June 26, 1927 (United States)"
-        ],
-        "Also known as": [
-            "Rockabye Baby"
+            "1927-06-26"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Hal Roach Studios"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0730018/",
-            "name": "Hal Roach"
+            "name": "Hal Roach",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0907778/",
-            "name": "H.M. Walker"
+            "name": "H.M. Walker",
+            "@type": "Person"
         }
     ],
     "duration": "PT20M",
     "keywords": [
-        "children",
-        "our gang",
-        "actor shares first name with character"
+        "silent film",
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0569696/",
-            "name": "Robert A. McGowan"
+            "name": "Robert A. McGowan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0644271/",
-            "name": "Charles Oelze"
+            "name": "Charles Oelze",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0233271/",
     "metascore": null,
-    "imdb_votes": 99,
+    "imdb_votes": 108,
     "popularity": 0,
-    "description": "Joe is rich but lonely, and wants nothing but a baby brother. Together with Farina, he embarks on a series of misadventures to find a baby brother of his own. Meanwhile the rest of the gang try to make money with a parking space f...",
-    "imdb_rating": "7/10 from 99 users",
-    "release_date": [],
-    "contentRating": "Passed",
+    "description": "Joe Cobb is a wealthy child who longs for a baby brother. His nursemaid takes him to the other side where he meets some kids his age (the rest of Our Gang) where Joe offers three dollars for a baby. Farina finds a fellow African-American neighbor woman who lets him mind her infant which he then paints white and sells to Joe. The rest of the gang has set an assembly-line system that washes, dries, rocks, and feeds male and female babies.",
+    "imdb_rating": "7.0/10 from 108 users",
+    "release_date": [
+        {
+            "date": "1927-06-26",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1927-06-26",
-    "imdb_rating_average": 7,
-    "update_at": "2025-05-13T17:13:30"
+    "original_title": "Baby Brother",
+    "imdb_rating_average": 7.0,
+    "update_at": "2026-11-10T23:35:06"
 }

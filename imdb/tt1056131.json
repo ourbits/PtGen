@@ -4,62 +4,98 @@
     "name": "Simpl - Zwischen allen Stühlen",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2694468/",
-            "name": "Johannes Glück"
+            "name": "Johannes Glück",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0369560/",
-            "name": "Sigrid Hauser"
+            "name": "Sigrid Hauser",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1296291/",
-            "name": "Bernhard Murg"
+            "name": "Bernhard Murg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1927263/",
+            "name": "Angelika Niedetzky",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0772663/",
+            "name": "Alexandra Schmid",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2332870/",
+            "name": "Thomas Smolej",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1488431/",
+            "name": "Herbert Steinböck",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2694343/",
+            "name": "Thomas M. Strobl",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Johannes Glück",
+            "Sigrid Hauser",
+            "Bernhard Murg"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Michael Niavarani",
+            "Albert Schmidleitner"
+        ],
+        "Runtime": [
+            "88 min"
+        ],
+        "Director": [
+            "Dolores Schmidinger"
         ],
         "Release date": [
-            "June 16, 2007 (Austria)"
-        ],
-        "Country of origin": [
-            "Austria"
-        ],
-        "Filming locations": [
-            "Kabarett Simpl, Vienna, Austria"
-        ],
-        "Production company": [
-            "Österreichischer Rundfunk (ORF)"
+            "2007"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0629212/",
-            "name": "Michael Niavarani"
+            "name": "Michael Niavarani",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1127406/",
-            "name": "Albert Schmidleitner"
+            "name": "Albert Schmidleitner",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H28M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0772766/",
-            "name": "Dolores Schmidinger"
+            "name": "Dolores Schmidinger",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1056131/",
@@ -70,7 +106,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2007-06-16",
+    "datePublished": "2007",
+    "original_title": "Simpl - Zwischen allen Stühlen",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-16T20:55:40"
+    "update_at": "2026-11-10T14:00:26"
 }

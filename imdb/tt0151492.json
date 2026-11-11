@@ -4,64 +4,88 @@
     "name": "Marching Along",
     "site": "imdb",
     "year": "1933",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Animation",
-        "Short",
-        "Family"
+        "Family",
+        "Musical"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2467291/",
-            "name": "Charles Bullock"
+            "name": "Charles Bullock",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/9JTTTN62QlAFZzLGrqmkyATZtdc.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Charles Bullock"
+        ],
+        "Genres": [
+            "Animation",
+            "Family",
+            "Musical"
+        ],
+        "Writer": [
+            "Oscar E. Soglow"
+        ],
+        "Runtime": [
+            "7 min"
+        ],
+        "Director": [
+            "Vernon Stallings",
+            "James Tyer"
         ],
         "Release date": [
-            "October 2, 1933 (United States)"
+            "1933-09-30"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Van Beuren Studios"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0812221/",
-            "name": "Oscar E. Soglow"
+            "name": "Oscar E. Soglow",
+            "@type": "Person"
         }
     ],
     "duration": "PT7M",
-    "keywords": [
-        "little king"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0821707/",
-            "name": "Vernon Stallings"
+            "name": "Vernon Stallings",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0878734/",
-            "name": "James Tyer"
+            "name": "James Tyer",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0151492/",
     "metascore": null,
-    "imdb_votes": 33,
+    "imdb_votes": 34,
     "popularity": 0,
-    "description": "The kingdom&apos;s finances are in a sorry state, until the Little King comes up with a plan to put everybody back to work.",
-    "imdb_rating": "5.9/10 from 33 users",
-    "release_date": [],
+    "description": "Comic strip character The Little King in an animated short, produced by Van Beuren studios.",
+    "imdb_rating": "6.4/10 from 34 users",
+    "release_date": [
+        {
+            "date": "1933-09-30",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1933-10-02",
-    "imdb_rating_average": 5.9,
-    "update_at": "2025-07-08T23:42:07"
+    "datePublished": "1933-09-30",
+    "original_title": "Marching Along",
+    "imdb_rating_average": 6.4,
+    "update_at": "2026-11-10T14:42:31"
 }

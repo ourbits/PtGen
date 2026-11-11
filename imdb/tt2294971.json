@@ -4,39 +4,102 @@
     "name": "Zodiac",
     "site": "imdb",
     "year": "2012",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm5717441/",
+            "name": "Dimitris Chasapidis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4944082/",
+            "name": "Christina Baltzi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0879284/",
+            "name": "Theodora Tzimou",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjQ0MTY4MDQtY2M4OC00MWY3LWJjMzEtY2RiMDJjNjc1ZDg0XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/hUmLFl8up05ktNRdrwRZpJOxVcA.jpg",
     "details": {
+        "Stars": [
+            "Dimitris Chasapidis",
+            "Christina Baltzi",
+            "Theodora Tzimou"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Konstantina Kotzamani"
+        ],
+        "Runtime": [
+            "30 min"
+        ],
+        "Director": [
+            "Konstantina Kotzamani"
+        ],
         "Language": [
+            "French",
             "Greek"
         ],
         "Release date": [
-            "June 14, 2012 (Greece)"
+            "2012-03-19"
         ],
         "Country of origin": [
             "Greece"
+        ],
+        "Production companies": [
+            "Film School of the Aristotle University of Thessaloniki"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm4944246/",
+            "name": "Konstantina Kotzamani",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT30M",
     "keywords": [
-        "gay interest",
-        "trans"
+        "short film"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm4944246/",
+            "name": "Konstantina Kotzamani",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2294971/",
     "metascore": null,
-    "imdb_votes": 20,
+    "imdb_votes": 22,
     "popularity": 0,
-    "description": "Peter is an eight year old boy who lives in a cheap hotel room. When his mother oddly disappears, a transsexual woman comes to take care of him, against her own will. Sooner or later Peter will find out that this is the woman with...",
-    "imdb_rating": "6.2/10 from 20 users",
-    "release_date": [],
+    "description": "Peter is an eight year old boy who lives in a cheap hotel room. When his mother oddly disappears, a transsexual woman comes to take care of him, against her own will. Sooner or later Peter will find out that this is the woman with the 'plumed snake', the woman that will pull him to outside world, where anything is likely to occur.",
+    "imdb_rating": "5.9/10 from 22 users",
+    "release_date": [
+        {
+            "date": "2012-10-13",
+            "country": "France"
+        },
+        {
+            "date": "2012-03-19",
+            "country": "Greece"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2012-06-14",
-    "imdb_rating_average": 6.2,
-    "update_at": "2025-11-07T18:44:13"
+    "datePublished": "2012-03-19",
+    "original_title": "Zodiac",
+    "imdb_rating_average": 5.9,
+    "update_at": "2026-11-10T23:35:07"
 }

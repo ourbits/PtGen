@@ -4,69 +4,128 @@
     "name": "Pozdnyaya vstrecha",
     "site": "imdb",
     "year": "1979",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Romance"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0060692/",
-            "name": "Aleksey Batalov"
+            "name": "Aleksey Batalov",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0901675/",
-            "name": "Margarita Volodina"
+            "name": "Margarita Volodina",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0527009/",
-            "name": "Larisa Luppian"
+            "name": "Larisa Luppian",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1641023/",
+            "name": "Viktor Burkhart",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0025957/",
+            "name": "Yelena Anderegg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1138854/",
+            "name": "Aleksandr Bolonin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm9649006/",
+            "name": "O. Byelov",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0155854/",
+            "name": "Olga Cherkasova",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0230507/",
+            "name": "Tatyana Dogileva",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0947215/",
+            "name": "Igor Efimov",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWViNmRkMzMtNTc1MS00ODFjLThmNjgtN2Y1MDQyOWU0YzVlXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/ymX8uTbgPQTbMyLt11GhFDgoDT2.jpg",
     "details": {
+        "Stars": [
+            "Aleksey Batalov",
+            "Margarita Volodina",
+            "Larisa Luppian"
+        ],
+        "Genres": [
+            "Romance"
+        ],
+        "Writer": [
+            "Yuriy Nagibin"
+        ],
+        "Runtime": [
+            "78 min"
+        ],
+        "Director": [
+            "Vladimir Shredel"
+        ],
         "Language": [
             "Russian"
         ],
         "Release date": [
-            "April 24, 1979 (Soviet Union)"
-        ],
-        "Also known as": [
-            "Поздняя встреча"
+            "1979-04-24"
         ],
         "Country of origin": [
             "Soviet Union"
         ],
-        "Production company": [
-            "Sverdlovskaya Kinostudiya"
+        "Production companies": [
+            "Sverdlovsk Film Studio"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0619330/",
-            "name": "Yuriy Nagibin"
+            "name": "Yuriy Nagibin",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H18M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0795354/",
-            "name": "Vladimir Shredel"
+            "name": "Vladimir Shredel",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1031958/",
     "metascore": null,
-    "imdb_votes": 76,
+    "imdb_votes": 94,
     "popularity": 0,
-    "description": "After a story of Yuri Nagibin Need grey hair. Having arrived to Leningrad on official business, an engineer Sergei Ivanovich Gushchin gets acquainted with a young actress Natasha. She offers to show him Leningrad, but Gushin knows...",
-    "imdb_rating": "6.7/10 from 76 users",
-    "release_date": [],
+    "description": "The film takes place in Leningrad and Sverdlovsk, in 1970 and 1979.\r Arriving on a business trip from Sverdlovsk in the Lenfilm, engineer catapults Sergei Gushchin meets a young actress Natasha. She invites him to show Leningrad, but Gushchin and he knows the city - he served here during the war. They are looking for an excuse for further meetings, but he always finds a reason to not to meet with the woman who is many years younger than him and with whom he has fallen in love with. Natasha understands too that she loves this man, but Gushchin leaves, and not daring to associate with her fate. In the end he leaves and only returns to Leningrad nine years later and then he tries to find Natasha again.",
+    "imdb_rating": "6.7/10 from 94 users",
+    "release_date": [
+        {
+            "date": "1979-04-24",
+            "country": "Russia"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1979-04-24",
+    "original_title": "Pozdnyaya vstrecha",
     "imdb_rating_average": 6.7,
-    "update_at": "2025-03-24T13:44:48"
+    "update_at": "2026-11-10T05:28:41"
 }

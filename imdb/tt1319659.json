@@ -4,63 +4,102 @@
     "name": "Die Rolle seines Lebens",
     "site": "imdb",
     "year": "1967",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0257040/",
-            "name": "Alexander Engel"
+            "name": "Alexander Engel",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0718422/",
-            "name": "Hans Reiser"
+            "name": "Hans Reiser",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0712022/",
-            "name": "Siegfried Rauch"
+            "name": "Siegfried Rauch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1954870/",
+            "name": "Ferdi Welter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3189626/",
+            "name": "Heidi Walter-Stokowa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0373983/",
+            "name": "Manfred Heidmann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0280157/",
+            "name": "Siegurd Fitzek",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Alexander Engel",
+            "Hans Reiser",
+            "Siegfried Rauch"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Wilm ten Haaf",
+            "Indro Montanelli",
+            "Michael Oehring"
+        ],
+        "Runtime": [
+            "85 min"
+        ],
+        "Director": [
+            "Wilm ten Haaf"
         ],
         "Release date": [
-            "June 15, 1967 (West Germany)"
+            "1967-06-15"
         ],
         "Country of origin": [
-            "West Germany"
-        ],
-        "Production company": [
-            "Saarländischer Rundfunk (SR)"
+            "Germany"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0351746/",
-            "name": "Wilm ten Haaf"
+            "name": "Wilm ten Haaf",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0598975/",
-            "name": "Indro Montanelli"
+            "name": "Indro Montanelli",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2754816/",
-            "name": "Michael Oehring"
+            "name": "Michael Oehring",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H25M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0351746/",
-            "name": "Wilm ten Haaf"
+            "name": "Wilm ten Haaf",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1319659/",
@@ -69,9 +108,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1967-06-15",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1967-06-15",
+    "original_title": "Die Rolle seines Lebens",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-18T08:00:13"
+    "update_at": "2026-11-10T07:42:15"
 }

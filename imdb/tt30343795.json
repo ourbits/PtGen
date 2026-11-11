@@ -4,43 +4,53 @@
     "name": "Wild Belgium",
     "site": "imdb",
     "year": "2023",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm14308907/",
-            "name": "Dale Birch"
+            "name": "Dale Birch",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQ0Mjg2MjktYTYyMS00NDE0LWIyNTAtOTM4NmE4ZmIzNDZlXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Dale Birch"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Runtime": [
+            "48 min"
+        ],
+        "Director": [
+            "Jozef Deville",
+            "Pablo Eekman"
         ],
         "Release date": [
-            "December 4, 2023 (Belgium)"
-        ],
-        "Also known as": [
-            "Vad Belgium"
-        ],
-        "Official site": [
-            "earthtouchtvsales.com - https://www.earthtouchtvsales.com/distribution/wild-belgium/"
-        ],
-        "Country of origin": [
-            "Belgium"
-        ],
-        "Production company": [
-            "Agentschap voor Natuur en Bos van de Vlaamse Overheid"
+            "2023-12-04"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
-    "duration": null,
-    "keywords": [
-        "tv mini series"
+    "duration": "PT48M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm5716781/",
+            "name": "Jozef Deville",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5716610/",
+            "name": "Pablo Eekman",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt30343795/",
     "metascore": null,
@@ -51,6 +61,7 @@
     "release_date": [],
     "contentRating": null,
     "datePublished": "2023-12-04",
+    "original_title": "Wild Belgium",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-26T18:15:26"
+    "update_at": "2026-11-11T00:14:06"
 }

@@ -1,87 +1,161 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Párosban Párizsban",
+            "country": "Hungary"
+        },
+        {
+            "title": "Parisə Passport",
+            "country": "Azerbaijan"
+        }
+    ],
     "sid": "tt0202521",
     "name": "Passport to Paris",
     "site": "imdb",
     "year": "1999",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
-        "Family",
-        "Comedy"
+        "Comedy",
+        "Family"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001581/",
-            "name": "Mary-Kate Olsen"
+            "name": "Mary-Kate Olsen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001580/",
-            "name": "Ashley Olsen"
+            "name": "Ashley Olsen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0925320/",
-            "name": "Peter White"
+            "name": "Peter White",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0935616/",
+            "name": "Matt Winston",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0778543/",
+            "name": "Yvonne Sciò",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0915417/",
+            "name": "Brocker Way",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0669656/",
+            "name": "Ethan Peck",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0320931/",
+            "name": "François Giroday",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0579626/",
+            "name": "Jon Menick",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0163882/",
+            "name": "Doran Clark",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODRkZTM5MzUtNWUzZC00YTQ2LThlNWItZGI5Mjc5YWI4NWNmXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/qwSUZWucryjWJ4ZLjDhy94MHev5.jpg",
     "details": {
-        "Languages": [
-            "French",
+        "Stars": [
+            "Mary-Kate Olsen",
+            "Ashley Olsen",
+            "Peter White"
+        ],
+        "Genres": [
+            "Comedy",
+            "Family"
+        ],
+        "Writer": [
+            "Elizabeth Kruger",
+            "Craig Shapiro"
+        ],
+        "Runtime": [
+            "87 min"
+        ],
+        "Director": [
+            "Alan Metter"
+        ],
+        "Language": [
             "English"
         ],
         "Release date": [
-            "November 9, 1999 (United States)"
-        ],
-        "Also known as": [
-            "Pasaporte a París"
+            "1999-11-09"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Alverno High School - 200 North Michillinda Avenue, Sierra Madre, California, USA"
+            "United States of America"
         ],
         "Production companies": [
-            "Dualstar Productions",
             "Hollyridge Productions",
-            "Tapestry Films"
+            "Dualstar Productions"
         ]
     },
-    "reviews": 49,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0472568/",
-            "name": "Elizabeth Kruger"
+            "name": "Elizabeth Kruger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0788481/",
-            "name": "Craig Shapiro"
+            "name": "Craig Shapiro",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H27M",
     "keywords": [
-        "close up of eyes",
-        "close up of lips",
-        "close up of mouth",
-        "france",
-        "twins"
+        "paris, france",
+        "grandfather",
+        "twins",
+        "american abroad",
+        "spring break",
+        "teenage romance",
+        "fashion model"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0582635/",
-            "name": "Alan Metter"
+            "name": "Alan Metter",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0202521/",
     "metascore": null,
-    "imdb_votes": 6202,
+    "imdb_votes": 6478,
     "popularity": 0,
-    "description": "Twelve-year-old twins Melanie and Allyson Porter spend spring break in Paris with their grandfather, the U.S. ambassador to France. The sights of Paris create a magnificent backdrop for the twins&apos; adventures.",
-    "imdb_rating": "5.2/10 from 6202 users",
-    "release_date": [],
+    "description": "Sent to Paris to visit their grandfather, the twins fall in love with France, not to mention two French boys.",
+    "imdb_rating": "5.3/10 from 6478 users",
+    "release_date": [
+        {
+            "date": "2006-04-21",
+            "country": "Germany"
+        },
+        {
+            "date": "1999-11-09",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": "G",
     "datePublished": "1999-11-09",
-    "imdb_rating_average": 5.2,
-    "update_at": "2025-07-18T11:36:40"
+    "original_title": "Passport to Paris",
+    "imdb_rating_average": 5.3,
+    "update_at": "2026-11-10T11:21:10"
 }

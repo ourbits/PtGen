@@ -4,81 +4,133 @@
     "name": "Dreams Lost, Dreams Found",
     "site": "imdb",
     "year": "1987",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000599/",
-            "name": "Kathleen Quinlan"
+            "name": "Kathleen Quinlan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0730191/",
-            "name": "David Robb"
+            "name": "David Robb",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0105280/",
-            "name": "Betsy Brantley"
+            "name": "Betsy Brantley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0336509/",
+            "name": "Charles Gray",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0641984/",
+            "name": "Colette O'Neil",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0107741/",
+            "name": "Louise Breslin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0914908/",
+            "name": "Tom Watson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0457020/",
+            "name": "Anne Kirsten",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0597074/",
+            "name": "Fiona Mollison",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0543429/",
+            "name": "Tom Mannion",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMzQzNDU1NF5BMl5BanBnXkFtZTcwNjA5NjAyMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/unOhwY0DdoyIFKacBPtCa6KuXrn.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Kathleen Quinlan",
+            "David Robb",
+            "Betsy Brantley"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "William Corlett",
+            "Pamela Wallace"
+        ],
+        "Runtime": [
+            "102 min"
+        ],
+        "Director": [
+            "Willi Patterson"
         ],
         "Release date": [
-            "September 13, 1987 (United States)"
-        ],
-        "Also known as": [
-            "Erfüllte Träume"
+            "1987-09-13"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Scotland, UK"
+            "United States of America",
+            "United Kingdom"
         ],
         "Production companies": [
             "Atlantic Videoventures",
-            "Yorkshire Television (YTV)"
+            "Yorkshire Television"
         ]
     },
-    "reviews": 6,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0179952/",
-            "name": "William Corlett"
+            "name": "William Corlett",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0908807/",
-            "name": "Pamela Wallace"
+            "name": "Pamela Wallace",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H42M",
-    "keywords": [
-        "ghost",
-        "ghost story",
-        "scottish",
-        "castle",
-        "widow"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0666453/",
-            "name": "Willi Patterson"
+            "name": "Willi Patterson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0092928/",
     "metascore": null,
     "imdb_votes": 206,
     "popularity": 0,
-    "description": "A young American widow is mysteriously drawn to a historic castle in the Scottish Highlands... and finds herself at the center of a 200-year old ghost story.",
+    "description": "A young American widow is mysteriously drawn to a historic castle in the Scottish Highlands and finds herself at the center of a 200-year old ghost story.",
     "imdb_rating": "5.4/10 from 206 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "release_date": [
+        {
+            "date": "1987-09-13",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "PG",
     "datePublished": "1987-09-13",
+    "original_title": "Dreams Lost, Dreams Found",
     "imdb_rating_average": 5.4,
-    "update_at": "2025-08-17T02:52:22"
+    "update_at": "2026-11-10T05:21:33"
 }

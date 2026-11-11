@@ -1,10 +1,15 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Amazon Theater: Portrait",
+            "country": "United States of America"
+        }
+    ],
     "sid": "tt0432342",
     "name": "Portrait",
     "site": "imdb",
     "year": "2004",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Comedy",
         "Short"
@@ -12,67 +17,121 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0221902/",
-            "name": "Amanda Detmer"
+            "name": "Amanda Detmer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0026838/",
-            "name": "Jacqueline Buckingham"
+            "name": "Jacqueline Buckingham",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000378/",
-            "name": "Minnie Driver"
+            "name": "Minnie Driver",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1757308/",
+            "name": "Sabra Miller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1384065/",
+            "name": "Rebecca Beluk",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1411269/",
+            "name": "Jeff Hahn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1553485/",
+            "name": "Reggie Currelley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1757307/",
+            "name": "Fran McGivern",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4OTM0NjcyMl5BMl5BanBnXkFtZTcwNzczNDcyMQ@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/48FzKbBH8qfqeDmmW2zEv9l1ueo.jpg",
     "details": {
+        "Stars": [
+            "Amanda Detmer",
+            "Jacqueline Buckingham",
+            "Minnie Driver"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "David Carter",
+            "Eric Frost",
+            "Greg Hahn"
+        ],
+        "Runtime": [
+            "8 min"
+        ],
+        "Director": [
+            "Jordan Scott"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 9, 2004 (United States)"
+            "2004-11-09"
         ],
-        "Country of origin": [
-            "United States"
+        "Production companies": [
+            "RSA Films"
         ]
     },
-    "reviews": 5,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0141568/",
-            "name": "David Carter"
+            "name": "David Carter",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1828850/",
-            "name": "Eric Frost"
+            "name": "Eric Frost",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1398018/",
-            "name": "Greg Hahn"
+            "name": "Greg Hahn",
+            "@type": "Person"
         }
     ],
     "duration": "PT8M",
-    "keywords": [
-        "overweight woman",
-        "obese woman",
-        "product placement",
-        "amazon theater"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0779386/",
-            "name": "Jordan Scott"
+            "name": "Jordan Scott",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0432342/",
     "metascore": null,
     "imdb_votes": 169,
     "popularity": 0,
-    "description": "Esther is an overweight, junk food addicted office lady who is constantly mistreated by her fellow co-workers until one day her life (and body) is transformed when her portrait is taken by an unknown photographer named Bud.",
-    "imdb_rating": "5.6/10 from 169 users",
-    "release_date": [],
+    "description": "Esther is beautiful beneath the surface, in an office where the surface is all that matters. Plus she has brains and about 100 extra pounds. Her nasty, brutish, and tall colleagues (Donna, Caroline, and Erica) make fun of her even as they depend on her knowledge. One day, she excitedly offers to show them a portrait she's had taken by Bud, of \"Bud's Glamour Shots,\" who had spammed the office with an e-mail promising a picture that will reveal her true inner self. Cut to Esther, driving home in tears. That night she sleeps with the portrait near the bed and awakes to discover something extraordinary. When the three harpies see the result, will they book a session with Bud?",
+    "imdb_rating": "5.7/10 from 169 users",
+    "release_date": [
+        {
+            "date": "2004-11-09",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2004-11-09",
-    "imdb_rating_average": 5.6,
-    "update_at": "2025-09-12T16:26:13"
+    "original_title": "Portrait",
+    "imdb_rating_average": 5.7,
+    "update_at": "2026-11-10T11:07:07"
 }

@@ -5,64 +5,119 @@
     "site": "imdb",
     "year": "1995",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Drama"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0586733/",
-            "name": "Rentarô Mikuni"
+            "name": "Rentarō Mikuni",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0722651/",
-            "name": "Kanehiro Ri"
+            "name": "Kanehiro Ri",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0590942/",
-            "name": "Yôko Minamino"
+            "name": "Yôko Minamino",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0034984/",
+            "name": "Yoshiki Arizono",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0158603/",
+            "name": "Bang-ho Cho",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0354653/",
+            "name": "Hakuryû",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0370652/",
+            "name": "Ryûzô Hayashi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm18861328/",
+            "name": "Kazuo Ide",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0410719/",
+            "name": "Hiroko Isayama",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0412525/",
+            "name": "Kōichi Iwaki",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDJjN2Q3MzAtMGNhZS00NTAyLTk5MjEtMzcwMTlmNGZjODVmXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/373HwXDSTyvCSEQ2u2I1Z1ixsTp.jpg",
     "details": {
+        "Stars": [
+            "Rentarō Mikuni",
+            "Kanehiro Ri",
+            "Yôko Minamino"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Housei Hahakigi",
+            "Masato Katô",
+            "Seijirō Kōyama"
+        ],
+        "Runtime": [
+            "123 min"
+        ],
+        "Director": [
+            "Seijirō Kōyama"
+        ],
         "Language": [
             "Japanese"
         ],
         "Release date": [
-            "November 11, 1995 (Japan)"
-        ],
-        "Also known as": [
-            "三たびの海峡"
+            "1995-10-11"
         ],
         "Country of origin": [
             "Japan"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0353864/",
-            "name": "Housei Hahakigi"
+            "name": "Housei Hahakigi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm13626585/",
-            "name": "Masato Katô"
+            "name": "Masato Katô",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0477771/",
-            "name": "Seijirô Kôyama"
+            "name": "Seijirō Kōyama",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H3M",
-    "keywords": [
-        "murder",
-        "japan",
-        "korean",
-        "world war two",
-        "blood"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0477771/",
-            "name": "Seijirô Kôyama"
+            "name": "Seijirō Kōyama",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0325834/",
@@ -70,10 +125,16 @@
     "imdb_votes": 10,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "4.7/10 from 10 users",
-    "release_date": [],
+    "imdb_rating": "4.5/10 from 10 users",
+    "release_date": [
+        {
+            "date": "1995-10-11",
+            "country": "Japan"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1995-11-11",
-    "imdb_rating_average": 4.7,
-    "update_at": "2025-09-29T16:14:12"
+    "datePublished": "1995-10-11",
+    "original_title": "Mitabi no kaikyô",
+    "imdb_rating_average": 4.5,
+    "update_at": "2026-11-10T04:28:06"
 }

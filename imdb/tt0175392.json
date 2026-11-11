@@ -4,65 +4,149 @@
     "name": "Le grand secret",
     "site": "imdb",
     "year": "1989",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
-        "Thriller"
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0549087/",
-            "name": "Louise Marleau"
+            "name": "Louise Marleau",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0723623/",
-            "name": "Claude Rich"
+            "name": "Claude Rich",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0766442/",
-            "name": "Peter Sattmann"
+            "name": "Peter Sattmann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0415283/",
+            "name": "Claude Jade",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0721073/",
+            "name": "Fernando Rey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0244849/",
+            "name": "Paul Guers",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0618411/",
+            "name": "Richard Münch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0618411/",
+            "name": "Richard Münch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0609526/",
+            "name": "Alain Mottet",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0609526/",
+            "name": "Alain Mottet",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDljMjFiNGItZThhOS00YmRjLTgyYjYtMGQ0ZmY1NzkwZWVlXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/hkWMUDJGVbhcs48N1RJjKfaQlS.jpg",
     "details": {
+        "Stars": [
+            "Louise Marleau",
+            "Claude Rich",
+            "Peter Sattmann"
+        ],
+        "Genres": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "Writer": [
+            "René Barjavel",
+            "André Cayatte",
+            "Marc Princi"
+        ],
+        "Runtime": [
+            "55 min"
+        ],
+        "Director": [
+            "Jacques Trébouta"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "January 6, 1989 (France)"
+            "1989-01-06"
         ],
-        "Also known as": [
-            "Das große Geheimnis"
-        ],
-        "Countries of origin": [
-            "France",
-            "West Germany",
+        "Country of origin": [
             "Spain",
-            "Canada"
+            "France",
+            "Canada",
+            "Germany"
         ],
         "Production companies": [
-            "Centre national du cinéma et de l'image animée (CNC)",
-            "France 2 (FR2)",
-            "Institut National de l'Audiovisuel (INA)"
+            "SR20Films",
+            "Télécip"
         ]
     },
     "reviews": 0,
-    "creators": [],
-    "duration": null,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0054748/",
+            "name": "René Barjavel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0147158/",
+            "name": "André Cayatte",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0697754/",
+            "name": "Marc Princi",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT55M",
     "keywords": [
-        "tv mini series",
-        "mystic",
-        "based on novel"
+        "immortality",
+        "disappearance",
+        "miniseries",
+        "conspiracy theory",
+        "global politics"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0874546/",
+            "name": "Jacques Trébouta",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0175392/",
     "metascore": null,
-    "imdb_votes": 73,
+    "imdb_votes": 80,
     "popularity": 0,
-    "description": "Als ihr Geliebter ebenso wie ein indischer Krebsforscher spurlos verschwinden und als tot gelten, reist Jeanne Corbet nach Indien. Sie glaubt ebenso wie US-Diplomat Samuel Frend und dessen Frau Suzan an den Tod der beiden. Von Cal...",
-    "imdb_rating": "7.7/10 from 73 users",
+    "description": "A young woman searches for her biologist lover who disappeared after an Indian scientist made a discovery that could endanger humanity.",
+    "imdb_rating": "7.5/10 from 80 users",
     "release_date": [],
     "contentRating": null,
     "datePublished": "1989-01-06",
-    "imdb_rating_average": 7.7,
-    "update_at": "2025-02-22T23:07:35"
+    "original_title": "Le grand secret",
+    "imdb_rating_average": 7.5,
+    "update_at": "2026-11-10T14:00:38"
 }

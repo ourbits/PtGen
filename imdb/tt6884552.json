@@ -4,75 +4,106 @@
     "name": "Run(a)Way Arab",
     "site": "imdb",
     "year": "2018",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2269188/",
-            "name": "Ahd"
+            "name": "Ahd",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2090270/",
-            "name": "Amrou Al-Kadhi"
+            "name": "Amrou Al-Kadhi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm8989949/",
-            "name": "Omar Labek"
+            "name": "Omar Labek",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzdlOWFhMmMtZjZjNi00NDk5LWI0MjItNmNiMDkzNGVkZmUxXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/dlhKgXPC9TPqH7VrBBcXtRkFvwQ.jpg",
     "details": {
+        "Stars": [
+            "Ahd",
+            "Amrou Al-Kadhi",
+            "Omar Labek"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Amrou Al-Kadhi"
+        ],
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "Amrou Al-Kadhi"
+        ],
         "Language": [
-            "English"
+            "Arabic"
         ],
         "Release date": [
-            "March 25, 2018 (United Kingdom)"
-        ],
-        "Official site": [
-            "Fox Cub Films Website - Behind the Scenes photos - https://www.foxcubfilms.co.uk/run-a-way-arab"
+            "2018-03-25"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
         "Production companies": [
-            "Fox Cub Films",
-            "Kimofilms"
+            "Fox Cub Films"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2090270/",
-            "name": "Amrou Al-Kadhi"
+            "name": "Amrou Al-Kadhi",
+            "@type": "Person"
         }
     ],
     "duration": "PT12M",
     "keywords": [
-        "gay",
-        "gay interest",
+        "muslim",
         "drag queen",
-        "little boy",
-        "boy wearing lipstick"
+        "lgbt",
+        "gay muslim",
+        "gay theme",
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2090270/",
-            "name": "Amrou Al-Kadhi"
+            "name": "Amrou Al-Kadhi",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt6884552/",
     "metascore": null,
-    "imdb_votes": 54,
+    "imdb_votes": 57,
     "popularity": 0,
-    "description": "A drag performer has flashbacks of maternal memories and early gender transgressions.",
-    "imdb_rating": "5.4/10 from 54 users",
-    "release_date": [],
+    "description": "A queer Arab boy, Nazeem, looks up to his Muslim mother with awe. Later in life, it is only through being a drag queen that he holds on to their lost and fraught connection.",
+    "imdb_rating": "5.5/10 from 57 users",
+    "release_date": [
+        {
+            "date": "2019-03-16",
+            "country": "Australia"
+        },
+        {
+            "date": "2018-03-25",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2018-03-25",
-    "imdb_rating_average": 5.4,
-    "update_at": "2026-04-08T19:14:04"
+    "original_title": "Run(a)Way Arab",
+    "imdb_rating_average": 5.5,
+    "update_at": "2026-11-11T01:28:29"
 }

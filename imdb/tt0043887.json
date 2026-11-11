@@ -13,69 +13,152 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000078/",
-            "name": "John Wayne"
+            "name": "John Wayne",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0623658/",
-            "name": "Patricia Neal"
+            "name": "Patricia Neal",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000955/",
-            "name": "Ward Bond"
+            "name": "Ward Bond",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0285401/",
+            "name": "Scott Forbes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0137023/",
+            "name": "Philip Carey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0681608/",
+            "name": "Paul Picerni",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0132930/",
+            "name": "William Campbell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0321469/",
+            "name": "Kathryn Givney",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0590398/",
+            "name": "Martin Milner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0163785/",
+            "name": "Cliff Clark",
+            "@type": "Person"
         }
     ],
-    "critic": 6,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTI1M2FjYjQtY2NkZS00OTQ1LTg1ZjUtZDRkOTI4MTVmOWM4XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/w76x8HiPPzpnHiaZI7j7rRIk08I.jpg",
     "details": {
+        "Stars": [
+            "John Wayne",
+            "Patricia Neal",
+            "Ward Bond"
+        ],
+        "Genres": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "Writer": [
+            "George Waggner"
+        ],
+        "Runtime": [
+            "111 min"
+        ],
+        "Director": [
+            "George Waggner"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 27, 1951 (United States)"
-        ],
-        "Also known as": [
-            "La fuerza silente"
+            "1951-01-27"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Pearl Harbor Naval Station, Pearl Harbor, O'ahu, Hawaii, USA"
-        ],
-        "Production company": [
-            "Warner Bros."
+        "Production companies": [
+            "Warner Bros. Pictures"
         ]
     },
-    "reviews": 38,
+    "reviews": 0,
+    "tagline": "He's Skipper \"Duke\" Gifford Who Could Put A Torpedo Through A Needle...And Sew Up A Date With A Laugh!",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0905729/",
-            "name": "George Waggner"
+            "name": "George Waggner",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H51M",
     "keywords": [
         "submarine",
-        "u.s. soldier",
-        "submarine movie",
-        "pacific war",
-        "u.s. military"
+        "world war ii",
+        "pearl harbor",
+        "pacific war"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0905729/",
-            "name": "George Waggner"
+            "name": "George Waggner",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0043887/",
     "metascore": null,
-    "imdb_votes": 4058,
+    "imdb_votes": 4285,
     "popularity": 0,
-    "description": "During WWII, a submarine&apos;s second in command inherits the problem of torpedoes that don&apos;t explode. When on shore, he is eager to win back his ex-wife.",
-    "imdb_rating": "6.6/10 from 4058 users",
-    "release_date": [],
-    "contentRating": "Approved",
+    "description": "During WWII, Duke E. Gifford is second in command of the USS Thunderfish, a submarine which is firing off torpedoes that either explode too early or never explode at all. It's a dilemma that he'll eventually take up personally. Even more personal is his quest to win back his ex-wife, a nurse; but he'll have to win her back from a navy flier who also happens to be his commander's little brother.",
+    "imdb_rating": "6.6/10 from 4285 users",
+    "release_date": [
+        {
+            "date": "1953-08-01",
+            "country": "Austria"
+        },
+        {
+            "date": "1952-01-01",
+            "country": "Brazil"
+        },
+        {
+            "date": "1953-06-12",
+            "country": "Germany"
+        },
+        {
+            "date": "1951-08-13",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "2009-04-22",
+            "country": "Netherlands"
+        },
+        {
+            "date": "1952-06-06",
+            "country": "Portugal"
+        },
+        {
+            "date": "1951-01-27",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "1951-01-27",
+    "original_title": "Operation Pacific",
     "imdb_rating_average": 6.6,
-    "update_at": "2025-08-11T08:15:02"
+    "update_at": "2026-11-10T23:35:06"
 }

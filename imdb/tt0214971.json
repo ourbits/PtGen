@@ -3,53 +3,70 @@
     "sid": "tt0214971",
     "name": "Music from the Stars",
     "site": "imdb",
-    "year": "1938",
-    "@type": "Movie",
+    "year": "1937",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Musical"
+        "Musical",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2439482/",
-            "name": "Horace Lapp"
+            "name": "Horace Lapp",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2440861/",
-            "name": "William Morton"
+            "name": "William Morton",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2442918/",
-            "name": "Madeline Pedler"
+            "name": "Madeline Pedler",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/ofV4CQnCHwYx5AWiNtmkEXD6ri5.jpg",
     "details": {
+        "Stars": [
+            "Horace Lapp",
+            "William Morton",
+            "Madeline Pedler"
+        ],
+        "Genres": [
+            "Musical",
+            "Short"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "Gordon Sparling"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 25, 1938 (United States)"
+            "1937-01-01"
         ],
         "Country of origin": [
             "Canada"
         ],
         "Production companies": [
-            "Skibo Productions",
-            "Educational Films Corporation of America"
+            "Associated Screen News"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT10M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0817069/",
-            "name": "Gordon Sparling"
+            "name": "Gordon Sparling",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0214971/",
@@ -58,9 +75,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1937-01-01",
+            "country": "Canada"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1938-03-25",
+    "datePublished": "1937-01-01",
+    "original_title": "Music from the Stars",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-26T06:01:00"
+    "update_at": "2026-11-11T00:00:28"
 }

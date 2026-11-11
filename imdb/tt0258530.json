@@ -1,77 +1,144 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Dom Juan",
+            "country": "France"
+        }
+    ],
     "sid": "tt0258530",
     "name": "Dom Juan ou Le festin de pierre",
     "site": "imdb",
     "year": "1965",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0681566/",
-            "name": "Michel Piccoli"
+            "name": "Michel Piccoli",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0105475/",
-            "name": "Claude Brasseur"
+            "name": "Claude Brasseur",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0272686/",
-            "name": "Anouk Ferjac"
+            "name": "Anouk Ferjac",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0494608/",
+            "name": "Michel Le Royer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0033507/",
+            "name": "Yves Arcanel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0622069/",
+            "name": "Lucien Nat",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0643580/",
+            "name": "Jean Obé",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0825957/",
+            "name": "Josée Steiner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0128811/",
+            "name": "Françoise Caillaud",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0747483/",
+            "name": "Dominique Rozan",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjNkNzk3MWMtY2FlOS00NzUyLTg0MzUtOWNiNzhkNWYwNmJlXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/vdeRilSvODZ5t8kXiEGtUVuEgjF.jpg",
     "details": {
+        "Stars": [
+            "Michel Piccoli",
+            "Claude Brasseur",
+            "Anouk Ferjac"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Molière"
+        ],
+        "Runtime": [
+            "105 min"
+        ],
+        "Director": [
+            "Marcel Bluwal"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "November 6, 1965 (France)"
+            "1965-11-06"
         ],
-        "Also known as": [
-            "Dom Juan"
-        ],
-        "Filming locations": [
-            "Grandes Écuries, Chantilly, Oise, France"
-        ],
-        "Production company": [
-            "Office de Radiodiffusion Télévision Française (ORTF)"
-        ],
-        "Countries of origin": [
-            "Belgium",
+        "Country of origin": [
             "Canada",
-            "France"
+            "France",
+            "Belgium"
+        ],
+        "Production companies": [
+            "ORTF"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0596942/",
-            "name": "Molière"
+            "name": "Molière",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H45M",
     "keywords": [
-        ""
+        "infidelity",
+        "based on novel or book",
+        "based on play or musical",
+        "punishment",
+        "libertine"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0089958/",
-            "name": "Marcel Bluwal"
+            "name": "Marcel Bluwal",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0258530/",
     "metascore": null,
-    "imdb_votes": 110,
+    "imdb_votes": 113,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.4/10 from 110 users",
-    "release_date": [],
+    "description": "This telefilm in black and white is diffused on the first French chain the November 6th 1965. It undoubtedly remains the most known adaptation of the  Dom Juan of Molière.",
+    "imdb_rating": "7.3/10 from 113 users",
+    "release_date": [
+        {
+            "date": "1965-11-06",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1965-11-06",
-    "imdb_rating_average": 7.4,
-    "update_at": "2025-09-28T08:09:33"
+    "original_title": "Dom Juan ou Le festin de pierre",
+    "imdb_rating_average": 7.3,
+    "update_at": "2026-11-10T17:56:14"
 }

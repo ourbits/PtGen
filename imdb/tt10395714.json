@@ -3,60 +3,98 @@
     "sid": "tt10395714",
     "name": "Portraitist",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2019",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0217817/",
-            "name": "Albert Delpy"
+            "name": "Albert Delpy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0812223/",
-            "name": "Hervé Sogne"
+            "name": "Hervé Sogne",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm10628902/",
-            "name": "Lysa Welschen"
+            "name": "Lysa Welschen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2275358/",
+            "name": "Brigitte Urhausen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2136824/",
+            "name": "Annette Schlechter",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2M4OThlMDctYWVlOS00ZGI0LWJhNGItMzA1N2ZjZGEyNDE1XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/2S8OZwLiJrSKtugtxwAXPuIqH9N.jpg",
     "details": {
+        "Stars": [
+            "Albert Delpy",
+            "Hervé Sogne",
+            "Lysa Welschen"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Guillaume Levil",
+            "Cyrus Neshvad"
+        ],
+        "Runtime": [
+            "16 min"
+        ],
+        "Director": [
+            "Cyrus Neshvad"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "March 2019 (Luxembourg)"
+            "2019-07-23"
         ],
         "Country of origin": [
             "Luxembourg"
         ],
-        "Production company": [
+        "Production companies": [
             "Cynefilms"
         ]
     },
-    "reviews": 13,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3447343/",
-            "name": "Guillaume Levil"
+            "name": "Guillaume Levil",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1293977/",
-            "name": "Cyrus Neshvad"
+            "name": "Cyrus Neshvad",
+            "@type": "Person"
         }
     ],
     "duration": "PT16M",
     "keywords": [
-        ""
+        "grandfather",
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1293977/",
-            "name": "Cyrus Neshvad"
+            "name": "Cyrus Neshvad",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt10395714/",
@@ -64,10 +102,16 @@
     "imdb_votes": 344,
     "popularity": 0,
     "description": "A grandfather kindles a relationship with his dying granddaughter through art.",
-    "imdb_rating": "8.4/10 from 344 users",
-    "release_date": [],
+    "imdb_rating": "8.1/10 from 344 users",
+    "release_date": [
+        {
+            "date": "2019-07-23",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 8.4,
-    "update_at": "2025-02-12T10:23:46"
+    "datePublished": "2019-07-23",
+    "original_title": "Portraitist",
+    "imdb_rating_average": 8.1,
+    "update_at": "2026-11-10T18:07:15"
 }

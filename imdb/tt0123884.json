@@ -4,74 +4,141 @@
     "name": "Herbstzeit",
     "site": "imdb",
     "year": "1979",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0096509/",
-            "name": "Peter Borgelt"
+            "name": "Peter Borgelt",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0351355/",
-            "name": "Sigrid Göhler"
+            "name": "Sigrid Göhler",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0909025/",
-            "name": "Angelika Waller"
+            "name": "Angelika Waller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0937765/",
+            "name": "Günter Wolf",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0315116/",
+            "name": "Erwin Geschonneck",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2204170/",
+            "name": "Beate Schade",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1147871/",
+            "name": "Sören Biedermann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0081499/",
+            "name": "Gerhard Bienert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0499165/",
+            "name": "Marga Legal",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0778050/",
+            "name": "Eva Schäfer",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTFhYTI1MGYtY2U2NC00NDk4LTg5MjItZDFkN2JmYzU2MDliXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/zTLm49IfjHJZuILm8dhsNcU7yQh.jpg",
     "details": {
+        "Stars": [
+            "Peter Borgelt",
+            "Sigrid Göhler",
+            "Angelika Waller"
+        ],
+        "Genres": [
+            "Crime"
+        ],
+        "Writer": [
+            "Eberhard Görner",
+            "Manfred Mosblech",
+            "Fred Unger"
+        ],
+        "Runtime": [
+            "70 min"
+        ],
+        "Director": [
+            "Manfred Mosblech"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "December 11, 1979 (East Germany)"
+            "1979-12-11"
         ],
         "Country of origin": [
-            "East Germany"
+            "East Germany",
+            "Germany"
         ],
-        "Filming locations": [
-            "Brandenburger Straße, Potsdam, Brandenburg, Germany"
+        "Production companies": [
+            "Fernsehen der DDR"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0351439/",
-            "name": "Eberhard Görner"
+            "name": "Eberhard Görner",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0608236/",
-            "name": "Manfred Mosblech"
+            "name": "Manfred Mosblech",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0881145/",
-            "name": "Fred Unger"
+            "name": "Fred Unger",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H10M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0608236/",
-            "name": "Manfred Mosblech"
+            "name": "Manfred Mosblech",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0123884/",
     "metascore": null,
-    "imdb_votes": 18,
+    "imdb_votes": 22,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "6.3/10 from 18 users",
-    "release_date": [],
+    "description": "A retired head cashier, lonely after the death of his wife, lives in the hope of being able to move in with his son and his family after the latter builds a house. The son does not want to destroy his father's dream and conceals the fact that the family will not have enough money to build a house in the foreseeable future. When the father realizes this, he reaches into the cash register of his former company in desperation.",
+    "imdb_rating": "6.4/10 from 22 users",
+    "release_date": [
+        {
+            "date": "1979-12-11",
+            "country": "East Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1979-12-11",
-    "imdb_rating_average": 6.3,
-    "update_at": "2025-08-14T05:43:04"
+    "original_title": "Herbstzeit",
+    "imdb_rating_average": 6.4,
+    "update_at": "2026-11-10T21:35:21"
 }

@@ -3,68 +3,92 @@
     "sid": "tt0363243",
     "name": "Cracker Bag",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2003",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1379543/",
-            "name": "Edith Cattell"
+            "name": "Edith Cattell",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1765096/",
-            "name": "Peter Derrick"
+            "name": "Peter Derrick",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1380479/",
-            "name": "Damon Kaine"
+            "name": "Damon Kaine",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1408930/",
+            "name": "Pauline Keeley",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWY3YmIwY2ItNGY2MC00M2ZkLTgxYTQtYTE4OWQ1ZWJhMTViXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Edith Cattell",
+            "Peter Derrick",
+            "Damon Kaine"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Glendyn Ivin"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Glendyn Ivin"
         ],
         "Release date": [
-            "October 2003 (United States)"
-        ],
-        "Also known as": [
-            "Sztuczne ognie"
-        ],
-        "Country of origin": [
-            "Australia"
+            "2003-05-14"
         ]
     },
-    "reviews": 7,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1380395/",
-            "name": "Glendyn Ivin"
+            "name": "Glendyn Ivin",
+            "@type": "Person"
         }
     ],
     "duration": "PT15M",
-    "keywords": [
-        "two word title",
-        "fireworks"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1380395/",
-            "name": "Glendyn Ivin"
+            "name": "Glendyn Ivin",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0363243/",
     "metascore": null,
-    "imdb_votes": 165,
+    "imdb_votes": 172,
     "popularity": 0,
-    "description": "Eddie spends her pocket money collecting firecrackers, to prepare for Cracker Night. This key moment will live on in Eddie&apos;s memory, transforming her for life.",
-    "imdb_rating": "7/10 from 165 users",
-    "release_date": [],
+    "description": "Eddie spends her pocket money collecting firecrackers, to prepare for Cracker Night. This key moment will live on in Eddie's memory, transforming her for life.",
+    "imdb_rating": "6.9/10 from 172 users",
+    "release_date": [
+        {
+            "date": "2003-05-14",
+            "country": "Australia"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 7,
-    "update_at": "2025-08-20T08:39:15"
+    "datePublished": "2003-05-14",
+    "original_title": "Cracker Bag",
+    "imdb_rating_average": 6.9,
+    "update_at": "2026-11-10T23:21:06"
 }
