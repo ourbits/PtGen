@@ -4,66 +4,119 @@
     "name": "Curtain Call",
     "site": "imdb",
     "year": "2000",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Documentary"
+        "Documentary",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0213124/",
-            "name": "Dalton Dearborn"
+            "name": "Dalton Dearborn",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0242056/",
-            "name": "Pamela Duncan"
+            "name": "Pamela Duncan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm9751220/",
-            "name": "Joseph Endes"
+            "name": "Joseph Endes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0282537/",
+            "name": "Bernard Flood",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm9751219/",
+            "name": "Clara Kaps",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0502158/",
+            "name": "Rosetta LeNoire",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0556714/",
+            "name": "Gaylord Mason",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0593175/",
+            "name": "Brian Stokes Mitchell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0604193/",
+            "name": "Tessie Moreno",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm9751217/",
+            "name": "Dale Olson",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/jeH5Kqa7eS5tyifn8mFuMRoH7Hf.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Dalton Dearborn",
+            "Pamela Duncan",
+            "Joseph Endes"
+        ],
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Runtime": [
+            "38 min"
+        ],
+        "Director": [
+            "Charles Braverman"
         ],
         "Release date": [
-            "June 13, 2000 (United States)"
+            "2000-06-13"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Englewood, New Jersey, USA"
-        ],
-        "Production company": [
+        "Production companies": [
+            "Braverman Productions",
             "New Jersey Studios"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT38M",
-    "keywords": [
-        "aging",
-        "acting"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0106015/",
-            "name": "Charles Braverman"
+            "name": "Charles Braverman",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0280580/",
     "metascore": null,
-    "imdb_votes": 48,
+    "imdb_votes": 54,
     "popularity": 0,
-    "description": "Curtain Call is the unforgettable story of eight remarkable residents of the Actors&apos; Fund Retirement Home. No ordinary nursing home, these residents are still full of vitality as they recall tales of Broadway&apos;s golden age, and wha...",
-    "imdb_rating": "7.8/10 from 48 users",
-    "release_date": [],
+    "description": "Curtain Call is the unforgettable story of eight remarkable residents of the Actors' Fund Retirement Home. No ordinary nursing home, these residents are still full of vitality as they recall tales of Broadway's golden age, and what they have done with their lives. Dramatically told by award winning director Chuck Braverman, the film was nominated for an Academy Award.",
+    "imdb_rating": "7.6/10 from 54 users",
+    "release_date": [
+        {
+            "date": "2000-06-13",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2000-06-13",
-    "imdb_rating_average": 7.8,
-    "update_at": "2025-02-10T06:51:12"
+    "original_title": "Curtain Call",
+    "imdb_rating_average": 7.6,
+    "update_at": "2026-11-12T01:14:06"
 }

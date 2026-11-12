@@ -4,7 +4,7 @@
     "name": "Nathan Hale",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short",
         "War"
@@ -12,66 +12,83 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3291751/",
-            "name": "Thomas J. Biscione"
+            "name": "Thomas J. Biscione",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1510027/",
-            "name": "Paul Albertson"
+            "name": "Paul Albertson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3273268/",
-            "name": "Michael Benedetto"
+            "name": "Michael Benedetto",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3275430/",
+            "name": "Gerard Andre",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3289755/",
+            "name": "Vincent M. Biscione",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Thomas J. Biscione",
+            "Paul Albertson",
+            "Michael Benedetto"
+        ],
+        "Genres": [
+            "Short",
+            "War"
+        ],
+        "Writer": [
+            "Vincent M. Biscione"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "Vincent M. Biscione"
         ],
         "Release date": [
-            "November 22, 2008 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Roscoe, New York, USA"
-        ],
-        "Production company": [
-            "One 11 Films"
+            "2008"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3289755/",
-            "name": "Vincent M. Biscione"
+            "name": "Vincent M. Biscione",
+            "@type": "Person"
         }
     ],
     "duration": "PT10M",
-    "keywords": [
-        "battle of brooklyn",
-        "spy",
-        "revolutionary war",
-        "nathan hale",
-        "espionage"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3289755/",
-            "name": "Vincent M. Biscione"
+            "name": "Vincent M. Biscione",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1362275/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "In the year of 1776, the British Army invaded New York, storming its shores. The Battle of Brooklyn had begun. New York was at war. With General George Washington holding ground on Manhattan Island, the strength of the British was...",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
-    "contentRating": "Approved",
-    "datePublished": "2008-11-22",
+    "contentRating": null,
+    "datePublished": "2008",
+    "original_title": "Nathan Hale",
     "imdb_rating_average": 0,
-    "update_at": "2026-04-25T00:21:06"
+    "update_at": "2026-11-11T05:00:29"
 }

@@ -4,56 +4,102 @@
     "name": "Adieu créature",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0749363/",
-            "name": "Rufus"
+            "name": "Rufus",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0861980/",
-            "name": "Jean-Yves Tual"
+            "name": "Jean-Yves Tual",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3698352/",
-            "name": "Dan Uzan"
+            "name": "Dan Uzan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0261205/",
+            "name": "Serge Esposito",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0201569/",
+            "name": "Monique Darpy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0766516/",
+            "name": "Valentina Sauca",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1426550/",
+            "name": "Eric Cornet",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2900679/",
+            "name": "José Exposito",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0685040/",
+            "name": "Yann Piquer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3915177/",
+            "name": "Michel Sailly",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGJkN2NkNmQtZGY4Ny00ZGI5LThkNjAtNjg0ZmY5OTc1MmRjXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Rufus",
+            "Jean-Yves Tual",
+            "Dan Uzan"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "David Perrault"
+        ],
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "David Perrault"
         ],
         "Release date": [
-            "December 25, 2009 (France)"
-        ],
-        "Country of origin": [
-            "France"
-        ],
-        "Production companies": [
-            "ARTE",
-            "Gulliver Productions"
+            "2009"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2513961/",
-            "name": "David Perrault"
+            "name": "David Perrault",
+            "@type": "Person"
         }
     ],
     "duration": "PT12M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2513961/",
-            "name": "David Perrault"
+            "name": "David Perrault",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1552974/",
@@ -64,7 +110,8 @@
     "imdb_rating": "7.7/10 from 20 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2009-12-25",
+    "datePublished": "2009",
+    "original_title": "Adieu créature",
     "imdb_rating_average": 7.7,
-    "update_at": "2025-05-26T14:01:19"
+    "update_at": "2026-11-11T10:35:26"
 }

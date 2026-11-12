@@ -4,7 +4,7 @@
     "name": "World of Warcraft: Reckoning",
     "site": "imdb",
     "year": "2019",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Animation",
         "Short"
@@ -12,59 +12,73 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3021642/",
-            "name": "Patty Mattson"
+            "name": "Patty Mattson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1068321/",
-            "name": "Chris Metzen"
+            "name": "Chris Metzen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1157771/",
-            "name": "Andrew Morgado"
+            "name": "Andrew Morgado",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTc0OWY1MjMtOTM5Ny00MDZlLTliYmItMGRlY2YxMTE5ZWZkXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Patty Mattson",
+            "Chris Metzen",
+            "Andrew Morgado"
+        ],
+        "Genres": [
+            "Animation",
+            "Short"
+        ],
+        "Writer": [
+            "Marjun Rey Labor Alac"
+        ],
+        "Runtime": [
+            "7 min"
+        ],
+        "Director": [
+            "Marc Messenger"
         ],
         "Release date": [
-            "September 25, 2019 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Blizzard Entertainment"
+            "2019"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm17246885/",
-            "name": "Alac Marjun Rey"
+            "name": "Marjun Rey Labor Alac",
+            "@type": "Person"
         }
     ],
-    "duration": null,
-    "keywords": [
-        ""
-    ],
+    "duration": "PT7M",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0582035/",
-            "name": "Marc Messenger"
+            "name": "Marc Messenger",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt11802944/",
     "metascore": null,
-    "imdb_votes": 127,
+    "imdb_votes": 163,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "7.5/10 from 127 users",
+    "imdb_rating": "7.6/10 from 163 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2019-09-25",
-    "imdb_rating_average": 7.5,
-    "update_at": "2025-09-04T16:49:33"
+    "datePublished": "2019",
+    "original_title": "World of Warcraft: Reckoning",
+    "imdb_rating_average": 7.6,
+    "update_at": "2026-11-11T15:07:06"
 }

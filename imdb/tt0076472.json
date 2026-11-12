@@ -1,10 +1,19 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Fatal Chase",
+            "country": "United States of America"
+        },
+        {
+            "title": "Die Spur des Skorpions",
+            "country": "Germany"
+        }
+    ],
     "sid": "tt0076472",
     "name": "Nowhere to Hide",
     "site": "imdb",
     "year": "1977",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Drama"
@@ -12,71 +21,133 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001812/",
-            "name": "Lee Van Cleef"
+            "name": "Lee Van Cleef",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0501534/",
-            "name": "Charles Robinson"
+            "name": "Charles Robinson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0426157/",
-            "name": "Russell Johnson"
+            "name": "Russell Johnson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0615540/",
+            "name": "Tony Musante",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0325959/",
+            "name": "Lelia Goldoni",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0030019/",
+            "name": "Edward Anhalt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0017550/",
+            "name": "John Alderman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0823630/",
+            "name": "Jack Starrett",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0288528/",
+            "name": "Noel Fournier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0605042/",
+            "name": "Stafford Morgan",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTJlZjI3MGItOWUwMy00ZjMzLThlNGQtY2E2MTI5YzZkOTAzXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/acCLdHlzkWVGGdSOIYTn79om4Ug.jpg",
     "details": {
+        "Stars": [
+            "Lee Van Cleef",
+            "Charles Robinson",
+            "Russell Johnson"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "Edward Anhalt",
+            "Rift Fournier"
+        ],
+        "Runtime": [
+            "75 min"
+        ],
+        "Director": [
+            "Jack Starrett"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "June 5, 1977 (United States)"
-        ],
-        "Also known as": [
-            "Die Spur des Skorpions"
+            "1977-06-05"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
             "Mark Carliner Productions",
             "Viacom Enterprises"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0030019/",
-            "name": "Edward Anhalt"
+            "name": "Edward Anhalt",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0288536/",
-            "name": "Rift Fournier"
+            "name": "Rift Fournier",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H15M",
-    "keywords": [
-        "u.s. marshal",
-        "hitman",
-        "chase",
-        "witness protection",
-        "island"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0823630/",
-            "name": "Jack Starrett"
+            "name": "Jack Starrett",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0076472/",
     "metascore": null,
-    "imdb_votes": 68,
+    "imdb_votes": 70,
     "popularity": 0,
-    "description": "A special unit of the U.S. Marshal&apos;s Service is assigned to protect a syndicate hitman who is to testify against his former bosses, who have put out a contract on his life.",
-    "imdb_rating": "4.9/10 from 68 users",
-    "release_date": [],
+    "description": "A special unit of the U.S. Marshal's Service is assigned to protect a syndicate hitman who is to testify against his former bosses, who have put out a contract on his life.",
+    "imdb_rating": "5.1/10 from 70 users",
+    "release_date": [
+        {
+            "date": "1986-10-01",
+            "country": "Germany"
+        },
+        {
+            "date": "1977-06-05",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1977-06-05",
-    "imdb_rating_average": 4.9,
-    "update_at": "2025-09-03T16:28:42"
+    "original_title": "Nowhere to Hide",
+    "imdb_rating_average": 5.1,
+    "update_at": "2026-11-11T19:14:26"
 }

@@ -4,58 +4,102 @@
     "name": "Méhek tánca",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0395806/",
-            "name": "Lajos Ottó Horváth"
+            "name": "Lajos Ottó Horváth",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0753556/",
-            "name": "Anna Ráckevei"
+            "name": "Anna Ráckevei",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2132281/",
-            "name": "Ferenc Katkó"
+            "name": "Ferenc Katkó",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2314150/",
+            "name": "Kinga Újhelyi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2815876/",
+            "name": "Barnabás Sörös",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1507191/",
+            "name": "Nelli Szűcs",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2375076/",
+            "name": "József Kádas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1517750/",
+            "name": "Attila Kristán",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0872811/",
+            "name": "Zsolt Trill",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1895786/",
+            "name": "József Rácz",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Hungarian"
+        "Stars": [
+            "Lajos Ottó Horváth",
+            "Anna Ráckevei",
+            "Ferenc Katkó"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Ákos Kertész"
+        ],
+        "Runtime": [
+            "62 min"
+        ],
+        "Director": [
+            "Attila Mispál"
         ],
         "Release date": [
-            "October 9, 2007 (Hungary)"
-        ],
-        "Country of origin": [
-            "Hungary"
-        ],
-        "Filming locations": [
-            "Debrecen, Hungary"
-        ],
-        "Production company": [
-            "Neurópa Film Kft."
+            "2007"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0450082/",
-            "name": "Ákos Kertész"
+            "name": "Ákos Kertész",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H2M",
-    "keywords": [
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0592885/",
-            "name": "Attila Mispál"
+            "name": "Attila Mispál",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1127193/",
@@ -66,7 +110,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2007-10-09",
+    "datePublished": "2007",
+    "original_title": "Méhek tánca",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-03T22:52:10"
+    "update_at": "2026-11-11T05:07:06"
 }

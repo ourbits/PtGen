@@ -4,45 +4,91 @@
     "name": "The Leone Style",
     "site": "imdb",
     "year": "2004",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Documentary",
         "Short"
     ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0000142/",
+            "name": "Clint Eastwood",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0461658/",
+            "name": "Mickey Knox",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0771349/",
+            "name": "Richard Schickel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0908919/",
+            "name": "Eli Wallach",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0342090/",
+            "name": "Alberto Grimaldi",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWYwN2E1MmUtNmQyMC00MTkxLWIzNmYtZDQ3ODc2OGM4MDY4XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Clint Eastwood",
+            "Mickey Knox",
+            "Richard Schickel"
+        ],
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Writer": [
+            "Michael Arick"
+        ],
+        "Runtime": [
+            "24 min"
+        ],
+        "Director": [
+            "Michael Arick"
         ],
         "Release date": [
-            "April 7, 2004 (Finland)"
-        ],
-        "Also known as": [
-            "Hyvät, pahat ja rumat: Leonen tyyli"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "MGM Home Entertainment"
+            "2004"
         ]
     },
-    "reviews": 1,
-    "creators": [],
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0034745/",
+            "name": "Michael Arick",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT24M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0034745/",
+            "name": "Michael Arick",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0399275/",
     "metascore": null,
-    "imdb_votes": 122,
+    "imdb_votes": 120,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "7.3/10 from 122 users",
+    "imdb_rating": "7.3/10 from 120 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2004-04-07",
+    "datePublished": "2004",
+    "original_title": "The Leone Style",
     "imdb_rating_average": 7.3,
-    "update_at": "2025-10-18T14:00:28"
+    "update_at": "2026-11-11T19:42:07"
 }

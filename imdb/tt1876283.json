@@ -1,10 +1,15 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Dark House",
+            "country": "United Kingdom"
+        }
+    ],
     "sid": "tt1876283",
     "name": "Darkroom",
     "site": "imdb",
-    "year": "2014",
-    "@type": "Movie",
+    "year": "2013",
+    "@type": "VideoObject",
     "genre": [
         "Horror",
         "Thriller"
@@ -12,37 +17,84 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1560236/",
-            "name": "Kaylee DeFer"
+            "name": "Kaylee DeFer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0737533/",
-            "name": "Elisabeth Röhm"
+            "name": "Elisabeth Röhm",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0737533/",
+            "name": "Elisabeth Röhm",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0132301/",
-            "name": "Christian Campbell"
+            "name": "Christian Campbell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1708414/",
+            "name": "Tobias Segal",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4162863/",
+            "name": "Britne Oldford",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3217416/",
+            "name": "Natalie Knepp",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1417931/",
+            "name": "Geneva Carr",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4276659/",
+            "name": "Phil Haus",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2104119/",
+            "name": "Michael Sirow",
+            "@type": "Person"
         }
     ],
-    "critic": 14,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTJiMjQ3MTYtZDQwMS00OTc1LThkNjMtYTVmMmE0NzNkODE5XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/ccdHLWv5VSDPtc4nbWloKKr89oq.jpg",
     "details": {
+        "Stars": [
+            "Kaylee DeFer",
+            "Elisabeth Röhm",
+            "Elisabeth Röhm"
+        ],
+        "Genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "Writer": [
+            "Michaelbrent Collings"
+        ],
+        "Runtime": [
+            "81 min"
+        ],
+        "Director": [
+            "Britt Napier"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 28, 2014 (United States)"
-        ],
-        "Also known as": [
-            "Căn Phòng Tối"
-        ],
-        "Official site": [
-            "Official site - http://www.darkroommovie.com/"
+            "2013-03-10"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Port Washington, Long Island, New York, USA"
+            "Canada"
         ],
         "Production companies": [
             "Darkroom Films",
@@ -50,36 +102,55 @@
             "Four of a Kind Productions"
         ]
     },
-    "reviews": 20,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm4363658/",
-            "name": "Michaelbrent Collings"
+            "name": "Michaelbrent Collings",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H21M",
     "keywords": [
-        "subjective camera",
-        "female nudity",
-        "brief breast",
-        "female rear nudity",
-        "title directed by female"
+        "rehabilitation",
+        "imprisonment",
+        "addiction",
+        "torture",
+        "car accident",
+        "guilt",
+        "fatalities"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1817604/",
-            "name": "Britt Napier"
+            "name": "Britt Napier",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1876283/",
     "metascore": null,
-    "imdb_votes": 1384,
+    "imdb_votes": 1418,
     "popularity": 0,
-    "description": "Michelle takes a job recommended by her counselor that lands her trapped in a mansion with three psychotic siblings hell bent on purging Michelle of her sins.",
-    "imdb_rating": "3.6/10 from 1384 users",
-    "release_date": [],
-    "contentRating": "R",
-    "datePublished": "2014-01-28",
-    "imdb_rating_average": 3.6,
-    "update_at": "2025-05-31T07:15:43"
+    "description": "Michelle kills three of her friends in a horrific car accident while driving under the influence. After rehab, Michelle takes a job recommended by her counselor that lands her trapped in a mansion with three psychotic siblings hell bent on physical torture to purge Michelle of her sins.",
+    "imdb_rating": "3.7/10 from 1418 users",
+    "release_date": [
+        {
+            "date": "2013-11-04",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "2013-07-03",
+            "country": "Japan"
+        },
+        {
+            "date": "2013-03-10",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2013-03-10",
+    "original_title": "Darkroom",
+    "imdb_rating_average": 3.7,
+    "update_at": "2026-11-11T07:21:09"
 }

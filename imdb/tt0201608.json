@@ -1,88 +1,157 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Face à la mort",
+            "country": "France"
+        },
+        {
+            "title": "Au secours",
+            "country": "France"
+        },
+        {
+            "title": "Plus rapide que la mort",
+            "country": "France"
+        },
+        {
+            "title": "Быстрее смерти",
+            "country": "Soviet Union"
+        }
+    ],
     "sid": "tt0201608",
     "name": "Face à la mort",
     "site": "imdb",
     "year": "1925",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Adventure"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0682176/",
-            "name": "Harry Piel"
+            "name": "Harry Piel",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0499247/",
-            "name": "Denise Legeay"
+            "name": "Denise Legeay",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0202679/",
-            "name": "José Davert"
+            "name": "José Davert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0074177/",
+            "name": "Fred Berger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0391487/",
+            "name": "Dary Holm",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0535297/",
+            "name": "Marguerite Madys",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0346808/",
+            "name": "Paul Guidé",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0667152/",
+            "name": "Albert Paulig",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0681620/",
+            "name": "Hermann Picha",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTIzMTI0ZTMtNWU4Ny00ZmQ2LThhMDktYWI5NDIwNzRjYTRlXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/i6dIr7M41ilorsgn3vzUctVZRBY.jpg",
     "details": {
-        "Languages": [
-            "None",
-            "French"
+        "Stars": [
+            "Harry Piel",
+            "Denise Legeay",
+            "José Davert"
+        ],
+        "Genres": [
+            "Adventure"
+        ],
+        "Writer": [
+            "Gérard Bourgeois",
+            "Edmund Heuberger",
+            "Herbert Nossen"
+        ],
+        "Director": [
+            "Gérard Bourgeois",
+            "Harry Piel"
         ],
         "Release date": [
-            "October 1, 1925 (France)"
+            "1925-04-10"
         ],
-        "Also known as": [
-            "Maska smrti"
-        ],
-        "Filming locations": [
-            "Friedrichshafen, Baden-Württemberg, Germany"
-        ],
-        "Countries of origin": [
+        "Country of origin": [
             "France",
             "Germany"
         ],
         "Production companies": [
-            "Hape-Film Company GmbH",
-            "Société des Etablissements L. Gaumont"
+            "Hape Film",
+            "Gaumont"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0099901/",
-            "name": "Gérard Bourgeois"
+            "name": "Gérard Bourgeois",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0381810/",
-            "name": "Edmund Heuberger"
+            "name": "Edmund Heuberger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0636499/",
-            "name": "Herbert Nossen"
+            "name": "Herbert Nossen",
+            "@type": "Person"
         }
     ],
-    "duration": null,
-    "keywords": [
-        ""
-    ],
+    "duration": "PT1H37M",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0099901/",
-            "name": "Gérard Bourgeois"
+            "name": "Gérard Bourgeois",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0682176/",
-            "name": "Harry Piel"
+            "name": "Harry Piel",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0201608/",
     "metascore": null,
-    "imdb_votes": 16,
+    "imdb_votes": 17,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "7.7/10 from 16 users",
-    "release_date": [],
+    "imdb_rating": "7.4/10 from 17 users",
+    "release_date": [
+        {
+            "date": "1925-04-10",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1925-10-01",
-    "imdb_rating_average": 7.7,
-    "update_at": "2025-02-11T13:25:15"
+    "datePublished": "1925-04-10",
+    "original_title": "Face à la mort",
+    "imdb_rating_average": 7.4,
+    "update_at": "2026-11-11T02:07:22"
 }

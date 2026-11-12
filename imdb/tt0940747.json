@@ -1,50 +1,70 @@
 {
     "aka": [],
     "sid": "tt0940747",
-    "name": "Oscar Peterson&apos;s Canadiana Suite",
+    "name": "Oscar Peterson's Canadiana Suite",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1979",
+    "@type": "TVMovie",
     "genre": [
         "Music"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1105846/",
-            "name": "Malik McCall"
+            "name": "Malik McCall",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0677328/",
-            "name": "Oscar Peterson"
+            "name": "Oscar Peterson",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Malik McCall",
+            "Oscar Peterson"
+        ],
+        "Genres": [
+            "Music"
+        ],
+        "Writer": [
+            "Durnford King"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Durnford King"
+        ],
+        "Release date": [
+            "1979-01-01"
         ],
         "Country of origin": [
             "Canada"
         ],
-        "Production company": [
-            "Canadian Broadcasting Corporation (CBC)"
+        "Production companies": [
+            "CBC"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0454669/",
-            "name": "Durnford King"
+            "name": "Durnford King",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0454669/",
-            "name": "Durnford King"
+            "name": "Durnford King",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0940747/",
@@ -53,9 +73,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1979-01-01",
+            "country": "Canada"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1979-01-01",
+    "original_title": "Oscar Peterson's Canadiana Suite",
     "imdb_rating_average": 0,
-    "update_at": "2025-03-26T09:13:32"
+    "update_at": "2026-11-11T03:21:08"
 }

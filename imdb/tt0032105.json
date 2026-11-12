@@ -1,7 +1,16 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Kriminalkommissär Studer",
+            "country": "Austria"
+        },
+        {
+            "title": "Constable Studer",
+            "country": "United States of America"
+        }
+    ],
     "sid": "tt0032105",
-    "name": "Wachtmeister Studer",
+    "name": "Constable Studer",
     "site": "imdb",
     "year": "1939",
     "@type": "Movie",
@@ -12,73 +21,140 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0340400/",
-            "name": "Heinrich Gretler"
+            "name": "Heinrich Gretler",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0544362/",
-            "name": "Adolf Manz"
+            "name": "Adolf Manz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0199362/",
-            "name": "Bertha Danegger"
+            "name": "Bertha Danegger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0777837/",
+            "name": "Armin Schweizer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0927145/",
+            "name": "Ellen Widmann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0874588/",
+            "name": "Robert Trösch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0003632/",
+            "name": "Anne-Marie Blanc",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0080972/",
+            "name": "Robert Bichler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0434483/",
+            "name": "Hans Kaes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0137154/",
+            "name": "Zarli Carigiet",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2ZjMWQ2YmEtZmFhNC00NDYyLThkNjQtMWZiMmQ0OWI4NGU3XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/762mkQivFq7YfogTh7zbtRNCNpT.jpg",
     "details": {
+        "Stars": [
+            "Heinrich Gretler",
+            "Adolf Manz",
+            "Bertha Danegger"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "Horst Budjuhn",
+            "Friedrich Glauser",
+            "Kurt Guggenheim"
+        ],
+        "Runtime": [
+            "112 min"
+        ],
+        "Director": [
+            "Leopold Lindtberg"
+        ],
         "Language": [
-            "Swiss German"
+            "German"
         ],
         "Release date": [
-            "October 13, 1939 (Germany)"
-        ],
-        "Also known as": [
-            "Il sergente Studer"
+            "1939-10-12"
         ],
         "Country of origin": [
             "Switzerland"
         ],
-        "Filming locations": [
-            "Filmstudio Rosenhof, Zürich, Kanton Zürich, Switzerland"
-        ],
-        "Production company": [
+        "Production companies": [
             "Praesens-Film"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0119038/",
-            "name": "Horst Budjuhn"
+            "name": "Horst Budjuhn",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0322175/",
-            "name": "Friedrich Glauser"
+            "name": "Friedrich Glauser",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0346554/",
-            "name": "Kurt Guggenheim"
+            "name": "Kurt Guggenheim",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H52M",
     "keywords": [
-        "based on novel"
+        "sergeant"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0512548/",
-            "name": "Leopold Lindtberg"
+            "name": "Leopold Lindtberg",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0032105/",
     "metascore": null,
-    "imdb_votes": 136,
+    "imdb_votes": 135,
     "popularity": 0,
-    "description": "In the village of Gerzenstein, the pre-trial detainee Erwin Schlumpf wants to commit suicide. He is accused of having murdered the merchant Wendolin Witschi. Sergeant Jakob Studer from the Cantonal police can save Schlumpf at the ...",
-    "imdb_rating": "7.4/10 from 136 users",
-    "release_date": [],
+    "description": "A policeman is not convinced that the prime suspect in a murder case is realty guilty and so decides to reinvestigate the case, despite the lack of co-operation from locals.",
+    "imdb_rating": "7.3/10 from 135 users",
+    "release_date": [
+        {
+            "date": "1939-10-12",
+            "country": "Switzerland"
+        },
+        {
+            "date": "1939-10-12",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1939-10-13",
-    "imdb_rating_average": 7.4,
-    "update_at": "2025-05-23T12:00:09"
+    "datePublished": "1939-10-12",
+    "original_title": "Wachtmeister Studer",
+    "imdb_rating_average": 7.3,
+    "update_at": "2026-11-12T00:28:26"
 }

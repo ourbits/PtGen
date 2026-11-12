@@ -4,71 +4,134 @@
     "name": "Affäre Dreyfus",
     "site": "imdb",
     "year": "1959",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Biography"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0774467/",
-            "name": "Albrecht Schoenhals"
+            "name": "Albrecht Schoenhals",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0728746/",
-            "name": "Gerhard Ritter"
+            "name": "Gerhard Ritter",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0406120/",
-            "name": "Herbert Hübner"
+            "name": "Herbert Hübner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0583691/",
+            "name": "Robert Meyn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0905847/",
+            "name": "Konrad Wagner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0097449/",
+            "name": "Dieter Borsche",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0199644/",
+            "name": "Hans Daniel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0459747/",
+            "name": "Heinz Klingenberg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0405622/",
+            "name": "Richard Häussler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0381611/",
+            "name": "Werner Hessenland",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Albrecht Schoenhals",
+            "Gerhard Ritter",
+            "Herbert Hübner"
+        ],
+        "Genres": [
+            "Biography"
+        ],
+        "Writer": [
+            "Wilhelm Herzog",
+            "Hans Rehfisch"
+        ],
+        "Runtime": [
+            "151 min"
+        ],
+        "Director": [
+            "Hanns Farenburg"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "August 20, 1959 (West Germany)"
+            "1959-08-19"
         ],
         "Country of origin": [
-            "West Germany"
+            "Germany"
         ],
-        "Production company": [
-            "Nord- und Westdeutscher Rundfunkverband (NWRV)"
+        "Production companies": [
+            "NWRV"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0381336/",
-            "name": "Wilhelm Herzog"
+            "name": "Wilhelm Herzog",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0716825/",
-            "name": "Hans Rehfisch"
+            "name": "Hans Rehfisch",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H31M",
-    "keywords": [
-        "dreyfus affair",
-        "based on play"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0267227/",
-            "name": "Hanns Farenburg"
+            "name": "Hanns Farenburg",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0052537/",
     "metascore": null,
-    "imdb_votes": 16,
+    "imdb_votes": 17,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "9.1/10 from 16 users",
-    "release_date": [],
+    "imdb_rating": "9.1/10 from 17 users",
+    "release_date": [
+        {
+            "date": "1959-08-19",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1959-08-20",
+    "datePublished": "1959-08-19",
+    "original_title": "Affäre Dreyfus",
     "imdb_rating_average": 9.1,
-    "update_at": "2025-06-08T04:39:16"
+    "update_at": "2026-11-11T21:00:19"
 }

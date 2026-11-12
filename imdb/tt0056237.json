@@ -3,53 +3,103 @@
     "sid": "tt0056237",
     "name": "Mi Buenos Aires querido",
     "site": "imdb",
+    "year": "1961",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Comedy"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0034498/",
-            "name": "Alberto Argibay"
+            "name": "Alberto Argibay",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0205784/",
-            "name": "José Marco Davó"
+            "name": "José Marco Davó",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0287383/",
-            "name": "Mario Fortuna"
+            "name": "Mario Fortuna",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0508053/",
+            "name": "Gloria Leyland",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0522144/",
+            "name": "Gilda Lousek",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0592980/",
+            "name": "Nati Mistral",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0633517/",
+            "name": "Eduardo Nobili",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0733289/",
+            "name": "María Luisa Robledo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0844963/",
+            "name": "Isabel Sánchez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0896741/",
+            "name": "Enzo Viena",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQxNTY0MjAtZGE1MC00YjA5LTk4YzctMWE0ZGQ5NTM5YjEzXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/xl47e3U1VhQdwdCUJA4dfmMRwvV.jpg",
     "details": {
+        "Stars": [
+            "Alberto Argibay",
+            "José Marco Davó",
+            "Mario Fortuna"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Rodolfo M. Taboada"
+        ],
+        "Director": [
+            "Francisco Múgica"
+        ],
         "Language": [
             "Spanish"
         ],
-        "Countries of origin": [
-            "Spain",
-            "Argentina"
-        ],
-        "Production companies": [
-            "Carabela Films S.A.",
-            "Halcón P.C.",
-            "Lais S.A."
+        "Release date": [
+            "1961-03-28"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0846019/",
-            "name": "Rodolfo M. Taboada"
+            "name": "Rodolfo M. Taboada",
+            "@type": "Person"
         }
     ],
-    "duration": null,
-    "keywords": [
-        ""
-    ],
+    "duration": "PT2H7M",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0618034/",
-            "name": "Francisco Múgica"
+            "name": "Francisco Múgica",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0056237/",
@@ -58,9 +108,19 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1961-03-28",
+            "country": "Argentina"
+        },
+        {
+            "date": "1962-01-01",
+            "country": "Spain"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1961-03-28",
+    "original_title": "Mi Buenos Aires querido",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-24T17:13:31"
+    "update_at": "2026-11-12T00:21:17"
 }

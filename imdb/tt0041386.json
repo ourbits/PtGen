@@ -12,69 +12,138 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000011/",
-            "name": "Gary Cooper"
+            "name": "Gary Cooper",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0623658/",
-            "name": "Patricia Neal"
+            "name": "Patricia Neal",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0557339/",
-            "name": "Raymond Massey"
+            "name": "Raymond Massey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0808949/",
+            "name": "Kent Smith",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001888/",
+            "name": "Robert Douglas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0401434/",
+            "name": "Henry Hull",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0172615/",
+            "name": "Ray Collins",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0647752/",
+            "name": "Moroni Olsen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0184578/",
+            "name": "Jerome Cowan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0013306/",
+            "name": "Ed Agresti",
+            "@type": "Person"
         }
     ],
-    "critic": 43,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTJlY2Y1ZjMtZDMzNy00OTBkLWJmYjYtZTYxYTM4NmRlOWUxXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/2uo8tfSwzrDeRS5YpmLVSXHSjOl.jpg",
     "details": {
+        "Stars": [
+            "Gary Cooper",
+            "Patricia Neal",
+            "Raymond Massey"
+        ],
+        "Genres": [
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Ayn Rand"
+        ],
+        "Runtime": [
+            "114 min"
+        ],
+        "Director": [
+            "King Vidor"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "July 2, 1949 (United States)"
-        ],
-        "Also known as": [
-            "Buntovnik"
+            "1949-06-25"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Fresno, California, USA"
-        ],
-        "Production company": [
-            "Warner Bros."
+        "Production companies": [
+            "Warner Bros. Pictures"
         ]
     },
-    "reviews": 246,
+    "reviews": 0,
+    "tagline": "No Man Takes What's Mine!",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0709446/",
-            "name": "Ayn Rand"
+            "name": "Ayn Rand",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H54M",
     "keywords": [
-        "melodrama",
-        "suicide by gunshot",
-        "rebound marriage",
-        "broken marriage engagement",
-        "individualism"
+        "new york city",
+        "newspaper",
+        "based on novel or book",
+        "architect",
+        "integrity",
+        "objectivism",
+        "ayn rand"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0896542/",
-            "name": "King Vidor"
+            "name": "King Vidor",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0041386/",
     "metascore": null,
-    "imdb_votes": 11240,
+    "imdb_votes": 11954,
     "popularity": 0,
     "description": "An uncompromising, visionary architect struggles to maintain his integrity and individualism despite personal, professional and economic pressures to conform to popular standards.",
-    "imdb_rating": "7/10 from 11240 users",
-    "release_date": [],
-    "contentRating": "Approved",
-    "datePublished": "1949-07-02",
-    "imdb_rating_average": 7,
-    "update_at": "2025-02-12T11:41:42"
+    "imdb_rating": "7.0/10 from 11954 users",
+    "release_date": [
+        {
+            "date": "2000-01-01",
+            "country": "Brazil"
+        },
+        {
+            "date": "1949-12-23",
+            "country": "Italy"
+        },
+        {
+            "date": "1949-06-25",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
+    "datePublished": "1949-06-25",
+    "original_title": "The Fountainhead",
+    "imdb_rating_average": 7.0,
+    "update_at": "2026-11-11T05:00:29"
 }

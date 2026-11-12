@@ -4,70 +4,75 @@
     "name": "Chicken Feed",
     "site": "imdb",
     "year": "1939",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0317970/",
-            "name": "Billy Gilbert"
+            "name": "Billy Gilbert",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0263088/",
-            "name": "Muriel Evans"
+            "name": "Muriel Evans",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0723445/",
-            "name": "Jack Rice"
+            "name": "Jack Rice",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Billy Gilbert",
+            "Muriel Evans",
+            "Jack Rice"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "George Jeske",
+            "Jack Townley"
+        ],
+        "Runtime": [
+            "19 min"
+        ],
+        "Director": [
+            "Charles E. Roberts"
         ],
         "Release date": [
-            "December 8, 1939 (United States)"
-        ],
-        "Also known as": [
-            "Radio Flash Comedy: Chicken Feed"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "RKO Studios - 780 N. Gower Street, Hollywood, Los Angeles, California, USA"
-        ],
-        "Production company": [
-            "RKO Radio Pictures"
+            "1939"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0422135/",
-            "name": "George Jeske"
+            "name": "George Jeske",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0870052/",
-            "name": "Jack Townley"
+            "name": "Jack Townley",
+            "@type": "Person"
         }
     ],
     "duration": "PT19M",
-    "keywords": [
-        "low budget short",
-        "male police officer",
-        "sweetheart",
-        "stock footage",
-        "sneeze"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0730905/",
-            "name": "Charles E. Roberts"
+            "name": "Charles E. Roberts",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1587425/",
@@ -77,8 +82,9 @@
     "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
-    "contentRating": "Approved",
-    "datePublished": "1939-12-08",
+    "contentRating": null,
+    "datePublished": "1939",
+    "original_title": "Chicken Feed",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-01T14:39:09"
+    "update_at": "2026-11-11T08:56:06"
 }

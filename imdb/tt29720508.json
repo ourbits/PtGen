@@ -4,31 +4,40 @@
     "name": "Beyond the Battlefield",
     "site": "imdb",
     "year": "2023",
-    "@type": "Movie",
+    "@type": "TVSeries",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm8403552/",
-            "name": "Remi Adeleke"
+            "name": "Remi Adeleke",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0005000/",
-            "name": "Tony Hawk"
+            "name": "Tony Hawk",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmExNjE2YTEtNDEwYS00ZTgzLWJiNDktZTYzMTEyOGNjOTRmXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/vCqhYVNLeNnaTlGMJX78uJE6sH6.jpg",
     "details": {
+        "Stars": [
+            "Remi Adeleke",
+            "Tony Hawk"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 11, 2023 (United States)"
+            "2023-11-11"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
             "Left/Right",
@@ -37,20 +46,21 @@
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt29720508/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "It reviews critical moments in the history of the U.S. Army Special Forces, as well as the Navy and Naval Aviation.",
+    "description": "Featuring archival footage, insightful interviews with active-duty military members, renowned experts, and historians, \"Beyond the Battlefield\" takes a closer look at crucial moments in the history of the U.S. Army Special Forces, as well as Marine and Naval Aviation.",
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
-    "contentRating": null,
+    "contentRating": "TV-PG",
     "datePublished": "2023-11-11",
+    "original_title": "Beyond the Battlefield",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-04T01:13:23"
+    "update_at": "2026-11-11T02:07:14"
 }

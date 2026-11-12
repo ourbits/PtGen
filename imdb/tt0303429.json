@@ -3,7 +3,8 @@
     "sid": "tt0303429",
     "name": "Astronauts",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2002",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Sci-Fi"
@@ -11,63 +12,108 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0682386/",
-            "name": "Jeffrey Pierce"
+            "name": "Jeffrey Pierce",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0621046/",
-            "name": "Yvette Nipar"
+            "name": "Yvette Nipar",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0191672/",
-            "name": "Clint Culp"
+            "name": "Clint Culp",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1549953/",
+            "name": "Ambrosia Kelley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005089/",
+            "name": "Boyd Kestner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0325800/",
+            "name": "Jeff Marlow",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1104246/",
+            "name": "Jack Patterson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0671032/",
+            "name": "Mark Pellegrino",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0693243/",
+            "name": "Chris Potter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0804035/",
+            "name": "Stewart Skelton",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2I3MjJmNzgtZmQ3Ni00NjNkLWE3ZjUtOTA1NWI4MTk2NmNhXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Jeffrey Pierce",
+            "Yvette Nipar",
+            "Clint Culp"
+        ],
+        "Genres": [
+            "Drama",
+            "Sci-Fi"
+        ],
+        "Writer": [
+            "Todd Robinson"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Robert Harmon"
         ],
         "Release date": [
-            "2002 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production companies": [
-            "American Broadcasting Company (ABC)",
-            "Industry Entertainment",
-            "Twentieth Century Fox"
+            "2002"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0733149/",
-            "name": "Todd Robinson"
+            "name": "Todd Robinson",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H",
-    "keywords": [
-        "nasa",
-        "space sci fi",
-        "one word title"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0363553/",
-            "name": "Robert Harmon"
+            "name": "Robert Harmon",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0303429/",
     "metascore": null,
-    "imdb_votes": 23,
+    "imdb_votes": 27,
     "popularity": 0,
-    "description": "Modern drama set in the world of NASA&apos;s STS and ISS programs.",
-    "imdb_rating": "7.4/10 from 23 users",
+    "description": null,
+    "imdb_rating": "7.0/10 from 27 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 7.4,
-    "update_at": "2025-03-22T20:39:25"
+    "datePublished": "2002",
+    "original_title": "Astronauts",
+    "imdb_rating_average": 7.0,
+    "update_at": "2026-11-11T14:07:44"
 }

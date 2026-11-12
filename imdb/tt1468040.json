@@ -4,29 +4,69 @@
     "name": "Helsinki Koo-Koo",
     "site": "imdb",
     "year": "1966",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0139003/",
+            "name": "Carola",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0436018/",
+            "name": "Ismo Kallio",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0758741/",
+            "name": "Simo Salminen",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Finnish"
+        "Stars": [
+            "Carola",
+            "Ismo Kallio",
+            "Simo Salminen"
+        ],
+        "Writer": [
+            "Martti Jännes",
+            "Seppo Virtanen"
+        ],
+        "Runtime": [
+            "50 min"
+        ],
+        "Director": [
+            "Ilkka Linnasalmi"
         ],
         "Release date": [
-            "November 20, 1966 (Finland)"
-        ],
-        "Country of origin": [
-            "Finland"
-        ],
-        "Production company": [
-            "Mainostelevisio (MTV)"
+            "1966"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm3514779/",
+            "name": "Martti Jännes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3225797/",
+            "name": "Seppo Virtanen",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT50M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm1779863/",
+            "name": "Ilkka Linnasalmi",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1468040/",
     "metascore": null,
@@ -36,7 +76,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1966-11-20",
+    "datePublished": "1966",
+    "original_title": "Helsinki Koo-Koo",
     "imdb_rating_average": 0,
-    "update_at": "2025-11-09T15:13:17"
+    "update_at": "2026-11-11T16:35:51"
 }

@@ -4,55 +4,73 @@
     "name": "Business Must Not Interfere",
     "site": "imdb",
     "year": "1913",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Animation",
         "Comedy",
         "Short"
     ],
+    "actors": [],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "George McManus"
+        ],
+        "Director": [
+            "Émile Cohl"
+        ],
+        "Language": [
+            "No Language"
         ],
         "Release date": [
-            "March 23, 1913 (United States)"
+            "1913-03-23"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Eclair American"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0573137/",
-            "name": "George McManus"
+            "name": "George McManus",
+            "@type": "Person"
         }
     ],
-    "duration": null,
-    "keywords": [
-        ""
-    ],
+    "duration": "PT5M",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0169871/",
-            "name": "Émile Cohl"
+            "name": "Émile Cohl",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0362482/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "This time the trouble is with Snookums and the telephone, and his father has a real struggle to satisfy him. Snookums has a drum and father wants to telephone, but since Snookums believes in having a good time, and having a good t...",
+    "description": "This time the trouble is with Snookums and the telephone, and his father has a real struggle to satisfy him.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1913-03-23",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1913-03-23",
+    "original_title": "Business Must Not Interfere",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-18T09:08:00"
+    "update_at": "2026-11-11T22:42:16"
 }

@@ -5,55 +5,65 @@
     "site": "imdb",
     "year": "1922",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0251332/",
-            "name": "Kurt Ehrle"
+            "name": "Kurt Ehrle",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0881653/",
-            "name": "Lola Urban-Kneidinger"
+            "name": "Lola Urban-Kneidinger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0523925/",
-            "name": "Tibor Lubinszky"
+            "name": "Tibor Lubinszky",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1760358/",
+            "name": "Milena Mudin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0834725/",
+            "name": "Julius Strobl",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "German"
+        "Stars": [
+            "Kurt Ehrle",
+            "Lola Urban-Kneidinger",
+            "Tibor Lubinszky"
+        ],
+        "Director": [
+            "Jacob Fleck",
+            "Luise Fleck"
         ],
         "Release date": [
-            "March 24, 1922 (Austria)"
-        ],
-        "Also known as": [
-            "Die schwarze Lou"
-        ],
-        "Country of origin": [
-            "Austria"
-        ],
-        "Production company": [
-            "Wiener Kunstfilm"
+            "1922"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0281383/",
-            "name": "Jacob Fleck"
+            "name": "Jacob Fleck",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0281389/",
-            "name": "Luise Fleck"
+            "name": "Luise Fleck",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0195214/",
@@ -64,7 +74,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1922-03-24",
+    "datePublished": "1922",
+    "original_title": "Revanche",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-27T22:35:29"
+    "update_at": "2026-11-11T21:35:07"
 }

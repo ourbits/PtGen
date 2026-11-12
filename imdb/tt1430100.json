@@ -4,60 +4,80 @@
     "name": "Love: Entangled",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1960196/",
-            "name": "Stephen Zimpel"
+            "name": "Stephen Zimpel",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1043204/",
-            "name": "Tracey Ann-Marie Nelson"
+            "name": "Tracey Ann-Marie Nelson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0379755/",
-            "name": "John Michael Herndon"
+            "name": "John Michael Herndon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3453750/",
+            "name": "Kevin Trang",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Stephen Zimpel",
+            "Tracey Ann-Marie Nelson",
+            "John Michael Herndon"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Royce Allen Dudley",
+            "Paul Morrell"
+        ],
+        "Runtime": [
+            "5 min"
+        ],
+        "Director": [
+            "Paul Morrell"
         ],
         "Release date": [
-            "April 1, 2009 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "sumoJACK"
+            "2009"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0240166/",
-            "name": "Royce Allen Dudley"
+            "name": "Royce Allen Dudley",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1139761/",
-            "name": "Paul Morrell"
+            "name": "Paul Morrell",
+            "@type": "Person"
         }
     ],
     "duration": "PT5M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1139761/",
-            "name": "Paul Morrell"
+            "name": "Paul Morrell",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1430100/",
@@ -68,7 +88,8 @@
     "imdb_rating": "5.1/10 from 9 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2009-04-01",
+    "datePublished": "2009",
+    "original_title": "Love: Entangled",
     "imdb_rating_average": 5.1,
-    "update_at": "2025-06-23T20:39:14"
+    "update_at": "2026-11-11T04:56:06"
 }

@@ -6,73 +6,93 @@
     "year": "2007",
     "@type": "Movie",
     "genre": [
-        "Documentary",
-        "Biography"
+        "Biography",
+        "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0068941/",
-            "name": "Agostina Belli"
+            "name": "Agostina Belli",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0311147/",
-            "name": "Fred Robsahm"
+            "name": "Fred Robsahm",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTIzNjkxNjMxNV5BMl5BanBnXkFtZTcwODI3MDA1MQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/9zn1kYknMkEzmnGtcPDmbxjBoFP.jpg",
     "details": {
-        "Languages": [
-            "Norwegian",
-            "Italian"
+        "Stars": [
+            "Agostina Belli",
+            "Fred Robsahm"
+        ],
+        "Genres": [
+            "Biography",
+            "Documentary"
+        ],
+        "Writer": [
+            "Espen Benestad",
+            "Even Benestad",
+            "August Baugstø Hanssen"
+        ],
+        "Runtime": [
+            "75 min"
+        ],
+        "Director": [
+            "Even Benestad"
+        ],
+        "Language": [
+            "Norwegian"
         ],
         "Release date": [
-            "October 26, 2007 (Norway)"
-        ],
-        "Official site": [
-            "Official site - http://www.naturalbornstar.net/"
-        ],
-        "Country of origin": [
-            "Norway"
-        ],
-        "Production company": [
-            "Askild Action & Fredrik Fiction"
+            "2007-10-26"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0070929/",
-            "name": "Espen Benestad"
+            "name": "Espen Benestad",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1135320/",
-            "name": "Even Benestad"
+            "name": "Even Benestad",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1172244/",
-            "name": "August Baugstø Hanssen"
+            "name": "August Baugstø Hanssen",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H15M",
-    "keywords": [
-        "dream"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1135320/",
-            "name": "Even Benestad"
+            "name": "Even Benestad",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0815208/",
     "metascore": null,
-    "imdb_votes": 115,
+    "imdb_votes": 116,
     "popularity": 0,
-    "description": "This is the story of your greatest dream and worst nightmare. It&apos;s a story about visions and dreams, about sailing and wreckage. Natural Born Star is the story of Fred Robsahm.",
-    "imdb_rating": "7.1/10 from 115 users",
-    "release_date": [],
+    "description": "This is the story of your greatest dream and worst nightmare. It's a story about visions and dreams, about sailing and wreckage. Natural Born Star is the story of Fred Robsahm.",
+    "imdb_rating": "7.2/10 from 116 users",
+    "release_date": [
+        {
+            "date": "2007-10-26",
+            "country": "Norway"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2007-10-26",
-    "imdb_rating_average": 7.1,
-    "update_at": "2026-05-24T23:49:11"
+    "original_title": "Natural Born Star",
+    "imdb_rating_average": 7.2,
+    "update_at": "2026-11-11T03:42:35"
 }

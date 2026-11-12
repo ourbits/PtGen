@@ -5,60 +5,94 @@
     "site": "imdb",
     "year": "1926",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0440986/",
-            "name": "Bruno Kastner"
+            "name": "Bruno Kastner",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0279171/",
-            "name": "Hugo Fischer-Köppe"
+            "name": "Hugo Fischer-Köppe",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1442680/",
-            "name": "Eddie Seefeld"
+            "name": "Eddie Seefeld",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0002161/",
+            "name": "Hans Albers",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0435229/",
+            "name": "Erich Kaiser-Titz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0234088/",
+            "name": "Anita Dorris",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0819022/",
+            "name": "Fritz Spira",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0255956/",
+            "name": "Karl Elzer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0923377/",
+            "name": "Ruth Weyher",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "German"
+        "Stars": [
+            "Bruno Kastner",
+            "Hugo Fischer-Köppe",
+            "Eddie Seefeld"
+        ],
+        "Writer": [
+            "Paul Oskar Höcker",
+            "Friedrich Stein"
+        ],
+        "Director": [
+            "Carl Boese"
         ],
         "Release date": [
-            "September 15, 1926 (Germany)"
-        ],
-        "Also known as": [
-            "Huszárélet - gyöngyélet"
-        ],
-        "Country of origin": [
-            "Germany"
-        ],
-        "Production company": [
-            "Terra-Filmkunst"
+            "1926"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1773653/",
-            "name": "Paul Oskar Höcker"
+            "name": "Paul Oskar Höcker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0825462/",
-            "name": "Friedrich Stein"
+            "name": "Friedrich Stein",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0091380/",
-            "name": "Carl Boese"
+            "name": "Carl Boese",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0016986/",
@@ -69,7 +103,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1926-09-15",
+    "datePublished": "1926",
+    "original_title": "Es blasen die Trompeten",
     "imdb_rating_average": 0,
-    "update_at": "2026-02-20T11:14:52"
+    "update_at": "2026-11-11T19:21:25"
 }

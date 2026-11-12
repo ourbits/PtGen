@@ -4,79 +4,102 @@
     "name": "The Seahorse Trainer",
     "site": "imdb",
     "year": "2019",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short"
+        "Drama",
+        "Fantasy",
+        "Sci-Fi"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0852647/",
-            "name": "John R. Taylor"
+            "name": "John R. Taylor",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzlhZTYyZmYtMTk2NS00N2UzLWI2OWEtZWY1NjQ3MWUzZDNiXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/AliKli1j3ISN9DLDSGpKNgFZPJ6.jpg",
     "details": {
+        "Stars": [
+            "John R. Taylor"
+        ],
+        "Genres": [
+            "Drama",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "Writer": [
+            "Babak Bina",
+            "Ricardo Bonisoli",
+            "Rodmon Sevilla"
+        ],
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "Babak Bina",
+            "Ricardo Bonisoli"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 23, 2019 (United States)"
-        ],
-        "Official site": [
-            "1.Official site - http://www.theseahorsetrainer.com/"
+            "2019-10-18"
         ],
         "Country of origin": [
             "Canada"
-        ],
-        "Filming locations": [
-            "Vancouver, British Columbia, Canada"
-        ],
-        "Production company": [
-            "Rooxter Films"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm7314533/",
-            "name": "Babak Bina"
+            "name": "Babak Bina",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4873403/",
-            "name": "Ricardo Bonisoli"
+            "name": "Ricardo Bonisoli",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4510244/",
-            "name": "Rodmon Sevilla"
+            "name": "Rodmon Sevilla",
+            "@type": "Person"
         }
     ],
     "duration": "PT12M",
     "keywords": [
-        "training",
-        "dream",
-        "seahorse",
-        "old man"
+        "seahorse"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm7314533/",
-            "name": "Babak Bina"
+            "name": "Babak Bina",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4873403/",
-            "name": "Ricardo Bonisoli"
+            "name": "Ricardo Bonisoli",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt7405892/",
     "metascore": null,
-    "imdb_votes": 45,
+    "imdb_votes": 47,
     "popularity": 0,
-    "description": "A lonely old man with a passion for training seahorses attempts to achieve an unimaginable trick.",
-    "imdb_rating": "7.7/10 from 45 users",
-    "release_date": [],
+    "description": "Enter the surreal world of Seymour, a lonely old man with a passion for training seahorses attempts to achieve an unimaginable trick.",
+    "imdb_rating": "7.6/10 from 47 users",
+    "release_date": [
+        {
+            "date": "2019-10-18",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2019-05-23",
-    "imdb_rating_average": 7.7,
-    "update_at": "2025-09-04T07:07:12"
+    "datePublished": "2019-10-18",
+    "original_title": "The Seahorse Trainer",
+    "imdb_rating_average": 7.6,
+    "update_at": "2026-11-11T22:35:06"
 }

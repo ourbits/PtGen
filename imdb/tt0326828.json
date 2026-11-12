@@ -13,76 +13,137 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000232/",
-            "name": "Sharon Stone"
+            "name": "Sharon Stone",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000391/",
-            "name": "Rupert Everett"
+            "name": "Rupert Everett",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0905554/",
-            "name": "Julian Wadham"
+            "name": "Julian Wadham",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0168253/",
+            "name": "Michael Cochrane",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0483457/",
+            "name": "Anne Lambton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0682063/",
+            "name": "Jim Piddock",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0534021/",
+            "name": "Richard McMillan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0476906/",
+            "name": "Mimi Kuzyk",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0885840/",
+            "name": "Emily VanCamp",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0394045/",
+            "name": "Tamara Hope",
+            "@type": "Person"
         }
     ],
-    "critic": 8,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDU3ZDhjYjUtM2FjNC00ZTk1LWFjMGEtYzJjMjNhY2Y5MjI2XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/fbJwFcXT6tvIVHMzXmN7FnJgQxW.jpg",
     "details": {
-        "Languages": [
-            "English",
+        "Stars": [
+            "Sharon Stone",
+            "Rupert Everett",
+            "Julian Wadham"
+        ],
+        "Genres": [
+            "Drama",
+            "Romance",
+            "Thriller"
+        ],
+        "Writer": [
+            "Jim Piddock"
+        ],
+        "Runtime": [
+            "96 min"
+        ],
+        "Director": [
+            "Marek Kanievska"
+        ],
+        "Language": [
             "Russian",
-            "Arabic"
+            "Italian",
+            "English"
         ],
         "Release date": [
-            "October 14, 2004 (Portugal)"
+            "2004-11-12"
         ],
-        "Also known as": [
-            "T3rcera identidad"
-        ],
-        "Filming locations": [
-            "London, England, UK"
-        ],
-        "Countries of origin": [
+        "Country of origin": [
             "Canada",
+            "Malta",
             "United Kingdom",
-            "United States",
-            "Malta"
+            "United States of America"
         ],
         "Production companies": [
-            "Lionsgate",
-            "Forum Films",
-            "Movision"
+            "Forum Films"
         ]
     },
-    "reviews": 16,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0682063/",
-            "name": "Jim Piddock"
+            "name": "Jim Piddock",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H36M",
     "keywords": [
-        "flashback",
-        "spy",
-        "father son relationship",
+        "cold war",
         "treason",
-        "englishman abroad"
+        "beautiful woman",
+        "denunciation"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0437709/",
-            "name": "Marek Kanievska"
+            "name": "Marek Kanievska",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0326828/",
     "metascore": null,
-    "imdb_votes": 1616,
+    "imdb_votes": 1694,
     "popularity": 0,
-    "description": "British war reporter Leo and American journalist Sally meet on assignment in Beirut. When Leo disappears, Sally begins to uncover his secret life, which leads her behind the Iron Curtain and into the clutches of the KGB. In HD.",
-    "imdb_rating": "4.9/10 from 1616 users",
-    "release_date": [],
-    "contentRating": "R",
-    "datePublished": "2004-10-14",
-    "imdb_rating_average": 4.9,
-    "update_at": "2025-07-15T12:21:33"
+    "description": "In January 1963, British journalist Leo Cauffield suddenly disappears from his home in Beirut. His wife Sally knew that he was working part-time for British intelligence, but was not prepared to be told by the British embassy that they suspect he has defected to Communist Russia. As his wife puts together the pieces of the mysterious jigsaw of the past, tracking her passionate relationship with her husband and his history as former head of MI6’s counter-espionage section, her relentless search for the truth takes her to London, New York and finally Moscow.",
+    "imdb_rating": "5.0/10 from 1694 users",
+    "release_date": [
+        {
+            "date": "2004-11-12",
+            "country": "Germany"
+        },
+        {
+            "date": "2004-11-12",
+            "country": "Italy"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2004-11-12",
+    "original_title": "A Different Loyalty",
+    "imdb_rating_average": 5.0,
+    "update_at": "2026-11-11T09:21:45"
 }

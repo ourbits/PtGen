@@ -5,67 +5,82 @@
     "site": "imdb",
     "year": "1922",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0033432/",
-            "name": "Emmy Arbous"
+            "name": "Emmy Arbous",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0783834/",
-            "name": "Gustav Adolf Semler"
+            "name": "Gustav Adolf Semler",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1772172/",
-            "name": "Mimi Irving"
+            "name": "Mimi Irving",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Emmy Arbous",
+            "Gustav Adolf Semler",
+            "Mimi Irving"
+        ],
+        "Writer": [
+            "Johan Gildemeijer"
+        ],
+        "Director": [
+            "Johan Gildemeijer"
+        ],
         "Language": [
-            "None"
+            "No Language"
         ],
         "Release date": [
-            "April 21, 1922 (Netherlands)"
+            "1922-01-02"
         ],
-        "Also known as": [
-            "Het noodlot van den roem"
-        ],
-        "Production company": [
-            "Rembrandt Film Co."
-        ],
-        "Countries of origin": [
-            "Germany",
-            "Netherlands"
+        "Country of origin": [
+            "Netherlands",
+            "Germany"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0318397/",
-            "name": "Johan Gildemeijer"
+            "name": "Johan Gildemeijer",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0318397/",
-            "name": "Johan Gildemeijer"
+            "name": "Johan Gildemeijer",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0434052/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "Directed by Johan Gildemeijer.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1922-01-02",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1922-04-21",
+    "datePublished": "1922-01-02",
+    "original_title": "Gloria Fatalis",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-30T09:22:50"
+    "update_at": "2026-11-11T13:07:31"
 }

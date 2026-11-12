@@ -4,82 +4,142 @@
     "name": "Twirl",
     "site": "imdb",
     "year": "1981",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0602844/",
-            "name": "Erin Moran"
+            "name": "Erin Moran",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0924075/",
-            "name": "Lisa Whelchel"
+            "name": "Lisa Whelchel",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0354024/",
-            "name": "Charles Haid"
+            "name": "Charles Haid",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001771/",
+            "name": "Stella Stevens",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0126318/",
+            "name": "Edd Byrnes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0817718/",
+            "name": "Sharon Spelman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0864952/",
+            "name": "Matthew Tobin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0106328/",
+            "name": "Conni Marie Brazelton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001034/",
+            "name": "Rosalind Chao",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0325047/",
+            "name": "Missy Gold",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjZlODljMmYtYmQyYi00Y2Y0LTk0OGQtZGMwNTYzYTRiZmM5XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/mCpZwA7OCodElcNrhMK9mqYUICi.jpg",
     "details": {
+        "Stars": [
+            "Erin Moran",
+            "Lisa Whelchel",
+            "Charles Haid"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Gabriel Grunfeld",
+            "Ken Vrana",
+            "Bernie Kahn"
+        ],
+        "Runtime": [
+            "100 min"
+        ],
+        "Director": [
+            "Gus Trikonis"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "October 25, 1981 (United States)"
-        ],
-        "Also known as": [
-            "Yarışma"
+            "1981-10-25"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
+            "Atrium Productions",
             "Charles Fries Productions",
-            "Atrium Productions"
+            "NBC"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0344620/",
-            "name": "Gabriel Grunfeld"
+            "name": "Gabriel Grunfeld",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1368267/",
-            "name": "Ken Vrana"
+            "name": "Ken Vrana",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0434794/",
-            "name": "Bernie Kahn"
+            "name": "Bernie Kahn",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H40M",
-    "keywords": [
-        "short skirt high boots majorette costume",
-        "twirling a baton",
-        "majorette",
-        "baton twirler",
-        "baton"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0872809/",
-            "name": "Gus Trikonis"
+            "name": "Gus Trikonis",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0083243/",
     "metascore": null,
-    "imdb_votes": 123,
+    "imdb_votes": 138,
     "popularity": 0,
-    "description": "Best friends compete for the title of &quot;Miss Twirl&quot; (similar to a Miss America contest with the primary category of competition being (what else?) twirling!). The real test, however, is whether their friendship will survive through...",
-    "imdb_rating": "5.7/10 from 123 users",
-    "release_date": [],
+    "description": "Best friends compete for the title of \"Miss Twirl\" (similar to a Miss America contest with the primary category of competition being -- what else? -- twirling!). The real test, however, is whether their friendship will survive through the contest with the pressure and interference from their parents to win.",
+    "imdb_rating": "5.7/10 from 138 users",
+    "release_date": [
+        {
+            "date": "1981-10-25",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1981-10-25",
+    "original_title": "Twirl",
     "imdb_rating_average": 5.7,
-    "update_at": "2026-03-11T16:49:36"
+    "update_at": "2026-11-11T22:56:37"
 }

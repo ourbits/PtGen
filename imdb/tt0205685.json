@@ -4,56 +4,126 @@
     "name": "Roman o Londonu",
     "site": "imdb",
     "year": "1989",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0471771/",
-            "name": "Miodrag Krivokapic"
+            "name": "Miodrag Krivokapic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0191322/",
-            "name": "Vera Cukic"
+            "name": "Vera Cukic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0581875/",
-            "name": "Cvijeta Mesic"
+            "name": "Cvijeta Mesic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0831206/",
+            "name": "Fedja Stojanovic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0421951/",
+            "name": "Branislav 'Ciga' Jerinic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0067429/",
+            "name": "Ivan Bekjarev",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0882729/",
+            "name": "Tanasije Uzunovic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0052031/",
+            "name": "Mira Banjac",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0705817/",
+            "name": "Miodrag Radovanovic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0147126/",
+            "name": "Dejan Cavic",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Serbo-Croatian"
+        "Stars": [
+            "Miodrag Krivokapic",
+            "Vera Cukic",
+            "Cvijeta Mesic"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Jovan Cirilov",
+            "Milos Crnjanski",
+            "Mira Trailovic"
+        ],
+        "Runtime": [
+            "70 min"
+        ],
+        "Director": [
+            "Mira Trailovic"
         ],
         "Release date": [
-            "February 6, 1989 (Yugoslavia)"
-        ],
-        "Country of origin": [
-            "Yugoslavia"
-        ],
-        "Production company": [
-            "Radiotelevizija Beograd"
+            "1989"
         ]
     },
     "reviews": 0,
-    "creators": [],
-    "duration": null,
-    "keywords": [
-        "tv mini series",
-        "based on novel"
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0162755/",
+            "name": "Jovan Cirilov",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0188284/",
+            "name": "Milos Crnjanski",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0870675/",
+            "name": "Mira Trailovic",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT1H10M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0870675/",
+            "name": "Mira Trailovic",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0205685/",
     "metascore": null,
     "imdb_votes": 10,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "6.2/10 from 10 users",
+    "imdb_rating": "5.7/10 from 10 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1989-02-06",
-    "imdb_rating_average": 6.2,
-    "update_at": "2025-02-12T07:18:16"
+    "datePublished": "1989",
+    "original_title": "Roman o Londonu",
+    "imdb_rating_average": 5.7,
+    "update_at": "2026-11-11T02:56:14"
 }

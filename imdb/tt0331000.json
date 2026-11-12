@@ -4,74 +4,105 @@
     "name": "The Tom Green Cancer Special",
     "site": "imdb",
     "year": "2000",
-    "@type": "Movie",
+    "@type": "TVSpecial",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0338381/",
-            "name": "Tom Green"
+            "name": "Tom Green",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0402104/",
-            "name": "Glenn Humplik"
+            "name": "Glenn Humplik",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0321028/",
-            "name": "Phil Giroux"
+            "name": "Phil Giroux",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000106/",
+            "name": "Drew Barrymore",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1283142/",
+            "name": "Mary Jane Green",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6354222/",
+            "name": "Richard Green",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTk0ZjU2ZDAtODhjNC00YmI0LThhMmUtYjYyYjMzMTIzMTRlXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Tom Green",
+            "Glenn Humplik",
+            "Phil Giroux"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Writer": [
+            "Tom Green",
+            "Derek Harvie"
+        ],
+        "Runtime": [
+            "43 min"
+        ],
+        "Director": [
+            "Derek Harvie"
         ],
         "Release date": [
-            "May 23, 2000 (United States)"
-        ],
-        "Country of origin": [
-            "Canada"
-        ],
-        "Filming locations": [
-            "Stephen C. O'Connell Center - Gale Lemerand Dr. & W. University Avenue, University of Florida, Gainesville, Florida, USA"
+            "2000-05-23"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0338381/",
-            "name": "Tom Green"
+            "name": "Tom Green",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0367761/",
-            "name": "Derek Harvie"
+            "name": "Derek Harvie",
+            "@type": "Person"
         }
     ],
     "duration": "PT43M",
-    "keywords": [
-        "medicine",
-        "drug",
-        "doctor",
-        "testicle",
-        "sketch comedy"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0367761/",
-            "name": "Derek Harvie"
+            "name": "Derek Harvie",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0331000/",
     "metascore": null,
-    "imdb_votes": 345,
+    "imdb_votes": 349,
     "popularity": 0,
-    "description": "Part documentary, part sketch comedy, part true-life drama, this short film follows Tom Green&apos;s real life cancer scare and subsequent removal of one of his testicles, which is shown in its entirety.",
-    "imdb_rating": "7.1/10 from 345 users",
-    "release_date": [],
+    "description": "Part documentary, part sketch comedy, part true-life drama, this short film follows Tom Green's real life cancer scare and subsequent removal of one of his testicles, which is shown in its entirety.",
+    "imdb_rating": "7.1/10 from 349 users",
+    "release_date": [
+        {
+            "date": "2000-05-23",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2000-05-23",
+    "original_title": "The Tom Green Cancer Special",
     "imdb_rating_average": 7.1,
-    "update_at": "2025-10-05T01:49:14"
+    "update_at": "2026-11-11T04:21:21"
 }
