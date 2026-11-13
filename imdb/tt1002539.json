@@ -11,79 +11,106 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3547753/",
-            "name": "Juan Fernández"
+            "name": "Juan Fernández",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3018235/",
-            "name": "Nieves Cabrera"
+            "name": "Nieves Cabrera",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3020511/",
-            "name": "Giselle Irrazabal"
+            "name": "Giselle Irrazabal",
+            "@type": "Person"
         }
     ],
-    "critic": 42,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxNTY0NDI4Ml5BMl5BanBnXkFtZTcwODM3MjQzMg@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/3LKKFl3bSs0zURv6DgxjO294P5l.jpg",
     "details": {
+        "Stars": [
+            "Juan Fernández",
+            "Nieves Cabrera",
+            "Giselle Irrazabal"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Lisandro Alonso",
+            "Salvador Roselli"
+        ],
+        "Runtime": [
+            "84 min"
+        ],
+        "Director": [
+            "Lisandro Alonso"
+        ],
         "Language": [
             "Spanish"
         ],
         "Release date": [
-            "October 30, 2008 (Argentina)"
+            "2008-10-30"
         ],
-        "Also known as": [
-            "Liverpul"
-        ],
-        "Filming locations": [
-            "Ushuaia, Tierra del Fuego, Argentina"
-        ],
-        "Countries of origin": [
+        "Country of origin": [
             "Argentina",
+            "Spain",
             "France",
             "Netherlands",
-            "Germany",
-            "Spain"
+            "Germany"
         ],
         "Production companies": [
-            "4L",
             "Black Forest Films",
-            "CMW Films"
+            "Slot Machine",
+            "4L",
+            "Eddie Saeta",
+            "Fortuna Films"
         ]
     },
-    "reviews": 10,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1027762/",
-            "name": "Lisandro Alonso"
+            "name": "Lisandro Alonso",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0741834/",
-            "name": "Salvador Roselli"
+            "name": "Salvador Roselli",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H24M",
     "keywords": [
-        "place name in title",
-        "city name in title",
-        "drunk",
-        "sailor",
-        "one word title"
+        "sailor"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1027762/",
-            "name": "Lisandro Alonso"
+            "name": "Lisandro Alonso",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1002539/",
     "metascore": null,
-    "imdb_votes": 1254,
+    "imdb_votes": 1302,
     "popularity": 0,
-    "description": "A merchant sailor returns to his home in Tierra del Fuego after spending most of his life at sea.",
-    "imdb_rating": "6.4/10 from 1254 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "A sailor takes a short leave to visit his hometown and see if his mother is still alive.",
+    "imdb_rating": "6.4/10 from 1302 users",
+    "release_date": [
+        {
+            "date": "2008-10-30",
+            "country": "Argentina"
+        },
+        {
+            "date": "2008-05-19",
+            "country": "France"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2008-10-30",
+    "original_title": "Liverpool",
     "imdb_rating_average": 6.4,
-    "update_at": "2025-09-01T07:52:34"
+    "update_at": "2026-11-12T06:49:06"
 }

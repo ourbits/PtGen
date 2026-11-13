@@ -4,53 +4,71 @@
     "name": "One Night Stan",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3456006/",
-            "name": "Richard Jin"
+            "name": "Richard Jin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2152494/",
-            "name": "Sean Muramatsu"
+            "name": "Sean Muramatsu",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2807080/",
-            "name": "Caroline Pho"
+            "name": "Caroline Pho",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1836946/",
+            "name": "Michelle Van Der Water",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Richard Jin",
+            "Sean Muramatsu",
+            "Caroline Pho"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Stephanie Muyco"
+        ],
+        "Director": [
+            "Julius Sambajon"
         ],
         "Release date": [
-            "May 1, 2009 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
+            "2009"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3453735/",
-            "name": "Stephanie Muyco"
+            "name": "Stephanie Muyco",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1730533/",
-            "name": "Julius Sambajon"
+            "name": "Julius Sambajon",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1438498/",
@@ -61,7 +79,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2009-05-01",
+    "datePublished": "2009",
+    "original_title": "One Night Stan",
     "imdb_rating_average": 0,
-    "update_at": "2026-04-21T07:00:54"
+    "update_at": "2026-11-12T11:21:18"
 }

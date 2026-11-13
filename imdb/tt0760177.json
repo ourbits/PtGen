@@ -4,7 +4,7 @@
     "name": "The Mermaid Chair",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Romance"
@@ -12,77 +12,127 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000107/",
-            "name": "Kim Basinger"
+            "name": "Kim Basinger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0141450/",
-            "name": "Alex Carter"
+            "name": "Alex Carter",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0339304/",
-            "name": "Bruce Greenwood"
+            "name": "Bruce Greenwood",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0561809/",
+            "name": "Roberta Maxwell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0600717/",
+            "name": "Debra Mooney",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0301874/",
+            "name": "Lorena Gale",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0367762/",
+            "name": "Ellie Harvie",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0688285/",
+            "name": "Ken Pogue",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0027555/",
+            "name": "Tori Anderson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0426841/",
+            "name": "Shaun Johnston",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTMyOTg2NzA5Ml5BMl5BanBnXkFtZTcwNTQ3NTM0Mw@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/Aj38Ic6W4X8m2owz9iMDOEeuoYs.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Kim Basinger",
+            "Alex Carter",
+            "Bruce Greenwood"
+        ],
+        "Genres": [
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Sue Monk Kidd",
+            "Suzette Couture"
+        ],
+        "Runtime": [
+            "89 min"
+        ],
+        "Director": [
+            "Steven Schachter"
         ],
         "Release date": [
-            "September 9, 2006 (United States)"
+            "2006-09-09"
         ],
-        "Also known as": [
-            "El secreto de la sirena"
-        ],
-        "Official site": [
-            "Lifetime TV - http://lifetimetv.com/movies/originals/mermaidchair.php"
-        ],
-        "Filming locations": [
-            "Cowichan Bay, British Columbia, Canada"
-        ],
-        "Production company": [
-            "Egret Island Productions"
-        ],
-        "Countries of origin": [
-            "United States",
+        "Country of origin": [
             "Canada"
+        ],
+        "Production companies": [
+            "Lifetime"
         ]
     },
-    "reviews": 18,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1650330/",
-            "name": "Sue Monk Kidd"
+            "name": "Sue Monk Kidd",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0184302/",
-            "name": "Suzette Couture"
+            "name": "Suzette Couture",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H29M",
     "keywords": [
-        "sex scene",
-        "monk",
-        "spirituality",
-        "flashback",
-        "family relationships"
+        "mermaid"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0769522/",
-            "name": "Steven Schachter"
+            "name": "Steven Schachter",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0760177/",
     "metascore": null,
-    "imdb_votes": 560,
+    "imdb_votes": 567,
     "popularity": 0,
-    "description": "A married woman (Basinger) falls in love with a Benedictine monk.",
-    "imdb_rating": "4.8/10 from 560 users",
-    "release_date": [],
-    "contentRating": "TV-PG",
+    "description": "When her mentally ill, elderly mother begins mutilating herself, Jessie (Kim Basinger) returns to her hometown to care for her. Among familiar surroundings, she tends to her mother's deteriorating mental condition while learning of troubling revelations about her family history. Meanwhile, though married, Jessie reconnects with old passions -- including a turbulent affair with a monk named Hugh (Bruce Greenwood).",
+    "imdb_rating": "4.8/10 from 567 users",
+    "release_date": [
+        {
+            "date": "2006-09-09",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2006-09-09",
+    "original_title": "The Mermaid Chair",
     "imdb_rating_average": 4.8,
-    "update_at": "2025-08-14T21:35:31"
+    "update_at": "2026-11-12T15:00:46"
 }

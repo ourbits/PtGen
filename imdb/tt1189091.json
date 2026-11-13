@@ -4,66 +4,117 @@
     "name": "Die vertagte Nacht",
     "site": "imdb",
     "year": "1970",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0611869/",
-            "name": "Fritz Muliar"
+            "name": "Fritz Muliar",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0630401/",
-            "name": "Susi Nicoletti"
+            "name": "Susi Nicoletti",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0679979/",
-            "name": "Margot Medicus"
+            "name": "Margot Medicus",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0817646/",
+            "name": "Kitty Speiser",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0777574/",
+            "name": "Gottfried Schwarz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0902026/",
+            "name": "Hans von Borsody",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0927401/",
+            "name": "Guido Wieland",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0233519/",
+            "name": "Rosl Dorena",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0062638/",
+            "name": "Chariklia Baxevanos",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0471123/",
+            "name": "Dorit Kreysler",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Fritz Muliar",
+            "Susi Nicoletti",
+            "Margot Medicus"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Franz Arnold",
+            "Ernst Bach",
+            "Hugo Wiener"
+        ],
+        "Runtime": [
+            "110 min"
+        ],
+        "Director": [
+            "Otto Anton Eder"
         ],
         "Release date": [
-            "December 31, 1970 (Austria)"
+            "1970-12-31"
         ],
         "Country of origin": [
             "Austria"
-        ],
-        "Filming locations": [
-            "Studio Ronacher, Vienna, Austria"
-        ],
-        "Production company": [
-            "Österreichischer Rundfunk (ORF)"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0036445/",
-            "name": "Franz Arnold"
+            "name": "Franz Arnold",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0045310/",
-            "name": "Ernst Bach"
+            "name": "Ernst Bach",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0927481/",
-            "name": "Hugo Wiener"
+            "name": "Hugo Wiener",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H50M",
-    "keywords": [
-        "based on play"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0249162/",
-            "name": "Otto Anton Eder"
+            "name": "Otto Anton Eder",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1189091/",
@@ -72,9 +123,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1970-12-31",
+            "country": "Austria"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1970-12-31",
+    "original_title": "Die vertagte Nacht",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-25T13:56:32"
+    "update_at": "2026-11-12T19:21:07"
 }

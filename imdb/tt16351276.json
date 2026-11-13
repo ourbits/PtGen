@@ -3,67 +3,87 @@
     "sid": "tt16351276",
     "name": "TooMuch?!",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2022",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm12593653/",
-            "name": "Kimberley Bernard"
+            "name": "Kimberley Bernard",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm7242357/",
-            "name": "Kai Bosse"
+            "name": "Kai Bosse",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2368205/",
-            "name": "Dagna Litzenberger-Vinet"
+            "name": "Dagna Litzenberger-Vinet",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7005890/",
+            "name": "Max Schimmelpfennig",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Kimberley Bernard",
+            "Kai Bosse",
+            "Dagna Litzenberger-Vinet"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Kai Bosse"
+        ],
+        "Director": [
+            "Kai Bosse"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "2022 (Germany)"
-        ],
-        "Country of origin": [
-            "Germany"
-        ],
-        "Production company": [
-            "Aporia Productions"
+            "2022"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm7242357/",
-            "name": "Kai Bosse"
+            "name": "Kai Bosse",
+            "@type": "Person"
         }
     ],
-    "duration": null,
-    "keywords": [
-        ""
-    ],
+    "duration": "PT14M",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm7242357/",
-            "name": "Kai Bosse"
+            "name": "Kai Bosse",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt16351276/",
     "metascore": null,
     "imdb_votes": 5,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7/10 from 5 users",
+    "description": "Short fiction comedy film by Kai Bosse.",
+    "imdb_rating": "7.0/10 from 5 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 7,
-    "update_at": "2025-08-23T13:21:37"
+    "datePublished": "2022",
+    "original_title": "TooMuch?!",
+    "imdb_rating_average": 7.0,
+    "update_at": "2026-11-12T10:42:33"
 }

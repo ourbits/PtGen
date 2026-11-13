@@ -5,70 +5,103 @@
     "site": "imdb",
     "year": "1957",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0044445/",
-            "name": "Chiyonosuke Azuma"
+            "name": "Chiyonosuke Azuma",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1345839/",
-            "name": "Shinobu Chihara"
+            "name": "Shinobu Chihara",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0645385/",
-            "name": "Satomi Oka"
+            "name": "Satomi Oka",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1670149/",
+            "name": "Toshiyasu Hiyoshi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0875370/",
+            "name": "Ryūnosuke Tsukigata",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjllNGExOGYtMmUyYy00ZDFmLWJmZjgtMjI5NTIxODBlMTZmXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/ssxAaL85xZhEcIMQfDx34FQyyUR.jpg",
     "details": {
+        "Stars": [
+            "Chiyonosuke Azuma",
+            "Shinobu Chihara",
+            "Satomi Oka"
+        ],
+        "Writer": [
+            "Shinji Kessoku",
+            "Jirō Osaragi"
+        ],
+        "Runtime": [
+            "64 min"
+        ],
+        "Director": [
+            "Toshikazu Kōno"
+        ],
         "Language": [
             "Japanese"
         ],
         "Release date": [
-            "May 12, 1957 (Japan)"
-        ],
-        "Also known as": [
-            "Goblin in Stirrups Pt.3"
+            "1957-05-12"
         ],
         "Country of origin": [
             "Japan"
         ],
-        "Production company": [
-            "Toei Kyoto"
+        "Production companies": [
+            "Toei Company"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2239399/",
-            "name": "Shinji Kessoku"
+            "name": "Shinji Kessoku",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0651519/",
-            "name": "Jirô Osaragi"
+            "name": "Jirō Osaragi",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H4M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0465226/",
-            "name": "Toshikazu Kôno"
+            "name": "Toshikazu Kōno",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt29538286/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "The third film in the \"Kurama Tengu\" series starring Azuma Chiyonosuke, based on the original work by Osaragi Jiro. The staff remains the same as in the previous film, \"Kurama Tengu Kakubei Shishi\" (1951), and the cast is the same, including the lead actors Azuma Chiyonosuke, Hiyoshi Toshiyasu, and Chihara Shinobu.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1957-05-12",
+            "country": "Japan"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1957-05-12",
+    "original_title": "Anba tengu: Goyô-tô ibun",
     "imdb_rating_average": 0,
-    "update_at": "2026-04-23T21:07:21"
+    "update_at": "2026-11-12T09:56:29"
 }

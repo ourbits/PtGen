@@ -1,62 +1,130 @@
 {
-    "aka": [],
-    "sid": "1806234",
+    "aka": [
+        {
+            "title": "人类星球",
+            "country": "China"
+        },
+        {
+            "title": "Země lidí",
+            "country": "Czech Republic"
+        },
+        {
+            "title": "Planet des Lebens",
+            "country": "Germany"
+        },
+        {
+            "title": "Planet der Menschen",
+            "country": "Germany"
+        },
+        {
+            "title": "BBC - 天下為家",
+            "country": "Hong Kong"
+        },
+        {
+            "title": "הכוכב האנושי",
+            "country": "Israel"
+        },
+        {
+            "title": "İnsan Gezegeni",
+            "country": "Turkey"
+        }
+    ],
+    "sid": "tt1806234",
     "name": "Human Planet",
     "site": "imdb",
     "year": "2011",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000457/",
-            "name": "John Hurt"
+            "name": "John Hurt",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3734430/",
-            "name": "Roger Munns"
+            "name": "Roger Munns",
+            "@type": "Person"
         }
     ],
-    "critic": 7,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDYxN2U4YjEtZmZjYS00NmJkLTg3Y2EtZjFmNmFiNmExMDMwXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/bjhP5yIeyWMRMxJdLjBuiIf255X.jpg",
     "details": {
+        "Stars": [
+            "John Hurt",
+            "Roger Munns"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Runtime": [
+            "50 min"
+        ],
+        "Director": [
+            "Mark Flowers",
+            "Nicolas Brown",
+            "Tom Hugh-Jones"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 13, 2011 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Планета людей"
+            "2011-01-13"
         ],
         "Country of origin": [
-            "United Kingdom"
+            "France",
+            "United Kingdom",
+            "United States of America"
         ],
-        "Production company": [
-            "British Broadcasting Corporation (BBC)"
+        "Production companies": [
+            "France Télévisions"
         ]
     },
-    "imdb_id": "tt1806234",
-    "reviews": 16,
+    "reviews": 0,
+    "tagline": "Natural born survivors.",
     "creators": [],
-    "duration": null,
+    "duration": "PT50M",
     "keywords": [
-        "astronomical object in title",
-        "social documentary",
-        "travel documentary",
-        "urban setting",
-        "nature documentary"
+        "human evolution",
+        "miniseries",
+        "prehistoric man",
+        "nature documentary",
+        "planet earth",
+        "home planet",
+        "human in nature",
+        "nature and people",
+        "people and nature",
+        "man and nature"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm2111922/",
+            "name": "Mark Flowers",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0114351/",
+            "name": "Nicolas Brown",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0400418/",
+            "name": "Tom Hugh-Jones",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1806234/",
     "metascore": null,
-    "imdb_votes": 29665,
+    "imdb_votes": 34464,
     "popularity": 0,
-    "description": "A cinematic experience bringing you the most amazing human stories in the world. Humans and wildlife surviving in the most extreme environments on Earth",
-    "imdb_rating": "9/10 from 29665 users",
+    "description": "A cinematic experience bringing you the most amazing human stories in the world. Humans and wildlife surviving in the most extreme environments on Earth.",
+    "imdb_rating": "9.0/10 from 34464 users",
     "release_date": [],
-    "contentRating": "TV-PG",
+    "contentRating": null,
     "datePublished": "2011-01-13",
-    "imdb_rating_average": 9,
-    "update_at": "2025-01-20T01:20:14"
+    "original_title": "Human Planet",
+    "imdb_rating_average": 9.0,
+    "update_at": "2026-11-12T19:42:08"
 }

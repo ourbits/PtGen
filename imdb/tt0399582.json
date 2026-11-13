@@ -11,76 +11,99 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1549780/",
-            "name": "Jano"
+            "name": "Jano",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1146455/",
-            "name": "Zuenir Ventura"
+            "name": "Zuenir Ventura",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjdkMjU2MzItNDRlYi00OTQ5LTlmNDctMDczZjMzMmI1NDM3XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/qZ2isSvnUpXNRV7a0a7ogoOgUVV.jpg",
     "details": {
-        "Languages": [
+        "Stars": [
+            "Jano",
+            "Zuenir Ventura"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Writer": [
+            "Anna Azevedo",
+            "Renata Baldi",
+            "Eduardo Souza Lima"
+        ],
+        "Runtime": [
+            "73 min"
+        ],
+        "Director": [
+            "Anna Azevedo",
+            "Renata Baldi",
+            "Eduardo Souza Lima"
+        ],
+        "Language": [
             "French",
             "Portuguese"
         ],
         "Release date": [
-            "September 30, 2003 (Brazil)"
-        ],
-        "Country of origin": [
-            "Brazil"
-        ],
-        "Filming locations": [
-            "Copacabana, Rio de Janeiro, Rio de Janeiro, Brazil"
-        ],
-        "Production company": [
-            "Hy Brazil Filmes"
+            "2003-09-30"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1556074/",
-            "name": "Anna Azevedo"
+            "name": "Anna Azevedo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0049744/",
-            "name": "Renata Baldi"
+            "name": "Renata Baldi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1550353/",
-            "name": "Eduardo Souza Lima"
+            "name": "Eduardo Souza Lima",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H13M",
-    "keywords": [
-        "f rated",
-        "animation filmmaking"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1556074/",
-            "name": "Anna Azevedo"
+            "name": "Anna Azevedo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0049744/",
-            "name": "Renata Baldi"
+            "name": "Renata Baldi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1550353/",
-            "name": "Eduardo Souza Lima"
+            "name": "Eduardo Souza Lima",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0399582/",
     "metascore": null,
     "imdb_votes": 47,
     "popularity": 0,
-    "description": "Meet Rio de Janeiro... through the eyes of Jano!",
+    "description": "Jean Leguay, working under the pseudonym Jano, is a pop French visual artist. In late 2000, he visited Rio de Janeiro in order to make this book. Jano immersed himself completely in the “Rio de Janeiro life style”, going to places that will never be showed on post cards, meeting people from all layers of society, observing, experimenting, interacting.",
     "imdb_rating": "7.3/10 from 47 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2003-09-30",
+            "country": "Brazil"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2003-09-30",
+    "original_title": "Rio de Jano",
     "imdb_rating_average": 7.3,
-    "update_at": "2026-02-22T21:00:43"
+    "update_at": "2026-11-12T13:07:06"
 }

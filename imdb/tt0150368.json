@@ -11,70 +11,133 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0234247/",
-            "name": "Dorville"
+            "name": "Dorville",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0264692/",
-            "name": "Saturnin Fabre"
+            "name": "Saturnin Fabre",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0477742/",
-            "name": "Jean-Pierre Kérien"
+            "name": "Jean-Pierre Kérien",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0738331/",
+            "name": "Monique Rolland",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0028903/",
+            "name": "Andrex",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0235398/",
+            "name": "Doumel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0099531/",
+            "name": "Boulicot",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0714550/",
+            "name": "Recordier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0560944/",
+            "name": "Marcel Maupi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0201224/",
+            "name": "Line Dariel",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjg2Mjg1NDktYTQzMS00NTE3LTlkZDItMGRmYzhhZmNjMjA4XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/4oRF60Srn5G4Qq2MnuQ7cPZ4CMf.jpg",
     "details": {
+        "Stars": [
+            "Dorville",
+            "Saturnin Fabre",
+            "Jean-Pierre Kérien"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Yves Allégret",
+            "Károly Nóti",
+            "René Pujol"
+        ],
+        "Runtime": [
+            "85 min"
+        ],
+        "Director": [
+            "Pierre Colombier"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "December 14, 1938 (France)"
-        ],
-        "Also known as": [
-            "The Tamer"
+            "1938-12-14"
         ],
         "Country of origin": [
             "France"
         ],
-        "Production company": [
-            "Productions Cinésonor"
+        "Production companies": [
+            "Les Productions Cinésonor"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0001905/",
-            "name": "Yves Allégret"
+            "name": "Yves Allégret",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0639130/",
-            "name": "Károly Nóti"
+            "name": "Károly Nóti",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0700259/",
-            "name": "René Pujol"
+            "name": "René Pujol",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H25M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0173017/",
-            "name": "Pierre Colombier"
+            "name": "Pierre Colombier",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0150368/",
     "metascore": null,
-    "imdb_votes": 12,
+    "imdb_votes": 13,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "5.4/10 from 12 users",
-    "release_date": [],
+    "description": "A very shy person inherits a traveling circus on the express condition that he manages to present a number on the ring.",
+    "imdb_rating": "5.4/10 from 13 users",
+    "release_date": [
+        {
+            "date": "1938-12-14",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1938-12-14",
+    "original_title": "Le dompteur",
     "imdb_rating_average": 5.4,
-    "update_at": "2025-05-26T07:44:03"
+    "update_at": "2026-11-12T06:00:26"
 }

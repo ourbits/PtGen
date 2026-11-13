@@ -4,62 +4,87 @@
     "name": "The Dinner Party",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Horror"
+        "Horror",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm8485782/",
-            "name": "Kenneth Brown Sr."
+            "name": "Kenneth Brown Sr.",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm8485781/",
-            "name": "Melanie Brown"
+            "name": "Melanie Brown",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm8485786/",
-            "name": "MaryBeth Hall"
+            "name": "MaryBeth Hall",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8485785/",
+            "name": "Miles Hall",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8485783/",
+            "name": "Denise Lawrence",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1201608/",
+            "name": "Gregg Lawrence",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTYyNGU4OTYtYjZhMC00ODNjLWE3MjUtZDE0OGMyMzcyZjFiXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/x2ZHKIwOlDDnsTsZ7Xs8WuAxdns.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Kenneth Brown Sr.",
+            "Melanie Brown",
+            "MaryBeth Hall"
+        ],
+        "Genres": [
+            "Horror",
+            "Short"
+        ],
+        "Writer": [
+            "Kenny Brown"
+        ],
+        "Runtime": [
+            "6 min"
+        ],
+        "Director": [
+            "Kenny Brown"
         ],
         "Release date": [
-            "December 10, 2005 (United States)"
+            "2005-12-05"
         ],
-        "Official site": [
-            "Company Website - http://www.violentlightfilms.com/"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Clarksville, Indiana, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Violent Light Films"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3975425/",
-            "name": "Kenny Brown"
+            "name": "Kenny Brown",
+            "@type": "Person"
         }
     ],
     "duration": "PT6M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3975425/",
-            "name": "Kenny Brown"
+            "name": "Kenny Brown",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt6117878/",
@@ -68,9 +93,15 @@
     "popularity": 0,
     "description": "The events of an upper-class, cannibal dinner party.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2005-12-05",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2005-12-10",
+    "datePublished": "2005-12-05",
+    "original_title": "The Dinner Party",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-16T06:06:07"
+    "update_at": "2026-11-12T06:35:43"
 }

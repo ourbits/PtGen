@@ -1,10 +1,23 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Frankenstein",
+            "country": "Germany"
+        },
+        {
+            "title": "Frankenstein A Verdadeira História",
+            "country": "Brazil"
+        },
+        {
+            "title": "Frankenşteyn",
+            "country": "Azerbaijan"
+        }
+    ],
     "sid": "tt0106959",
     "name": "Frankenstein",
     "site": "imdb",
     "year": "1993",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Horror",
@@ -13,76 +26,140 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000920/",
-            "name": "Patrick Bergin"
+            "name": "Patrick Bergin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001642/",
-            "name": "Randy Quaid"
+            "name": "Randy Quaid",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0590055/",
-            "name": "John Mills"
+            "name": "John Mills",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0933727/",
+            "name": "Lambert Wilson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0319177/",
+            "name": "Fiona Gillies",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0611672/",
+            "name": "Jacinta Mulcahy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0500318/",
+            "name": "Ronald Leigh-Hunt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0823276/",
+            "name": "Timothy Stark",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0229943/",
+            "name": "Vernon Dobtcheff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0084696/",
+            "name": "Roger Bizley",
+            "@type": "Person"
         }
     ],
-    "critic": 6,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzY4MTA0OTI1Nl5BMl5BanBnXkFtZTcwMzcwNTEyMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/4OHZmELj1i05oHWZM74ltMzfusY.jpg",
     "details": {
+        "Stars": [
+            "Patrick Bergin",
+            "Randy Quaid",
+            "John Mills"
+        ],
+        "Genres": [
+            "Drama",
+            "Horror",
+            "Sci-Fi"
+        ],
+        "Writer": [
+            "Mary Shelley",
+            "David Wickes"
+        ],
+        "Runtime": [
+            "117 min"
+        ],
+        "Director": [
+            "David Wickes"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "June 14, 1993 (United States)"
-        ],
-        "Also known as": [
-            "Frankenstein: The Real Story"
-        ],
-        "Official site": [
-            "arabuloku.com - https://www.arabuloku.com/frankenstein-ozet-ve-karakter-analizi.html"
+            "1993-12-02"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Filming locations": [
-            "WFF Film Studio, Wroclaw, Dolnoslaskie, Poland"
-        ],
-        "Production company": [
+        "Production companies": [
             "Turner Pictures (I)"
         ]
     },
-    "reviews": 9,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0791217/",
-            "name": "Mary Shelley"
+            "name": "Mary Shelley",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0926892/",
-            "name": "David Wickes"
+            "name": "David Wickes",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H57M",
     "keywords": [
-        "doctor victor frankenstein character",
-        "film version of shelley&apos;s frankenstein",
-        "gothic horror",
-        "ship",
-        "male nudity"
+        "monster",
+        "experiment"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0926892/",
-            "name": "David Wickes"
+            "name": "David Wickes",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0106959/",
     "metascore": null,
-    "imdb_votes": 678,
+    "imdb_votes": 727,
     "popularity": 0,
-    "description": "Dr. Victor von Frankenstein (Patrick Bergin) creates his creature (Randy Quaid), who escapes into the countryside to find that humanity has only pain and sorrow for him. But a psychic link between created and creator draws the two...",
-    "imdb_rating": "5.7/10 from 678 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
-    "datePublished": "1993-06-14",
+    "description": "In the early 19th century, Dr. Frankenstein discovers the secret of life – how to create a perfect man – powerful, intelligent and immune to disease. But something goes wrong in the laboratory and the doctor’s hideous creation disappears into the night. At first, Frankenstein hoped that the horrible monster would perish in the wilderness, but now he senses that it’s alive and sets out for him. Dr. Frankenstein tracks the creature to the Arctic, where the two must battle to decide who will become the master of the other’s life…or death.",
+    "imdb_rating": "5.7/10 from 727 users",
+    "release_date": [
+        {
+            "date": "1993-12-02",
+            "country": "Czech Republic"
+        },
+        {
+            "date": "1992-12-29",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "1993-06-13",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1993-12-02",
+    "original_title": "Frankenstein",
     "imdb_rating_average": 5.7,
-    "update_at": "2025-05-17T18:39:19"
+    "update_at": "2026-11-13T00:21:24"
 }

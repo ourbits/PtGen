@@ -3,68 +3,104 @@
     "sid": "tt0225485",
     "name": "Debts",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1986",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Animation"
+        "Animation",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0049172/",
-            "name": "Sharon Bakker"
+            "name": "Sharon Bakker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0115428/",
-            "name": "Bobby Bruce"
+            "name": "Bobby Bruce",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0568847/",
-            "name": "Dwight McFee"
+            "name": "Dwight McFee",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1100433/",
+            "name": "Maggie Sunshine",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/iFEa2ywzsk42cj4d3xO0Wrq5aC5.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Sharon Bakker",
+            "Bobby Bruce",
+            "Dwight McFee"
+        ],
+        "Genres": [
+            "Animation",
+            "Short"
+        ],
+        "Writer": [
+            "Mary Burns",
+            "James Reil"
+        ],
+        "Runtime": [
+            "9 min"
+        ],
+        "Director": [
+            "Stephen McCallum"
+        ],
+        "Release date": [
+            "1986-08-09"
         ],
         "Country of origin": [
             "Canada"
         ],
-        "Production company": [
-            "National Film Board of Canada (NFB)"
+        "Production companies": [
+            "ONF | NFB"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0122791/",
-            "name": "Mary Burns"
+            "name": "Mary Burns",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1099625/",
-            "name": "James Reil"
+            "name": "James Reil",
+            "@type": "Person"
         }
     ],
     "duration": "PT9M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0564774/",
-            "name": "Stephen McCallum"
+            "name": "Stephen McCallum",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0225485/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "Based on a short story by James Reil, this sensitive animation film evokes the flavour of days gone by and pays tender tribute to those who farmed the Prairies in the 1920s. With a few deft strokes, the film portrays the hardships these people had to endure in their struggle for survival. The film's focus is on the life of one family whose autumn harvesting days are coloured by the death of a neighbour during childbirth.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1986-08-09",
+            "country": "Canada"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1986-08-09",
+    "original_title": "Debts",
     "imdb_rating_average": 0,
-    "update_at": "2026-02-20T04:07:40"
+    "update_at": "2026-11-12T13:35:35"
 }

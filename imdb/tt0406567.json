@@ -4,55 +4,100 @@
     "name": "Beaumarchais ou 60000 fusils",
     "site": "imdb",
     "year": "1966",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0637627/",
-            "name": "Bernard Noël"
+            "name": "Bernard Noël",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0294401/",
-            "name": "Bernard Fresson"
+            "name": "Bernard Fresson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0310799/",
-            "name": "Paul Gay"
+            "name": "Paul Gay",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0559738/",
+            "name": "Paloma Matta",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0194062/",
+            "name": "Marcel Cuvelier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0609526/",
+            "name": "Alain Mottet",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0534039/",
+            "name": "Alain MacMoy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0163361/",
+            "name": "Jacques Clancy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0959923/",
+            "name": "Yvette Etiévant",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0186567/",
+            "name": "Paul Crauchet",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjFkMmQ2ZDItOThlNi00ZDZhLWJlNTYtMTFkMTM3Y2M2Y2NhXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Bernard Noël",
+            "Bernard Fresson",
+            "Paul Gay"
+        ],
+        "Writer": [
+            "Sacha Guitry",
+            "Marcel Moussy"
+        ],
+        "Director": [
+            "Marcel Bluwal"
         ],
         "Release date": [
-            "September 27, 1966 (France)"
-        ],
-        "Country of origin": [
-            "France"
+            "1966"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0347589/",
-            "name": "Sacha Guitry"
+            "name": "Sacha Guitry",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0610115/",
-            "name": "Marcel Moussy"
+            "name": "Marcel Moussy",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "based on play",
-        "character name in title"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0089958/",
-            "name": "Marcel Bluwal"
+            "name": "Marcel Bluwal",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0406567/",
@@ -63,7 +108,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1966-09-27",
+    "datePublished": "1966",
+    "original_title": "Beaumarchais ou 60000 fusils",
     "imdb_rating_average": 0,
-    "update_at": "2025-04-08T03:35:51"
+    "update_at": "2026-11-12T21:35:30"
 }

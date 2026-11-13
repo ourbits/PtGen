@@ -4,60 +4,111 @@
     "name": "Agent aus der Retorte",
     "site": "imdb",
     "year": "1972",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime"
     ],
     "actors": [
         {
-            "url": "https://www.imdb.com/name/nm0386063/",
-            "name": "Knut Hinz"
+            "url": "https://www.imdb.com/name/nm0899162/",
+            "name": "Udo Vioff",
+            "@type": "Person"
         },
         {
-            "url": "https://www.imdb.com/name/nm0899162/",
-            "name": "Udo Vioff"
+            "url": "https://www.imdb.com/name/nm0386063/",
+            "name": "Knut Hinz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0533253/",
-            "name": "Lutz Mackensy"
+            "name": "Lutz Mackensy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0901057/",
+            "name": "Rüdiger Vogler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0774653/",
+            "name": "Axel Scholtz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0775644/",
+            "name": "Christiane Schröder",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0744974/",
+            "name": "Paul Edwin Roth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0486089/",
+            "name": "Carl Lange",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0490819/",
+            "name": "Richard Lauffen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0464163/",
+            "name": "Franz Kollasch",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTY5NGQzNWYtNzVhOC00Mzc5LTk4OTctOWU0NDdmZWFhNWY5XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Udo Vioff",
+            "Knut Hinz",
+            "Lutz Mackensy"
+        ],
+        "Genres": [
+            "Crime"
+        ],
+        "Writer": [
+            "Maria Matray",
+            "Answald Krüger"
+        ],
+        "Runtime": [
+            "85 min"
+        ],
+        "Director": [
+            "Wolfgang Glück"
         ],
         "Release date": [
-            "November 10, 1972 (West Germany)"
+            "1972-11-10"
         ],
         "Country of origin": [
-            "West Germany"
-        ],
-        "Production companies": [
-            "Aurora Television Produktion",
-            "Zweites Deutsches Fernsehen (ZDF)"
+            "Germany"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
-            "url": "https://www.imdb.com/name/nm0473210/",
-            "name": "Answald Krüger"
+            "url": "https://www.imdb.com/name/nm0559306/",
+            "name": "Maria Matray",
+            "@type": "Person"
         },
         {
-            "url": "https://www.imdb.com/name/nm0559306/",
-            "name": "Maria Matray"
+            "url": "https://www.imdb.com/name/nm0473210/",
+            "name": "Answald Krüger",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H25M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0323418/",
-            "name": "Wolfgang Glück"
+            "name": "Wolfgang Glück",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0379690/",
@@ -66,9 +117,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1972-11-10",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1972-11-10",
+    "original_title": "Agent aus der Retorte",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-10T11:39:26"
+    "update_at": "2026-11-12T08:28:25"
 }

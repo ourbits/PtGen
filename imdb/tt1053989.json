@@ -4,7 +4,7 @@
     "name": "Adriana et moi",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Romance"
@@ -12,63 +12,116 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0947611/",
-            "name": "Bernard Yerlès"
+            "name": "Bernard Yerlès",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1141714/",
-            "name": "Adriana Karembeu"
+            "name": "Adriana Karembeu",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0300067/",
-            "name": "Nicolas Gabion"
+            "name": "Nicolas Gabion",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0760405/",
+            "name": "Marc Samuel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1675203/",
+            "name": "Léo Legrand",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0236816/",
+            "name": "Joséphine Draï",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0174302/",
+            "name": "Marie-Sohna Condé",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0011965/",
+            "name": "Jim Adhi Limas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1458627/",
+            "name": "Laurent Garnier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0126883/",
+            "name": "Macha Béranger",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDNjZGJmM2ItMDg1MS00MTAwLTg4OTAtNGJhNTljYjczNTVkXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/o1LhmTKCPs5HH0s39jyt7ZZ1csb.jpg",
     "details": {
+        "Stars": [
+            "Bernard Yerlès",
+            "Adriana Karembeu",
+            "Nicolas Gabion"
+        ],
+        "Genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "Writer": [
+            "Ludovic Pion-Dumas"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Williams Crépin"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "November 21, 2007 (France)"
-        ],
-        "Also known as": [
-            "Rendez vous a Parigi"
-        ],
-        "Production company": [
-            "VAB"
-        ],
-        "Countries of origin": [
-            "Switzerland",
-            "France"
+            "2007-04-27"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1563125/",
-            "name": "Ludovic Pion-Dumas"
+            "name": "Ludovic Pion-Dumas",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0190605/",
-            "name": "Williams Crépin"
+            "name": "Williams Crépin",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1053989/",
     "metascore": null,
     "imdb_votes": 32,
     "popularity": 0,
-    "description": null,
+    "description": "A modest gardener from Châtelet les Halles falls in love with the star Adriana Karembeu. But their relationship will be fraught with pitfalls.",
     "imdb_rating": "4.4/10 from 32 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2007-04-27",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2007-11-21",
+    "datePublished": "2007-04-27",
+    "original_title": "Adriana et moi",
     "imdb_rating_average": 4.4,
-    "update_at": "2025-09-05T07:13:14"
+    "update_at": "2026-11-12T04:56:19"
 }

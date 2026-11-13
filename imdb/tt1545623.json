@@ -4,59 +4,106 @@
     "name": "Die echten Sedemunds",
     "site": "imdb",
     "year": "1965",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0775650/",
-            "name": "Ernst Schröder"
+            "name": "Ernst Schröder",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0051253/",
-            "name": "Gerd Baltus"
+            "name": "Gerd Baltus",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0775640/",
-            "name": "Arthur Schröder"
+            "name": "Arthur Schröder",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0717946/",
+            "name": "Heinz Reincke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0353368/",
+            "name": "Carla Hagen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0825474/",
+            "name": "Gisela Stein",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0509695/",
+            "name": "Wolfrid Lier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0345057/",
+            "name": "Herbert Grünbaum",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0630062/",
+            "name": "Franz Nicklisch",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Ernst Schröder",
+            "Gerd Baltus",
+            "Arthur Schröder"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Carl Dietrich Carls",
+            "Ernst Barlach"
+        ],
+        "Runtime": [
+            "120 min"
+        ],
+        "Director": [
+            "Hans Lietzau"
         ],
         "Release date": [
-            "November 17, 1965 (West Germany)"
+            "1965-11-17"
         ],
         "Country of origin": [
-            "West Germany"
-        ],
-        "Production company": [
-            "Sender Freies Berlin (SFB)"
+            "Germany"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1267950/",
-            "name": "Carl Dietrich Carls"
+            "name": "Carl Dietrich Carls",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0055144/",
-            "name": "Ernst Barlach"
+            "name": "Ernst Barlach",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0509755/",
-            "name": "Hans Lietzau"
+            "name": "Hans Lietzau",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1545623/",
@@ -65,9 +112,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1965-11-17",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1965-11-17",
+    "original_title": "Die echten Sedemunds",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-20T10:36:05"
+    "update_at": "2026-11-12T18:56:26"
 }

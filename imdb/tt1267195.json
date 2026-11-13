@@ -4,7 +4,7 @@
     "name": "Team Epic",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Action",
         "Comedy"
@@ -12,78 +12,120 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3084237/",
-            "name": "Captain Epic"
+            "name": "Captain Epic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0448193/",
-            "name": "M. John Kennedy"
+            "name": "M. John Kennedy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2608636/",
-            "name": "Paul Kingston"
-        }
-    ],
-    "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODU2MWJlNWItNTcxOC00MGQzLWI3ZjYtNTA0OWZiNTM4YzdiXkEyXkFqcGc@._V1_.jpg",
-    "details": {
-        "Language": [
-            "English"
-        ],
-        "Release date": [
-            "November 15, 2008 (Canada)"
-        ],
-        "Also known as": [
-            "Team Epic: The Epic Chill"
-        ],
-        "Official site": [
-            "Official site - http://www.teamepic.tv/"
-        ],
-        "Country of origin": [
-            "Canada"
-        ],
-        "Filming locations": [
-            "Toronto, Ontario, Canada"
-        ],
-        "Production company": [
-            "Poetic Licence Productions (PLP)"
-        ]
-    },
-    "reviews": 1,
-    "creators": [
-        {
-            "url": "https://www.imdb.com/name/nm2791645/",
-            "name": "Montgomery Bjornson"
+            "name": "Paul Kingston",
+            "@type": "Person"
         },
         {
-            "url": "https://www.imdb.com/name/nm0448193/",
-            "name": "M. John Kennedy"
+            "url": "https://www.imdb.com/name/nm3083434/",
+            "name": "Kristin Wallace",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1993983/",
-            "name": "Scott Leaver"
+            "name": "Scott Leaver",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3004249/",
+            "name": "Ivana Kingston",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2378491/",
+            "name": "Peter Higginson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2378491/",
+            "name": "Peter Higginson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3084181/",
+            "name": "Jacqueline Thair",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3084181/",
+            "name": "Jacqueline Thair",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": null,
+    "details": {
+        "Stars": [
+            "Captain Epic",
+            "M. John Kennedy",
+            "Paul Kingston"
+        ],
+        "Genres": [
+            "Action",
+            "Comedy"
+        ],
+        "Writer": [
+            "Montgomery Bjornson",
+            "M. John Kennedy",
+            "Scott Leaver"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Ryan Knight"
+        ],
+        "Release date": [
+            "2008"
+        ]
+    },
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm2791645/",
+            "name": "Montgomery Bjornson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0448193/",
+            "name": "M. John Kennedy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1993983/",
+            "name": "Scott Leaver",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H",
-    "keywords": [
-        "superhero action",
-        "superhero",
-        "hero"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2318529/",
-            "name": "Ryan Knight"
+            "name": "Ryan Knight",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1267195/",
     "metascore": null,
-    "imdb_votes": 30,
+    "imdb_votes": 31,
     "popularity": 0,
-    "description": "After the death of Canada&apos;s greatest superhero, a group of b-class heroes unite to defend their country.",
-    "imdb_rating": "6.9/10 from 30 users",
+    "description": null,
+    "imdb_rating": "6.9/10 from 31 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2008-11-15",
+    "datePublished": "2008",
+    "original_title": "Team Epic",
     "imdb_rating_average": 6.9,
-    "update_at": "2025-05-05T08:52:14"
+    "update_at": "2026-11-12T20:07:06"
 }

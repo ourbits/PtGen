@@ -4,69 +4,98 @@
     "name": "Game Over",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Drama"
+        "Drama",
+        "Horror"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2982845/",
-            "name": "Katharine Innes"
+            "name": "Katharine Innes",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3560151/",
-            "name": "Zara Kadir"
+            "name": "Zara Kadir",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3568162/",
-            "name": "Richard Keightley"
+            "name": "Richard Keightley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3568338/",
+            "name": "William St. Clair",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3329272/",
+            "name": "Samuel Taylor",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1466504/",
+            "name": "Alicia Grace Turrell",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Katharine Innes",
+            "Zara Kadir",
+            "Richard Keightley"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Horror"
+        ],
+        "Writer": [
+            "Tobias Tobbell"
+        ],
+        "Runtime": [
+            "3 min"
+        ],
+        "Director": [
+            "Tobias Tobbell"
         ],
         "Release date": [
-            "November 7, 2009 (United States)"
-        ],
-        "Country of origin": [
-            "United Kingdom"
+            "2009"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1680312/",
-            "name": "Tobias Tobbell"
+            "name": "Tobias Tobbell",
+            "@type": "Person"
         }
     ],
     "duration": "PT3M",
-    "keywords": [
-        "cyborg",
-        "satire comedy",
-        "satire",
-        "docudrama",
-        "torture"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1680312/",
-            "name": "Tobias Tobbell"
+            "name": "Tobias Tobbell",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1486690/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "The making of the newest low-budget cyborg drama hangs in the balance as rifts grow on set.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2009-11-07",
+    "datePublished": "2009",
+    "original_title": "Game Over",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-28T04:28:05"
+    "update_at": "2026-11-12T20:00:29"
 }

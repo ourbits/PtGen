@@ -3,60 +3,89 @@
     "sid": "tt0325875",
     "name": "Nach dem Spiel",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1997",
+    "@type": "TVMovie",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3185289/",
-            "name": "Arzu Calkilic"
+            "name": "Arzu Calkilic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2904293/",
-            "name": "Safiye Kok"
+            "name": "Safiye Kok",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/3KyM0gsj80xFKMrY9WceAV4ZhDF.jpg",
     "details": {
+        "Stars": [
+            "Arzu Calkilic",
+            "Safiye Kok"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Writer": [
+            "Aysun Bademsoy"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Aysun Bademsoy"
+        ],
         "Language": [
-            "German"
+            "German",
+            "Turkish"
+        ],
+        "Release date": [
+            "1997-11-17"
         ],
         "Country of origin": [
             "Germany"
         ],
         "Production companies": [
-            "Harun Farocki Filmproduktion",
-            "Zweites Deutsches Fernsehen (ZDF)"
+            "Harun Farocki Filmproduktion"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0046007/",
-            "name": "Aysun Bademsoy"
+            "name": "Aysun Bademsoy",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H",
-    "keywords": [
-        "f rated"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0046007/",
-            "name": "Aysun Bademsoy"
+            "name": "Aysun Bademsoy",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0325875/",
     "metascore": null,
     "imdb_votes": 8,
     "popularity": 0,
-    "description": null,
+    "description": "In her documentary, Aysun Bademsoy portrays five young Turkish women from Berlin Kreuzberg who used to be members of the successful Turkish women's soccer team \"BSC-Agrispor\". Until recently, the friends had high hopes for an independent future based on their sporting success. But now the season is coming to an end and the five young women, all in their 20s, will stop playing soccer. They don't know exactly what they want to do with their lives. Apprenticeships are rare, and without money, independence from the strict parental home is impossible. But now they are enjoying the Berlin summer together once again, wandering the streets, chasing boys, going to parties, \"hanging out\".",
     "imdb_rating": "5.8/10 from 8 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1997-11-17",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1997-11-17",
+    "original_title": "Nach dem Spiel",
     "imdb_rating_average": 5.8,
-    "update_at": "2026-01-31T00:00:48"
+    "update_at": "2026-11-12T04:28:07"
 }

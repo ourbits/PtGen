@@ -4,80 +4,140 @@
     "name": "Blauwasserleben",
     "site": "imdb",
     "year": "2015",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0822999/",
-            "name": "Stefanie Stappenbeck"
+            "name": "Stefanie Stappenbeck",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0594151/",
-            "name": "Marcus Mittermeier"
+            "name": "Marcus Mittermeier",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0077873/",
-            "name": "Jean-Yves Berteloot"
+            "name": "Jean-Yves Berteloot",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0178500/",
+            "name": "Fiona Coors",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0710770/",
+            "name": "Martin Rapold",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0742047/",
+            "name": "Michaela Rosen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0725107/",
+            "name": "Bro Richmond",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0695109/",
+            "name": "Peter Prager",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0719617/",
+            "name": "Annett Renneberg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0866372/",
+            "name": "Christoph Tomanek",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2I1MDgzMmQtMjRhNy00NDVhLTgyMjctMjY2YTUxNGUzYzQxXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/AiZ6upV6b6Qav7Fsirks3w2UEJV.jpg",
     "details": {
+        "Stars": [
+            "Stefanie Stappenbeck",
+            "Marcus Mittermeier",
+            "Jean-Yves Berteloot"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Chris Silber",
+            "Stefan C. Schaefer",
+            "Heike Dorsch"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Judith Kennel"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "March 15, 2015 (Germany)"
-        ],
-        "Also known as": [
-            "Blauwasserleben - Eine wahre Geschichte"
+            "2015-03-15"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Filming locations": [
-            "Hawaii, USA"
-        ],
-        "Production company": [
-            "Network Movie Film-und Fernsehproduktion"
+        "Production companies": [
+            "Network Movie"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1557910/",
-            "name": "Chris Silber"
+            "name": "Chris Silber",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1516290/",
-            "name": "Stefan C. Schaefer"
+            "name": "Stefan C. Schaefer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm7160251/",
-            "name": "Heike Dorsch"
+            "name": "Heike Dorsch",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        "f rated"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0448395/",
-            "name": "Judith Kennel"
+            "name": "Judith Kennel",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt4489374/",
     "metascore": null,
-    "imdb_votes": 48,
+    "imdb_votes": 49,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "5.1/10 from 48 users",
-    "release_date": [],
+    "description": "Heike and Stefan have been a couple for many years and have a big goal together: to sail around the world on their own catamaran. One day the time has come, they leave their home in northern Germany behind and set sail. Their happiness seems perfect when they find a beautiful paradise on the island of Nuku Hiva in the South Pacific. Here, their dream of unrestricted freedom in harmony with nature is fulfilled. Their happiness comes to an abrupt end when Stefan fails to return to the boat after an excursion with a local. A never-ending nightmare begins for Heike.",
+    "imdb_rating": "5.1/10 from 49 users",
+    "release_date": [
+        {
+            "date": "2015-03-15",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2015-03-15",
+    "original_title": "Blauwasserleben",
     "imdb_rating_average": 5.1,
-    "update_at": "2025-08-16T21:27:11"
+    "update_at": "2026-11-13T00:56:20"
 }
