@@ -5,71 +5,134 @@
     "site": "imdb",
     "year": "1926",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Drama"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0214942/",
-            "name": "Suzanne Dehelly"
+            "name": "Suzanne Dehelly",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0037625/",
-            "name": "Antonin Artaud"
+            "name": "Antonin Artaud",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0155677/",
-            "name": "Raoul Chennevières"
+            "name": "Raoul Chennevières",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0154778/",
+            "name": "Georges Chebat",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0145189/",
+            "name": "Sylviane de Castillo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1343391/",
+            "name": "Révérend",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0889207/",
+            "name": "Nina Vanna",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0214937/",
+            "name": "Jean Dehelly",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0214943/",
+            "name": "Émile Dehelly",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2775361/",
+            "name": "Madame Sapiani",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzM2NGQ2YmMtNmIwOS00Yjk2LTliMzgtOWJhYmViZGQ3NGUyXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/whhBdo5evZjI2vhkFlcsa2G1Zdj.jpg",
     "details": {
-        "Languages": [
-            "None",
-            "French"
+        "Stars": [
+            "Suzanne Dehelly",
+            "Antonin Artaud",
+            "Raoul Chennevières"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Alphonse de Lamartine",
+            "Edmond Épardaud"
+        ],
+        "Director": [
+            "Marcel Vandal"
+        ],
+        "Language": [
+            "No Language"
         ],
         "Release date": [
-            "July 23, 1926 (France)"
+            "1926-07-23"
         ],
         "Country of origin": [
-            "France"
+            "France",
+            "Italy"
         ],
-        "Production company": [
+        "Production companies": [
             "Les Films Marcel Vandal et Charles Delac"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0482870/",
-            "name": "Alphonse de Lamartine"
+            "name": "Alphonse de Lamartine",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1111439/",
-            "name": "Edmond Épardaud"
+            "name": "Edmond Épardaud",
+            "@type": "Person"
         }
     ],
-    "duration": null,
+    "duration": "PT1H18M",
     "keywords": [
-        "love",
-        "young",
-        "man",
-        "based on novel"
+        "based on novel or book",
+        "silent cinema"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0888606/",
-            "name": "Marcel Vandal"
+            "name": "Marcel Vandal",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0192089/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "During a trip to Naples, a young French man falls in love with a fisherman&apos;s granddaughter, Graziella. They are separated when he must return to France, and Graziella soon dies.",
+    "description": "During a trip to Naples, a young French man falls in love with a fisherman's granddaughter, Graziella. They are separated when he must return to France, and Graziella soon dies.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1926-07-23",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1926-07-23",
+    "original_title": "Graziella",
     "imdb_rating_average": 0,
-    "update_at": "2025-04-03T11:21:24"
+    "update_at": "2026-11-13T20:49:18"
 }

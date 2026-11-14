@@ -1,10 +1,23 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "The Hunchback Of Notre Dame",
+            "country": "United States of America"
+        },
+        {
+            "title": "Zvoník od Matky boží",
+            "country": "Czech Republic"
+        },
+        {
+            "title": "Notrdam Qozbeli",
+            "country": "Azerbaijan"
+        }
+    ],
     "sid": "tt0119329",
-    "name": "The Hunchback",
+    "name": "The Hunchback of Notre Dame",
     "site": "imdb",
     "year": "1997",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Romance"
@@ -12,81 +25,143 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001597/",
-            "name": "Mandy Patinkin"
+            "name": "Mandy Patinkin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001321/",
-            "name": "Richard Harris"
+            "name": "Richard Harris",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000161/",
-            "name": "Salma Hayek"
+            "name": "Salma Hayek",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0041029/",
+            "name": "Edward Atterton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0090027/",
+            "name": "Benedick Blythe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0856050/",
+            "name": "Nigel Terry",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0197715/",
+            "name": "Jim Dale",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0062827/",
+            "name": "Trevor Baxter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0229943/",
+            "name": "Vernon Dobtcheff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0333380/",
+            "name": "Nickolas Grace",
+            "@type": "Person"
         }
     ],
-    "critic": 4,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTkwNjJmNzctYWU2Mi00YTFlLTgzNGMtYTdiMDI1MzBmZjU3XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/xch2lgon3mGYT9jT0SMFpBPdSPv.jpg",
     "details": {
+        "Stars": [
+            "Mandy Patinkin",
+            "Richard Harris",
+            "Salma Hayek"
+        ],
+        "Genres": [
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Victor Hugo",
+            "John Fasano"
+        ],
+        "Runtime": [
+            "98 min"
+        ],
+        "Director": [
+            "Peter Medak"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 16, 1997 (United States)"
+            "1997-03-16"
         ],
-        "Also known as": [
-            "The Hunchback"
-        ],
-        "Official site": [
-            "arabuloku.com - https://www.arabuloku.com/notre-damein-kamburu-ozet-ve-karakterleri.html"
-        ],
-        "Filming locations": [
-            "Budapest, Hungary"
-        ],
-        "Countries of origin": [
-            "United States",
+        "Country of origin": [
+            "Czech Republic",
+            "France",
             "Hungary",
-            "Canada",
-            "Czech Republic"
+            "United States of America"
         ],
         "Production companies": [
+            "Turner Pictures",
             "Adelson-Baumgarten Productions",
-            "Alliance Communications Corporation",
-            "Stillking Films"
+            "Alliance Films"
         ]
     },
-    "reviews": 17,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0401076/",
-            "name": "Victor Hugo"
+            "name": "Victor Hugo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0004591/",
-            "name": "John Fasano"
+            "name": "John Fasano",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H38M",
     "keywords": [
-        "psychotronic film",
-        "king louis xi",
-        "europe",
-        "french",
-        "minister"
+        "hunchback"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0575389/",
-            "name": "Peter Medak"
+            "name": "Peter Medak",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0119329/",
     "metascore": null,
-    "imdb_votes": 1957,
+    "imdb_votes": 2056,
     "popularity": 0,
-    "description": "Based on the novel, a young gypsy becomes a Minister&apos;s obsession in 1483. Only the bell ringer and her husband and the court of miracles can save her.",
-    "imdb_rating": "6.1/10 from 1957 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "Based on Victor Hugo's famed novel, the story of Quasimodo, the deformed bell ringer of Notre Dame, and his unrequited love for the gypsy girl, Esmeralda.",
+    "imdb_rating": "6.1/10 from 2056 users",
+    "release_date": [
+        {
+            "date": "1997-09-01",
+            "country": "Czech Republic"
+        },
+        {
+            "date": "2002-06-07",
+            "country": "France"
+        },
+        {
+            "date": "1997-03-16",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1997-03-16",
+    "original_title": "The Hunchback",
     "imdb_rating_average": 6.1,
-    "update_at": "2026-03-29T03:21:28"
+    "update_at": "2026-11-13T19:21:15"
 }

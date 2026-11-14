@@ -1,70 +1,97 @@
 {
     "aka": [],
     "sid": "tt0199449",
-    "name": "Damon",
+    "name": "Damon: True Friendship",
     "site": "imdb",
     "year": "1972",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0956384/",
-            "name": "Stevo Zigon"
+            "name": "Stevo Zigon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0880607/",
-            "name": "Renata Ulmanski"
+            "name": "Renata Ulmanski",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0590504/",
-            "name": "Dragoljub Milosavljevic-Gula"
+            "name": "Dragoljub Milosavljevic-Gula",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0705817/",
+            "name": "Miodrag Radovanovic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0754807/",
+            "name": "Jelisaveta 'Seka' Sablić",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0799509/",
+            "name": "Nikola Simić",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Serbo-Croatian"
+        "Stars": [
+            "Stevo Zigon",
+            "Renata Ulmanski",
+            "Dragoljub Milosavljevic-Gula"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Jovan Konjovic",
+            "Gotthold Ephraim Lessing",
+            "Dositej Obradovic"
+        ],
+        "Runtime": [
+            "62 min"
+        ],
+        "Director": [
+            "Jovan Konjovic"
         ],
         "Release date": [
-            "March 16, 1972 (Yugoslavia)"
-        ],
-        "Also known as": [
-            "Damon: True Friendship"
-        ],
-        "Country of origin": [
-            "Yugoslavia"
-        ],
-        "Production company": [
-            "Radiotelevizija Beograd"
+            "1972"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0465177/",
-            "name": "Jovan Konjovic"
+            "name": "Jovan Konjovic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0504366/",
-            "name": "Gotthold Ephraim Lessing"
+            "name": "Gotthold Ephraim Lessing",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0643472/",
-            "name": "Dositej Obradovic"
+            "name": "Dositej Obradovic",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H2M",
-    "keywords": [
-        "based on novel",
-        "character name in title"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0465177/",
-            "name": "Jovan Konjovic"
+            "name": "Jovan Konjovic",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0199449/",
@@ -75,7 +102,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1972-03-16",
+    "datePublished": "1972",
+    "original_title": "Damon",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-19T12:57:35"
+    "update_at": "2026-11-13T12:07:06"
 }

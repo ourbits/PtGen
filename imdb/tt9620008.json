@@ -4,51 +4,115 @@
     "name": "Colours",
     "site": "imdb",
     "year": "2019",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm7183751/",
-            "name": "Fleur Delahunty"
+            "name": "Fleur Delahunty",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4602010/",
-            "name": "Aadila Dosani"
+            "name": "Aadila Dosani",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm10776636/",
-            "name": "Mila Morgan"
+            "name": "Mila Morgan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1536605/",
+            "name": "Jesse Moss",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6178115/",
+            "name": "Kiefer O'Reilly",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7737419/",
+            "name": "Brooklynn Prince",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0929794/",
+            "name": "Christine Willes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm9482101/",
+            "name": "Kaylah Zander",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWNhODdmOGYtMWM3NS00ZGNkLWJlYTItMGI5MDQwNjNiOGI3XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/oTlAuEuWcZ4yHH7pncvieIQNWxu.jpg",
     "details": {
+        "Stars": [
+            "Fleur Delahunty",
+            "Aadila Dosani",
+            "Mila Morgan"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Brooklynn Prince"
+        ],
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "Brooklynn Prince"
+        ],
+        "Language": [
+            "English"
+        ],
         "Release date": [
-            "October 8, 2019 (United States)"
+            "2019-06-20"
+        ],
+        "Country of origin": [
+            "United States of America"
         ]
     },
     "reviews": 0,
-    "duration": "PT12M",
-    "keywords": [
-        ""
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm7737419/",
+            "name": "Brooklynn Prince",
+            "@type": "Person"
+        }
     ],
+    "duration": "PT12M",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm7737419/",
-            "name": "Brooklynn Prince"
+            "name": "Brooklynn Prince",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt9620008/",
     "metascore": null,
-    "imdb_votes": 58,
+    "imdb_votes": 62,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.7/10 from 58 users",
-    "release_date": [],
+    "description": "Young Natalie tries to help her mysteriously ill best friend.",
+    "imdb_rating": "7.8/10 from 62 users",
+    "release_date": [
+        {
+            "date": "2019-06-20",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2019-10-08",
-    "imdb_rating_average": 7.7,
-    "update_at": "2025-07-05T12:49:44"
+    "datePublished": "2019-06-20",
+    "original_title": "Colours",
+    "imdb_rating_average": 7.8,
+    "update_at": "2026-11-13T05:35:25"
 }

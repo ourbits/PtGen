@@ -4,7 +4,7 @@
     "name": "Spook to Me",
     "site": "imdb",
     "year": "1945",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Comedy",
         "Short"
@@ -12,70 +12,124 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0167395/",
-            "name": "Andy Clyde"
+            "name": "Andy Clyde",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0055296/",
-            "name": "Violet Barlowe"
+            "name": "Violet Barlowe",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0225414/",
-            "name": "Dudley Dickerson"
+            "name": "Dudley Dickerson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0092185/",
+            "name": "Lulu Mae Bohrman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0098553/",
+            "name": "Dick Botiller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0353790/",
+            "name": "Frank Hagney",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0741731/",
+            "name": "Wally Rose",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0871324/",
+            "name": "Victor Travis",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzllYzQ4YTYtYjE5My00MDc4LWFiNjMtMjM5MzBlZTJjZWEwXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/3xPyiwwBXrOMk9i1aSdb4OiQTWp.jpg",
     "details": {
+        "Stars": [
+            "Andy Clyde",
+            "Violet Barlowe",
+            "Dudley Dickerson"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Edward Bernds",
+            "Harry Edwards",
+            "Russell Malmgren"
+        ],
+        "Runtime": [
+            "17 min"
+        ],
+        "Director": [
+            "Harry Edwards"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "December 27, 1945 (United States)"
-        ],
-        "Also known as": [
-            "Be Prepared"
+            "1945-12-27"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Columbia Pictures"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0076618/",
-            "name": "Edward Bernds"
+            "name": "Edward Bernds",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0250034/",
-            "name": "Harry Edwards"
+            "name": "Harry Edwards",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0540260/",
-            "name": "Russell Malmgren"
+            "name": "Russell Malmgren",
+            "@type": "Person"
         }
     ],
     "duration": "PT17M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0250034/",
-            "name": "Harry Edwards"
+            "name": "Harry Edwards",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0038111/",
     "metascore": null,
-    "imdb_votes": 13,
+    "imdb_votes": 15,
     "popularity": 0,
-    "description": "Andy, the leader of the &quot;Bloodhounds&quot; boys patrol, investigates a house that is supposedly haunted.",
-    "imdb_rating": "6.5/10 from 13 users",
-    "release_date": [],
-    "contentRating": "Approved",
+    "description": "Andy, the leader of the \"Bloodhounds\" boys patrol, investigates a house that is supposedly haunted.",
+    "imdb_rating": "7.0/10 from 15 users",
+    "release_date": [
+        {
+            "date": "1945-12-27",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1945-12-27",
-    "imdb_rating_average": 6.5,
-    "update_at": "2025-08-30T20:13:21"
+    "original_title": "Spook to Me",
+    "imdb_rating_average": 7.0,
+    "update_at": "2026-11-13T07:35:06"
 }

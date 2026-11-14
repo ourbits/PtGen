@@ -1,73 +1,95 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "The Cat's Nightmare",
+            "country": "United States of America"
+        },
+        {
+            "title": "The Cat's Out",
+            "country": "United States of America"
+        },
+        {
+            "title": "Le chat est sorti",
+            "country": "France"
+        }
+    ],
     "sid": "tt0021720",
-    "name": "The Cat&apos;s Out",
+    "name": "The Cat's Out",
     "site": "imdb",
     "year": "1931",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Animation",
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Family"
     ],
     "actors": [
         {
-            "url": "https://www.imdb.com/name/nm0166681/",
-            "name": "Ruth Clifford"
-        },
-        {
             "url": "https://www.imdb.com/name/nm0201428/",
-            "name": "Marion Darlington"
-        },
-        {
-            "url": "https://www.imdb.com/name/nm0000370/",
-            "name": "Walt Disney"
+            "name": "Marion Darlington",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTI3ZDVkOTgtNDA2MS00ZTlmLWE0N2QtMmJmNTUzZmNhZDFlXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/pOD0zNSerdP0X8Y2gIrly7xB4AB.jpg",
     "details": {
+        "Stars": [
+            "Marion Darlington"
+        ],
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "Runtime": [
+            "7 min"
+        ],
+        "Director": [
+            "Wilfred Jackson"
+        ],
         "Language": [
-            "English"
+            "No Language"
         ],
         "Release date": [
-            "July 28, 1931 (United States)"
-        ],
-        "Also known as": [
-            "The Cat's Nightmare"
+            "1931-07-28"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
+            "Columbia Pictures",
             "Walt Disney Productions"
         ]
     },
-    "reviews": 10,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT7M",
     "keywords": [
-        "1930s",
-        "cat",
-        "weathervane",
-        "bird",
-        "soul leaves body"
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0414144/",
-            "name": "Wilfred Jackson"
+            "name": "Wilfred Jackson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0021720/",
     "metascore": null,
-    "imdb_votes": 347,
+    "imdb_votes": 380,
     "popularity": 0,
-    "description": "The family cat, out for the night, stalks and catches a bird singing atop the weathervane, but it flies off, pulling the cat and weathervane down and knocking the cat out. The cat has a vision of giant birds, lacking the tailfeath...",
-    "imdb_rating": "6.3/10 from 347 users",
-    "release_date": [],
-    "contentRating": null,
+    "description": "A cat, being sent out for the night, begins to make trouble for some birds. He later has a nightmare that the birds grow and begin to extract their revenge.",
+    "imdb_rating": "6.4/10 from 380 users",
+    "release_date": [
+        {
+            "date": "1931-07-28",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "1931-07-28",
-    "imdb_rating_average": 6.3,
-    "update_at": "2025-04-11T04:28:05"
+    "original_title": "The Cat's Out",
+    "imdb_rating_average": 6.4,
+    "update_at": "2026-11-13T20:35:06"
 }

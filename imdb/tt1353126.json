@@ -4,75 +4,138 @@
     "name": "De Punt",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2905089/",
-            "name": "Gerson Oratmangoen"
+            "name": "Gerson Oratmangoen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0777001/",
-            "name": "Martin Schwab"
+            "name": "Martin Schwab",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1173191/",
-            "name": "Terence Schreurs"
+            "name": "Terence Schreurs",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0208985/",
+            "name": "Anis de Jong",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2013499/",
+            "name": "Sophie van Oers",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0826211/",
+            "name": "Marie-Louise Stheins",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3250633/",
+            "name": "Joost Bolt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0459375/",
+            "name": "Bart Klever",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0401572/",
+            "name": "Kees Hulst",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2761897/",
+            "name": "Joshua Timisela",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODQxYTQzYTYtYzJhNi00NDhmLWFhOTctNjY2ZmZmOTc3NmM3XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/bmBhp2iNY5XkQ2ZwUYOn040eXqa.jpg",
     "details": {
-        "Languages": [
-            "Dutch",
-            "Malay"
+        "Stars": [
+            "Gerson Oratmangoen",
+            "Martin Schwab",
+            "Terence Schreurs"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Carel Donck",
+            "Sylvia Pessireron"
+        ],
+        "Runtime": [
+            "81 min"
+        ],
+        "Director": [
+            "Hanro Smitsman"
+        ],
+        "Language": [
+            "Dutch"
         ],
         "Release date": [
-            "May 3, 2009 (Netherlands)"
+            "2009-05-03"
         ],
         "Country of origin": [
             "Netherlands"
         ],
-        "Filming locations": [
-            "Netherlands"
-        ],
         "Production companies": [
-            "Guapo Productions",
-            "Staccato Films"
+            "Staccato Films",
+            "EO"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0232353/",
-            "name": "Carel Donck"
+            "name": "Carel Donck",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3267115/",
-            "name": "Sylvia Pessireron"
+            "name": "Sylvia Pessireron",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H21M",
     "keywords": [
-        ""
+        "hijacking",
+        "train"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1335774/",
-            "name": "Hanro Smitsman"
+            "name": "Hanro Smitsman",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1353126/",
     "metascore": null,
-    "imdb_votes": 322,
+    "imdb_votes": 324,
     "popularity": 0,
-    "description": "More than 30 years after the dramatic ending of a train hijack five people involved meet each other on a television show. Starting point is the death of the only female hijacker: Noor. One by one the five enter the studio. Each wi...",
-    "imdb_rating": "6.8/10 from 322 users",
-    "release_date": [],
+    "description": "More than 30 years after the dramatic ending of a train hijack five people involved meet each other on a television show. Starting point is the death of the only female hijacker: Noor. One by one the five enter the studio. Each with their own expectations or hidden agenda.",
+    "imdb_rating": "6.8/10 from 324 users",
+    "release_date": [
+        {
+            "date": "2009-05-03",
+            "country": "Netherlands"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2009-05-03",
+    "original_title": "De Punt",
     "imdb_rating_average": 6.8,
-    "update_at": "2025-10-02T04:00:13"
+    "update_at": "2026-11-13T20:56:25"
 }

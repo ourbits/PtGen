@@ -1,78 +1,139 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "El sabueso tonto",
+            "country": "Spain"
+        },
+        {
+            "title": "Entourloupes",
+            "country": "France"
+        },
+        {
+            "title": "Охота на тупицу",
+            "country": "Russia"
+        },
+        {
+            "title": "Преследуемый",
+            "country": "Russia"
+        },
+        {
+            "title": "德鲁比",
+            "country": "China"
+        }
+    ],
     "sid": "tt0035832",
     "name": "Dumb-Hounded",
     "site": "imdb",
     "year": "1943",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Animation",
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Family"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0859892/",
-            "name": "Bill Thompson"
+            "name": "Bill Thompson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0334035/",
-            "name": "Frank Graham"
+            "name": "Frank Graham",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0334035/",
+            "name": "Frank Graham",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0334035/",
+            "name": "Frank Graham",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0334035/",
+            "name": "Frank Graham",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjMxMzFlMDYtMDEwOC00YWFiLThhY2UtMDQxZmUwZjc4NjJlXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/w0dZSdNTyxzgwK2w5wpNAbPfgxU.jpg",
     "details": {
+        "Stars": [
+            "Bill Thompson",
+            "Frank Graham",
+            "Frank Graham"
+        ],
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "Writer": [
+            "Rich Hogan"
+        ],
+        "Runtime": [
+            "7 min"
+        ],
+        "Director": [
+            "Tex Avery"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 20, 1943 (United States)"
-        ],
-        "Also known as": [
-            "Droopy på förbrytarjakt"
+            "1943-03-20"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Sing Sing Penitentiary - 354 Hunter Street, Ossining, New York, USA"
+            "United States of America"
         ],
         "Production companies": [
-            "Metro-Goldwyn-Mayer (MGM)",
-            "Metro-Goldwyn-Mayer Cartoon Studios"
+            "Metro-Goldwyn-Mayer",
+            "MGM Cartoon Studio"
         ]
     },
-    "reviews": 14,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0389607/",
-            "name": "Rich Hogan"
+            "name": "Rich Hogan",
+            "@type": "Person"
         }
     ],
     "duration": "PT7M",
     "keywords": [
-        "undertaker",
-        "igloo",
-        "reverse footage",
-        "droopy character",
-        "basset hound"
+        "pursuit",
+        "cartoon dog",
+        "cartoon wolf",
+        "escapee",
+        "prison escapee",
+        "anthropomorphic"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0000813/",
-            "name": "Tex Avery"
+            "name": "Tex Avery",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0035832/",
     "metascore": null,
-    "imdb_votes": 1278,
+    "imdb_votes": 1367,
     "popularity": 0,
-    "description": "The Wolf escapes from prison but is hounded by the police dog named Droopy. Wherever The Wolf goes, the little fellow is there, too.",
-    "imdb_rating": "7.5/10 from 1278 users",
-    "release_date": [],
-    "contentRating": "Approved",
+    "description": "The wolf escapes from prison but can't get away from police dog Droopy no matter how hard he tries. This is the first cartoon starring Droopy.",
+    "imdb_rating": "7.5/10 from 1367 users",
+    "release_date": [
+        {
+            "date": "1943-03-20",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1943-03-20",
+    "original_title": "Dumb-Hounded",
     "imdb_rating_average": 7.5,
-    "update_at": "2025-04-21T13:35:07"
+    "update_at": "2026-11-13T16:49:46"
 }

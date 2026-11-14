@@ -4,7 +4,7 @@
     "name": "Flags",
     "site": "imdb",
     "year": "2024",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Animation",
         "Short"
@@ -12,48 +12,67 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm5605923/",
-            "name": "Jenni Bowden"
+            "name": "Jenni Bowden",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm15736792/",
-            "name": "Frank Harvey"
+            "name": "Frank Harvey",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDBjOTEzZjYtZWYyNC00NGQ3LTljMDktMmYzMDI4MjlhYTI5XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/mHB4DliHy2oztBoAQBbHCfP853n.jpg",
     "details": {
+        "Stars": [
+            "Jenni Bowden",
+            "Frank Harvey"
+        ],
+        "Genres": [
+            "Animation",
+            "Short"
+        ],
+        "Writer": [
+            "Richard Anthony Dunford"
+        ],
+        "Runtime": [
+            "4 min"
+        ],
+        "Director": [
+            "Richard Anthony Dunford"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "February 16, 2024 (India)"
-        ],
-        "Official site": [
-            "Production Company Website - https://www.hypericumfilms.com/flags"
+            "2024-02-16"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
         "Production companies": [
-            "Greedy Owl Artistic Endeavours",
-            "Hypericum Films"
+            "Hypericum Films",
+            "Greedy Owl Artistic Endeavours"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm4705281/",
-            "name": "Richard Anthony Dunford"
+            "name": "Richard Anthony Dunford",
+            "@type": "Person"
         }
     ],
     "duration": "PT4M",
     "keywords": [
-        ""
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm4705281/",
-            "name": "Richard Anthony Dunford"
+            "name": "Richard Anthony Dunford",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt30970895/",
@@ -62,9 +81,19 @@
     "popularity": 0,
     "description": "Two flags are about to be hoisted for the very first time. One flag is super excited, the other is scared of heights.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
-    "contentRating": null,
+    "release_date": [
+        {
+            "date": "2024-02-16",
+            "country": "India"
+        },
+        {
+            "date": "2025-10-14",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "G",
     "datePublished": "2024-02-16",
+    "original_title": "Flags",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-13T02:13:19"
+    "update_at": "2026-11-13T11:28:25"
 }

@@ -4,61 +4,87 @@
     "name": "Finding Uranus",
     "site": "imdb",
     "year": "2019",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Animation",
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Fantasy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm5809700/",
-            "name": "Ivan Li"
+            "name": "Ivan Li",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGVkYTRmNjUtMThjNy00NGJlLWJmMmItMjE3OWU3NmQ5Y2QzXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/eK6rJyDT9qKTZKm4I7Qw0Vt83Q9.jpg",
     "details": {
+        "Stars": [
+            "Ivan Li"
+        ],
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Fantasy"
+        ],
+        "Writer": [
+            "Ivan Li"
+        ],
+        "Runtime": [
+            "7 min"
+        ],
+        "Director": [
+            "Ivan Li"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "September 27, 2019 (Canada)"
+            "2019-09-27"
         ],
-        "Also known as": [
-            "В поисках урана"
-        ],
-        "Countries of origin": [
-            "Canada",
-            "Hong Kong"
+        "Country of origin": [
+            "Hong Kong",
+            "Canada"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm5809700/",
-            "name": "Ivan Li"
+            "name": "Ivan Li",
+            "@type": "Person"
         }
     ],
     "duration": "PT7M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm5809700/",
-            "name": "Ivan Li"
+            "name": "Ivan Li",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt10171414/",
     "metascore": null,
-    "imdb_votes": 22,
+    "imdb_votes": 26,
     "popularity": 0,
-    "description": "A Coming of Age Sci-Fi film about Lost and Found",
-    "imdb_rating": "5.2/10 from 22 users",
-    "release_date": [],
+    "description": "A young \"incel\" man embarks on a futuristic jerk-off session.",
+    "imdb_rating": "5.4/10 from 26 users",
+    "release_date": [
+        {
+            "date": "2019-09-27",
+            "country": "Canada"
+        },
+        {
+            "date": "2026-08-27",
+            "country": "Czech Republic"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2019-09-27",
-    "imdb_rating_average": 5.2,
-    "update_at": "2025-05-07T07:07:17"
+    "original_title": "Finding Uranus",
+    "imdb_rating_average": 5.4,
+    "update_at": "2026-11-14T00:07:07"
 }

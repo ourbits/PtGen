@@ -3,7 +3,7 @@
     "sid": "tt22777586",
     "name": "Gumbo Coalition",
     "site": "imdb",
-    "year": "2023",
+    "year": "2022",
     "@type": "Movie",
     "genre": [
         "Documentary"
@@ -11,61 +11,76 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1044041/",
-            "name": "Marc H. Morial"
+            "name": "Marc H. Morial",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2798560/",
-            "name": "Janet Murguia"
+            "name": "Janet Murguia",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGMwZmVmYjYtNjIyOC00YzczLTk2ODgtZGFkOTM0Y2RlZjdjXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/6leJpckyHzwEXHW0Vn2PvYHFJo9.jpg",
     "details": {
+        "Stars": [
+            "Marc H. Morial",
+            "Janet Murguia"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Runtime": [
+            "108 min"
+        ],
+        "Director": [
+            "Barbara Kopple"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 6, 2023 (United States)"
-        ],
-        "Also known as": [
-            "Η συμμαχία της Νέας Ορλεάνης"
-        ],
-        "Official site": [
-            "Gumbo - https://cabincreekfilms.com/donate/"
+            "2022-11-12"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Saint Louis, Missouri, USA"
+            "United States of America"
         ],
         "Production companies": [
-            "Cabin Creek Films",
             "SellersEaston Media",
-            "Unbelievable Entertainment"
+            "Cabin Creek Films"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": "How two civil rights leaders united to rescue the American dream",
     "creators": [],
     "duration": "PT1H48M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0465932/",
-            "name": "Barbara Kopple"
+            "name": "Barbara Kopple",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt22777586/",
     "metascore": null,
-    "imdb_votes": 91,
+    "imdb_votes": 94,
     "popularity": 0,
-    "description": "National social justice leaders Marc Morial and Janet Murguía join forces to fight structural racism amid a troubling resurgence of white supremacy in the Trump era.",
-    "imdb_rating": "7/10 from 91 users",
-    "release_date": [],
-    "contentRating": null,
-    "datePublished": "2023-11-06",
-    "imdb_rating_average": 7,
-    "update_at": "2025-08-28T08:52:20"
+    "description": "Two Black and Latinx civil rights champions join forces to fight structural racism amid a troubling resurgence of white supremacy.",
+    "imdb_rating": "7.0/10 from 94 users",
+    "release_date": [
+        {
+            "date": "2023-11-06",
+            "country": "Puerto Rico"
+        },
+        {
+            "date": "2022-11-12",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "R",
+    "datePublished": "2022-11-12",
+    "original_title": "Gumbo Coalition",
+    "imdb_rating_average": 7.0,
+    "update_at": "2026-11-13T21:00:15"
 }

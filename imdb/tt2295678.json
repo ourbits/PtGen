@@ -1,7 +1,7 @@
 {
     "aka": [],
     "sid": "tt2295678",
-    "name": "Las lágrimas",
+    "name": "The Tears",
     "site": "imdb",
     "year": "2012",
     "@type": "Movie",
@@ -11,62 +11,90 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0537642/",
-            "name": "Claudette Maillé"
-        },
-        {
-            "url": "https://www.imdb.com/name/nm5035880/",
-            "name": "Gabriel Santoyo"
+            "name": "Claudette Maillé",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3652083/",
-            "name": "Fernando Álvarez Rebeil"
+            "name": "Fernando Rebeil",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5035880/",
+            "name": "Gabriel Santoyo",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWFlMmQzMzQtMTA4Mi00NTZkLThmNTctMGI4ZDFlNjEwMjNkXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/5PRTSJh466CVxNrujXXcdgxZmsw.jpg",
     "details": {
+        "Stars": [
+            "Claudette Maillé",
+            "Fernando Rebeil",
+            "Gabriel Santoyo"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Pablo Delgado"
+        ],
+        "Runtime": [
+            "64 min"
+        ],
+        "Director": [
+            "Pablo Delgado"
+        ],
         "Language": [
             "Spanish"
         ],
         "Release date": [
-            "October 26, 2012 (Mexico)"
-        ],
-        "Also known as": [
-            "Las lágrimas"
+            "2012-11-15"
         ],
         "Country of origin": [
             "Mexico"
         ],
-        "Production company": [
+        "Production companies": [
             "Centro de Capacitación Cinematográfica (CCC)"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3760008/",
-            "name": "Pablo Delgado"
+            "name": "Pablo Delgado",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H4M",
-    "keywords": [
-        "escape"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3760008/",
-            "name": "Pablo Delgado"
+            "name": "Pablo Delgado",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2295678/",
     "metascore": null,
-    "imdb_votes": 64,
+    "imdb_votes": 66,
     "popularity": 0,
-    "description": "Fernando and Gabriel are two brothers living in a broken home. The anger and sadness that fill the house force them to escape for a weekend into the woods. Gabriel will witness his older brother&apos;s self-destruction.",
-    "imdb_rating": "7/10 from 64 users",
-    "release_date": [],
+    "description": "Fernando and Gabriel are two brothers living in a broken home. The anger and sadness that fill the house forces them to escape for a weekend into the woods. Gabriel will witness his eldest brother's self-destruction.",
+    "imdb_rating": "7.0/10 from 66 users",
+    "release_date": [
+        {
+            "date": "2012-11-15",
+            "country": "Mexico"
+        },
+        {
+            "date": "2013-01-23",
+            "country": "Netherlands"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2012-10-26",
-    "imdb_rating_average": 7,
-    "update_at": "2025-08-10T06:21:06"
+    "datePublished": "2012-11-15",
+    "original_title": "Las lágrimas",
+    "imdb_rating_average": 7.0,
+    "update_at": "2026-11-13T10:56:39"
 }

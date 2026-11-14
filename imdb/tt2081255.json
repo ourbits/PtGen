@@ -1,10 +1,19 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "백설공주: 또 다른 이야기",
+            "country": "South Korea"
+        },
+        {
+            "title": "Blanche Neige",
+            "country": "France"
+        }
+    ],
     "sid": "tt2081255",
-    "name": "Grimm&apos;s Snow White",
+    "name": "Grimm's Snow White",
     "site": "imdb",
     "year": "2012",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Adventure",
         "Fantasy"
@@ -12,78 +21,156 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1146916/",
-            "name": "Eliza Bennett"
+            "name": "Eliza Bennett",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001506/",
-            "name": "Jane March"
+            "name": "Jane March",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1471089/",
-            "name": "Jamie Thomas King"
+            "name": "Jamie Thomas King",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0417756/",
+            "name": "Otto Jankovich",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1372831/",
+            "name": "Ben Maddox",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4098112/",
+            "name": "Sebastian Wimmer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4721920/",
+            "name": "Alan Burgon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1100345/",
+            "name": "Frauke Steiner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4824513/",
+            "name": "Sabine Kranzelbinder",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0518236/",
+            "name": "Eric Lomas",
+            "@type": "Person"
         }
     ],
-    "critic": 16,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTM2ODY3NzI2Ml5BMl5BanBnXkFtZTcwODA5MTYzNw@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/6QTA9ekUmBqRqRsZV8QWMaB89Zj.jpg",
     "details": {
+        "Stars": [
+            "Eliza Bennett",
+            "Jane March",
+            "Jamie Thomas King"
+        ],
+        "Genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "Writer": [
+            "Jacob Grimm",
+            "Wilhelm Grimm",
+            "Naomi L. Selfman"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Rachel Lee Goldenberg"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 13, 2012 (United States)"
-        ],
-        "Also known as": [
-            "Thần Thoại Về Bạch Tuyết"
+            "2012-03-13"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Schloss Rosenburg, Rosenburg, Austria"
+            "United States of America"
         ],
         "Production companies": [
-            "The Asylum",
-            "The Institution"
+            "The Asylum"
         ]
     },
-    "reviews": 26,
+    "reviews": 0,
+    "tagline": "Mirror mirror on the wall tis the most terrifying of them all!",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0342278/",
-            "name": "Jacob Grimm"
+            "name": "Jacob Grimm",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0342303/",
-            "name": "Wilhelm Grimm"
+            "name": "Wilhelm Grimm",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0783119/",
-            "name": "Naomi L. Selfman"
+            "name": "Naomi L. Selfman",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
     "keywords": [
-        "mockbuster",
-        "fairy tale fantasy",
-        "snow white character",
+        "elves",
         "forest",
-        "sword fight"
+        "sword fight",
+        "dragon",
+        "woman director"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2079484/",
-            "name": "Rachel Lee Goldenberg"
+            "name": "Rachel Lee Goldenberg",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2081255/",
     "metascore": null,
-    "imdb_votes": 1215,
+    "imdb_votes": 1279,
     "popularity": 0,
-    "description": "When the King is killed by ferocious reptile beasts, his Queen takes control of the kingdom. She tries to kill her beautiful stepdaughter Snow, but she escapes into the enchanted forest.",
-    "imdb_rating": "3.5/10 from 1215 users",
-    "release_date": [],
+    "description": "When the King is killed by ferocious reptile beasts, his Queen takes control of the kingdom. She tries to kill her beautiful stepdaughter SNOW, but she escapes into the enchanted forest...",
+    "imdb_rating": "3.5/10 from 1279 users",
+    "release_date": [
+        {
+            "date": "2012-03-13",
+            "country": "Belgium"
+        },
+        {
+            "date": "2012-07-26",
+            "country": "Germany"
+        },
+        {
+            "date": "2012-07-26",
+            "country": "France"
+        },
+        {
+            "date": "2013-10-17",
+            "country": "South Korea"
+        },
+        {
+            "date": "2012-03-13",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": "PG-13",
     "datePublished": "2012-03-13",
+    "original_title": "Grimm's Snow White",
     "imdb_rating_average": 3.5,
-    "update_at": "2025-03-06T04:55:41"
+    "update_at": "2026-11-13T14:07:34"
 }

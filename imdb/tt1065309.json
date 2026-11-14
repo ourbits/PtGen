@@ -4,7 +4,7 @@
     "name": "Oliver Twist",
     "site": "imdb",
     "year": "2007",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Drama",
         "History"
@@ -12,64 +12,136 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2224305/",
-            "name": "William Miller"
+            "name": "William Miller",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0362766/",
-            "name": "Tom Hardy"
+            "name": "Tom Hardy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001758/",
-            "name": "Timothy Spall"
+            "name": "Timothy Spall",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0645683/",
+            "name": "Sophie Okonedo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1410360/",
+            "name": "Morven Christie",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0002081/",
+            "name": "Edward Fox",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0484104/",
+            "name": "Sarah Lancashire",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0722279/",
+            "name": "Julian Rhind-Tutt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0722279/",
+            "name": "Julian Rhind-Tutt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0557281/",
+            "name": "Anna Massey",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTg4MjAxMTg5N15BMl5BanBnXkFtZTcwODIzNjEzMg@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/tKq8lSVNVq0ybaLMcNGK6P6YuZx.jpg",
     "details": {
+        "Stars": [
+            "William Miller",
+            "Tom Hardy",
+            "Timothy Spall"
+        ],
+        "Genres": [
+            "Drama",
+            "History"
+        ],
+        "Writer": [
+            "Charles Dickens",
+            "Sarah Phelps"
+        ],
+        "Runtime": [
+            "35 min"
+        ],
+        "Director": [
+            "Coky Giedroyc"
+        ],
         "Language": [
-            "English"
+            "English",
+            "Hungarian"
         ],
         "Release date": [
-            "December 18, 2007 (United Kingdom)"
+            "2007-12-18"
         ],
-        "Also known as": [
-            "Олівер Твіст"
-        ],
-        "Official sites": [
-            "arabuloku.com - https://www.arabuloku.com/oliver-twist-ozet-ve-karakter-analizi.html",
-            "BBC (United Kingdom) - http://www.bbc.co.uk/drama/oliver/"
-        ],
-        "Filming locations": [
-            "The Historic Dockyard Chatham, Chatham, Kent, England, UK"
-        ],
-        "Countries of origin": [
-            "United Kingdom",
-            "United States"
+        "Country of origin": [
+            "United Kingdom"
         ],
         "Production companies": [
-            "British Broadcasting Corporation (BBC)",
-            "WGBH"
+            "GBH",
+            "BBC",
+            "United Productions",
+            "Diplomat Films"
         ]
     },
-    "reviews": 28,
-    "creators": [],
-    "duration": null,
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0002042/",
+            "name": "Charles Dickens",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1403188/",
+            "name": "Sarah Phelps",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT35M",
     "keywords": [
-        "poverty",
-        "dickensian",
-        "victorian era",
-        "childhood poverty",
-        "1830s"
+        "based on novel or book",
+        "victorian england",
+        "thief",
+        "miniseries",
+        "orphan",
+        "period drama",
+        "woman director",
+        "costume drama"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0317328/",
+            "name": "Coky Giedroyc",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1065309/",
     "metascore": null,
-    "imdb_votes": 3303,
+    "imdb_votes": 3467,
     "popularity": 0,
-    "description": "The adventures of the orphaned Oliver Twist in Victorian London.",
-    "imdb_rating": "7.3/10 from 3303 users",
+    "description": "An orphan endures a harsh life in a workhouse before fleeing to London, where he falls in with a gang of juvenile pickpockets led by the criminal Fagin, and eventually finds a better life, exposing the cruelties of poverty and child labor in Victorian England.",
+    "imdb_rating": "7.3/10 from 3467 users",
     "release_date": [],
-    "contentRating": "TV-PG",
+    "contentRating": "NR",
     "datePublished": "2007-12-18",
+    "original_title": "Oliver Twist",
     "imdb_rating_average": 7.3,
-    "update_at": "2025-08-11T20:42:22"
+    "update_at": "2026-11-13T19:21:23"
 }

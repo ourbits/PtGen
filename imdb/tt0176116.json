@@ -4,68 +4,120 @@
     "name": "Sakknovella",
     "site": "imdb",
     "year": "1959",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0701660/",
-            "name": "György Pálos"
+            "name": "György Pálos",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0638975/",
-            "name": "Teri Náray"
+            "name": "Teri Náray",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0538217/",
-            "name": "Tamás Major"
+            "name": "Tamás Major",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0881235/",
+            "name": "László Ungváry",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0468489/",
+            "name": "Károly Kovács",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0126585/",
+            "name": "György Bárdy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0351379/",
+            "name": "János Gönczöl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0466577/",
+            "name": "Vali Korompai",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0843813/",
+            "name": "István Szatmári",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0436441/",
+            "name": "Gyula Kamarás",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTg2YWJhNzItNjVkYS00ZDVhLWIwMDktMTQ5YzA1YmY0NzcxXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/9YfTUjCJJ6NjRUQJjYpuLRYnHTB.jpg",
     "details": {
-        "Language": [
-            "Hungarian"
+        "Stars": [
+            "György Pálos",
+            "Teri Náray",
+            "Tamás Major"
+        ],
+        "Writer": [
+            "Imre Demeter",
+            "Stefan Zweig"
+        ],
+        "Runtime": [
+            "51 min"
+        ],
+        "Director": [
+            "Zoltán Várkonyi"
         ],
         "Release date": [
-            "January 25, 1959 (Hungary)"
-        ],
-        "Country of origin": [
-            "Hungary"
-        ],
-        "Production company": [
-            "Magyar Televízió"
+            "1959-01-29"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3421253/",
-            "name": "Imre Demeter"
+            "name": "Imre Demeter",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0959003/",
-            "name": "Stefan Zweig"
+            "name": "Stefan Zweig",
+            "@type": "Person"
         }
     ],
     "duration": "PT51M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0904651/",
-            "name": "Zoltán Várkonyi"
+            "name": "Zoltán Várkonyi",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0176116/",
     "metascore": null,
-    "imdb_votes": 17,
+    "imdb_votes": 19,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "7.7/10 from 17 users",
-    "release_date": [],
+    "imdb_rating": "7.6/10 from 19 users",
+    "release_date": [
+        {
+            "date": "1959-01-29",
+            "country": "Hungary"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1959-01-25",
-    "imdb_rating_average": 7.7,
-    "update_at": "2025-09-02T11:00:27"
+    "datePublished": "1959-01-29",
+    "original_title": "Sakknovella",
+    "imdb_rating_average": 7.6,
+    "update_at": "2026-11-13T17:49:07"
 }

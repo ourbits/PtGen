@@ -1,8 +1,22 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "3 on a Couch",
+            "country": "United States of America"
+        },
+        {
+            "title": "Tres en un sofá",
+            "country": "Spain"
+        },
+        {
+            "title": "Jerry, der Patientenschreck",
+            "country": "Germany"
+        }
+    ],
     "sid": "tt0061093",
     "name": "Three on a Couch",
     "site": "imdb",
+    "year": "1966",
     "@type": "Movie",
     "genre": [
         "Comedy",
@@ -11,78 +25,147 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001471/",
-            "name": "Jerry Lewis"
+            "name": "Jerry Lewis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001471/",
+            "name": "Jerry Lewis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001471/",
+            "name": "Jerry Lewis",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001463/",
-            "name": "Janet Leigh"
+            "name": "Janet Leigh",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0595039/",
-            "name": "Mary Ann Mobley"
+            "name": "Mary Ann Mobley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0324871/",
+            "name": "Gila Golan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0663562/",
+            "name": "Leslie Parrish",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0078940/",
+            "name": "James Best",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0293466/",
+            "name": "Kathleen Freeman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0269537/",
+            "name": "Jesslyn Fax",
+            "@type": "Person"
         }
     ],
-    "critic": 15,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2RhY2NkMGItOTIyZi00Yjg3LWIxM2UtOTdlMWM0YTRlMzBjXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/ccmeNZoCVtaI45ztDeGYsvbioWh.jpg",
     "details": {
-        "Languages": [
+        "Stars": [
+            "Jerry Lewis",
+            "Jerry Lewis",
+            "Jerry Lewis"
+        ],
+        "Genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "Writer": [
+            "Bob Ross",
+            "Samuel A. Taylor",
+            "Arne Sultan"
+        ],
+        "Runtime": [
+            "109 min"
+        ],
+        "Director": [
+            "Jerry Lewis"
+        ],
+        "Language": [
             "English",
+            "Italian",
             "French"
         ],
         "Release date": [
-            "March 1966 (United States)"
-        ],
-        "Also known as": [
-            "Tres en un sofá"
+            "1966-03-01"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Ponyland, Beverly Park Kiddieland, West Hollywood, California, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Jerry Lewis Productions"
         ]
     },
-    "reviews": 28,
+    "reviews": 0,
+    "tagline": "When Jerry takes over as 'The King' of the great lovers — Pandemonium reigns!",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0743259/",
-            "name": "Bob Ross"
+            "name": "Bob Ross",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0853138/",
-            "name": "Samuel A. Taylor"
+            "name": "Samuel A. Taylor",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0838441/",
-            "name": "Arne Sultan"
+            "name": "Arne Sultan",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H49M",
     "keywords": [
-        "psychiatrist",
-        "receptionist",
-        "cross dressing",
-        "man hater",
-        "fiance fiancee relationship"
+        "patient",
+        "psychiatrist"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0001471/",
-            "name": "Jerry Lewis"
+            "name": "Jerry Lewis",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0061093/",
     "metascore": null,
-    "imdb_votes": 1265,
+    "imdb_votes": 1342,
     "popularity": 0,
-    "description": "A portrait artist wants to take his psychiatrist fiancee with him to Paris. But she refuses to leave her 3 man-hating female patients. So, he disguises himself as three different men in an effort to cure the patients so she can go...",
-    "imdb_rating": "5.8/10 from 1265 users",
-    "release_date": [],
-    "contentRating": "Approved",
-    "datePublished": null,
+    "description": "An artist has an opportunity to go to Paris and wants to bring his fiancee along. However, she's a psychiatrist who currently has three female patients who don't like men. So, he guises himself as three different men to gauge their trust and hopefully cure them so that his fiancee can go with him.",
+    "imdb_rating": "5.8/10 from 1342 users",
+    "release_date": [
+        {
+            "date": "1966-03-01",
+            "country": "Brazil"
+        },
+        {
+            "date": "1966-09-22",
+            "country": "Germany"
+        },
+        {
+            "date": "1966-03-01",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
+    "datePublished": "1966-03-01",
+    "original_title": "Three on a Couch",
     "imdb_rating_average": 5.8,
-    "update_at": "2025-06-27T07:56:26"
+    "update_at": "2026-11-13T10:07:06"
 }

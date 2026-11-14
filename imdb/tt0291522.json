@@ -1,79 +1,107 @@
 {
     "aka": [],
     "sid": "tt0291522",
-    "name": "Tvrdjava Evropa",
+    "name": "Fortress Europe",
     "site": "imdb",
+    "year": "2000",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Drama",
+        "Documentary"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1036754/",
-            "name": "Hannah Nortman"
+            "name": "Hannah Nortman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1033077/",
-            "name": "Emil Tchouk"
+            "name": "Emil Tchouk",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1033769/",
-            "name": "Svetlana Zajceva"
+            "name": "Svetlana Zajceva",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTY3OGEyN2MtYmVkNy00ZTM4LTk2M2QtZTEzZTkyYWM5MzM4XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/2ftneOgJPB9scAobmUEhGsLwbZL.jpg",
     "details": {
-        "Languages": [
-            "Slovenian",
-            "Russian",
-            "Italian",
+        "Stars": [
+            "Hannah Nortman",
+            "Emil Tchouk",
+            "Svetlana Zajceva"
+        ],
+        "Genres": [
+            "Drama",
+            "Documentary"
+        ],
+        "Writer": [
+            "Toni Trsar"
+        ],
+        "Runtime": [
+            "80 min"
+        ],
+        "Director": [
+            "Zelimir Zilnik"
+        ],
+        "Language": [
             "English",
+            "Croatian",
+            "Italian",
             "Persian",
-            "Serbian",
-            "Croatian"
+            "Russian",
+            "Slovenian",
+            "Serbian"
         ],
         "Release date": [
-            "2000 (Slovenia)"
-        ],
-        "Also known as": [
-            "The Fortress Europe"
+            "2000-01-01"
         ],
         "Country of origin": [
             "Slovenia"
         ],
-        "Filming locations": [
-            "Ljubljana, Slovenia"
-        ],
         "Production companies": [
-            "Lowbudgetproduction Ljubljana",
-            "RTV Slovenija"
+            "RTV Slovenija",
+            "Lowbudgetproduction Ljubljana"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0873960/",
-            "name": "Toni Trsar"
+            "name": "Toni Trsar",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H20M",
     "keywords": [
-        ""
+        "docudrama"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0956507/",
-            "name": "Zelimir Zilnik"
+            "name": "Zelimir Zilnik",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0291522/",
     "metascore": null,
     "imdb_votes": 29,
     "popularity": 0,
-    "description": "Artjom and his daughter Katja try to enter Italy illegally to join their wife and mother, Sveta, who emigrated to Italy a while ago, and found a job with the last of Trieste coachmen driving a horse-driven carriage. Artjom, Katja ...",
-    "imdb_rating": "5.4/10 from 29 users",
-    "release_date": [],
+    "description": "People of different nationalities from Central Europe attempting to reach the West by crossing the controls and “European” rules.",
+    "imdb_rating": "5.6/10 from 29 users",
+    "release_date": [
+        {
+            "date": "2000-01-01",
+            "country": "Slovenia"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 5.4,
-    "update_at": "2025-08-12T20:00:26"
+    "datePublished": "2000-01-01",
+    "original_title": "Tvrdjava Evropa",
+    "imdb_rating_average": 5.6,
+    "update_at": "2026-11-13T12:42:18"
 }

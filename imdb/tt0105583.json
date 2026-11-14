@@ -4,7 +4,7 @@
     "name": "Through the Eyes of a Killer",
     "site": "imdb",
     "year": "1992",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Romance",
         "Thriller"
@@ -12,34 +12,86 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001339/",
-            "name": "Marg Helgenberger"
+            "name": "Marg Helgenberger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000760/",
-            "name": "Richard Dean Anderson"
+            "name": "Richard Dean Anderson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0335344/",
-            "name": "David Marshall Grant"
+            "name": "David Marshall Grant",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0191370/",
+            "name": "Melinda Culea",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001335/",
+            "name": "Tippi Hedren",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001592/",
+            "name": "Joe Pantoliano",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0662505/",
+            "name": "Monica Parker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0781565/",
+            "name": "Joyce Seeley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0564883/",
+            "name": "John McCann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0075894/",
+            "name": "Pat Bermel",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTU5MjM0ODYwMV5BMl5BanBnXkFtZTcwNjI0NDUyMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/qjRfVizwyHry2ybh4oycRhLzAFm.jpg",
     "details": {
+        "Stars": [
+            "Marg Helgenberger",
+            "Richard Dean Anderson",
+            "David Marshall Grant"
+        ],
+        "Genres": [
+            "Romance",
+            "Thriller"
+        ],
+        "Writer": [
+            "Christopher Fowler",
+            "Solomon Isaacs"
+        ],
+        "Runtime": [
+            "94 min"
+        ],
+        "Director": [
+            "Peter Markle"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "December 15, 1992 (United States)"
-        ],
-        "Also known as": [
-            "Los ojos del asesino"
+            "1992-09-30"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Vancouver, British Columbia, Canada"
+            "United States of America",
+            "Canada"
         ],
         "Production companies": [
             "Morgan Hill Productions",
@@ -47,40 +99,48 @@
             "Wilshire Court Productions"
         ]
     },
-    "reviews": 10,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0288680/",
-            "name": "Christopher Fowler"
+            "name": "Christopher Fowler",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0410569/",
-            "name": "Solomon Isaacs"
+            "name": "Solomon Isaacs",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H34M",
-    "keywords": [
-        "shower",
-        "watching tv",
-        "reference to laurence olivier",
-        "reference to jennifer jones",
-        "telescope"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0548533/",
-            "name": "Peter Markle"
+            "name": "Peter Markle",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0105583/",
     "metascore": null,
-    "imdb_votes": 545,
+    "imdb_votes": 562,
     "popularity": 0,
-    "description": "It seems like Laurie keeps attracting dangerous men into her life.. One of them is crazy enough to shed blood.",
-    "imdb_rating": "5.9/10 from 545 users",
-    "release_date": [],
+    "description": "A woman has a brief affair with the contractor who is renovating her apartment and he refuses to accept the end of the relationship.",
+    "imdb_rating": "5.9/10 from 562 users",
+    "release_date": [
+        {
+            "date": "1999-08-10",
+            "country": "Finland"
+        },
+        {
+            "date": "1992-09-30",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": "R",
-    "datePublished": "1992-12-15",
+    "datePublished": "1992-09-30",
+    "original_title": "Through the Eyes of a Killer",
     "imdb_rating_average": 5.9,
-    "update_at": "2025-06-22T16:39:20"
+    "update_at": "2026-11-13T04:21:31"
 }

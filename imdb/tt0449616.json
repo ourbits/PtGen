@@ -4,7 +4,7 @@
     "name": "Mindy",
     "site": "imdb",
     "year": "2004",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Drama",
         "Family",
@@ -13,66 +13,127 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1847335/",
-            "name": "Yamei Scheda"
+            "name": "Yamei Scheda",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1845822/",
-            "name": "Christopher Pinnick"
+            "name": "Christopher Pinnick",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0510943/",
-            "name": "Qing Lin"
+            "name": "Qing Lin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1851854/",
+            "name": "Janet Hodge",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1563238/",
+            "name": "Joshua Brail",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1782444/",
+            "name": "Ryan Burk",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2181770/",
+            "name": "Ben Dubash",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1435294/",
+            "name": "Savannah Emmrich",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7262862/",
+            "name": "Megyn Shott",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2545114/",
+            "name": "Kaylee Williams",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/luEqgVE55P5R5IU9WAoGrYbu15U.jpg",
     "details": {
-        "Languages": [
+        "Stars": [
+            "Yamei Scheda",
+            "Christopher Pinnick",
+            "Qing Lin"
+        ],
+        "Genres": [
+            "Drama",
+            "Family",
+            "Short"
+        ],
+        "Writer": [
+            "Ai Lene Chor"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Ai Lene Chor"
+        ],
+        "Language": [
             "English",
             "Mandarin"
         ],
         "Release date": [
-            "October 9, 2004 (United States)"
-        ],
-        "Official site": [
-            "Official site - http://www.kylinproductions.com"
+            "2004-10-09"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Chicago, Illinois, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Kylin Productions"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1779823/",
-            "name": "Ai Lene Chor"
+            "name": "Ai Lene Chor",
+            "@type": "Person"
         }
     ],
     "duration": "PT15M",
     "keywords": [
-        ""
+        "friendship",
+        "woman director"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1779823/",
-            "name": "Ai Lene Chor"
+            "name": "Ai Lene Chor",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0449616/",
     "metascore": null,
-    "imdb_votes": 16,
+    "imdb_votes": 15,
     "popularity": 0,
-    "description": "The smallest gesture can mean everything to a lonely soul. &apos;Mindy&apos; is a beautiful and simple short film about finding someone you can relate with. Mindy, 10, who has no friends at school or at the Chinese restaurant that she helps...",
-    "imdb_rating": "8.5/10 from 16 users",
-    "release_date": [],
+    "description": "Beautifully melancholy and heartwarming, 'Mindy' is an award-winning short film about how the smallest gesture can mean everything to a lonely soul.",
+    "imdb_rating": "8.5/10 from 15 users",
+    "release_date": [
+        {
+            "date": "2004-10-09",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2004-10-09",
+    "original_title": "Mindy",
     "imdb_rating_average": 8.5,
-    "update_at": "2025-06-15T23:11:46"
+    "update_at": "2026-11-13T16:56:29"
 }

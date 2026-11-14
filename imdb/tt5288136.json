@@ -4,81 +4,132 @@
     "name": "Late Bloomer",
     "site": "imdb",
     "year": "2016",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Romance"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2680758/",
-            "name": "Italia Ricci"
+            "name": "Italia Ricci",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1452155/",
-            "name": "Nathan Parsons"
+            "name": "Nathan Parsons",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2202521/",
-            "name": "Madison Pettis"
+            "name": "Madison Pettis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4024462/",
+            "name": "Antoinette Robertson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0110803/",
+            "name": "Beth Broderick",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2114358/",
+            "name": "Brooke Newton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4068312/",
+            "name": "Derek Krantz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4045867/",
+            "name": "Garrett Backstrom",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2377612/",
+            "name": "Kaili Thorne",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0144233/",
+            "name": "Patrick Cassidy",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTI2ZjY5YTYtNzI3Ni00YmE5LTgzYmYtODViYzk4NzhkYWVhXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/wBg33E85ZmPb9RV4T21DSRQMWBs.jpg",
     "details": {
+        "Stars": [
+            "Italia Ricci",
+            "Nathan Parsons",
+            "Madison Pettis"
+        ],
+        "Genres": [
+            "Romance"
+        ],
+        "Writer": [
+            "Rick Garman"
+        ],
+        "Runtime": [
+            "87 min"
+        ],
+        "Director": [
+            "W.D. Hogan"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "August 6, 2016 (United States)"
-        ],
-        "Also known as": [
-            "Flor tardía"
-        ],
-        "Official site": [
-            "PixL Movie Website - http://pixltv.com/pixl-family-friendly-movies/"
+            "2016-08-06"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Simi Valley, California, USA"
+            "United States of America"
         ],
         "Production companies": [
-            "PixL Entertainment",
-            "Domain Media Productions",
             "Larry Levinson Productions"
         ]
     },
-    "reviews": 7,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm7837495/",
-            "name": "Rick Garman"
+            "name": "Rick Garman",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H27M",
-    "keywords": [
-        "school bullies",
-        "high school prom",
-        "botanist",
-        "orchid",
-        "myth"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1016044/",
-            "name": "W.D. Hogan"
+            "name": "W.D. Hogan",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt5288136/",
     "metascore": null,
-    "imdb_votes": 1175,
+    "imdb_votes": 1201,
     "popularity": 0,
-    "description": "A woman falls for a guy who bullied her in high school.",
-    "imdb_rating": "6.6/10 from 1175 users",
-    "release_date": [],
-    "contentRating": "TV-PG",
+    "description": "Botanist Jenny fled her small town and cruel high school popular couple Shane and Allison to track rare flowers around the globe. Now back, she’s shocked to find Shane has become the local guidance counselor, and even more surprised when he’s determined to make it up to her",
+    "imdb_rating": "6.6/10 from 1201 users",
+    "release_date": [
+        {
+            "date": "2017-01-12",
+            "country": "France"
+        },
+        {
+            "date": "2016-08-06",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "PG",
     "datePublished": "2016-08-06",
+    "original_title": "Late Bloomer",
     "imdb_rating_average": 6.6,
-    "update_at": "2026-02-08T22:42:46"
+    "update_at": "2026-11-13T23:14:23"
 }

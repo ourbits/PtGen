@@ -4,7 +4,7 @@
     "name": "Kidnapped",
     "site": "imdb",
     "year": "1929",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short",
         "Western"
@@ -12,41 +12,49 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0193618/",
-            "name": "Bob Curwood"
+            "name": "Bob Curwood",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Stars": [
+            "Bob Curwood"
+        ],
+        "Genres": [
+            "Short",
+            "Western"
+        ],
+        "Writer": [
+            "Lola D. Moore"
+        ],
+        "Runtime": [
+            "20 min"
+        ],
+        "Director": [
+            "Walter Fabian"
         ],
         "Release date": [
-            "March 16, 1929 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Universal Pictures"
+            "1929"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0601525/",
-            "name": "Lola D. Moore"
+            "name": "Lola D. Moore",
+            "@type": "Person"
         }
     ],
-    "duration": null,
-    "keywords": [
-        ""
-    ],
+    "duration": "PT20M",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0264591/",
-            "name": "Walter Fabian"
+            "name": "Walter Fabian",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0332671/",
@@ -57,7 +65,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1929-03-16",
+    "datePublished": "1929",
+    "original_title": "Kidnapped",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-31T13:52:22"
+    "update_at": "2026-11-13T21:00:15"
 }

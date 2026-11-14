@@ -11,43 +11,45 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0432208/",
-            "name": "Joseph Julian"
+            "name": "Joseph Julian",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0755145/",
-            "name": "Eddie Sachs"
+            "name": "Eddie Sachs",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Joseph Julian",
+            "Eddie Sachs"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Richard Leacock"
         ],
         "Release date": [
-            "May 25, 1961 (United States)"
-        ],
-        "Official site": [
-            "Official website - http://www.drewassociates.com/films/on-the-pole/"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production companies": [
-            "Drew Associates",
-            "Time Inc."
+            "1961"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT1H",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0494886/",
-            "name": "Richard Leacock"
+            "name": "Richard Leacock",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt5646290/",
@@ -58,7 +60,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1961-05-25",
+    "datePublished": "1961",
+    "original_title": "On the Pole",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-22T18:42:25"
+    "update_at": "2026-11-13T17:35:06"
 }

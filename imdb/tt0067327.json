@@ -1,9 +1,14 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Chinchero",
+            "country": "United States of America"
+        }
+    ],
     "sid": "tt0067327",
     "name": "The Last Movie",
     "site": "imdb",
-    "year": "1988",
+    "year": "1971",
     "@type": "Movie",
     "genre": [
         "Drama"
@@ -11,78 +16,152 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0011105/",
-            "name": "Julie Adams"
+            "name": "Julie Adams",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0011937/",
-            "name": "Daniel Ades"
+            "name": "Daniel Ades",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0013022/",
-            "name": "Richmond L. Aguilar"
+            "name": "Richmond L. Aguilar",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0017550/",
+            "name": "John Alderman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0026295/",
+            "name": "Michael Anderson Jr.",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0045225/",
+            "name": "Donna Baccala",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0047094/",
+            "name": "Charles Bail",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0048983/",
+            "name": "Tom Baker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0059844/",
+            "name": "Toni Basil",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0090488/",
+            "name": "Poupée Bocar",
+            "@type": "Person"
         }
     ],
-    "critic": 61,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTJkMGZiZjAtYTZiMC00M2E4LWJlZGItZDc3ZTEzNTFkMTk5XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/c0OkAQkZZPQ65jXF8SiLbWWLpVO.jpg",
     "details": {
-        "Languages": [
+        "Stars": [
+            "Julie Adams",
+            "Daniel Ades",
+            "Richmond L. Aguilar"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Stewart Stern",
+            "Dennis Hopper"
+        ],
+        "Runtime": [
+            "108 min"
+        ],
+        "Director": [
+            "Dennis Hopper"
+        ],
+        "Language": [
             "English",
             "Spanish",
             "Quechua"
         ],
         "Release date": [
-            "October 21, 1988 (Japan)"
-        ],
-        "Also known as": [
-            "Последний фильм"
-        ],
-        "Official site": [
-            "Official Site - http://arbelosfilms.com/distribution/films/the-last-movie/"
+            "1971-09-29"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Chinchero, Peru"
-        ],
-        "Production company": [
-            "Alta-Light"
+        "Production companies": [
+            "Alta-Light",
+            "Universal Pictures"
         ]
     },
-    "reviews": 37,
+    "reviews": 0,
+    "tagline": "There is a time to die and a time not to",
     "creators": [
         {
-            "url": "https://www.imdb.com/name/nm0000454/",
-            "name": "Dennis Hopper"
+            "url": "https://www.imdb.com/name/nm0827856/",
+            "name": "Stewart Stern",
+            "@type": "Person"
         },
         {
-            "url": "https://www.imdb.com/name/nm0827856/",
-            "name": "Stewart Stern"
+            "url": "https://www.imdb.com/name/nm0000454/",
+            "name": "Dennis Hopper",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H48M",
     "keywords": [
-        "gold prospector",
-        "reference to billy the kid",
-        "revisionist western",
-        "gold prospecting",
-        "poncho"
+        "peru",
+        "village",
+        "filmmaking",
+        "film production",
+        "wrangler"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0000454/",
-            "name": "Dennis Hopper"
+            "name": "Dennis Hopper",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0067327/",
     "metascore": null,
-    "imdb_votes": 2814,
+    "imdb_votes": 3061,
     "popularity": 0,
-    "description": "After a film production wraps in Peru, an American wrangler decides to stay behind to witness the ways that filmmaking affects the locals.",
-    "imdb_rating": "6.1/10 from 2814 users",
-    "release_date": [],
+    "description": "After a film production wraps in Peru, an American wrangler decides to stay behind, witnessing how filmmaking affects the locals.",
+    "imdb_rating": "6.1/10 from 3061 users",
+    "release_date": [
+        {
+            "date": "1977-08-29",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "1971-08-29",
+            "country": "Italy"
+        },
+        {
+            "date": "1988-10-21",
+            "country": "Japan"
+        },
+        {
+            "date": "1971-09-29",
+            "country": "Sweden"
+        },
+        {
+            "date": "1971-09-29",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": "R",
-    "datePublished": "1988-10-21",
+    "datePublished": "1971-09-29",
+    "original_title": "The Last Movie",
     "imdb_rating_average": 6.1,
-    "update_at": "2025-02-09T10:40:49"
+    "update_at": "2026-11-13T14:00:25"
 }

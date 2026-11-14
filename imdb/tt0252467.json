@@ -4,64 +4,109 @@
     "name": "De gele roos",
     "site": "imdb",
     "year": "1982",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0095214/",
-            "name": "Mirei Bonte"
+            "name": "Mirei Bonte",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0124428/",
-            "name": "Ludo Busschots"
+            "name": "Ludo Busschots",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0581584/",
-            "name": "Yvonne Mertens"
+            "name": "Yvonne Mertens",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0625015/",
+            "name": "An Nelissen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0722786/",
+            "name": "Vic Ribbens",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0800680/",
+            "name": "Ben Simons",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0885623/",
+            "name": "Johan van Assche",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0886619/",
+            "name": "Elisabeth Van Dooren",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0900681/",
+            "name": "Caroline Vlerick",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Dutch"
+        "Stars": [
+            "Mirei Bonte",
+            "Ludo Busschots",
+            "Yvonne Mertens"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Marga Neirynck",
+            "René Verheezen",
+            "Lode Zielens"
+        ],
+        "Runtime": [
+            "59 min"
+        ],
+        "Director": [
+            "Peter Simons"
         ],
         "Release date": [
-            "September 12, 1982 (Belgium)"
-        ],
-        "Production company": [
-            "Belgische Radio en Televisie (BRT)"
-        ],
-        "Countries of origin": [
-            "Belgium",
-            "Netherlands"
+            "1982"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0624879/",
-            "name": "Marga Neirynck"
+            "name": "Marga Neirynck",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0894155/",
-            "name": "René Verheezen"
+            "name": "René Verheezen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0956184/",
-            "name": "Lode Zielens"
+            "name": "Lode Zielens",
+            "@type": "Person"
         }
     ],
     "duration": "PT59M",
-    "keywords": [
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0800728/",
-            "name": "Peter Simons"
+            "name": "Peter Simons",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0252467/",
@@ -72,7 +117,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1982-09-12",
+    "datePublished": "1982",
+    "original_title": "De gele roos",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-05T07:00:09"
+    "update_at": "2026-11-13T04:49:07"
 }

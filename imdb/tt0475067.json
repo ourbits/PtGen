@@ -4,7 +4,7 @@
     "name": "BlackJack: At the Gates",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Drama",
@@ -13,73 +13,131 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0295506/",
-            "name": "Colin Friels"
+            "name": "Colin Friels",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0244696/",
-            "name": "Marta Dusseldorp"
+            "name": "Marta Dusseldorp",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0275913/",
-            "name": "David Field"
+            "name": "David Field",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0498275/",
+            "name": "Sophie Lee",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0249319/",
+            "name": "Gigi Edgley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0277556/",
+            "name": "Rhondda Findleton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0519212/",
+            "name": "Tom Long",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0541120/",
+            "name": "Robert Mammone",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0726630/",
+            "name": "Rebecca Rigg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0849664/",
+            "name": "Libby Tanner",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjVkNzhjZGEtOTMyNS00ODBlLTljNTEtMGUxODE5ZjFiN2ExXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/4sDmNckhVEqUKrXmkzheSxB7Rzi.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Colin Friels",
+            "Marta Dusseldorp",
+            "David Field"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "Writer": [
+            "Katherine Thomson",
+            "Shaun Micallef",
+            "Gary McCaffrie"
+        ],
+        "Director": [
+            "Peter Andrikidis"
         ],
         "Release date": [
-            "September 24, 2006 (Australia)"
-        ],
-        "Also known as": [
-            "BlackJack: A Walk in the Park"
+            "2006-09-24"
         ],
         "Country of origin": [
             "Australia"
         ],
-        "Filming locations": [
-            "Sydney, New South Wales, Australia"
-        ],
-        "Production company": [
+        "Production companies": [
             "Jigsaw Entertainment"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0860367/",
-            "name": "Katherine Thomson"
+            "name": "Katherine Thomson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0584017/",
-            "name": "Shaun Micallef"
+            "name": "Shaun Micallef",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0564561/",
-            "name": "Gary McCaffrie"
+            "name": "Gary McCaffrie",
+            "@type": "Person"
         }
     ],
     "duration": null,
     "keywords": [
-        ""
+        "police detective"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0029014/",
-            "name": "Peter Andrikidis"
+            "name": "Peter Andrikidis",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0475067/",
     "metascore": null,
-    "imdb_votes": 65,
+    "imdb_votes": 69,
     "popularity": 0,
-    "description": "Jack agrees to look into the still unsolved crime of ten years ago, where a baby was killed in a house arson fire after a violent home invasion.",
-    "imdb_rating": "6.7/10 from 65 users",
-    "release_date": [],
+    "description": "Ten years ago, a baby was killed in a house arson fire after a violent home invasion. The parents used the tragedy as a motivation to help build an evangelical community church but now the mother has comes to Jack for help. Jack agrees to look into the still unsolved crime but in looking for the truth Jack will have to fight the system and his own conscience to uncover a tangled web of lies and deception. In the end, Jack must decide if the truth should prevail over the interests of the innocent.",
+    "imdb_rating": "6.8/10 from 69 users",
+    "release_date": [
+        {
+            "date": "2006-09-24",
+            "country": "Australia"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2006-09-24",
-    "imdb_rating_average": 6.7,
-    "update_at": "2025-08-14T08:35:57"
+    "original_title": "BlackJack: At the Gates",
+    "imdb_rating_average": 6.8,
+    "update_at": "2026-11-13T08:56:37"
 }
