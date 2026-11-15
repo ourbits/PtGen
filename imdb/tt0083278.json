@@ -4,7 +4,7 @@
     "name": "Vendredi ou la vie sauvage",
     "site": "imdb",
     "year": "1983",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Adventure",
         "Comedy"
@@ -12,75 +12,125 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001868/",
-            "name": "Michael York"
+            "name": "Michael York",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0712833/",
-            "name": "Gene Anthony Ray"
+            "name": "Gene Anthony Ray",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0088436/",
-            "name": "Roger Blin"
+            "name": "Roger Blin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0727245/",
+            "name": "Robert Rimbaud",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0109485/",
+            "name": "Adrian Brine",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0577631/",
+            "name": "Lionel Melet",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0308027/",
+            "name": "Agnès Garreau",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0083169/",
+            "name": "Pierre Biondi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0256426/",
+            "name": "Florence Emir",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0217740/",
+            "name": "Guy Delorme",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTAzYmUwOTctNzAzZS00OThjLWI3ZGUtOWMwZTU0YzNkMTI2XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/f8Ln3yrR4KjFBC0UaO94qTHi5z1.jpg",
     "details": {
+        "Stars": [
+            "Michael York",
+            "Gene Anthony Ray",
+            "Roger Blin"
+        ],
+        "Genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "Writer": [
+            "Salim Jay",
+            "Michel Tournier",
+            "Gérard Vergez"
+        ],
+        "Director": [
+            "Gérard Vergez"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "February 25, 1983 (Portugal)"
-        ],
-        "Also known as": [
-            "Sexta-Feira Ou a Vida Selvagem"
-        ],
-        "Country of origin": [
-            "France"
-        ],
-        "Production companies": [
-            "Carthago Films S.a.r.l.",
-            "France 2 (FR2)",
-            "Société Française de Production (SFP)"
+            "1983-02-25"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0419636/",
-            "name": "Salim Jay"
+            "name": "Salim Jay",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0869675/",
-            "name": "Michel Tournier"
+            "name": "Michel Tournier",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0894074/",
-            "name": "Gérard Vergez"
+            "name": "Gérard Vergez",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "robinson crusoe character",
-        "friday character",
-        "or as title separator",
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0894074/",
-            "name": "Gérard Vergez"
+            "name": "Gérard Vergez",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0083278/",
     "metascore": null,
-    "imdb_votes": 43,
+    "imdb_votes": 45,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.2/10 from 43 users",
-    "release_date": [],
+    "description": "Victim of a shipwreck, a British man is stranded on a deserted island where he manages to survive through ingenuity.",
+    "imdb_rating": "7.3/10 from 45 users",
+    "release_date": [
+        {
+            "date": "1983-02-25",
+            "country": "Portugal"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1983-02-25",
-    "imdb_rating_average": 7.2,
-    "update_at": "2025-06-02T19:21:36"
+    "original_title": "Vendredi ou la vie sauvage",
+    "imdb_rating_average": 7.3,
+    "update_at": "2026-11-14T05:43:10"
 }

@@ -4,63 +4,111 @@
     "name": "Huone puutalossa",
     "site": "imdb",
     "year": "1972",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0436212/",
-            "name": "Kullervo Kalske"
+            "name": "Kullervo Kalske",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0474263/",
-            "name": "Martti Kuisma"
+            "name": "Martti Kuisma",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0500473/",
-            "name": "Maija Leino"
+            "name": "Maija Leino",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0560304/",
+            "name": "Esko Mattila",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0577416/",
+            "name": "Pertti Melasniemi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0651331/",
+            "name": "Kirsti Ortola",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0657123/",
+            "name": "Saara Pakkasvirta",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0718207/",
+            "name": "Topi Reinikka",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0727713/",
+            "name": "Katriina Rinne",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0874830/",
+            "name": "Martti Tschokkinen",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Finnish"
+        "Stars": [
+            "Kullervo Kalske",
+            "Martti Kuisma",
+            "Maija Leino"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Helena Kulovaara",
+            "Samuli Paronen",
+            "Pauli Virtanen"
+        ],
+        "Director": [
+            "Pauli Virtanen"
         ],
         "Release date": [
-            "April 7, 1972 (Finland)"
-        ],
-        "Country of origin": [
-            "Finland"
-        ],
-        "Production company": [
-            "Mainostelevisio (MTV)"
+            "1972"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3167683/",
-            "name": "Helena Kulovaara"
+            "name": "Helena Kulovaara",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3168713/",
-            "name": "Samuli Paronen"
+            "name": "Samuli Paronen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0899466/",
-            "name": "Pauli Virtanen"
+            "name": "Pauli Virtanen",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0899466/",
-            "name": "Pauli Virtanen"
+            "name": "Pauli Virtanen",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1310643/",
@@ -71,7 +119,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1972-04-07",
+    "datePublished": "1972",
+    "original_title": "Huone puutalossa",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-19T03:21:23"
+    "update_at": "2026-11-14T04:28:19"
 }

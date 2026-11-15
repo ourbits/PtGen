@@ -3,7 +3,8 @@
     "sid": "tt0269582",
     "name": "Muttertag",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1997",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Family"
@@ -11,45 +12,99 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0772221/",
-            "name": "Claudia Schlenger"
+            "name": "Claudia Schlenger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0576831/",
-            "name": "Hanns Meilhamer"
+            "name": "Hanns Meilhamer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0765957/",
-            "name": "Ingeborg Sassen-Haase"
+            "name": "Ingeborg Sassen-Haase",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0836717/",
+            "name": "Franziska Stömmer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0407802/",
+            "name": "Rolf Illig",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0059704/",
+            "name": "Rainer Basedow",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0345103/",
+            "name": "Günter Grünwald",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0576832/",
+            "name": "Simon Meilhamer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0500724/",
+            "name": "Kathi Leitner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0536995/",
+            "name": "Margot Mahler",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjg4MGQ2ODktYzg5Zi00ZmZiLTllMjEtOWNhYWU1OWJiNTIyXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Claudia Schlenger",
+            "Hanns Meilhamer",
+            "Ingeborg Sassen-Haase"
+        ],
+        "Genres": [
+            "Comedy",
+            "Family"
+        ],
+        "Writer": [
+            "Claudia Schlenger"
+        ],
+        "Runtime": [
+            "59 min"
+        ],
+        "Director": [
+            "Helmut Milz"
+        ],
+        "Release date": [
+            "1997-01-01"
         ],
         "Country of origin": [
             "Germany"
-        ],
-        "Production company": [
-            "Bayerischer Rundfunk (BR)"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0772221/",
-            "name": "Claudia Schlenger"
+            "name": "Claudia Schlenger",
+            "@type": "Person"
         }
     ],
     "duration": "PT59M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0590760/",
-            "name": "Helmut Milz"
+            "name": "Helmut Milz",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0269582/",
@@ -57,10 +112,16 @@
     "imdb_votes": 8,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "5/10 from 8 users",
-    "release_date": [],
+    "imdb_rating": "5.8/10 from 8 users",
+    "release_date": [
+        {
+            "date": "1997-01-01",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 5,
-    "update_at": "2025-06-28T16:42:32"
+    "datePublished": "1997-01-01",
+    "original_title": "Muttertag",
+    "imdb_rating_average": 5.8,
+    "update_at": "2026-11-14T06:28:36"
 }

@@ -12,76 +12,164 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001128/",
-            "name": "Alain Delon"
+            "name": "Alain Delon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0014800/",
-            "name": "Mireille Darc"
+            "name": "Mireille Darc",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0745801/",
-            "name": "Georges Rouquier"
+            "name": "Georges Rouquier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0412965/",
+            "name": "Gabriel Jabbour",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0626301/",
+            "name": "Nathalie Nerval",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0518286/",
+            "name": "Robert Lombard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0417156/",
+            "name": "Georges Jamin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0194368/",
+            "name": "Henri Czarniak",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0766551/",
+            "name": "Jean Saudray",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0617565/",
+            "name": "Albert Médina",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjRlZThjMzYtNGE3NS00YzM1LWJhMmItMGJjYjA2ZDExNTI0XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/yw3v7eHkYkAez0j1rVlPMJq6qnK.jpg",
     "details": {
+        "Stars": [
+            "Alain Delon",
+            "Mireille Darc",
+            "Georges Rouquier"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "André G. Brunelin",
+            "Jean Cau"
+        ],
+        "Runtime": [
+            "92 min"
+        ],
+        "Director": [
+            "Jean Herman"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "April 25, 1969 (France)"
+            "1969-04-25"
         ],
-        "Also known as": [
-            "Lov na sefa bande"
-        ],
-        "Filming locations": [
-            "Antwerp, Flanders, Belgium"
-        ],
-        "Countries of origin": [
+        "Country of origin": [
             "France",
             "Italy"
         ],
         "Production companies": [
             "Adel Productions",
-            "PECF",
             "Produzione Intercontinentale Cinematografica (PIC)"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0116113/",
-            "name": "André G. Brunelin"
+            "name": "André G. Brunelin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0146424/",
-            "name": "Jean Cau"
+            "name": "Jean Cau",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H32M",
     "keywords": [
-        "bee",
-        "beehive",
-        "bee attack",
-        "heist",
-        "death of protagonist"
+        "gangster"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0379150/",
-            "name": "Jean Herman"
+            "name": "Jean Herman",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0064509/",
     "metascore": null,
-    "imdb_votes": 415,
+    "imdb_votes": 460,
     "popularity": 0,
-    "description": "After a successful robbery, the gang leader Jeff disappears with the loot, leaving his accomplices with nothing. Gang members decide to go and pull any information by any means about possible location of their ex-boss and their mo...",
-    "imdb_rating": "5.8/10 from 415 users",
-    "release_date": [],
-    "contentRating": "M",
+    "description": "Jeff is a gangster who's disappeared with a million dollars, and Laurent is looking for him to catch him before the other members of the gang find him.",
+    "imdb_rating": "5.8/10 from 460 users",
+    "release_date": [
+        {
+            "date": "1970-10-01",
+            "country": "Australia"
+        },
+        {
+            "date": "1969-11-18",
+            "country": "Germany"
+        },
+        {
+            "date": "1969-12-26",
+            "country": "Denmark"
+        },
+        {
+            "date": "1969-09-26",
+            "country": "Finland"
+        },
+        {
+            "date": "1969-04-25",
+            "country": "France"
+        },
+        {
+            "date": "1969-11-13",
+            "country": "Italy"
+        },
+        {
+            "date": "1969-12-20",
+            "country": "Japan"
+        },
+        {
+            "date": "1970-11-23",
+            "country": "Norway"
+        },
+        {
+            "date": "1969-10-01",
+            "country": "Turkey"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1969-04-25",
+    "original_title": "Jeff",
     "imdb_rating_average": 5.8,
-    "update_at": "2025-10-06T16:21:10"
+    "update_at": "2026-11-14T23:07:19"
 }

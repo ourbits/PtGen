@@ -4,66 +4,114 @@
     "name": "Hochzeit am Bodensee",
     "site": "imdb",
     "year": "1969",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Music"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3743841/",
-            "name": "Friedrich Nidetzky"
+            "name": "Friedrich Nidetzky",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1065517/",
-            "name": "Kurt Huemer"
+            "name": "Kurt Huemer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0778355/",
-            "name": "Ernst Schütz"
+            "name": "Ernst Schütz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3744004/",
+            "name": "Paul Späni",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3743924/",
+            "name": "Lotte Rysanek",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0611869/",
+            "name": "Fritz Muliar",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0469758/",
+            "name": "Cissy Kraner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3744226/",
+            "name": "Frans van Daalen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0464193/",
+            "name": "Dagmar Koller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2410883/",
+            "name": "Monique Lobasa",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Friedrich Nidetzky",
+            "Kurt Huemer",
+            "Ernst Schütz"
+        ],
+        "Genres": [
+            "Music"
+        ],
+        "Writer": [
+            "Hugo Wiener",
+            "Robert Gilbert",
+            "Armin Robinson"
+        ],
+        "Runtime": [
+            "110 min"
+        ],
+        "Director": [
+            "Hermann Lanske"
         ],
         "Release date": [
-            "August 14, 1969 (West Germany)"
-        ],
-        "Countries of origin": [
-            "Austria",
-            "West Germany"
-        ],
-        "Production companies": [
-            "Österreichischer Rundfunk (ORF)",
-            "Zweites Deutsches Fernsehen (ZDF)",
-            "Bregenzer Festspiele"
+            "1969"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0927481/",
-            "name": "Hugo Wiener"
+            "name": "Hugo Wiener",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0318216/",
-            "name": "Robert Gilbert"
+            "name": "Robert Gilbert",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0732343/",
-            "name": "Armin Robinson"
+            "name": "Armin Robinson",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H50M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0487113/",
-            "name": "Hermann Lanske"
+            "name": "Hermann Lanske",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1567320/",
@@ -74,7 +122,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1969-08-14",
+    "datePublished": "1969",
+    "original_title": "Hochzeit am Bodensee",
     "imdb_rating_average": 0,
-    "update_at": "2025-03-11T17:29:20"
+    "update_at": "2026-11-15T00:07:14"
 }

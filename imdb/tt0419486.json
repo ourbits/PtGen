@@ -4,7 +4,7 @@
     "name": "Beautiful",
     "site": "imdb",
     "year": "2003",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Drama",
         "Short"
@@ -12,66 +12,99 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0033939/",
-            "name": "Tom Ardavany"
+            "name": "Tom Ardavany",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0056987/",
-            "name": "Alexandra Barreto"
+            "name": "Alexandra Barreto",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0095478/",
-            "name": "Mark Boone Junior"
+            "name": "Mark Boone Junior",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1476349/",
+            "name": "Troy Casey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0313902/",
+            "name": "Matt Gerald",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1579211/",
+            "name": "Michael Magid",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1671769/",
+            "name": "Shaila Vaidya",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGQxYWRlNjUtZDFlMy00OWUxLWIxMzYtODU4Mzg3ZTYxNDMxXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Tom Ardavany",
+            "Alexandra Barreto",
+            "Mark Boone Junior"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Martin Palafox",
+            "Jeremy Saville"
+        ],
+        "Runtime": [
+            "30 min"
+        ],
+        "Director": [
+            "Martin Palafox"
         ],
         "Release date": [
-            "October 10, 2003 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Los Angeles, California, USA"
-        ],
-        "Production company": [
-            "Tectonic Production"
+            "2003"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1174477/",
-            "name": "Martin Palafox"
+            "name": "Martin Palafox",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0767688/",
-            "name": "Jeremy Saville"
+            "name": "Jeremy Saville",
+            "@type": "Person"
         }
     ],
     "duration": "PT30M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1174477/",
-            "name": "Martin Palafox"
+            "name": "Martin Palafox",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0419486/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Based on a short story by Charles Bukowski, Beautiful tells the tale of Hank and Cass two unlikely lovers who fall apart together in a passion that carries the cost of ultimate sacrifice in the City of Los Angeles.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
-    "contentRating": "Not Rated",
-    "datePublished": "2003-10-10",
+    "contentRating": null,
+    "datePublished": "2003",
+    "original_title": "Beautiful",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-05T04:13:25"
+    "update_at": "2026-11-14T16:49:32"
 }

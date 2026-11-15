@@ -4,88 +4,154 @@
     "name": "Royally Ever After",
     "site": "imdb",
     "year": "2018",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1463709/",
-            "name": "Fiona Gubelmann"
+            "name": "Fiona Gubelmann",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2650700/",
-            "name": "Torrance Coombs"
+            "name": "Torrance Coombs",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0569547/",
-            "name": "Barry McGovern"
+            "name": "Barry McGovern",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0238968/",
+            "name": "Carmen Du Sautoy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0068201/",
+            "name": "Fiona Bell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0346102/",
+            "name": "John Guerrasio",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2219843/",
+            "name": "Rebekah Wainwright",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2634155/",
+            "name": "Paul Byrne",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10104271/",
+            "name": "John Carty",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10104272/",
+            "name": "Louisa Dolan",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmU4ZjAxNGQtODViNi00OWFjLWJhMmUtMDI0ZjM2MGE3NmE2XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/1k5HpDPTWGIh24cvW5wQmV7YOuP.jpg",
     "details": {
+        "Stars": [
+            "Fiona Gubelmann",
+            "Torrance Coombs",
+            "Barry McGovern"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Duane Poole",
+            "Gary Goldstein",
+            "Aury Wallington"
+        ],
+        "Runtime": [
+            "86 min"
+        ],
+        "Director": [
+            "Lee Friedlander"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 19, 2018 (United States)"
-        ],
-        "Also known as": [
-            "Realmente para siempre"
-        ],
-        "Official site": [
-            "Official Site - http://www.hallmarkchannel.com/royally-ever-after"
+            "2018-05-19"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Ireland"
+            "Ireland",
+            "United States of America"
         ],
         "Production companies": [
             "Symphony Pictures",
             "Wonderfly Films"
         ]
     },
-    "reviews": 49,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0690830/",
-            "name": "Duane Poole"
+            "name": "Duane Poole",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0326211/",
-            "name": "Gary Goldstein"
+            "name": "Gary Goldstein",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0909233/",
-            "name": "Aury Wallington"
+            "name": "Aury Wallington",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H26M",
     "keywords": [
-        "boyfriend girlfriend relationship",
-        "marriage proposal",
         "prince",
         "royalty",
-        "new jersey"
+        "royal wedding"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0295105/",
-            "name": "Lee Friedlander"
+            "name": "Lee Friedlander",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt8433858/",
     "metascore": null,
-    "imdb_votes": 1574,
+    "imdb_votes": 1639,
     "popularity": 0,
-    "description": "A teacher learns that her boyfriend is actually the prince of a small country called St Ives.",
-    "imdb_rating": "5.8/10 from 1574 users",
-    "release_date": [],
-    "contentRating": "TV-G",
+    "description": "Sara's dream of finding the perfect mate is realized when boyfriend Daniel proposes marriage, but there is one tiny hitch. It turns out he is the real-life prince of a small European monarchy, and his marriage requires the approval of his royal parents. Commoner Sara will have to do more than simply impress the in-laws-to-be. If she wants to become Daniel’s wife, she’ll have to prove she’s got all the makings of an honest-to-goodness princess.",
+    "imdb_rating": "5.9/10 from 1639 users",
+    "release_date": [
+        {
+            "date": "2019-08-30",
+            "country": "Germany"
+        },
+        {
+            "date": "2019-01-07",
+            "country": "France"
+        },
+        {
+            "date": "2018-05-19",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2018-05-19",
-    "imdb_rating_average": 5.8,
-    "update_at": "2025-09-23T23:49:24"
+    "original_title": "Royally Ever After",
+    "imdb_rating_average": 5.9,
+    "update_at": "2026-11-14T11:28:25"
 }

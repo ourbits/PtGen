@@ -4,69 +4,101 @@
     "name": "Russa",
     "site": "imdb",
     "year": "2018",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDBlZWViNzEtY2ZjYi00ZGQxLTk1NzctMTU2OWNjNTU4Y2JiXkEyXkFqcGc@._V1_.jpg",
+    "actors": [],
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/hColmxbudIllZfdpSeTP7HeWnKV.jpg",
     "details": {
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "João Salaviza",
+            "Ricardo Alves Jr.",
+            "Renée Nader Messora"
+        ],
+        "Runtime": [
+            "20 min"
+        ],
+        "Director": [
+            "Ricardo Alves Jr.",
+            "João Salaviza"
+        ],
         "Language": [
             "Portuguese"
         ],
         "Release date": [
-            "February 16, 2018 (Germany)"
+            "2018-02-21"
         ],
-        "Filming locations": [
-            "Porto, Portugal"
-        ],
-        "Countries of origin": [
-            "Portugal",
-            "Brazil"
+        "Country of origin": [
+            "Brazil",
+            "Portugal"
         ],
         "Production companies": [
             "Karõ Filmes",
-            "Entrefilmes"
+            "Entrefilmes",
+            "Material Bruto"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0757651/",
-            "name": "João Salaviza"
+            "name": "João Salaviza",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3140272/",
-            "name": "Ricardo Alves Jr."
+            "name": "Ricardo Alves Jr.",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2324327/",
-            "name": "Renée Nader Messora"
+            "name": "Renée Nader Messora",
+            "@type": "Person"
         }
     ],
     "duration": "PT20M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3140272/",
-            "name": "Ricardo Alves Jr."
+            "name": "Ricardo Alves Jr.",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0757651/",
-            "name": "João Salaviza"
+            "name": "João Salaviza",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt7846224/",
     "metascore": null,
     "imdb_votes": 54,
     "popularity": 0,
-    "description": "Russa returns to Bairro do Aleixo in Porto, visiting her sister and friends with whom she celebrates her son&apos;s birthday. In this brief reunion, Russa returns to the collective memory of her neighbourhood where three of the five to...",
-    "imdb_rating": "5.6/10 from 54 users",
-    "release_date": [],
+    "description": "Russa returns to Bairro do Aleixo, in Oporto, visiting her sister and friends with whom she celebrates her son's birthday. In this short encounter, Russa returns to her neighbourhood's collective memory, where three of the five towers still exist.",
+    "imdb_rating": "5.7/10 from 54 users",
+    "release_date": [
+        {
+            "date": "2018-02-21",
+            "country": "Germany"
+        },
+        {
+            "date": "2022-07-10",
+            "country": "France"
+        },
+        {
+            "date": "2018-08-22",
+            "country": "Portugal"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2018-02-16",
-    "imdb_rating_average": 5.6,
-    "update_at": "2025-06-06T20:22:06"
+    "datePublished": "2018-02-21",
+    "original_title": "Russa",
+    "imdb_rating_average": 5.7,
+    "update_at": "2026-11-14T07:00:54"
 }

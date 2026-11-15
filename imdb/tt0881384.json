@@ -4,71 +4,91 @@
     "name": "Criticized",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Horror"
+        "Horror",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0528507/",
-            "name": "John Lynd"
+            "name": "John Lynd",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1453388/",
-            "name": "Brian Rohan"
+            "name": "Brian Rohan",
+            "@type": "Person"
         }
     ],
-    "critic": 7,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYwNDU3OTY4OV5BMl5BanBnXkFtZTcwOTIzMzA0MQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": null,
     "details": {
+        "Stars": [
+            "John Lynd",
+            "Brian Rohan"
+        ],
+        "Genres": [
+            "Horror",
+            "Short"
+        ],
+        "Writer": [
+            "Richard Gale"
+        ],
+        "Runtime": [
+            "18 min"
+        ],
+        "Director": [
+            "Richard Gale"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "September 13, 2006 (United States)"
-        ],
-        "Also known as": [
-            "Criticado"
-        ],
-        "Official site": [
-            "Official site - http://www.criticizedmovie.com/"
+            "2006-01-01"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Beverly Hills, California, USA"
+        "Production companies": [
+            "Critical Pictures"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0301903/",
-            "name": "Richard Gale"
+            "name": "Richard Gale",
+            "@type": "Person"
         }
     ],
     "duration": "PT18M",
     "keywords": [
-        "film critic",
-        "paper clip",
-        "eyeball"
+        "film critic"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0301903/",
-            "name": "Richard Gale"
+            "name": "Richard Gale",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0881384/",
     "metascore": null,
-    "imdb_votes": 169,
+    "imdb_votes": 171,
     "popularity": 0,
-    "description": "A prominent film critic writes a scathing review of a new horror film, and is abducted by the film&apos;s mentally unstable director, who subjects him to an eye-opening experience.",
-    "imdb_rating": "6.7/10 from 169 users",
-    "release_date": [],
+    "description": "A prominent film critic writes a scathing review of a new horror film, and is abducted by the film's mentally unstable director, who subjects him to an eye-opening experience.",
+    "imdb_rating": "6.6/10 from 171 users",
+    "release_date": [
+        {
+            "date": "2006-01-01",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2006-09-13",
-    "imdb_rating_average": 6.7,
-    "update_at": "2025-10-08T00:52:14"
+    "datePublished": "2006-01-01",
+    "original_title": "Criticized",
+    "imdb_rating_average": 6.6,
+    "update_at": "2026-11-14T02:42:27"
 }

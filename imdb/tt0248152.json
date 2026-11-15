@@ -4,67 +4,105 @@
     "name": "Let Me Hear You Whisper",
     "site": "imdb",
     "year": "1969",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0047853/",
-            "name": "Bil Baird"
+            "name": "Bil Baird",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0116575/",
-            "name": "Philip Bruns"
+            "name": "Philip Bruns",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0390603/",
-            "name": "Anthony Holland"
+            "name": "Anthony Holland",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0925418/",
+            "name": "Ruth White",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0933361/",
+            "name": "Elizabeth Wilson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0938370/",
+            "name": "Iggie Wolfington",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDU3MDA2OV5BMl5BanBnXkFtZTcwMDcwNzYxMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/e8zlIGgo7ia4e0hSEr3c5uK8MCb.jpg",
     "details": {
+        "Stars": [
+            "Bil Baird",
+            "Philip Bruns",
+            "Anthony Holland"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Paul Zindel"
+        ],
+        "Runtime": [
+            "70 min"
+        ],
+        "Director": [
+            "Glenn Jordan"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 23, 1969 (United States)"
+            "1969-05-23"
         ],
-        "Country of origin": [
-            "United States"
+        "Production companies": [
+            "Broadway Theatre Archive"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0956928/",
-            "name": "Paul Zindel"
+            "name": "Paul Zindel",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H10M",
-    "keywords": [
-        "research laboratory",
-        "dolphin",
-        "talking animal",
-        "scrubwoman",
-        "jazz score"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0429958/",
-            "name": "Glenn Jordan"
+            "name": "Glenn Jordan",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0248152/",
     "metascore": null,
-    "imdb_votes": 30,
+    "imdb_votes": 31,
     "popularity": 0,
     "description": "A scrub-woman attempts to rescue a dolphin who will talk to no one but her from a research laboratory.",
-    "imdb_rating": "5.9/10 from 30 users",
-    "release_date": [],
+    "imdb_rating": "5.6/10 from 31 users",
+    "release_date": [
+        {
+            "date": "1969-05-23",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1969-05-23",
-    "imdb_rating_average": 5.9,
-    "update_at": "2025-07-02T05:49:32"
+    "original_title": "Let Me Hear You Whisper",
+    "imdb_rating_average": 5.6,
+    "update_at": "2026-11-14T18:07:14"
 }

@@ -4,82 +4,137 @@
     "name": "The Gay Nighties",
     "site": "imdb",
     "year": "1933",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0163714/",
-            "name": "Bobby Clark"
+            "name": "Bobby Clark",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0567223/",
-            "name": "Paul McCullough"
+            "name": "Paul McCullough",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0278006/",
-            "name": "James Finlayson"
+            "name": "James Finlayson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0335046/",
+            "name": "Dorothy Granger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0790596/",
+            "name": "John Sheehan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0172559/",
+            "name": "Monte Collins",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0789963/",
+            "name": "Sandra Shaw",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0930239/",
+            "name": "Charles Williams",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0175410/",
+            "name": "Frank O'Connor",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmYyNTY4YTgtYTk1MS00NmQ0LThmNzMtMWNiYzk4OGRmYzFmXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/7Ijxkcgwt8S5t3uypYUaTpxo4ra.jpg",
     "details": {
+        "Stars": [
+            "Bobby Clark",
+            "Paul McCullough",
+            "James Finlayson"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Ben Holmes",
+            "John Grey",
+            "Bobby Clark"
+        ],
+        "Runtime": [
+            "20 min"
+        ],
+        "Director": [
+            "Mark Sandrich"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "June 23, 1933 (United States)"
+            "1933-06-22"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "RKO Studios - 780 N. Gower Street, Hollywood, Los Angeles, California, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "RKO Radio Pictures"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0391750/",
-            "name": "Ben Holmes"
+            "name": "Ben Holmes",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0340599/",
-            "name": "John Grey"
+            "name": "John Grey",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0163714/",
-            "name": "Bobby Clark"
+            "name": "Bobby Clark",
+            "@type": "Person"
         }
     ],
     "duration": "PT20M",
-    "keywords": [
-        "pre code film",
-        "mustached man posing as a woman",
-        "hotel clerk",
-        "convention",
-        "double feature film"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0762263/",
-            "name": "Mark Sandrich"
+            "name": "Mark Sandrich",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0024051/",
     "metascore": null,
-    "imdb_votes": 53,
+    "imdb_votes": 62,
     "popularity": 0,
-    "description": "Clark &amp; McCullough, as Hives and Blodgett, are campaign managers for political candidate Oliver Beezley. They plan to defeat Beezley&apos;s political rival, Commodore Amos Pipp (James Finlayson), by exploiting his weakness for women. B...",
-    "imdb_rating": "5.8/10 from 53 users",
-    "release_date": [],
-    "contentRating": "Passed",
-    "datePublished": "1933-06-23",
-    "imdb_rating_average": 5.8,
-    "update_at": "2026-03-24T20:21:25"
+    "description": "This short features two women who run around in their nighties. Paul McCullough spends most of the picture in a dress, and Bobby Clark does an extended riff on the word \"Alright!\" which Lou Costello later stole verbatim. There is a political frameup, a nearsighted hotel house detective, and the ever-popular upstairs motorcycle chase.",
+    "imdb_rating": "5.9/10 from 62 users",
+    "release_date": [
+        {
+            "date": "1933-06-22",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1933-06-22",
+    "original_title": "The Gay Nighties",
+    "imdb_rating_average": 5.9,
+    "update_at": "2026-11-14T04:49:13"
 }

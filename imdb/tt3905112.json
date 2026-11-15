@@ -3,60 +3,101 @@
     "sid": "tt3905112",
     "name": "Cloro",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2014",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Drama",
-        "Family"
+        "Family",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm5627335/",
-            "name": "Ana Vitoria Bastos"
+            "name": "Ana Vitoria Bastos",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0083531/",
-            "name": "Roberto Birindelli"
+            "name": "Roberto Birindelli",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2533285/",
-            "name": "Daniela Galli"
+            "name": "Daniela Galli",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11979409/",
+            "name": "Flavio Mariano",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11979411/",
+            "name": "Matheo Marra",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11979408/",
+            "name": "Beatriz Nunes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11979410/",
+            "name": "Miriam Padilha",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTdhMDczZGYtYWU3ZS00ZmNlLTgwYTEtNDM5MzU0NDY1NjBlXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/8OophtarMke02hweHMFRAqqRIc6.jpg",
     "details": {
+        "Stars": [
+            "Ana Vitoria Bastos",
+            "Roberto Birindelli",
+            "Daniela Galli"
+        ],
+        "Genres": [
+            "Drama",
+            "Family",
+            "Short"
+        ],
+        "Writer": [
+            "Marcelo Grabowsky"
+        ],
+        "Runtime": [
+            "18 min"
+        ],
+        "Director": [
+            "Marcelo Grabowsky"
+        ],
         "Language": [
             "Portuguese"
         ],
         "Release date": [
-            "July 2014 (Portugal)"
-        ],
-        "Also known as": [
-            "Chlorine"
+            "2014-07-01"
         ],
         "Country of origin": [
             "Brazil"
         ],
-        "Production company": [
+        "Production companies": [
             "Mirada Filmes"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3682740/",
-            "name": "Marcelo Grabowsky"
+            "name": "Marcelo Grabowsky",
+            "@type": "Person"
         }
     ],
     "duration": "PT18M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3682740/",
-            "name": "Marcelo Grabowsky"
+            "name": "Marcelo Grabowsky",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt3905112/",
@@ -65,9 +106,15 @@
     "popularity": 0,
     "description": "Under the blinding sun Clara struggles to see her family and the reality that surrounds her.",
     "imdb_rating": "6.5/10 from 21 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2014-07-01",
+            "country": "Portugal"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2014-07-01",
+    "original_title": "Cloro",
     "imdb_rating_average": 6.5,
-    "update_at": "2025-07-12T12:39:33"
+    "update_at": "2026-11-14T04:35:06"
 }

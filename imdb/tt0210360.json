@@ -4,73 +4,90 @@
     "name": "Tipota",
     "site": "imdb",
     "year": "1999",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0072768/",
-            "name": "Fabrizio Bentivoglio"
+            "name": "Fabrizio Bentivoglio",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1508557/",
-            "name": "Stefania Celato"
+            "name": "Stefania Celato",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000420/",
-            "name": "Valeria Golino"
+            "name": "Valeria Golino",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0785841/",
+            "name": "Peppe Servillo",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Italian"
+        "Stars": [
+            "Fabrizio Bentivoglio",
+            "Stefania Celato",
+            "Valeria Golino"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Fabrizio Bentivoglio",
+            "Peppe Servillo"
+        ],
+        "Runtime": [
+            "31 min"
+        ],
+        "Director": [
+            "Fabrizio Bentivoglio"
         ],
         "Release date": [
-            "October 8, 1999 (Italy)"
-        ],
-        "Country of origin": [
-            "Italy"
-        ],
-        "Filming locations": [
-            "Amelia, Terni, Umbria, Italy"
-        ],
-        "Production company": [
-            "Tipota Movie Company"
+            "1999"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0072768/",
-            "name": "Fabrizio Bentivoglio"
+            "name": "Fabrizio Bentivoglio",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0785841/",
-            "name": "Peppe Servillo"
+            "name": "Peppe Servillo",
+            "@type": "Person"
         }
     ],
     "duration": "PT31M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0072768/",
-            "name": "Fabrizio Bentivoglio"
+            "name": "Fabrizio Bentivoglio",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0210360/",
     "metascore": null,
-    "imdb_votes": 75,
+    "imdb_votes": 59,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "5.5/10 from 75 users",
+    "imdb_rating": "5.6/10 from 59 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1999-10-08",
-    "imdb_rating_average": 5.5,
-    "update_at": "2025-06-16T08:52:05"
+    "datePublished": "1999",
+    "original_title": "Tipota",
+    "imdb_rating_average": 5.6,
+    "update_at": "2026-11-14T04:00:40"
 }

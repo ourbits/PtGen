@@ -4,44 +4,129 @@
     "name": "Unser Kind",
     "site": "imdb",
     "year": "2018",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDQ5Yzc0YTUtOGMxMS00MzdjLTk5MWYtODM1MjUyNTNkNzI3XkEyXkFqcGc@._V1_.jpg",
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm1632961/",
+            "name": "Susanne Wolff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2320246/",
+            "name": "Britta Hammelstein",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2435705/",
+            "name": "Andreas Döhler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2270574/",
+            "name": "Lisa Wagner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0871219/",
+            "name": "Victoria Trauttmansdorff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0836729/",
+            "name": "Ernst Stötzner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2420049/",
+            "name": "Franziska Junge",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7875096/",
+            "name": "Nicole Johannhanwahr",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0269831/",
+            "name": "Paul Faßnacht",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2452983/",
+            "name": "Torben Kessler",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/gNOTYCkRcDu8nAruLa7c81ysm1R.jpg",
     "details": {
+        "Stars": [
+            "Susanne Wolff",
+            "Britta Hammelstein",
+            "Andreas Döhler"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Kristl Philippi"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Nana Neul"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "October 8, 2018 (Germany)"
+            "2018-06-29"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Filming locations": [
-            "Cologne, North Rhine-Westphalia, Germany"
-        ],
-        "Production company": [
-            "Heimatfilm"
+        "Production companies": [
+            "Heimatfilm",
+            "WDR"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm3510270/",
+            "name": "Kristl Philippi",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT1H30M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm1506642/",
+            "name": "Nana Neul",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt7477236/",
     "metascore": null,
     "imdb_votes": 50,
     "popularity": 0,
-    "description": "Shortly after Katharina has given birth to little Franz after fertilization, she dies in a car accident. Her wife Ellen as the boy&apos;s guardian, has custody but is not allowed to adopt him - unlike in a heterosexual marriage. Sudden...",
-    "imdb_rating": "5.9/10 from 50 users",
-    "release_date": [],
+    "description": "Katharina became a mother after an artificial insemination when she died in a traffic accident. Although her wife Ellen is the guardian of little Franz, she has custody - unlike in heterosexual marriages - without adoption but not. And not only the biological father of the child, also the parents of the deceased Katharina make claims.",
+    "imdb_rating": "5.7/10 from 50 users",
+    "release_date": [
+        {
+            "date": "2018-06-29",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2018-10-08",
-    "imdb_rating_average": 5.9,
-    "update_at": "2025-11-26T01:00:19"
+    "datePublished": "2018-06-29",
+    "original_title": "Unser Kind",
+    "imdb_rating_average": 5.7,
+    "update_at": "2026-11-14T14:42:25"
 }

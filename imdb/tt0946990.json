@@ -4,7 +4,7 @@
     "name": "The Confession",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Comedy",
         "Crime",
@@ -13,74 +13,101 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0046539/",
-            "name": "Jason Bagby"
+            "name": "Jason Bagby",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0059863/",
-            "name": "Joe Basile"
+            "name": "Joe Basile",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0004803/",
-            "name": "Amie Carey"
+            "name": "Amie Carey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1307886/",
+            "name": "Deborah Dir",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0655134/",
+            "name": "Jason Pace",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0855843/",
+            "name": "Jessy Terrero",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4MDYwNDg2M15BMl5BanBnXkFtZTcwMTQ2MDI0MQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Jason Bagby",
+            "Joe Basile",
+            "Amie Carey"
+        ],
+        "Genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "David Kebo",
+            "Rudi Liden"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "David Kebo",
+            "Rudi Liden"
         ],
         "Release date": [
-            "November 23, 2006 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Los Angeles, California, USA"
-        ],
-        "Production company": [
-            "Film School in a Box"
+            "2006"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1543879/",
-            "name": "David Kebo"
+            "name": "David Kebo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1540112/",
-            "name": "Rudi Liden"
+            "name": "Rudi Liden",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        "remix",
-        "interactive",
-        "surveillance",
-        "hidden camera",
-        "gangster"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1543879/",
-            "name": "David Kebo"
+            "name": "David Kebo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1540112/",
-            "name": "Rudi Liden"
+            "name": "Rudi Liden",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0946990/",
     "metascore": null,
-    "imdb_votes": 192,
+    "imdb_votes": 187,
     "popularity": 0,
-    "description": "Five people, invited to a party with no host, at a home with no residents, discover that they are connected by the murder of their mutual friend, Julie Vander. When their mysterious host arrives, he is revealed to be Julie&apos;s ex-bo...",
-    "imdb_rating": "6.1/10 from 192 users",
+    "description": null,
+    "imdb_rating": "6.0/10 from 187 users",
     "release_date": [],
-    "contentRating": "M",
-    "datePublished": "2006-11-23",
-    "imdb_rating_average": 6.1,
-    "update_at": "2025-04-03T07:00:35"
+    "contentRating": null,
+    "datePublished": "2006",
+    "original_title": "The Confession",
+    "imdb_rating_average": 6.0,
+    "update_at": "2026-11-14T06:07:06"
 }

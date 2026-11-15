@@ -4,79 +4,165 @@
     "name": "Heart Shot",
     "site": "imdb",
     "year": "2022",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Action",
-        "Romance"
+        "Romance",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm8861019/",
-            "name": "Elena Heuzé"
+            "name": "Elena Heuzé",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm13319045/",
-            "name": "Nia Sondaya"
+            "name": "Nia Sondaya",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm7480294/",
-            "name": "Bethany Michelle Curry"
+            "name": "Bethany Michelle Curry",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2788785/",
+            "name": "Hilary Ward",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0365855/",
+            "name": "Ryan Harrison",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0241033/",
+            "name": "Zack Duhame",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0241033/",
+            "name": "Zack Duhame",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5340002/",
+            "name": "Khalid Ghajji",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6832054/",
+            "name": "Josh Fried",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2326268/",
+            "name": "Chad Guerrero",
+            "@type": "Person"
         }
     ],
-    "critic": 5,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDhmMmY4MzgtMzdmMS00YzVhLTlmNGQtZDJlZjc5MDEwNjU0XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/ubaCN0FjWhxiu1uHhI9oXSgalVK.jpg",
     "details": {
+        "Stars": [
+            "Elena Heuzé",
+            "Nia Sondaya",
+            "Bethany Michelle Curry"
+        ],
+        "Genres": [
+            "Action",
+            "Romance",
+            "Short"
+        ],
+        "Writer": [
+            "Wilder L. Ludwig",
+            "Marielle Woods"
+        ],
+        "Runtime": [
+            "19 min"
+        ],
+        "Director": [
+            "Marielle Woods"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "February 17, 2022 (United States)"
-        ],
-        "Also known as": [
-            "قلب جريح"
+            "2022-02-17"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Story Ink"
+            "United States of America"
         ]
     },
-    "reviews": 19,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3838414/",
-            "name": "Lauren Ludwig"
+            "name": "Wilder L. Ludwig",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2699367/",
-            "name": "Marielle Woods"
+            "name": "Marielle Woods",
+            "@type": "Person"
         }
     ],
     "duration": "PT19M",
     "keywords": [
-        "lesbian",
-        "lesbian character",
-        "lesbian protagonist",
-        "female female kiss",
-        "lesbian interest"
+        "lgbt"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2699367/",
-            "name": "Marielle Woods"
+            "name": "Marielle Woods",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt17162546/",
     "metascore": null,
-    "imdb_votes": 1133,
+    "imdb_votes": 1265,
     "popularity": 0,
-    "description": "In this short film, teenagers Nikki and Sam are in love and planning their future together- until Nikki&apos;s dangerous past returns to threaten everything.",
-    "imdb_rating": "4.9/10 from 1133 users",
-    "release_date": [],
-    "contentRating": "TV-14",
+    "description": "Teenagers Nikki and Sam are in love and planning their future together — until Nikki's dangerous past returns to threaten everything.",
+    "imdb_rating": "5.0/10 from 1265 users",
+    "release_date": [
+        {
+            "date": "2022-02-17",
+            "country": "Brazil"
+        },
+        {
+            "date": "2022-02-17",
+            "country": "Germany"
+        },
+        {
+            "date": "2022-02-17",
+            "country": "France"
+        },
+        {
+            "date": "2022-02-17",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "2022-02-17",
+            "country": "Poland"
+        },
+        {
+            "date": "2022-02-17",
+            "country": "Romania"
+        },
+        {
+            "date": "2022-02-17",
+            "country": "Singapore"
+        },
+        {
+            "date": "2022-02-17",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "PG-13",
     "datePublished": "2022-02-17",
-    "imdb_rating_average": 4.9,
-    "update_at": "2025-07-18T21:21:11"
+    "original_title": "Heart Shot",
+    "imdb_rating_average": 5.0,
+    "update_at": "2026-11-14T02:56:15"
 }

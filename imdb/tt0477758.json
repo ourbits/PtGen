@@ -3,51 +3,62 @@
     "sid": "tt0477758",
     "name": "Leptir",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2003",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2031071/",
-            "name": "Berislav Mudrovcic"
+            "name": "Berislav Mudrovcic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1380606/",
-            "name": "Kristina Krepela"
+            "name": "Kristina Krepela",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Serbo-Croatian"
+        "Stars": [
+            "Berislav Mudrovcic",
+            "Kristina Krepela"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Goran Legovic"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Goran Legovic"
         ],
         "Release date": [
-            "January 2003 (Croatia)"
-        ],
-        "Country of origin": [
-            "Croatia"
-        ],
-        "Production company": [
-            "Jadran Film"
+            "2003"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1098201/",
-            "name": "Goran Legovic"
+            "name": "Goran Legovic",
+            "@type": "Person"
         }
     ],
     "duration": "PT15M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1098201/",
-            "name": "Goran Legovic"
+            "name": "Goran Legovic",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0477758/",
@@ -58,7 +69,8 @@
     "imdb_rating": "7.4/10 from 18 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2003",
+    "original_title": "Leptir",
     "imdb_rating_average": 7.4,
-    "update_at": "2025-05-27T06:09:28"
+    "update_at": "2026-11-14T13:42:46"
 }

@@ -4,68 +4,81 @@
     "name": "Uit Zicht",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1775690/",
-            "name": "Danny de Jong"
+            "name": "Danny de Jong",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4331174/",
-            "name": "Jette Carolijn van de Berg"
+            "name": "Jette Carolijn van de Berg",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDJjNzRlMzMtMTMwOC00YzlmLWE1ODItNWEyYmUxMmQzMGEwXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Languages": [
-            "Dutch",
-            "Polish"
+        "Stars": [
+            "Danny de Jong",
+            "Jette Carolijn van de Berg"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Krzysztof Kieślowski",
+            "Kris Patmo",
+            "Rosanne Pel"
+        ],
+        "Runtime": [
+            "20 min"
+        ],
+        "Director": [
+            "Kris Patmo",
+            "Rosanne Pel"
         ],
         "Release date": [
-            "January 31, 2009 (Netherlands)"
-        ],
-        "Country of origin": [
-            "Netherlands"
-        ],
-        "Filming locations": [
-            "IJmuiden, Noord-Holland, Netherlands"
-        ],
-        "Production company": [
-            "Utrecht School of the Arts"
+            "2009"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0001425/",
-            "name": "Krzysztof Kieslowski"
+            "name": "Krzysztof Kieślowski",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5048164/",
-            "name": "Kris Patmo"
+            "name": "Kris Patmo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4274262/",
-            "name": "Rosanne Pel"
+            "name": "Rosanne Pel",
+            "@type": "Person"
         }
     ],
     "duration": "PT20M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm5048164/",
-            "name": "Kris Patmo"
+            "name": "Kris Patmo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4274262/",
-            "name": "Rosanne Pel"
+            "name": "Rosanne Pel",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2398255/",
@@ -76,7 +89,8 @@
     "imdb_rating": "5.2/10 from 8 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2009-01-31",
+    "datePublished": "2009",
+    "original_title": "Uit Zicht",
     "imdb_rating_average": 5.2,
-    "update_at": "2026-03-16T12:35:57"
+    "update_at": "2026-11-14T04:35:06"
 }

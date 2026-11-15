@@ -4,7 +4,7 @@
     "name": "The Long Strike",
     "site": "imdb",
     "year": "1911",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Drama",
         "Short"
@@ -12,49 +12,57 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0124279/",
-            "name": "Francis X. Bushman"
+            "name": "Francis X. Bushman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0913341/",
-            "name": "Bryant Washburn"
+            "name": "Bryant Washburn",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0143655/",
-            "name": "Harry Cashman"
+            "name": "Harry Cashman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0794347/",
+            "name": "Tom Shirley",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Stars": [
+            "Francis X. Bushman",
+            "Bryant Washburn",
+            "Harry Cashman"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
         ],
         "Release date": [
-            "December 7, 1911 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "The Essanay Film Manufacturing Company"
+            "1911"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt0234129/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "The boss&apos;s son takes over the business but can&apos;t prevent a strike, which turns violent. The daughter of a striker saves him from the violence and helps bring about a solution.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1911-12-07",
+    "datePublished": "1911",
+    "original_title": "The Long Strike",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-26T03:56:31"
+    "update_at": "2026-11-14T11:21:06"
 }

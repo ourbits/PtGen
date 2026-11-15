@@ -4,7 +4,7 @@
     "name": "Fifi Blows Her Top",
     "site": "imdb",
     "year": "1958",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Comedy",
         "Short"
@@ -12,66 +12,114 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0002935/",
-            "name": "Moe Howard"
+            "name": "Moe Howard",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0004310/",
-            "name": "Larry Fine"
+            "name": "Larry Fine",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0078798/",
-            "name": "Joe Besser"
+            "name": "Joe Besser",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0243401/",
+            "name": "Wanda Ottoni",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0888349/",
+            "name": "Philip Van Zandt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0850501/",
+            "name": "Harriette Tarler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0174692/",
+            "name": "Heinie Conklin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0599166/",
+            "name": "Marie Monteil",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0658012/",
+            "name": "Joe Palma",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjdlMjUyOTUtYzExOS00ZjJkLTgzYTYtMzc5ZmQzODU0MDcxXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/2UWcr8FZaofbbD7HeTHlZopNJTN.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Moe Howard",
+            "Larry Fine",
+            "Joe Besser"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Felix Adler"
+        ],
+        "Runtime": [
+            "17 min"
+        ],
+        "Director": [
+            "Jules White"
         ],
         "Release date": [
-            "April 10, 1958 (United States)"
-        ],
-        "Also known as": [
-            "Rancid Romance"
+            "1958-04-10"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Columbia Pictures"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": "Joe frets about his long-lost love Fifi, and the Boys reminisce about long-lost loves.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0012148/",
-            "name": "Felix Adler"
+            "name": "Felix Adler",
+            "@type": "Person"
         }
     ],
     "duration": "PT17M",
-    "keywords": [
-        "slapstick comedy",
-        "slapstick",
-        "stock footage",
-        "archive footage",
-        "greasy spoon cafe"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0925028/",
-            "name": "Jules White"
+            "name": "Jules White",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0051614/",
     "metascore": null,
-    "imdb_votes": 281,
+    "imdb_votes": 296,
     "popularity": 0,
-    "description": "The stooges reminisce about their wartime romances in Europe. After they finish their tales, they discover that Joe&apos;s girl Fifi, whom he left behind in Paris, has moved in next door. The only problem is that she&apos;s now married, wit...",
-    "imdb_rating": "6.1/10 from 281 users",
-    "release_date": [],
-    "contentRating": "Approved",
+    "description": "The stooges reminisce about their wartime romances in Europe. After they finish their tales, they discover that Joe's girl Fifi, whom he left behind in Paris, has moved in next door. The only problem is that she's now married, with a very jealous husband. The husband turns out to be a real cad, and when Fifi overhears him tell about his plans to find a new wife, she clobbers him and goes back to Joe.",
+    "imdb_rating": "6.1/10 from 296 users",
+    "release_date": [
+        {
+            "date": "1958-04-10",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1958-04-10",
+    "original_title": "Fifi Blows Her Top",
     "imdb_rating_average": 6.1,
-    "update_at": "2025-02-08T17:35:23"
+    "update_at": "2026-11-14T11:49:06"
 }

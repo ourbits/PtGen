@@ -4,67 +4,127 @@
     "name": "Paranoia",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3517455/",
-            "name": "Jack Bohr-Christensen"
+            "name": "Jack Bohr-Christensen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3515288/",
-            "name": "Reza Etanadi"
+            "name": "Reza Etanadi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3518639/",
-            "name": "June Karina Forup"
+            "name": "June Karina Forup",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3177919/",
+            "name": "Lars Huniche",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3515420/",
+            "name": "Firak Kara",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3516953/",
+            "name": "Bent Larsen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0513614/",
+            "name": "Lars Lippert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3515906/",
+            "name": "Samir Mahyo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3519650/",
+            "name": "Mats Mouritsen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1928999/",
+            "name": "Torben Randrup",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/bXpGXvCvdTSPuHIBHXcBuCsL4jl.jpg",
     "details": {
+        "Stars": [
+            "Jack Bohr-Christensen",
+            "Reza Etanadi",
+            "June Karina Forup"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Jesper Troelstrup"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Jesper Troelstrup"
+        ],
         "Language": [
             "Danish"
         ],
         "Release date": [
-            "February 4, 2007 (Denmark)"
+            "2007-02-04"
         ],
         "Country of origin": [
             "Denmark"
-        ],
-        "Production company": [
-            "Cph film"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0873298/",
-            "name": "Jesper Troelstrup"
+            "name": "Jesper Troelstrup",
+            "@type": "Person"
         }
     ],
     "duration": "PT15M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0873298/",
-            "name": "Jesper Troelstrup"
+            "name": "Jesper Troelstrup",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1461688/",
     "metascore": null,
     "imdb_votes": 7,
     "popularity": 0,
-    "description": "In an apartment in Copenhagen a young Arabic man is placing an object that appears to be a bomb in a backpack. Meanwhile he listens to the radio news telling of the latest development in the cartoon crisis. Has this young man had ...",
+    "description": "In an apartment in Copenhagen a young Arabic man is placing an object that appears to be a bomb in a backpack. Meanwhile he listens to the radio news telling of the latest development in the cartoon crisis. Has this young man had enough of Danish intolerance and hostility. Will he go to the extreme and do the thing we've all feared?",
     "imdb_rating": "6.7/10 from 7 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2007-02-04",
+            "country": "Denmark"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2007-02-04",
+    "original_title": "Paranoia",
     "imdb_rating_average": 6.7,
-    "update_at": "2025-08-09T13:39:16"
+    "update_at": "2026-11-14T14:35:27"
 }

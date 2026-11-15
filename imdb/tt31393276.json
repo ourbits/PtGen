@@ -4,65 +4,133 @@
     "name": "Questi fantasmi!",
     "site": "imdb",
     "year": "2024",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [
+        "Comedy",
+        "TV Movie"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2691468/",
-            "name": "Massimiliano Gallo"
+            "name": "Massimiliano Gallo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2063290/",
-            "name": "Anna Foglietta"
+            "name": "Anna Foglietta",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm8078476/",
-            "name": "Alessio Lapice"
+            "name": "Alessio Lapice",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0142766/",
+            "name": "Maurizio Casagrande",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0554213/",
+            "name": "Gea Martire",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10866045/",
+            "name": "Viviana Cangiano",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1045921/",
+            "name": "Tony Laudadio",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0784842/",
+            "name": "Lello Serao",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm13090515/",
+            "name": "Vincenzo Castellone",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0726764/",
+            "name": "Mariano Rigillo",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTI5NDk0MGQtYzUyMC00ZDgwLTg1NGQtYjAzZDdjMDNhMDc2XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/3u2XMsXwXds5t10ALAF66zp0gVb.jpg",
     "details": {
+        "Stars": [
+            "Massimiliano Gallo",
+            "Anna Foglietta",
+            "Alessio Lapice"
+        ],
+        "Genres": [
+            "Comedy",
+            "TV Movie"
+        ],
+        "Writer": [
+            "Massimo Gaudioso",
+            "Filippo Gili"
+        ],
+        "Director": [
+            "Alessandro Gassmann"
+        ],
+        "Language": [
+            "Italian"
+        ],
         "Release date": [
-            "December 30, 2024 (Italy)"
+            "2024-12-30"
         ],
         "Country of origin": [
             "Italy"
         ],
-        "Production company": [
+        "Production companies": [
             "Picomedia"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0309979/",
-            "name": "Massimo Gaudioso"
+            "name": "Massimo Gaudioso",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1683669/",
-            "name": "Filippo Gili"
+            "name": "Filippo Gili",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0309348/",
-            "name": "Alessandro Gassmann"
+            "name": "Alessandro Gassmann",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt31393276/",
     "metascore": null,
-    "imdb_votes": 38,
+    "imdb_votes": 46,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7/10 from 38 users",
-    "release_date": [],
+    "description": "Pasquale Lojacono moves into a large flat with his wife Maria following a special agreement with the owner: in exchange for free accommodation, Pasquale must dispel rumours that the house is haunted by ghosts. The protagonist begins to receive regular sums of money from spirits who, according to him, are particularly generous and supportive towards him. As time goes by, however, it turns out that the source of his fortune is a ghost who, having become Maria's lover, wants to silence him and plan an escape with her. Added to this unusual love triangle are the doorman, his sister and the lover's family, each of whom, in their own way, exploits the rumours of ghosts for their own gain under the gaze of Professor Santanna, who observes and comments on the inexplicable events with Pasquale from the window of the flat opposite.",
+    "imdb_rating": "7.1/10 from 46 users",
+    "release_date": [
+        {
+            "date": "2024-12-30",
+            "country": "Italy"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2024-12-30",
-    "imdb_rating_average": 7,
-    "update_at": "2025-06-19T05:15:39"
+    "original_title": "Questi fantasmi!",
+    "imdb_rating_average": 7.1,
+    "update_at": "2026-11-14T07:07:53"
 }

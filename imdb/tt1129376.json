@@ -4,56 +4,63 @@
     "name": "El hoppo!",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2811453/",
-            "name": "Alejandro Carmona"
+            "name": "Alejandro Carmona",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2398845/",
-            "name": "Roland Quesnel"
+            "name": "Roland Quesnel",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Spanish"
+        "Stars": [
+            "Alejandro Carmona",
+            "Roland Quesnel"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Marcus Shepherd"
+        ],
+        "Runtime": [
+            "6 min"
+        ],
+        "Director": [
+            "Marcus Shepherd"
         ],
         "Release date": [
-            "October 24, 2007 (United Kingdom)"
-        ],
-        "Country of origin": [
-            "Spain"
-        ],
-        "Filming locations": [
-            "El Berrueco, Spain"
-        ],
-        "Production companies": [
-            "Dan Films",
-            "Intrepido"
+            "2007"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2385595/",
-            "name": "Marcus Shepherd"
+            "name": "Marcus Shepherd",
+            "@type": "Person"
         }
     ],
     "duration": "PT6M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2385595/",
-            "name": "Marcus Shepherd"
+            "name": "Marcus Shepherd",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1129376/",
@@ -61,10 +68,11 @@
     "imdb_votes": 6,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "8/10 from 6 users",
+    "imdb_rating": "8.0/10 from 6 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2007-10-24",
-    "imdb_rating_average": 8,
-    "update_at": "2025-09-06T11:56:04"
+    "datePublished": "2007",
+    "original_title": "El hoppo!",
+    "imdb_rating_average": 8.0,
+    "update_at": "2026-11-14T05:57:22"
 }

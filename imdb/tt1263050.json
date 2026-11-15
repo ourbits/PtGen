@@ -4,66 +4,84 @@
     "name": "Y todo va bien",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1699333/",
-            "name": "Ruth Díaz"
+            "name": "Ruth Díaz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0130429/",
-            "name": "Luis Callejo"
+            "name": "Luis Callejo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1476774/",
-            "name": "Antonio Muñoz de Mesa"
+            "name": "Antonio Muñoz de Mesa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0616299/",
+            "name": "Mauro Muñiz",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGMyMTlhYmUtZDFkOC00ZjQ1LWExYWYtOTUwOGVkYzA3NDZiXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "Spanish"
+        "Stars": [
+            "Ruth Díaz",
+            "Luis Callejo",
+            "Antonio Muñoz de Mesa"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Guillermo Zapata"
+        ],
+        "Runtime": [
+            "16 min"
+        ],
+        "Director": [
+            "Guillermo Zapata"
         ],
         "Release date": [
-            "June 26, 2008 (Spain)"
-        ],
-        "Country of origin": [
-            "Spain"
-        ],
-        "Production company": [
-            "Prosopopeya Producciones S.L."
+            "2008"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2008051/",
-            "name": "Guillermo Zapata"
+            "name": "Guillermo Zapata",
+            "@type": "Person"
         }
     ],
     "duration": "PT16M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2008051/",
-            "name": "Guillermo Zapata"
+            "name": "Guillermo Zapata",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1263050/",
     "metascore": null,
     "imdb_votes": 8,
     "popularity": 0,
-    "description": "Two people meet online and develop a sexual chemistry across the internet. They decide to meet in person, to see whether the attraction translates to the real world, which each has been finding increasingly banal.",
+    "description": null,
     "imdb_rating": "5.2/10 from 8 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2008-06-26",
+    "datePublished": "2008",
+    "original_title": "Y todo va bien",
     "imdb_rating_average": 5.2,
-    "update_at": "2025-08-26T06:07:36"
+    "update_at": "2026-11-14T03:07:38"
 }
