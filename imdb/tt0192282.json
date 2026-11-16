@@ -5,32 +5,68 @@
     "site": "imdb",
     "year": "1949",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Drama"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm1908630/",
+            "name": "Wood-Yau Cheung",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0628736/",
+            "name": "Cho-Fan Ng",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0939233/",
+            "name": "Man-Lei Wong",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0154253/",
+            "name": "Chau-Shui Yee",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Cantonese"
+        "Stars": [
+            "Wood-Yau Cheung",
+            "Cho-Fan Ng",
+            "Man-Lei Wong"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Kim Chun"
+        ],
+        "Director": [
+            "Kim Chun"
         ],
         "Release date": [
-            "May 19, 1949 (Hong Kong)"
-        ],
-        "Also known as": [
-            "For My Country"
-        ],
-        "Country of origin": [
-            "Hong Kong"
+            "1949"
         ]
     },
     "reviews": 0,
-    "duration": null,
-    "keywords": [
-        ""
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0161140/",
+            "name": "Kim Chun",
+            "@type": "Person"
+        }
     ],
+    "duration": null,
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0161140/",
-            "name": "Kim Chun"
+            "name": "Kim Chun",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0192282/",
@@ -41,7 +77,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1949-05-19",
+    "datePublished": "1949",
+    "original_title": "Man jiang hong",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-16T18:11:50"
+    "update_at": "2026-11-15T13:49:24"
 }

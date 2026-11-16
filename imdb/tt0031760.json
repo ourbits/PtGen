@@ -1,10 +1,10 @@
 {
     "aka": [],
     "sid": "tt0031760",
-    "name": "One Mother&apos;s Family",
+    "name": "One Mother's Family",
     "site": "imdb",
     "year": "1939",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Animation",
         "Comedy",
@@ -13,67 +13,98 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0201428/",
-            "name": "Marion Darlington"
+            "name": "Marion Darlington",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0515968/",
-            "name": "Dorothy Lloyd"
+            "name": "Dorothy Lloyd",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0898628/",
-            "name": "Elmore Vincent"
+            "name": "Elmore Vincent",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzRlNmYzOGMtYWQzMS00MGYzLThhMTEtMjc1M2ViZTFiMjI5XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": null,
     "details": {
+        "Stars": [
+            "Marion Darlington",
+            "Dorothy Lloyd",
+            "Elmore Vincent"
+        ],
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "Writer": [
+            "Ray Kelly"
+        ],
+        "Runtime": [
+            "9 min"
+        ],
+        "Director": [
+            "Rudolf Ising"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "September 30, 1939 (United States)"
-        ],
-        "Also known as": [
-            "Mother Hen"
+            "1939-09-30"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
-            "Loew's",
-            "Metro-Goldwyn-Mayer Cartoon Studios"
+            "Rudolf Ising Productions",
+            "MGM Cartoon Studio"
         ]
     },
-    "reviews": 5,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0446808/",
-            "name": "Ray Kelly"
+            "name": "Ray Kelly",
+            "@type": "Person"
         }
     ],
     "duration": "PT9M",
     "keywords": [
-        "chick",
-        "cartoon",
-        "goose",
-        "fall in water",
-        "worm"
+        "hawk",
+        "hen",
+        "cartoon chicken",
+        "cartoon skunk",
+        "baby bird",
+        "protective mother",
+        "stinky",
+        "cartoon insect"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0411208/",
-            "name": "Rudolf Ising"
+            "name": "Rudolf Ising",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0031760/",
     "metascore": null,
-    "imdb_votes": 174,
+    "imdb_votes": 171,
     "popularity": 0,
-    "description": "A mother hen is taking her brood for a walk near their farm. They encounter obstacles along the way, such as traffic. There&apos;s a runt of the litter, who has more trouble with these than the rest. Momma stalks an inchworm; she shush...",
-    "imdb_rating": "6.4/10 from 174 users",
-    "release_date": [],
-    "contentRating": "Passed",
+    "description": "A mother hen is taking her brood for a walk. They encounter obstacles along the way, such as traffic. There's one clumsy chick who repeatedly has more trouble than the rest.",
+    "imdb_rating": "6.4/10 from 171 users",
+    "release_date": [
+        {
+            "date": "1939-09-30",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1939-09-30",
+    "original_title": "One Mother's Family",
     "imdb_rating_average": 6.4,
-    "update_at": "2025-09-12T06:28:17"
+    "update_at": "2026-11-15T07:42:08"
 }

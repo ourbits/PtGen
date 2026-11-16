@@ -4,77 +4,97 @@
     "name": "Touch",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3162784/",
-            "name": "Stephen Bucheit"
+            "name": "Stephen Bucheit",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3162365/",
-            "name": "Royle Hatico"
+            "name": "Royle Hatico",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3162635/",
-            "name": "James Itokazu"
+            "name": "James Itokazu",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0645785/",
+            "name": "Yuji Okumoto",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3161641/",
+            "name": "Kiki Yeung",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3MjM3ODU2M15BMl5BanBnXkFtZTcwNTM4MzkyMg@@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Stephen Bucheit",
+            "Royle Hatico",
+            "James Itokazu"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Richard Cranor",
+            "Nhien Nguyen"
+        ],
+        "Runtime": [
+            "11 min"
+        ],
+        "Director": [
+            "Richard Cranor"
         ],
         "Release date": [
-            "January 10, 2008 (United States)"
-        ],
-        "Official site": [
-            "MySpace - http://www.myspace.com/touchthtemovie"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Seattle, Washington, USA"
-        ],
-        "Production company": [
-            "Wok N Roll Productions"
+            "2008"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1645772/",
-            "name": "Richard Cranor"
+            "name": "Richard Cranor",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1646344/",
-            "name": "Nhien Nguyen"
+            "name": "Nhien Nguyen",
+            "@type": "Person"
         }
     ],
     "duration": "PT11M",
-    "keywords": [
-        "mannequin comes to life"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1645772/",
-            "name": "Richard Cranor"
+            "name": "Richard Cranor",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1307011/",
     "metascore": null,
     "imdb_votes": 10,
     "popularity": 0,
-    "description": "A lonely immigrant woman spends her life sewing day after day, watching the world go by from the window of her small tailor shop. Longing for human interaction, she attempts to connect with the passersby, only to be met with rejec...",
-    "imdb_rating": "8/10 from 10 users",
+    "description": null,
+    "imdb_rating": "8.0/10 from 10 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2008-01-10",
-    "imdb_rating_average": 8,
-    "update_at": "2026-02-22T04:20:12"
+    "datePublished": "2008",
+    "original_title": "Touch",
+    "imdb_rating_average": 8.0,
+    "update_at": "2026-11-16T00:00:17"
 }

@@ -1,82 +1,103 @@
 {
     "aka": [],
     "sid": "tt4112000",
-    "name": "Juliet &amp; Romeo",
+    "name": "Juliet & Romeo",
     "site": "imdb",
     "year": "2015",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Drama",
-        "Romance"
+        "Romance",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2717314/",
-            "name": "Tucky Williams"
+            "name": "Tucky Williams",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3925887/",
-            "name": "Emily Fleischer"
+            "name": "Emily Fleischer",
+            "@type": "Person"
         }
     ],
-    "critic": 4,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjYwMzcwNjEzMl5BMl5BanBnXkFtZTgwNDcyNDEwMzE@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/oKkM6MOMqpVTrusPzdi5YzayBnD.jpg",
     "details": {
+        "Stars": [
+            "Tucky Williams",
+            "Emily Fleischer"
+        ],
+        "Genres": [
+            "Drama",
+            "Romance",
+            "Short"
+        ],
+        "Writer": [
+            "Arthur Brooke",
+            "William Painter",
+            "William Shakespeare"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Tucky Williams"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 5, 2015 (United States)"
-        ],
-        "Also known as": [
-            "Juliet and Romeo"
+            "2015-12-05"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Tucky Williams Motion Pictures"
+            "United States of America"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm10581811/",
-            "name": "Arthur Brooke"
+            "name": "Arthur Brooke",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm10581810/",
-            "name": "William Painter"
+            "name": "William Painter",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000636/",
-            "name": "William Shakespeare"
+            "name": "William Shakespeare",
+            "@type": "Person"
         }
     ],
     "duration": "PT15M",
-    "keywords": [
-        "lesbian",
-        "caucasian",
-        "bed",
-        "female female kiss",
-        "lesbianism"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2717314/",
-            "name": "Tucky Williams"
+            "name": "Tucky Williams",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt4112000/",
     "metascore": null,
-    "imdb_votes": 63,
+    "imdb_votes": 66,
     "popularity": 0,
-    "description": "The greatest love story of all time, retold with a lesbian twist.",
-    "imdb_rating": "7.1/10 from 63 users",
-    "release_date": [],
+    "description": "A brand new take on one of Shakespeare’s most famous tragedies.",
+    "imdb_rating": "6.8/10 from 66 users",
+    "release_date": [
+        {
+            "date": "2015-12-05",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2015-05-05",
-    "imdb_rating_average": 7.1,
-    "update_at": "2026-05-21T09:42:07"
+    "datePublished": "2015-12-05",
+    "original_title": "Juliet & Romeo",
+    "imdb_rating_average": 6.8,
+    "update_at": "2026-11-16T00:14:07"
 }

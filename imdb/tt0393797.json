@@ -4,75 +4,135 @@
     "name": "Sombrero blus",
     "site": "imdb",
     "year": "1999",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0691625/",
-            "name": "Petar Popyordanov"
+            "name": "Petar Popyordanov",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1013268/",
-            "name": "Valentin Tanev"
+            "name": "Valentin Tanev",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1106546/",
-            "name": "Emil Tonev"
+            "name": "Emil Tonev",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1135920/",
+            "name": "Dobrin Dosev",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1524117/",
+            "name": "Branimira Markova",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1526045/",
+            "name": "Bogomil Manov",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0442626/",
+            "name": "Maria Kavardjikova",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1283937/",
+            "name": "Blagoe Nikolich",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0228331/",
+            "name": "Radko Dishliev",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1011472/",
+            "name": "Malin Krastev",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWM1ZWEzMGUtMDM3ZS00MTYzLTgzNzAtMDYyZDUyZGFmZGMwXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Petar Popyordanov",
+            "Valentin Tanev",
+            "Emil Tonev"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Ilian Simeonov",
+            "Emil Tonev"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Ilian Simeonov"
+        ],
         "Language": [
             "Bulgarian"
         ],
         "Release date": [
-            "April 7, 1999 (Bulgaria)"
-        ],
-        "Also known as": [
-            "Sombrero Blues"
+            "1999-04-07"
         ],
         "Country of origin": [
             "Bulgaria"
         ],
         "Production companies": [
             "Bulgarian National Television",
-            "UVT-Soho",
             "UVT-Soho"
         ]
     },
     "reviews": 0,
+    "tagline": "Great company, music adventures, freedom on all counts. But what is freedom without responsibility...",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0799479/",
-            "name": "Ilian Simeonov"
+            "name": "Ilian Simeonov",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1106546/",
-            "name": "Emil Tonev"
+            "name": "Emil Tonev",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H",
-    "keywords": [
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0799479/",
-            "name": "Ilian Simeonov"
+            "name": "Ilian Simeonov",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0393797/",
     "metascore": null,
-    "imdb_votes": 13,
+    "imdb_votes": 15,
     "popularity": 0,
-    "description": "This is the story of three traveling rock musicians, for people in a forgotten roadside motel, for one gypsy and one sombrero.",
-    "imdb_rating": "7.4/10 from 13 users",
-    "release_date": [],
+    "description": "Rock musicians from Plovdiv arrive at a little village pub named \"Nirvana\" to perform. Pub visitors accept neither them, nor their music. Thrown out from their hotel, the rock musicians put up at Tosho the Gypsy's house, Tosho being somebody who searches for water with a dowsing rod. The guests befriend their host and even manage to find water in his well which he was unable to uncover. Tosho and one of the musicians are namesakes and his biggest regret is that he does not have a child of his own. As a party flares up in his poor home, Tosho rediscovers passion, but an unexpected event casts a gloom on the night.",
+    "imdb_rating": "7.2/10 from 15 users",
+    "release_date": [
+        {
+            "date": "1999-04-07",
+            "country": "Bulgaria"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1999-04-07",
-    "imdb_rating_average": 7.4,
-    "update_at": "2025-05-21T19:29:13"
+    "original_title": "Sombrero blus",
+    "imdb_rating_average": 7.2,
+    "update_at": "2026-11-15T12:28:25"
 }

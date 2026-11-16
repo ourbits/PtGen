@@ -4,77 +4,104 @@
     "name": "Madness",
     "site": "imdb",
     "year": "2018",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm9939075/",
-            "name": "Ernania Rainha"
+            "name": "Ernania Rainha",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5402419/",
-            "name": "Rosa Mario"
+            "name": "Rosa Mario",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5502528/",
-            "name": "Mamadu Baio"
+            "name": "Mamadu Baio",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDAyMDJmNWQtZWM5OC00NDU0LWIwOGUtMTllZDdkMWU4Y2EzXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/aEBmnxZoJT8kLy8AnQu2hxGcifa.jpg",
     "details": {
+        "Stars": [
+            "Ernania Rainha",
+            "Rosa Mario",
+            "Mamadu Baio"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "João Viana"
+        ],
+        "Runtime": [
+            "13 min"
+        ],
+        "Director": [
+            "João Viana"
+        ],
         "Language": [
             "Swahili"
         ],
         "Release date": [
-            "December 6, 2018 (Portugal)"
+            "2018-02-17"
         ],
-        "Also known as": [
-            "Our Madness"
-        ],
-        "Countries of origin": [
+        "Country of origin": [
             "France",
-            "Portugal",
-            "Mozambique",
             "Guinea-Bissau",
-            "Qatar",
-            "Guinea"
+            "Mozambique",
+            "Portugal",
+            "Qatar"
         ],
         "Production companies": [
-            "Les Films de l'Après-Midi",
             "Papaveronoir",
-            "Promarte"
+            "Les Films de l'Après-Midi"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2107670/",
-            "name": "João Viana"
+            "name": "João Viana",
+            "@type": "Person"
         }
     ],
     "duration": "PT13M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2107670/",
-            "name": "João Viana"
+            "name": "João Viana",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt6214042/",
     "metascore": null,
     "imdb_votes": 22,
     "popularity": 0,
-    "description": "Lucy, considered to be mad, has a son.",
+    "description": "Lucy, regarded as crazy, has a son.",
     "imdb_rating": "5.4/10 from 22 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2018-02-17",
+            "country": "Germany"
+        },
+        {
+            "date": "2018-07-20",
+            "country": "Portugal"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2018-12-06",
+    "datePublished": "2018-02-17",
+    "original_title": "Madness",
     "imdb_rating_average": 5.4,
-    "update_at": "2025-08-09T04:21:25"
+    "update_at": "2026-11-15T03:07:34"
 }

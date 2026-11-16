@@ -4,7 +4,7 @@
     "name": "The Colour Merchant",
     "site": "imdb",
     "year": "1998",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Documentary",
         "Short"
@@ -12,60 +12,98 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0002153/",
-            "name": "Jack Cardiff"
+            "name": "Jack Cardiff",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0178509/",
-            "name": "Robert Coote"
+            "name": "Robert Coote",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0330961/",
-            "name": "Marius Goring"
+            "name": "Marius Goring",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001375/",
+            "name": "Kim Hunter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0515193/",
+            "name": "Roger Livesey",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/4clcWzbl228trhmGjQvr8Da78Jr.jpg",
     "details": {
+        "Stars": [
+            "Jack Cardiff",
+            "Robert Coote",
+            "Marius Goring"
+        ],
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Writer": [
+            "Craig McCall"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "Craig McCall"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "September 14, 1998 (United Kingdom)"
+            "1998-09-14"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
         "Production companies": [
-            "Modus Operandi Films",
-            "Smoke and Mirrors Film Productions"
+            "Smoke & Mirrors Film Productions",
+            "Modus Operandi Films"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1862979/",
-            "name": "Craig McCall"
+            "name": "Craig McCall",
+            "@type": "Person"
         }
     ],
     "duration": "PT10M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1862979/",
-            "name": "Craig McCall"
+            "name": "Craig McCall",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0862667/",
     "metascore": null,
-    "imdb_votes": 23,
+    "imdb_votes": 28,
     "popularity": 0,
-    "description": "Cinematographer Jack Cardiff talks about his work on A Matter of Life and Death (1946).",
-    "imdb_rating": "6.4/10 from 23 users",
-    "release_date": [],
+    "description": "Short documentary about cinematographer Jack Cardiff.",
+    "imdb_rating": "6.7/10 from 28 users",
+    "release_date": [
+        {
+            "date": "1998-09-14",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1998-09-14",
-    "imdb_rating_average": 6.4,
-    "update_at": "2025-09-23T09:42:06"
+    "original_title": "The Colour Merchant",
+    "imdb_rating_average": 6.7,
+    "update_at": "2026-11-15T15:21:07"
 }

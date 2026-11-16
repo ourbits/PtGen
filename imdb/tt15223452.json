@@ -4,7 +4,7 @@
     "name": "TikTok",
     "site": "imdb",
     "year": "2021",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Documentary",
         "Short"
@@ -12,53 +12,73 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm9360076/",
-            "name": "Richard Cannon III"
+            "name": "Richard Cannon III",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm19098970/",
+            "name": "Oliver Dela Peña Jr.",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODA3ZDRjMDUtZTEzZi00ZTgxLTg5ZGQtY2JjN2NhOTlhMDAyXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/o0hxYVyiEGfPOnlSocKIE8Hpzgh.jpg",
     "details": {
+        "Stars": [
+            "Richard Cannon III",
+            "Oliver Dela Peña Jr."
+        ],
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Runtime": [
+            "43 min"
+        ],
+        "Director": [
+            "Avani Dias"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "July 26, 2021 (Australia)"
-        ],
-        "Also known as": [
-            "TikTok: O Aplicativo Mais Popular do Mundo"
-        ],
-        "Official sites": [
-            "Distributor webpage - https://www.journeyman.tv/film/8116/tiktok",
-            "how to Increase Tik Tok Followers ? - https://sites.google.com/view/ziyadatmotabinhakikiyin/get-1000-free-followers-tiktok"
+            "2021-07-26"
         ],
         "Country of origin": [
             "Australia"
         ],
-        "Production company": [
-            "Australian Broadcasting Corporation (ABC)"
+        "Production companies": [
+            "Australian Broadcasting Corporation",
+            "Journeyman Pictures"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT43M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm12757200/",
-            "name": "Avani Dias"
+            "name": "Avani Dias",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt15223452/",
     "metascore": null,
-    "imdb_votes": 140,
+    "imdb_votes": 146,
     "popularity": 0,
-    "description": "TikTok: it&apos;s the social media app which has come to define our perception of Gen Z, and which has firmly embedded itself within the covid-era zeitgeist. A phenomenally popular platform, more than a billion users scroll through its...",
-    "imdb_rating": "5.6/10 from 140 users",
-    "release_date": [],
+    "description": "TikTok: it's the social media app which has come to define our perception of Gen Z, and which has firmly embedded itself within the covid-era zeitgeist. A phenomenally popular platform, more than a billion users scroll through its endless feeds, and it's turned ordinary people into overnight internet stars.",
+    "imdb_rating": "5.6/10 from 146 users",
+    "release_date": [
+        {
+            "date": "2021-07-26",
+            "country": "Australia"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2021-07-26",
+    "original_title": "TikTok",
     "imdb_rating_average": 5.6,
-    "update_at": "2025-09-19T10:07:18"
+    "update_at": "2026-11-15T09:14:17"
 }

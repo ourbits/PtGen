@@ -3,8 +3,8 @@
     "sid": "tt0164317",
     "name": "Achilles",
     "site": "imdb",
-    "year": "2002",
-    "@type": "Movie",
+    "year": "1995",
+    "@type": "Short",
     "genre": [
         "Animation",
         "Short"
@@ -12,75 +12,118 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001394/",
-            "name": "Derek Jacobi"
+            "name": "Derek Jacobi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0338335/",
-            "name": "Simon Green"
+            "name": "Simon Green",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1034076/",
-            "name": "David Holt"
+            "name": "David Holt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4381173/",
+            "name": "Tim Morgan",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmE2NmI3ZDQtZTY3MC00YzI0LTg1ZTktMjFkOTFiOWY3ZmE0XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/n3MqZU3Lnog0ahFYNluK3iPe1E3.jpg",
     "details": {
+        "Stars": [
+            "Derek Jacobi",
+            "Simon Green",
+            "David Holt"
+        ],
+        "Genres": [
+            "Animation",
+            "Short"
+        ],
+        "Writer": [
+            "Jo Cameron Brown",
+            "Homer",
+            "Barry Purves"
+        ],
+        "Runtime": [
+            "11 min"
+        ],
+        "Director": [
+            "Barry Purves"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "April 6, 2002 (France)"
-        ],
-        "Also known as": [
-            "Beyond Dope Sheet Achilles"
+            "1995-08-31"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
         "Production companies": [
             "Bareboards Productions",
-            "Channel Four Television"
+            "Channel 4 Television"
         ]
     },
-    "reviews": 6,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0131472/",
-            "name": "Jo Cameron Brown"
+            "name": "Jo Cameron Brown",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0392955/",
-            "name": "Homer"
+            "name": "Homer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0701000/",
-            "name": "Barry Purves"
+            "name": "Barry Purves",
+            "@type": "Person"
         }
     ],
     "duration": "PT11M",
     "keywords": [
-        "gay",
-        "gay love",
-        "homoerotism",
-        "gay kiss",
-        "sexual tension"
+        "dance",
+        "trojan war",
+        "greek mythology",
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0701000/",
-            "name": "Barry Purves"
+            "name": "Barry Purves",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0164317/",
     "metascore": null,
-    "imdb_votes": 420,
+    "imdb_votes": 443,
     "popularity": 0,
     "description": "With the loss of Patroclus (his undeclared male lover), Greek warrior Achilles returns to the Trojan War.",
-    "imdb_rating": "6.7/10 from 420 users",
-    "release_date": [],
+    "imdb_rating": "6.8/10 from 443 users",
+    "release_date": [
+        {
+            "date": "1995-10-31",
+            "country": "Germany"
+        },
+        {
+            "date": "1995-08-31",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "1996-10-28",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2002-04-06",
-    "imdb_rating_average": 6.7,
-    "update_at": "2025-06-22T20:28:28"
+    "datePublished": "1995-08-31",
+    "original_title": "Achilles",
+    "imdb_rating_average": 6.8,
+    "update_at": "2026-11-15T18:28:05"
 }

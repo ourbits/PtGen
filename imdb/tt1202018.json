@@ -4,63 +4,90 @@
     "name": "Incubus: Look Alive",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Music"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1687848/",
-            "name": "Incubus"
+            "name": "Incubus",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1179503/",
-            "name": "Brandon Boyd"
+            "name": "Brandon Boyd",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1178434/",
-            "name": "Michael Einziger"
+            "name": "Michael Einziger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2699089/",
+            "name": "Ben Kenney",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0453266/",
+            "name": "Chris Kilmore",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1179009/",
+            "name": "Jose Pasillas",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MTMwNjE1NV5BMl5BanBnXkFtZTgwNjEwMjg5NTE@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/3n16aNSubM57rSiHktou2lnKc0w.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Incubus",
+            "Brandon Boyd",
+            "Michael Einziger"
+        ],
+        "Genres": [
+            "Music"
+        ],
+        "Runtime": [
+            "120 min"
+        ],
+        "Director": [
+            "Christian Lamb"
         ],
         "Release date": [
-            "November 27, 2007 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Frank The Plumber"
+            "2007-11-27"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT2H",
-    "keywords": [
-        "live performance",
-        "concert film",
-        "non fiction"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0482931/",
-            "name": "Christian Lamb"
+            "name": "Christian Lamb",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1202018/",
     "metascore": null,
-    "imdb_votes": 63,
+    "imdb_votes": 66,
     "popularity": 0,
-    "description": "Incubus&apos; explosive Look Alive features footage from their groundbreaking Light Grenades Tour, including concert performances from their Northerly Island show in Chicago on July 25th, 2007, plus additional glimpses of life on the r...",
-    "imdb_rating": "8/10 from 63 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "Incubus: Look Alive is a dedicated summation of the state of Incubus, the alt-metal band born in the San Fernando Valley.  While the seemingly low-key band takes to the road in some fairly exotic places, it demonstrates during live performances of the jangly \"Quicksand,\" the hard-rocking \"Megalomaniac,\" and dramatic \"Anna Molly\" that vocalist Brandon Boyd, guitarist Mike Einziger, bassist Dirk Lance, and drummer Jose Pasillas are close to mastering their ever-developing penchant for radical tonal shifts within songs.  A novel element on this disc is travel footage from the band’s tour, including images from Israel, Dubai, London, and peculiarly beautiful, surreal shots of Iceland.",
+    "imdb_rating": "8.0/10 from 66 users",
+    "release_date": [
+        {
+            "date": "2007-11-27",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "G",
     "datePublished": "2007-11-27",
-    "imdb_rating_average": 8,
-    "update_at": "2025-06-04T08:07:57"
+    "original_title": "Incubus: Look Alive",
+    "imdb_rating_average": 8.0,
+    "update_at": "2026-11-15T23:07:19"
 }

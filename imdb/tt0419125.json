@@ -4,7 +4,7 @@
     "name": "See Arnold Run",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Biography",
         "Comedy",
@@ -13,74 +13,133 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001638/",
-            "name": "Jürgen Prochnow"
+            "name": "Jürgen Prochnow",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0452199/",
-            "name": "Roland Kickinger"
+            "name": "Roland Kickinger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0004887/",
-            "name": "Nora Dunn"
+            "name": "Nora Dunn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0607031/",
+            "name": "Bob Morrisey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0804361/",
+            "name": "Pat Skipper",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0121652/",
+            "name": "David Burke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0925320/",
+            "name": "Peter White",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0405033/",
+            "name": "Alex Hyde-White",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0215015/",
+            "name": "Nicole DeHuff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0956687/",
+            "name": "Craig Zimmerman",
+            "@type": "Person"
         }
     ],
-    "critic": 11,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTIzODg5OTMtM2JhMy00YzYwLTk2YTUtZmZhYzIwZmZlNDRiXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/2HDhQKsEk8rQZ9Z2xhwcJkwwEUn.jpg",
     "details": {
+        "Stars": [
+            "Jürgen Prochnow",
+            "Roland Kickinger",
+            "Nora Dunn"
+        ],
+        "Genres": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ],
+        "Writer": [
+            "Nigel Andrews",
+            "Matt Dorff"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "J.B. Rogers"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 30, 2005 (United States)"
-        ],
-        "Also known as": [
-            "Арнолд у трци"
+            "2005-01-30"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "4966 Voltaire Street, San Diego, California, USA"
+            "United States of America"
         ],
         "Production companies": [
             "Cypress Point Productions",
-            "Stu Segall Productions"
+            "Stu Segall Productions",
+            "A+E Studios"
         ]
     },
-    "reviews": 13,
+    "reviews": 0,
+    "tagline": "The totally pumped-up original movie of one man's American Dream.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0028800/",
-            "name": "Nigel Andrews"
+            "name": "Nigel Andrews",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0233548/",
-            "name": "Matt Dorff"
+            "name": "Matt Dorff",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
     "keywords": [
-        "accent",
-        "muscles",
-        "bodybuilder",
-        "airplane",
-        "campaign"
+        "biography"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0736930/",
-            "name": "J.B. Rogers"
+            "name": "J.B. Rogers",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0419125/",
     "metascore": null,
-    "imdb_votes": 488,
+    "imdb_votes": 487,
     "popularity": 0,
-    "description": "A look at the life of Arnold Schwarzenegger, from his early days as a body builder up until his successful campaign for governor of California.",
-    "imdb_rating": "5/10 from 488 users",
-    "release_date": [],
-    "contentRating": "R",
+    "description": "This biographical docu-drama alternates between two parallel threads in the life of Arnold Schwarzenegger: his formative early years as the repeat winner of the Mr. Olympia body-building championship; and his modern foray into the world of politics, hitting the campaign trail and competing in the frenzied atmosphere that accompanied California's chaotic recall election.",
+    "imdb_rating": "5.1/10 from 487 users",
+    "release_date": [
+        {
+            "date": "2005-01-30",
+            "country": "United Kingdom"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2005-01-30",
-    "imdb_rating_average": 5,
-    "update_at": "2025-05-12T15:56:06"
+    "original_title": "See Arnold Run",
+    "imdb_rating_average": 5.1,
+    "update_at": "2026-11-15T02:42:18"
 }

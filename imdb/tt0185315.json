@@ -4,7 +4,7 @@
     "name": "Kojak: Flowers for Matty",
     "site": "imdb",
     "year": "1990",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Action",
         "Crime",
@@ -13,73 +13,129 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001699/",
-            "name": "Telly Savalas"
+            "name": "Telly Savalas",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0105672/",
-            "name": "Andre Braugher"
+            "name": "Andre Braugher",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0640344/",
-            "name": "Glynnis O&apos;Connor"
+            "name": "Glynnis O'Connor",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0162541/",
+            "name": "Charles Cioffi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0040662/",
+            "name": "Tom Atkins",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0528433/",
+            "name": "Richard Lynch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0758002/",
+            "name": "Kario Salem",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0428008/",
+            "name": "Eddie Jones",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0491590/",
+            "name": "Ed Lauter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0823563/",
+            "name": "Mike Starr",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTU1MzE5NDc3MF5BMl5BanBnXkFtZTgwMTEyOTk1MDE@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/99TkR28gMzOxPrcc46oq0htBFnH.jpg",
     "details": {
+        "Stars": [
+            "Telly Savalas",
+            "Andre Braugher",
+            "Glynnis O'Connor"
+        ],
+        "Genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "Abby Mann",
+            "Selwyn Raab",
+            "Peyton Webb"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "Paul Krasny"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 6, 1990 (United States)"
-        ],
-        "Also known as": [
-            "Flores para Matty"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "New York City, New York, USA"
-        ],
-        "Production company": [
-            "Universal Television"
+            "1990-01-04"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0542631/",
-            "name": "Abby Mann"
+            "name": "Abby Mann",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0704633/",
-            "name": "Selwyn Raab"
+            "name": "Selwyn Raab",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1015837/",
-            "name": "Peyton Webb"
+            "name": "Peyton Webb",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H35M",
-    "keywords": [
-        "character name in title"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0469957/",
-            "name": "Paul Krasny"
+            "name": "Paul Krasny",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0185315/",
     "metascore": null,
-    "imdb_votes": 170,
+    "imdb_votes": 200,
     "popularity": 0,
     "description": "Kojak charms his way into high society to investigate art thefts that are tied to munitions smuggling and murder.",
-    "imdb_rating": "6.5/10 from 170 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
-    "datePublished": "1990-01-06",
-    "imdb_rating_average": 6.5,
-    "update_at": "2025-02-12T05:57:56"
+    "imdb_rating": "6.7/10 from 200 users",
+    "release_date": [
+        {
+            "date": "1990-01-04",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1990-01-04",
+    "original_title": "Kojak: Flowers for Matty",
+    "imdb_rating_average": 6.7,
+    "update_at": "2026-11-15T02:42:19"
 }

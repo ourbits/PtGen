@@ -4,83 +4,124 @@
     "name": "An Old Fashioned Christmas",
     "site": "imdb",
     "year": "2010",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2397300/",
-            "name": "Catherine Steadman"
+            "name": "Catherine Steadman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000302/",
-            "name": "Jacqueline Bisset"
+            "name": "Jacqueline Bisset",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1544508/",
-            "name": "Leon Ockenden"
+            "name": "Leon Ockenden",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0640949/",
+            "name": "Marion O'Dwyer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0641691/",
+            "name": "Robert O'Mahoney",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0568400/",
+            "name": "Ian McElhinney",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0379050/",
+            "name": "David Herlihy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1197529/",
+            "name": "Kristopher Turner",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTgwODEyMzA4M15BMl5BanBnXkFtZTgwMjcxNjAzMTE@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/rfV4bSKc5DpFRTajszQMT83Epmk.jpg",
     "details": {
+        "Stars": [
+            "Catherine Steadman",
+            "Jacqueline Bisset",
+            "Leon Ockenden"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Donald Martin"
+        ],
+        "Runtime": [
+            "88 min"
+        ],
+        "Director": [
+            "Don McBrearty"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "December 11, 2010 (United States)"
+            "2010-12-11"
         ],
-        "Also known as": [
-            "Régimódi karácsony"
-        ],
-        "Official site": [
-            "Hallmark Movies & Mysteries (United States) - http://www.hallmarkmoviesandmysteries.com/an-old-fashioned-christmas"
-        ],
-        "Filming locations": [
+        "Country of origin": [
             "Ireland"
         ],
-        "Countries of origin": [
-            "Ireland",
-            "United States",
-            "Canada"
-        ],
         "Production companies": [
-            "RHI Entertainment",
-            "The Government of Ireland",
-            "Parallel Film Productions"
+            "RHI Entertainment"
         ]
     },
-    "reviews": 10,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0003798/",
-            "name": "Donald Martin"
+            "name": "Donald Martin",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H28M",
     "keywords": [
-        "pub",
-        "fiance fiancee relationship",
-        "christmas eve dinner",
-        "drunken man",
-        "dublin ireland"
+        "holiday",
+        "writing",
+        "sequel",
+        "author",
+        "christmas"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0564260/",
-            "name": "Don McBrearty"
+            "name": "Don McBrearty",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1785287/",
     "metascore": null,
-    "imdb_votes": 503,
+    "imdb_votes": 533,
     "popularity": 0,
-    "description": "The story of An Old-Fashioned Thanksgiving continues. Isabella and Tilly pay a visit to Ireland, hoping Isabella&apos;s long-ago suitor, the Earl of Shannon, can assist Tilly in getting her writing published.",
-    "imdb_rating": "5.9/10 from 503 users",
-    "release_date": [],
-    "contentRating": "TV-G",
+    "description": "Isabella takes her granddaughter to Ireland to stay with a famous family friend for the holidays, only to discover that the best Christmases are simply spent with each other.",
+    "imdb_rating": "5.9/10 from 533 users",
+    "release_date": [
+        {
+            "date": "2010-12-11",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2010-12-11",
+    "original_title": "An Old Fashioned Christmas",
     "imdb_rating_average": 5.9,
-    "update_at": "2025-08-29T12:00:11"
+    "update_at": "2026-11-15T04:49:15"
 }

@@ -6,76 +6,163 @@
     "year": "2022",
     "@type": "Movie",
     "genre": [
-        "Documentary",
         "Biography",
-        "Comedy"
+        "Comedy",
+        "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0036109/",
-            "name": "Lucie Arnaz"
+            "name": "Lucie Arnaz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000541/",
-            "name": "Bette Midler"
+            "name": "Bette Midler",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000993/",
-            "name": "Carol Burnett"
+            "name": "Carol Burnett",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm13348975/",
+            "name": "Laura LaPlaca",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0532442/",
+            "name": "Eduardo Machado",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0004819/",
+            "name": "Charo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm12466555/",
+            "name": "Journey Gunderson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1074340/",
+            "name": "Gregg Oppenheimer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm13348976/",
+            "name": "David Daniels",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005131/",
+            "name": "Norman Lear",
+            "@type": "Person"
         }
     ],
-    "critic": 63,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWRhMTM2NTYtYTUzNy00ZWU3LWE1MmEtYWJjMzM0YjA2N2I1XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/vCwR4RSZTFzyZvX8FcBON2COnU9.jpg",
     "details": {
-        "Languages": [
-            "English",
-            "Spanish"
+        "Stars": [
+            "Lucie Arnaz",
+            "Bette Midler",
+            "Carol Burnett"
+        ],
+        "Genres": [
+            "Biography",
+            "Comedy",
+            "Documentary"
+        ],
+        "Writer": [
+            "Mark Monroe"
+        ],
+        "Runtime": [
+            "103 min"
+        ],
+        "Director": [
+            "Amy Poehler"
+        ],
+        "Language": [
+            "English"
         ],
         "Release date": [
-            "March 4, 2022 (United States)"
-        ],
-        "Also known as": [
-            "Lucy ile Desi"
+            "2022-01-21"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
+            "Paper Kite Productions",
+            "Imagine Documentaries",
+            "White Horse Pictures",
+            "Diamond Docs",
             "Amazon Studios",
-            "Imagine Entertainment",
-            "White Horse Pictures"
+            "Imagine Entertainment"
         ]
     },
-    "reviews": 45,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0598531/",
-            "name": "Mark Monroe"
+            "name": "Mark Monroe",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H43M",
     "keywords": [
-        "alcoholic",
-        "cigarette smoking",
-        "f rated",
-        "art and entertainment documentary",
-        "reference to a tv sitcom"
+        "comedian",
+        "biography",
+        "television history"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0688132/",
-            "name": "Amy Poehler"
+            "name": "Amy Poehler",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt12971802/",
-    "metascore": 73,
-    "imdb_votes": 3267,
+    "metascore": null,
+    "imdb_votes": 3446,
     "popularity": 0,
-    "description": "This film explores the rise of comedy icon Lucille Ball, her relationship with Desi Arnaz, and how their groundbreaking sitcom &quot;I Love Lucy&quot; forever changed Hollywood, cementing her legacy long after her death in 1989.",
-    "imdb_rating": "7.7/10 from 3267 users",
-    "release_date": [],
-    "contentRating": "PG",
-    "datePublished": "2022-03-04",
+    "description": "Explore the unlikely partnership and enduring legacy of one of the most prolific power couples in entertainment history. Lucille Ball and Desi Arnaz risked everything to be together.",
+    "imdb_rating": "7.7/10 from 3446 users",
+    "release_date": [
+        {
+            "date": "2022-01-21",
+            "country": "Canada"
+        },
+        {
+            "date": "2022-03-04",
+            "country": "France"
+        },
+        {
+            "date": "2022-03-04",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "2022-01-21",
+            "country": "Netherlands"
+        },
+        {
+            "date": "2022-01-21",
+            "country": "Sweden"
+        },
+        {
+            "date": "2022-03-04",
+            "country": "Singapore"
+        },
+        {
+            "date": "2022-01-21",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "PG-13",
+    "datePublished": "2022-01-21",
+    "original_title": "Lucy and Desi",
     "imdb_rating_average": 7.7,
-    "update_at": "2025-08-23T08:13:31"
+    "update_at": "2026-11-15T04:28:06"
 }

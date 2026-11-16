@@ -4,69 +4,86 @@
     "name": "A Date with Diana",
     "site": "imdb",
     "year": "2010",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0128657/",
-            "name": "Erin Cahill"
+            "name": "Erin Cahill",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0493279/",
-            "name": "Maggie Lawson"
+            "name": "Maggie Lawson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1277177/",
-            "name": "Derek Richardson"
+            "name": "Derek Richardson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0919102/",
+            "name": "Matthew Cole Weiss",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjY3YzFkN2EtODYxNC00ZTQxLTkwNGUtZTRlZmE5ZjQwNzgzXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Erin Cahill",
+            "Maggie Lawson",
+            "Derek Richardson"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Matthew Cole Weiss"
+        ],
+        "Runtime": [
+            "8 min"
+        ],
+        "Director": [
+            "Matthew Cole Weiss"
         ],
         "Release date": [
-            "September 6, 2010 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production companies": [
-            "A Mama's Boy Productions",
-            "Lone Suspect",
-            "Reel Vision Films"
+            "2010"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0919102/",
-            "name": "Matthew Cole Weiss"
+            "name": "Matthew Cole Weiss",
+            "@type": "Person"
         }
     ],
     "duration": "PT8M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0919102/",
-            "name": "Matthew Cole Weiss"
+            "name": "Matthew Cole Weiss",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1732508/",
     "metascore": null,
-    "imdb_votes": 70,
+    "imdb_votes": 71,
     "popularity": 0,
-    "description": "Dating can be tough... especially when you&apos;re dating a superhero. James has wanted a date with Diana all his life--but he quickly learns that sometimes the women of our dreams aren&apos;t as wonderful as we might have hoped. Even if th...",
-    "imdb_rating": "7.7/10 from 70 users",
+    "description": null,
+    "imdb_rating": "7.8/10 from 71 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2010-09-06",
-    "imdb_rating_average": 7.7,
-    "update_at": "2025-05-24T16:26:24"
+    "datePublished": "2010",
+    "original_title": "A Date with Diana",
+    "imdb_rating_average": 7.8,
+    "update_at": "2026-11-15T22:28:06"
 }

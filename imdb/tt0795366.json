@@ -3,80 +3,140 @@
     "sid": "tt0795366",
     "name": "David Macaulay: Pyramid",
     "site": "imdb",
-    "year": "1988",
-    "@type": "Movie",
+    "year": "1989",
+    "@type": "TVMovie",
     "genre": [
-        "Documentary",
         "Animation",
+        "Documentary",
         "History"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2204677/",
-            "name": "David Macaulay"
+            "name": "David Macaulay",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001394/",
-            "name": "Derek Jacobi"
+            "name": "Derek Jacobi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000306/",
-            "name": "Brian Blessed"
+            "name": "Brian Blessed",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000457/",
+            "name": "John Hurt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000457/",
+            "name": "John Hurt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0680795/",
+            "name": "Siân Phillips",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0558635/",
+            "name": "Geoffrey Matthews",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0558635/",
+            "name": "Geoffrey Matthews",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0558635/",
+            "name": "Geoffrey Matthews",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0683116/",
+            "name": "Tim Pigott-Smith",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTRjOTNlNjYtODMxNi00ODE2LTljNmQtNWMwYmYyMjE2MzA3XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/qj9jX71Qf91CTNdpdSQUPOEHXp.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "David Macaulay",
+            "Derek Jacobi",
+            "Brian Blessed"
+        ],
+        "Genres": [
+            "Animation",
+            "Documentary",
+            "History"
+        ],
+        "Writer": [
+            "David Macaulay",
+            "Mark Olshaker"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Larry Klein"
         ],
         "Release date": [
-            "November 28, 1988 (United States)"
+            "1989-01-04"
         ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Egyptian Museum - Merit Basha Street, Tahrir Square, Cairo, Egypt"
-        ],
-        "Production company": [
+        "Production companies": [
             "Unicorn Projects"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2204677/",
-            "name": "David Macaulay"
+            "name": "David Macaulay",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0647833/",
-            "name": "Mark Olshaker"
+            "name": "Mark Olshaker",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H",
     "keywords": [
-        "reenactment",
-        "dynasty",
-        "pyramid",
         "egypt",
-        "ancient egypt"
+        "pyramid",
+        "architecture",
+        "construction",
+        "ancient egypt",
+        "design"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm5859523/",
-            "name": "Larry Klein"
+            "name": "Larry Klein",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0795366/",
     "metascore": null,
-    "imdb_votes": 59,
+    "imdb_votes": 60,
     "popularity": 0,
-    "description": "The architecture of the Egyptian pyramids is explored while we follow the story of one Egyptian dynasty building them.",
-    "imdb_rating": "7.6/10 from 59 users",
-    "release_date": [],
-    "contentRating": "Unrated",
-    "datePublished": "1988-11-28",
-    "imdb_rating_average": 7.6,
-    "update_at": "2025-09-25T07:07:22"
+    "description": "How did ancient Egyptians build the Great Pyramid at Giza, joining two million blocks of heavy stone with amazing precision? Who were the leaders who built these enormous structures, and what did these tombs signify?  Host David Macaulay explores the history, mythology, and religions of Egypt's people, combining live footage and animation. Take a rare look at the mummy of Ramses II and buried treasure in the sacred Valley of the Kings.",
+    "imdb_rating": "7.5/10 from 60 users",
+    "release_date": [
+        {
+            "date": "1989-01-04",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1989-01-04",
+    "original_title": "David Macaulay: Pyramid",
+    "imdb_rating_average": 7.5,
+    "update_at": "2026-11-15T20:42:12"
 }

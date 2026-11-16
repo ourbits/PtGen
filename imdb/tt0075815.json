@@ -1,7 +1,24 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "The Beach Hut",
+            "country": "United Kingdom"
+        },
+        {
+            "title": "In the Beach House",
+            "country": "Greece"
+        },
+        {
+            "title": "Un domingo en la playa",
+            "country": "Colombia"
+        },
+        {
+            "title": "La cabine des amoureux",
+            "country": "France"
+        }
+    ],
     "sid": "tt0075815",
-    "name": "Casotto",
+    "name": "Beach House",
     "site": "imdb",
     "year": "1977",
     "@type": "Movie",
@@ -11,73 +28,145 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000366/",
-            "name": "Catherine Deneuve"
+            "name": "Catherine Deneuve",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000149/",
-            "name": "Jodie Foster"
+            "name": "Jodie Foster",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0577423/",
-            "name": "Mariangela Melato"
+            "name": "Mariangela Melato",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0686375/",
+            "name": "Michele Placido",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0698541/",
+            "name": "Gigi Proietti",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0832375/",
+            "name": "Paolo Stoppa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0865575/",
+            "name": "Ugo Tognazzi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0162948/",
+            "name": "Franco Citti",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0577421/",
+            "name": "Anna Melato",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0188311/",
+            "name": "Carlo Croccolo",
+            "@type": "Person"
         }
     ],
-    "critic": 13,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTMxMjA3ZmYtNzFjNS00NzUxLThmMWQtMjQ2YmRiMDg0NGMwXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/APAMSZ2QnChI7PlC1TAEKcvrR9.jpg",
     "details": {
+        "Stars": [
+            "Catherine Deneuve",
+            "Jodie Foster",
+            "Mariangela Melato"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Vincenzo Cerami",
+            "Sergio Citti"
+        ],
+        "Runtime": [
+            "106 min"
+        ],
+        "Director": [
+            "Sergio Citti"
+        ],
         "Language": [
             "Italian"
         ],
         "Release date": [
-            "October 28, 1977 (Italy)"
-        ],
-        "Also known as": [
-            "In the BeacHouse"
+            "1977-10-27"
         ],
         "Country of origin": [
             "Italy"
         ],
-        "Filming locations": [
-            "De Paolis Incir, Rome, Lazio, Italy"
-        ],
-        "Production company": [
+        "Production companies": [
             "Parva Cinematografica"
         ]
     },
-    "reviews": 7,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0148437/",
-            "name": "Vincenzo Cerami"
+            "name": "Vincenzo Cerami",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0162952/",
-            "name": "Sergio Citti"
+            "name": "Sergio Citti",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H46M",
     "keywords": [
-        "male frontal nudity",
-        "male nudity",
-        "male rear nudity",
-        "male pubic hair",
-        "bare chested boy"
+        "beach",
+        "pregnancy",
+        "summer",
+        "swimsuit",
+        "voyeur"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0162952/",
-            "name": "Sergio Citti"
+            "name": "Sergio Citti",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0075815/",
     "metascore": null,
-    "imdb_votes": 885,
+    "imdb_votes": 969,
     "popularity": 0,
-    "description": "Different groups of people share cabin #19 for changing at an Italian beach.",
-    "imdb_rating": "6.2/10 from 885 users",
-    "release_date": [],
+    "description": "Summer Sunday at a small beach house at the coast of Rome. Many people and stories: women's basketball team, two sports-obsessed soldiers, two men with their girlfriends and the priest with a big secret, an elderly couple with their pregnant granddaughter, and engagemented couple wanting to have sex for the first time.",
+    "imdb_rating": "6.1/10 from 969 users",
+    "release_date": [
+        {
+            "date": "1980-03-05",
+            "country": "Colombia"
+        },
+        {
+            "date": "1982-03-01",
+            "country": "Spain"
+        },
+        {
+            "date": "1977-10-27",
+            "country": "Italy"
+        },
+        {
+            "date": "1979-02-08",
+            "country": "Netherlands"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1977-10-28",
-    "imdb_rating_average": 6.2,
-    "update_at": "2026-05-18T01:28:11"
+    "datePublished": "1977-10-27",
+    "original_title": "Casotto",
+    "imdb_rating_average": 6.1,
+    "update_at": "2026-11-15T14:28:06"
 }

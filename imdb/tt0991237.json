@@ -3,7 +3,8 @@
     "sid": "tt0991237",
     "name": "Podnosimy kotwice",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1941",
+    "@type": "Short",
     "genre": [
         "Documentary",
         "Short",
@@ -12,57 +13,70 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0210117/",
-            "name": "Terence de Marney"
+            "name": "Terence de Marney",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0210117/",
+            "name": "Terence de Marney",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2598499/",
-            "name": "Bohdan Pawlowicz"
+            "name": "Bohdan Pawlowicz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2598499/",
+            "name": "Bohdan Pawlowicz",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "English",
-            "Polish"
+        "Stars": [
+            "Terence de Marney",
+            "Terence de Marney",
+            "Bohdan Pawlowicz"
+        ],
+        "Genres": [
+            "Documentary",
+            "Short",
+            "War"
+        ],
+        "Writer": [
+            "Eugeniusz Cekalski",
+            "Stanislaw Rochowicz"
+        ],
+        "Director": [
+            "Stefan Osiecki"
         ],
         "Release date": [
-            "1941 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Poles Weigh Anchor"
-        ],
-        "Countries of origin": [
-            "Poland",
-            "United Kingdom"
-        ],
-        "Production companies": [
-            "Biuro Filmowe Ministerstwa Informacji i Dokumentacji RP w Londynie",
-            "Czolówka Filmowa Kierownictwa Marynarki Wojennej",
-            "Derrick De Marney Productions"
+            "1941"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0147902/",
-            "name": "Eugeniusz Cekalski"
+            "name": "Eugeniusz Cekalski",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0734127/",
-            "name": "Stanislaw Rochowicz"
+            "name": "Stanislaw Rochowicz",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "year 1941",
-        "1940s",
-        "20th century"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0651963/",
-            "name": "Stefan Osiecki"
+            "name": "Stefan Osiecki",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0991237/",
@@ -73,7 +87,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1941",
+    "original_title": "Podnosimy kotwice",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-02T09:00:06"
+    "update_at": "2026-11-15T15:01:01"
 }

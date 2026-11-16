@@ -4,7 +4,7 @@
     "name": "Ali Gazam",
     "site": "imdb",
     "year": "1927",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Comedy",
         "Short"
@@ -12,52 +12,58 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0250240/",
-            "name": "Neely Edwards"
+            "name": "Neely Edwards",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0205997/",
-            "name": "Consuelo Dawn"
+            "name": "Consuelo Dawn",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0864559/",
-            "name": "Lydia Yeamans Titus"
+            "name": "Lydia Yeamans Titus",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Stars": [
+            "Neely Edwards",
+            "Consuelo Dawn",
+            "Lydia Yeamans Titus"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Richard Smith"
+        ],
+        "Director": [
+            "Richard Smith"
         ],
         "Release date": [
-            "March 21, 1927 (United States)"
-        ],
-        "Also known as": [
-            "Hokus Pokus"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Universal Pictures"
+            "1927"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0807967/",
-            "name": "Richard Smith"
+            "name": "Richard Smith",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "one reeler"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0807967/",
-            "name": "Richard Smith"
+            "name": "Richard Smith",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0321125/",
@@ -68,7 +74,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1927-03-21",
+    "datePublished": "1927",
+    "original_title": "Ali Gazam",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-20T11:28:30"
+    "update_at": "2026-11-15T07:14:30"
 }

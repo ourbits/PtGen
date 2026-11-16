@@ -4,7 +4,7 @@
     "name": "Deadly Game",
     "site": "imdb",
     "year": "1977",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Mystery",
@@ -13,70 +13,125 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0341431/",
-            "name": "Andy Griffith"
-        },
-        {
-            "url": "https://www.imdb.com/name/nm0387435/",
-            "name": "Mitzi Hoag"
+            "name": "Andy Griffith",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000342/",
-            "name": "James Cromwell"
+            "name": "James Cromwell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0387435/",
+            "name": "Mitzi Hoag",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0427779/",
+            "name": "Claude Earl Jones",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0817718/",
+            "name": "Sharon Spelman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0902608/",
+            "name": "Hunter von Leer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0641397/",
+            "name": "Dan O'Herlihy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0049754/",
+            "name": "Rebecca Balding",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0940971/",
+            "name": "Morgan Woodward",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0289376/",
+            "name": "Eddie Foy Jr.",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDM5MTI5ODI1M15BMl5BanBnXkFtZTcwMDI4NjYxNA@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/k2TZ5uBi8VbUzdVQhPjgx8FW2C5.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Andy Griffith",
+            "James Cromwell",
+            "Mitzi Hoag"
+        ],
+        "Genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Writer": [
+            "Lane Slate"
+        ],
+        "Runtime": [
+            "120 min"
+        ],
+        "Director": [
+            "Lane Slate"
         ],
         "Release date": [
-            "December 3, 1977 (United States)"
-        ],
-        "Also known as": [
-            "It's Deadly"
+            "1977-12-03"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Big Bear Lake, Big Bear Valley, San Bernardino National Forest, California, USA"
+            "United States of America"
         ],
         "Production companies": [
             "Manteo Enterprises",
             "MGM Television"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0805320/",
-            "name": "Lane Slate"
+            "name": "Lane Slate",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H",
     "keywords": [
-        "hazardous waste",
-        "u.s. army",
-        "military convoy",
-        "sheriff",
-        "small town sheriff"
+        "us army",
+        "murder",
+        "hazardous waste"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0805320/",
-            "name": "Lane Slate"
+            "name": "Lane Slate",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0075919/",
     "metascore": null,
-    "imdb_votes": 144,
+    "imdb_votes": 152,
     "popularity": 0,
-    "description": "A military convoy is transporting something apparently for disposal. They pass by Sheriff Abel Marsh&apos;s town and they are passing by property that&apos;s owned by Amy Franklin, who is the girlfriend of Abel&apos;s deputy, Malcolm. Before the...",
-    "imdb_rating": "6.2/10 from 144 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "A military convoy is transporting something apparently for disposal. They pass by Sheriff Abel Marsh's town and they are passing by property that's owned by Amy Franklin who is the girlfriend of Abel's deputy, Malcolm. Before they know it, everything around the property is uninhabitable. The army returns to clean things up and make restitution. But there is one nagging question, was this an accident or was it deliberate? That is something Abel is most interested in finding out.",
+    "imdb_rating": "6.3/10 from 152 users",
+    "release_date": [
+        {
+            "date": "1977-12-03",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1977-12-03",
-    "imdb_rating_average": 6.2,
-    "update_at": "2025-04-17T05:13:22"
+    "original_title": "Deadly Game",
+    "imdb_rating_average": 6.3,
+    "update_at": "2026-11-15T19:07:13"
 }

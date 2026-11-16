@@ -4,71 +4,113 @@
     "name": "La Bohème",
     "site": "imdb",
     "year": "2002",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
-        "Romance",
-        "Music"
+        "Music",
+        "Romance"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1288873/",
-            "name": "Alexia Voulgaridou"
+            "name": "Alexia Voulgaridou",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1295380/",
-            "name": "Rolando Villazón"
+            "name": "Rolando Villazón",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1295748/",
-            "name": "Elena de la Merced"
+            "name": "Elena de la Merced",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0879417/",
+            "name": "Ludovic Tézier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1293629/",
+            "name": "Markus Marquardt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1294982/",
+            "name": "Toby Stafford-Allen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1295918/",
+            "name": "Adrian Clarke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0338426/",
+            "name": "Andrew Greenan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1295282/",
+            "name": "Burkhard Ulrich",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA1NjY3MjIzMV5BMl5BanBnXkFtZTcwMDQzODgyMw@@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "Italian"
+        "Stars": [
+            "Alexia Voulgaridou",
+            "Rolando Villazón",
+            "Elena de la Merced"
+        ],
+        "Genres": [
+            "Drama",
+            "Music",
+            "Romance"
+        ],
+        "Writer": [
+            "Giuseppe Giacosa",
+            "Luigi Illica",
+            "Henri Murger"
+        ],
+        "Runtime": [
+            "100 min"
+        ],
+        "Director": [
+            "Brian Large"
         ],
         "Release date": [
-            "August 4, 2002 (Austria)"
-        ],
-        "Also known as": [
-            "Μποέμ"
-        ],
-        "Countries of origin": [
-            "Austria",
-            "Japan"
-        ],
-        "Production companies": [
-            "NHK",
-            "Österreichischer Rundfunk (ORF)"
+            "2002"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0316044/",
-            "name": "Giuseppe Giacosa"
+            "name": "Giuseppe Giacosa",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0407794/",
-            "name": "Luigi Illica"
+            "name": "Luigi Illica",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0613860/",
-            "name": "Henri Murger"
+            "name": "Henri Murger",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H40M",
-    "keywords": [
-        "opera",
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0488108/",
-            "name": "Brian Large"
+            "name": "Brian Large",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0344948/",
@@ -76,10 +118,11 @@
     "imdb_votes": 32,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "8.4/10 from 32 users",
+    "imdb_rating": "8.3/10 from 32 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2002-08-04",
-    "imdb_rating_average": 8.4,
-    "update_at": "2025-07-02T12:50:57"
+    "datePublished": "2002",
+    "original_title": "La Bohème",
+    "imdb_rating_average": 8.3,
+    "update_at": "2026-11-15T11:07:39"
 }

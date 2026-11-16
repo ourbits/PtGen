@@ -4,7 +4,7 @@
     "name": "Offerlamm",
     "site": "imdb",
     "year": "1999",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short",
         "Thriller"
@@ -12,65 +12,97 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0257719/",
-            "name": "Peter Engman"
+            "name": "Peter Engman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0515547/",
-            "name": "Cecilia Ljung"
+            "name": "Cecilia Ljung",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0803618/",
-            "name": "Dan Sjögren"
+            "name": "Dan Sjögren",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0706548/",
+            "name": "Göran Ragnerstam",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDllMmYzZDMtY2U2Yy00MGFhLWFjZDgtYmJiYzcxMzlmM2Y4XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/p6gz4fw8Zv74cWuAMPvvZe0GkNx.jpg",
     "details": {
+        "Stars": [
+            "Peter Engman",
+            "Cecilia Ljung",
+            "Dan Sjögren"
+        ],
+        "Genres": [
+            "Short",
+            "Thriller"
+        ],
+        "Writer": [
+            "Morgan Jensen"
+        ],
+        "Runtime": [
+            "29 min"
+        ],
+        "Director": [
+            "Dean Tomkins"
+        ],
         "Language": [
             "Swedish"
         ],
         "Release date": [
-            "February 4, 1999 (Sweden)"
+            "1999-02-04"
         ],
         "Country of origin": [
             "Sweden"
         ],
         "Production companies": [
-            "Illusion Film & Television",
-            "Film i Väst",
-            "SVT Drama, Göteborg"
+            "Illusion Film"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0421614/",
-            "name": "Morgan Jensen"
+            "name": "Morgan Jensen",
+            "@type": "Person"
         }
     ],
     "duration": "PT29M",
     "keywords": [
-        "countryside",
-        "walk in freezer",
-        "butchery",
-        "butcher",
-        "nudity"
+        "love triangle",
+        "hitchhiker",
+        "slaughterhouse",
+        "unfaithful wife"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0866768/",
-            "name": "Dean Tomkins"
+            "name": "Dean Tomkins",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0218484/",
     "metascore": null,
     "imdb_votes": 17,
     "popularity": 0,
-    "description": "A man lies in the middle of the road. A car comes and almost runs him over. After the driver hurled abuse at him he offers him a job. The man meets his new seductive boss and is drawn into a triangle drama.",
+    "description": "Daniel is a hitchhiker who arrives at a slaughterhouse for some temporary work, the owner of the slaughterhouse Gunnar decides to kill Daniel when he realises he is having an affair with his wife.",
     "imdb_rating": "4.6/10 from 17 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1999-02-04",
+            "country": "Sweden"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1999-02-04",
+    "original_title": "Offerlamm",
     "imdb_rating_average": 4.6,
-    "update_at": "2025-07-29T00:57:15"
+    "update_at": "2026-11-15T13:35:08"
 }

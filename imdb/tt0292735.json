@@ -1,10 +1,19 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "The Who Live at the Royal Albert Hall",
+            "country": "Norway"
+        },
+        {
+            "title": "The Who and Special Guests Live at the Royal Albert Hall",
+            "country": "United Kingdom"
+        }
+    ],
     "sid": "tt0292735",
     "name": "The Who and Special Guests Live at the Royal Albert Hall",
     "site": "imdb",
     "year": "2000",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Documentary",
         "Music"
@@ -12,64 +21,115 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1277963/",
-            "name": "The Who"
+            "name": "The Who",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001898/",
-            "name": "Bryan Adams"
+            "name": "Bryan Adams",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0120390/",
-            "name": "John Bundrick"
+            "name": "John Bundrick",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0002032/",
+            "name": "Roger Daltrey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0258200/",
+            "name": "John Entwistle",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0302462/",
+            "name": "Noel Gallagher",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1034098/",
+            "name": "Kelly Jones",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1035601/",
+            "name": "Nigel Kennedy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0823334/",
+            "name": "Zak Starkey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0870175/",
+            "name": "Pete Townshend",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0OTQ5NjAzNV5BMl5BanBnXkFtZTcwMjc2NjMyMQ@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/4froMYRTRkTgdEKws16TVSlvCtA.jpg",
     "details": {
+        "Stars": [
+            "The Who",
+            "Bryan Adams",
+            "John Bundrick"
+        ],
+        "Genres": [
+            "Documentary",
+            "Music"
+        ],
+        "Runtime": [
+            "144 min"
+        ],
+        "Director": [
+            "Dick Carruthers"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 27, 2000 (United Kingdom)"
-        ],
-        "Also known as": [
-            "The Who Live at the Royal Albert Hall"
+            "2000-11-27"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Filming locations": [
-            "Royal Albert Hall, South Kensington, London, England, UK"
-        ],
-        "Production company": [
-            "Fogolabs"
+        "Production companies": [
+            "FogoLabs"
         ]
     },
-    "reviews": 5,
+    "reviews": 0,
+    "tagline": "Royal Albert Hall in London, England on 27 November 2000",
     "creators": [],
     "duration": "PT2H24M",
     "keywords": [
-        "rock band",
-        "live audience",
-        "concert film",
-        "music gig",
-        "royal albert hall london"
+        "live"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1006692/",
-            "name": "Dick Carruthers"
+            "name": "Dick Carruthers",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0292735/",
     "metascore": null,
-    "imdb_votes": 251,
+    "imdb_votes": 253,
     "popularity": 0,
-    "description": "For millions of fans around the world, The Who has defined the quintessential rock band for nearly four decades. On November 27, 2000, The Who crowned their six-month North American and U.K. tour with a special evening at the Roya...",
-    "imdb_rating": "8.5/10 from 251 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "The Who & Special Guests: Live at the Royal Albert Hall is a concert film of The Who's concert on November 27, 2000 at the Royal Albert Hall in London to benefit the Teenage Cancer Trust. Bryan Adams, Noel Gallagher (Oasis), Kelly Jones (Stereophonics), Kennedy, Eddie Vedder (Pearl Jam) and Paul Weller joined the Who on stage for a once-in-a-lifetime performance. The concert was also released on CD as Live at the Royal Albert Hall.",
+    "imdb_rating": "8.5/10 from 253 users",
+    "release_date": [
+        {
+            "date": "2000-11-27",
+            "country": "United Kingdom"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2000-11-27",
+    "original_title": "The Who and Special Guests Live at the Royal Albert Hall",
     "imdb_rating_average": 8.5,
-    "update_at": "2025-04-01T01:08:21"
+    "update_at": "2026-11-15T21:00:14"
 }
