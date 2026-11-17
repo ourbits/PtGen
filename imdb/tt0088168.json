@@ -4,55 +4,105 @@
     "name": "Der Stadtbrand",
     "site": "imdb",
     "year": "1985",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0115633/",
-            "name": "Birke Bruck"
+            "name": "Birke Bruck",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0202390/",
+            "name": "Helmut Dauner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0240005/",
+            "name": "Gernot Duda",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0258382/",
+            "name": "Dieter Eppler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0465824/",
+            "name": "Beate Kopp",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0611096/",
-            "name": "Oscar Müller"
+            "name": "Oscar Müller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0618999/",
+            "name": "Robert Naegele",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0726197/",
-            "name": "Rotraut Rieger"
+            "name": "Rotraut Rieger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0758887/",
+            "name": "Dirk Salomon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm18266035/",
+            "name": "Claudia Schneller",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Birke Bruck",
+            "Helmut Dauner",
+            "Gernot Duda"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Oliver Storz"
+        ],
+        "Runtime": [
+            "103 min"
+        ],
+        "Director": [
+            "Oliver Storz"
         ],
         "Release date": [
-            "March 19, 1985 (West Germany)"
+            "1985-03-19"
         ],
         "Country of origin": [
-            "West Germany"
-        ],
-        "Production company": [
-            "Monaco Film GmbH"
+            "Germany"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0832748/",
-            "name": "Oliver Storz"
+            "name": "Oliver Storz",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H43M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0832748/",
-            "name": "Oliver Storz"
+            "name": "Oliver Storz",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0088168/",
@@ -61,9 +111,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1985-03-19",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1985-03-19",
+    "original_title": "Der Stadtbrand",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-07T10:52:26"
+    "update_at": "2026-11-16T06:00:39"
 }

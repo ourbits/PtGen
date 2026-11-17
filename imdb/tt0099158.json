@@ -1,77 +1,116 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "IMAX - Blue Planet",
+            "country": "United States of America"
+        },
+        {
+            "title": "IMAX- Blue Planet",
+            "country": "United States of America"
+        },
+        {
+            "title": "IMAX-Blue Planet",
+            "country": "United States of America"
+        },
+        {
+            "title": "IMAX Blue Planet",
+            "country": "United States of America"
+        }
+    ],
     "sid": "tt0099158",
     "name": "Blue Planet",
     "site": "imdb",
     "year": "1990",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Documentary"
+        "Documentary",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0118209/",
-            "name": "James Buchli"
+            "name": "James Buchli",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0616880/",
-            "name": "Toni Myers"
+            "name": "Toni Myers",
+            "@type": "Person"
         }
     ],
-    "critic": 6,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTc1MDEzMzMzMV5BMl5BanBnXkFtZTcwMTM3NzEyMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/iARGkBflbQ6HWGZgstGRK0YeKgl.jpg",
     "details": {
+        "Stars": [
+            "James Buchli",
+            "Toni Myers"
+        ],
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Writer": [
+            "Toni Myers"
+        ],
+        "Runtime": [
+            "42 min"
+        ],
+        "Director": [
+            "Ben Burtt"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "July 13, 1990 (United States)"
+            "1990-01-01"
         ],
-        "Also known as": [
-            "Den blå planeten"
-        ],
-        "Filming locations": [
-            "Amazon River, Brazil"
-        ],
-        "Production company": [
-            "IMAX Space Ltd."
-        ],
-        "Countries of origin": [
-            "United States",
+        "Country of origin": [
             "Canada"
+        ],
+        "Production companies": [
+            "IMAX"
         ]
     },
-    "reviews": 9,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0616880/",
-            "name": "Toni Myers"
+            "name": "Toni Myers",
+            "@type": "Person"
         }
     ],
     "duration": "PT42M",
     "keywords": [
-        "environmental issue",
-        "outer space",
-        "imax",
-        "voice over narration",
-        "independent film"
+        "nasa",
+        "biology",
+        "narration",
+        "space travel",
+        "earth",
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0123785/",
-            "name": "Ben Burtt"
+            "name": "Ben Burtt",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0099158/",
     "metascore": null,
-    "imdb_votes": 847,
+    "imdb_votes": 859,
     "popularity": 0,
-    "description": "On several Shuttle missions, Earth has been portrayed from places that nobody else could reach. We also are shown the different locations and environmental problems mankind created there because of our wish to exploit our planet f...",
-    "imdb_rating": "7.1/10 from 847 users",
-    "release_date": [],
-    "contentRating": null,
-    "datePublished": "1990-07-13",
+    "description": "From the unique vantage point of 200 miles above Earth's surface, we see how natural forces - volcanoes, earthquakes and hurricanes - affect our world, and how a powerful new force - humankind - has begun to alter the face of the planet. From Amazon rain forests to Serengeti grasslands, Blue Planet inspires a new appreciation of life on Earth, our only home.",
+    "imdb_rating": "7.1/10 from 859 users",
+    "release_date": [
+        {
+            "date": "1990-01-01",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
+    "datePublished": "1990-01-01",
+    "original_title": "Blue Planet",
     "imdb_rating_average": 7.1,
-    "update_at": "2026-03-03T23:28:33"
+    "update_at": "2026-11-16T15:21:53"
 }

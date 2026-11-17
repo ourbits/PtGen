@@ -1,10 +1,23 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Aporritos fakelos Hollywood",
+            "country": "Greece"
+        },
+        {
+            "title": "Hollywood titka",
+            "country": "Hungary"
+        },
+        {
+            "title": "Hollywoodin pimeä puoli",
+            "country": "Finland"
+        }
+    ],
     "sid": "tt0119302",
     "name": "Hollywood Confidential",
     "site": "imdb",
     "year": "1997",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Drama",
@@ -13,70 +26,120 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001579/",
-            "name": "Edward James Olmos"
+            "name": "Edward James Olmos",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0014519/",
-            "name": "Rick Aiello"
+            "name": "Rick Aiello",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0023130/",
-            "name": "Angela Alvarado"
+            "name": "Angela Alvarado",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0363705/",
+            "name": "Christine Harnos",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1753546/",
+            "name": "A. Day Henden",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0429114/",
+            "name": "Richard T. Jones",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0446220/",
+            "name": "Brendan Kelly",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000234/",
+            "name": "Charlize Theron",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005048/",
+            "name": "Thomas Jane",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0273490/",
+            "name": "Evelina Fernández",
+            "@type": "Person"
         }
     ],
-    "critic": 4,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzM5NTczN15BMl5BanBnXkFtZTcwNTA0MDQyMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/8TXa3Ci1bARTT0GFhrtQE7Dm54N.jpg",
     "details": {
+        "Stars": [
+            "Edward James Olmos",
+            "Rick Aiello",
+            "Angela Alvarado"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Writer": [
+            "Anthony Yerkovich"
+        ],
+        "Runtime": [
+            "92 min"
+        ],
+        "Director": [
+            "Reynaldo Villalobos"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "April 14, 1997 (United States)"
-        ],
-        "Also known as": [
-            "Секрети Голлівуду"
+            "1997-04-14"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Los Angeles County, California, USA"
-        ],
-        "Production companies": [
-            "Paramount Television",
-            "Yerkovich Productions"
+            "United States of America"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0947608/",
-            "name": "Anthony Yerkovich"
+            "name": "Anthony Yerkovich",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H32M",
-    "keywords": [
-        "unsold tv series pilot",
-        "tv series pilot",
-        "private investigator",
-        "hollywood california",
-        "ex cop"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0897794/",
-            "name": "Reynaldo Villalobos"
+            "name": "Reynaldo Villalobos",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0119302/",
     "metascore": null,
-    "imdb_votes": 377,
+    "imdb_votes": 393,
     "popularity": 0,
     "description": "A former LA cop runs a top-flight private detective agency that caters to spoiled Hollywood types.",
-    "imdb_rating": "4.9/10 from 377 users",
-    "release_date": [],
+    "imdb_rating": "4.9/10 from 393 users",
+    "release_date": [
+        {
+            "date": "1997-04-14",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": "R",
     "datePublished": "1997-04-14",
+    "original_title": "Hollywood Confidential",
     "imdb_rating_average": 4.9,
-    "update_at": "2025-05-19T19:23:11"
+    "update_at": "2026-11-16T06:35:14"
 }

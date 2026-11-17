@@ -4,7 +4,7 @@
     "name": "A Wish Come True",
     "site": "imdb",
     "year": "2015",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Romance"
@@ -12,74 +12,132 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1177914/",
-            "name": "Megan Park"
+            "name": "Megan Park",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2618951/",
-            "name": "Benjamin Hollingsworth"
+            "name": "Benjamin Hollingsworth",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0501355/",
-            "name": "Anthony Lemke"
+            "name": "Anthony Lemke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1583978/",
+            "name": "Olunike Adeliyi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0035676/",
+            "name": "Dean Armstrong",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3868446/",
+            "name": "Aidan Shipley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0197714/",
+            "name": "Jennifer Dale",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0494784/",
+            "name": "Ron Lea",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0166566/",
+            "name": "Karen Cliche",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001002/",
+            "name": "Dean Cain",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjI3YWI5YzEtYWMwYy00ZGNlLTg4MGYtYzljMWJiMjVlMjI3XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/gRriEKHqruHh4qoc5OglriBCG8j.jpg",
     "details": {
+        "Stars": [
+            "Megan Park",
+            "Benjamin Hollingsworth",
+            "Anthony Lemke"
+        ],
+        "Genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "Writer": [
+            "Mark Rosman"
+        ],
+        "Runtime": [
+            "85 min"
+        ],
+        "Director": [
+            "Mark Rosman"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 31, 2015 (United States)"
-        ],
-        "Also known as": [
-            "30th Birthday"
-        ],
-        "Official sites": [
-            "Hallmark Channel Press (United States) - https://www.hallmarkchannelpress.com/Shows/PRShowDetail?SiteID=142&FeedBoxID=845&NodeID=302&ShowType=&ShowTitle=A+Wish+Come+True",
-            "Muse Entertainment Enterprises (Canada) - http://www.muse.ca/en/a-wish-come-true.aspx"
+            "2015-01-31"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Sudbury, Ontario, Canada"
+            "Canada",
+            "United States of America"
         ],
         "Production companies": [
-            "Hallmark Channel",
-            "Muse Entertainment Enterprises"
+            "Muse Entertainment"
         ]
     },
-    "reviews": 14,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0743093/",
-            "name": "Mark Rosman"
+            "name": "Mark Rosman",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H25M",
     "keywords": [
-        "directed by writer",
-        "environmentalist",
-        "blowing out candles on a birthday cake",
-        "best friend",
-        "finding true love"
+        "birthday",
+        "wish",
+        "friends in love",
+        "wishes come true"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0743093/",
-            "name": "Mark Rosman"
+            "name": "Mark Rosman",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt4146410/",
     "metascore": null,
-    "imdb_votes": 1458,
+    "imdb_votes": 1571,
     "popularity": 0,
-    "description": "On the night of her 30th birthday, Lindsay Corwin, an unlucky environmentalist with a string of bad relationships, decides to make the ultimate wish: for all of her birthday wishes to come true.",
-    "imdb_rating": "5.6/10 from 1458 users",
-    "release_date": [],
-    "contentRating": "TV-G",
+    "description": "On the night of her 30th birthday, Lindsay Corwin, an  unlucky environmentalist with a string of bad relationships,  decides to make the ultimate wish: for all of her birthday  wishes to come true. When her nearly three decades of  wishes, including everything from losing weight to meeting  Mr. Right, start magically coming true all at once, Lindsay  is awestruck—until she realizes the life, and the man, she’s  always wished for might not be the one she really wants.",
+    "imdb_rating": "5.6/10 from 1571 users",
+    "release_date": [
+        {
+            "date": "2015-07-07",
+            "country": "France"
+        },
+        {
+            "date": "2015-01-31",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "G",
     "datePublished": "2015-01-31",
+    "original_title": "A Wish Come True",
     "imdb_rating_average": 5.6,
-    "update_at": "2025-04-18T15:44:42"
+    "update_at": "2026-11-16T08:35:26"
 }

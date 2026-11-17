@@ -4,7 +4,7 @@
     "name": "The Pajama Party",
     "site": "imdb",
     "year": "1931",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Comedy",
         "Short"
@@ -12,70 +12,119 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0686032/",
-            "name": "Zasu Pitts"
+            "name": "Zasu Pitts",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0865298/",
-            "name": "Thelma Todd"
+            "name": "Thelma Todd",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0286721/",
-            "name": "Elizabeth Forrester"
+            "name": "Elizabeth Forrester",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0242554/",
+            "name": "Eddie Dunn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0637161/",
+            "name": "Donald Novis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0210536/",
+            "name": "Germaine De Neel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0317970/",
+            "name": "Billy Gilbert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0355408/",
+            "name": "Charlie Hall",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0419125/",
+            "name": "Sydney Jarvis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0505986/",
+            "name": "Carl M. Leviness",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmFlZDFhYmQtZjQ0OS00YzY5LThkM2EtYmJhMDBkZDYyYjkyXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/nybMPH1noCo0t2Zb5fvYxPGHqQ3.jpg",
     "details": {
-        "Languages": [
-            "English",
-            "French"
+        "Stars": [
+            "Zasu Pitts",
+            "Thelma Todd",
+            "Elizabeth Forrester"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "H.M. Walker"
+        ],
+        "Runtime": [
+            "20 min"
+        ],
+        "Director": [
+            "Hal Roach"
         ],
         "Release date": [
-            "October 3, 1931 (United States)"
-        ],
-        "Also known as": [
-            "The Pyjama Party"
+            "1931-10-03"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Hal Roach Studios"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0907778/",
-            "name": "H.M. Walker"
+            "name": "H.M. Walker",
+            "@type": "Person"
         }
     ],
     "duration": "PT20M",
-    "keywords": [
-        "car",
-        "female star appears in underwear",
-        "woman lifting a woman&apos;s dress",
-        "french maid",
-        "blonde bombshell"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0730018/",
-            "name": "Hal Roach"
+            "name": "Hal Roach",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0022245/",
     "metascore": null,
-    "imdb_votes": 130,
+    "imdb_votes": 133,
     "popularity": 0,
-    "description": "When two girls run their car off the road, a society matron insists that they spend the night at her mansion.",
-    "imdb_rating": "6.6/10 from 130 users",
-    "release_date": [],
+    "description": "After running their car off the road, a society matron insists that the girls spend the evening at her mansion.",
+    "imdb_rating": "6.6/10 from 133 users",
+    "release_date": [
+        {
+            "date": "1931-10-03",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1931-10-03",
+    "original_title": "The Pajama Party",
     "imdb_rating_average": 6.6,
-    "update_at": "2025-09-20T04:21:38"
+    "update_at": "2026-11-16T23:00:21"
 }

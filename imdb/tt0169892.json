@@ -1,10 +1,15 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Fantazii Faryatyeva",
+            "country": "Russia"
+        }
+    ],
     "sid": "tt0169892",
     "name": "Fantazii Faryateva",
     "site": "imdb",
     "year": "1982",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Drama"
@@ -12,65 +17,108 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0628669/",
-            "name": "Marina Neyolova"
+            "name": "Marina Neyolova",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0592490/",
-            "name": "Andrey Mironov"
+            "name": "Andrey Mironov",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0788835/",
-            "name": "Zinaida Sharko"
+            "name": "Zinaida Sharko",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0342676/",
+            "name": "Liliya Gritsenko",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0244302/",
+            "name": "Ekaterina Durova",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0110236/",
+            "name": "Maksim Britvenkov",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWM3NGU2MzEtY2UzOC00NzE0LWIxNmMtN2JhZGM3NDJlZjRhXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/v45HpT95aESiC5VWkuQWTE7KsMH.jpg",
     "details": {
+        "Stars": [
+            "Marina Neyolova",
+            "Andrey Mironov",
+            "Zinaida Sharko"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "Writer": [
+            "Ilya Averbakh",
+            "Alla Sokolova"
+        ],
+        "Runtime": [
+            "152 min"
+        ],
+        "Director": [
+            "Ilya Averbakh"
+        ],
         "Language": [
             "Russian"
         ],
         "Release date": [
-            "January 25, 1982 (Soviet Union)"
-        ],
-        "Also known as": [
-            "Faratyev's Fantasies"
+            "1982-01-25"
         ],
         "Country of origin": [
             "Soviet Union"
+        ],
+        "Production companies": [
+            "Lenfilm"
         ]
     },
     "reviews": 0,
+    "tagline": "A funny and sad story of mismatched love, family and life surprises",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0042946/",
-            "name": "Ilya Averbakh"
+            "name": "Ilya Averbakh",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0812485/",
-            "name": "Alla Sokolova"
+            "name": "Alla Sokolova",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H32M",
-    "keywords": [
-        "flat",
-        "provincial russia",
-        "based on play"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0042946/",
-            "name": "Ilya Averbakh"
+            "name": "Ilya Averbakh",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0169892/",
     "metascore": null,
-    "imdb_votes": 437,
+    "imdb_votes": 464,
     "popularity": 0,
-    "description": "A funny and sad story of mismatched love, family and life surprises.",
-    "imdb_rating": "7.7/10 from 437 users",
-    "release_date": [],
+    "description": "The story of a man surrounded by four woman, Faratyev, he is madly in love with on, Aleksandra, compassionately take care of another, her aunt, and is indifferent to the other two, Aleksandra's mother, and her sister, Lyuba. The world of these characters are that of dreams, each one's dream in interconnected to that of other, and each respond differently to it.  Faratyev is a man who dreams, he live in the world of fantasies. Aleksandra and her mother listen to him, but do not take him seriously, his aunt listen to him, believe him, but do not encourage him, only Lyuba understand him, but to him, she is a mere child, he is madly in love with her sister, Aleksandra, she is a realist, she does not love him, but for sake of her own prosperity and that of her mother and sister, she agree to marry him, only to run away with the mysterious Bedhudov...",
+    "imdb_rating": "7.7/10 from 464 users",
+    "release_date": [
+        {
+            "date": "1982-01-25",
+            "country": "Soviet Union"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1982-01-25",
+    "original_title": "Fantazii Faryateva",
     "imdb_rating_average": 7.7,
-    "update_at": "2026-02-05T10:21:40"
+    "update_at": "2026-11-17T00:49:07"
 }

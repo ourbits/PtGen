@@ -1,8 +1,14 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Neil Young and Crazy Horse - Weld",
+            "country": "United States of America"
+        }
+    ],
     "sid": "tt0149353",
     "name": "Weld",
     "site": "imdb",
+    "year": "1991",
     "@type": "Movie",
     "genre": [
         "Documentary",
@@ -11,48 +17,83 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0596776/",
-            "name": "Ralph Molina"
+            "name": "Ralph Molina",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0760050/",
-            "name": "Frank &apos;Pancho&apos; Sampedro"
+            "name": "Frank 'Pancho' Sampedro",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0847888/",
-            "name": "Billy Talbot"
+            "name": "Billy Talbot",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0949918/",
+            "name": "Neil Young",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5ODgzMTEwNF5BMl5BanBnXkFtZTYwMjIwNjM5._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/jwQerZDbv2XWzMCzPy4xBkmBNwk.jpg",
     "details": {
-        "Languages": [
-            "English",
-            "German"
+        "Stars": [
+            "Ralph Molina",
+            "Frank 'Pancho' Sampedro",
+            "Billy Talbot"
+        ],
+        "Genres": [
+            "Documentary",
+            "Music"
+        ],
+        "Runtime": [
+            "107 min"
+        ],
+        "Director": [
+            "Neil Young"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Release date": [
+            "1991-10-22"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
+        ],
+        "Production companies": [
+            "Shakey Pictures"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": "PT1H47M",
-    "keywords": [
-        "american"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0949918/",
-            "name": "Neil Young"
+            "name": "Neil Young",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0149353/",
     "metascore": null,
-    "imdb_votes": 109,
+    "imdb_votes": 110,
     "popularity": 0,
-    "description": "Neil Young and Crazy Horse live. Recorded in Feb - April 1991, on the North American leg of the Ragged Glory tour.",
-    "imdb_rating": "8.7/10 from 109 users",
-    "release_date": [],
+    "description": "A documentation of Neil Young and Crazy Horse concert from 1990.",
+    "imdb_rating": "8.6/10 from 110 users",
+    "release_date": [
+        {
+            "date": "1991-10-22",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 8.7,
-    "update_at": "2025-09-02T14:26:19"
+    "datePublished": "1991-10-22",
+    "original_title": "Weld",
+    "imdb_rating_average": 8.6,
+    "update_at": "2026-11-16T21:49:07"
 }

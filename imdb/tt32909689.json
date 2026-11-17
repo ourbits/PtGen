@@ -4,71 +4,126 @@
     "name": "Jane Birkin by Friends",
     "site": "imdb",
     "year": "2024",
-    "@type": "Movie",
+    "@type": "TVSpecial",
     "genre": [
         "Music"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0007292/",
-            "name": "Dominique A."
+            "name": "Dominique A.",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1601029/",
-            "name": "Abd Al Malik"
+            "name": "Abd Al Malik",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1374399/",
-            "name": "Keren Ann"
+            "name": "Keren Ann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000272/",
+            "name": "Fanny Ardant",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0040939/",
+            "name": "Yvan Attal",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0116257/",
+            "name": "Carla Bruni",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1342060/",
+            "name": "Matthieu Chedid",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1006741/",
+            "name": "Jarvis Cocker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0182839/",
+            "name": "Marion Cotillard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5571492/",
+            "name": "Eddy de Pretto",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjdhZTFlNDYtZTM3ZS00MjFiLTgwNWUtOTRlNTBlMDU2ODdiXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/lKQL3a6lxxc2aux4sVAeIovghkM.jpg",
     "details": {
+        "Stars": [
+            "Dominique A.",
+            "Abd Al Malik",
+            "Keren Ann"
+        ],
+        "Genres": [
+            "Music"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Gaëtan Chataigner"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "July 17, 2024 (France)"
-        ],
-        "Official site": [
-            "Canal+ - https://www.canalplus.com/divertissement/jane-birkin-by-friends/h/25654109_50001"
+            "2024-07-17"
         ],
         "Country of origin": [
             "France"
         ],
-        "Filming locations": [
-            "Olympia, Paris, France"
-        ],
-        "Production company": [
+        "Production companies": [
             "Canal+"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT1H30M",
     "keywords": [
-        "singer",
-        "live concert",
-        "tv special",
-        "friend",
-        "tribute to mother"
+        "concert",
+        "friends",
+        "olympia",
+        "tribute concert",
+        "band",
+        "live concert"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1627717/",
-            "name": "Gaëtan Chataigner"
+            "name": "Gaëtan Chataigner",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt32909689/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Live concert broadcast by Canal+ in tribute to Jane Birkin, filmed at the Olympia in Paris on 3 February 2024, featuring Charlotte Gainsbourg, Marion Cotillard, Lou Doillon, Sandrine Kiberlain, Vanessa Paradis and many others.",
+    "description": "Jane Birkin was scheduled to perform at the Olympia in Paris on February 3, 2024. After she passed away on July 16, 2023, her daughters and her friends performed along with her musicians in a tribute concert entitled \"Jane Birkin by Friends\" for an exceptional performance of \"Oh! Pardon tu dormais...\", the singer's last concert, on the day that would have been Birkin's concert at the Olympia. Among the performers were Charlotte Gainsbourg, Marion Cotillard, Lou Doillon, Vanessa Paradis and many others. All profits from the concert were donated to French charity Restaurants du Cœur. The concert was later broadcast by Canal+.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2024-07-17",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2024-07-17",
+    "original_title": "Jane Birkin by Friends",
     "imdb_rating_average": 0,
-    "update_at": "2025-04-14T11:12:05"
+    "update_at": "2026-11-16T10:49:35"
 }

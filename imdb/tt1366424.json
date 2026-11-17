@@ -4,56 +4,69 @@
     "name": "Plateau Baby Man",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2371783/",
-            "name": "Catherine Lipscombe"
+            "name": "Catherine Lipscombe",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2332723/",
-            "name": "Ken Proulx"
+            "name": "Ken Proulx",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0893464/",
-            "name": "Gianpaolo Venuta"
+            "name": "Gianpaolo Venuta",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Catherine Lipscombe",
+            "Ken Proulx",
+            "Gianpaolo Venuta"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Ken Proulx"
+        ],
+        "Runtime": [
+            "7 min"
+        ],
+        "Director": [
+            "Ken Proulx"
         ],
         "Release date": [
-            "January 1, 2009 (Canada)"
-        ],
-        "Country of origin": [
-            "Canada"
-        ],
-        "Filming locations": [
-            "Montréal, Québec, Canada"
+            "2009"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2332723/",
-            "name": "Ken Proulx"
+            "name": "Ken Proulx",
+            "@type": "Person"
         }
     ],
     "duration": "PT7M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2332723/",
-            "name": "Ken Proulx"
+            "name": "Ken Proulx",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1366424/",
@@ -64,7 +77,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2009-01-01",
+    "datePublished": "2009",
+    "original_title": "Plateau Baby Man",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-13T09:35:38"
+    "update_at": "2026-11-16T23:56:12"
 }

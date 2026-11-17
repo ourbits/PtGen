@@ -4,7 +4,7 @@
     "name": "Mein süßes Geheimnis",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Drama",
@@ -13,63 +13,128 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0903212/",
-            "name": "Gila von Weitershausen"
+            "name": "Gila von Weitershausen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0466234/",
-            "name": "Hans Peter Korff"
+            "name": "Hans Peter Korff",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0773632/",
-            "name": "Sanne Schnapp"
+            "name": "Sanne Schnapp",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0902083/",
+            "name": "Johann von Bülow",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0843817/",
+            "name": "Fanny Stavjanik",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0252191/",
+            "name": "Felix Eitner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0903110/",
+            "name": "Friedrich von Thun",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2676294/",
+            "name": "Kátia Cipris",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0311938/",
+            "name": "Ulla Geiger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0336216/",
+            "name": "David Gravenhorst",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjg5NGU5N2QtODA3Zi00YmRiLTg2NjItYTQ3ZmM2NmI5MDIwXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/m4vqFcn0ZDFmfRFqHPQShfjxoxz.jpg",
     "details": {
+        "Stars": [
+            "Gila von Weitershausen",
+            "Hans Peter Korff",
+            "Sanne Schnapp"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Sophia Krapoth"
+        ],
+        "Runtime": [
+            "87 min"
+        ],
+        "Director": [
+            "Xaver Schwarzenberger"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "March 1, 2006 (Austria)"
+            "2006-02-18"
         ],
-        "Filming locations": [
-            "Herrenberg, Baden-Württemberg, Germany"
-        ],
-        "Production company": [
-            "Studio Hamburg Serienwerft"
-        ],
-        "Countries of origin": [
+        "Country of origin": [
             "Austria",
             "Germany"
+        ],
+        "Production companies": [
+            "ARD"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1065760/",
-            "name": "Sophia Krapoth"
+            "name": "Sophia Krapoth",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H27M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0005866/",
-            "name": "Xaver Schwarzenberger"
+            "name": "Xaver Schwarzenberger",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0759619/",
     "metascore": null,
     "imdb_votes": 40,
     "popularity": 0,
-    "description": "The gallant confectioner Alberto Puccini and the down-to-earth baker Katharina Achternhagen have been neighbors for two decades now - but their creations could hardly be more different",
+    "description": "Baker Katharina Achternhagen and pastry chef Alberto Puccini have been neighbors for almost 20 years. As their ideas about baked goods could not be more different, they have nothing but derision for each other. While Puccini offers real sugar bombs, Achternhagen is only interested in wholemeal products. Both have successful businesses with regular customers for years. The quality of their baked goods also speaks for itself. Puccini wins awards from the bakers' guild year after year and Achternhagen's Kraftmeier bread has also won several awards. Only this year, Achternhagen also won the cake competition with its diet cake. This is mainly due to the fact that the new chairman of the bakers' guild, Günter Zichorius, has secretly fallen in love with Achternhagen.",
     "imdb_rating": "5.4/10 from 40 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2006-02-18",
+            "country": "Austria"
+        },
+        {
+            "date": "2006-12-07",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2006-03-01",
+    "datePublished": "2006-02-18",
+    "original_title": "Mein süßes Geheimnis",
     "imdb_rating_average": 5.4,
-    "update_at": "2026-02-15T04:42:40"
+    "update_at": "2026-11-16T09:21:07"
 }

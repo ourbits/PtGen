@@ -4,66 +4,79 @@
     "name": "The Magic Mirror",
     "site": "imdb",
     "year": "1917",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0165744/",
-            "name": "Marguerite Clayton"
+            "name": "Marguerite Clayton",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0036427/",
-            "name": "Edward Arnold"
+            "name": "Edward Arnold",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0237682/",
-            "name": "Lillian Drew"
+            "name": "Lillian Drew",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0014742/",
+            "name": "Sidney Ainsworth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0173875/",
+            "name": "Thomas Commerford",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Stars": [
+            "Marguerite Clayton",
+            "Edward Arnold",
+            "Lillian Drew"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Director": [
+            "E.H. Calvert"
         ],
         "Release date": [
-            "January 27, 1917 (United States)"
-        ],
-        "Also known as": [
-            "Is Marriage Sacred? #7: The Magic Mirror"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "The Essanay Film Manufacturing Company"
+            "1917"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0130797/",
-            "name": "E.H. Calvert"
+            "name": "E.H. Calvert",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0812276/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "To make playthings of the hearts of men is Edna Fallon&apos;s one interest in life. Nellie, her sister, is different. She likes to bake bread, sew and keep their home in order. She has never had a love affair until she meets James Delm...",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1917-01-27",
+    "datePublished": "1917",
+    "original_title": "The Magic Mirror",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-03T23:52:21"
+    "update_at": "2026-11-16T07:21:08"
 }

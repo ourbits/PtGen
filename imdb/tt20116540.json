@@ -6,47 +6,66 @@
     "year": "2022",
     "@type": "TVEpisode",
     "genre": [
-        "Documentary",
         "Comedy",
+        "Documentary",
         "History"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm4663653/",
-            "name": "Derek Alexander"
+            "name": "Derek Alexander",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4752197/",
-            "name": "Norman Caruso"
+            "name": "Norman Caruso",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWFhMGQ3ZGEtNThjZi00Njc5LWFhZGYtNDIyMzE1Y2ExZDNjXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Derek Alexander",
+            "Norman Caruso"
+        ],
+        "Genres": [
+            "Comedy",
+            "Documentary",
+            "History"
+        ],
+        "Writer": [
+            "Norman Caruso"
+        ],
+        "Runtime": [
+            "78 min"
+        ],
         "Release date": [
-            "May 6, 2022 (United States)"
+            "2022"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm4752197/",
-            "name": "Norman Caruso"
+            "name": "Norman Caruso",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H18M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt20116540/",
     "metascore": null,
     "imdb_votes": 11,
     "popularity": 0,
-    "description": "A documentary on the making of Super Mario World, the launch of the Super Nintendo, and how the game perfected the concepts of the Super Mario series.",
-    "imdb_rating": "8/10 from 11 users",
+    "description": null,
+    "imdb_rating": "7.8/10 from 11 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2022-05-06",
-    "imdb_rating_average": 8,
-    "update_at": "2026-05-07T20:49:11"
+    "datePublished": "2022",
+    "original_title": "The Story of Super Mario World",
+    "imdb_rating_average": 7.8,
+    "update_at": "2026-11-16T13:56:58"
 }

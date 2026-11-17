@@ -5,41 +5,127 @@
     "site": "imdb",
     "year": "1965",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Comedy"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0605662/",
+            "name": "Hisaya Morishige",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0474299/",
+            "name": "Asami Kuji",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0462013/",
+            "name": "Keiju Kobayashi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0875362/",
+            "name": "Yôko Tsukasa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0441961/",
+            "name": "Daisuke Katō",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0586524/",
+            "name": "Norihei Miki",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0756998/",
+            "name": "Furankī Sakai",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0034889/",
+            "name": "Ichirô Arishima",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0359226/",
+            "name": "Yuriko Hanabusa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0407508/",
+            "name": "Junko Ikeuchi",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/ehr6K0GAUMo0EytlrESC0OqMx0F.jpg",
     "details": {
+        "Stars": [
+            "Hisaya Morishige",
+            "Asami Kuji",
+            "Keiju Kobayashi"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Ryōzō Kasahara"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "Shūe Matsubayashi"
+        ],
         "Language": [
             "Japanese"
         ],
         "Release date": [
-            "January 3, 1965 (Japan)"
-        ],
-        "Also known as": [
-            "社長忍法帖"
+            "1965-01-03"
         ],
         "Country of origin": [
             "Japan"
         ],
-        "Production company": [
-            "Toho"
+        "Production companies": [
+            "TOHO"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0440383/",
+            "name": "Ryōzō Kasahara",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT1H35M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0559398/",
+            "name": "Shūe Matsubayashi",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0218602/",
     "metascore": null,
-    "imdb_votes": 7,
+    "imdb_votes": 8,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.2/10 from 7 users",
-    "release_date": [],
+    "description": "The 22nd film in the Shacho comedy series.",
+    "imdb_rating": "6.7/10 from 8 users",
+    "release_date": [
+        {
+            "date": "1965-01-03",
+            "country": "Japan"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1965-01-03",
-    "imdb_rating_average": 7.2,
-    "update_at": "2025-11-09T22:00:37"
+    "original_title": "Shachô ninpôchô",
+    "imdb_rating_average": 6.7,
+    "update_at": "2026-11-16T03:28:06"
 }

@@ -1,71 +1,136 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Aventures dans le monde perdu de Sir Conan Doyle",
+            "country": "France"
+        },
+        {
+            "title": "Затерянный мир Артура Конан Дойля",
+            "country": "Russia"
+        },
+        {
+            "title": "العالم المفقود",
+            "country": "Saudi Arabia"
+        },
+        {
+            "title": "The Lost World",
+            "country": "United States of America"
+        }
+    ],
     "sid": "tt1071624",
     "name": "The Lost World",
     "site": "imdb",
     "year": "2002",
     "@type": "TVSeries",
     "genre": [
-        "Animation",
         "Action",
-        "Adventure"
+        "Adventure",
+        "Animation"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0285603/",
-            "name": "Dawn Ford"
+            "name": "Dawn Ford",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0920164/",
-            "name": "Danny Wells"
+            "name": "Danny Wells",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0050468/",
+            "name": "Sonja Ball",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0241690/",
-            "name": "Richard M Dumont"
+            "name": "Richard M Dumont",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0822092/",
+            "name": "Harry Standjofski",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0633579/",
+            "name": "Eleanor Noble",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmJlZDFmZDQtZjhiYS00ZjRiLThkNTItZTIyYWY4MTUyNjgzXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/ykOMWA2Zkln9JlcPDH26M7EqjK2.jpg",
     "details": {
-        "Languages": [
-            "French",
-            "English"
+        "Stars": [
+            "Dawn Ford",
+            "Danny Wells",
+            "Sonja Ball"
+        ],
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "Writer": [
+            "Thomas LaPierre",
+            "Joseph Mallozzi",
+            "Caroline R. Maria"
+        ],
+        "Runtime": [
+            "22 min"
+        ],
+        "Director": [
+            "François Brisson"
+        ],
+        "Language": [
+            "French"
         ],
         "Release date": [
-            "January 1, 2002 (France)"
+            "2002-01-01"
         ],
-        "Also known as": [
-            "Затерянный мир Артура Конан Дойля"
-        ],
-        "Official site": [
-            "Official site (via Archive.org) - http://web.archive.org/web/20020526173213/http://lostworldtv.net"
-        ],
-        "Countries of origin": [
-            "Luxembourg",
-            "France",
-            "Canada"
-        ],
-        "Production companies": [
-            "Dargaud Marina",
-            "Neuroplanet",
-            "Neuroplanet"
+        "Country of origin": [
+            "France"
         ]
     },
-    "reviews": 2,
-    "creators": [],
-    "duration": null,
-    "keywords": [
-        "psychotronic series"
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0487548/",
+            "name": "Thomas LaPierre",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0540695/",
+            "name": "Joseph Mallozzi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1991806/",
+            "name": "Caroline R. Maria",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT22M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm1496018/",
+            "name": "François Brisson",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1071624/",
     "metascore": null,
-    "imdb_votes": 235,
+    "imdb_votes": 252,
     "popularity": 0,
-    "description": "Billy&apos;s father disappeared. He and his mother go to find him, while they find themselves lots of adventure, interesting animals, new friends in the lost world.",
-    "imdb_rating": "8.3/10 from 235 users",
+    "description": "Billy's father disappeared. So they set out to find him with his mother, on a journey to the lost world full of adventure, strange animals and new friends.",
+    "imdb_rating": "8.3/10 from 252 users",
     "release_date": [],
-    "contentRating": "TV-Y7-FV",
+    "contentRating": null,
     "datePublished": "2002-01-01",
+    "original_title": "The Lost World",
     "imdb_rating_average": 8.3,
-    "update_at": "2026-01-25T16:35:40"
+    "update_at": "2026-11-16T02:49:12"
 }

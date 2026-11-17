@@ -1,10 +1,19 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Andersonville",
+            "country": "Denmark"
+        },
+        {
+            "title": "Apodrasi ap' tin Kolasi",
+            "country": "Greece"
+        }
+    ],
     "sid": "tt0115097",
     "name": "Andersonville",
     "site": "imdb",
     "year": "1996",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Drama",
         "History",
@@ -13,59 +22,134 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0256372/",
-            "name": "Jarrod Emick"
+            "name": "Jarrod Emick",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0002078/",
-            "name": "Frederic Forrest"
+            "name": "Frederic Forrest",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0545998/",
-            "name": "Ted Marcoux"
+            "name": "Ted Marcoux",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0017651/",
+            "name": "Tom Aldredge",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0034492/",
+            "name": "Carmen Argenziano",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0058983/",
+            "name": "Jayce Bartok",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0168918/",
+            "name": "Frederick Coffin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0002037/",
+            "name": "Cliff De Young",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0286111/",
+            "name": "Denis Forest",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0377888/",
+            "name": "Justin Henry",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2U1NzAyNDEtYzdhNS00MmE3LWIxZDQtMDc2MzQ2MzQ2ZGMxXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/fk2oAP5M1yx31dJMfsL7DbouxBe.jpg",
     "details": {
+        "Stars": [
+            "Jarrod Emick",
+            "Frederic Forrest",
+            "Ted Marcoux"
+        ],
+        "Genres": [
+            "Drama",
+            "History",
+            "War"
+        ],
+        "Writer": [
+            "David W. Rintels"
+        ],
+        "Runtime": [
+            "84 min"
+        ],
+        "Director": [
+            "John Frankenheimer"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 3, 1996 (United States)"
-        ],
-        "Also known as": [
-            "Андерсонвилль"
+            "1996-03-03"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Turin, Georgia, USA"
+            "United States of America"
         ],
         "Production companies": [
-            "Gideon Productions",
-            "Turner Pictures (I)"
+            "Turner Pictures (I)",
+            "Turner Network Television",
+            "Gideon Productions"
         ]
     },
-    "reviews": 26,
-    "creators": [],
-    "duration": null,
+    "reviews": 0,
+    "tagline": "The great untold story of the American Civil War.",
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0725766/",
+            "name": "David W. Rintels",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT1H24M",
     "keywords": [
-        "andersonville prison",
-        "andersonville",
-        "confederate states of america",
-        "tv mini series",
-        "prisoner"
+        "prison",
+        "war crimes",
+        "prisoner of war",
+        "prison escape",
+        "prison brawl",
+        "union soldier",
+        "confederate soldier",
+        "american civil war"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0001239/",
+            "name": "John Frankenheimer",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0115097/",
     "metascore": null,
-    "imdb_votes": 2204,
+    "imdb_votes": 2279,
     "popularity": 0,
-    "description": "The story of the most notorious Confederate prisoner of war camp in the American Civil War.",
-    "imdb_rating": "7.3/10 from 2204 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "This lengthy docudrama records the harrowing conditions at the Confederacy's most notorious prisoner-of-war camp. The drama unfolds through the eyes of a company of Union soldiers captured at the Battle of Cold Harbor, VA, in June 1864, and shipped to the camp in southern Georgia. A private, Josiah Day, and his sergeant  try to hold their company together in the face of squalid living conditions, inhumane punishments, and a gang of predatory fellow prisoners called the Raiders.",
+    "imdb_rating": "7.3/10 from 2279 users",
+    "release_date": [
+        {
+            "date": "1996-03-03",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "1996-03-03",
+    "original_title": "Andersonville",
     "imdb_rating_average": 7.3,
-    "update_at": "2025-10-05T08:22:04"
+    "update_at": "2026-11-17T01:00:15"
 }

@@ -3,6 +3,7 @@
     "sid": "tt0887716",
     "name": "Atome",
     "site": "imdb",
+    "year": "2006",
     "@type": "Movie",
     "genre": [
         "Sci-Fi"
@@ -10,49 +11,70 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2366465/",
-            "name": "Joseph Konrad Bundschuh"
+            "name": "Joseph Konrad Bundschuh",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1925353/",
-            "name": "Lisa-Marie Janke"
+            "name": "Lisa-Marie Janke",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0994950/",
-            "name": "Maxim Mehmet"
+            "name": "Maxim Mehmet",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1218891/",
+            "name": "Oleg Zhukov",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2377838/",
+            "name": "Jörg Zimmermann",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Joseph Konrad Bundschuh",
+            "Lisa-Marie Janke",
+            "Maxim Mehmet"
+        ],
+        "Genres": [
+            "Sci-Fi"
+        ],
+        "Writer": [
+            "Till Steinmetz"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Till Steinmetz"
         ],
         "Release date": [
-            "2006 (Germany)"
-        ],
-        "Country of origin": [
-            "Germany"
-        ],
-        "Production companies": [
-            "FH-Dortmund",
-            "Kunsthochschule für Medien Köln (KHM)"
+            "2006"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2042734/",
-            "name": "Till Steinmetz"
+            "name": "Till Steinmetz",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2042734/",
-            "name": "Till Steinmetz"
+            "name": "Till Steinmetz",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0887716/",
@@ -63,7 +85,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2006",
+    "original_title": "Atome",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-30T03:28:10"
+    "update_at": "2026-11-16T03:21:08"
 }

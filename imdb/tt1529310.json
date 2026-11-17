@@ -3,59 +3,68 @@
     "sid": "tt1529310",
     "name": "Nachttanke",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2008",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1101420/",
-            "name": "Alexander J. Beck"
+            "name": "Alexander J. Beck",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2508632/",
-            "name": "Andreas Konzack"
+            "name": "Andreas Konzack",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "None"
+        "Stars": [
+            "Alexander J. Beck",
+            "Andreas Konzack"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Lisa Engelbach",
+            "Christian Schleisiek"
+        ],
+        "Runtime": [
+            "7 min"
+        ],
+        "Director": [
+            "Christian Schleisiek"
         ],
         "Release date": [
-            "October 2008 (United States)"
-        ],
-        "Country of origin": [
-            "Germany"
-        ],
-        "Filming locations": [
-            "Wiesbaden, Hessen, Germany"
+            "2008"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3606887/",
-            "name": "Lisa Engelbach"
+            "name": "Lisa Engelbach",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3586613/",
-            "name": "Christian Schleisiek"
+            "name": "Christian Schleisiek",
+            "@type": "Person"
         }
     ],
     "duration": "PT7M",
-    "keywords": [
-        "experimental short",
-        "blackmail",
-        "stopwatch",
-        "police",
-        "father"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3586613/",
-            "name": "Christian Schleisiek"
+            "name": "Christian Schleisiek",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1529310/",
@@ -66,7 +75,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2008",
+    "original_title": "Nachttanke",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-12T06:26:08"
+    "update_at": "2026-11-16T02:49:22"
 }

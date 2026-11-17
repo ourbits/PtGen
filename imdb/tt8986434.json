@@ -4,67 +4,110 @@
     "name": "Iago",
     "site": "imdb",
     "year": "2019",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm5935959/",
-            "name": "Saint Ranson"
+            "name": "Saint Ranson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm10115922/",
-            "name": "Juvanie Hildreth"
+            "name": "Juvanie Hildreth",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2459787/",
-            "name": "Brighid Fleming"
+            "name": "Brighid Fleming",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4565357/",
+            "name": "Brandon Rachal",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7461838/",
+            "name": "Mia Geere",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0939730/",
+            "name": "Grahame Wood",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0891647/",
+            "name": "Miles J.D. Vedder",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7669969/",
+            "name": "Melanie Andrews",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10116776/",
+            "name": "Ronald Arcy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10116677/",
+            "name": "Thomas Carlton",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDVlMGNmOTYtMGY1OC00YjI1LTkxYmItNWE1OTllY2Y3OTZkXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Saint Ranson",
+            "Juvanie Hildreth",
+            "Brighid Fleming"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Melanie Andrews",
+            "Amit Bhalla"
+        ],
+        "Runtime": [
+            "19 min"
+        ],
+        "Director": [
+            "Amit Bhalla"
         ],
         "Release date": [
-            "February 11, 2019 (United States)"
-        ],
-        "Official site": [
-            "official site - http://www.iagothefilm.com/"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Los Angeles, California, USA"
-        ],
-        "Production companies": [
-            "Inner City Shakespeare Ensemble",
-            "Stoic Media"
+            "2019-09-01"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm7669969/",
-            "name": "Melanie Andrews"
+            "name": "Melanie Andrews",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3494901/",
-            "name": "Amit Bhalla"
+            "name": "Amit Bhalla",
+            "@type": "Person"
         }
     ],
     "duration": "PT19M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3494901/",
-            "name": "Amit Bhalla"
+            "name": "Amit Bhalla",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt8986434/",
@@ -73,9 +116,15 @@
     "popularity": 0,
     "description": "The infamous tale of jealousy and betrayal, OTHELLO, is reimagined during the revolutionary experiments of the Black Panther Party. Based on the play by William Shakespeare.",
     "imdb_rating": "8.7/10 from 16 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2019-09-01",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2019-02-11",
+    "datePublished": "2019-09-01",
+    "original_title": "Iago",
     "imdb_rating_average": 8.7,
-    "update_at": "2025-09-20T07:42:26"
+    "update_at": "2026-11-17T01:49:07"
 }

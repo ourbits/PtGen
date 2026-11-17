@@ -1,60 +1,112 @@
 {
     "aka": [],
     "sid": "tt0432550",
-    "name": "Je meurs de soif, j&apos;étouffe, je ne puis crier...",
+    "name": "Je meurs de soif, j'étouffe, je ne puis crier...",
     "site": "imdb",
+    "year": "1979",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Documentary",
+        "Drama"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0073146/",
-            "name": "Gina Lola Benzina"
+            "name": "Gina Lola Benzina",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0308042/",
-            "name": "Philippe Garrel"
+            "name": "Philippe Garrel",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1767862/",
-            "name": "Marie-Noëlle Kauffmann"
+            "name": "Marie-Noëlle Kauffmann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0652225/",
+            "name": "F.J. Ossang",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0901480/",
+            "name": "Tessa Volkine",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/VDV0RRjLQ5DmTTazf2yhNi46Lt.jpg",
     "details": {
+        "Stars": [
+            "Gina Lola Benzina",
+            "Philippe Garrel",
+            "Marie-Noëlle Kauffmann"
+        ],
+        "Genres": [
+            "Documentary",
+            "Drama"
+        ],
+        "Writer": [
+            "Gérard Courant"
+        ],
+        "Runtime": [
+            "70 min"
+        ],
+        "Director": [
+            "Gérard Courant"
+        ],
         "Language": [
-            "None"
+            "No Language"
+        ],
+        "Release date": [
+            "1979-05-22"
         ],
         "Country of origin": [
             "France"
+        ],
+        "Production companies": [
+            "K.O.C.K. Production"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0183659/",
-            "name": "Gérard Courant"
+            "name": "Gérard Courant",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H10M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0183659/",
-            "name": "Gérard Courant"
+            "name": "Gérard Courant",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0432550/",
     "metascore": null,
-    "imdb_votes": 18,
+    "imdb_votes": 20,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "6.5/10 from 18 users",
-    "release_date": [],
+    "description": "\"This is the story of a search, that of a woman in pursuit of her own identity. This woman, Marie-Noëlle Kauffmann, ventures into the world of representation, meets four characters who, each in their own way, give her a key to cross the five sequences/initiations of the film which are all benchmarks that she must absolutely cross to have an answer to the question: Can cinema help find a lost balance?\" -Gerard Courant",
+    "imdb_rating": "7.4/10 from 20 users",
+    "release_date": [
+        {
+            "date": "1979-05-22",
+            "country": "France"
+        },
+        {
+            "date": "1979-09-01",
+            "country": "Italy"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 6.5,
-    "update_at": "2025-06-09T15:13:19"
+    "datePublished": "1979-05-22",
+    "original_title": "Je meurs de soif, j'étouffe, je ne puis crier...",
+    "imdb_rating_average": 7.4,
+    "update_at": "2026-11-17T02:00:35"
 }

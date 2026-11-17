@@ -4,75 +4,101 @@
     "name": "The Powder Room",
     "site": "imdb",
     "year": "1971",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001509/",
-            "name": "Dean Martin"
+            "name": "Dean Martin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0122528/",
-            "name": "Jeannine Burnier"
+            "name": "Jeannine Burnier",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0144197/",
-            "name": "Jack Cassidy"
+            "name": "Jack Cassidy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0372758/",
+            "name": "Joey Heatherton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0834626/",
+            "name": "Elaine Stritch",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Dean Martin",
+            "Jeannine Burnier",
+            "Jack Cassidy"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "George Arthur Bloom",
+            "Robert Hilliard",
+            "Rod Parker"
+        ],
+        "Runtime": [
+            "30 min"
+        ],
+        "Director": [
+            "Jonathan Lucas"
         ],
         "Release date": [
-            "August 26, 1971 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
+            "1971"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0089166/",
-            "name": "George Arthur Bloom"
+            "name": "George Arthur Bloom",
+            "@type": "Person"
         },
         {
-            "url": "https://www.imdb.com/name/nm1075785/",
-            "name": "Robert Hilliard"
+            "url": "https://www.imdb.com/name/nm0384967/",
+            "name": "Robert Hilliard",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0662586/",
-            "name": "Rod Parker"
+            "name": "Rod Parker",
+            "@type": "Person"
         }
     ],
     "duration": "PT30M",
-    "keywords": [
-        "anthology",
-        "widow",
-        "unsold tv series pilot",
-        "seduction",
-        "dormant libido"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0524191/",
-            "name": "Jonathan Lucas"
+            "name": "Jonathan Lucas",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0456604/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Unsold pilot for an anthology series with stories of love from a woman&apos;s vantage point.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1971-08-26",
+    "datePublished": "1971",
+    "original_title": "The Powder Room",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-23T12:28:15"
+    "update_at": "2026-11-16T04:14:30"
 }

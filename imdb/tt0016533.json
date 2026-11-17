@@ -3,6 +3,7 @@
     "sid": "tt0016533",
     "name": "Wild Horse Canyon",
     "site": "imdb",
+    "year": "1925",
     "@type": "Movie",
     "genre": [
         "Action",
@@ -12,60 +13,85 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0134831/",
-            "name": "Yakima Canutt"
+            "name": "Yakima Canutt",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0744507/",
-            "name": "Helene Rosson"
+            "name": "Helene Rosson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0147692/",
-            "name": "Edward Cecil"
+            "name": "Edward Cecil",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0847970/",
+            "name": "Slim Talbot",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2225493/",
+            "name": "Boy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0529036/",
+            "name": "Cliff Lyons",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTg4MTc3MDI3MF5BMl5BanBnXkFtZTcwMjgyMDY2Nw@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/zm793MHb5pyfvOJWvG23M1PMKey.jpg",
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Stars": [
+            "Yakima Canutt",
+            "Helene Rosson",
+            "Edward Cecil"
         ],
-        "Country of origin": [
-            "United States"
+        "Genres": [
+            "Action",
+            "Drama",
+            "Romance"
         ],
-        "Filming locations": [
-            "Kernville, California, USA"
+        "Runtime": [
+            "68 min"
         ],
-        "Production companies": [
-            "Yakima Canutt Productions",
-            "Goodwill Productions"
+        "Director": [
+            "Ben F. Wilson"
+        ],
+        "Release date": [
+            "1925-05-30"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": "A vigorous story of America's last frontier.",
     "creators": [],
     "duration": "PT1H8M",
-    "keywords": [
-        "ranch",
-        "murder",
-        "herd",
-        "wild horse",
-        "dog"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0933045/",
-            "name": "Ben F. Wilson"
+            "name": "Ben F. Wilson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0016533/",
     "metascore": null,
-    "imdb_votes": 25,
+    "imdb_votes": 20,
     "popularity": 0,
-    "description": "The foreman of a ranch owned by a pretty young girl captures a herd of wild horses, but the herd&apos;s lead horse manages to break them free. The foreman blames a drifting cowboy, Yak, for the break-out. Yak, however, seems intent on ...",
-    "imdb_rating": "5.6/10 from 25 users",
-    "release_date": [],
-    "contentRating": "Passed",
-    "datePublished": null,
+    "description": "The foreman of a ranch owned by a pretty young girl captures a herd of wild horses, but the herd's lead horse manages to break them free. The foreman blames a drifting cowboy, Yak, for the break-out. Yak, however, seems intent on provoking a confrontation with the foreman at every opportunity--and, as it turns out, for good reason.",
+    "imdb_rating": "5.6/10 from 20 users",
+    "release_date": [
+        {
+            "date": "1925-05-30",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1925-05-30",
+    "original_title": "Wild Horse Canyon",
     "imdb_rating_average": 5.6,
-    "update_at": "2026-03-24T22:56:47"
+    "update_at": "2026-11-16T19:49:29"
 }
