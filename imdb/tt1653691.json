@@ -4,56 +4,76 @@
     "name": "Permutations",
     "site": "imdb",
     "year": "1968",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Animation",
         "Short"
     ],
+    "actors": [],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTViNTdiOWItZTlmMy00MDM3LWFmZDctOGNkMzI0NjcyNTEzXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/50blpQQfZcyF0vOcqGJuVLWPncE.jpg",
     "details": {
+        "Genres": [
+            "Animation",
+            "Short"
+        ],
+        "Writer": [
+            "Jack Citron"
+        ],
+        "Runtime": [
+            "8 min"
+        ],
+        "Director": [
+            "John Whitney Sr."
+        ],
         "Language": [
-            "None"
+            "No Language"
         ],
         "Release date": [
-            "December 21, 1968 (United States)"
+            "1968-12-21"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Health Sciences Computing Facility, UCLA School of Medicine, Los Angeles, California, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "International Business Machines (IBM)"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3906537/",
-            "name": "Jack Citron"
+            "name": "Jack Citron",
+            "@type": "Person"
         }
     ],
     "duration": "PT8M",
     "keywords": [
-        "computer graphics"
+        "computer program"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1124970/",
-            "name": "John Whitney Sr."
+            "name": "John Whitney Sr.",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1653691/",
     "metascore": null,
-    "imdb_votes": 207,
+    "imdb_votes": 218,
     "popularity": 0,
-    "description": "An experimental short film by John Whitney Sr. which combines animated shapes and colors.",
-    "imdb_rating": "6.5/10 from 207 users",
-    "release_date": [],
+    "description": "An experimental short film by John Whitney Sr. which combines animated shapes and colors; Computer graphics as dynamic, swirling art.  Preserved by the Academy Film Archive in 2014.",
+    "imdb_rating": "6.5/10 from 218 users",
+    "release_date": [
+        {
+            "date": "1968-12-21",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1968-12-21",
+    "original_title": "Permutations",
     "imdb_rating_average": 6.5,
-    "update_at": "2026-05-17T22:56:16"
+    "update_at": "2026-11-17T02:42:16"
 }

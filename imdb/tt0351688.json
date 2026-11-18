@@ -4,32 +4,91 @@
     "name": "Saiaku",
     "site": "imdb",
     "year": "2001",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Mystery",
         "Thriller"
     ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0767984/",
+            "name": "Kenji Sawada",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0632656/",
+            "name": "Naomi Nishida",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1101748/",
+            "name": "Kenji Harada",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0594274/",
+            "name": "Asumi Miwa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0756917/",
+            "name": "Yôsuke Saitô",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0434391/",
+            "name": "Kazue Tsunogae",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0794053/",
+            "name": "Toshi Shioya",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1086216/",
+            "name": "Takashi Nishina",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1356531/",
+            "name": "Osamu Shigematu",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Japanese"
+        "Stars": [
+            "Kenji Sawada",
+            "Naomi Nishida",
+            "Kenji Harada"
+        ],
+        "Genres": [
+            "Mystery",
+            "Thriller"
+        ],
+        "Runtime": [
+            "104 min"
+        ],
+        "Director": [
+            "Kazuki Ōmori"
         ],
         "Release date": [
-            "March 30, 2001 (Japan)"
-        ],
-        "Country of origin": [
-            "Japan"
-        ],
-        "Production company": [
-            "Tokyo Broadcasting System (TBS)"
+            "2001"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT1H44M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0648457/",
+            "name": "Kazuki Ōmori",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0351688/",
     "metascore": null,
@@ -39,7 +98,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2001-03-30",
+    "datePublished": "2001",
+    "original_title": "Saiaku",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-12T11:39:12"
+    "update_at": "2026-11-18T01:35:14"
 }

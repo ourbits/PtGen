@@ -6,71 +6,145 @@
     "year": "2025",
     "@type": "Movie",
     "genre": [
-        "Drama"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2428245/",
-            "name": "André Holland"
+            "name": "André Holland",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2718512/",
-            "name": "Nicole Beharie"
+            "name": "Nicole Beharie",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2398653/",
+            "name": "Roy Wood Jr.",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1986622/",
-            "name": "DeWanda Wise"
+            "name": "DeWanda Wise",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm13992846/",
+            "name": "Cadence Reese",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6617420/",
+            "name": "Jack Haven",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5264241/",
+            "name": "Joshua Boone",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm12557791/",
+            "name": "Shivani Shah",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0784255/",
+            "name": "Saycon Sengbloh",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1904386/",
+            "name": "Cassandra Freeman",
+            "@type": "Person"
         }
     ],
-    "critic": 10,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzZjMWM3NGQtYWNjNy00MzFhLTg2MDMtNDNhMDJmMTkzOTQ4XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/24yyckA68QnwX3zh0UF6V6LYXIz.jpg",
     "details": {
+        "Stars": [
+            "André Holland",
+            "Nicole Beharie",
+            "Roy Wood Jr."
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Paul Zimmerman"
+        ],
+        "Runtime": [
+            "97 min"
+        ],
+        "Director": [
+            "Rachael Holder"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 27, 2025 (United States)"
+            "2025-08-29"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Brooklyn, New York, USA"
+            "United States of America"
         ],
         "Production companies": [
             "Daughter Films",
             "Fireheart Entertainment",
-            "Harper Road Films"
+            "Harper Road Films",
+            "Washington Square Films"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm16813180/",
-            "name": "Paul Zimmerman"
+            "name": "Paul Zimmerman",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H37M",
     "keywords": [
-        "new york city",
-        "brooklyn new york city",
-        "friendship"
+        "friendship",
+        "loss",
+        "writer",
+        "relationship",
+        "art",
+        "brooklyn, new york city",
+        "woman director"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm6081170/",
-            "name": "Rachael Holder"
+            "name": "Rachael Holder",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt34880924/",
-    "metascore": 60,
-    "imdb_votes": 76,
+    "metascore": null,
+    "imdb_votes": 507,
     "popularity": 0,
-    "description": "Three longtime Brooklynites navigate careers, love, loss, and friendship against the rapidly changing landscape of their beloved city.",
-    "imdb_rating": "7.1/10 from 76 users",
-    "release_date": [],
-    "contentRating": null,
-    "datePublished": "2025-01-27",
-    "imdb_rating_average": 7.1,
-    "update_at": "2026-03-22T10:56:31"
+    "description": "Roger, a writer, navigates complicated relationships with his ex Casey and his current lover Nicole, a newly-single mother, with the support of his best friend Alan. A modern romance set against the rapidly changing landscape of Brooklyn, New York.",
+    "imdb_rating": "6.1/10 from 507 users",
+    "release_date": [
+        {
+            "date": "2025-10-10",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "2025-01-27",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
+    "datePublished": "2025-08-29",
+    "original_title": "Love, Brooklyn",
+    "imdb_rating_average": 6.1,
+    "update_at": "2026-11-17T11:56:25"
 }

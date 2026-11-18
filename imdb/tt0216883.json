@@ -4,76 +4,124 @@
     "name": "Little Women",
     "site": "imdb",
     "year": "1958",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
-        "Musical",
         "Drama",
-        "Family"
+        "Family",
+        "Musical"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0079203/",
-            "name": "Zina Bethune"
+            "name": "Zina Bethune",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0141257/",
-            "name": "Jeannie Carson"
+            "name": "Jeannie Carson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001297/",
-            "name": "Joel Grey"
+            "name": "Joel Grey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0370905/",
+            "name": "Bill Hayes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001341/",
+            "name": "Florence Henderson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4531963/",
+            "name": "Jock MacGregor",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0639684/",
+            "name": "Margaret O'Brien",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0741455/",
+            "name": "Jane Rose",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0828715/",
+            "name": "Risë Stevens",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0935996/",
+            "name": "Roland Winters",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDIyOWM2MjQtMmNjNi00MWNlLTg2MmQtMjExNzQwNmVjY2ZjXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Zina Bethune",
+            "Jeannie Carson",
+            "Joel Grey"
+        ],
+        "Genres": [
+            "Drama",
+            "Family",
+            "Musical"
+        ],
+        "Writer": [
+            "Louisa May Alcott",
+            "Wilson Lehr"
+        ],
+        "Runtime": [
+            "70 min"
+        ],
+        "Director": [
+            "William Corrigan"
         ],
         "Release date": [
-            "October 16, 1958 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "CBS"
+            "1958"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0017301/",
-            "name": "Louisa May Alcott"
+            "name": "Louisa May Alcott",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2949955/",
-            "name": "Wilson Lehr"
+            "name": "Wilson Lehr",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H10M",
-    "keywords": [
-        "sister sister relationship",
-        "mother daughter relationship",
-        "father daughter relationship",
-        "family relationships",
-        "live broadcast"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0181011/",
-            "name": "William Corrigan"
+            "name": "William Corrigan",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0216883/",
     "metascore": null,
-    "imdb_votes": 39,
+    "imdb_votes": 41,
     "popularity": 0,
-    "description": "Louisa May Alcott&apos;s autobiographical account of her life with her three sisters in Concord, Massachusetts in the 1860s. With their father fighting in the American Civil War, sisters Jo, Meg, Amy and Beth are at home with their mot...",
-    "imdb_rating": "7.5/10 from 39 users",
+    "description": null,
+    "imdb_rating": "7.1/10 from 41 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1958-10-16",
-    "imdb_rating_average": 7.5,
-    "update_at": "2025-06-07T19:22:06"
+    "datePublished": "1958",
+    "original_title": "Little Women",
+    "imdb_rating_average": 7.1,
+    "update_at": "2026-11-17T07:00:30"
 }

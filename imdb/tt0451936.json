@@ -11,52 +11,85 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0683828/",
-            "name": "Elisabeth Pinajeff"
+            "name": "Elisabeth Pinajeff",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0836765/",
-            "name": "Hans Stüwe"
+            "name": "Hans Stüwe",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0858917/",
-            "name": "Helga Thomas"
+            "name": "Helga Thomas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0585785/",
+            "name": "Hans Mierendorff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0827469/",
+            "name": "Hermine Sterler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0517058/",
+            "name": "John Loder",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0274034/",
+            "name": "Angelo Ferrari",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0902677/",
+            "name": "Helene von Bolvary",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "German"
+        "Stars": [
+            "Elisabeth Pinajeff",
+            "Hans Stüwe",
+            "Helga Thomas"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Margarete-Maria Langen"
+        ],
+        "Director": [
+            "Mario Bonnard"
         ],
         "Release date": [
-            "May 21, 1928 (Germany)"
-        ],
-        "Also known as": [
-            "The Sinner"
+            "1928-05-20"
         ],
         "Country of origin": [
             "Germany"
-        ],
-        "Production company": [
-            "Deutsche PDC (Producers Distributing Corporation)-Filmfabrikations GmbH"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1185468/",
-            "name": "Margarete-Maria Langen"
+            "name": "Margarete-Maria Langen",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0094801/",
-            "name": "Mario Bonnard"
+            "name": "Mario Bonnard",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0451936/",
@@ -65,9 +98,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1928-05-20",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1928-05-21",
+    "datePublished": "1928-05-20",
+    "original_title": "Die Sünderin",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-31T13:13:20"
+    "update_at": "2026-11-17T13:28:28"
 }

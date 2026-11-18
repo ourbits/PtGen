@@ -4,72 +4,135 @@
     "name": "Shark Beach with Chris Hemsworth",
     "site": "imdb",
     "year": "2021",
-    "@type": "Movie",
+    "@type": "TVSpecial",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1165110/",
-            "name": "Chris Hemsworth"
+            "name": "Chris Hemsworth",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0853294/",
-            "name": "Valerie Taylor"
+            "name": "Valerie Taylor",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2150114/",
-            "name": "Mick Fanning"
+            "name": "Mick Fanning",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11307119/",
+            "name": "Charlie Huveneers",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm12745662/",
+            "name": "Nickolla Clark",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm12745661/",
+            "name": "Paul Butcher",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWViNzcwN2MtYWE1Zi00Y2Y0LTljM2UtNTM5NmE0YWUzMzJjXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/lnx1DMYg4hUU16rH9kOmMQECBeE.jpg",
     "details": {
+        "Stars": [
+            "Chris Hemsworth",
+            "Valerie Taylor",
+            "Mick Fanning"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Writer": [
+            "Benjamin Grayson"
+        ],
+        "Runtime": [
+            "45 min"
+        ],
+        "Director": [
+            "Sally Aitken"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "July 9, 2021 (United States)"
-        ],
-        "Also known as": [
-            "Крис Хемсворт в царстве акул"
+            "2021-07-05"
         ],
         "Country of origin": [
-            "United States"
+            "United Kingdom",
+            "United States of America"
         ],
         "Production companies": [
-            "National Geographic Wild",
-            "National Geographic",
-            "Nutopia"
+            "Nutopia",
+            "National Geographic"
         ]
     },
-    "reviews": 7,
+    "reviews": 0,
+    "tagline": "Fear. Less.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2474040/",
-            "name": "Benjamin Grayson"
+            "name": "Benjamin Grayson",
+            "@type": "Person"
         }
     ],
     "duration": "PT45M",
     "keywords": [
-        "tv special",
-        "shark"
+        "scientific study",
+        "underwater",
+        "shark",
+        "relatonship study",
+        "animal protection",
+        "cohabitation",
+        "sharks",
+        "shark water"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1632989/",
-            "name": "Sally Aitken"
+            "name": "Sally Aitken",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt12833014/",
     "metascore": null,
-    "imdb_votes": 616,
+    "imdb_votes": 657,
     "popularity": 0,
-    "description": "Chris Hemsworth hosts a special that explores the tricky relationship between humans and sharks.",
-    "imdb_rating": "6.6/10 from 616 users",
-    "release_date": [],
-    "contentRating": "TV-PG",
-    "datePublished": "2021-07-09",
+    "description": "Chris Hemsworth has a real passion for sharks. The Hollywood star talks to experts to find out more about the apex predators of the oceans.",
+    "imdb_rating": "6.6/10 from 657 users",
+    "release_date": [
+        {
+            "date": "2021-07-09",
+            "country": "Australia"
+        },
+        {
+            "date": "2021-08-27",
+            "country": "Brazil"
+        },
+        {
+            "date": "2023-07-07",
+            "country": "France"
+        },
+        {
+            "date": "2021-08-27",
+            "country": "South Korea"
+        },
+        {
+            "date": "2021-07-05",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "PG-13",
+    "datePublished": "2021-07-05",
+    "original_title": "Shark Beach with Chris Hemsworth",
     "imdb_rating_average": 6.6,
-    "update_at": "2025-08-27T23:35:10"
+    "update_at": "2026-11-17T14:42:30"
 }

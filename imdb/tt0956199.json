@@ -3,25 +3,46 @@
     "sid": "tt0956199",
     "name": "Der Mustergatte",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1984",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0734597/",
+            "name": "Walter Roderer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0420036/",
+            "name": "Ruth Jecklin",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Release date": [
-            "1984 (Switzerland)"
+        "Stars": [
+            "Walter Roderer",
+            "Ruth Jecklin"
         ],
-        "Country of origin": [
-            "Switzerland"
+        "Genres": [
+            "Comedy"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Release date": [
+            "1984"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": "PT1H35M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt0956199/",
     "metascore": null,
     "imdb_votes": 0,
@@ -30,7 +51,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1984",
+    "original_title": "Der Mustergatte",
     "imdb_rating_average": 0,
-    "update_at": "2026-05-28T17:07:36"
+    "update_at": "2026-11-18T00:14:06"
 }

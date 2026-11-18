@@ -5,29 +5,74 @@
     "site": "imdb",
     "year": "1925",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm2369538/",
+            "name": "Ichitarō Kataoka",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3832676/",
+            "name": "Utasaburô Nakamura",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1760295/",
+            "name": "Teruko Makino",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2380781/",
+            "name": "Haruko Izumi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2372670/",
+            "name": "Masatada Makino",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0538632/",
+            "name": "Masahiro Makino",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "Japanese"
+        "Stars": [
+            "Ichitarō Kataoka",
+            "Utasaburô Nakamura",
+            "Teruko Makino"
+        ],
+        "Writer": [
+            "Hôzô Nakajima"
+        ],
+        "Director": [
+            "Shōzō Makino"
         ],
         "Release date": [
-            "August 21, 1925 (Japan)"
-        ],
-        "Country of origin": [
-            "Japan"
-        ],
-        "Production company": [
-            "Makino Mimuro"
+            "1925"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm2119258/",
+            "name": "Hôzô Nakajima",
+            "@type": "Person"
+        }
+    ],
     "duration": null,
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0538634/",
+            "name": "Shōzō Makino",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1613703/",
     "metascore": null,
@@ -37,7 +82,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1925-08-21",
+    "datePublished": "1925",
+    "original_title": "Byakkotai",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-26T17:49:05"
+    "update_at": "2026-11-18T00:07:16"
 }

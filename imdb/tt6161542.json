@@ -4,70 +4,137 @@
     "name": "Echo Torch",
     "site": "imdb",
     "year": "2016",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Sci-Fi"
+        "Sci-Fi",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2076545/",
-            "name": "James FitzGerald"
+            "name": "James FitzGerald",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2608678/",
-            "name": "Amy Staggs"
+            "name": "Amy Staggs",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2733631/",
-            "name": "Tony Bingham"
+            "name": "Tony Bingham",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7650600/",
+            "name": "Jonathan Visser",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0862955/",
+            "name": "Mark Tierno",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4111189/",
+            "name": "Bailey Donovan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4337329/",
+            "name": "Abby Fudor",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4597973/",
+            "name": "Tressa Glover",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8523166/",
+            "name": "Brett Goodnack",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2716691/",
+            "name": "Nathan Hollabaugh",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjOGQ4ZWQtNzU2MC00ZDc4LWFhM2ItZWI0OGNjODgwZGFkXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/5VHaxWVhF8WlGRn93IqjrdmkUia.jpg",
     "details": {
+        "Stars": [
+            "James FitzGerald",
+            "Amy Staggs",
+            "Tony Bingham"
+        ],
+        "Genres": [
+            "Sci-Fi",
+            "Short"
+        ],
+        "Writer": [
+            "Christopher Preksta"
+        ],
+        "Runtime": [
+            "21 min"
+        ],
+        "Director": [
+            "Christopher Preksta"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "October 17, 2016 (United States)"
-        ],
-        "Official site": [
-            "Full film - https://www.youtube.com/watch?v=lahBRBliANY&feature=youtu.be"
+            "2016-10-21"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
-            "Animal"
+        "Production companies": [
+            "Mercury Men Pictures",
+            "Animal [us]"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2104566/",
-            "name": "Christopher Preksta"
+            "name": "Christopher Preksta",
+            "@type": "Person"
         }
     ],
     "duration": "PT21M",
     "keywords": [
-        ""
+        "inventor",
+        "supernatural",
+        "demon",
+        "ghosts of the past",
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2104566/",
-            "name": "Christopher Preksta"
+            "name": "Christopher Preksta",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt6161542/",
     "metascore": null,
-    "imdb_votes": 197,
+    "imdb_votes": 232,
     "popularity": 0,
-    "description": "A late middle aged inventor creates a device to see into the otherworld, and fulfills his lifelong dream.",
-    "imdb_rating": "7.4/10 from 197 users",
-    "release_date": [],
-    "contentRating": null,
-    "datePublished": "2016-10-17",
-    "imdb_rating_average": 7.4,
-    "update_at": "2025-02-11T13:01:52"
+    "description": "An inventor creates an electrical torch that reveals a hidden world layered upon our own - filled with beautiful spirits, strange creatures, and dangerous phantoms.",
+    "imdb_rating": "7.3/10 from 232 users",
+    "release_date": [
+        {
+            "date": "2016-10-21",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
+    "datePublished": "2016-10-21",
+    "original_title": "Echo Torch",
+    "imdb_rating_average": 7.3,
+    "update_at": "2026-11-17T11:35:14"
 }

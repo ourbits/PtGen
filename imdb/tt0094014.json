@@ -4,76 +4,131 @@
     "name": "A Special Friendship",
     "site": "imdb",
     "year": "1987",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001630/",
-            "name": "Tracy Pollan"
+            "name": "Tracy Pollan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0124333/",
-            "name": "Akosua Busia"
+            "name": "Akosua Busia",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0813977/",
-            "name": "Josef Sommer"
+            "name": "Josef Sommer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0832531/",
+            "name": "Adam Storke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0017651/",
+            "name": "Tom Aldredge",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0254579/",
+            "name": "Patricia Elliott",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0628309/",
+            "name": "William Newman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000996/",
+            "name": "LeVar Burton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0364576/",
+            "name": "Cynthia Harris",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1444462/",
+            "name": "Richard Brooks",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzQzZWUwZjAtZmExZC00NDAzLWFhMDgtZTMzODJmMDU3Mzg5XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/eB2rwqXrs8MrQD471XJEYGDW0b.jpg",
     "details": {
+        "Stars": [
+            "Tracy Pollan",
+            "Akosua Busia",
+            "Josef Sommer"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Kenneth Cavander"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "Fielder Cook"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 31, 1987 (United States)"
-        ],
-        "Also known as": [
-            "Su única salvación"
+            "1987-03-31"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Charleston, South Carolina, USA"
-        ],
-        "Production company": [
-            "Entertainment Partners"
+        "Production companies": [
+            "Entertainment Partners Ltd."
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0146958/",
-            "name": "Kenneth Cavander"
+            "name": "Kenneth Cavander",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H35M",
     "keywords": [
-        "virginia",
-        "richmond virginia",
-        "american civil war",
-        "friendship between women",
-        "african american"
+        "civil war",
+        "slavery"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0177034/",
-            "name": "Fielder Cook"
+            "name": "Fielder Cook",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0094014/",
     "metascore": null,
-    "imdb_votes": 39,
+    "imdb_votes": 41,
     "popularity": 0,
-    "description": "During the American Civil War, a wealthy white woman and the black woman who was once her slave, join forces to fight for freedom and the abolition of slavery.",
-    "imdb_rating": "6.7/10 from 39 users",
-    "release_date": [],
+    "description": "During the American Civil War, two women, a wealthy white woman and a freed black slave, join forces to fight for freedom and the abolition of slavery.",
+    "imdb_rating": "6.7/10 from 41 users",
+    "release_date": [
+        {
+            "date": "1987-03-31",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1987-03-31",
+    "original_title": "A Special Friendship",
     "imdb_rating_average": 6.7,
-    "update_at": "2025-08-13T01:00:27"
+    "update_at": "2026-11-17T04:28:17"
 }

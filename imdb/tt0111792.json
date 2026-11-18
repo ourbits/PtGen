@@ -4,7 +4,7 @@
     "name": "The Yearling",
     "site": "imdb",
     "year": "1994",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Adventure",
         "Drama",
@@ -13,74 +13,129 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0005471/",
-            "name": "Peter Strauss"
+            "name": "Peter Strauss",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0005443/",
-            "name": "Jean Smart"
+            "name": "Jean Smart",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0395078/",
-            "name": "Wil Horneff"
+            "name": "Wil Horneff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000450/",
+            "name": "Philip Seymour Hoffman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0086993/",
+            "name": "Jarred Blancard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0339159/",
+            "name": "Brad Greenquist",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0040334/",
+            "name": "Nancy Moore Atchison",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0763168/",
+            "name": "Mary Nell Santacroce",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0360593/",
+            "name": "Bart Hansard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0358118/",
+            "name": "Richard Hamilton",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWZkOWJmMjEtNDNkMS00ZWRlLWFiNTEtNzA2OTE3MzI5MmE3XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/4McY7YQWMOqtOwvDNwURM3jLJnl.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Peter Strauss",
+            "Jean Smart",
+            "Wil Horneff"
+        ],
+        "Genres": [
+            "Adventure",
+            "Drama",
+            "Family"
+        ],
+        "Writer": [
+            "Marjorie Kinnan Rawlings",
+            "Joe Wiesenfeld"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Rod Hardy"
         ],
         "Release date": [
-            "April 24, 1994 (United States)"
-        ],
-        "Also known as": [
-            "El despertar"
+            "1994-04-24"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Ocala National Forest, Florida, USA"
+            "United States of America"
         ],
         "Production companies": [
-            "RHI Entertainment",
-            "Showcase Productions International"
+            "RHI Entertainment"
         ]
     },
-    "reviews": 9,
+    "reviews": 0,
+    "tagline": "Rediscover the classic family tale of struggle, strength, and survival.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0712617/",
-            "name": "Marjorie Kinnan Rawlings"
+            "name": "Marjorie Kinnan Rawlings",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0927618/",
-            "name": "Joe Wiesenfeld"
+            "name": "Joe Wiesenfeld",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
     "keywords": [
-        "killing a pet",
-        "boy animal relationship",
-        "american literature on screen",
         "florida",
-        "1870s"
+        "killing a pet"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0362738/",
-            "name": "Rod Hardy"
+            "name": "Rod Hardy",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0111792/",
     "metascore": null,
-    "imdb_votes": 368,
+    "imdb_votes": 385,
     "popularity": 0,
-    "description": "A pet deer changes Florida farm family.",
-    "imdb_rating": "6.3/10 from 368 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "Ma and Pa Baxter have battled bears, floods, rattlesnakes, hunger, disease, and ornery neighbors for years, but somehow they've prevailed during the toughest pioneer times. Now it's their son, Jody, who will face his own set of challenges. Young Jody Baxter is growing up fast on his parents' modest farm. With three brothers and sisters lost to illness, he's had to work the land just as hard as his daddy. When his only real friend goes \"to visit the angels,\" Jody gets lonely and longs for a pet to share his life. \"Flag,\" an orphaned fawn is his new adopted playmate. With a rekindled spirit, Jody and Flag become an inseparable pair - playing, exploring, and discovering their youthful world. But the new-found joy is only temporary; Flag has become a powerful yearling. When he threatens the family's survival, Jody is faced with the toughest choice of his young life.",
+    "imdb_rating": "6.3/10 from 385 users",
+    "release_date": [
+        {
+            "date": "1994-04-24",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "1994-04-24",
+    "original_title": "The Yearling",
     "imdb_rating_average": 6.3,
-    "update_at": "2026-04-10T20:35:05"
+    "update_at": "2026-11-17T16:28:31"
 }

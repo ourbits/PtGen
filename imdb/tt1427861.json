@@ -4,59 +4,111 @@
     "name": "Die Gigerln von Wien",
     "site": "imdb",
     "year": "1965",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0611869/",
-            "name": "Fritz Muliar"
+            "name": "Fritz Muliar",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0811961/",
-            "name": "Hilde Sochor"
+            "name": "Hilde Sochor",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0822403/",
-            "name": "Ernst Stankovski"
+            "name": "Ernst Stankovski",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1213596/",
+            "name": "Kurt Müller-Reitzner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0336053/",
+            "name": "Hans Gratzer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0289998/",
+            "name": "Felix Franchy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1258684/",
+            "name": "Fred Traxler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0722571/",
+            "name": "Rudolf Rhomberg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0542278/",
+            "name": "Erni Mangold",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0026004/",
+            "name": "Ernst Anders",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Fritz Muliar",
+            "Hilde Sochor",
+            "Ernst Stankovski"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Rudolf Österreicher",
+            "J. Wimmer"
+        ],
+        "Runtime": [
+            "107 min"
+        ],
+        "Director": [
+            "Wolfgang Glück"
         ],
         "Release date": [
-            "December 25, 1965 (Austria)"
+            "1965-12-25"
         ],
         "Country of origin": [
-            "Austria"
-        ],
-        "Production company": [
-            "Österreichischer Rundfunk (ORF)"
+            "Germany"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0960177/",
-            "name": "Rudolf Österreicher"
+            "name": "Rudolf Österreicher",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3440374/",
-            "name": "J. Wimmer"
+            "name": "J. Wimmer",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H47M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0323418/",
-            "name": "Wolfgang Glück"
+            "name": "Wolfgang Glück",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1427861/",
@@ -65,9 +117,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1965-12-25",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1965-12-25",
+    "original_title": "Die Gigerln von Wien",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-13T13:42:22"
+    "update_at": "2026-11-17T21:14:20"
 }

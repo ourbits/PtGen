@@ -12,63 +12,118 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000059/",
-            "name": "Laurence Olivier"
+            "name": "Laurence Olivier",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0703070/",
-            "name": "Queen Elizabeth II"
+            "name": "Queen Elizabeth II",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0697611/",
-            "name": "Prince Philip"
+            "name": "Prince Philip",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0703069/",
+            "name": "Queen Elizabeth the Queen Mother",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0697608/",
+            "name": "King Charles III",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0241158/",
+            "name": "Duke of Gloucester",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0609884/",
+            "name": "Louis Mountbatten",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3985006/",
+            "name": "Edward Windsor",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3524771/",
+            "name": "Bernard Fitzalan-Howard 16th Duke of Norfolk",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5120981/",
+            "name": "Basil Brooke 1st Viscount Brookeborough",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjE2MGVjZjktNTM1Yi00ZWE3LTk1YmQtZjUwNjQ2MmYwYmU5XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/nfhGuNXwALMTFuhfQBz26nmvDJ6.jpg",
     "details": {
+        "Stars": [
+            "Laurence Olivier",
+            "Queen Elizabeth II",
+            "Prince Philip"
+        ],
+        "Genres": [
+            "Documentary",
+            "History"
+        ],
+        "Writer": [
+            "Christopher Fry"
+        ],
+        "Runtime": [
+            "82 min"
+        ],
         "Language": [
+            "French",
             "English"
         ],
         "Release date": [
-            "June 9, 1953 (Sweden)"
-        ],
-        "Also known as": [
-            "Eine Königin wird gekrönt"
+            "1953-06-02"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Filming locations": [
-            "Westminster Abbey, Westminster, London, England, UK"
-        ],
-        "Production company": [
+        "Production companies": [
             "The Rank Organisation"
         ]
     },
-    "reviews": 7,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0296737/",
-            "name": "Christopher Fry"
+            "name": "Christopher Fry",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H22M",
     "keywords": [
-        "horse and carriage",
-        "1950s",
-        "queen elizabeth ii",
         "coronation",
-        "queen"
+        "royalty",
+        "british monarchy"
     ],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt0046222/",
     "metascore": null,
-    "imdb_votes": 196,
+    "imdb_votes": 216,
     "popularity": 0,
-    "description": "A lavish documentary film of Queen Elizabeth II&apos;s Coronation in 1953.",
-    "imdb_rating": "6.8/10 from 196 users",
-    "release_date": [],
-    "contentRating": "TV-G",
-    "datePublished": "1953-06-09",
+    "description": "A lavish documentary film of Queen Elizabeth II's Coronation in 1953.",
+    "imdb_rating": "6.8/10 from 216 users",
+    "release_date": [
+        {
+            "date": "1953-06-02",
+            "country": "United Kingdom"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1953-06-02",
+    "original_title": "A Queen Is Crowned",
     "imdb_rating_average": 6.8,
-    "update_at": "2025-07-31T17:00:20"
+    "update_at": "2026-11-17T02:21:28"
 }

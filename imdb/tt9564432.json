@@ -1,8 +1,9 @@
 {
     "aka": [],
     "sid": "tt9564432",
-    "name": "Digital Theatre: Long Day&apos;s Journey Into Night",
+    "name": "Long Day's Journey Into Night",
     "site": "imdb",
+    "year": "2014",
     "@type": "Movie",
     "genre": [
         "Drama"
@@ -10,59 +11,90 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0582418/",
-            "name": "Laurie Metcalf"
+            "name": "Laurie Metcalf",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4709859/",
+            "name": "Rosie Sansom",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4964567/",
-            "name": "Kyle Soller"
+            "name": "Kyle Soller",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0837064/",
-            "name": "David Suchet"
+            "name": "David Suchet",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0925544/",
+            "name": "Trevor White",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQzNzNlYmMtZDkzYS00ZDJmLWI0MTQtOTBjZjQ5MGE0NmU2XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/bM2fpdKwr9j5DwSzta7GZedgVsB.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Laurie Metcalf",
+            "Rosie Sansom",
+            "Kyle Soller"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Eugene O'Neill"
+        ],
+        "Director": [
+            "Robert Delamere"
         ],
         "Release date": [
-            "2014 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Long Day's Journey Into Night"
+            "2014-01-01"
         ],
         "Country of origin": [
             "United Kingdom"
+        ],
+        "Production companies": [
+            "Digital Theatre"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0642156/",
-            "name": "Eugene O&apos;Neill"
+            "name": "Eugene O'Neill",
+            "@type": "Person"
         }
     ],
-    "duration": null,
-    "keywords": [
-        "mother"
-    ],
+    "duration": "PT2H30M",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1977735/",
-            "name": "Robert Delamere"
+            "name": "Robert Delamere",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt9564432/",
     "metascore": null,
-    "imdb_votes": 25,
+    "imdb_votes": 31,
     "popularity": 0,
-    "description": "Long Day&apos;s Journey into Night focuses on one day in the life of the Tyrone family. Youngest son Edmund is ill, and the family are worried about mother Mary&apos;s nerves.",
-    "imdb_rating": "8.9/10 from 25 users",
-    "release_date": [],
+    "description": "Long Day's Journey into Night focuses on one day in the life of the Tyrone family. Youngest son Edmund is ill, and the family are worried about mother Mary's nerves.",
+    "imdb_rating": "8.2/10 from 31 users",
+    "release_date": [
+        {
+            "date": "2014-01-01",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 8.9,
-    "update_at": "2025-07-02T01:21:05"
+    "datePublished": "2014-01-01",
+    "original_title": "Digital Theatre: Long Day's Journey Into Night",
+    "imdb_rating_average": 8.2,
+    "update_at": "2026-11-18T01:28:14"
 }

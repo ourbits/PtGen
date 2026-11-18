@@ -4,7 +4,7 @@
     "name": "Luckless in Love",
     "site": "imdb",
     "year": "2023",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Romance"
@@ -12,67 +12,134 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm6457405/",
-            "name": "Paniz Zade"
+            "name": "Paniz Zade",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2452384/",
-            "name": "Brett Donahue"
+            "name": "Brett Donahue",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm9319823/",
-            "name": "Liam MacDonald"
+            "name": "Liam MacDonald",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0317023/",
+            "name": "Jennifer Gibson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2408053/",
+            "name": "Steffi DiDomenicantonio",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0725660/",
+            "name": "Maria Ricossa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0335418/",
+            "name": "Glen Michael Grant",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4499094/",
+            "name": "Dale Whibley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm9453062/",
+            "name": "Lauren Howe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2721618/",
+            "name": "Lexie Galante",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDM0OTEyZmYtNGJiMC00NjEyLWFiOTUtYjFjMGY2MjNmNzgxXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/rys0VUiKiOKaPcIxwIhpAYVbMUT.jpg",
     "details": {
+        "Stars": [
+            "Paniz Zade",
+            "Brett Donahue",
+            "Liam MacDonald"
+        ],
+        "Genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "Writer": [
+            "Courtney Cilman"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "John Bradshaw"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 21, 2023 (Croatia)"
-        ],
-        "Also known as": [
-            "Brez sreče v ljubezni"
+            "2023-01-25"
         ],
         "Country of origin": [
             "Canada"
         ],
-        "Filming locations": [
-            "Hamilton, Ontario, Canada"
-        ],
         "Production companies": [
-            "Reel One Entertainment",
-            "Champlain Productions",
-            "CME Autum Productions"
+            "CME Autum Productions",
+            "Champlain Media",
+            "Reel One Entertainment"
         ]
     },
-    "reviews": 6,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm4597920/",
-            "name": "Courtney Cilman"
+            "name": "Courtney Cilman",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
     "keywords": [
-        ""
+        "visto"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0103498/",
-            "name": "John Bradshaw"
+            "name": "John Bradshaw",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt21212308/",
     "metascore": null,
-    "imdb_votes": 530,
+    "imdb_votes": 592,
     "popularity": 0,
-    "description": "A dating blogger who writes under the pen name Luckless, goes viral for a post about a bad date with a single sports agent. When Winnie&apos;s boss offers her, her own column, she has no choice but to keep dating him for content.",
-    "imdb_rating": "5.9/10 from 530 users",
-    "release_date": [],
-    "contentRating": null,
-    "datePublished": "2023-01-21",
+    "description": "Winnie, a dating blogger who anonymously writes under the pen name Luckless, goes viral for a post about a disastrous date with Holden, a perpetually single sports agent who refuses to settle. When Winnie’s boss offers her very own column on the popular lifestyle site, Mush, Winnie has no choice but to keep dating Holden for content. But things get complicated when feelings develop and Winnie learns that Holden has a teenage son.",
+    "imdb_rating": "5.9/10 from 592 users",
+    "release_date": [
+        {
+            "date": "2023-07-01",
+            "country": "Germany"
+        },
+        {
+            "date": "2023-01-25",
+            "country": "France"
+        },
+        {
+            "date": "2023-02-12",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "G",
+    "datePublished": "2023-01-25",
+    "original_title": "Luckless in Love",
     "imdb_rating_average": 5.9,
-    "update_at": "2025-08-26T21:42:26"
+    "update_at": "2026-11-17T08:14:07"
 }

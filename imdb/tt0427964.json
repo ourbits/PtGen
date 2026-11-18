@@ -3,42 +3,49 @@
     "sid": "tt0427964",
     "name": "El trigo",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1981",
+    "@type": "Short",
     "genre": [
         "Documentary",
         "Short"
     ],
+    "actors": [],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Spanish"
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Writer": [
+            "Manuel Michel"
+        ],
+        "Runtime": [
+            "11 min"
+        ],
+        "Director": [
+            "Manuel Michel"
         ],
         "Release date": [
-            "1981 (Mexico)"
-        ],
-        "Country of origin": [
-            "Mexico"
-        ],
-        "Production company": [
-            "Peliculas Candiani"
+            "1981"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0584878/",
-            "name": "Manuel Michel"
+            "name": "Manuel Michel",
+            "@type": "Person"
         }
     ],
     "duration": "PT11M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0584878/",
-            "name": "Manuel Michel"
+            "name": "Manuel Michel",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0427964/",
@@ -49,7 +56,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1981",
+    "original_title": "El trigo",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-19T02:00:33"
+    "update_at": "2026-11-17T05:49:43"
 }

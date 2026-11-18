@@ -4,39 +4,106 @@
     "name": "Sorry",
     "site": "imdb",
     "year": "2019",
-    "@type": "Movie",
+    "@type": "TVShort",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm7649398/",
+            "name": "Lolly Adefope",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1343486/",
+            "name": "Catherine Shepherd",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3992182/",
+            "name": "Joshua McGuire",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3921002/",
+            "name": "Babirye Bukilwa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10197979/",
+            "name": "Phil Dunning",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1544893/",
+            "name": "Seb Cardinal",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4494491/",
+            "name": "Tom Stourton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2711324/",
+            "name": "Chris Wilson",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWI0NDJiNzAtNGM2NC00NWI5LWE0NjctYTllNjdmNjQyMzNmXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Lolly Adefope",
+            "Catherine Shepherd",
+            "Joshua McGuire"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Lolly Adefope"
+        ],
+        "Runtime": [
+            "13 min"
+        ],
+        "Director": [
+            "Andrew Gaynord"
+        ],
         "Release date": [
-            "July 25, 2019 (United Kingdom)"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Production company": [
-            "Tiger Aspect Productions"
+            "2019"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm7649398/",
+            "name": "Lolly Adefope",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT13M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm3760083/",
+            "name": "Andrew Gaynord",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt10692264/",
     "metascore": null,
-    "imdb_votes": 38,
+    "imdb_votes": 39,
     "popularity": 0,
-    "description": "Dolly Adesina, an actress on the verge of super-stardom and a self-described &apos;black Jennifer Lawrence&apos;, finds out she&apos;s trending on Twitter, but for all the wrong reasons - putting her career in jeopardy.",
-    "imdb_rating": "5.8/10 from 38 users",
+    "description": null,
+    "imdb_rating": "5.7/10 from 39 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2019-07-25",
-    "imdb_rating_average": 5.8,
-    "update_at": "2025-11-22T13:00:18"
+    "datePublished": "2019",
+    "original_title": "Sorry",
+    "imdb_rating_average": 5.7,
+    "update_at": "2026-11-17T10:49:07"
 }

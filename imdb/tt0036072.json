@@ -5,74 +5,139 @@
     "site": "imdb",
     "year": "1944",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Comedy"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0042049/",
-            "name": "Elise Aulinger"
+            "name": "Elise Aulinger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0351776/",
-            "name": "Margarete Haagen"
+            "name": "Margarete Haagen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0718465/",
-            "name": "Gabriele Reismüller"
+            "name": "Gabriele Reismüller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0272097/",
+            "name": "Erna Fentsch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0836687/",
+            "name": "Joe Stöckel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0804835/",
+            "name": "Karl Skraup",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0449147/",
+            "name": "Hannes Keppler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0417951/",
+            "name": "Albert Janschek",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0251511/",
+            "name": "Josef Eichheim",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0936908/",
+            "name": "Wastl Witt",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTYyODNlNjItOWZiNC00Mjk0LTk1OTUtN2JiMTMwMDMwZWJlXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/hmiElFtGzXVDib5YD9mMkwmTKEf.jpg",
     "details": {
+        "Stars": [
+            "Elise Aulinger",
+            "Margarete Haagen",
+            "Gabriele Reismüller"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Friedrich Forster-Burggraf",
+            "Rudo Ritter",
+            "Ludwig Schmid-Wildy"
+        ],
+        "Runtime": [
+            "86 min"
+        ],
+        "Director": [
+            "Joe Stöckel"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "February 11, 1944 (Germany)"
+            "1944-02-11"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Filming locations": [
-            "Grainau, Bavaria, Germany"
-        ],
-        "Production company": [
+        "Production companies": [
             "Bavaria-Filmkunst"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0287004/",
-            "name": "Friedrich Forster-Burggraf"
+            "name": "Friedrich Forster-Burggraf",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0728801/",
-            "name": "Rudo Ritter"
+            "name": "Rudo Ritter",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0772749/",
-            "name": "Ludwig Schmid-Wildy"
+            "name": "Ludwig Schmid-Wildy",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H26M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0836687/",
-            "name": "Joe Stöckel"
+            "name": "Joe Stöckel",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0036072/",
     "metascore": null,
-    "imdb_votes": 9,
+    "imdb_votes": 12,
     "popularity": 0,
-    "description": "Xaver heavily protects his only daughter Lenerl because he himself will select her husband. An old sculpture is supposed to watch over her chastity. When a prof claims that the statue is valuable, Xaver has to learn more than one ...",
-    "imdb_rating": "7.7/10 from 9 users",
-    "release_date": [],
+    "description": "Xaver Bimshofer is the richest peasant in the village; and therefore, his only daughter Lenerl should marry a guy, who is diligent enough to keep the exemplary farm running.  But Bimshofer doesn’t know, that Lenerl has long been a couple with the servant Sepp.  So he suspects that every young man in the village wants to conquer his poor, innocent daughter.  So that Lenerl really resists all these attempts, he gets a stone statue from Thomas Kammerlehner’s barn, “The Chaste Kunigunde”, which is supposed to protect the girl’s chastity and to protect her from sin by its positive energy.",
+    "imdb_rating": "7.7/10 from 12 users",
+    "release_date": [
+        {
+            "date": "1944-02-11",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1944-02-11",
+    "original_title": "Die keusche Sünderin",
     "imdb_rating_average": 7.7,
-    "update_at": "2025-08-12T04:35:06"
+    "update_at": "2026-11-17T20:14:12"
 }

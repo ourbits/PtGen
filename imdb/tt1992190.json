@@ -4,75 +4,122 @@
     "name": "One Shot",
     "site": "imdb",
     "year": "2011",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2916919/",
-            "name": "Burak Yigit"
+            "name": "Burak Yigit",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0472277/",
-            "name": "Richard Kropf"
+            "name": "Richard Kropf",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0684236/",
-            "name": "Patrick Pinheiro"
+            "name": "Patrick Pinheiro",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0458486/",
+            "name": "Arnd Klawitter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0117697/",
+            "name": "Anna Brüggemann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1877776/",
+            "name": "Maryam Zaree",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0012738/",
+            "name": "Sanam Afrashteh",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1106132/",
+            "name": "Sema Poyraz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2183881/",
+            "name": "Nhat Quang Tran",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2968453/",
+            "name": "Sanjay Shihora",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDA4MDVjMzMtY2NiYy00ZTYxLTg2YzUtNmI3MTY2NjMwZjRlXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/kiJzmIxpLLxhRgakymqMWyiGnvb.jpg",
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Burak Yigit",
+            "Richard Kropf",
+            "Patrick Pinheiro"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Dietrich Brüggemann"
+        ],
+        "Runtime": [
+            "11 min"
+        ],
+        "Director": [
+            "Dietrich Brüggemann"
         ],
         "Release date": [
-            "April 15, 2011 (Germany)"
-        ],
-        "Also known as": [
-            "Jeden strzał"
-        ],
-        "Official site": [
-            "Official Facebook - https://www.facebook.com/pages/ONE-SHOT/#!/pages/ONE-SHOT/177633708930223"
+            "2011-04-15"
         ],
         "Country of origin": [
             "Germany"
-        ],
-        "Filming locations": [
-            "Zentralflughafen Tempelhof, Berlin, Germany"
-        ],
-        "Production company": [
-            "Bella Firma"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0117698/",
-            "name": "Dietrich Brüggemann"
+            "name": "Dietrich Brüggemann",
+            "@type": "Person"
         }
     ],
     "duration": "PT11M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0117698/",
-            "name": "Dietrich Brüggemann"
+            "name": "Dietrich Brüggemann",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1992190/",
     "metascore": null,
-    "imdb_votes": 51,
+    "imdb_votes": 53,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "5.5/10 from 51 users",
-    "release_date": [],
+    "description": "A queer trans-ethnic movie kiss leads to considerable turmoil.",
+    "imdb_rating": "5.6/10 from 53 users",
+    "release_date": [
+        {
+            "date": "2011-04-15",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2011-04-15",
-    "imdb_rating_average": 5.5,
-    "update_at": "2025-07-06T15:09:10"
+    "original_title": "One Shot",
+    "imdb_rating_average": 5.6,
+    "update_at": "2026-11-17T07:21:27"
 }

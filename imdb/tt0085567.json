@@ -3,57 +3,112 @@
     "sid": "tt0085567",
     "name": "Die fröhliche Tankstelle",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1983",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0462761/",
-            "name": "Herma Koehn"
+            "name": "Herma Koehn",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0770555/",
-            "name": "Jens Scheiblich"
+            "name": "Jens Scheiblich",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0726300/",
-            "name": "Werner Riepel"
+            "name": "Werner Riepel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0917577/",
+            "name": "Christa Wehling",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0862117/",
+            "name": "Hanno Thurau",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0415914/",
+            "name": "Evelin Jakob",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0617890/",
+            "name": "Rudolf Möller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0821864/",
+            "name": "Uta Stammer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0295982/",
+            "name": "Jens-Werner Fritsch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0333189/",
+            "name": "Ernst Grabbe",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/jOnxOytTc2RbrK1K0Sik3RLK7hG.jpg",
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Herma Koehn",
+            "Jens Scheiblich",
+            "Werner Riepel"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Fritz Wempner",
+            "Karl-Otto Ragotzky"
+        ],
+        "Runtime": [
+            "101 min"
+        ],
+        "Director": [
+            "Karl-Otto Ragotzky"
+        ],
+        "Release date": [
+            "1983-01-01"
         ],
         "Country of origin": [
-            "West Germany"
-        ],
-        "Production companies": [
-            "Norddeutscher Rundfunk (NDR)",
-            "Ohnsorg Theater"
+            "Germany"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0920724/",
-            "name": "Fritz Wempner"
+            "name": "Fritz Wempner",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0706592/",
-            "name": "Karl-Otto Ragotzky"
+            "name": "Karl-Otto Ragotzky",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H41M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0706592/",
-            "name": "Karl-Otto Ragotzky"
+            "name": "Karl-Otto Ragotzky",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0085567/",
@@ -62,9 +117,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1983-01-01",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1983-01-01",
+    "original_title": "Die fröhliche Tankstelle",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-02T04:56:07"
+    "update_at": "2026-11-18T01:56:06"
 }

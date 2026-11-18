@@ -5,63 +5,113 @@
     "site": "imdb",
     "year": "2010",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0322459/",
-            "name": "Adela Gleijer"
+            "name": "Adela Gleijer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3904326/",
-            "name": "Lucas Lagré"
+            "name": "Lucas Lagré",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1078686/",
-            "name": "Sofía Gala Castiglione"
+            "name": "Sofía Gala Castiglione",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3902602/",
+            "name": "Luciano Ricio",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1320353/",
+            "name": "Javier van de Couter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1375740/",
+            "name": "Matías Marmorato",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0022021/",
+            "name": "Irene Almus",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2640023/",
+            "name": "Stella Gallazzi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1354220/",
+            "name": "Laura Agorreca",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2115633/",
+            "name": "Mora Recalde",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDgxNGRkMmUtOGUyYi00MmE3LTkxYWMtNWZmM2NkNjE1N2U5XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/tMB8xMguiRA3gTwi7agYOEFCuWR.jpg",
     "details": {
-        "Language": [
-            "Spanish"
+        "Stars": [
+            "Adela Gleijer",
+            "Lucas Lagré",
+            "Sofía Gala Castiglione"
+        ],
+        "Writer": [
+            "Matías Marmorato"
+        ],
+        "Runtime": [
+            "63 min"
+        ],
+        "Director": [
+            "Matías Marmorato"
         ],
         "Release date": [
-            "April 15, 2010 (Argentina)"
-        ],
-        "Country of origin": [
-            "Argentina"
-        ],
-        "Production company": [
-            "Insomnia Films"
+            "2010-04-15"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1375740/",
-            "name": "Matías Marmorato"
+            "name": "Matías Marmorato",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H3M",
-    "keywords": [
-        "gay"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1375740/",
-            "name": "Matías Marmorato"
+            "name": "Matías Marmorato",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1649393/",
     "metascore": null,
-    "imdb_votes": 16,
+    "imdb_votes": 17,
     "popularity": 0,
-    "description": "Piedras tells the story of Martín, a 20-year-old who has lived with his grandmother since his mother left for the south of the country. He has a friend the same age as his, Sebas, who is in crisis with his girlfriend. Martín and S...",
-    "imdb_rating": "6.4/10 from 16 users",
-    "release_date": [],
+    "description": "Martín is a twenty-year-old young man living in a little village with his grandmother Zunilda, whom he feels a great affection for. His mother, Mimí, is a restless woman who left him several years earlier to follow her new husband to Patagonia. When she comes back for a short visit, she finds it very difficult to re-establish contact with her son. Sebas, Martín's friend, who is going through a difficult period with his girlfriend, feels attracted to Unno, a young transvestite. Martín starts going out with a handsome older boy who is very kind to him and invites him home. Suddenly, the quiet life of the protagonist seems destined to undergo unexpected change which will force him to grow up. But it is Martín who must decide how to react when he falls in love for the first time, and whether to accept the fact that his grandmother will leave him.",
+    "imdb_rating": "6.4/10 from 17 users",
+    "release_date": [
+        {
+            "date": "2010-04-15",
+            "country": "Argentina"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2010-04-15",
+    "original_title": "Piedras",
     "imdb_rating_average": 6.4,
-    "update_at": "2025-05-30T01:44:46"
+    "update_at": "2026-11-17T11:49:19"
 }

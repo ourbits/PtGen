@@ -4,70 +4,133 @@
     "name": "Antigone",
     "site": "imdb",
     "year": "1958",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0049531/",
-            "name": "Ennio Balbo"
+            "name": "Ennio Balbo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0182904/",
-            "name": "Elena Cotta"
+            "name": "Elena Cotta",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0186561/",
-            "name": "Antonio Crast"
+            "name": "Antonio Crast",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0230899/",
+            "name": "Dario Dolci",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1330423/",
+            "name": "Valentina Fortunato",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0311168/",
+            "name": "Nando Gazzolo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0320468/",
+            "name": "Renzo Giovampietro",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0604328/",
+            "name": "Marcello Moretti",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0758066/",
+            "name": "Enrico Maria Salerno",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0762785/",
+            "name": "Vittorio Sanipoli",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOThiOTNkZTAtNTg3My00ZGZlLWI4OTgtZTk2NjVlMTJkMTNlXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/5TzZmTBCSBG9PQ9CVZMOE0bzv7u.jpg",
     "details": {
+        "Stars": [
+            "Ennio Balbo",
+            "Elena Cotta",
+            "Antonio Crast"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Enzo Cetrangolo",
+            "Sophocles"
+        ],
+        "Director": [
+            "Vittorio Cottafavi"
+        ],
         "Language": [
             "Italian"
         ],
         "Release date": [
-            "December 5, 1958 (Italy)"
+            "1958-12-05"
         ],
         "Country of origin": [
             "Italy"
+        ],
+        "Production companies": [
+            "RAI"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2244353/",
-            "name": "Enzo Cetrangolo"
+            "name": "Enzo Cetrangolo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0814668/",
-            "name": "Sophocles"
+            "name": "Sophocles",
+            "@type": "Person"
         }
     ],
-    "duration": null,
+    "duration": "PT1H40M",
     "keywords": [
-        "greek myth",
-        "greek tragedy",
-        "burial",
-        "based on play"
+        "based on play or musical"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0182913/",
-            "name": "Vittorio Cottafavi"
+            "name": "Vittorio Cottafavi",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0795912/",
     "metascore": null,
     "imdb_votes": 13,
     "popularity": 0,
-    "description": "Faithful TV adaptation of Sophocles&apos; tragedy.",
-    "imdb_rating": "6.9/10 from 13 users",
-    "release_date": [],
+    "description": "Faithful TV adaptation of Sophocles' tragedy.",
+    "imdb_rating": "6.6/10 from 13 users",
+    "release_date": [
+        {
+            "date": "1958-12-05",
+            "country": "Italy"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1958-12-05",
-    "imdb_rating_average": 6.9,
-    "update_at": "2025-07-20T00:13:33"
+    "original_title": "Antigone",
+    "imdb_rating_average": 6.6,
+    "update_at": "2026-11-17T09:14:26"
 }

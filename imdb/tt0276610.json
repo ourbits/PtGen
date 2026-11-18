@@ -4,33 +4,47 @@
     "name": "Les hôpitaux meurent aussi",
     "site": "imdb",
     "year": "2000",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Documentary"
     ],
+    "actors": [],
     "critic": 0,
     "poster": null,
     "details": {
+        "Genres": [
+            "Documentary"
+        ],
+        "Writer": [
+            "Marie-Christine Poucheliz"
+        ],
+        "Runtime": [
+            "78 min"
+        ],
+        "Director": [
+            "Mark Kidel"
+        ],
         "Release date": [
-            "May 5, 2000 (Germany)"
-        ],
-        "Also known as": [
-            "A Hospital Remembers"
-        ],
-        "Countries of origin": [
-            "France",
-            "Germany"
-        ],
-        "Production companies": [
-            "ARTE",
-            "La Sept"
+            "2000"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0693510/",
+            "name": "Marie-Christine Poucheliz",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT1H18M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0452298/",
+            "name": "Mark Kidel",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0276610/",
     "metascore": null,
@@ -40,7 +54,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2000-05-05",
+    "datePublished": "2000",
+    "original_title": "Les hôpitaux meurent aussi",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-03T15:49:26"
+    "update_at": "2026-11-17T20:28:06"
 }

@@ -11,37 +11,52 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1092553/",
-            "name": "Alex Dallas"
+            "name": "Alex Dallas",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1281786/",
-            "name": "Beatriz Yuste"
+            "name": "Beatriz Yuste",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDM0OThkM2ItZWE4Ny00MmE2LWFkMjItNWQ0OTEyMzI0NGQwXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Alex Dallas",
+            "Beatriz Yuste"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Runtime": [
+            "22 min"
+        ],
+        "Director": [
+            "Scott McLaren",
+            "Christopher Behnisch"
         ],
         "Release date": [
-            "September 4, 2003 (Canada)"
-        ],
-        "Official site": [
-            "Official site - http://www.tellit.tv/"
-        ],
-        "Country of origin": [
-            "Canada"
-        ],
-        "Production company": [
-            "AP Tell It Productions Ltd."
+            "2003"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
-    "duration": null,
-    "keywords": [
-        "dominatrix"
+    "duration": "PT22M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm1285154/",
+            "name": "Scott McLaren",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1020390/",
+            "name": "Christopher Behnisch",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0400043/",
     "metascore": null,
@@ -51,7 +66,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2003-09-04",
+    "datePublished": "2003",
+    "original_title": "Tell It Like It Is",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-11T02:00:14"
+    "update_at": "2026-11-17T11:00:14"
 }

@@ -5,63 +5,127 @@
     "site": "imdb",
     "year": "1942",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Comedy"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0056438/",
-            "name": "Lucien Baroux"
+            "name": "Lucien Baroux",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0269197/",
-            "name": "Renée Faure"
+            "name": "Renée Faure",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0301243/",
-            "name": "Jimmy Gaillard"
+            "name": "Jimmy Gaillard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0350786/",
+            "name": "Christian Gérard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0029238/",
+            "name": "Sabine André",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0323895/",
+            "name": "Germaine Godefroid",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0282688/",
+            "name": "Louis Florencie",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0515394/",
+            "name": "Germaine Lix",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0910435/",
+            "name": "Léon Walther",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0757401/",
+            "name": "Maurice Salabert",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDZlNDdkNTMtNzYyMi00NWI2LTljNWEtYTY0NTg5ZWE4YjE0XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/cX3X9i8GooYcmpxxkPO67t2QBd9.jpg",
     "details": {
+        "Stars": [
+            "Lucien Baroux",
+            "Renée Faure",
+            "Jimmy Gaillard"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Michel Duran"
+        ],
+        "Runtime": [
+            "100 min"
+        ],
+        "Director": [
+            "Jean Boyer"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "March 26, 1942 (France)"
+            "1942-03-26"
         ],
         "Country of origin": [
             "France"
         ],
-        "Production company": [
+        "Production companies": [
             "Compagnie Commerciale Française Cinématographique (CCFC)"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0243721/",
-            "name": "Michel Duran"
+            "name": "Michel Duran",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H40M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0004454/",
-            "name": "Jean Boyer"
+            "name": "Jean Boyer",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0035213/",
     "metascore": null,
-    "imdb_votes": 50,
+    "imdb_votes": 51,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "6.3/10 from 50 users",
-    "release_date": [],
+    "description": "Rosine, who spends her time as a model, has to deal with the advances of a disreputable young man.",
+    "imdb_rating": "6.3/10 from 51 users",
+    "release_date": [
+        {
+            "date": "1942-03-26",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1942-03-26",
+    "original_title": "Le prince charmant",
     "imdb_rating_average": 6.3,
-    "update_at": "2026-06-11T04:00:30"
+    "update_at": "2026-11-18T00:42:08"
 }

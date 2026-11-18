@@ -4,62 +4,79 @@
     "name": "Przyczynek do teorii wzglednosci",
     "site": "imdb",
     "year": "1986",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1406016/",
-            "name": "Maria Bialobrzeska"
+            "name": "Maria Bialobrzeska",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0246181/",
-            "name": "Barbara Dzido-Lelinska"
+            "name": "Barbara Dzido-Lelinska",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0392976/",
-            "name": "Maria Homerska"
+            "name": "Maria Homerska",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0418857/",
+            "name": "Stanislaw Jaroszynski",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2407789/",
+            "name": "Antoni Rot",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Polish"
+        "Stars": [
+            "Maria Bialobrzeska",
+            "Barbara Dzido-Lelinska",
+            "Maria Homerska"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Grzegorz Kruszewski"
+        ],
+        "Runtime": [
+            "19 min"
+        ],
+        "Director": [
+            "Grzegorz Kruszewski"
         ],
         "Release date": [
-            "June 14, 1986 (Poland)"
-        ],
-        "Also known as": [
-            "Przyczynek do teorii względności"
-        ],
-        "Country of origin": [
-            "Poland"
-        ],
-        "Filming locations": [
-            "Lódz, Lódzkie, Poland"
-        ],
-        "Production company": [
-            "PWSFTviT"
+            "1986"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0472905/",
-            "name": "Grzegorz Kruszewski"
+            "name": "Grzegorz Kruszewski",
+            "@type": "Person"
         }
     ],
     "duration": "PT19M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0472905/",
-            "name": "Grzegorz Kruszewski"
+            "name": "Grzegorz Kruszewski",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0877525/",
@@ -70,7 +87,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1986-06-14",
+    "datePublished": "1986",
+    "original_title": "Przyczynek do teorii wzglednosci",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-22T03:21:13"
+    "update_at": "2026-11-17T23:35:30"
 }
