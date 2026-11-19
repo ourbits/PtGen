@@ -4,60 +4,118 @@
     "name": "Zur blauen Palette",
     "site": "imdb",
     "year": "1967",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Music"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0775120/",
-            "name": "Günther Schramm"
+            "name": "Günther Schramm",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0530589/",
-            "name": "Guggi Löwinger"
+            "name": "Guggi Löwinger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3226004/",
-            "name": "Gabriele Esche"
+            "name": "Gabriele Esche",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0675707/",
+            "name": "Elfie Pertramer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0576430/",
+            "name": "Gottfried Mehlhorn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0859090/",
+            "name": "Karl-Heinz Thomas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0294838/",
+            "name": "Gerd Frickhöffer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0067176/",
+            "name": "Ulrich Beiger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0552901/",
+            "name": "Peter Martin Urtel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0251315/",
+            "name": "Carl Ehrhardt-Hardt",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Günther Schramm",
+            "Guggi Löwinger",
+            "Gabriele Esche"
+        ],
+        "Genres": [
+            "Music"
+        ],
+        "Writer": [
+            "Franz Geiger",
+            "Hans Fritz Beckmann"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "Arthur Maria Rabenalt"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "March 30, 1967 (West Germany)"
+            "1967-03-29"
         ],
         "Country of origin": [
-            "West Germany"
+            "Germany"
         ],
         "Production companies": [
             "TV-Star GmbH",
-            "Zweites Deutsches Fernsehen (ZDF)"
+            "ZDF"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0311903/",
-            "name": "Franz Geiger"
+            "name": "Franz Geiger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0065826/",
-            "name": "Hans Fritz Beckmann"
+            "name": "Hans Fritz Beckmann",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H35M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0704841/",
-            "name": "Arthur Maria Rabenalt"
+            "name": "Arthur Maria Rabenalt",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0926175/",
@@ -65,10 +123,16 @@
     "imdb_votes": 16,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "8.3/10 from 16 users",
-    "release_date": [],
+    "imdb_rating": "8.0/10 from 16 users",
+    "release_date": [
+        {
+            "date": "1967-03-29",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1967-03-30",
-    "imdb_rating_average": 8.3,
-    "update_at": "2026-05-19T04:56:05"
+    "datePublished": "1967-03-29",
+    "original_title": "Zur blauen Palette",
+    "imdb_rating_average": 8.0,
+    "update_at": "2026-11-18T12:00:52"
 }

@@ -4,61 +4,112 @@
     "name": "Hitman",
     "site": "imdb",
     "year": "2020",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm12533321/",
-            "name": "Judy Barnes"
+            "name": "Judy Barnes",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm12533319/",
-            "name": "Elijah Benn"
+            "name": "Elijah Benn",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm11852329/",
-            "name": "Grey Buxton"
+            "name": "Grey Buxton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm12533314/",
+            "name": "Hualālai Chung",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm12533316/",
+            "name": "Michael Colon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm12533315/",
+            "name": "R. Duval",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm12533320/",
+            "name": "Len Fujinaka",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7118486/",
+            "name": "Mor Ben Haim",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7118486/",
+            "name": "Mor Ben Haim",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm12533317/",
+            "name": "Dylan Tamamoto",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzNiYjU5OGYtZTMwNC00NGNmLTk4MmUtMjhhMDgxZjhmMWFlXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/zvxaIrAU9IH5GU4ba0sADAVviTX.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Judy Barnes",
+            "Elijah Benn",
+            "Grey Buxton"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Devan Yukio Fujinaka"
+        ],
+        "Runtime": [
+            "26 min"
+        ],
+        "Director": [
+            "Devan Yukio Fujinaka"
         ],
         "Release date": [
-            "November 5, 2020 (United States)"
-        ],
-        "Official site": [
-            "Link to Film - https://vimeo.com/459289902"
+            "2020-11-05"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Honolulu, Hawaii, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Neuro Pictures"
         ]
     },
     "reviews": 0,
+    "tagline": "How Far Will You Go For Family?",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm12533313/",
-            "name": "Devan Yukio Fujinaka"
+            "name": "Devan Yukio Fujinaka",
+            "@type": "Person"
         }
     ],
     "duration": "PT26M",
     "keywords": [
-        ""
+        "dystopia",
+        "distant future",
+        "cyberpunk"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm12533313/",
-            "name": "Devan Yukio Fujinaka"
+            "name": "Devan Yukio Fujinaka",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt14558176/",
@@ -66,10 +117,16 @@
     "imdb_votes": 13,
     "popularity": 0,
     "description": "A 2045 bounty hunter frantically races against the clock to free his childhood best friend from jail, leading him to a decision that could destroy his conscience forever.",
-    "imdb_rating": "8.2/10 from 13 users",
-    "release_date": [],
-    "contentRating": null,
+    "imdb_rating": "8.9/10 from 13 users",
+    "release_date": [
+        {
+            "date": "2020-11-05",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "2020-11-05",
-    "imdb_rating_average": 8.2,
-    "update_at": "2025-09-22T01:42:49"
+    "original_title": "Hitman",
+    "imdb_rating_average": 8.9,
+    "update_at": "2026-11-18T18:49:07"
 }

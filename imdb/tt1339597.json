@@ -4,72 +4,97 @@
     "name": "Ghost Town",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2721406/",
-            "name": "Romeo Ryder"
+            "name": "Romeo Ryder",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2735628/",
-            "name": "Kimberly Ann Saviano"
+            "name": "Kimberly Ann Saviano",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2151478/",
-            "name": "Abbi Butler"
+            "name": "Abbi Butler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0379550/",
+            "name": "David Hernandez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1191830/",
+            "name": "David Anthony Hernandez",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Romeo Ryder",
+            "Kimberly Ann Saviano",
+            "Abbi Butler"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Romeo Ryder",
+            "Kimberly Ann Saviano"
+        ],
+        "Runtime": [
+            "19 min"
+        ],
+        "Director": [
+            "Romeo Ryder"
         ],
         "Release date": [
-            "January 1, 2009 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
+            "2009"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2721406/",
-            "name": "Romeo Ryder"
+            "name": "Romeo Ryder",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2735628/",
-            "name": "Kimberly Ann Saviano"
+            "name": "Kimberly Ann Saviano",
+            "@type": "Person"
         }
     ],
     "duration": "PT19M",
-    "keywords": [
-        "ghost town",
-        "robbery",
-        "inferno",
-        "hell",
-        "church"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2721406/",
-            "name": "Romeo Ryder"
+            "name": "Romeo Ryder",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1339597/",
     "metascore": null,
     "imdb_votes": 8,
     "popularity": 0,
-    "description": "&apos;Ghost Town&apos; is a short drama based on Dante&apos;s Inferno. Blake and Haily, a modern Bonnie and Clyde couple, find themselves in a ghost town somewhere in the middle of nowhere after something went wrong during their last robbery. Th...",
-    "imdb_rating": "5/10 from 8 users",
+    "description": null,
+    "imdb_rating": "5.0/10 from 8 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2009-01-01",
-    "imdb_rating_average": 5,
-    "update_at": "2025-09-18T14:49:30"
+    "datePublished": "2009",
+    "original_title": "Ghost Town",
+    "imdb_rating_average": 5.0,
+    "update_at": "2026-11-18T05:14:22"
 }

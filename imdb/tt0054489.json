@@ -8,78 +8,137 @@
     "genre": [
         "Action",
         "Adventure",
-        "War"
+        "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0834425/",
-            "name": "Ray Stricklyn"
+            "name": "Ray Stricklyn",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0662700/",
-            "name": "Willard Parker"
+            "name": "Willard Parker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0026039/",
-            "name": "Merry Anders"
+            "name": "Merry Anders",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0228718/",
+            "name": "Robert Dix",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0583093/",
+            "name": "Emile Meyer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0640754/",
+            "name": "Jacklyn O'Donnell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0055736/",
+            "name": "Rayford Barnes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0391637/",
+            "name": "Rex Holman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0390552/",
+            "name": "Robert Palmer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0111355/",
+            "name": "Sheila Bromley",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDUwZDdkNmMtMGQzNS00MWU5LWFmYzEtNWEyYzk5OGYwYzczXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/kQMMAYJvKpK38ZLpOfYOVfMYB0f.jpg",
     "details": {
+        "Stars": [
+            "Ray Stricklyn",
+            "Willard Parker",
+            "Merry Anders"
+        ],
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "Writer": [
+            "Orville H. Hampton",
+            "Jerry Sackheim"
+        ],
+        "Runtime": [
+            "73 min"
+        ],
+        "Director": [
+            "William F. Claxton"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "August 2, 1960 (United States)"
-        ],
-        "Also known as": [
-            "Assim Nasce um Bandido"
+            "1960-08-02"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Associated Producers (API)"
         ]
     },
-    "reviews": 6,
+    "reviews": 0,
+    "tagline": "The teenager who became the West's most hunted desperado!",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0359034/",
-            "name": "Orville H. Hampton"
+            "name": "Orville H. Hampton",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0755262/",
-            "name": "Jerry Sackheim"
+            "name": "Jerry Sackheim",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H13M",
     "keywords": [
-        "character name as title",
-        "three word title",
-        "jesse james character",
-        "frank james character",
-        "cole younger character"
+        "jesse james",
+        "cole younger"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0165493/",
-            "name": "William F. Claxton"
+            "name": "William F. Claxton",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0054489/",
     "metascore": null,
-    "imdb_votes": 174,
+    "imdb_votes": 193,
     "popularity": 0,
-    "description": "Missouri farm boy Jesse James witnesses his father&apos;s lynching by Yankees. He leaves home to find brother Frank, a Quantrill&apos;s Raiders Confederate soldier. Jesse joins the renegade group, seeking revenge.",
-    "imdb_rating": "5/10 from 174 users",
-    "release_date": [],
-    "contentRating": "Approved",
+    "description": "When Missouri farm boy Jesse James witnesses the lynching of his father by the Yankees, he forsakes his family's homestead to find his brother Frank, a soldier in Quantrill's Raiders, a renegade band of Confederates. Bent on revenge, Jesse begs to join the raiders.",
+    "imdb_rating": "4.9/10 from 193 users",
+    "release_date": [
+        {
+            "date": "1960-08-02",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1960-08-02",
-    "imdb_rating_average": 5,
-    "update_at": "2025-04-03T11:11:48"
+    "original_title": "Young Jesse James",
+    "imdb_rating_average": 4.9,
+    "update_at": "2026-11-19T00:35:19"
 }

@@ -4,39 +4,112 @@
     "name": "Richard the Second",
     "site": "imdb",
     "year": "2001",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Drama"
     ],
-    "critic": 4,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjE5Njc5MjgwN15BMl5BanBnXkFtZTcwNTEzODYyMQ@@._V1_.jpg",
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0651953/",
+            "name": "Matte Osian",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0356572/",
+            "name": "Kadina de Elejalde",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1226407/",
+            "name": "Barry Smith",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1033765/",
+            "name": "Ellen Zachos",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1228249/",
+            "name": "Robert F. McCafferty",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1229663/",
+            "name": "Daniel Maher",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0249904/",
+            "name": "Craig Alan Edwards",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0640759/",
+            "name": "Frank O'Donnell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0876890/",
+            "name": "Tom Turbiville",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1229534/",
+            "name": "David W. Frank",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/yvNrWy97FPf0EsJmCUF6eRFu1tZ.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Matte Osian",
+            "Kadina de Elejalde",
+            "Barry Smith"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "John Farrell",
+            "William Shakespeare"
+        ],
+        "Runtime": [
+            "93 min"
+        ],
+        "Director": [
+            "John Farrell"
         ],
         "Release date": [
-            "July 27, 2001 (United States)"
-        ],
-        "Also known as": [
-            "William Shakespeare's Richard the Second"
+            "2001-07-26"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Boston, Massachusetts, USA"
-        ],
-        "Production company": [
-            "Farrellmedia Inc."
+            "United States of America"
         ]
     },
-    "reviews": 2,
-    "creators": [],
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm1034624/",
+            "name": "John Farrell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000636/",
+            "name": "William Shakespeare",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT1H33M",
-    "keywords": [
-        "shakespeare&apos;s richard ii",
-        "based on play",
-        "character name in title"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm1034624/",
+            "name": "John Farrell",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0291447/",
     "metascore": null,
@@ -44,9 +117,15 @@
     "popularity": 0,
     "description": "A banished nobleman returns to usurp the throne of England when the king seizes all his property.",
     "imdb_rating": "4.6/10 from 26 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2001-07-26",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2001-07-27",
+    "datePublished": "2001-07-26",
+    "original_title": "Richard the Second",
     "imdb_rating_average": 4.6,
-    "update_at": "2026-05-11T14:14:21"
+    "update_at": "2026-11-18T19:49:19"
 }

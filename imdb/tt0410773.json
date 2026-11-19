@@ -1,77 +1,96 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Tivolishow 2000",
+            "country": "United States of America"
+        }
+    ],
     "sid": "tt0410773",
     "name": "Tivoli Show 2000",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2000",
+    "@type": "TVSpecial",
     "genre": [
-        "Music",
-        "Comedy"
+        "Comedy",
+        "Music"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0471576/",
-            "name": "Preben Kristensen"
+            "name": "Preben Kristensen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0657866/",
-            "name": "Per Pallesen"
+            "name": "Per Pallesen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0696938/",
-            "name": "James Price"
+            "name": "James Price",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0712513/",
+            "name": "Kurt Ravn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0758921/",
+            "name": "Sanne Salomonsen",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Danish"
+        "Stars": [
+            "Preben Kristensen",
+            "Per Pallesen",
+            "James Price"
+        ],
+        "Genres": [
+            "Comedy",
+            "Music"
+        ],
+        "Writer": [
+            "Henrik H. Lund",
+            "Adam Price"
+        ],
+        "Runtime": [
+            "98 min"
         ],
         "Release date": [
-            "2000 (Denmark)"
-        ],
-        "Also known as": [
-            "Tivolishow 2000"
-        ],
-        "Country of origin": [
-            "Denmark"
-        ],
-        "Filming locations": [
-            "Tivoli, Copenhagen, Denmark"
-        ],
-        "Production company": [
-            "Agenzy A/S"
+            "2000"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0526178/",
-            "name": "Henrik H. Lund"
+            "name": "Henrik H. Lund",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0696769/",
-            "name": "Adam Price"
+            "name": "Adam Price",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H38M",
-    "keywords": [
-        "satire comedy",
-        "parody comedy",
-        "revue",
-        "variety show",
-        "tv special"
-    ],
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt0410773/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Television special in two parts, featuring the annual revue at Copenhagen&apos;s amusement park Tivoli.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2000",
+    "original_title": "Tivoli Show 2000",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-26T08:43:40"
+    "update_at": "2026-11-18T21:07:06"
 }

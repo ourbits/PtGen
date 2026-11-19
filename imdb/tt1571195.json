@@ -4,43 +4,94 @@
     "name": "Better Off Undead",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Horror"
+        "Horror",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3746767/",
-            "name": "Drew Schuldt"
+            "name": "Drew Schuldt",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3745474/",
-            "name": "Dale De Vries"
+            "name": "Dale De Vries",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3718818/",
-            "name": "Jordan Brown"
+            "name": "Jordan Brown",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3746827/",
+            "name": "Sam Warnke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3747079/",
+            "name": "Mary Manchester",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3745528/",
+            "name": "Dr. Kickbutt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3745746/",
+            "name": "Nicole Grumbeck",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3746442/",
+            "name": "Scott Dercks",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3787515/",
+            "name": "Jason Baer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3782297/",
+            "name": "Claudine Bonneau",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzODEzMjc0NV5BMl5BanBnXkFtZTcwOTA0NjUxMw@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/hIdOXuUyw4bL4wCj19b4ssLVvZp.jpg",
     "details": {
+        "Stars": [
+            "Drew Schuldt",
+            "Dale De Vries",
+            "Jordan Brown"
+        ],
+        "Genres": [
+            "Comedy",
+            "Horror",
+            "Short"
+        ],
+        "Writer": [
+            "John Pata"
+        ],
+        "Runtime": [
+            "29 min"
+        ],
+        "Director": [
+            "John Pata"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "April 14, 2007 (United States)"
-        ],
-        "Also known as": [
-            "Untitled Zombie Story Full of Stupid Dick Jokes Written by John Pata"
+            "2007-04-17"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Oshkosh, Wisconsin, USA"
+            "United States of America"
         ],
         "Production companies": [
             "Head Trauma Productions",
@@ -48,31 +99,42 @@
         ]
     },
     "reviews": 0,
+    "tagline": "Unlucky To Be Alive",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3746087/",
-            "name": "John Pata"
+            "name": "John Pata",
+            "@type": "Person"
         }
     ],
     "duration": "PT29M",
     "keywords": [
-        "whiskey"
+        "parody",
+        "zombie apocalypse",
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3746087/",
-            "name": "John Pata"
+            "name": "John Pata",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1571195/",
     "metascore": null,
     "imdb_votes": 23,
     "popularity": 0,
-    "description": "Marcus, Chris and Evan find themselves stuck in any normal day, when without warning, zombies begin to infest the city. Not knowing exactly what to do, the three attempt to seek shelter at Marcus&apos; house, but first they have to get...",
+    "description": "Marcus, Chris and Evan find themselves stuck in any normal day, when without warning, zombies begin to infest the city. Not knowing exactly what to do, the three attempt to seek shelter at Marcus' house, but first they have to get there. Facing the undead, Marcus, Chris and Evan try to survive the zombies and each other.",
     "imdb_rating": "6.6/10 from 23 users",
-    "release_date": [],
-    "contentRating": null,
-    "datePublished": "2007-04-14",
+    "release_date": [
+        {
+            "date": "2007-04-17",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
+    "datePublished": "2007-04-17",
+    "original_title": "Better Off Undead",
     "imdb_rating_average": 6.6,
-    "update_at": "2025-09-18T10:35:06"
+    "update_at": "2026-11-18T09:49:19"
 }

@@ -6,63 +6,81 @@
     "year": "2009",
     "@type": "Movie",
     "genre": [
-        "Documentary",
-        "Biography"
+        "Biography",
+        "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0418394/",
-            "name": "Waldemar Januszczak"
+            "name": "Waldemar Januszczak",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4522139/",
-            "name": "Juliet Wilson-Bareau"
+            "name": "Juliet Wilson-Bareau",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjQ2ZTgyYTgtYjhhZS00NDQ1LWFmOWUtODkyNjU3M2FmOTdjXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/6TSsKRfU21Vl5wvH6qWjv8Dawfj.jpg",
     "details": {
+        "Stars": [
+            "Waldemar Januszczak",
+            "Juliet Wilson-Bareau"
+        ],
+        "Genres": [
+            "Biography",
+            "Documentary"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Waldemar Januszczak"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "June 13, 2009 (United Kingdom)"
+            "2009-06-13"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Filming locations": [
-            "London, England, UK"
-        ],
-        "Production company": [
+        "Production companies": [
+            "BBC",
             "ZCZ Films"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT1H30M",
     "keywords": [
-        "artist",
-        "art",
-        "modern art",
-        "edouard manet",
-        "syphilis"
+        "modern art"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0418394/",
-            "name": "Waldemar Januszczak"
+            "name": "Waldemar Januszczak",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt3365408/",
     "metascore": null,
-    "imdb_votes": 138,
+    "imdb_votes": 151,
     "popularity": 0,
-    "description": "Manet is one of the main candidates for the title of the most important artist that ever lived. As the father of Impressionism he can be accused of inventing modern art. But his story is deeper than imagined.",
-    "imdb_rating": "7.4/10 from 138 users",
-    "release_date": [],
+    "description": "Manet is one of the main candidates for the title of the most important artist there has been. As the reluctant father of Impressionism, and the painter of Dejeuner sur l'herbe, he can probably be accused of inventing modern art. But his story is fascinating on many other levels.  As a piece of compelling biography, Manet's is the unlikely tale of the stubborn son of the most highly placed judge in France who decides to become an artist and embarrass his father. The resulting family tensions are the stuff of legend.  Then there was Manet's dramatic private life, including exotic romantic affairs and a particularly horrible death.  Always cited as the father of the Impressionists, Manet stubbornly refused to show with them, and was careful to maintain an aesthetic distance from Monet, Renoir and the others. While they worshipped him, he looked down on them.",
+    "imdb_rating": "7.5/10 from 151 users",
+    "release_date": [
+        {
+            "date": "2009-06-13",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2009-06-13",
-    "imdb_rating_average": 7.4,
-    "update_at": "2025-09-10T11:21:55"
+    "original_title": "Manet: The Man Who Invented Modern Art",
+    "imdb_rating_average": 7.5,
+    "update_at": "2026-11-18T16:28:23"
 }

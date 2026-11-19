@@ -4,66 +4,75 @@
     "name": "The Perfect Date",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2587721/",
-            "name": "Jennifer Mu Ge"
+            "name": "Jennifer Mu Ge",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2077342/",
-            "name": "Christian Lee"
+            "name": "Christian Lee",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYyNzA1MDE0MF5BMl5BanBnXkFtZTcwNTg0OTU0MQ@@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "Mandarin"
+        "Stars": [
+            "Jennifer Mu Ge",
+            "Christian Lee"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Jonathan Lim"
+        ],
+        "Runtime": [
+            "8 min"
+        ],
+        "Director": [
+            "Jonathan Lim"
         ],
         "Release date": [
-            "January 19, 2006 (United States)"
-        ],
-        "Country of origin": [
-            "China"
-        ],
-        "Filming locations": [
-            "Beijing, China"
-        ],
-        "Production company": [
-            "Beijing Crimson Culture & Media Company"
+            "2006"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2587908/",
-            "name": "Jonathan Lim"
+            "name": "Jonathan Lim",
+            "@type": "Person"
         }
     ],
     "duration": "PT8M",
-    "keywords": [
-        "poverty"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2587908/",
-            "name": "Jonathan Lim"
+            "name": "Jonathan Lim",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0982910/",
     "metascore": null,
     "imdb_votes": 111,
     "popularity": 0,
-    "description": "A young couple arrives home for a nightcap to a romantic evening. However, this party is not what it seems.",
-    "imdb_rating": "6/10 from 111 users",
+    "description": null,
+    "imdb_rating": "6.1/10 from 111 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2006-01-19",
-    "imdb_rating_average": 6,
-    "update_at": "2025-05-11T01:39:28"
+    "datePublished": "2006",
+    "original_title": "The Perfect Date",
+    "imdb_rating_average": 6.1,
+    "update_at": "2026-11-18T13:21:25"
 }

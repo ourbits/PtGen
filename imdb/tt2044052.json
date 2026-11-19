@@ -4,7 +4,7 @@
     "name": "The Scarface Phenomenon",
     "site": "imdb",
     "year": "2011",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Documentary",
         "Short"
@@ -12,55 +12,110 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0757515/",
-            "name": "Julie Salamon"
+            "name": "Julie Salamon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5054631/",
-            "name": "Ken Tucker"
+            "name": "Ken Tucker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0744834/",
-            "name": "Eli Roth"
+            "name": "Eli Roth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000361/",
+            "name": "Brian De Palma",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0106840/",
+            "name": "Martin Bregman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0330360/",
+            "name": "Keith Gordon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0721420/",
+            "name": "Sen D.O.G.",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5054924/",
+            "name": "L.A. Banks",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0053516/",
+            "name": "Jillian Barberie",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2500207/",
+            "name": "Roberto Saviano",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTZjNmQ4MzQtNTI1ZS00MTZlLWIzODItZmIzMmE3ZDdiNTBiXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/hODiXyOQNXyvn5HyI7YyPamL0Y0.jpg",
     "details": {
-        "Languages": [
-            "English",
-            "Italian"
+        "Stars": [
+            "Julie Salamon",
+            "Ken Tucker",
+            "Eli Roth"
+        ],
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Runtime": [
+            "39 min"
+        ],
+        "Director": [
+            "Laurent Bouzereau"
+        ],
+        "Language": [
+            "English"
         ],
         "Release date": [
-            "September 6, 2011 (United States)"
+            "2011-09-06"
         ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
+        "Production companies": [
             "Universal Studios Home Video"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT39M",
-    "keywords": [
-        "making of"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0100522/",
-            "name": "Laurent Bouzereau"
+            "name": "Laurent Bouzereau",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2044052/",
     "metascore": null,
-    "imdb_votes": 44,
+    "imdb_votes": 46,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.1/10 from 44 users",
-    "release_date": [],
+    "description": "This documentary presents \"Scarface\" as a unique phenomenon in cinema history. It explores how a film plagued by controversy leading up to its release has become a Hollywood classic, influencing a whole new generation of filmmakers and leaving a lasting imprint on popular culture.",
+    "imdb_rating": "7.3/10 from 46 users",
+    "release_date": [
+        {
+            "date": "2011-09-06",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2011-09-06",
-    "imdb_rating_average": 7.1,
-    "update_at": "2025-05-18T20:13:12"
+    "original_title": "The Scarface Phenomenon",
+    "imdb_rating_average": 7.3,
+    "update_at": "2026-11-18T18:35:28"
 }

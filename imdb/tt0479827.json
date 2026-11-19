@@ -4,58 +4,131 @@
     "name": "Broken News",
     "site": "imdb",
     "year": "2005",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0160004/",
-            "name": "Claudia Christian"
+            "name": "Claudia Christian",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0240375/",
-            "name": "Duncan Duff"
+            "name": "Duncan Duff",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1279721/",
-            "name": "Sharon Horgan"
+            "name": "Sharon Horgan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0629298/",
+            "name": "Phil Nice",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0635773/",
+            "name": "Carli Norris",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0830479/",
+            "name": "Colin Stinton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0869750/",
+            "name": "Steve Toussaint",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0890055/",
+            "name": "Indira Varma",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0908447/",
+            "name": "Kim Wall",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1404569/",
+            "name": "Clare Wille",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTcxNDAwOTUxMV5BMl5BanBnXkFtZTcwNDk4MDMzMQ@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/fIUAM73opsimhvt67KdlEQJlEgN.jpg",
     "details": {
+        "Stars": [
+            "Claudia Christian",
+            "Duncan Duff",
+            "Sharon Horgan"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "John Morton",
+            "Tony Roche"
+        ],
+        "Runtime": [
+            "30 min"
+        ],
+        "Director": [
+            "John Morton"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "October 20, 2005 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Megszakítjuk adásunkat..."
+            "2005-10-31"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Production company": [
-            "British Broadcasting Corporation (BBC)"
+        "Production companies": [
+            "BBC"
         ]
     },
-    "reviews": 8,
-    "creators": [],
-    "duration": null,
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0608017/",
+            "name": "John Morton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0733988/",
+            "name": "Tony Roche",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT30M",
     "keywords": [
-        "tv mini series"
+        "satire"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0608017/",
+            "name": "John Morton",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0479827/",
     "metascore": null,
-    "imdb_votes": 266,
+    "imdb_votes": 276,
     "popularity": 0,
-    "description": "A quirky comedy comprised of numerous humorous news programmes spliced not-so-randomly together.",
-    "imdb_rating": "7.4/10 from 266 users",
+    "description": "Broken News is a comedy programme shown on BBC Two in autumn 2005 and in Australia on SBS-TV from the 17 July 2006. The show poked fun at the world of 24-hour rolling news channels. The title of the show is a play on the phrase \"breaking news\". The show jump cut between its various spoof TV channels, which covered both the central story and other stories that would be of interest to their audience. A large part of the comedy came from observations about the nature of news presentation rather than the stories themselves.",
+    "imdb_rating": "7.6/10 from 276 users",
     "release_date": [],
-    "contentRating": null,
-    "datePublished": "2005-10-20",
-    "imdb_rating_average": 7.4,
-    "update_at": "2025-01-29T09:33:46"
+    "contentRating": "NR",
+    "datePublished": "2005-10-31",
+    "original_title": "Broken News",
+    "imdb_rating_average": 7.6,
+    "update_at": "2026-11-18T09:21:10"
 }

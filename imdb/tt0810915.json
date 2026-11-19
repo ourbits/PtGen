@@ -3,59 +3,94 @@
     "sid": "tt0810915",
     "name": "Je dois me taire",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2006",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2285076/",
-            "name": "Marie Birhaye"
+            "name": "Marie Birhaye",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2283105/",
-            "name": "Etienne Cadet"
+            "name": "Etienne Cadet",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2285789/",
-            "name": "Stéphanie Gob"
+            "name": "Stéphanie Gob",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0505044/",
+            "name": "Sabrina Leurquin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2283420/",
+            "name": "Benjamin Merschaut",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2284391/",
+            "name": "Michèle Naze",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2283120/",
+            "name": "Marie-Hélène Remacle",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Marie Birhaye",
+            "Etienne Cadet",
+            "Stéphanie Gob"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Serge Minne",
+            "Chantal Van Den Heuvel"
+        ],
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "Serge Minne"
         ],
         "Release date": [
-            "2006 (Belgium)"
-        ],
-        "Country of origin": [
-            "Belgium"
-        ],
-        "Production company": [
-            "PBC Pictures"
+            "2006"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2280606/",
-            "name": "Serge Minne"
+            "name": "Serge Minne",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1847986/",
-            "name": "Chantal Van Den Heuvel"
+            "name": "Chantal Van Den Heuvel",
+            "@type": "Person"
         }
     ],
     "duration": "PT12M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2280606/",
-            "name": "Serge Minne"
+            "name": "Serge Minne",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0810915/",
@@ -66,7 +101,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2006",
+    "original_title": "Je dois me taire",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-21T04:00:51"
+    "update_at": "2026-11-19T01:00:13"
 }

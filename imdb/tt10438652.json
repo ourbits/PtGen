@@ -4,60 +4,76 @@
     "name": "Daniel Sosa: Maleducado",
     "site": "imdb",
     "year": "2019",
-    "@type": "Movie",
+    "@type": "TVSpecial",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm8087138/",
-            "name": "Daniel Sosa"
+            "name": "Daniel Sosa",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjM2MDBiZDMtZWRjMy00OTFjLWI2NTItYzM3OGY0OWExZmE0XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/21utT8MgNgXVHcjktlfWWBhW85X.jpg",
     "details": {
+        "Stars": [
+            "Daniel Sosa"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Runtime": [
+            "54 min"
+        ],
+        "Director": [
+            "Marcos Bucay",
+            "Alex Díaz"
+        ],
         "Language": [
             "Spanish"
         ],
         "Release date": [
-            "June 27, 2019 (United States)"
-        ],
-        "Country of origin": [
-            "Mexico"
-        ],
-        "Production companies": [
-            "Altered L.A.",
-            "Casa Comedy"
+            "2019-06-28"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT54M",
-    "keywords": [
-        "tv special",
-        "stand up comedy",
-        "stand up comedy special"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3136544/",
-            "name": "Marcos Bucay"
+            "name": "Marcos Bucay",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm10743407/",
-            "name": "Alex Díaz"
+            "name": "Alex Díaz",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt10438652/",
     "metascore": null,
-    "imdb_votes": 80,
+    "imdb_votes": 93,
     "popularity": 0,
-    "description": "In his second comedy special, Daniel Sosa reflects on his childhood, Mexican traditions and the problem with the movie Coco.",
-    "imdb_rating": "6.6/10 from 80 users",
-    "release_date": [],
-    "contentRating": "TV-MA",
-    "datePublished": "2019-06-27",
-    "imdb_rating_average": 6.6,
-    "update_at": "2025-02-09T12:34:54"
+    "description": "In his second stand-up special, Daniel Sosa reminisces about his childhood, ponders Mexican traditions and points out a major problem with \"Coco\".",
+    "imdb_rating": "6.5/10 from 93 users",
+    "release_date": [
+        {
+            "date": "2019-06-28",
+            "country": "Italy"
+        },
+        {
+            "date": "2019-06-28",
+            "country": "Romania"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2019-06-28",
+    "original_title": "Daniel Sosa: Maleducado",
+    "imdb_rating_average": 6.5,
+    "update_at": "2026-11-18T12:21:08"
 }

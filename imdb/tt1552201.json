@@ -1,62 +1,82 @@
 {
     "aka": [],
     "sid": "tt1552201",
-    "name": "L&apos;étang",
+    "name": "L'étang",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2008",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3694048/",
-            "name": "Arielle Marguerite"
+            "name": "Arielle Marguerite",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3693666/",
-            "name": "Claudine Leclercq"
+            "name": "Claudine Leclercq",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2119345/",
-            "name": "Guillaume Bureau"
+            "name": "Guillaume Bureau",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzFhNzY4NDItZjZjMC00NDM2LWJkZjgtMGE5MzgzMmMyNGUyXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Arielle Marguerite",
+            "Claudine Leclercq",
+            "Guillaume Bureau"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Olivier Nicklaus",
+            "Nicolas Pariser",
+            "Nicolas Perge"
+        ],
+        "Runtime": [
+            "23 min"
+        ],
+        "Director": [
+            "Nicolas Perge"
         ],
         "Release date": [
-            "2008 (France)"
-        ],
-        "Country of origin": [
-            "France"
+            "2008"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1367646/",
-            "name": "Olivier Nicklaus"
+            "name": "Olivier Nicklaus",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3033662/",
-            "name": "Nicolas Pariser"
+            "name": "Nicolas Pariser",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3451195/",
-            "name": "Nicolas Perge"
+            "name": "Nicolas Perge",
+            "@type": "Person"
         }
     ],
     "duration": "PT23M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3451195/",
-            "name": "Nicolas Perge"
+            "name": "Nicolas Perge",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1552201/",
@@ -67,7 +87,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2008",
+    "original_title": "L'étang",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-19T15:28:07"
+    "update_at": "2026-11-18T02:49:21"
 }

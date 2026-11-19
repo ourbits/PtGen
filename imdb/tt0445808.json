@@ -4,77 +4,91 @@
     "name": "Die Verwandlung",
     "site": "imdb",
     "year": "1960",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0521438/",
-            "name": "Hanns Lothar"
+            "name": "Hanns Lothar",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0543169/",
-            "name": "Lucie Mannheim"
+            "name": "Lucie Mannheim",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1641272/",
-            "name": "Inge Schönberg"
+            "name": "Inge Schönberg",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Hanns Lothar",
+            "Lucie Mannheim",
+            "Inge Schönberg"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Sándor Márai",
+            "Mona Podsmaniczky",
+            "Tibor Podsmaniczky"
+        ],
+        "Runtime": [
+            "41 min"
+        ],
+        "Director": [
+            "Fritz Schröder-Jahn"
         ],
         "Release date": [
-            "August 25, 1960 (West Germany)"
-        ],
-        "Official site": [
-            "arabuloku.com - https://www.arabuloku.com/donusum-ozet-ve-karakter-analizi.html"
-        ],
-        "Country of origin": [
-            "West Germany"
-        ],
-        "Production company": [
-            "Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland (ARD)"
+            "1960"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0617252/",
-            "name": "Sándor Márai"
+            "name": "Sándor Márai",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1847940/",
-            "name": "Mona Podsmaniczky"
+            "name": "Mona Podsmaniczky",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1847941/",
-            "name": "Tibor Podsmaniczky"
+            "name": "Tibor Podsmaniczky",
+            "@type": "Person"
         }
     ],
     "duration": "PT41M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0775704/",
-            "name": "Fritz Schröder-Jahn"
+            "name": "Fritz Schröder-Jahn",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0445808/",
     "metascore": null,
-    "imdb_votes": 26,
+    "imdb_votes": 19,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "9.4/10 from 26 users",
+    "imdb_rating": "9.1/10 from 19 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1960-08-25",
-    "imdb_rating_average": 9.4,
-    "update_at": "2025-04-06T13:08:43"
+    "datePublished": "1960",
+    "original_title": "Die Verwandlung",
+    "imdb_rating_average": 9.1,
+    "update_at": "2026-11-19T01:14:26"
 }

@@ -4,72 +4,119 @@
     "name": "Busco",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0002181/",
-            "name": "Imanol Arias"
+            "name": "Imanol Arias",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1794425/",
-            "name": "Manuel Baqueiro"
+            "name": "Manu Baqueiro",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2088872/",
-            "name": "Alfonso Bassave"
+            "name": "Alfonso Bassave",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1311122/",
+            "name": "Bebe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0127604/",
+            "name": "Críspulo Cabezas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2098588/",
+            "name": "Miguel Campello",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1014577/",
+            "name": "Mónica Cervera",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2287603/",
+            "name": "Wanda Obreke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0646575/",
+            "name": "Melani Olivares",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0673144/",
+            "name": "Javier Pereira",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWI5ZjcwZmQtNDY2MS00OWYxLTg0YTgtOWRiYzZhMjEyNDlmXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "Spanish"
+        "Stars": [
+            "Imanol Arias",
+            "Manu Baqueiro",
+            "Alfonso Bassave"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Carlos Cuenca",
+            "Arturo Turón"
+        ],
+        "Director": [
+            "Carlos Cuenca",
+            "Arturo Turón",
+            "Carlos Turón"
         ],
         "Release date": [
-            "May 17, 2006 (Spain)"
-        ],
-        "Country of origin": [
-            "Spain"
-        ],
-        "Filming locations": [
-            "Madrid, Spain"
-        ],
-        "Production companies": [
-            "Arturo Turón Garrido",
-            "Forward Visual Comunication"
+            "2006"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2288151/",
-            "name": "Carlos Cuenca"
+            "name": "Carlos Cuenca",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2293900/",
-            "name": "Arturo Turón"
+            "name": "Arturo Turón",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2288151/",
-            "name": "Carlos Cuenca"
+            "name": "Carlos Cuenca",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2293900/",
-            "name": "Arturo Turón"
+            "name": "Arturo Turón",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2293224/",
-            "name": "Carlos Turón"
+            "name": "Carlos Turón",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0815445/",
@@ -80,7 +127,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2006-05-17",
+    "datePublished": "2006",
+    "original_title": "Busco",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-26T03:00:23"
+    "update_at": "2026-11-18T23:00:18"
 }

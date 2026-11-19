@@ -5,25 +5,106 @@
     "site": "imdb",
     "year": "1980",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0845329/",
+            "name": "Gilles Ségal",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0609717/",
+            "name": "Jean-Pierre Moulin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0732220/",
+            "name": "Michel Robin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0186567/",
+            "name": "Paul Crauchet",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0041332/",
+            "name": "Pascal Aubier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0800645/",
+            "name": "Michèle Simonnet",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0576928/",
+            "name": "Frédérique Meininger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0688651/",
+            "name": "Annette Poivre",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0746034/",
+            "name": "Anne Rousselet",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0099134/",
+            "name": "Jacques Boudet",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2M2MWM3NzEtMTA4YS00NTI2LWI0ZWEtMGM1YzI1NTk0YTFhXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Gilles Ségal",
+            "Jean-Pierre Moulin",
+            "Michel Robin"
+        ],
+        "Writer": [
+            "Fyodor Dostoevsky",
+            "Gilles Katz",
+            "Gilles Ségal"
+        ],
+        "Director": [
+            "Gilles Katz"
         ],
         "Release date": [
-            "December 10, 1980 (France)"
-        ],
-        "Country of origin": [
-            "France"
+            "1980-12-02"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0234502/",
+            "name": "Fyodor Dostoevsky",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0441716/",
+            "name": "Gilles Katz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0845329/",
+            "name": "Gilles Ségal",
+            "@type": "Person"
+        }
+    ],
     "duration": null,
-    "keywords": [
-        "foreign language adaptation",
-        "based on short story"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0441716/",
+            "name": "Gilles Katz",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0298770/",
     "metascore": null,
@@ -31,9 +112,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1980-12-02",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1980-12-10",
+    "datePublished": "1980-12-02",
+    "original_title": "Bobo la tête",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-15T16:07:31"
+    "update_at": "2026-11-18T04:28:05"
 }

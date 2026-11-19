@@ -3,36 +3,68 @@
     "sid": "tt1344610",
     "name": "Glock",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2009",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0779866/",
-            "name": "Tom Everett Scott"
+            "name": "Tom Everett Scott",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001354/",
-            "name": "Ciarán Hinds"
+            "name": "Ciarán Hinds",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0740535/",
-            "name": "Stephen Root"
+            "name": "Stephen Root",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0573354/",
+            "name": "Michael McMillian",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1269983/",
+            "name": "Krysten Ritter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1711052/",
+            "name": "Rhys Coiro",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzdmMmQ4NmUtODdhNS00YzY4LTg0NWYtN2I2ZWE2OTY0NzE4XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Tom Everett Scott",
+            "Ciarán Hinds",
+            "Stephen Root"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Tom Everett Scott",
+            "Michael McMillian"
+        ],
+        "Runtime": [
+            "11 min"
+        ],
+        "Director": [
+            "Tom Everett Scott"
         ],
         "Release date": [
-            "2009 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
+            "2009-12-31"
         ],
         "Production companies": [
             "Dead Serious Films",
@@ -40,35 +72,43 @@
         ]
     },
     "reviews": 0,
+    "tagline": "A dark comedy about a new secret agent waiting on his first job.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0779866/",
-            "name": "Tom Everett Scott"
+            "name": "Tom Everett Scott",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0573354/",
-            "name": "Michael McMillian"
+            "name": "Michael McMillian",
+            "@type": "Person"
         }
     ],
     "duration": "PT11M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0779866/",
-            "name": "Tom Everett Scott"
+            "name": "Tom Everett Scott",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1344610/",
     "metascore": null,
-    "imdb_votes": 51,
+    "imdb_votes": 53,
     "popularity": 0,
-    "description": "A comedy where a new secret agent must try to survive his co-workers that are all named after guns.",
-    "imdb_rating": "7.1/10 from 51 users",
-    "release_date": [],
+    "description": "Short film about a new spy who is waiting on his first job. And waiting, and waiting....",
+    "imdb_rating": "7.3/10 from 53 users",
+    "release_date": [
+        {
+            "date": "2009-12-31",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 7.1,
-    "update_at": "2025-04-05T10:22:04"
+    "datePublished": "2009-12-31",
+    "original_title": "Glock",
+    "imdb_rating_average": 7.3,
+    "update_at": "2026-11-19T01:42:22"
 }

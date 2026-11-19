@@ -3,52 +3,95 @@
     "sid": "tt0437948",
     "name": "Crimetime",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2004",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0938294/",
-            "name": "Michelle Wolff"
+            "name": "Michelle Wolff",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0285346/",
-            "name": "Jack Forbes"
+            "name": "Jack Forbes",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2005111/",
-            "name": "Scott Voss"
+            "name": "Scott Voss",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3803978/",
+            "name": "Adam Hebb",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1963150/",
+            "name": "Frank Merritt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1651170/",
+            "name": "Nathan Mills",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1747900/",
+            "name": "Fred Ochs",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1801784/",
+            "name": "Jennifer Verbal",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1905963/",
+            "name": "Scott Vostad",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Michelle Wolff",
+            "Jack Forbes",
+            "Scott Voss"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "John McLaughlin"
+        ],
+        "Director": [
+            "Edward Barbini"
         ],
         "Release date": [
-            "February 2004 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
+            "2004"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1636144/",
-            "name": "John McLaughlin"
+            "name": "John McLaughlin",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0053697/",
-            "name": "Edward Barbini"
+            "name": "Edward Barbini",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0437948/",
@@ -59,7 +102,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2004",
+    "original_title": "Crimetime",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-09T13:35:09"
+    "update_at": "2026-11-18T08:14:24"
 }

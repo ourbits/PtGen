@@ -4,55 +4,106 @@
     "name": "The Movies",
     "site": "imdb",
     "year": "1967",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Family"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000338/",
-            "name": "Francis Ford Coppola"
-        },
-        {
-            "url": "https://www.imdb.com/name/nm0001471/",
-            "name": "Jerry Lewis"
+            "name": "Francis Ford Coppola",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000009/",
-            "name": "Richard Burton"
+            "name": "Richard Burton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001471/",
+            "name": "Jerry Lewis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0004309/",
+            "name": "Shirley Knight",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0366946/",
+            "name": "Elizabeth Hartman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0591486/",
+            "name": "Vincente Minnelli",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0082300/",
+            "name": "Tony Bill",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0842578/",
+            "name": "Clive Swift",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0542649/",
+            "name": "Anthony Mann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0843059/",
+            "name": "Eric Sykes",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWM0MTNjNmMtY2MyNS00MmNiLThlYmUtYzY2YTFmOTcwM2FhXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Francis Ford Coppola",
+            "Richard Burton",
+            "Jerry Lewis"
+        ],
+        "Genres": [
+            "Family"
+        ],
+        "Runtime": [
+            "30 min"
+        ],
+        "Director": [
+            "Nicholas Garnham",
+            "Virginia Kent",
+            "Robert Vas"
         ],
         "Release date": [
-            "January 2, 1967 (United Kingdom)"
-        ],
-        "Official site": [
-            "BBC Genome - http://genome.ch.bbc.co.uk/5e75947c23a64fee970ebee381ead9de"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Filming locations": [
-            "London, England, UK"
-        ],
-        "Production company": [
-            "British Broadcasting Corporation (BBC)"
+            "1967"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
-    "duration": null,
-    "keywords": [
-        "criticism",
-        "interview",
-        "cinema",
-        "art",
-        "tv mini series"
+    "duration": "PT30M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm4940248/",
+            "name": "Nicholas Garnham",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm9513065/",
+            "name": "Virginia Kent",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2151567/",
+            "name": "Robert Vas",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2989900/",
     "metascore": null,
@@ -62,7 +113,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1967-01-02",
+    "datePublished": "1967",
+    "original_title": "The Movies",
     "imdb_rating_average": 0,
-    "update_at": "2025-02-10T06:01:39"
+    "update_at": "2026-11-19T00:42:17"
 }

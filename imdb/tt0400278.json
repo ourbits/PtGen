@@ -3,7 +3,8 @@
     "sid": "tt0400278",
     "name": "Carmen Miranda",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1969",
+    "@type": "Short",
     "genre": [
         "Documentary",
         "Short"
@@ -11,56 +12,75 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0480492/",
-            "name": "César Ladeira"
-        },
-        {
-            "url": "https://www.imdb.com/name/nm0000544/",
-            "name": "Carmen Miranda"
+            "name": "César Ladeira",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2138822/",
-            "name": "Fabbio Perez"
+            "name": "Fabbio Perez",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDA1NTI5NDItNTllNC00MzJjLTgxYzYtMTgwMzJiOWIwYjk4XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/e8Xk7Tto3jd6g9rwDdGotKLUk2U.jpg",
     "details": {
+        "Stars": [
+            "César Ladeira",
+            "Fabbio Perez"
+        ],
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Writer": [
+            "Jorge Ileli"
+        ],
+        "Runtime": [
+            "18 min"
+        ],
+        "Director": [
+            "Jorge Ileli"
+        ],
         "Language": [
             "Portuguese"
         ],
-        "Country of origin": [
-            "Brazil"
-        ],
-        "Production company": [
-            "Instituto Nacional de Cinema (INC)"
+        "Release date": [
+            "1969-01-01"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0407612/",
-            "name": "Jorge Ileli"
+            "name": "Jorge Ileli",
+            "@type": "Person"
         }
     ],
     "duration": "PT18M",
-    "keywords": [
-        "character name in title"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0407612/",
-            "name": "Jorge Ileli"
+            "name": "Jorge Ileli",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0400278/",
     "metascore": null,
-    "imdb_votes": 11,
+    "imdb_votes": 12,
     "popularity": 0,
-    "description": "Short documentary about Carmen Miranda, with some of her songs, rare footage of the &quot;lost&quot; film &quot;Banana-da-Terra&quot; and scenes of her funeral, in 1955.",
-    "imdb_rating": "7.3/10 from 11 users",
-    "release_date": [],
+    "description": "Short documentary about Carmen Miranda, with some of her songs, rare footage of the \"lost\" film \"Banana-da-Terra\" and scenes of her funeral, in 1955.",
+    "imdb_rating": "7.4/10 from 12 users",
+    "release_date": [
+        {
+            "date": "1969-01-01",
+            "country": "Brazil"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 7.3,
-    "update_at": "2025-06-24T03:21:45"
+    "datePublished": "1969-01-01",
+    "original_title": "Carmen Miranda",
+    "imdb_rating_average": 7.4,
+    "update_at": "2026-11-18T21:35:22"
 }

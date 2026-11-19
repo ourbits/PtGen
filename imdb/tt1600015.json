@@ -1,74 +1,100 @@
 {
     "aka": [],
     "sid": "tt1600015",
-    "name": "Pete Carroll&apos;s Trip to Seattle Delayed",
+    "name": "Pete Carroll's Trip to Seattle Delayed",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2010",
+    "@type": "VideoObject",
     "genre": [
-        "Short",
         "Comedy",
+        "Short",
         "Sport"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2469879/",
-            "name": "Pete Carroll"
+            "name": "Pete Carroll",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2201555/",
-            "name": "Aubrey Plaza"
+            "name": "Aubrey Plaza",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1443527/",
-            "name": "Rob Riggle"
+            "name": "Rob Riggle",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/pISdTQn6vLwlCCw4CAuZAL9ijE9.jpg",
     "details": {
+        "Stars": [
+            "Pete Carroll",
+            "Aubrey Plaza",
+            "Rob Riggle"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short",
+            "Sport"
+        ],
+        "Writer": [
+            "Chris Kula"
+        ],
+        "Runtime": [
+            "3 min"
+        ],
+        "Director": [
+            "Jake Szymanski"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 2010 (United States)"
+            "2010-01-01"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Funny or Die"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3040078/",
-            "name": "Chris Kula"
+            "name": "Chris Kula",
+            "@type": "Person"
         }
     ],
     "duration": "PT3M",
-    "keywords": [
-        "parody comedy",
-        "coach",
-        "new job",
-        "seattle seahawks",
-        "job"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2021516/",
-            "name": "Jake Szymanski"
+            "name": "Jake Szymanski",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1600015/",
     "metascore": null,
-    "imdb_votes": 18,
+    "imdb_votes": 28,
     "popularity": 0,
     "description": "In this Funny or Die sketch, USC students try to prevent football coach Pete Carroll from leaving California to take his new job coaching the Seattle Seahawks.",
-    "imdb_rating": "6/10 from 18 users",
-    "release_date": [],
+    "imdb_rating": "4.9/10 from 28 users",
+    "release_date": [
+        {
+            "date": "2010-01-01",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 6,
-    "update_at": "2025-09-25T01:00:09"
+    "datePublished": "2010-01-01",
+    "original_title": "Pete Carroll's Trip to Seattle Delayed",
+    "imdb_rating_average": 4.9,
+    "update_at": "2026-11-18T15:35:18"
 }

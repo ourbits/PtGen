@@ -1,87 +1,130 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "티그",
+            "country": "South Korea"
+        }
+    ],
     "sid": "tt3986532",
     "name": "Tig",
     "site": "imdb",
     "year": "2015",
     "@type": "Movie",
     "genre": [
-        "Documentary",
-        "Biography"
+        "Biography",
+        "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2782402/",
-            "name": "Stephanie Allynne"
+            "name": "Stephanie Allynne",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0302108/",
-            "name": "Zach Galifianakis"
+            "name": "Zach Galifianakis",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0798971/",
-            "name": "Sarah Silverman"
+            "name": "Sarah Silverman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6301815/",
+            "name": "Jennifer Bliss",
+            "@type": "Person"
         }
     ],
-    "critic": 19,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MTQ5NDU2OV5BMl5BanBnXkFtZTgwMzY4NzExNjE@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/40KabvxAhRc0ZAIWTduRYvgl0iH.jpg",
     "details": {
+        "Stars": [
+            "Stephanie Allynne",
+            "Zach Galifianakis",
+            "Sarah Silverman"
+        ],
+        "Genres": [
+            "Biography",
+            "Documentary"
+        ],
+        "Writer": [
+            "Jennifer Arnold"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "Kristina Goolsby",
+            "Ashley York"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "July 17, 2015 (South Korea)"
-        ],
-        "Also known as": [
-            "Тиг"
-        ],
-        "Official site": [
-            "Netflix Site - https://www.netflix.com/title/80028208/"
+            "2015-04-23"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Los Angeles, California, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Beachside Films"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": "Finding life in the face of death.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0036496/",
-            "name": "Jennifer Arnold"
+            "name": "Jennifer Arnold",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H35M",
     "keywords": [
         "comedian",
-        "career",
-        "stand up",
-        "biographical documentary",
-        "f rated"
+        "breast cancer",
+        "cancer",
+        "death of mother",
+        "lgbt",
+        "woman director",
+        "stand-up comedian"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1318972/",
-            "name": "Kristina Goolsby"
+            "name": "Kristina Goolsby",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1852285/",
-            "name": "Ashley York"
+            "name": "Ashley York",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt3986532/",
     "metascore": null,
-    "imdb_votes": 2910,
+    "imdb_votes": 3001,
     "popularity": 0,
-    "description": "The personal Biography of Tig Notaro, a Stand-up comedian who was diagnosed with cancer.",
-    "imdb_rating": "7.4/10 from 2910 users",
-    "release_date": [],
-    "contentRating": "TV-14",
-    "datePublished": "2015-07-17",
+    "description": "An intimate documentary that follows Tig Notaro, a Los Angeles based comedian, who just days after being diagnosed with invasive stage II breast cancer changed the course of her career with a poignant stand-up set that became legendary overnight. It explores Tig's extraordinary journey as her career ignites and as her life unfolds in grand and unexpected ways, all the while continuing to battle a life-threatening illness and falling in love.",
+    "imdb_rating": "7.4/10 from 3001 users",
+    "release_date": [
+        {
+            "date": "2015-04-23",
+            "country": "Canada"
+        },
+        {
+            "date": "2015-07-17",
+            "country": "Poland"
+        },
+        {
+            "date": "2015-07-17",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2015-04-23",
+    "original_title": "Tig",
     "imdb_rating_average": 7.4,
-    "update_at": "2025-02-09T10:04:22"
+    "update_at": "2026-11-18T21:21:20"
 }

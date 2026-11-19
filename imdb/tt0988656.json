@@ -1,10 +1,15 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "The Fox",
+            "country": "United States of America"
+        }
+    ],
     "sid": "tt0988656",
     "name": "The Fox",
     "site": "imdb",
     "year": "1921",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short",
         "Western"
@@ -12,57 +17,78 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0102884/",
-            "name": "Bill Bradbury"
+            "name": "Bill Bradbury",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0824496/",
-            "name": "Bob Steele"
+            "name": "Bob Steele",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm10725439/",
-            "name": "Rags"
+            "name": "Rags",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Bill Bradbury",
+            "Bob Steele",
+            "Rags"
+        ],
+        "Genres": [
+            "Short",
+            "Western"
+        ],
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "Robert N. Bradbury"
+        ],
         "Language": [
-            "None"
+            "No Language"
         ],
         "Release date": [
-            "June 25, 1921 (United States)"
-        ],
-        "Also known as": [
-            "Catching the Fox"
+            "1921-01-01"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "C.J. Williams Productions"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT12M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0102908/",
-            "name": "Robert N. Bradbury"
+            "name": "Robert N. Bradbury",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0988656/",
     "metascore": null,
-    "imdb_votes": 7,
+    "imdb_votes": 0,
     "popularity": 0,
-    "description": "The brothers practice their skills by trapping a cunning fox.",
-    "imdb_rating": "5.8/10 from 7 users",
-    "release_date": [],
+    "description": "One of The Adventures of Bill and Bob shorts. The brothers practice their skills by trapping a cunning fox.",
+    "imdb_rating": "0/10 from 0 users",
+    "release_date": [
+        {
+            "date": "1921-01-01",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1921-06-25",
-    "imdb_rating_average": 5.8,
-    "update_at": "2025-08-25T23:02:00"
+    "datePublished": "1921-01-01",
+    "original_title": "The Fox",
+    "imdb_rating_average": 0,
+    "update_at": "2026-11-18T16:49:07"
 }

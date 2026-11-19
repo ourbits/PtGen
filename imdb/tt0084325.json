@@ -4,7 +4,7 @@
     "name": "The Merry Wives of Windsor",
     "site": "imdb",
     "year": "1982",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Romance"
@@ -12,66 +12,124 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0003141/",
-            "name": "Alan Bennett"
+            "name": "Alan Bennett",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0639972/",
-            "name": "Richard O&apos;Callaghan"
+            "name": "Richard O'Callaghan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0263253/",
-            "name": "Tenniel Evans"
+            "name": "Tenniel Evans",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0550789/",
+            "name": "Bryan Marshall",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0341743/",
+            "name": "Richard Griffiths",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0331713/",
+            "name": "Gordon Gostelow",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0856050/",
+            "name": "Nigel Terry",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0730425/",
+            "name": "Michael Robbins",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0287977/",
+            "name": "Miranda Foster",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001114/",
+            "name": "Judy Davis",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGRhMzZlNjMtYjk3My00NWFjLWJiM2ItODYzZmEwMjhmYWUyXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/vBlyzs7SwkMpUzGWrqXgkXgW1gC.jpg",
     "details": {
+        "Stars": [
+            "Alan Bennett",
+            "Richard O'Callaghan",
+            "Tenniel Evans"
+        ],
+        "Genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "Writer": [
+            "William Shakespeare"
+        ],
+        "Runtime": [
+            "170 min"
+        ],
+        "Director": [
+            "David Hugh Jones"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "December 27, 1982 (United Kingdom)"
-        ],
-        "Also known as": [
-            "The Complete Dramatic Works of William Shakespeare: Merry Wives of Windsor"
+            "1982-12-28"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
         "Production companies": [
-            "British Broadcasting Corporation (BBC)",
-            "Time-Life Television Productions"
+            "BBC"
         ]
     },
-    "reviews": 10,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0000636/",
-            "name": "William Shakespeare"
+            "name": "William Shakespeare",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H50M",
     "keywords": [
-        "male female relationship",
-        "mistrust of wife",
-        "shakespeare&apos;s the merry wives of windsor",
-        "based on play"
+        "falstaff"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0427880/",
-            "name": "David Hugh Jones"
+            "name": "David Hugh Jones",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0084325/",
     "metascore": null,
-    "imdb_votes": 185,
+    "imdb_votes": 186,
     "popularity": 0,
-    "description": "When Sir John Falstaff decides that he wants to have a little fun he writes two letters to a pair of Windsor wives: Mistress Ford and Mistress Page. When they put their heads together and compare missives, they plan a practical jo...",
-    "imdb_rating": "6.9/10 from 185 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
-    "datePublished": "1982-12-27",
+    "description": "When Sir John Falstaff decides that he wants to have a little fun he writes two letters to a pair of Window wives: Mistress Ford and Mistress Page. When they put their heads together and compare missives, they plan a practical joke or two to teach the knight a lesson. But Mistress Ford's husband is a very jealous man and is pumping Falstaff for information of the affair. Meanwhile the Pages' daughter Anne is beseiged by suitors.",
+    "imdb_rating": "6.9/10 from 186 users",
+    "release_date": [
+        {
+            "date": "1982-12-28",
+            "country": "United Kingdom"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1982-12-28",
+    "original_title": "The Merry Wives of Windsor",
     "imdb_rating_average": 6.9,
-    "update_at": "2026-03-11T19:57:15"
+    "update_at": "2026-11-18T18:07:28"
 }

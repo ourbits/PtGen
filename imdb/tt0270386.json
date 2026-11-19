@@ -1,78 +1,172 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "The Calculus Case",
+            "country": "United States of America"
+        },
+        {
+            "title": "Tintin Et L'affaire Tournesol",
+            "country": "France"
+        },
+        {
+            "title": "Tintim: O Caso Girassol",
+            "country": "Brazil"
+        },
+        {
+            "title": "Tim und Struppi - Der Fall Bienlein",
+            "country": "Germany"
+        },
+        {
+            "title": "Tintin and the Calculus Affair",
+            "country": "Australia"
+        }
+    ],
     "sid": "tt0270386",
-    "name": "L&apos;affaire Tournesol",
+    "name": "L'affaire Tournesol",
     "site": "imdb",
+    "year": "1964",
     "@type": "TVEpisode",
     "genre": [
-        "Animation",
         "Adventure",
+        "Animation",
         "Family"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0037309/",
-            "name": "René Arrieu"
+            "name": "René Arrieu",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0040844/",
-            "name": "Georges Atlas"
+            "name": "Georges Atlas",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0041828/",
-            "name": "Albert Augier"
+            "name": "Albert Augier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0068738/",
+            "name": "Jean Bellanger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0074220/",
+            "name": "Jean Berger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0078355/",
+            "name": "Claude Bertrand",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0104064/",
+            "name": "Yves Brainville",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0136789/",
+            "name": "Roger Carel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0163581/",
+            "name": "Jean Clarieux",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0220997/",
+            "name": "Hubert Deschamps",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5ODc0MzA1NF5BMl5BanBnXkFtZTcwMDA5Nzg5Mg@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/2T88qDvqBilCfa0HtlqwP1bX8Ec.jpg",
     "details": {
-        "Languages": [
-            "Dutch",
+        "Stars": [
+            "René Arrieu",
+            "Georges Atlas",
+            "Albert Augier"
+        ],
+        "Genres": [
+            "Adventure",
+            "Animation",
+            "Family"
+        ],
+        "Writer": [
+            "Hergé",
+            "Charles Shows"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Ray Goossens"
+        ],
+        "Language": [
             "French"
         ],
         "Release date": [
-            "1964 (Belgium)"
-        ],
-        "Also known as": [
-            "The Calculus Case"
+            "1964-01-01"
         ],
         "Country of origin": [
             "Belgium"
         ],
-        "Production company": [
+        "Production companies": [
             "Belvision"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0378960/",
-            "name": "Hergé"
+            "name": "Hergé",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1003837/",
-            "name": "Charles Shows"
+            "name": "Charles Shows",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H",
     "keywords": [
-        ""
+        "geneva, switzerland",
+        "espionage",
+        "based on comic",
+        "reporter",
+        "weapon of mass destruction"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0329679/",
-            "name": "Ray Goossens"
+            "name": "Ray Goossens",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0270386/",
     "metascore": null,
-    "imdb_votes": 321,
+    "imdb_votes": 355,
     "popularity": 0,
-    "description": "Professor Calculus invented a machine which breaks glass with sound waves. Some foreign countries (including a Totalitarian regime) are interested and send their spies. Tintin and Haddock must face perils to come and rescue the Pr...",
-    "imdb_rating": "5.4/10 from 321 users",
-    "release_date": [],
-    "contentRating": "TV-Y",
-    "datePublished": null,
+    "description": "Strange things are happening in the evening at the mansion: glass things break without any apparent reason. Professor Calculus, somewhat apathetic to the whole series of events, leaves the following day to attend a conference on nuclear physics in Geneva. Foreign powers get wind of his work and send their agents to investigate.",
+    "imdb_rating": "5.4/10 from 355 users",
+    "release_date": [
+        {
+            "date": "1964-01-01",
+            "country": "Belgium"
+        },
+        {
+            "date": "1964-01-01",
+            "country": "France"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1964-01-01",
+    "original_title": "L'affaire Tournesol",
     "imdb_rating_average": 5.4,
-    "update_at": "2025-04-21T03:00:30"
+    "update_at": "2026-11-18T11:28:31"
 }

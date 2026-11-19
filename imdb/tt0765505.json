@@ -4,56 +4,69 @@
     "name": "Death by Dawn",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Horror"
+        "Horror",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1742459/",
-            "name": "Christian Serritiello"
+            "name": "Christian Serritiello",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1742350/",
-            "name": "Arthur Patching"
+            "name": "Arthur Patching",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmQ2OTQ2MmUtOWU2Yy00NjZjLThkMzctMWNlNzEwNWY0ODEwXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Christian Serritiello",
+            "Arthur Patching"
+        ],
+        "Genres": [
+            "Horror",
+            "Short"
+        ],
+        "Writer": [
+            "Arthur Patching",
+            "Darran Robinson"
+        ],
+        "Runtime": [
+            "3 min"
+        ],
+        "Director": [
+            "Darran Robinson"
         ],
         "Release date": [
-            "October 31, 2005 (United Kingdom)"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Filming locations": [
-            "Marylebone, Westminster, Greater London, England, UK"
+            "2005"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1742350/",
-            "name": "Arthur Patching"
+            "name": "Arthur Patching",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1743361/",
-            "name": "Darran Robinson"
+            "name": "Darran Robinson",
+            "@type": "Person"
         }
     ],
     "duration": "PT3M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1743361/",
-            "name": "Darran Robinson"
+            "name": "Darran Robinson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0765505/",
@@ -64,7 +77,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2005-10-31",
+    "datePublished": "2005",
+    "original_title": "Death by Dawn",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-20T12:56:11"
+    "update_at": "2026-11-18T21:35:22"
 }

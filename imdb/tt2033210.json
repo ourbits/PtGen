@@ -4,7 +4,7 @@
     "name": "Billy",
     "site": "imdb",
     "year": "2011",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Biography",
         "Drama",
@@ -13,70 +13,137 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2158604/",
-            "name": "Tainui Tukiwaho"
+            "name": "Tainui Tukiwaho",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2837410/",
-            "name": "Morgana O&apos;Reilly"
+            "name": "Morgana O'Reilly",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1097221/",
-            "name": "Kelson Henderson"
+            "name": "Kelson Henderson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0629790/",
+            "name": "Celia Nicholson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1575073/",
+            "name": "Jarod Rawiri",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1102527/",
+            "name": "Amber Curreen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4578161/",
+            "name": "Luciane Buchanan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2680937/",
+            "name": "Mark Mitchinson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1101452/",
+            "name": "Owen Black",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1121525/",
+            "name": "William Davis",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDhlM2ZhOTQtYTJlYi00N2QyLWE3YzUtNzhhZmFkOTk4YTBmXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/p3HJtyqUBAwlwCGHI7qrdcTkO5I.jpg",
     "details": {
+        "Stars": [
+            "Tainui Tukiwaho",
+            "Morgana O'Reilly",
+            "Kelson Henderson"
+        ],
+        "Genres": [
+            "Biography",
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Dave Armstrong",
+            "Matt Ellis",
+            "Briar Grace Smith"
+        ],
+        "Runtime": [
+            "75 min"
+        ],
+        "Director": [
+            "Peter Burger"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "August 21, 2011 (New Zealand)"
-        ],
-        "Official site": [
-            "NZOnScreen - https://www.nzonscreen.com/title/billy-2011"
+            "2011-08-21"
         ],
         "Country of origin": [
             "New Zealand"
         ],
-        "Production company": [
+        "Production companies": [
             "Comedia Pictures"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1158241/",
-            "name": "Dave Armstrong"
+            "name": "Dave Armstrong",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4545634/",
-            "name": "Matt Ellis"
+            "name": "Matt Ellis",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1065342/",
-            "name": "Briar Grace Smith"
+            "name": "Briar Grace Smith",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H15M",
     "keywords": [
-        "based on novel"
+        "biography"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1317966/",
-            "name": "Peter Burger"
+            "name": "Peter Burger",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2033210/",
     "metascore": null,
     "imdb_votes": 52,
     "popularity": 0,
-    "description": "The personal story of New Zealand&apos;s most beloved entertainer Billy T James. Billy goes beyond the public façade to reveal the man behind the chuckle.",
+    "description": "The personal story of New Zealand's most beloved entertainer Billy T James. Reveals the man behind the chuckle.",
     "imdb_rating": "6.4/10 from 52 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2011-08-21",
+            "country": "New Zealand"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2011-08-21",
+    "original_title": "Billy",
     "imdb_rating_average": 6.4,
-    "update_at": "2026-01-12T17:21:42"
+    "update_at": "2026-11-18T12:21:23"
 }
