@@ -4,68 +4,89 @@
     "name": "Punch It",
     "site": "imdb",
     "year": "2018",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Fantasy"
+        "Fantasy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0208530/",
-            "name": "Pierre-Alain de Garrigues"
+            "name": "Pierre-Alain de Garrigues",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm8668994/",
-            "name": "Clara Couturet"
+            "name": "Clara Couturet",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm9804623/",
-            "name": "Alexandre Revillot"
+            "name": "Alexandre Revillot",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzA3OTliZDgtNDQ5Ny00N2YxLWFkZmYtMDY0ODI4MjE3YmQ3XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/bT3xGf0rG05J63H3aWH2a69LjYc.jpg",
     "details": {
+        "Stars": [
+            "Pierre-Alain de Garrigues",
+            "Clara Couturet",
+            "Alexandre Revillot"
+        ],
+        "Genres": [
+            "Fantasy",
+            "Short"
+        ],
+        "Writer": [
+            "Olivier Perrier"
+        ],
+        "Runtime": [
+            "19 min"
+        ],
+        "Director": [
+            "Olivier Perrier"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "September 1, 2018 (France)"
-        ],
-        "Country of origin": [
-            "France"
-        ],
-        "Production company": [
-            "Airnzoom Films"
+            "2018-09-01"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm5635781/",
-            "name": "Olivier Perrier"
+            "name": "Olivier Perrier",
+            "@type": "Person"
         }
     ],
     "duration": "PT19M",
-    "keywords": [
-        "amusement park",
-        "side show"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm5635781/",
-            "name": "Olivier Perrier"
+            "name": "Olivier Perrier",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt6823182/",
     "metascore": null,
     "imdb_votes": 6,
     "popularity": 0,
-    "description": "Tom gets around on his skateboard and enters a fairground closed to the public during winter. He notices a punching ball, which still seems to be working, and strikes it with all his strength, making himself fall down and triggeri...",
+    "description": "Tom is a young skateboarder wandering around his town. Suddenly, he enters an abandoned amusement park closed to the public, where he sees a boxing machine that attracts his attention. From that moment on, everything will be different.",
     "imdb_rating": "7.5/10 from 6 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2018-09-01",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2018-09-01",
+    "original_title": "Punch It",
     "imdb_rating_average": 7.5,
-    "update_at": "2025-07-09T00:13:17"
+    "update_at": "2026-11-19T19:00:26"
 }

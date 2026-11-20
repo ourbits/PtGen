@@ -5,32 +5,87 @@
     "site": "imdb",
     "year": "1955",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Drama"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0681168/",
-            "name": "Isabelle Pia"
+            "name": "Isabelle Pia",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0549650/",
-            "name": "Christian Marquand"
+            "name": "Christian Marquand",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0661628/",
-            "name": "Simone Paris"
+            "name": "Simone Paris",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0124482/",
+            "name": "Raymond Bussières",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0146446/",
+            "name": "Daniel Cauchy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0080034/",
+            "name": "Jacques Bézard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0140155/",
+            "name": "Jacqueline Carrel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0150115/",
+            "name": "Georges Chamarat",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0152123/",
+            "name": "Claudy Chapeland",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0163361/",
+            "name": "Jacques Clancy",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjM5YTM3M2QtYWRjOC00NWRhLWFiOTctNjYyMzRjNzIxOTE3XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/72OlS3HTfYo3WKfxx2tjwioqWMZ.jpg",
     "details": {
+        "Stars": [
+            "Isabelle Pia",
+            "Christian Marquand",
+            "Simone Paris"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Pierre Méré",
+            "Jean Périne"
+        ],
+        "Runtime": [
+            "98 min"
+        ],
+        "Director": [
+            "Pierre Méré"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "November 8, 1955 (France)"
-        ],
-        "Also known as": [
-            "Love at Night"
+            "1955-11-08"
         ],
         "Country of origin": [
             "France"
@@ -41,37 +96,48 @@
             "Selb-Film"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0617758/",
-            "name": "Pierre Méré"
+            "name": "Pierre Méré",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0702435/",
-            "name": "Jean Périne"
+            "name": "Jean Périne",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H38M",
-    "keywords": [
-        "girl",
-        "young"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0617758/",
-            "name": "Pierre Méré"
+            "name": "Pierre Méré",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0157798/",
     "metascore": null,
-    "imdb_votes": 14,
+    "imdb_votes": 15,
     "popularity": 0,
-    "description": "A young girl comes back home and discovers the underworld.",
-    "imdb_rating": "5.2/10 from 14 users",
-    "release_date": [],
+    "description": "Young Monique leaves the preventorium where Doctor Delaunay has lovingly cared for her. A painful return. Her mother Denise lives with Eugène, a handsome, disreputable young man who's easy to please and, on occasion, won't hesitate to steal. He hangs around Monique, excited by her freshness, until the day he is shot on suspicion of the disappearance of a mobster. Monique is reunited with Dr Delaunay, much to the satisfaction of her guardian Gilbert, known as Patte-en-moins, owner of the local bistro.",
+    "imdb_rating": "5.2/10 from 15 users",
+    "release_date": [
+        {
+            "date": "1956-03-30",
+            "country": "Belgium"
+        },
+        {
+            "date": "1955-11-08",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1955-11-08",
+    "original_title": "Impasse des vertus",
     "imdb_rating_average": 5.2,
-    "update_at": "2025-04-15T05:12:08"
+    "update_at": "2026-11-19T11:56:27"
 }

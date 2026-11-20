@@ -4,84 +4,141 @@
     "name": "A Dairy Tale",
     "site": "imdb",
     "year": "2004",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Animation",
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Family"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001132/",
-            "name": "Judi Dench"
+            "name": "Judi Dench",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001683/",
-            "name": "Roseanne Barr"
+            "name": "Roseanne Barr",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0280886/",
-            "name": "Joe Flaherty"
+            "name": "Joe Flaherty",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000236/",
+            "name": "Jennifer Tilly",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0217301/",
+            "name": "Charlie Dell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000421/",
+            "name": "Cuba Gooding Jr.",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0364680/",
+            "name": "Estelle Harris",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0799311/",
+            "name": "Ross Bettencourt",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2JmY2Y4OWQtYTNmZS00YTA0LWJhM2YtYmI1NmFhNTg4YTc0XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/5phGSLZFW05FK21VWFUVeLsfpg0.jpg",
     "details": {
+        "Stars": [
+            "Judi Dench",
+            "Roseanne Barr",
+            "Joe Flaherty"
+        ],
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "Writer": [
+            "Kaan Kalyon",
+            "Samuel J. Levine"
+        ],
+        "Runtime": [
+            "4 min"
+        ],
+        "Director": [
+            "Will Finn",
+            "John Sanford"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "September 14, 2004 (United States)"
-        ],
-        "Also known as": [
-            "A Dairy Tale: The Three Little Pigs"
+            "2004-09-14"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
-            "Walt Disney Animation Studios",
-            "Renegade Animation"
+            "Walt Disney Pictures",
+            "Walt Disney Feature Animation"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0436314/",
-            "name": "Kaan Kalyon"
+            "name": "Kaan Kalyon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0505946/",
-            "name": "Sam J. Levine"
+            "name": "Samuel J. Levine",
+            "@type": "Person"
         }
     ],
     "duration": "PT4M",
     "keywords": [
-        "voice over narration",
-        "straw hut",
-        "storytelling",
-        "monster",
-        "flying saucer"
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0278181/",
-            "name": "Will Finn"
+            "name": "Will Finn",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0998551/",
-            "name": "John Sanford"
+            "name": "John Sanford",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0860903/",
     "metascore": null,
-    "imdb_votes": 149,
+    "imdb_votes": 163,
     "popularity": 0,
-    "description": "Disney&apos;s Home on the Range (2004) spin-off short where Mrs. Caloway attempts to tell the tale of Three Little Pigs to the four piglets, but Maggie, Buck, and others keep interrupting her and adding story elements they want to hear.",
-    "imdb_rating": "4.9/10 from 149 users",
-    "release_date": [],
+    "description": "Mrs. Caloway attempts to tell the tale of Three Little Pigs to the four piglets, but Maggie, Buck, and others keep interrupting her and adding story elements they want to hear.",
+    "imdb_rating": "5.0/10 from 163 users",
+    "release_date": [
+        {
+            "date": "2004-09-14",
+            "country": "Spain"
+        },
+        {
+            "date": "2004-09-14",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2004-09-14",
-    "imdb_rating_average": 4.9,
-    "update_at": "2026-01-24T12:00:45"
+    "original_title": "A Dairy Tale",
+    "imdb_rating_average": 5.0,
+    "update_at": "2026-11-19T03:07:17"
 }

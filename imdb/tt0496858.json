@@ -5,69 +5,96 @@
     "site": "imdb",
     "year": "1911",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0026233/",
-            "name": "Peter S. Andersen"
+            "name": "Peter S. Andersen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0064949/",
-            "name": "Lili Beck"
+            "name": "Lili Beck",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0421656/",
-            "name": "Richard Jensen"
+            "name": "Richard Jensen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0653174/",
+            "name": "Rasmus Ottesen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8362853/",
+            "name": "Georges Pontac",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0742127/",
+            "name": "Einar Rosenbaum",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2158467/",
+            "name": "Walt Rosenberg",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "Danish"
+        "Stars": [
+            "Peter S. Andersen",
+            "Lili Beck",
+            "Richard Jensen"
+        ],
+        "Writer": [
+            "Louis von Kohl",
+            "Melchior Lengyel"
+        ],
+        "Director": [
+            "Louis von Kohl"
         ],
         "Release date": [
-            "November 8, 1911 (Denmark)"
-        ],
-        "Country of origin": [
-            "Denmark"
-        ],
-        "Production company": [
-            "Det Skandinavisk-Russiske Handelshus"
+            "1911"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2124954/",
-            "name": "Louis von Kohl"
+            "name": "Louis von Kohl",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0501872/",
-            "name": "Melchior Lengyel"
+            "name": "Melchior Lengyel",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "love",
-        "based on play"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2124954/",
-            "name": "Louis von Kohl"
+            "name": "Louis von Kohl",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0496858/",
     "metascore": null,
-    "imdb_votes": 0,
+    "imdb_votes": 11,
     "popularity": 0,
-    "description": "Dr. Nitobe Tokemaro holds fast to Japanese traditions and the honor of the samurai. But when he meets the mysterious actress Helene Laroche in Paris, he is surprised by love and eroticism.",
-    "imdb_rating": "0/10 from 0 users",
+    "description": null,
+    "imdb_rating": "3.6/10 from 11 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1911-11-08",
-    "imdb_rating_average": 0,
-    "update_at": "2025-06-13T07:22:49"
+    "datePublished": "1911",
+    "original_title": "Taifun",
+    "imdb_rating_average": 3.6,
+    "update_at": "2026-11-19T12:49:34"
 }

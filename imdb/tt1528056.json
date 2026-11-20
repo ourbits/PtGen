@@ -4,62 +4,88 @@
     "name": "Drei Landratten und das Meer",
     "site": "imdb",
     "year": "1963",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1092078/",
-            "name": "Günther Haack"
+            "name": "Günther Haack",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Günther Haack"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Werner Kreiseler",
+            "Franz Thoms"
+        ],
+        "Runtime": [
+            "18 min"
+        ],
+        "Director": [
+            "Werner Kreiseler"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "June 14, 1963 (East Germany)"
+            "1963-06-14"
         ],
         "Country of origin": [
-            "East Germany"
+            "East Germany",
+            "Germany"
         ],
-        "Production company": [
+        "Production companies": [
             "DEFA-Studio für populärwissenschaftliche Filme"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1702639/",
-            "name": "Werner Kreiseler"
+            "name": "Werner Kreiseler",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1482496/",
-            "name": "Franz Thoms"
+            "name": "Franz Thoms",
+            "@type": "Person"
         }
     ],
     "duration": "PT18M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1702639/",
-            "name": "Werner Kreiseler"
+            "name": "Werner Kreiseler",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1528056/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "A lighthouse keeper explains the functions of the beacon to children. They also learn from him that man invented the compass and nautical chart to find his way around the sea.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1963-06-14",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1963-06-14",
+    "original_title": "Drei Landratten und das Meer",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-04T16:33:41"
+    "update_at": "2026-11-20T01:56:18"
 }

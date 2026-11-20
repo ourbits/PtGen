@@ -3,52 +3,81 @@
     "sid": "tt0474727",
     "name": "Hotel Santa Fe",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2000",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm15925903/",
-            "name": "Jean-Claude Martin"
+            "name": "Jean-Claude Martin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1197862/",
-            "name": "Anna Vilella"
+            "name": "Anna Vilella",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Jean-Claude Martin",
+            "Anna Vilella"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Michael Aaron",
+            "Adriana Hoyos"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Adriana Hoyos"
+        ],
         "Language": [
             "Spanish"
+        ],
+        "Release date": [
+            "2000-01-01"
         ],
         "Country of origin": [
             "Spain"
         ],
-        "Production company": [
-            "Centre d'Estudis Cinematogràfics de Catalunya (CECC)"
+        "Production companies": [
+            "Grup cinema art"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1979456/",
-            "name": "Michael Aaron"
+            "name": "Michael Aaron",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2006400/",
-            "name": "Adriana Hoyos"
+            "name": "Adriana Hoyos",
+            "@type": "Person"
         }
     ],
     "duration": "PT15M",
     "keywords": [
-        ""
+        "musical",
+        "art house",
+        "adriana hoyos"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2006400/",
-            "name": "Adriana Hoyos"
+            "name": "Adriana Hoyos",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0474727/",
@@ -57,9 +86,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2000-01-01",
+            "country": "Spain"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2000-01-01",
+    "original_title": "Hotel Santa Fe",
     "imdb_rating_average": 0,
-    "update_at": "2026-02-25T17:21:30"
+    "update_at": "2026-11-19T06:07:20"
 }

@@ -4,7 +4,7 @@
     "name": "2012: An Awakening",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Documentary",
         "Mystery"
@@ -12,62 +12,113 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3307666/",
-            "name": "Gregg Braden"
+            "name": "Gregg Braden",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4046603/",
-            "name": "Annabel Burton"
+            "name": "Annabel Burton",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3503434/",
-            "name": "Patrick Geryl"
+            "name": "Patrick Geryl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1451973/",
+            "name": "Adrian Gilbert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1079801/",
+            "name": "David Icke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1079801/",
+            "name": "David Icke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3020684/",
+            "name": "John Major Jenkins",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3618828/",
+            "name": "David Malcolm Morris",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3462057/",
+            "name": "Geoff Stray",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3504491/",
+            "name": "Peter Taylor",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjE2NjkzMjk5MV5BMl5BanBnXkFtZTgwMTk5OTg5MzE@._V1_.jpg",
+    "critic": 0,
+    "poster": null,
     "details": {
+        "Stars": [
+            "Gregg Braden",
+            "Annabel Burton",
+            "Patrick Geryl"
+        ],
+        "Genres": [
+            "Documentary",
+            "Mystery"
+        ],
+        "Writer": [
+            "Christopher Turner",
+            "David Morris"
+        ],
+        "Runtime": [
+            "75 min"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "September 29, 2009 (United States)"
-        ],
-        "Production company": [
-            "Reality Entertainment (RE)"
-        ],
-        "Countries of origin": [
-            "United States",
-            "United Kingdom"
+            "2009-09-29"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3504164/",
-            "name": "Christopher Turner"
+            "name": "Christopher Turner",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3503867/",
-            "name": "David Morris"
+            "name": "David Morris",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H15M",
-    "keywords": [
-        "year 2012",
-        "mythology",
-        "pseudo science",
-        "2010s",
-        "spiritual"
-    ],
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt1458390/",
     "metascore": null,
     "imdb_votes": 78,
     "popularity": 0,
     "description": "The year 2012 is predicted to be one of great change in cultures spanning the globe. A 26,000 year alignment will occur on the 21 December 2012, will it be the end of the world or the end of time as we know it?",
     "imdb_rating": "5.6/10 from 78 users",
-    "release_date": [],
-    "contentRating": "Unrated",
+    "release_date": [
+        {
+            "date": "2009-09-29",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2009-09-29",
+    "original_title": "2012: An Awakening",
     "imdb_rating_average": 5.6,
-    "update_at": "2025-05-30T16:22:31"
+    "update_at": "2026-11-19T18:42:14"
 }

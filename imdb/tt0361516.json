@@ -3,6 +3,7 @@
     "sid": "tt0361516",
     "name": "Dodgeball",
     "site": "imdb",
+    "year": "1995",
     "@type": "Movie",
     "genre": [
         "Comedy"
@@ -10,59 +11,95 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1353876/",
-            "name": "John Wolfe"
+            "name": "John Wolfe",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0649176/",
-            "name": "Tom Oppenheim"
+            "name": "Tom Oppenheim",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0938049/",
-            "name": "Gregory Wolfe"
+            "name": "Gregory Wolfe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0938058/",
+            "name": "James Wolfe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1357678/",
+            "name": "Molly O'Donnell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0525886/",
+            "name": "Jenny Lumet",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTIwMTM1MDYzNl5BMl5BanBnXkFtZTcwNDQ2NDc0MQ@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/v7uxrWnVHyKrxKTk1ktCI75bwY9.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "John Wolfe",
+            "Tom Oppenheim",
+            "Gregory Wolfe"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Art Jones"
+        ],
+        "Runtime": [
+            "81 min"
+        ],
+        "Director": [
+            "Art Jones"
         ],
         "Release date": [
-            "August 1995 (United States)"
+            "1995"
         ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
+        "Production companies": [
             "Great Jones Productions"
         ]
     },
     "reviews": 0,
+    "tagline": "There is a reason why you are so messed up.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0427517/",
-            "name": "Art Jones"
+            "name": "Art Jones",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H21M",
-    "keywords": [
-        "dodgeball"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0427517/",
-            "name": "Art Jones"
+            "name": "Art Jones",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0361516/",
     "metascore": null,
-    "imdb_votes": 142,
+    "imdb_votes": 161,
     "popularity": 0,
-    "description": "The &quot;docu-remedy&quot; about the grade school game that derailed an entire generation.",
-    "imdb_rating": "5.5/10 from 142 users",
-    "release_date": [],
+    "description": "The \"docu-remedy\" about the grade school game that derailed an entire generation.",
+    "imdb_rating": "5.4/10 from 161 users",
+    "release_date": [
+        {
+            "date": "1995-08-01",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 5.5,
-    "update_at": "2025-05-31T15:57:26"
+    "datePublished": "1995",
+    "original_title": "Dodgeball",
+    "imdb_rating_average": 5.4,
+    "update_at": "2026-11-20T00:56:06"
 }

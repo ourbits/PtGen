@@ -4,7 +4,7 @@
     "name": "Starfighter - Sie wollten den Himmel erobern",
     "site": "imdb",
     "year": "2015",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Action",
         "Drama",
@@ -13,75 +13,139 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm4851751/",
-            "name": "Picco von Groote"
+            "name": "Picco von Groote",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2271339/",
-            "name": "Steve Windolf"
+            "name": "Steve Windolf",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1035643/",
-            "name": "Frederick Lau"
+            "name": "Frederick Lau",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0214280/",
+            "name": "Alice Dwyer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1165479/",
+            "name": "Paula Kalenberg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2082569/",
+            "name": "Christoph Schechinger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0659959/",
+            "name": "Florian Panzner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4915883/",
+            "name": "Josephin Busch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0123069/",
+            "name": "Jeff Burrell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0387907/",
+            "name": "Christian Hockenbrink",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NTExMzkwOV5BMl5BanBnXkFtZTgwODg1OTE2NzE@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/buRsiY1zd7BQ6UcN78UPIpRWXIG.jpg",
     "details": {
+        "Stars": [
+            "Picco von Groote",
+            "Steve Windolf",
+            "Frederick Lau"
+        ],
+        "Genres": [
+            "Action",
+            "Drama",
+            "History"
+        ],
+        "Writer": [
+            "Dominik Frankowski",
+            "Kit Hopkins",
+            "Thilo Röscheisen"
+        ],
+        "Runtime": [
+            "125 min"
+        ],
+        "Director": [
+            "Miguel Alexandre"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "November 12, 2015 (Germany)"
-        ],
-        "Also known as": [
-            "Starfighter: Dochodzenie"
+            "2015-03-27"
         ],
         "Country of origin": [
             "Germany"
         ],
         "Production companies": [
-            "Fokus.TV",
             "Zeitsprung Pictures"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2383027/",
-            "name": "Dominik Frankowski"
+            "name": "Dominik Frankowski",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0394219/",
-            "name": "Kit Hopkins"
+            "name": "Kit Hopkins",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0973731/",
-            "name": "Thilo Röscheisen"
+            "name": "Thilo Röscheisen",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H5M",
-    "keywords": [
-        "jet",
-        "mismanagement",
-        "nato",
-        "military uniform",
-        "misfortune"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0018877/",
-            "name": "Miguel Alexandre"
+            "name": "Miguel Alexandre",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt4114484/",
     "metascore": null,
-    "imdb_votes": 257,
+    "imdb_votes": 281,
     "popularity": 0,
-    "description": "Young pilots of the German Air Force only want to fly the new Starfighter. But after a short time, more and more pilots crash and die - and the German government and the air force cover up these incidents.",
-    "imdb_rating": "6.6/10 from 257 users",
-    "release_date": [],
+    "description": "Germany in the \"Swinging Sixties\": the Bundeswehr is equipping itself with the ultra-modern \"Starfighter\" fighter jet. The air force pilots, including the daredevil Harry and his buddy Richie, are the stars of the armed forces. But the fascination with the fastest fighter jet in the world is offset by a dramatic series of accidents: Pilots crash to their deaths in the \"Starfighter\" one after the other. Officially, the disasters are attributed to human error. But Harry's wife Betti doesn't believe this - and after another serious accident, she takes up the fight against a seemingly overpowering alliance of politics, the military and business, supported by her friend Helga...",
+    "imdb_rating": "6.6/10 from 281 users",
+    "release_date": [
+        {
+            "date": "2015-03-27",
+            "country": "Germany"
+        },
+        {
+            "date": "2016-02-02",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2015-11-12",
+    "datePublished": "2015-03-27",
+    "original_title": "Starfighter - Sie wollten den Himmel erobern",
     "imdb_rating_average": 6.6,
-    "update_at": "2026-04-30T20:49:05"
+    "update_at": "2026-11-19T07:00:33"
 }

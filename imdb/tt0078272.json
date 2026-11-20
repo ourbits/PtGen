@@ -3,6 +3,7 @@
     "sid": "tt0078272",
     "name": "Simplicio",
     "site": "imdb",
+    "year": "1978",
     "@type": "Movie",
     "genre": [
         "Drama"
@@ -10,60 +11,91 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm7093809/",
-            "name": "David Lares"
+            "name": "David Lares",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0599640/",
-            "name": "Guillermo Montesinos"
+            "name": "Guillermo Montesinos",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm7093808/",
-            "name": "Antonio Rodríguez"
+            "name": "Antonio Rodríguez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0757725/",
+            "name": "Luis Salazar",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTg1YmNlMGMtNzY0ZC00ZDU1LTlmMDYtOTRjZTczMzMwM2Q0XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/zOgOCNCrqSrmNWpAxnyUHkbwzE8.jpg",
     "details": {
+        "Stars": [
+            "David Lares",
+            "Guillermo Montesinos",
+            "Antonio Rodríguez"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Dominique Cassuto",
+            "Franco Rubartelli"
+        ],
+        "Runtime": [
+            "100 min"
+        ],
+        "Director": [
+            "Franco Rubartelli"
+        ],
         "Language": [
             "Spanish"
         ],
-        "Country of origin": [
-            "Venezuela"
+        "Release date": [
+            "1978-12-31"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm7093810/",
-            "name": "Dominique Cassuto"
+            "name": "Dominique Cassuto",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0747792/",
-            "name": "Franco Rubartelli"
+            "name": "Franco Rubartelli",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H40M",
-    "keywords": [
-        "boy rear nudity",
-        "beach",
-        "boy",
-        "defecation"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0747792/",
-            "name": "Franco Rubartelli"
+            "name": "Franco Rubartelli",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0078272/",
     "metascore": null,
-    "imdb_votes": 38,
+    "imdb_votes": 39,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.9/10 from 38 users",
-    "release_date": [],
+    "description": "Simplicio is an eight years old boy who lives in an old boat abandoned and stranded on a coast.",
+    "imdb_rating": "7.6/10 from 39 users",
+    "release_date": [
+        {
+            "date": "1978-12-31",
+            "country": "Venezuela"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 7.9,
-    "update_at": "2025-05-25T19:50:10"
+    "datePublished": "1978-12-31",
+    "original_title": "Simplicio",
+    "imdb_rating_average": 7.6,
+    "update_at": "2026-11-19T21:49:25"
 }

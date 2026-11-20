@@ -4,84 +4,143 @@
     "name": "The Moped Diaries",
     "site": "imdb",
     "year": "2014",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Family"
+        "Family",
+        "Romance"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm6762184/",
-            "name": "Joseph Waddington"
+            "name": "Joseph Waddington",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm6762185/",
-            "name": "Joey Harris"
+            "name": "Joey Harris",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2436566/",
-            "name": "Tyler Nilson"
+            "name": "Tyler Nilson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6762186/",
+            "name": "Acey Davis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6762187/",
+            "name": "Anastasia Furr",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6762188/",
+            "name": "Burt Waddington",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6762189/",
+            "name": "J.R. Quidley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6762190/",
+            "name": "Duncan Silver",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6762191/",
+            "name": "Winki Silver",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6762192/",
+            "name": "Drew Vaughn",
+            "@type": "Person"
         }
     ],
-    "critic": 6,
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2MzNTYzNTktNWZlMy00YmEzLWFjNWEtNmFlZDcwMDE2NjIzXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/oOz1oGfaw0j7M45D8goUIDuAOij.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Joseph Waddington",
+            "Joey Harris",
+            "Tyler Nilson"
+        ],
+        "Genres": [
+            "Comedy",
+            "Family",
+            "Romance"
+        ],
+        "Writer": [
+            "Tyler Nilson",
+            "Michael Schwartz"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "Tyler Nilson",
+            "Michael Schwartz",
+            "Nick Vitale"
         ],
         "Release date": [
-            "April 4, 2014 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Wanchese, North Carolina, USA"
-        ],
-        "Production companies": [
-            "Lucky Treehouse",
-            "The Great Sitting Company"
+            "2014-11-20"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2436566/",
-            "name": "Tyler Nilson"
+            "name": "Tyler Nilson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1916835/",
-            "name": "Michael Schwartz"
+            "name": "Michael Schwartz",
+            "@type": "Person"
         }
     ],
     "duration": "PT10M",
     "keywords": [
-        ""
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2436566/",
-            "name": "Tyler Nilson"
+            "name": "Tyler Nilson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1916835/",
-            "name": "Michael Schwartz"
+            "name": "Michael Schwartz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3668551/",
-            "name": "Nick Vitale"
+            "name": "Nick Vitale",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt3333018/",
     "metascore": null,
-    "imdb_votes": 333,
+    "imdb_votes": 338,
     "popularity": 0,
-    "description": "Levi is a boy growing up on an island off the coast of North Carolina. When a new bridge is built connecting his island to the mainland he has to come to grips with the change and opportunities that come along with it. Love of hom...",
-    "imdb_rating": "7/10 from 333 users",
-    "release_date": [],
+    "description": "Levi is a boy growing up on an island off the coast of North Carolina. When a new bridge is built connecting his island to the mainland he has to come to grips with the change and opportunities that come along with it. Love of home, love of a partner, and love of family all seem to be falling apart and slowly pushing him towards the inevitable, crossing that bridge himself to see what lies beyond the horizon.",
+    "imdb_rating": "7.0/10 from 338 users",
+    "release_date": [
+        {
+            "date": "2014-11-20",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2014-04-04",
-    "imdb_rating_average": 7,
-    "update_at": "2025-06-07T07:01:09"
+    "datePublished": "2014-11-20",
+    "original_title": "The Moped Diaries",
+    "imdb_rating_average": 7.0,
+    "update_at": "2026-11-19T04:00:38"
 }

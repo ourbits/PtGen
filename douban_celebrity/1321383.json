@@ -4,10 +4,14 @@
     "site": "douban_celebrity",
     "roles": [
         "编剧",
-        "导演",
-        "制片人"
+        "制片人",
+        "导演"
     ],
-    "awards": [],
+    "awards": [
+        "2025年 第73届圣塞巴斯蒂安国际电影节 主竞赛单元 金贝壳奖 (提名) 纽伦堡",
+        "2022年 第50届土星奖 电影 最佳电影编剧 (提名) 惊声尖叫5",
+        "2008年 第60届美国编剧工会奖 电影奖 最佳改编剧本 (提名) 十二宫"
+    ],
     "gender": "男",
     "poster": "https://img1.doubanio.com/view/celebrity/m/public/p1372241122.18.jpg",
     "imdb_id": "nm0888743",
@@ -17,39 +21,46 @@
     "birth_place": "",
     "last_movies": [
         {
+            "id": 37514241,
+            "year": "2028",
+            "cover": "https://asset.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "title": "Untitled James Vanderbilt/Paramount Pictures Project",
+            "release": 0
+        },
+        {
+            "id": 36832900,
+            "year": "2026",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2929654337.jpg",
+            "title": "准备好了没2：我来了",
+            "release": 1
+        },
+        {
             "id": 36679932,
             "year": "2025",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2908159281.jpg",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2925975704.jpg",
             "title": "纽伦堡",
-            "release": 0
+            "release": 1
         },
         {
             "id": 36314193,
             "year": "2026",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2890574896.jpg",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2929000829.jpg",
             "title": "惊声尖叫7",
-            "release": 0
+            "release": 1
         },
         {
             "id": 36305453,
             "year": "2025",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2916490969.jpg",
-            "title": "不老泉",
-            "release": 0
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2920816461.jpg",
+            "title": "寻秘不老泉",
+            "release": 1
         },
         {
             "id": 35763091,
             "year": "2023",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2888654749.jpg",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2886680355.jpg",
             "title": "惊声尖叫6",
             "release": 1
-        },
-        {
-            "id": 35270404,
-            "year": "2030",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
-            "title": "The Long Walk",
-            "release": 0
         },
         {
             "id": 34984272,
@@ -68,16 +79,9 @@
         {
             "id": 26797770,
             "year": "2030",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+            "cover": "https://asset.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
             "title": "詹森密令",
             "release": 0
-        },
-        {
-            "id": 25925430,
-            "year": "2015",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2269815979.jpg",
-            "title": "真相",
-            "release": 1
         },
         {
             "id": 25814668,
@@ -94,31 +98,10 @@
             "release": 1
         },
         {
-            "id": 10746175,
-            "year": "2013",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2039109399.jpg",
-            "title": "惊天危机",
-            "release": 1
-        },
-        {
-            "id": 6082518,
-            "year": "2014",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2179858051.jpg",
-            "title": "超凡蜘蛛侠2",
-            "release": 1
-        },
-        {
             "id": 5260757,
             "year": "2020",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2541881440.jpg",
             "title": "Glide",
-            "release": 1
-        },
-        {
-            "id": 4811813,
-            "year": "2016",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2362976267.jpg",
-            "title": "独立日2：卷土重来",
             "release": 1
         }
     ],
@@ -132,5 +115,5 @@
     "name_more_other": [
         "James Platten Vanderbilt"
     ],
-    "update_at": "2025-02-19T23:26:29"
+    "update_at": "2026-11-19T07:35:43"
 }

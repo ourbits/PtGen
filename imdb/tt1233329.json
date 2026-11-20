@@ -1,5 +1,14 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Ma Magie",
+            "country": "France"
+        },
+        {
+            "title": "Mój czarodziej",
+            "country": "Poland"
+        }
+    ],
     "sid": "tt1233329",
     "name": "My Magic",
     "site": "imdb",
@@ -11,71 +20,143 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3014319/",
-            "name": "Francis Bosco"
+            "name": "Francis Bosco",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3015227/",
-            "name": "Jathisweran"
+            "name": "Jathisweran",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5650495/",
-            "name": "Keng Yew Seet"
+            "name": "Keng Yew Seet",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5650183/",
+            "name": "Jason Lim",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3014802/",
+            "name": "Grace Kalaiselvi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2638531/",
+            "name": "Sway Ah Ng",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5650698/",
+            "name": "Preetha Damodaran",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5650286/",
+            "name": "Krishnamurthi A.L. Shanmugam",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5650174/",
+            "name": "Leslie Sim",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2640352/",
+            "name": "Sanwan Bin Rais",
+            "@type": "Person"
         }
     ],
-    "critic": 12,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNTMyMzYtYThiNC00MjU3LTg3N2QtYzUwNzc4YzE3NTFlXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/9mu3YmNDsp4BX1qvm7wuB5SSw0n.jpg",
     "details": {
-        "Languages": [
-            "Tamil",
-            "Hokkien",
-            "English"
+        "Stars": [
+            "Francis Bosco",
+            "Jathisweran",
+            "Keng Yew Seet"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Eric Khoo",
+            "Kim Hoh Wong"
+        ],
+        "Runtime": [
+            "75 min"
+        ],
+        "Director": [
+            "Eric Khoo"
+        ],
+        "Language": [
+            "English",
+            "Mandarin",
+            "Tamil"
         ],
         "Release date": [
-            "September 25, 2008 (Singapore)"
-        ],
-        "Also known as": [
-            "Mój czarodziej"
+            "2008-05-23"
         ],
         "Country of origin": [
             "Singapore"
-        ],
-        "Production company": [
-            "27 Productions"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0451799/",
-            "name": "Eric Khoo"
+            "name": "Eric Khoo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1953819/",
-            "name": "Kim Hoh Wong"
+            "name": "Kim Hoh Wong",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H15M",
     "keywords": [
-        "son",
-        "job",
+        "parent child relationship",
         "singapore",
-        "magic"
+        "fire-eater",
+        "alcoholic"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0451799/",
-            "name": "Eric Khoo"
+            "name": "Eric Khoo",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1233329/",
     "metascore": null,
-    "imdb_votes": 326,
+    "imdb_votes": 330,
     "popularity": 0,
     "description": "A single dad looks to give up drinking and his bartender job in order to impress his son and find work as a magician.",
-    "imdb_rating": "6.5/10 from 326 users",
-    "release_date": [],
+    "imdb_rating": "6.4/10 from 330 users",
+    "release_date": [
+        {
+            "date": "2008-09-26",
+            "country": "Brazil"
+        },
+        {
+            "date": "2008-05-23",
+            "country": "France"
+        },
+        {
+            "date": "2008-10-25",
+            "country": "Hong Kong"
+        },
+        {
+            "date": "2008-09-25",
+            "country": "Singapore"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2008-09-25",
-    "imdb_rating_average": 6.5,
-    "update_at": "2025-05-22T09:35:04"
+    "datePublished": "2008-05-23",
+    "original_title": "My Magic",
+    "imdb_rating_average": 6.4,
+    "update_at": "2026-11-19T04:35:30"
 }

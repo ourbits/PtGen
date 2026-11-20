@@ -1,82 +1,137 @@
 {
     "aka": [],
     "sid": "tt31307968",
-    "name": "Der Fall Marianne Voss",
+    "name": "The Case of Marianne Voss",
     "site": "imdb",
     "year": "2024",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Drama"
     ],
     "actors": [
         {
-            "url": "https://www.imdb.com/name/nm0972490/",
-            "name": "Valerie Neuenfels"
-        },
-        {
             "url": "https://www.imdb.com/name/nm0778335/",
-            "name": "Jörg Schüttauf"
+            "name": "Jörg Schüttauf",
+            "@type": "Person"
         },
         {
-            "url": "https://www.imdb.com/name/nm4696667/",
-            "name": "Atheer Adel"
+            "url": "https://www.imdb.com/name/nm0972490/",
+            "name": "Valerie Neuenfels",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0581536/",
+            "name": "Thorsten Merten",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6543103/",
+            "name": "Hannah Ehrlichmann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0478165/",
+            "name": "Steffi Kühnert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0778353/",
+            "name": "Bernhard Schütz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0783317/",
+            "name": "Marie-Lou Sellem",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm15626276/",
+            "name": "Ponny Distakul",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0078866/",
+            "name": "Pierre Besson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0335849/",
+            "name": "Helene Grass",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDdlZDZiZmItYTVhNC00YmU1LWE2ZTgtYmEwMjI0YTllYTdkXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/vNaXmLSMF63DiT93Ih7xsAEX0BA.jpg",
     "details": {
+        "Stars": [
+            "Jörg Schüttauf",
+            "Valerie Neuenfels",
+            "Thorsten Merten"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "Karin Kaci"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Uljana Havemann"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "March 22, 2024 (Germany)"
-        ],
-        "Also known as": [
-            "Bis dass der Tod sie scheidet"
+            "2024-03-22"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Filming locations": [
-            "Berlin, Germany"
-        ],
         "Production companies": [
-            "ARTE",
-            "Green Motion",
-            "Senator Film Produktion"
+            "Senator Film"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1931655/",
-            "name": "Karin Kaci"
+            "name": "Karin Kaci",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        "female frontal nudity",
-        "female rear nudity",
-        "female nudity",
-        "female full frontal nudity",
-        "heteronormativity"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0369746/",
-            "name": "Uljana Havemann"
+            "name": "Uljana Havemann",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt31307968/",
     "metascore": null,
-    "imdb_votes": 96,
+    "imdb_votes": 124,
     "popularity": 0,
-    "description": "Griesenow, 2013: Die Friseurin Marianne Voss wird von ihrer Tochter Heike tot im Wald gefunden. Kurz darauf gerät Ehemann Karsten unter Mordverdacht. Doch er beteuert seine Unschuld. Marianne und Karsten Voss führten über nahezu 5...",
-    "imdb_rating": "6.5/10 from 96 users",
-    "release_date": [],
+    "description": "Griesenow, 2013: The hairdresser Marianne Voss is found dead in the forest by her daughter Heike. Shortly afterwards, her husband Karsten comes under suspicion of murder. But he protests his innocence.",
+    "imdb_rating": "6.3/10 from 124 users",
+    "release_date": [
+        {
+            "date": "2024-03-22",
+            "country": "Germany"
+        },
+        {
+            "date": "2024-03-22",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2024-03-22",
-    "imdb_rating_average": 6.5,
-    "update_at": "2025-06-22T09:39:08"
+    "original_title": "Der Fall Marianne Voss",
+    "imdb_rating_average": 6.3,
+    "update_at": "2026-11-20T01:28:18"
 }

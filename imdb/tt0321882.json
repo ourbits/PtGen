@@ -5,82 +5,152 @@
     "site": "imdb",
     "year": "1977",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Music"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0380593/",
-            "name": "Rolf Herricht"
+            "name": "Rolf Herricht",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0695821/",
-            "name": "Hans Joachim Preil"
+            "name": "Hans Joachim Preil",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0944273/",
-            "name": "Marianne Wünscher"
+            "name": "Marianne Wünscher",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0820848/",
+            "name": "Ursula Staack",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0249127/",
+            "name": "Birgit Edenharter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0217570/",
+            "name": "Fred Delmare",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0217570/",
+            "name": "Fred Delmare",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0217570/",
+            "name": "Fred Delmare",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2442631/",
+            "name": "Kurt Demmler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0230408/",
+            "name": "Chris Doerk",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjg3MWMwMjAtZjIwYi00ZDVlLTlmNTQtZGE0ODZkMTM4OGMwXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/e9UPh10e0jGSp6rtP3QTUUONZdA.jpg",
     "details": {
+        "Stars": [
+            "Rolf Herricht",
+            "Hans Joachim Preil",
+            "Marianne Wünscher"
+        ],
+        "Genres": [
+            "Music"
+        ],
+        "Writer": [
+            "Kurt Belicke",
+            "Hans Joachim Preil",
+            "Heinz Thiel"
+        ],
+        "Runtime": [
+            "76 min"
+        ],
+        "Director": [
+            "Werner Bergmann",
+            "Heinz Thiel",
+            "Werner W. Wallroth"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "May 27, 1977 (West Germany)"
-        ],
-        "Also known as": [
-            "Defa Disco 77"
+            "1977-05-26"
         ],
         "Country of origin": [
+            "Germany",
             "East Germany"
         ],
-        "Production company": [
+        "Production companies": [
             "DEFA-Studio für Spielfilme"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0067864/",
-            "name": "Kurt Belicke"
+            "name": "Kurt Belicke",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0695821/",
-            "name": "Hans Joachim Preil"
+            "name": "Hans Joachim Preil",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0857888/",
-            "name": "Heinz Thiel"
+            "name": "Heinz Thiel",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H16M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0074929/",
-            "name": "Werner Bergmann"
+            "name": "Werner Bergmann",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0857888/",
-            "name": "Heinz Thiel"
+            "name": "Heinz Thiel",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0909359/",
-            "name": "Werner W. Wallroth"
+            "name": "Werner W. Wallroth",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0321882/",
     "metascore": null,
-    "imdb_votes": 8,
+    "imdb_votes": 10,
     "popularity": 0,
-    "description": "A film gala featuring a colorfully mixed program of musical numbers, along with the most popular artists of the GDR music, film and television scenes. The majority of the show is comprised of music performances, which are visually...",
-    "imdb_rating": "5/10 from 8 users",
-    "release_date": [],
+    "description": "A film gala featuring a colorfully mixed program of musical numbers, along with the most popular artists of the GDR music, film and television scenes. The majority of the show is comprised of music performances, which are visually altered or transformed. Cabaret-style written contributions and one acts round out the program. Before each performance, the artists involved are seen in an everyday situation in their life.",
+    "imdb_rating": "5.0/10 from 10 users",
+    "release_date": [
+        {
+            "date": "1977-05-26",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1977-05-27",
-    "imdb_rating_average": 5,
-    "update_at": "2025-04-21T02:39:19"
+    "datePublished": "1977-05-26",
+    "original_title": "DEFA-Disko 77",
+    "imdb_rating_average": 5.0,
+    "update_at": "2026-11-19T17:07:45"
 }

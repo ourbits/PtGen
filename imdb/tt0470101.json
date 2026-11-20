@@ -4,49 +4,57 @@
     "name": "Work in Progress",
     "site": "imdb",
     "year": "2004",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Fantasy"
+        "Fantasy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0754724/",
-            "name": "Caroline Sabin"
+            "name": "Caroline Sabin",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "None"
+        "Stars": [
+            "Caroline Sabin"
+        ],
+        "Genres": [
+            "Fantasy",
+            "Short"
+        ],
+        "Writer": [
+            "Matt Camilleri-Brown"
+        ],
+        "Runtime": [
+            "4 min"
+        ],
+        "Director": [
+            "Matt Camilleri-Brown"
         ],
         "Release date": [
-            "October 11, 2004 (United Kingdom)"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Production companies": [
-            "Boda",
-            "Sgrin, Media Agency for Wales"
+            "2004"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1980713/",
-            "name": "Matt Camilleri-Brown"
+            "name": "Matt Camilleri-Brown",
+            "@type": "Person"
         }
     ],
     "duration": "PT4M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1980713/",
-            "name": "Matt Camilleri-Brown"
+            "name": "Matt Camilleri-Brown",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0470101/",
@@ -57,7 +65,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2004-10-11",
+    "datePublished": "2004",
+    "original_title": "Work in Progress",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-20T22:00:19"
+    "update_at": "2026-11-19T03:00:28"
 }

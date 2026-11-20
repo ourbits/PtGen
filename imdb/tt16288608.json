@@ -4,74 +4,111 @@
     "name": "I santi",
     "site": "imdb",
     "year": "2021",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm10421676/",
-            "name": "Claudio Segaluscio"
+            "name": "Claudio Segaluscio",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm10135221/",
-            "name": "Gaia Girace"
+            "name": "Gaia Girace",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm13174459/",
-            "name": "Fabrizio Desideri"
+            "name": "Fabrizio Desideri",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm13174460/",
+            "name": "Michele Ferrigni",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7764098/",
+            "name": "Anna Cofano",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4453944/",
+            "name": "Angelo Losasso",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGQyYTYxMDItYzQyYS00NDAwLWJjN2UtNGY4YzEyZDk0ZmU2XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/h1m7SmOZko1SvOrmyh1r4WJsZo0.jpg",
     "details": {
+        "Stars": [
+            "Claudio Segaluscio",
+            "Gaia Girace",
+            "Fabrizio Desideri"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Giacomo Abbruzzese"
+        ],
+        "Runtime": [
+            "31 min"
+        ],
+        "Director": [
+            "Giacomo Abbruzzese"
+        ],
         "Language": [
             "Italian"
         ],
         "Release date": [
-            "November 20, 2021 (Italy)"
+            "2021-11-20"
         ],
-        "Also known as": [
-            "Die Heiligen"
-        ],
-        "Official site": [
-            "Official site - http://filmsgrandhuit.com/portfolio/i-santi/"
-        ],
-        "Production company": [
-            "Films Grand Huit"
-        ],
-        "Countries of origin": [
+        "Country of origin": [
             "France",
             "Italy"
+        ],
+        "Production companies": [
+            "Films Grand Huit"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3382703/",
-            "name": "Giacomo Abbruzzese"
+            "name": "Giacomo Abbruzzese",
+            "@type": "Person"
         }
     ],
     "duration": "PT31M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3382703/",
-            "name": "Giacomo Abbruzzese"
+            "name": "Giacomo Abbruzzese",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt16288608/",
     "metascore": null,
     "imdb_votes": 17,
     "popularity": 0,
-    "description": null,
+    "description": "In the old city of Taranto, an industrial center of the Apulia region, Maria tries to help her junkie brother Donato, who is threatened with death for an unpaid debt. She only has one option: to steal. As much as possible, as soon as possible.",
     "imdb_rating": "6.3/10 from 17 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2021-11-20",
+            "country": "Italy"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2021-11-20",
+    "original_title": "I santi",
     "imdb_rating_average": 6.3,
-    "update_at": "2025-08-09T16:21:47"
+    "update_at": "2026-11-19T10:28:15"
 }

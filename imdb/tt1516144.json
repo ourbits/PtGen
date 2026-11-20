@@ -4,55 +4,100 @@
     "name": "Viele heißen Kain",
     "site": "imdb",
     "year": "1967",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0097449/",
-            "name": "Dieter Borsche"
+            "name": "Dieter Borsche",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0627240/",
-            "name": "Günther Neutze"
+            "name": "Günther Neutze",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0427230/",
-            "name": "Friedrich Joloff"
+            "name": "Friedrich Joloff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0618136/",
+            "name": "Elisabeth Müller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0067080/",
+            "name": "Stefan Behrens",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3445409/",
+            "name": "Carsten Claus",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0471177/",
+            "name": "Ursula Krieg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2492893/",
+            "name": "Dina Nowka",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1385798/",
+            "name": "Carlo Kluge",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Dieter Borsche",
+            "Günther Neutze",
+            "Friedrich Joloff"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Alfred Neumann"
+        ],
+        "Runtime": [
+            "80 min"
+        ],
+        "Director": [
+            "Hansjörg Utzerath"
         ],
         "Release date": [
-            "November 22, 1967 (West Germany)"
+            "1967-11-22"
         ],
         "Country of origin": [
-            "West Germany"
-        ],
-        "Production company": [
-            "Sender Freies Berlin (SFB)"
+            "Germany"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0627012/",
-            "name": "Alfred Neumann"
+            "name": "Alfred Neumann",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H20M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0882613/",
-            "name": "Hansjörg Utzerath"
+            "name": "Hansjörg Utzerath",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1516144/",
@@ -61,9 +106,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1967-11-22",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1967-11-22",
+    "original_title": "Viele heißen Kain",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-15T20:39:09"
+    "update_at": "2026-11-19T05:07:23"
 }

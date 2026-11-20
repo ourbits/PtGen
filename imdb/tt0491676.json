@@ -4,71 +4,103 @@
     "name": "Opruiming",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0079565/",
-            "name": "Anneke Beukman"
+            "name": "Anneke Beukman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0115856/",
-            "name": "Hajo Bruins"
+            "name": "Hajo Bruins",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0212231/",
-            "name": "Erik de Vogel"
+            "name": "Erik de Vogel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1367291/",
+            "name": "Marijn Klaver",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0483040/",
+            "name": "Pim Lambeau",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0483421/",
+            "name": "Frits Lambrechts",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3698293/",
+            "name": "Kees Verhulst",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Dutch"
+        "Stars": [
+            "Anneke Beukman",
+            "Hajo Bruins",
+            "Erik de Vogel"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Pieter Kuijpers"
+        ],
+        "Runtime": [
+            "11 min"
+        ],
+        "Director": [
+            "Mannin de Wildt"
         ],
         "Release date": [
-            "September 29, 2005 (Netherlands)"
-        ],
-        "Official site": [
-            "Pupkin Film - http://www.pupkin.com/productie.php?iId=66"
-        ],
-        "Country of origin": [
-            "Netherlands"
-        ],
-        "Production company": [
-            "Pupkin Film"
+            "2005"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0474233/",
-            "name": "Pieter Kuijpers"
+            "name": "Pieter Kuijpers",
+            "@type": "Person"
         }
     ],
     "duration": "PT11M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0928742/",
-            "name": "Mannin de Wildt"
+            "name": "Mannin de Wildt",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0491676/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "A married, retired couple: after the husband has gone out to do some shopping, his wife gets a phone call from the hospital that he has had a heart attack. When she arrives at the hospital, her husband has already died. His funera...",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2005-09-29",
+    "datePublished": "2005",
+    "original_title": "Opruiming",
     "imdb_rating_average": 0,
-    "update_at": "2026-04-19T23:49:05"
+    "update_at": "2026-11-19T11:42:08"
 }

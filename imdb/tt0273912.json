@@ -4,58 +4,82 @@
     "name": "Oliver i Olivera",
     "site": "imdb",
     "year": "2000",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Romance"
+        "Romance",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0636482/",
-            "name": "Maja Randjic"
+            "name": "Maja Randjic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0547197/",
-            "name": "Nenad Maricic"
+            "name": "Nenad Maricic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0866437/",
-            "name": "Branislav Tomasevic"
+            "name": "Branislav Tomasevic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0229212/",
+            "name": "Aleksandra Djordjevic",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Maja Randjic",
+            "Nenad Maricic",
+            "Branislav Tomasevic"
+        ],
+        "Genres": [
+            "Comedy",
+            "Romance",
+            "Short"
+        ],
+        "Writer": [
+            "Jasmin Cvisic",
+            "Radomir Savic"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "Jasmin Cvisic"
+        ],
         "Release date": [
-            "November 22, 2000 (Yugoslavia)"
-        ],
-        "Also known as": [
-            "Oliver and Olivera"
-        ],
-        "Country of origin": [
-            "Federal Republic of Yugoslavia"
+            "2000"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0194146/",
-            "name": "Jasmin Cvisic"
+            "name": "Jasmin Cvisic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0767624/",
-            "name": "Radomir Savic"
+            "name": "Radomir Savic",
+            "@type": "Person"
         }
     ],
     "duration": "PT10M",
-    "keywords": [
-        "character name in title"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0194146/",
-            "name": "Jasmin Cvisic"
+            "name": "Jasmin Cvisic",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0273912/",
@@ -63,10 +87,11 @@
     "imdb_votes": 18,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "7.8/10 from 18 users",
+    "imdb_rating": "8.1/10 from 18 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2000-11-22",
-    "imdb_rating_average": 7.8,
-    "update_at": "2025-08-15T22:26:32"
+    "datePublished": "2000",
+    "original_title": "Oliver i Olivera",
+    "imdb_rating_average": 8.1,
+    "update_at": "2026-11-19T10:28:06"
 }

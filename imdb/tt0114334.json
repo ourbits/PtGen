@@ -3,78 +3,143 @@
     "sid": "tt0114334",
     "name": "The Sandman",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1995",
+    "@type": "VideoObject",
     "genre": [
         "Horror"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0723931/",
-            "name": "A.J. Richards"
+            "name": "A.J. Richards",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0349672/",
-            "name": "Rita Gutowski"
+            "name": "Rita Gutowski",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0513496/",
-            "name": "Terry J. Lipko"
+            "name": "Terry J. Lipko",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0899424/",
+            "name": "James Viront",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0310737/",
+            "name": "Barbara Katz-Norrod",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0280387/",
+            "name": "Stan Fitzgerald",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0909770/",
+            "name": "Matthew Jason Walsh",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0929132/",
+            "name": "Mary Wilkerson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0057168/",
+            "name": "Jennifer Barrett",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0624178/",
+            "name": "Lisa Neeld",
+            "@type": "Person"
         }
     ],
-    "critic": 4,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTM0Nzc1NjE1NF5BMl5BanBnXkFtZTgwMDQ4ODk1MDE@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/6Bsg9lEIGsXPoO61CjI3qbxqaVA.jpg",
     "details": {
+        "Stars": [
+            "A.J. Richards",
+            "Rita Gutowski",
+            "Terry J. Lipko"
+        ],
+        "Genres": [
+            "Horror"
+        ],
+        "Writer": [
+            "J.R. Bookwalter",
+            "David Lange",
+            "Matthew Jason Walsh"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "J.R. Bookwalter"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "1996 (United States)"
+            "1995-12-05"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Akron, Ohio, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Suburban Tempe Company"
         ]
     },
-    "reviews": 8,
+    "reviews": 0,
+    "tagline": "A tale of suspense from the creator of THE DEAD NEXT DOOR and OZONE",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0006931/",
-            "name": "J.R. Bookwalter"
+            "name": "J.R. Bookwalter",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0486101/",
-            "name": "David Lange"
+            "name": "David Lange",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0909770/",
-            "name": "Matthew Jason Walsh"
+            "name": "Matthew Jason Walsh",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
     "keywords": [
-        "nightmare",
-        "independent film"
+        "nightmare"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0006931/",
-            "name": "J.R. Bookwalter"
+            "name": "J.R. Bookwalter",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0114334/",
     "metascore": null,
-    "imdb_votes": 218,
+    "imdb_votes": 233,
     "popularity": 0,
-    "description": "Gary is a trailer park romance novelist who can&apos;t seem to sleep at night. He also thinks that he saw a monster assaulting his girlfriend while she was sleeping. People in his trailer park begin to die in their sleep. Soon, Gary&apos;s ...",
-    "imdb_rating": "3.6/10 from 218 users",
-    "release_date": [],
-    "contentRating": "Unrated",
-    "datePublished": null,
-    "imdb_rating_average": 3.6,
-    "update_at": "2025-07-11T14:42:13"
+    "description": "Gary is a trailer park romance novelist who can't seem to sleep at night. He also thinks that he saw a monster assaulting his girlfriend while she was sleeping. People is his trailer park begin to die in their sleep. Soon, Gary's friends begin to think that he has gone crazy with all his ranting and raving and that all he needs is a good night's sleep. Gary is afraid to sleep...",
+    "imdb_rating": "3.5/10 from 233 users",
+    "release_date": [
+        {
+            "date": "1995-12-05",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
+    "datePublished": "1995-12-05",
+    "original_title": "The Sandman",
+    "imdb_rating_average": 3.5,
+    "update_at": "2026-11-19T10:07:14"
 }

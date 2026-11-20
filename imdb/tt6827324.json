@@ -1,76 +1,121 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Moloko",
+            "country": "Russia"
+        }
+    ],
     "sid": "tt6827324",
     "name": "Milk",
     "site": "imdb",
     "year": "2017",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Fantasy"
+        "Fantasy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm8951994/",
-            "name": "Yaroslava Bazaeva"
+            "name": "Yaroslava Bazaeva",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5316896/",
-            "name": "Mariya Bolonkina"
+            "name": "Mariya Bolonkina",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0451720/",
-            "name": "Vitaly Khodin"
+            "name": "Vitaly Khodin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8951999/",
+            "name": "Gleb Orlov",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0946670/",
+            "name": "Igor Yasulovich",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDM3YTljODgtYTYwNi00ODk4LWI0OTUtNGM4NThiN2FlMGJiXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/ir2mhh9BcBIIMyaL8sbdhCb2Mu7.jpg",
     "details": {
+        "Stars": [
+            "Yaroslava Bazaeva",
+            "Mariya Bolonkina",
+            "Vitaly Khodin"
+        ],
+        "Genres": [
+            "Comedy",
+            "Fantasy",
+            "Short"
+        ],
+        "Writer": [
+            "Daria Vlasova"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Daria Vlasova"
+        ],
         "Language": [
             "Russian"
         ],
         "Release date": [
-            "February 13, 2017 (Germany)"
+            "2017-02-13"
         ],
-        "Also known as": [
-            "Молоко"
-        ],
-        "Countries of origin": [
-            "Lithuania",
-            "Russia"
+        "Country of origin": [
+            "Russia",
+            "Lithuania"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm6497817/",
-            "name": "Daria Vlasova"
+            "name": "Daria Vlasova",
+            "@type": "Person"
         }
     ],
     "duration": "PT15M",
-    "keywords": [
-        "cow",
-        "girl",
-        "boy",
-        "grandfather",
-        "milk"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm6497817/",
-            "name": "Daria Vlasova"
+            "name": "Daria Vlasova",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt6827324/",
     "metascore": null,
-    "imdb_votes": 35,
+    "imdb_votes": 36,
     "popularity": 0,
-    "description": "Modern family runs a perfect house and lives ideal life until one day they notice a cow in the middle of their kitchen.",
-    "imdb_rating": "7.1/10 from 35 users",
-    "release_date": [],
+    "description": "A seemingly ideal family – mum, dad, daughter, son and grandfather – lives on the 14th floor of an apartment building. One morning a cow appears in their kitchen. The cow does not seek contact, does not eat, or defecate, but simply stands between the fridge and kitchen table. Gradually, the family gets used to the cow and even starts endearingly call it Buryonka. Everything goes well, until the somewhat senile grandfather mistakes Buryonka for an enemy.",
+    "imdb_rating": "6.9/10 from 36 users",
+    "release_date": [
+        {
+            "date": "2017-02-13",
+            "country": "Germany"
+        },
+        {
+            "date": "2018-08-05",
+            "country": "Italy"
+        },
+        {
+            "date": "2017-11-05",
+            "country": "Poland"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2017-02-13",
-    "imdb_rating_average": 7.1,
-    "update_at": "2025-10-05T21:07:13"
+    "original_title": "Milk",
+    "imdb_rating_average": 6.9,
+    "update_at": "2026-11-19T23:21:16"
 }

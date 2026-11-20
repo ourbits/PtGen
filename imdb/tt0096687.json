@@ -5,44 +5,141 @@
     "site": "imdb",
     "year": "1989",
     "@type": "TVSeries",
-    "genre": null,
+    "genre": [
+        "Drama",
+        "Documentary"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0471115/",
+            "name": "Walter Kreye",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0218543/",
+            "name": "Renan Demirkan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1621712/",
+            "name": "F. Pedro Oliveira",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0142398/",
+            "name": "Cristina Carvalhal",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0778220/",
+            "name": "Dietmar Schönherr",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0392460/",
+            "name": "Jürgen Holtz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0388517/",
+            "name": "Heinz Hoenig",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0951647/",
+            "name": "Rolf Zacher",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0530742/",
+            "name": "Martin Lüttge",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0699596/",
+            "name": "Tilo Prückner",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/tCZCl7pYTVWw9ItI5O52blNSNW6.jpg",
     "details": {
+        "Stars": [
+            "Walter Kreye",
+            "Renan Demirkan",
+            "F. Pedro Oliveira"
+        ],
+        "Genres": [
+            "Drama",
+            "Documentary"
+        ],
+        "Writer": [
+            "Horst Söhnlein",
+            "Thomas Wittenburg"
+        ],
+        "Runtime": [
+            "50 min"
+        ],
+        "Director": [
+            "Klaus Emmerich",
+            "Hans Noever"
+        ],
         "Language": [
-            "German"
+            "German",
+            "Spanish",
+            "French"
         ],
         "Release date": [
-            "April 17, 1989 (West Germany)"
-        ],
-        "Also known as": [
-            "Riporterek"
+            "1989-04-17"
         ],
         "Country of origin": [
-            "West Germany"
+            "Germany",
+            "France",
+            "Switzerland",
+            "United Kingdom"
         ],
-        "Filming locations": [
-            "Bavaria Studios, Bavariafilmplatz 7, Geiselgasteig, Grünwald, Bavaria, Germany"
-        ],
-        "Production company": [
-            "Bavaria Film"
+        "Production companies": [
+            "SRF"
         ]
     },
     "reviews": 0,
-    "creators": [],
-    "duration": null,
-    "keywords": [
-        ""
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0900755/",
+            "name": "Horst Söhnlein",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0937005/",
+            "name": "Thomas Wittenburg",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT50M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0256495/",
+            "name": "Klaus Emmerich",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0633950/",
+            "name": "Hans Noever",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0096687/",
     "metascore": null,
-    "imdb_votes": 17,
+    "imdb_votes": 18,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "5.6/10 from 17 users",
+    "description": "Reporter Azade Celik and top photographer Pit Wilkens work for a magazine. A plane crash puts the unequal pair on the trail of the news dealer Nielsen. Nielsen offers highly explosive material about planned terrorist actions.",
+    "imdb_rating": "5.0/10 from 18 users",
     "release_date": [],
-    "contentRating": null,
+    "contentRating": "NR",
     "datePublished": "1989-04-17",
-    "imdb_rating_average": 5.6,
-    "update_at": "2025-11-24T19:00:14"
+    "original_title": "Reporter",
+    "imdb_rating_average": 5.0,
+    "update_at": "2026-11-19T05:00:37"
 }

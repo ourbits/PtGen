@@ -4,7 +4,7 @@
     "name": "Les Associés",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Thriller"
@@ -12,72 +12,119 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000483/",
-            "name": "Christopher Lambert"
+            "name": "Christopher Lambert",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0075710/",
-            "name": "François Berléand"
+            "name": "François Berléand",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0297004/",
-            "name": "Thierry Frémont"
+            "name": "Thierry Frémont",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0240309/",
+            "name": "Sophie Duez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0004248/",
+            "name": "Georges Corraface",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2646547/",
+            "name": "Édouard Giard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2760347/",
+            "name": "Milan Mauger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3274621/",
+            "name": "Mélusine Mayance",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0712208/",
+            "name": "Julie-Anne Roth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1743208/",
+            "name": "Clémence Thioly",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDU5MjFjNTUtMDAyZi00OGQxLWFkYWUtMWQ4Mzc1NGNmNTZmXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/kDql2PKyDDQKsCtJsknq1sPPCdw.jpg",
     "details": {
+        "Stars": [
+            "Christopher Lambert",
+            "François Berléand",
+            "Thierry Frémont"
+        ],
+        "Genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "Writer": [
+            "Hervé Korian"
+        ],
+        "Runtime": [
+            "85 min"
+        ],
+        "Director": [
+            "Alain Berliner"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "October 5, 2009 (Belgium)"
+            "2009-09-19"
         ],
-        "Also known as": [
-            "アサシンズ　暗殺者"
-        ],
-        "Filming locations": [
-            "Mennecy, Essonne, France"
-        ],
-        "Countries of origin": [
-            "France",
-            "Belgium"
-        ],
-        "Production companies": [
-            "Little Big SAS",
-            "AT-Production",
-            "Radio Télévision Belge Francophone (RTBF)"
+        "Country of origin": [
+            "France"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2321684/",
-            "name": "Hervé Korian"
+            "name": "Hervé Korian",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H25M",
-    "keywords": [
-        "assassin",
-        "criminal",
-        "buddy",
-        "birthday party",
-        "gun"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0075626/",
-            "name": "Alain Berliner"
+            "name": "Alain Berliner",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1465480/",
     "metascore": null,
-    "imdb_votes": 41,
+    "imdb_votes": 42,
     "popularity": 0,
-    "description": "Three men in a flat are waiting on a big drug deal that&apos;s about to go down in the neighborhood in a few days.",
-    "imdb_rating": "6.9/10 from 41 users",
-    "release_date": [],
+    "description": "Three men in a flat are waiting on a big drug deal that's about to go down in the neighborhood in a few days.",
+    "imdb_rating": "7.1/10 from 42 users",
+    "release_date": [
+        {
+            "date": "2009-09-19",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2009-10-05",
-    "imdb_rating_average": 6.9,
-    "update_at": "2025-06-17T00:44:59"
+    "datePublished": "2009-09-19",
+    "original_title": "Les Associés",
+    "imdb_rating_average": 7.1,
+    "update_at": "2026-11-19T17:28:36"
 }

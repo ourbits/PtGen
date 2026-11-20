@@ -5,68 +5,124 @@
     "site": "imdb",
     "year": "1953",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Drama"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0137808/",
-            "name": "Margit Carlqvist"
+            "name": "Margit Carlqvist",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0375570/",
-            "name": "Gunnar Hellström"
+            "name": "Gunnar Hellström",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0829959/",
-            "name": "Eva Stiberg"
+            "name": "Eva Stiberg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0540300/",
+            "name": "Jan Malmsjö",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0703217/",
+            "name": "Isa Quensel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0383914/",
+            "name": "Olle Hilding",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0729959/",
+            "name": "Olav Riégo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0922616/",
+            "name": "Meg Westergren",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0578151/",
+            "name": "Börje Mellvig",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0015957/",
+            "name": "Lissi Alandh",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWNmMmI4OTYtNTFiNC00YzE4LTk4MDEtNzg1NWI0ZWI1MWE0XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/82V68kk47pfeOL0W0N9ZoZf1qmq.jpg",
     "details": {
-        "Language": [
-            "Swedish"
+        "Stars": [
+            "Margit Carlqvist",
+            "Gunnar Hellström",
+            "Eva Stiberg"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Olle Hellbom"
+        ],
+        "Runtime": [
+            "103 min"
+        ],
+        "Director": [
+            "Egil Holmsen"
         ],
         "Release date": [
-            "September 24, 1953 (Sweden)"
-        ],
-        "Also known as": [
-            "Filmen om Marianne"
+            "1953-09-24"
         ],
         "Country of origin": [
             "Sweden"
         ],
-        "Production company": [
+        "Production companies": [
             "Europa Film"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0375224/",
-            "name": "Olle Hellbom"
+            "name": "Olle Hellbom",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H43M",
-    "keywords": [
-        "love",
-        "eastern europe",
-        "stockholm sweden"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0392181/",
-            "name": "Egil Holmsen"
+            "name": "Egil Holmsen",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0046044/",
     "metascore": null,
-    "imdb_votes": 11,
+    "imdb_votes": 13,
     "popularity": 0,
-    "description": "Marianne and Jojje are in the last grade of a Stockholm high school. Jojje is very fond of his talented, sensitive classmate. His love is not answered. The students come from different environments.",
-    "imdb_rating": "5.8/10 from 11 users",
-    "release_date": [],
+    "description": "Marianne and Jojje are in the last grade of a Stockholm high school. Jojje is very fond of his talented, sensitive classmate. His love is not answered. The students come from different social and economical environments.",
+    "imdb_rating": "5.8/10 from 13 users",
+    "release_date": [
+        {
+            "date": "1953-09-24",
+            "country": "Sweden"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1953-09-24",
+    "original_title": "Marianne",
     "imdb_rating_average": 5.8,
-    "update_at": "2025-06-10T15:07:38"
+    "update_at": "2026-11-19T12:00:14"
 }

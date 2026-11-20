@@ -1,74 +1,133 @@
 {
     "aka": [],
     "sid": "tt0256908",
-    "name": "The Making of &apos;Jurassic Park&apos;",
+    "name": "The Making of 'Jurassic Park'",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1995",
+    "@type": "VideoObject",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000469/",
-            "name": "James Earl Jones"
+            "name": "James Earl Jones",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000229/",
-            "name": "Steven Spielberg"
+            "name": "Steven Spielberg",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000341/",
-            "name": "Michael Crichton"
+            "name": "Michael Crichton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0935644/",
+            "name": "Stan Winston",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0864138/",
+            "name": "Phil Tippett",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0395107/",
+            "name": "Jack Horner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0613830/",
+            "name": "Dennis Muren",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0228147/",
+            "name": "Mark A.Z. Dippé",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0141437/",
+            "name": "Rick Carter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005678/",
+            "name": "Dean Cundey",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDVhMjgzZTAtYmI1My00ZmU0LTg1YzQtODU3ZDBkZDIyMGQwXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/kYVJCtAOhkIbz4MWulx0N17ZNTQ.jpg",
     "details": {
-        "Release date": [
-            "1995 (United States)"
+        "Stars": [
+            "James Earl Jones",
+            "Steven Spielberg",
+            "Michael Crichton"
         ],
-        "Also known as": [
-            "Секреты 'Парка юрского периода'"
+        "Genres": [
+            "Documentary"
+        ],
+        "Writer": [
+            "John Schultz"
+        ],
+        "Runtime": [
+            "51 min"
+        ],
+        "Director": [
+            "John Schultz"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Release date": [
+            "1995-04-23"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
             "Zaloom Mayfield Productions",
             "Amblin Entertainment",
-            "Les Mayfield Productions"
+            "MCA/Universal Home Video"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0776271/",
-            "name": "John Schultz"
+            "name": "John Schultz",
+            "@type": "Person"
         }
     ],
     "duration": "PT51M",
-    "keywords": [
-        "adventure filmmaking as subject",
-        "special effects as subject",
-        "filmmaking as sybject",
-        "cgi as subject",
-        "ends with a freeze frame"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0776271/",
-            "name": "John Schultz"
+            "name": "John Schultz",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0256908/",
     "metascore": null,
-    "imdb_votes": 659,
+    "imdb_votes": 694,
     "popularity": 0,
-    "description": "Behind-the-scenes look at the making of &quot;Jurassic Park&quot; narrated by James Earl Jones.",
-    "imdb_rating": "7.6/10 from 659 users",
-    "release_date": [],
-    "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 7.6,
-    "update_at": "2026-04-13T16:07:14"
+    "description": "This documentary treats film fans to a behind-the-scenes look at the making of \"Jurassic Park,\" one of the 90's biggest hits and a milestone in special effects development. Narrated by James Earl Jones, it includes footage of the filming process, as well as interviews with director Steven Spielberg, and other members of the cast and crew, who give their insights into what it was like working together on this project and the efforts it took to bring the film to completion.",
+    "imdb_rating": "7.7/10 from 694 users",
+    "release_date": [
+        {
+            "date": "1995-04-23",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
+    "datePublished": "1995-04-23",
+    "original_title": "The Making of 'Jurassic Park'",
+    "imdb_rating_average": 7.7,
+    "update_at": "2026-11-19T09:14:21"
 }
