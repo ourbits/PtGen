@@ -4,7 +4,7 @@
     "name": "The Lottery",
     "site": "imdb",
     "year": "1996",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Horror",
@@ -13,74 +13,130 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0004844/",
-            "name": "Dan Cortese"
+            "name": "Dan Cortese",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0005392/",
-            "name": "Keri Russell"
+            "name": "Keri Russell",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001021/",
-            "name": "Veronica Cartwright"
+            "name": "Veronica Cartwright",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0740535/",
+            "name": "Stephen Root",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0200122/",
+            "name": "William Daniels",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0792003/",
+            "name": "William Morgan Sheppard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0159609/",
+            "name": "Joe Chrest",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0421300/",
+            "name": "Salome Jens",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001826/",
+            "name": "M. Emmet Walsh",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0615266/",
+            "name": "Sean Murray",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGQwNTc1MTYtZmIxZC00MTI0LTk0ODgtNzczN2VkZWFlMTRlXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/5pkQ4miPHbmgFQpD6nXtkrjuWbF.jpg",
     "details": {
+        "Stars": [
+            "Dan Cortese",
+            "Keri Russell",
+            "Veronica Cartwright"
+        ],
+        "Genres": [
+            "Drama",
+            "Horror",
+            "Thriller"
+        ],
+        "Writer": [
+            "Shirley Jackson",
+            "Anthony Spinner"
+        ],
+        "Runtime": [
+            "92 min"
+        ],
+        "Director": [
+            "Daniel Sackheim"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "September 29, 1996 (United States)"
-        ],
-        "Also known as": [
-            "El sorteo"
+            "1996-09-29"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Charlotte, North Carolina, USA"
+            "United States of America"
         ],
         "Production companies": [
             "Landsburg Company",
-            "Picture Entertainment"
+            "NBC"
         ]
     },
-    "reviews": 45,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0414047/",
-            "name": "Shirley Jackson"
+            "name": "Shirley Jackson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0818961/",
-            "name": "Anthony Spinner"
+            "name": "Anthony Spinner",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H32M",
-    "keywords": [
-        "police officer stabbed in the back",
-        "police officer stabbed",
-        "police officer killed",
-        "police officer",
-        "based on short story"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0755261/",
-            "name": "Daniel Sackheim"
+            "name": "Daniel Sackheim",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0116924/",
     "metascore": null,
-    "imdb_votes": 1106,
+    "imdb_votes": 1152,
     "popularity": 0,
-    "description": "Based on Shirley Jackson&apos;s short story &quot;The Lottery.&quot;",
-    "imdb_rating": "6/10 from 1106 users",
-    "release_date": [],
-    "contentRating": "Unrated",
+    "description": "Returning to his small hometown of Icara, Maine, a man discovers its horrible secret -- a bizarre, clandestine ritual that led to his mother's early death and his father's insanity.",
+    "imdb_rating": "6.0/10 from 1152 users",
+    "release_date": [
+        {
+            "date": "1996-09-29",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1996-09-29",
-    "imdb_rating_average": 6,
-    "update_at": "2025-10-04T11:07:34"
+    "original_title": "The Lottery",
+    "imdb_rating_average": 6.0,
+    "update_at": "2026-11-20T02:49:38"
 }

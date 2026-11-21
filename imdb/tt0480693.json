@@ -5,29 +5,108 @@
     "site": "imdb",
     "year": "1926",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Comedy"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0297529/",
+            "name": "Werner Fuetterer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0323399/",
+            "name": "Erika Glässner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0351734/",
+            "name": "Käthe Haack",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0549476/",
+            "name": "Hilde Maroff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0435229/",
+            "name": "Erich Kaiser-Titz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0266254/",
+            "name": "Julius Falkenstein",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0436922/",
+            "name": "Fritz Kampers",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0308460/",
+            "name": "Robert Garrison",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1260667/",
+            "name": "Maria Grimm-Einödshofer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1442680/",
+            "name": "Eddie Seefeld",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "German"
+        "Stars": [
+            "Werner Fuetterer",
+            "Erika Glässner",
+            "Käthe Haack"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Luise Heilborn-Körbitz",
+            "Georg Hermann"
+        ],
+        "Director": [
+            "Carl Boese"
         ],
         "Release date": [
-            "August 6, 1926 (Germany)"
+            "1926-08-05"
         ],
         "Country of origin": [
             "Germany"
-        ],
-        "Production company": [
-            "National-Film"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0374122/",
+            "name": "Luise Heilborn-Körbitz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0379253/",
+            "name": "Georg Hermann",
+            "@type": "Person"
+        }
+    ],
     "duration": null,
-    "keywords": [
-        "based on novel"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0091380/",
+            "name": "Carl Boese",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0480693/",
     "metascore": null,
@@ -35,9 +114,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1926-08-05",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1926-08-06",
+    "datePublished": "1926-08-05",
+    "original_title": "Kubinke, der Barbier, und die drei Dienstmädchen",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-27T11:39:47"
+    "update_at": "2026-11-20T15:56:07"
 }

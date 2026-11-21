@@ -1,10 +1,19 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Liza",
+            "country": "United States of America"
+        },
+        {
+            "title": "ルチオ・フルチの新デモンズ",
+            "country": "Japan"
+        }
+    ],
     "sid": "tt0094997",
     "name": "Demonia",
     "site": "imdb",
-    "year": "2001",
-    "@type": "Movie",
+    "year": "1990",
+    "@type": "VideoObject",
     "genre": [
         "Horror",
         "Mystery"
@@ -12,78 +21,137 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0357020/",
-            "name": "Brett Halsey"
+            "name": "Brett Halsey",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0716657/",
-            "name": "Meg Register"
+            "name": "Meg Register",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0758031/",
-            "name": "Lino Salemme"
+            "name": "Lino Salemme",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0257211/",
+            "name": "Christina Engelhardt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0238448/",
+            "name": "Pascal Druant",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0165081/",
+            "name": "Grady Clarkson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0173814/",
+            "name": "Ettore Comi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0144336/",
+            "name": "Carla Cassola",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0036909/",
+            "name": "Michael Aronin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0166986/",
+            "name": "Al Cliver",
+            "@type": "Person"
         }
     ],
-    "critic": 45,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmU1NTg2OGQtYjA2NS00MTg4LTg1NGItZjY0YjBlYjE0ZjRiXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/oD86JcKm8PgfWzlAjDqTqJSf2S4.jpg",
     "details": {
+        "Stars": [
+            "Brett Halsey",
+            "Meg Register",
+            "Lino Salemme"
+        ],
+        "Genres": [
+            "Horror",
+            "Mystery"
+        ],
+        "Writer": [
+            "Piero Regnoli",
+            "Lucio Fulci",
+            "Antonio Tentori"
+        ],
+        "Runtime": [
+            "88 min"
+        ],
+        "Director": [
+            "Lucio Fulci"
+        ],
         "Language": [
             "Italian"
         ],
         "Release date": [
-            "June 26, 2001 (United States)"
-        ],
-        "Also known as": [
-            "Демония"
+            "1990-10-01"
         ],
         "Country of origin": [
             "Italy"
-        ],
-        "Filming locations": [
-            "Syracuse, Sicily, Italy"
         ],
         "Production companies": [
             "Lanterna Editrice",
             "A.M. Trading International S.r.l."
         ]
     },
-    "reviews": 39,
+    "reviews": 0,
+    "tagline": "No Evil Deed Goes Undone!",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0716701/",
-            "name": "Piero Regnoli"
+            "name": "Piero Regnoli",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0002086/",
-            "name": "Lucio Fulci"
+            "name": "Lucio Fulci",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0855193/",
-            "name": "Antonio Tentori"
+            "name": "Antonio Tentori",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H28M",
     "keywords": [
-        "baby killed",
-        "unhappy ending",
-        "bloody violence",
-        "grindhouse film",
-        "nun"
+        "nunsploitation"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0002086/",
-            "name": "Lucio Fulci"
+            "name": "Lucio Fulci",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0094997/",
     "metascore": null,
-    "imdb_votes": 2186,
+    "imdb_votes": 2462,
     "popularity": 0,
-    "description": "A Canadian archaeological team in Sicily accidentally unleashes vengeful ghosts of five demonic nuns who were murdered 500 years earlier, and the ghosts now set out to kill the group and townspeople alike.",
-    "imdb_rating": "4.6/10 from 2186 users",
-    "release_date": [],
-    "contentRating": "Unrated",
-    "datePublished": "2001-06-26",
-    "imdb_rating_average": 4.6,
-    "update_at": "2025-02-11T21:20:13"
+    "description": "Professor Malcolm Evans leads his archaeological expedition into the Valley of Temples in southeast Sicily.  His companion and former student, Liza Harris, is looking forward to her very first dig.  But Liza feels a strange sympathy with the valley and her recurring nightmares seem strongly tied to the nearby ruins.  She is drawn to the remains of a 16th Century convent and its grisly legend of crucifixion.  The local villagers rise to protect the entombed secrets of their ancestors, as Liza's obsession with uncovering the truth takes her deeper into the forbidden ruins and further from sanity!",
+    "imdb_rating": "4.7/10 from 2462 users",
+    "release_date": [
+        {
+            "date": "1990-10-01",
+            "country": "Italy"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1990-10-01",
+    "original_title": "Demonia",
+    "imdb_rating_average": 4.7,
+    "update_at": "2026-11-20T07:21:28"
 }

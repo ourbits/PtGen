@@ -4,61 +4,103 @@
     "name": "The Malory Secret",
     "site": "imdb",
     "year": "1951",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0058941/",
-            "name": "Penelope Bartley"
+            "name": "Penelope Bartley",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm7244534/",
-            "name": "Brenda Beith"
+            "name": "Brenda Beith",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1313078/",
-            "name": "Dennis Bowen"
+            "name": "Dennis Bowen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1625326/",
+            "name": "Anthony Cope",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0394449/",
+            "name": "Marie Hopps",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0486898/",
+            "name": "Robert Lankesheer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0504466/",
+            "name": "Jean Lester",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7244533/",
+            "name": "Jill Stuart",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0867576/",
+            "name": "Pauline Tooth",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Penelope Bartley",
+            "Brenda Beith",
+            "Dennis Bowen"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Gladys Mitchell",
+            "MacGregor Urquhart"
+        ],
+        "Runtime": [
+            "30 min"
+        ],
+        "Director": [
+            "Alan Bromly"
         ],
         "Release date": [
-            "April 10, 1951 (United Kingdom)"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Production company": [
-            "British Broadcasting Corporation (BBC)"
+            "1951"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0593367/",
-            "name": "Gladys Mitchell"
+            "name": "Gladys Mitchell",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0882042/",
-            "name": "MacGregor Urquhart"
+            "name": "MacGregor Urquhart",
+            "@type": "Person"
         }
     ],
     "duration": "PT30M",
-    "keywords": [
-        "manuscript",
-        "tudor mansion",
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0111357/",
-            "name": "Alan Bromly"
+            "name": "Alan Bromly",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1663683/",
@@ -69,7 +111,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1951-04-10",
+    "datePublished": "1951",
+    "original_title": "The Malory Secret",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-05T06:35:15"
+    "update_at": "2026-11-20T19:56:07"
 }

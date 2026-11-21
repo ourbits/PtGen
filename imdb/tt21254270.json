@@ -6,75 +6,140 @@
     "year": "2024",
     "@type": "Movie",
     "genre": [
+        "Drama",
         "Horror",
         "Western"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0765715/",
-            "name": "Al Snow"
+            "name": "Al Snow",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4323217/",
-            "name": "John Wells"
+            "name": "John Wells",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5866228/",
-            "name": "Darren Lee Cupp"
+            "name": "Darren Lee Cupp",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11192272/",
+            "name": "Samuel Wilson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm14629760/",
+            "name": "Charlee Carmicle",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm14216499/",
+            "name": "Melissa O. Bowen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm14577579/",
+            "name": "David Mahr",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2296255/",
+            "name": "Derek McMahan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm14564824/",
+            "name": "John Eric Lee Smith",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm13986417/",
+            "name": "Timothy Pogue",
+            "@type": "Person"
         }
     ],
-    "critic": 27,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmZkZGViNDUtZjU2Yi00MTk3LWEwNTEtNGRhOTRlNGU0ZTQyXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/hvH2TQCtI8XNvbAstBXmTGftNnP.jpg",
     "details": {
-        "Release date": [
-            "October 4, 2024 (United States)"
+        "Stars": [
+            "Al Snow",
+            "John Wells",
+            "Darren Lee Cupp"
         ],
-        "Official site": [
-            "Official Amazon Link - https://amzn.to/4eAV5Q9"
+        "Genres": [
+            "Drama",
+            "Horror",
+            "Western"
+        ],
+        "Writer": [
+            "Don Perrin",
+            "Whit Whitman"
+        ],
+        "Runtime": [
+            "103 min"
+        ],
+        "Director": [
+            "Whit Whitman"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Release date": [
+            "2024-10-08"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "517 Adkins Trail, Winfield, TN, USA"
+            "United States of America"
         ],
         "Production companies": [
-            "Little Monsters Entertainment",
-            "KMVoice",
             "School of Cinematic Arts"
         ]
     },
-    "reviews": 7,
+    "reviews": 0,
+    "tagline": "It takes a Bad Man to Kill Bad Things!",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm12376760/",
-            "name": "Don Perrin"
+            "name": "Don Perrin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4452606/",
-            "name": "Whit Whitman"
+            "name": "Whit Whitman",
+            "@type": "Person"
         }
     ],
-    "duration": "PT1H44M",
+    "duration": "PT1H43M",
     "keywords": [
-        "mission",
-        "past"
+        "vampire",
+        "werewolf",
+        "supernatural creature"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm4452606/",
-            "name": "Whit Whitman"
+            "name": "Whit Whitman",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt21254270/",
     "metascore": null,
-    "imdb_votes": 112,
+    "imdb_votes": 176,
     "popularity": 0,
     "description": "A gunslinger on a mission from God must track down supernatural creatures as penance for his past sins.",
-    "imdb_rating": "3.9/10 from 112 users",
-    "release_date": [],
-    "contentRating": "18+",
-    "datePublished": "2024-10-04",
-    "imdb_rating_average": 3.9,
-    "update_at": "2025-04-29T10:15:43"
+    "imdb_rating": "3.5/10 from 176 users",
+    "release_date": [
+        {
+            "date": "2024-10-08",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2024-10-08",
+    "original_title": "Unnatural",
+    "imdb_rating_average": 3.5,
+    "update_at": "2026-11-20T22:14:24"
 }

@@ -4,74 +4,115 @@
     "name": "The Barry Manilow Special",
     "site": "imdb",
     "year": "1977",
-    "@type": "Movie",
+    "@type": "TVSpecial",
     "genre": [
         "Music"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0005180/",
-            "name": "Barry Manilow"
+            "name": "Barry Manilow",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0126011/",
-            "name": "Debra Byrd"
+            "name": "Debra Byrd",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001508/",
-            "name": "Penny Marshall"
+            "name": "Penny Marshall",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0744276/",
+            "name": "Pamela Rossi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0263225/",
+            "name": "Smith Wordes",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/xowVTOwHafvnfBrQ0SgrLGQ0f0z.jpg",
     "details": {
+        "Stars": [
+            "Barry Manilow",
+            "Debra Byrd",
+            "Penny Marshall"
+        ],
+        "Genres": [
+            "Music"
+        ],
+        "Writer": [
+            "Steve Binder",
+            "Don Clark",
+            "Susan Clark"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Steve Binder"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 2, 1977 (United States)"
+            "1977-03-02"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
+        ],
+        "Production companies": [
+            "Australian Broadcasting Corporation"
         ]
     },
     "reviews": 0,
+    "tagline": "Barry Manilow's first Television Special  on ABC-TV.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0004596/",
-            "name": "Steve Binder"
+            "name": "Steve Binder",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1237054/",
-            "name": "Don Clark"
+            "name": "Don Clark",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0164541/",
-            "name": "Susan Clark"
+            "name": "Susan Clark",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H",
-    "keywords": [
-        "tv special",
-        "live performance",
-        "concert film",
-        "character name in title"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0004596/",
-            "name": "Steve Binder"
+            "name": "Steve Binder",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0331188/",
     "metascore": null,
     "imdb_votes": 40,
     "popularity": 0,
-    "description": "Barry Manilow&apos;s first television special is an hour of music and songs. He reminisces about his early days of performing a sings a number of commercial jingles he wrote. Penny Marshall is his guest,",
+    "description": "Join Barry \"live\" on-stage at Ravinia Music Festival in Chicago...and \"live\" on the streets of New York City with special guest star Penny Marshall. The special was broadcast to record-breaking ratings on ABC in 1977 when more than 34 million people tuned in to see Barry's first national TV showcase. At the 1977 Emmys, Manilow and the program won Outstanding Special - Comedy-Variety or Music.",
     "imdb_rating": "8.3/10 from 40 users",
-    "release_date": [],
-    "contentRating": null,
+    "release_date": [
+        {
+            "date": "1977-03-02",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "G",
     "datePublished": "1977-03-02",
+    "original_title": "The Barry Manilow Special",
     "imdb_rating_average": 8.3,
-    "update_at": "2025-08-26T10:07:17"
+    "update_at": "2026-11-20T02:56:31"
 }

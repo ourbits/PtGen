@@ -4,7 +4,7 @@
     "name": "Carla",
     "site": "imdb",
     "year": "2021",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Biography",
         "Music"
@@ -12,72 +12,139 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1616937/",
-            "name": "Alessandra Mastronardi"
+            "name": "Alessandra Mastronardi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5919429/",
-            "name": "Paola Calliari"
+            "name": "Paola Calliari",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5098965/",
-            "name": "Stefano Rossi Giordani"
+            "name": "Stefano Rossi Giordani",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7318929/",
+            "name": "Valentina Romani",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0706647/",
+            "name": "Pietro Ragusa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2152645/",
+            "name": "Paola Lavini",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2595482/",
+            "name": "Euridice Axen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0182904/",
+            "name": "Elena Cotta",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0599999/",
+            "name": "Maria Amelia Monti",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0492007/",
+            "name": "Lorenzo Lavia",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjg0YzdlZjgtMDAzNS00OWM3LTk5NjQtOGM1ZDBlYmYxNWY4XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/bLMjr9lLWBtMLhAzjQIoKmYhnxP.jpg",
     "details": {
+        "Stars": [
+            "Alessandra Mastronardi",
+            "Paola Calliari",
+            "Stefano Rossi Giordani"
+        ],
+        "Genres": [
+            "Biography",
+            "Music"
+        ],
+        "Writer": [
+            "Graziano Diana",
+            "Emanuele Imbucci",
+            "Chiara Laudani"
+        ],
+        "Runtime": [
+            "100 min"
+        ],
+        "Director": [
+            "Emanuele Imbucci"
+        ],
         "Language": [
             "Italian"
         ],
         "Release date": [
-            "December 14, 2021 (Australia)"
+            "2021-11-08"
         ],
         "Country of origin": [
             "Italy"
         ],
-        "Filming locations": [
-            "Rome, Lazio, Italy"
-        ],
-        "Production company": [
-            "Anele"
+        "Production companies": [
+            "Anele",
+            "Rai Fiction",
+            "RAI"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0224765/",
-            "name": "Graziano Diana"
+            "name": "Graziano Diana",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1189715/",
-            "name": "Emanuele Imbucci"
+            "name": "Emanuele Imbucci",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1195261/",
-            "name": "Chiara Laudani"
+            "name": "Chiara Laudani",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H40M",
     "keywords": [
-        "ballet",
-        "dance",
-        "dancer"
+        "biography",
+        "ballet"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1189715/",
-            "name": "Emanuele Imbucci"
+            "name": "Emanuele Imbucci",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt13886378/",
     "metascore": null,
-    "imdb_votes": 125,
+    "imdb_votes": 132,
     "popularity": 0,
-    "description": "The path of the acclaimed icon of Italian ballet, Carla Fracci, a woman who managed to overcome professional and human challenges, building a brilliant career and a family.",
-    "imdb_rating": "6.5/10 from 125 users",
-    "release_date": [],
+    "description": "The extraordinary life of Carla Fracci, the greatest Italian ballerina of all time, told from her first steps at the Accademia del Teatro alla Scala in Milan to the stages of the most prestigious international theaters, passing through the controversial choices, difficult sacrifices, and important satisfactions that marked her rise. Freely inspired by the autobiography “Passo dopo passo – La mia storia” (Step by Step – My Story).",
+    "imdb_rating": "6.5/10 from 132 users",
+    "release_date": [
+        {
+            "date": "2021-11-08",
+            "country": "Italy"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2021-12-14",
+    "datePublished": "2021-11-08",
+    "original_title": "Carla",
     "imdb_rating_average": 6.5,
-    "update_at": "2026-03-13T04:07:39"
+    "update_at": "2026-11-20T06:21:27"
 }

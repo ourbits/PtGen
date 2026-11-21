@@ -3,53 +3,77 @@
     "sid": "tt0094290",
     "name": "Wall",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1987",
+    "@type": "Short",
     "genre": [
-        "Short"
+        "Animation",
+        "Documentary",
+        "Music"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0411753/",
-            "name": "Takashi Itô"
+            "name": "Takashi Itô",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0913844/",
-            "name": "Naoko Watanabe"
+            "name": "Naoko Watanabe",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzAwMmZkOGYtMTdhOS00ZDI3LTg2NDEtNmIzZjE5MzE5ZTUzXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/ugTP1Y8qQtMTtvnMlnSMRGBzp5g.jpg",
     "details": {
-        "Language": [
-            "None"
+        "Stars": [
+            "Takashi Itô",
+            "Naoko Watanabe"
         ],
-        "Also known as": [
-            "WALL（1987）"
+        "Genres": [
+            "Animation",
+            "Documentary",
+            "Music"
+        ],
+        "Runtime": [
+            "7 min"
+        ],
+        "Director": [
+            "Takashi Itô"
+        ],
+        "Release date": [
+            "1987-04-28"
         ],
         "Country of origin": [
             "Japan"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": "PT7M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0411753/",
-            "name": "Takashi Itô"
+            "name": "Takashi Itô",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0094290/",
     "metascore": null,
-    "imdb_votes": 150,
+    "imdb_votes": 164,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "6.2/10 from 150 users",
-    "release_date": [],
+    "description": "\"The further developed and completed version of a 15-second advertisement for an interior design firm on which I had worked. It repeats over and over again the violent back-and-forth, half-revolving motions of a giant brick storehouse inside the frame of a hand-held photograph. I wanted to emphasis the flat nature of the photograph while creating a dynamic feeling of depth inside the photograph's frame.\" - Takashi Ito",
+    "imdb_rating": "6.3/10 from 164 users",
+    "release_date": [
+        {
+            "date": "1987-04-28",
+            "country": "Japan"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 6.2,
-    "update_at": "2026-05-18T14:07:33"
+    "datePublished": "1987-04-28",
+    "original_title": "Wall",
+    "imdb_rating_average": 6.3,
+    "update_at": "2026-11-20T04:56:06"
 }

@@ -4,71 +4,94 @@
     "name": "False True Love",
     "site": "imdb",
     "year": "2014",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Music"
+        "Music",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm5983993/",
-            "name": "Emily Sundblad"
+            "name": "Emily Sundblad",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0710447/",
-            "name": "James Ransone"
+            "name": "James Ransone",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2837902/",
-            "name": "Matt Sweeney"
+            "name": "Matt Sweeney",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10260256/",
+            "name": "Jeremy Rudd",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2Q2ODE1Y2ItOWU1MS00YWFmLTg5MWYtYWI4MTk5MmI5YTdmXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/ajIlgU2KQSLYwxuFK7IOWTCAWvt.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Emily Sundblad",
+            "James Ransone",
+            "Matt Sweeney"
+        ],
+        "Genres": [
+            "Music",
+            "Short"
+        ],
+        "Writer": [
+            "Mariko Munro"
+        ],
+        "Director": [
+            "David Andalman",
+            "Mariko Munro"
         ],
         "Release date": [
-            "May 3, 2014 (United States)"
-        ],
-        "Also known as": [
-            "Emily Sundblad: False True Love"
-        ],
-        "Country of origin": [
-            "United States"
+            "2014-05-03"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3658945/",
-            "name": "Mariko Munro"
+            "name": "Mariko Munro",
+            "@type": "Person"
         }
     ],
-    "duration": null,
-    "keywords": [
-        "music video"
-    ],
+    "duration": "PT4M",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1806012/",
-            "name": "David Andalman"
+            "name": "David Andalman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3658945/",
-            "name": "Mariko Munro"
+            "name": "Mariko Munro",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt3640106/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "&quot;False True Love&quot; is a music video for Emily Sundblad&apos;s song by the same name, performed with Matt Sweeney, and starring Sundblad, Sweeney, and James Ransone.",
+    "description": "\"False True Love\" is a music video for Emily Sundblad's song by the same name, performed with Matt Sweeney, and starring Sundblad, Sweeney, and James Ransone.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2014-05-03",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2014-05-03",
+    "original_title": "False True Love",
     "imdb_rating_average": 0,
-    "update_at": "2025-02-10T20:06:50"
+    "update_at": "2026-11-20T10:35:07"
 }

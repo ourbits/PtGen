@@ -4,63 +4,111 @@
     "name": "Strangers dans la nuit",
     "site": "imdb",
     "year": "1991",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0895759/",
-            "name": "Karin Viard"
+            "name": "Karin Viard",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0399576/",
-            "name": "Philippe Uchan"
+            "name": "Philippe Uchan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0039084/",
-            "name": "Laurence Ashley"
+            "name": "Laurence Ashley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0105317/",
+            "name": "Patrick Braoudé",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0478817/",
+            "name": "Franck de la Personne",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0309469/",
+            "name": "Gilles Gaston-Dreyfus",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0540880/",
+            "name": "Patricia Malvoisin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0432255/",
+            "name": "André Julien",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0345759/",
+            "name": "Richard Guedj",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0109762/",
+            "name": "Sacha Briquet",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWUwYzRlYzktM2M4Yi00NGVmLWE2MWEtODIwNGE2MzEyZTkzXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Karin Viard",
+            "Philippe Uchan",
+            "Laurence Ashley"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Marcel Gotlib",
+            "Gérard Krawczyk"
+        ],
+        "Runtime": [
+            "78 min"
+        ],
+        "Director": [
+            "Sylvain Madigan"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "October 8, 1991 (France)"
-        ],
-        "Country of origin": [
-            "France"
-        ],
-        "Production companies": [
-            "Antenne 2 (A2)",
-            "FR3 Marseille",
-            "Les Films du Sabre"
+            "1991-10-08"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0331809/",
-            "name": "Marcel Gotlib"
+            "name": "Marcel Gotlib",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0470443/",
-            "name": "Gérard Krawczyk"
+            "name": "Gérard Krawczyk",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H18M",
-    "keywords": [
-        "female guardian angel",
-        "guardian angel",
-        "angel of death"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0534919/",
-            "name": "Sylvain Madigan"
+            "name": "Sylvain Madigan",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0360034/",
@@ -69,9 +117,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1991-10-08",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1991-10-08",
+    "original_title": "Strangers dans la nuit",
     "imdb_rating_average": 0,
-    "update_at": "2026-01-29T18:21:36"
+    "update_at": "2026-11-20T12:49:29"
 }

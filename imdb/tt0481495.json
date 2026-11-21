@@ -3,70 +3,103 @@
     "sid": "tt0481495",
     "name": "Cooked",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2005",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0002936/",
-            "name": "Kristina Anapau"
+            "name": "Kristina Anapau",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0176981/",
-            "name": "Dane Cook"
+            "name": "Dane Cook",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1784439/",
-            "name": "Keeshan Giles"
+            "name": "Keeshan Giles",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0601376/",
+            "name": "Joel David Moore",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0866212/",
+            "name": "Amy Tolsky",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0890808/",
+            "name": "Liz Vassey",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmY3MDkzY2EtMmNlYy00NDExLWE4ZDgtNGU1YmMyZTEyYmI5XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Kristina Anapau",
+            "Dane Cook",
+            "Keeshan Giles"
         ],
-        "Country of origin": [
-            "United States"
+        "Genres": [
+            "Comedy"
         ],
-        "Filming locations": [
-            "Los Angeles, California, USA"
+        "Writer": [
+            "Dane Cook",
+            "Jay Kogen"
         ],
-        "Production company": [
-            "Sony Pictures Television"
+        "Director": [
+            "David Steinberg"
+        ],
+        "Release date": [
+            "2005-01-01"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0176981/",
-            "name": "Dane Cook"
+            "name": "Dane Cook",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0463124/",
-            "name": "Jay Kogen"
+            "name": "Jay Kogen",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0825731/",
-            "name": "David Steinberg"
+            "name": "David Steinberg",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0481495/",
     "metascore": null,
-    "imdb_votes": 173,
+    "imdb_votes": 165,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "3.5/10 from 173 users",
-    "release_date": [],
+    "description": "Dane Cook's unproduced television series \"Cooked\" consists of two different pilot episodes that were never aired. The disc features the popular comedian in two hilarious but unaired television pilots. In the first pilot, Cook stars as a comedian just cast in a sitcom; in the second, he plays a slacker who drags his pals through unusual adventures.",
+    "imdb_rating": "3.7/10 from 165 users",
+    "release_date": [
+        {
+            "date": "2005-01-01",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 3.5,
-    "update_at": "2025-09-21T12:00:35"
+    "datePublished": "2005-01-01",
+    "original_title": "Cooked",
+    "imdb_rating_average": 3.7,
+    "update_at": "2026-11-20T21:07:14"
 }

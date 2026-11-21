@@ -4,62 +4,132 @@
     "name": "Heat",
     "site": "imdb",
     "year": "2015",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1184283/",
-            "name": "Akira"
+            "name": "Akira",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0475752/",
-            "name": "Chiaki Kuriyama"
+            "name": "Chiaki Kuriyama",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1518076/",
-            "name": "Ryûta Satô"
+            "name": "Ryûta Satô",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0408346/",
+            "name": "Gorô Inagaki",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1851637/",
+            "name": "Kei Tanaka",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4206125/",
+            "name": "Nanao",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5283536/",
+            "name": "Asuka Kudô",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4760665/",
+            "name": "Nobuyuki Suzuki",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4877001/",
+            "name": "Ryô Yoshizawa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4084911/",
+            "name": "Takuya Ide",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmRjM2FhNjEtMTExNy00NDY2LWI5MWYtMTdkOThhOTI2MmYxXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "Japanese"
+        "Stars": [
+            "Akira",
+            "Chiaki Kuriyama",
+            "Ryûta Satô"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Takehiko Hata",
+            "Fumi Tsubota",
+            "Kentarô Ushio"
+        ],
+        "Runtime": [
+            "54 min"
+        ],
+        "Director": [
+            "Yoshinori Kobayashi",
+            "Genta Satô"
         ],
         "Release date": [
-            "July 7, 2015 (Japan)"
-        ],
-        "Official site": [
-            "Official Site (Japan) - http://www.ktv.jp/heat/"
-        ],
-        "Country of origin": [
-            "Japan"
-        ],
-        "Production companies": [
-            "Kansai Telecasting (KTV)",
-            "Kyodo Television"
+            "2015"
         ]
     },
-    "reviews": 1,
-    "creators": [],
-    "duration": null,
-    "keywords": [
-        "japanese drama",
-        "volunteer fire department",
-        "volunteer fire fighters",
-        "tv mini series"
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm2275129/",
+            "name": "Takehiko Hata",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5294339/",
+            "name": "Fumi Tsubota",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2157069/",
+            "name": "Kentarô Ushio",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT54M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm2464576/",
+            "name": "Yoshinori Kobayashi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3558079/",
+            "name": "Genta Satô",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt4697080/",
     "metascore": null,
-    "imdb_votes": 9,
+    "imdb_votes": 11,
     "popularity": 0,
-    "description": "An ambitious real estate employee, Tatsuya Ikegami, joins the volunteer fire department in order to do research for his urban development project. He hides his true identity and doesn&apos;t get along well with others.",
-    "imdb_rating": "7/10 from 9 users",
+    "description": null,
+    "imdb_rating": "6.1/10 from 11 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2015-07-07",
-    "imdb_rating_average": 7,
-    "update_at": "2025-03-25T03:08:02"
+    "datePublished": "2015",
+    "original_title": "Heat",
+    "imdb_rating_average": 6.1,
+    "update_at": "2026-11-20T12:35:28"
 }

@@ -4,59 +4,89 @@
     "name": "A Buck Ten",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0876003/",
-            "name": "Sean Tucker"
+            "name": "Sean Tucker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1393956/",
-            "name": "Claudia Jurt"
+            "name": "Claudia Jurt",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1319215/",
-            "name": "Meghanne Kessels"
+            "name": "Meghanne Kessels",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2056275/",
+            "name": "Sheila Veenstra",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1632625/",
+            "name": "Stephanie Halin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1108797/",
+            "name": "Sally Clelford",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2056714/",
+            "name": "Roxy Jurt",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Sean Tucker",
+            "Claudia Jurt",
+            "Meghanne Kessels"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Peter Jurt"
+        ],
+        "Runtime": [
+            "6 min"
+        ],
+        "Director": [
+            "Claudia Jurt"
         ],
         "Release date": [
-            "September 16, 2005 (Canada)"
-        ],
-        "Country of origin": [
-            "Canada"
-        ],
-        "Filming locations": [
-            "Ottawa, Ontario, Canada"
-        ],
-        "Production company": [
-            "All or Nothing Productions"
+            "2005"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1919236/",
-            "name": "Peter Jurt"
+            "name": "Peter Jurt",
+            "@type": "Person"
         }
     ],
     "duration": "PT6M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1393956/",
-            "name": "Claudia Jurt"
+            "name": "Claudia Jurt",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0481935/",
@@ -67,7 +97,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2005-09-16",
+    "datePublished": "2005",
+    "original_title": "A Buck Ten",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-23T22:26:10"
+    "update_at": "2026-11-20T13:35:20"
 }

@@ -4,7 +4,7 @@
     "name": "Arctic Warriors",
     "site": "imdb",
     "year": "1989",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Action",
         "Adventure"
@@ -12,60 +12,99 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0416761/",
-            "name": "Michael James"
+            "name": "Michael James",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1711830/",
-            "name": "Thomas Striker"
+            "name": "Thomas Striker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0545638/",
-            "name": "Ronald L. Marchini"
+            "name": "Ronald L. Marchini",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0752591/",
+            "name": "James Ryan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0564392/",
+            "name": "Elaina McBroom",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1747718/",
+            "name": "Cvijetin Kovacevic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0026896/",
+            "name": "Jerry Anderson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0132821/",
+            "name": "Ron Campbell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0151822/",
+            "name": "Stephen Chang",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0203975/",
+            "name": "Sian Leisa Davies",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTBmM2QzOWQtYWE1ZC00MzM1LThhOTgtYWQwMTU1YTliNjYyXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Michael James",
+            "Thomas Striker",
+            "Ronald L. Marchini"
+        ],
+        "Genres": [
+            "Action",
+            "Adventure"
+        ],
+        "Writer": [
+            "Jim Brown"
+        ],
+        "Runtime": [
+            "78 min"
         ],
         "Release date": [
-            "August 18, 1989 (United Kingdom)"
-        ],
-        "Countries of origin": [
-            "United Kingdom",
-            "United States"
-        ],
-        "Production companies": [
-            "ECM Productions",
-            "International Media Exchange",
-            "A-S Panorama International Films Inc."
+            "1989"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0113846/",
-            "name": "Jim Brown"
+            "name": "Jim Brown",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H18M",
-    "keywords": [
-        "snow adventure",
-        "karate chop",
-        "karate kick",
-        "karate",
-        "martial arts"
-    ],
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt0167002/",
     "metascore": null,
-    "imdb_votes": 20,
+    "imdb_votes": 16,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "5.7/10 from 20 users",
+    "imdb_rating": "5.3/10 from 16 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1989-08-18",
-    "imdb_rating_average": 5.7,
-    "update_at": "2025-07-12T03:08:08"
+    "datePublished": "1989",
+    "original_title": "Arctic Warriors",
+    "imdb_rating_average": 5.3,
+    "update_at": "2026-11-21T01:49:26"
 }

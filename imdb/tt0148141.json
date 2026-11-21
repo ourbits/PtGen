@@ -4,68 +4,107 @@
     "name": "Fish Hooked",
     "site": "imdb",
     "year": "1960",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Family",
         "Animation",
-        "Short"
+        "Comedy",
+        "Family"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0124889/",
-            "name": "Daws Butler"
+            "name": "Daws Butler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0124889/",
+            "name": "Daws Butler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0124889/",
+            "name": "Daws Butler",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTU3M2RlN2ItMGUwZi00YjY3LWJjNDAtNGYwZTc1MTE2MzMzXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/zODVhqS3ivaalY9m6psGVtWQi7s.jpg",
     "details": {
+        "Stars": [
+            "Daws Butler",
+            "Daws Butler",
+            "Daws Butler"
+        ],
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "Writer": [
+            "Homer Brightman"
+        ],
+        "Runtime": [
+            "6 min"
+        ],
+        "Director": [
+            "Paul J. Smith",
+            "Alex Lovy"
+        ],
         "Language": [
-            "English"
+            "English",
+            "Russian"
         ],
         "Release date": [
-            "September 7, 1960 (United States)"
+            "1960-09-06"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Walter Lantz Productions"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0109205/",
-            "name": "Homer Brightman"
+            "name": "Homer Brightman",
+            "@type": "Person"
         }
     ],
     "duration": "PT6M",
     "keywords": [
-        "pufferfish",
-        "duel",
-        "swordfish",
-        "sardines",
-        "pool"
+        "chilly willy",
+        "чилли вилли"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0006761/",
-            "name": "Paul J. Smith"
+            "name": "Paul J. Smith",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0522772/",
-            "name": "Alex Lovy"
+            "name": "Alex Lovy",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0148141/",
     "metascore": null,
-    "imdb_votes": 62,
+    "imdb_votes": 68,
     "popularity": 0,
-    "description": "Smedley tries to stop Chilly Willy from catching and eating the fish at Oceanland Aquarium.",
-    "imdb_rating": "5.6/10 from 62 users",
-    "release_date": [],
-    "contentRating": "Approved",
-    "datePublished": "1960-09-07",
-    "imdb_rating_average": 5.6,
-    "update_at": "2025-09-12T13:42:07"
+    "description": "Chilly's nemesis as usual is Smedley who's a worker at the aquarium where the penguin is catching fish. Smedley tells him he's not allowed to do that but of course Chilly just does what he wants to which leads to another chase between him, Smedley, and a porpoise Smedley feeds.",
+    "imdb_rating": "5.8/10 from 68 users",
+    "release_date": [
+        {
+            "date": "1960-09-06",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1960-09-06",
+    "original_title": "Fish Hooked",
+    "imdb_rating_average": 5.8,
+    "update_at": "2026-11-20T20:21:10"
 }

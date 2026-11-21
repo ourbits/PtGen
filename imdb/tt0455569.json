@@ -4,7 +4,7 @@
     "name": "Jerry V. Death",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Comedy",
         "Short"
@@ -12,69 +12,85 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0533976/",
-            "name": "Patrick Macmanus"
+            "name": "Patrick Macmanus",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0894725/",
-            "name": "Thom Vernon"
+            "name": "Thom Vernon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1189243/",
-            "name": "Jon Emm"
+            "name": "Jon Emm",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Patrick Macmanus",
+            "Thom Vernon",
+            "Jon Emm"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Adam Montierth",
+            "Marcos Efron",
+            "Donovan Montierth"
+        ],
+        "Runtime": [
+            "14 min"
+        ],
+        "Director": [
+            "Marcos Efron"
         ],
         "Release date": [
-            "April 8, 2005 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production companies": [
-            "Relativity Media",
-            "Madrik Multimedia",
-            "Paisley Lane Films"
+            "2005"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1515548/",
-            "name": "Adam Montierth"
+            "name": "Adam Montierth",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1259604/",
-            "name": "Marcos Efron"
+            "name": "Marcos Efron",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1515549/",
-            "name": "Donovan Montierth"
+            "name": "Donovan Montierth",
+            "@type": "Person"
         }
     ],
     "duration": "PT14M",
-    "keywords": [
-        "character name in title"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1259604/",
-            "name": "Marcos Efron"
+            "name": "Marcos Efron",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0455569/",
     "metascore": null,
-    "imdb_votes": 10,
+    "imdb_votes": 11,
     "popularity": 0,
-    "description": "A quiet evening of watching television takes a surreal turn when unexpected visitors pay Jerry Williams a late night call. Hilarious and altogether absurd, JERRY v. DEATH reminds us all to chew before we swallow.",
-    "imdb_rating": "5.7/10 from 10 users",
+    "description": null,
+    "imdb_rating": "6.2/10 from 11 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2005-04-08",
-    "imdb_rating_average": 5.7,
-    "update_at": "2025-05-08T09:08:23"
+    "datePublished": "2005",
+    "original_title": "Jerry V. Death",
+    "imdb_rating_average": 6.2,
+    "update_at": "2026-11-20T07:21:28"
 }

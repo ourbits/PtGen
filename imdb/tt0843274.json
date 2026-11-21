@@ -3,75 +3,99 @@
     "sid": "tt0843274",
     "name": "Gzajvaredini",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1991",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0632457/",
-            "name": "Merab Ninidze"
+            "name": "Merab Ninidze",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0850473/",
-            "name": "Nino Tarkhan-Mouravi"
+            "name": "Nino Tarkhan-Mouravi",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/sCJSl2FXPExRmrTVZwJfv8hzPZj.jpg",
     "details": {
-        "Languages": [
-            "Georgian",
-            "Russian"
+        "Stars": [
+            "Merab Ninidze",
+            "Nino Tarkhan-Mouravi"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Erlom Akhvlediani",
+            "Kote Djandieri",
+            "Levan Kitia"
+        ],
+        "Runtime": [
+            "35 min"
+        ],
+        "Director": [
+            "Levan Kitia"
+        ],
+        "Language": [
+            "Georgian"
         ],
         "Release date": [
-            "March 1991 (Soviet Union)"
-        ],
-        "Also known as": [
-            "Перекрёсток"
+            "1991-08-01"
         ],
         "Country of origin": [
             "Soviet Union"
-        ],
-        "Production company": [
-            "Georgian-Film"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0015303/",
-            "name": "Erlom Akhvlediani"
+            "name": "Erlom Akhvlediani",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0229100/",
-            "name": "Kote Djandieri"
+            "name": "Kote Djandieri",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0457707/",
-            "name": "Levan Kitia"
+            "name": "Levan Kitia",
+            "@type": "Person"
         }
     ],
     "duration": "PT35M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0457707/",
-            "name": "Levan Kitia"
+            "name": "Levan Kitia",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0843274/",
     "metascore": null,
-    "imdb_votes": 7,
+    "imdb_votes": 10,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.2/10 from 7 users",
-    "release_date": [],
+    "description": "Georgian Movie Directed By Levan Kitia In 1991.",
+    "imdb_rating": "6.8/10 from 10 users",
+    "release_date": [
+        {
+            "date": "1991-08-01",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 7.2,
-    "update_at": "2025-06-18T00:52:27"
+    "datePublished": "1991-08-01",
+    "original_title": "Gzajvaredini",
+    "imdb_rating_average": 6.8,
+    "update_at": "2026-11-21T00:35:20"
 }

@@ -3,52 +3,65 @@
     "sid": "tt15121798",
     "name": "21M²",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2021",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm10267647/",
-            "name": "Pauline Sakellaridis"
+            "name": "Pauline Sakellaridis",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4575317/",
-            "name": "Antoine Plaisant"
+            "name": "Antoine Plaisant",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm12073014/",
-            "name": "Eugénie Martin"
+            "name": "Eugénie Martin",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODE1ZTk1YzEtNGIwYy00MzIwLThjNTMtYjdlM2EwMDllOGE2XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Pauline Sakellaridis",
+            "Antoine Plaisant",
+            "Eugénie Martin"
         ],
-        "Country of origin": [
-            "Belgium"
+        "Genres": [
+            "Short"
         ],
-        "Production company": [
-            "ESRA Bruxelles"
+        "Writer": [
+            "Arthur Lafère"
+        ],
+        "Director": [
+            "Arthur Lafère"
+        ],
+        "Release date": [
+            "2021"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm9576049/",
-            "name": "Arthur Lafère"
+            "name": "Arthur Lafère",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm9576049/",
-            "name": "Arthur Lafère"
+            "name": "Arthur Lafère",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt15121798/",
@@ -59,7 +72,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2021",
+    "original_title": "21M²",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-05T16:00:16"
+    "update_at": "2026-11-20T16:49:26"
 }

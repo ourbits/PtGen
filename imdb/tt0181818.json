@@ -4,79 +4,138 @@
     "name": "Single Bells",
     "site": "imdb",
     "year": "1997",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0311476/",
-            "name": "Martina Gedeck"
+            "name": "Martina Gedeck",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0465323/",
-            "name": "Inge Konradi"
+            "name": "Inge Konradi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0902560/",
-            "name": "Johanna von Koczian"
+            "name": "Johanna von Koczian",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0781498/",
+            "name": "Mona Seefried",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0826071/",
+            "name": "Erwin Steinhauer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0088798/",
+            "name": "Gregor Bloéb",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0353939/",
+            "name": "Mariella Hahn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0080000/",
+            "name": "Tom Thurgar",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0681618/",
+            "name": "Adelheid Picha",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0218589/",
+            "name": "Barbara Demmer",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTIxOTg3NTE5NF5BMl5BanBnXkFtZTcwODcwMjUxMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/9AE0k1bDwFrp8k1Xcp6FvCSq2Jo.jpg",
     "details": {
+        "Stars": [
+            "Martina Gedeck",
+            "Inge Konradi",
+            "Johanna von Koczian"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Ulrike Schwarzenberger"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Xaver Schwarzenberger"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "December 20, 1997 (Austria)"
+            "1997-12-20"
         ],
-        "Also known as": [
-            "Рождественские колокола"
-        ],
-        "Filming locations": [
-            "Mariazell, Steiermark, Austria"
-        ],
-        "Countries of origin": [
+        "Country of origin": [
             "Germany",
             "Austria"
         ],
         "Production companies": [
-            "Bayerischer Rundfunk (BR)",
-            "TeamFilm Produktion",
-            "Österreichischer Rundfunk (ORF)"
+            "ORF",
+            "BR",
+            "Teamfilm Produktion",
+            "Telepool"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0777688/",
-            "name": "Ulrike Schwarzenberger"
+            "name": "Ulrike Schwarzenberger",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
     "keywords": [
-        "parody comedy",
-        "christmas",
-        "overalls",
-        "sister sister relationship",
-        "son in law"
+        "christmas"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0005866/",
-            "name": "Xaver Schwarzenberger"
+            "name": "Xaver Schwarzenberger",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0181818/",
     "metascore": null,
-    "imdb_votes": 834,
+    "imdb_votes": 929,
     "popularity": 0,
-    "description": "Kati a successful advertising manager, dreams of a family with Jonas, who has been her boyfriend for eight years. As he doesn&apos;t like the plan at all, they start an argument. Kati finally decides to go to her sister Luise for Chris...",
-    "imdb_rating": "7.1/10 from 834 users",
-    "release_date": [],
+    "description": "Kati, successful advertising manager, dreams of a family with Jonas, who has been her boyfriend since eight years. As he doesn't like the plan at all, they start an argument. Kati finally decides to go to her sister Luise on Christmas instead of flying to Mauritius with Jonas. This turns out to be a bad idea because she isn't the only guest Luise's family has to bear... Kati, successful advertising manager, dreams of a family with Jonas, who has been her boyfriend since eight years. As he doesn't like the plan at all, they start an argument. Kati finally decides to go to her sister Luise on Christmas instead of flying to Mauritius with Jonas. This turns out to be a bad idea because she isn't the only guest Luise's family has to bear...",
+    "imdb_rating": "7.1/10 from 929 users",
+    "release_date": [
+        {
+            "date": "1997-12-20",
+            "country": "Austria"
+        },
+        {
+            "date": "1998-12-22",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1997-12-20",
+    "original_title": "Single Bells",
     "imdb_rating_average": 7.1,
-    "update_at": "2025-05-21T05:00:51"
+    "update_at": "2026-11-20T02:42:39"
 }

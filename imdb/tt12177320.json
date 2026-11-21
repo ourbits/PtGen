@@ -4,7 +4,7 @@
     "name": "A Place to Stay",
     "site": "imdb",
     "year": "2020",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short",
         "Thriller"
@@ -12,57 +12,61 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0080282/",
-            "name": "Bhasker Patel"
+            "name": "Bhasker Patel",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDY2YWM3MjYtODIwYy00NzgxLThkNGMtYTFmMTQ0NjVlY2FjXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Bhasker Patel"
+        ],
+        "Genres": [
+            "Short",
+            "Thriller"
+        ],
+        "Writer": [
+            "Asham Kamboj"
+        ],
+        "Runtime": [
+            "8 min"
+        ],
+        "Director": [
+            "Asham Kamboj"
         ],
         "Release date": [
-            "January 1, 2020 (United Kingdom)"
-        ],
-        "Official site": [
-            "Company Website - http://www.resource-productions.co.uk/"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Filming locations": [
-            "Langley, Slough, England, UK"
-        ],
-        "Production company": [
-            "Resource Productions"
+            "2020"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1636690/",
-            "name": "Asham Kamboj"
+            "name": "Asham Kamboj",
+            "@type": "Person"
         }
     ],
     "duration": "PT8M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1636690/",
-            "name": "Asham Kamboj"
+            "name": "Asham Kamboj",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt12177320/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "A man rents a room for a few days, however the apartment is not so welcoming to new tenants.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2020-01-01",
+    "datePublished": "2020",
+    "original_title": "A Place to Stay",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-10T01:35:11"
+    "update_at": "2026-11-20T23:56:19"
 }

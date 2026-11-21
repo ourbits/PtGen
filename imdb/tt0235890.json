@@ -3,54 +3,69 @@
     "sid": "tt0235890",
     "name": "Woyzeck",
     "site": "imdb",
+    "year": "1973",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0684838/",
-            "name": "Antonio Piovanelli"
+            "name": "Antonio Piovanelli",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0070697/",
-            "name": "Francesca Benedetti"
+            "name": "Francesca Benedetti",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Italian"
+        "Stars": [
+            "Antonio Piovanelli",
+            "Francesca Benedetti"
         ],
-        "Country of origin": [
-            "Italy"
+        "Writer": [
+            "Sergio Bazzini",
+            "Georg Büchner",
+            "Giancarlo Cobelli"
         ],
-        "Production company": [
-            "RAI Radiotelevisione Italiana"
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Giancarlo Cobelli"
+        ],
+        "Release date": [
+            "1973"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0063376/",
-            "name": "Sergio Bazzini"
+            "name": "Sergio Bazzini",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0127253/",
-            "name": "Georg Büchner"
+            "name": "Georg Büchner",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0167866/",
-            "name": "Giancarlo Cobelli"
+            "name": "Giancarlo Cobelli",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        "based on play"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0167866/",
-            "name": "Giancarlo Cobelli"
+            "name": "Giancarlo Cobelli",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0235890/",
@@ -61,7 +76,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1973",
+    "original_title": "Woyzeck",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-21T19:07:31"
+    "update_at": "2026-11-20T05:28:17"
 }

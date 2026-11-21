@@ -4,7 +4,7 @@
     "name": "Hiroshima: Out of the Ashes",
     "site": "imdb",
     "year": "1990",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "History",
@@ -13,67 +13,127 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001884/",
-            "name": "Max von Sydow"
+            "name": "Max von Sydow",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000555/",
-            "name": "Judd Nelson"
+            "name": "Judd Nelson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0538683/",
-            "name": "Mako"
+            "name": "Mako",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000674/",
+            "name": "Tamlyn Tomita",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0003986/",
+            "name": "Stan Egi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0875471/",
+            "name": "Brady Tsurutani",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0793634/",
+            "name": "Sab Shimono",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0395949/",
+            "name": "Shizuko Hoshi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0942221/",
+            "name": "Ben Wright",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001552/",
+            "name": "Pat Morita",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODE2YjNlZDEtMDhjYS00ZTUyLWIxNTAtNWVkOTBlOTIwOTRiXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/paxmlgHQWnVkVlIVoYQDZwRLtT8.jpg",
     "details": {
-        "Languages": [
-            "English",
-            "Latin"
+        "Stars": [
+            "Max von Sydow",
+            "Judd Nelson",
+            "Mako"
+        ],
+        "Genres": [
+            "Drama",
+            "History",
+            "War"
+        ],
+        "Writer": [
+            "John McGreevey"
+        ],
+        "Runtime": [
+            "100 min"
+        ],
+        "Director": [
+            "Peter Werner"
+        ],
+        "Language": [
+            "English"
         ],
         "Release date": [
-            "August 6, 1990 (United States)"
-        ],
-        "Also known as": [
-            "Brennende Erde"
+            "1990-08-06"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Robert Greenwald Productions"
         ]
     },
-    "reviews": 12,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0569950/",
-            "name": "John McGreevey"
+            "name": "John McGreevey",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H40M",
-    "keywords": [
-        "cigarette smoking",
-        "f word",
-        "hiroshima japan",
-        "wound",
-        "family relationships"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0921464/",
-            "name": "Peter Werner"
+            "name": "Peter Werner",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0099772/",
     "metascore": null,
-    "imdb_votes": 498,
+    "imdb_votes": 537,
     "popularity": 0,
-    "description": "Life in Hiroshima, following different Japanese, a German priest and church, and some American POWs, before and after the atomic bomb was dropped August 6, 1945.",
-    "imdb_rating": "6.1/10 from 498 users",
-    "release_date": [],
-    "contentRating": "PG-13",
+    "description": "The movie follows the perspective of several characters (such as Japanese victims, soldiers, American prisoners of war and others) and how they lived or tried to survive the effects felt during the aftermath of the Atomic Bomb dropping by the Enola Gay at Hiroshima, during World War II.",
+    "imdb_rating": "6.1/10 from 537 users",
+    "release_date": [
+        {
+            "date": "2004-10-24",
+            "country": "Norway"
+        },
+        {
+            "date": "1990-08-06",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1990-08-06",
+    "original_title": "Hiroshima: Out of the Ashes",
     "imdb_rating_average": 6.1,
-    "update_at": "2025-07-30T12:56:14"
+    "update_at": "2026-11-20T10:35:06"
 }

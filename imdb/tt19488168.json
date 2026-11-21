@@ -4,37 +4,87 @@
     "name": "Ziti",
     "site": "imdb",
     "year": "2022",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm11448641/",
+            "name": "Danilo Arena",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm13563432/",
+            "name": "Claudio Vasile",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGZjNzAwOWQtYjAwMS00ODYxLWE4MTEtYmFhMDNkYjI1ZmFkXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/qQvhU77gTmFYXTyVfmI9W4YoK2j.jpg",
     "details": {
+        "Stars": [
+            "Danilo Arena",
+            "Claudio Vasile"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Rocco Buonvino",
+            "Emanuele Pisano",
+            "Olimpia Sales"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Rocco Buonvino"
+        ],
         "Language": [
             "Italian"
         ],
         "Release date": [
-            "June 25, 2022 (Italy)"
-        ],
-        "Official site": [
-            "Official Site Distribution - https://pathosdistribution.com/ziti/"
+            "2022-06-25"
         ],
         "Country of origin": [
             "Italy"
         ],
         "Production companies": [
             "Fanusa Film",
-            "Gradiva Film",
-            "Pathos"
+            "Gradiva Films",
+            "Pathos Pictures"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm11002486/",
+            "name": "Rocco Buonvino",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4252974/",
+            "name": "Emanuele Pisano",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10549346/",
+            "name": "Olimpia Sales",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT15M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm11002486/",
+            "name": "Rocco Buonvino",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt19488168/",
     "metascore": null,
@@ -42,9 +92,15 @@
     "popularity": 0,
     "description": "A boy is waiting for his boyfriend at home but, when he arrives, he runs to lock yourself in your room, without giving explanations.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2022-06-25",
+            "country": "Italy"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2022-06-25",
+    "original_title": "Ziti",
     "imdb_rating_average": 0,
-    "update_at": "2025-12-05T15:00:24"
+    "update_at": "2026-11-20T02:14:05"
 }

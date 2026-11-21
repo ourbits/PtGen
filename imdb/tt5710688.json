@@ -6,77 +6,140 @@
     "year": "2017",
     "@type": "Movie",
     "genre": [
-        "Documentary",
         "Biography",
-        "Comedy"
+        "Comedy",
+        "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0547300/",
-            "name": "Rose Marie"
+            "name": "Rose Marie",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0551102/",
-            "name": "Peter Marshall"
+            "name": "Peter Marshall",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0005348/",
-            "name": "Carl Reiner"
+            "name": "Carl Reiner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001813/",
+            "name": "Dick Van Dyke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1363595/",
+            "name": "Dan Harmon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0176792/",
+            "name": "Tim Conway",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11019787/",
+            "name": "Georgiana Guy Rodrigues",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0788623/",
+            "name": "Ruth Shapiro",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0677032/",
+            "name": "Bill Peterson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2055346/",
+            "name": "Allen Sviridoff",
+            "@type": "Person"
         }
     ],
-    "critic": 14,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDhlOTg5MzUtMGI4MS00MjAwLTlkYjItYWFjYmIzZjQxMGYzXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/gHDgahq7h3kKwf2YKoCMjmg04r7.jpg",
     "details": {
+        "Stars": [
+            "Rose Marie",
+            "Peter Marshall",
+            "Carl Reiner"
+        ],
+        "Genres": [
+            "Biography",
+            "Comedy",
+            "Documentary"
+        ],
+        "Writer": [
+            "Christina Wise",
+            "Jason Wise"
+        ],
+        "Runtime": [
+            "85 min"
+        ],
+        "Director": [
+            "Jason Wise"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 2, 2017 (United States)"
-        ],
-        "Also known as": [
-            "Rose Marie"
-        ],
-        "Official site": [
-            "Official site - http://www.rosemariemovie.com/"
+            "2017-11-10"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Production company": [
+        "Production companies": [
             "Forgotten Man Films"
         ]
     },
-    "reviews": 19,
+    "reviews": 0,
+    "tagline": "The longest career in showbiz history",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm7512407/",
-            "name": "Christina Wise"
+            "name": "Christina Wise",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1852117/",
-            "name": "Jason Wise"
+            "name": "Jason Wise",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H25M",
     "keywords": [
-        "laughter",
-        "reference to morey amsterdam"
+        "show business",
+        "biography",
+        "profile"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1852117/",
-            "name": "Jason Wise"
+            "name": "Jason Wise",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt5710688/",
-    "metascore": 70,
-    "imdb_votes": 625,
+    "metascore": null,
+    "imdb_votes": 667,
     "popularity": 0,
-    "description": "Rose Marie, the untold story of fame, love, tragedy and 90 years of American entertainment through the eyes of the woman who did it all.",
-    "imdb_rating": "8.2/10 from 625 users",
-    "release_date": [],
+    "description": "The life and career of comedian Rose Marie is documented through interviews with friends and colleagues as well as never-before-seen home movies shot by the actress herself.",
+    "imdb_rating": "8.2/10 from 667 users",
+    "release_date": [
+        {
+            "date": "2017-10-05",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2017-11-02",
+    "datePublished": "2017-11-10",
+    "original_title": "Wait for Your Laugh",
     "imdb_rating_average": 8.2,
-    "update_at": "2025-05-25T07:57:07"
+    "update_at": "2026-11-20T03:42:16"
 }

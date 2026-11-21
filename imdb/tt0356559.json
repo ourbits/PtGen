@@ -4,77 +4,128 @@
     "name": "Drôle de genre",
     "site": "imdb",
     "year": "2003",
-    "@type": "Movie",
+    "@type": "TVEpisode",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0814718/",
-            "name": "Agnès Soral"
+            "name": "Agnès Soral",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0320762/",
-            "name": "Hippolyte Girardot"
+            "name": "Hippolyte Girardot",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0664388/",
-            "name": "Isabelle Pasco"
+            "name": "Isabelle Pasco",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0815847/",
+            "name": "Yannick Soulier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0536230/",
+            "name": "Cécile Magnet",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0851731/",
+            "name": "Nils Tavernier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0186569/",
+            "name": "Dani",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0094445/",
+            "name": "Pascal Bongard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0304828/",
+            "name": "Leslie Rain",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0957499/",
+            "name": "France Zobda",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmNkY2NlY2QtNTkwMC00ZTllLTg3NTEtZTFkZTc2ZDkwYTBkXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/tdGRkLixGoEbw48GOjaexPx1Ewe.jpg",
     "details": {
+        "Stars": [
+            "Agnès Soral",
+            "Hippolyte Girardot",
+            "Isabelle Pasco"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Patricia Agostini",
+            "Jean-Michel Carré"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Jean-Michel Carré"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "April 11, 2003 (France)"
-        ],
-        "Also known as": [
-            "Das starke schwache Geschlecht"
-        ],
-        "Country of origin": [
-            "France"
-        ],
-        "Production companies": [
-            "ARTE",
-            "Centre national du cinéma et de l'image animée (CNC)",
-            "GMT Productions"
+            "2003-04-11"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0013220/",
-            "name": "Patricia Agostini"
+            "name": "Patricia Agostini",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0141142/",
-            "name": "Jean-Michel Carré"
+            "name": "Jean-Michel Carré",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        "female topless nudity",
-        "female nudity",
-        "cuckold"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0141142/",
-            "name": "Jean-Michel Carré"
+            "name": "Jean-Michel Carré",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0356559/",
     "metascore": null,
-    "imdb_votes": 23,
+    "imdb_votes": 25,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "5.4/10 from 23 users",
-    "release_date": [],
+    "description": "Dominique Bazin is a 40-year-old woman, business manager, married to Camille, English teacher. They have three children, including an infant. Dominique, a modern day superwoman, divides her time between her lover Maxime, her work meetings and her family life. Camille is a perfect housekeeper and a caring father, who unknowingly suffers from his routine lifestyle.",
+    "imdb_rating": "5.4/10 from 25 users",
+    "release_date": [
+        {
+            "date": "2003-04-11",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2003-04-11",
+    "original_title": "Drôle de genre",
     "imdb_rating_average": 5.4,
-    "update_at": "2025-04-23T22:39:21"
+    "update_at": "2026-11-20T05:42:24"
 }
