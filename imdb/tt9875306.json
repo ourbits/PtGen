@@ -4,61 +4,101 @@
     "name": "Little Chief",
     "site": "imdb",
     "year": "2020",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm5886490/",
-            "name": "Julian Ballentyne"
+            "name": "Julian Ballentyne",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4291409/",
-            "name": "Lily Gladstone"
+            "name": "Lily Gladstone",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4852475/",
-            "name": "Jamie Loy"
+            "name": "Jamie Loy",
+            "@type": "Person"
         }
     ],
-    "critic": 6,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmMwMGYxYmYtMDhjNy00NzhhLThjNzctZTYzNmRjYjRjNmRlXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/3Uyxz2OyPknjyDOrgQZhxPFbqnV.jpg",
     "details": {
+        "Stars": [
+            "Julian Ballentyne",
+            "Lily Gladstone",
+            "Jamie Loy"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Erica Tremblay"
+        ],
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "Erica Tremblay"
+        ],
+        "Language": [
+            "English"
+        ],
         "Release date": [
-            "January 27, 2020 (United States)"
+            "2020-01-27"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
+        ],
+        "Production companies": [
+            "Homespun Pictures"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2109991/",
-            "name": "Erica Tremblay"
+            "name": "Erica Tremblay",
+            "@type": "Person"
         }
     ],
     "duration": "PT12M",
     "keywords": [
-        ""
+        "oklahoma",
+        "native american",
+        "elementary school",
+        "native american reservation",
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2109991/",
-            "name": "Erica Tremblay"
+            "name": "Erica Tremblay",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt9875306/",
     "metascore": null,
-    "imdb_votes": 105,
+    "imdb_votes": 112,
     "popularity": 0,
-    "description": "The lives of a Native woman and nine-year-old boy intersect over the course of a school day on a reservation in Oklahoma.",
-    "imdb_rating": "7/10 from 105 users",
-    "release_date": [],
+    "description": "The lives of a Native woman and a troubled young boy intersect over the course of a school day on a reservation in Oklahoma.",
+    "imdb_rating": "6.9/10 from 112 users",
+    "release_date": [
+        {
+            "date": "2020-01-27",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2020-01-27",
-    "imdb_rating_average": 7,
-    "update_at": "2025-09-20T17:56:59"
+    "original_title": "Little Chief",
+    "imdb_rating_average": 6.9,
+    "update_at": "2026-11-21T03:00:21"
 }

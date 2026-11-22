@@ -4,7 +4,7 @@
     "name": "Riel",
     "site": "imdb",
     "year": "1979",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Biography",
         "Drama",
@@ -13,70 +13,123 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0167233/",
-            "name": "Raymond Cloutier"
+            "name": "Raymond Cloutier",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0087948/",
-            "name": "Roger Blay"
+            "name": "Roger Blay",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001957/",
-            "name": "Lloyd Bochner"
+            "name": "Lloyd Bochner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0103034/",
+            "name": "James Bradford",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0111240/",
+            "name": "Lee Broker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001999/",
+            "name": "Maury Chaykin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0159376/",
+            "name": "Normand Chouinard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0176124/",
+            "name": "Captain Constantinidas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0193629/",
+            "name": "Pierre Curzi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0197391/",
+            "name": "Neil Dainard",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDExMTQ1MWMtN2Q5Yy00ODRhLWFmODAtNWFlNTkyZTJlYzlmXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/69pDeGaFnZayoyurvLik9YS6ckh.jpg",
     "details": {
+        "Stars": [
+            "Raymond Cloutier",
+            "Roger Blay",
+            "Lloyd Bochner"
+        ],
+        "Genres": [
+            "Biography",
+            "Drama",
+            "War"
+        ],
+        "Writer": [
+            "Roy Moore"
+        ],
+        "Runtime": [
+            "147 min"
+        ],
+        "Director": [
+            "George Bloomfield"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "April 15, 1979 (Canada)"
-        ],
-        "Also known as": [
-            "Riel - Rebell wider Willen"
+            "1979-04-11"
         ],
         "Country of origin": [
             "Canada"
         ],
-        "Filming locations": [
-            "Cinespace Film Studios - 11030 Highway 27, Kleinburg, Ontario, Canada"
-        ],
         "Production companies": [
-            "Canadian Broadcasting Corporation (CBC)",
-            "Green River Pictures Inc."
+            "CBC"
         ]
     },
-    "reviews": 10,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0600860/",
-            "name": "Roy Moore"
+            "name": "Roy Moore",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H27M",
-    "keywords": [
-        "metis",
-        "rebellion",
-        "saskatchewan",
-        "manitoba",
-        "louis riel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0089276/",
-            "name": "George Bloomfield"
+            "name": "George Bloomfield",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0079810/",
     "metascore": null,
-    "imdb_votes": 129,
+    "imdb_votes": 134,
     "popularity": 0,
-    "description": "A film about the actions of the Metis rebel leader who opposed the Canadian government in two seperate rebellions.",
-    "imdb_rating": "6.3/10 from 129 users",
-    "release_date": [],
-    "contentRating": "PG",
-    "datePublished": "1979-04-15",
-    "imdb_rating_average": 6.3,
-    "update_at": "2025-05-18T10:13:20"
+    "description": "A film about the history and fate of the Metis rebel leader who opposed the Canadian government in two seperate rebellions.",
+    "imdb_rating": "6.4/10 from 134 users",
+    "release_date": [
+        {
+            "date": "1979-04-11",
+            "country": "Canada"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1979-04-11",
+    "original_title": "Riel",
+    "imdb_rating_average": 6.4,
+    "update_at": "2026-11-21T02:49:15"
 }

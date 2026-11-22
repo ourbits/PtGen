@@ -5,50 +5,84 @@
     "site": "imdb",
     "year": "1941",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm6322403/",
-            "name": "Chin Tsi-An"
+            "name": "Chin Tsi-An",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm6001906/",
-            "name": "Chiu King-Wan"
+            "name": "Chiu King-Wan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm6194271/",
-            "name": "Sheung-Yin Leong"
+            "name": "Sheung-Yin Leong",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6002085/",
+            "name": "Cho Tsau-Wan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6318030/",
+            "name": "Kam Yi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0160871/",
+            "name": "Po-Chuen Chu",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1591450/",
+            "name": "Chi-Sing Chow",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2704841/",
+            "name": "Ming Lai",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6264914/",
+            "name": "Ling Kam",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4379631/",
+            "name": "Siu-Hung Ho",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Cantonese"
+        "Stars": [
+            "Chin Tsi-An",
+            "Chiu King-Wan",
+            "Sheung-Yin Leong"
+        ],
+        "Director": [
+            "Chung-Ho Hung"
         ],
         "Release date": [
-            "January 16, 1941 (Hong Kong)"
-        ],
-        "Also known as": [
-            "Eight Heroines"
-        ],
-        "Country of origin": [
-            "Hong Kong"
-        ],
-        "Production company": [
-            "Yingyun Film Company"
+            "1941"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": null,
-    "keywords": [
-        "martial arts"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0393277/",
-            "name": "Chung-Ho Hung"
+            "name": "Chung-Ho Hung",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt3565234/",
@@ -59,7 +93,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1941-01-16",
+    "datePublished": "1941",
+    "original_title": "Bamei Tu",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-06T07:00:25"
+    "update_at": "2026-11-21T18:35:33"
 }

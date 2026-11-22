@@ -3,8 +3,8 @@
     "sid": "tt0376754",
     "name": "Der Meisterdieb",
     "site": "imdb",
-    "year": "1978",
-    "@type": "Movie",
+    "year": "1979",
+    "@type": "TVMovie",
     "genre": [
         "Adventure",
         "Family",
@@ -13,70 +13,140 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0684797/",
-            "name": "Klaus Piontek"
+            "name": "Klaus Piontek",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0291142/",
-            "name": "Dieter Franke"
+            "name": "Dieter Franke",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0070605/",
-            "name": "Margit Bendokat"
+            "name": "Margit Bendokat",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0670855/",
+            "name": "Erika Pelikowsky",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0927389/",
+            "name": "Johannes Wieke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2135278/",
+            "name": "Stefan Naujokat",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0388499/",
+            "name": "Hubert Hoelzke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0231665/",
+            "name": "Peter Dommisch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2770423/",
+            "name": "Wolfgang Holz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0459322/",
+            "name": "Hans Klering",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjlhOTI4YmQtZWIyYS00NDRhLWExZGYtNTcwMGMxN2M3OWRiXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/i5119c7KFUm5MzPxQED87SlQjxe.jpg",
     "details": {
+        "Stars": [
+            "Klaus Piontek",
+            "Dieter Franke",
+            "Margit Bendokat"
+        ],
+        "Genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "Writer": [
+            "Bernhard Geng",
+            "Jacob Grimm",
+            "Wilhelm Grimm"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Wolfgang Hübner"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "January 1, 1978 (East Germany)"
-        ],
-        "Also known as": [
-            "A mestertolvaj"
+            "1979-03-23"
         ],
         "Country of origin": [
             "East Germany"
         ],
-        "Production company": [
-            "Deutscher Fernsehfunk (DFF)"
+        "Production companies": [
+            "Fernsehen der DDR",
+            "DEFA-Studio für Spielfilme"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1271824/",
-            "name": "Bernhard Geng"
+            "name": "Bernhard Geng",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0342278/",
-            "name": "Jacob Grimm"
+            "name": "Jacob Grimm",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0342303/",
-            "name": "Wilhelm Grimm"
+            "name": "Wilhelm Grimm",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0406134/",
-            "name": "Wolfgang Hübner"
+            "name": "Wolfgang Hübner",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0376754/",
     "metascore": null,
-    "imdb_votes": 34,
+    "imdb_votes": 40,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "6/10 from 34 users",
-    "release_date": [],
+    "description": "A master thief returns home. There he is threatened with the gallows if he fails to solve the tasks set by the count. So he has to steal the count's personal horse, the bed sheet and the wedding ring as well as the priest and the sexton.",
+    "imdb_rating": "6.0/10 from 40 users",
+    "release_date": [
+        {
+            "date": "1979-03-23",
+            "country": "Germany"
+        },
+        {
+            "date": "1978-01-01",
+            "country": "East Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1978-01-01",
-    "imdb_rating_average": 6,
-    "update_at": "2025-07-28T04:49:41"
+    "datePublished": "1979-03-23",
+    "original_title": "Der Meisterdieb",
+    "imdb_rating_average": 6.0,
+    "update_at": "2026-11-21T06:00:33"
 }

@@ -5,74 +5,125 @@
     "site": "imdb",
     "year": "1924",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0367111/",
-            "name": "Paul Hartmann"
+            "name": "Paul Hartmann",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0919225/",
-            "name": "Hanni Weisse"
+            "name": "Hanni Weisse",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0919225/",
+            "name": "Hanni Weisse",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1795458/",
-            "name": "Jacob Feldhammer"
+            "name": "Jacob Feldhammer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0670271/",
+            "name": "Heinrich Peer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0074949/",
+            "name": "Elisabeth Bergner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1796537/",
+            "name": "Hans Leiter",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0390479/",
+            "name": "Holger-Madsen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1830150/",
+            "name": "Dr. Jockl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0356822/",
+            "name": "Harry Halm",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDExNzczY2MtMGQzMS00NGE4LTk4NGMtYmRmN2I2Y2UzMDQwXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/pH00RDrKiFmRzhJpOVGlLq80H3R.jpg",
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Paul Hartmann",
+            "Hanni Weisse",
+            "Hanni Weisse"
+        ],
+        "Writer": [
+            "Holger-Madsen",
+            "Hermann Kienzl",
+            "Wilhelm Kienzl"
+        ],
+        "Director": [
+            "Holger-Madsen"
         ],
         "Release date": [
-            "March 2, 1924 (Finland)"
+            "1924-01-04"
         ],
         "Country of origin": [
             "Germany"
-        ],
-        "Production company": [
-            "Union-Film"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0390479/",
-            "name": "Holger-Madsen"
+            "name": "Holger-Madsen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1802644/",
-            "name": "Hermann Kienzl"
+            "name": "Hermann Kienzl",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1802645/",
-            "name": "Wilhelm Kienzl"
+            "name": "Wilhelm Kienzl",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "brother",
-        "love",
-        "hate",
-        "based on opera"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0390479/",
-            "name": "Holger-Madsen"
+            "name": "Holger-Madsen",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0138425/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Mathias, the evangelist, is in love with Martha. Johannes, Mathias brother tries to interfere. When Mathias and Martha are swearing fidelity, Johannes jealousy turns into blind hate and he sets the monastery on fire.",
+    "description": "Mathias, the evangelist, is in love with Martha. Johannes, Mathias brother tries to interfere. When Mathias and Martha are swearing fidelity, Johannes jealousy turns into blind hate and he sets the monastery on fire. But it is Mathias that is arrested for the crime.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1924-01-04",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1924-03-02",
+    "datePublished": "1924-01-04",
+    "original_title": "Der Evangelimann",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-23T13:42:14"
+    "update_at": "2026-11-22T01:42:20"
 }

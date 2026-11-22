@@ -4,70 +4,117 @@
     "name": "Teo",
     "site": "imdb",
     "year": "1997",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000918/",
-            "name": "Helmut Berger"
+            "name": "Helmut Berger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0287208/",
-            "name": "Ludgero Fortes Dos Santos"
+            "name": "Ludgero Fortes Dos Santos",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0582066/",
-            "name": "Francesca Romana Messere"
+            "name": "Francesca Romana Messere",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0598720/",
+            "name": "Renzo Montagnani",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0762248/",
+            "name": "Stefania Sandrelli",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0812172/",
+            "name": "Gisella Sofio",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTBiODg2NjktNzEwZC00MTBlLWIzY2MtMWU2ZGY4ZTJhMTU2XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/u6jXrY5vrryh7ssYWJCbbihp0FR.jpg",
     "details": {
+        "Stars": [
+            "Helmut Berger",
+            "Ludgero Fortes Dos Santos",
+            "Francesca Romana Messere"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Graziano Diana",
+            "Francesco Marcucci"
+        ],
+        "Runtime": [
+            "100 min"
+        ],
+        "Director": [
+            "Cinzia TH Torrini"
+        ],
         "Language": [
             "Italian"
         ],
         "Release date": [
-            "March 12, 1997 (Italy)"
+            "1997-03-12"
         ],
         "Country of origin": [
             "Italy"
         ],
-        "Production company": [
+        "Production companies": [
             "RAI"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0224765/",
-            "name": "Graziano Diana"
+            "name": "Graziano Diana",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1083852/",
-            "name": "Francesco Marcucci"
+            "name": "Francesco Marcucci",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H40M",
     "keywords": [
-        "title directed by female"
+        "child abuse",
+        "african boy"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0868932/",
-            "name": "Cinzia TH Torrini"
+            "name": "Cinzia TH Torrini",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0178929/",
     "metascore": null,
-    "imdb_votes": 11,
+    "imdb_votes": 12,
     "popularity": 0,
-    "description": "Teo is a Somali boy living in Rome, where his mother works in service to a wealthy family. Friendly and outgoing, the young man immediately befriends Mimma when she moves with her family to the neighborhood. Years pass and Mimma b...",
-    "imdb_rating": "4.3/10 from 11 users",
-    "release_date": [],
+    "description": "Teo is a Somali boy living in Rome, where his mother works in service to a wealthy family. Friendly and outgoing, the young man immediately befriends Mimma when she moves with her family to the neighborhood. Years pass and Mimma begins to suffer the violent attentions of her stepfather. She tired that decided to run away together with Teo. But the two teenagers are tracked down and Teo is accused of the violence. Only with the help of his friends will he succeed in proving his innocence.",
+    "imdb_rating": "4.3/10 from 12 users",
+    "release_date": [
+        {
+            "date": "1997-03-12",
+            "country": "Italy"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1997-03-12",
+    "original_title": "Teo",
     "imdb_rating_average": 4.3,
-    "update_at": "2025-05-04T11:21:41"
+    "update_at": "2026-11-21T13:49:19"
 }

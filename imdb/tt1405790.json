@@ -4,59 +4,96 @@
     "name": "Three of Clubs",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1922787/",
-            "name": "Kirk Bovill"
+            "name": "Kirk Bovill",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0488886/",
-            "name": "Richard Clarke Larsen"
+            "name": "Richard Clarke Larsen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3392240/",
-            "name": "Andre Vaughn Gibson"
+            "name": "Andre Vaughn Gibson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3392863/",
+            "name": "Doug Hughs",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1953361/",
+            "name": "Renzo Lewis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2937132/",
+            "name": "Rachel London",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3403409/",
+            "name": "Ryan Steven McKenzie",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3395486/",
+            "name": "Lori Anne Shields",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3389846/",
+            "name": "Devin Thomas",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Kirk Bovill",
+            "Richard Clarke Larsen",
+            "Andre Vaughn Gibson"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Mike Shields II"
+        ],
+        "Director": [
+            "Mike Shields II"
         ],
         "Release date": [
-            "April 4, 2009 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Hollywood, Los Angeles, California, USA"
-        ],
-        "Production company": [
-            "Schrödinger Pictures"
+            "2009"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1042548/",
-            "name": "Mike Shields II"
+            "name": "Mike Shields II",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1042548/",
-            "name": "Mike Shields II"
+            "name": "Mike Shields II",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1405790/",
@@ -66,8 +103,9 @@
     "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
-    "contentRating": "PG",
-    "datePublished": "2009-04-04",
+    "contentRating": null,
+    "datePublished": "2009",
+    "original_title": "Three of Clubs",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-12T01:14:24"
+    "update_at": "2026-11-21T09:07:06"
 }

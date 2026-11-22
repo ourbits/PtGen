@@ -4,79 +4,100 @@
     "name": "Under bølgerne, over skyerne",
     "site": "imdb",
     "year": "2019",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3141662/",
-            "name": "Frederikke Dahl Hansen"
+            "name": "Frederikke Dahl Hansen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3218130/",
-            "name": "Dimitris Karaviotis"
+            "name": "Dimitris Karaviotis",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm10855483/",
-            "name": "Dimitris Kolotouros"
+            "name": "Dimitris Kolotouros",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5056301/",
+            "name": "Kristine Kujath Thorp",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGFiNzNkMTQtNDBkOC00MTFmLWFkYTItZGIxMGI2MTkyY2FmXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/4olx8NfiLp0LjMqvifhWDCwB1a0.jpg",
     "details": {
-        "Languages": [
-            "Danish",
-            "English",
-            "Norwegian"
+        "Stars": [
+            "Frederikke Dahl Hansen",
+            "Dimitris Karaviotis",
+            "Dimitris Kolotouros"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Katrine Brocks",
+            "Denise Kræmer"
+        ],
+        "Runtime": [
+            "29 min"
+        ],
+        "Director": [
+            "Katrine Brocks"
+        ],
+        "Language": [
+            "Danish"
         ],
         "Release date": [
-            "August 26, 2019 (Denmark)"
-        ],
-        "Also known as": [
-            "Below the Waves, Above the Clouds"
-        ],
-        "Country of origin": [
-            "Denmark"
-        ],
-        "Filming locations": [
-            "Heraklion, Crete, Greece"
-        ],
-        "Production company": [
-            "National Film School Of Denmark"
+            "2019-08-26"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm7480562/",
-            "name": "Katrine Brocks"
+            "name": "Katrine Brocks",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5667982/",
-            "name": "Denise Kræmer"
+            "name": "Denise Kræmer",
+            "@type": "Person"
         }
     ],
     "duration": "PT29M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm7480562/",
-            "name": "Katrine Brocks"
+            "name": "Katrine Brocks",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt10677074/",
     "metascore": null,
-    "imdb_votes": 18,
+    "imdb_votes": 20,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.4/10 from 18 users",
-    "release_date": [],
+    "description": "The two best friends, Helene and Theo, travel to Crete to reunite Helene with a past holiday romance. Life is great and the sky is the limit. But when the plan capsizes, the girls are faced with a new reality that they have to enter into together. Whether or not there is magic in the world is not important - what matters is whether you choose to believe there is.",
+    "imdb_rating": "7.3/10 from 20 users",
+    "release_date": [
+        {
+            "date": "2019-08-26",
+            "country": "Denmark"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2019-08-26",
-    "imdb_rating_average": 7.4,
-    "update_at": "2025-05-02T09:29:42"
+    "original_title": "Under bølgerne, over skyerne",
+    "imdb_rating_average": 7.3,
+    "update_at": "2026-11-21T22:49:20"
 }

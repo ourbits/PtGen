@@ -4,58 +4,76 @@
     "name": "Dora",
     "site": "imdb",
     "year": "1912",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Drama",
-        "Romance"
+        "Romance",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0054884/",
-            "name": "Florence Barker"
+            "name": "Florence Barker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0041858/",
-            "name": "Edwin August"
+            "name": "Edwin August",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0116227/",
-            "name": "Fritzi Brunette"
+            "name": "Fritzi Brunette",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0542567/",
+            "name": "Charles Manley",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Stars": [
+            "Florence Barker",
+            "Edwin August",
+            "Fritzi Brunette"
+        ],
+        "Genres": [
+            "Drama",
+            "Romance",
+            "Short"
+        ],
+        "Writer": [
+            "Alfred Lord Tennyson"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "Frank Powell"
         ],
         "Release date": [
-            "August 2, 1912 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Powers Picture Plays"
+            "1912"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0855139/",
-            "name": "Alfred Lord Tennyson"
+            "name": "Alfred Lord Tennyson",
+            "@type": "Person"
         }
     ],
     "duration": "PT10M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0288616/",
-            "name": "Frank Powell"
+            "name": "Frank Powell",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0188571/",
@@ -66,7 +84,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1912-08-02",
+    "datePublished": "1912",
+    "original_title": "Dora",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-27T20:52:23"
+    "update_at": "2026-11-21T06:07:27"
 }

@@ -4,7 +4,7 @@
     "name": "The Return of Eliot Ness",
     "site": "imdb",
     "year": "1991",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Drama"
@@ -12,67 +12,119 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0821041/",
-            "name": "Robert Stack"
+            "name": "Robert Stack",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0171059/",
-            "name": "Jack Coleman"
+            "name": "Jack Coleman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0097842/",
-            "name": "Philip Bosco"
+            "name": "Philip Bosco",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0220867/",
+            "name": "Anthony DeSando",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0004998/",
+            "name": "Lisa Hartman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001164/",
+            "name": "Charles Durning",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0178680/",
+            "name": "Michael Copeman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0494784/",
+            "name": "Ron Lea",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0011486/",
+            "name": "Frank Adamson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0042558/",
+            "name": "Shaun Austin-Olsen",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmIwYjFlMGItNDk1My00MzE2LWI5MmEtMThlZmJkMTRlNmI3XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/kA0RA8wEEWTXv9sABDN7HJW6KjX.jpg",
     "details": {
+        "Stars": [
+            "Robert Stack",
+            "Jack Coleman",
+            "Philip Bosco"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "Michael Petryni"
+        ],
+        "Runtime": [
+            "94 min"
+        ],
+        "Director": [
+            "James A. Contner"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 10, 1991 (United States)"
-        ],
-        "Also known as": [
-            "Ett fall för Eliot Ness"
+            "1991-11-10"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Toronto, Ontario, Canada"
-        ],
-        "Production company": [
-            "Michael Filerman Productions"
+            "United States of America"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": "You can't touch him. You can't scare him. And these days, the Mob still can't get rid of him.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0678458/",
-            "name": "Michael Petryni"
+            "name": "Michael Petryni",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H34M",
-    "keywords": [
-        "woman wears only a man&apos;s shirt",
-        "sequel",
-        "character name in title"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0176448/",
-            "name": "James A. Contner"
+            "name": "James A. Contner",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0102781/",
     "metascore": null,
-    "imdb_votes": 303,
+    "imdb_votes": 337,
     "popularity": 0,
-    "description": "Detective Eliot Ness comes back to town to fight corruption and avenge a former partner&apos;s murder with the help of the son.",
-    "imdb_rating": "6/10 from 303 users",
-    "release_date": [],
+    "description": "Detective Eliot Ness comes back to town to fight corruption and avenge a former partner's murder with the help of the son.",
+    "imdb_rating": "6.1/10 from 337 users",
+    "release_date": [
+        {
+            "date": "1991-11-10",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1991-11-10",
-    "imdb_rating_average": 6,
-    "update_at": "2025-05-16T18:57:11"
+    "original_title": "The Return of Eliot Ness",
+    "imdb_rating_average": 6.1,
+    "update_at": "2026-11-21T18:14:07"
 }

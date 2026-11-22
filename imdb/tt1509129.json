@@ -4,7 +4,7 @@
     "name": "Ingenious",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Family"
@@ -12,65 +12,108 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm4602904/",
-            "name": "Anna Bray"
+            "name": "Anna Bray",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0129464/",
-            "name": "David Calder"
+            "name": "David Calder",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3284685/",
-            "name": "Reece Douglas"
+            "name": "Reece Douglas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2246577/",
+            "name": "Emma Edmondson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3294733/",
+            "name": "Ellen Gallagher",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3608382/",
+            "name": "Hannah Godfrey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0420979/",
+            "name": "Sue Jenkins",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3610569/",
+            "name": "Keaton Lansley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0509139/",
+            "name": "Vicky Licorish",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0700312/",
+            "name": "Ian Puleston-Davies",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Anna Bray",
+            "David Calder",
+            "Reece Douglas"
+        ],
+        "Genres": [
+            "Drama",
+            "Family"
+        ],
+        "Writer": [
+            "Jeanette Winterson"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Brian Kelly"
         ],
         "Release date": [
-            "December 25, 2009 (United Kingdom)"
-        ],
-        "Also known as": [
-            "ジェレミー・レナー　逆転のメソッド"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Filming locations": [
-            "Cheshire, England, UK"
-        ],
-        "Production company": [
-            "CBBC"
+            "2009"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0936019/",
-            "name": "Jeanette Winterson"
+            "name": "Jeanette Winterson",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0446232/",
-            "name": "Brian Kelly"
+            "name": "Brian Kelly",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1509129/",
     "metascore": null,
-    "imdb_votes": 23,
+    "imdb_votes": 26,
     "popularity": 0,
-    "description": "Sally lives with Gransha, her grandmother, on a farm in Cheshire. One day Sally and her friends Spikey and Patch discover a bottle containing a genie who will obey their every whim - which is rather handy as Gransha is in danger o...",
-    "imdb_rating": "4.6/10 from 23 users",
+    "description": null,
+    "imdb_rating": "4.6/10 from 26 users",
     "release_date": [],
-    "contentRating": "R",
-    "datePublished": "2009-12-25",
+    "contentRating": null,
+    "datePublished": "2009",
+    "original_title": "Ingenious",
     "imdb_rating_average": 4.6,
-    "update_at": "2025-02-11T21:01:04"
+    "update_at": "2026-11-21T17:21:09"
 }

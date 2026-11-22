@@ -1,59 +1,121 @@
 {
     "aka": [],
     "sid": "tt0361785",
-    "name": "Jusqu&apos;au bout de la route",
+    "name": "Jusqu'au bout de la route",
     "site": "imdb",
     "year": "2003",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0997553/",
-            "name": "Anne-Sophie Morillon"
+            "name": "Anne-Sophie Morillon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0427262/",
-            "name": "Sylvie Joly"
+            "name": "Sylvie Joly",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0954907/",
-            "name": "Fabio Zenoni"
+            "name": "Fabio Zenoni",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0884025/",
+            "name": "Gabriele Barialai",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0812073/",
+            "name": "Mar Sodupe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1357268/",
+            "name": "Alexandre Juares",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0756214/",
+            "name": "Henri Sagols",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2331296/",
+            "name": "Jonas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2326657/",
+            "name": "Alvin de Freitas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2325022/",
+            "name": "Damien Marcie",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGY1MTFlZWMtMDQ2Ni00NTM4LWFkMTktMGEwY2IzNTEwYTUyXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/stgqz47yfyKwC12dRFy6RF6C3Wr.jpg",
     "details": {
+        "Stars": [
+            "Anne-Sophie Morillon",
+            "Sylvie Joly",
+            "Fabio Zenoni"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Jérôme Boivin",
+            "Marion Vernoux"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "Jérôme Boivin"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "April 12, 2003 (France)"
+            "2003-04-12"
         ],
         "Country of origin": [
             "France"
+        ],
+        "Production companies": [
+            "Image & Compagnie",
+            "France•3"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0092459/",
-            "name": "Jérôme Boivin"
+            "name": "Jérôme Boivin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0894742/",
-            "name": "Marion Vernoux"
+            "name": "Marion Vernoux",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H35M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0092459/",
-            "name": "Jérôme Boivin"
+            "name": "Jérôme Boivin",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0361785/",
@@ -62,9 +124,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2003-04-12",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2003-04-12",
+    "original_title": "Jusqu'au bout de la route",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-15T09:28:54"
+    "update_at": "2026-11-22T01:42:19"
 }

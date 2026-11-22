@@ -5,56 +5,140 @@
     "site": "imdb",
     "year": "2005",
     "@type": "TVSeries",
-    "genre": null,
+    "genre": [
+        "Drama"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0280129/",
-            "name": "Lisa Fitz"
+            "name": "Lisa Fitz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0450534/",
-            "name": "Peter Ketnath"
+            "name": "Peter Ketnath",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0796557/",
-            "name": "Michael Sideris"
+            "name": "Michael Sideris",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0222126/",
+            "name": "Heikko Deutschmann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0863536/",
+            "name": "Svea Timander",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0783317/",
+            "name": "Marie-Lou Sellem",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1493930/",
+            "name": "Rainer Piwek",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0916563/",
+            "name": "Florian Weber",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1845718/",
+            "name": "Oliver Nitsche",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2481137/",
+            "name": "Carolyn Genzkow",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDcxNWRlZWEtZDhiYy00N2ZjLTgyNzYtZGRjZTVjYmViMjg3XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Lisa Fitz",
+            "Peter Ketnath",
+            "Michael Sideris"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Dirk Ahner",
+            "Marc Blöbaum",
+            "Hinrich Brüning"
+        ],
+        "Director": [
+            "Ulli Baumann",
+            "Marc Hertel",
+            "Thomas Stiller"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "October 4, 2005 (Germany)"
+            "2005-10-04"
         ],
         "Country of origin": [
             "Germany"
-        ],
-        "Production company": [
-            "Studio Hamburg Filmproduktion"
         ]
     },
     "reviews": 0,
-    "creators": [],
-    "duration": null,
-    "keywords": [
-        "dead body",
-        "corpse",
-        "scissors",
-        "dark comedy",
-        "irony"
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0004308/",
+            "name": "Dirk Ahner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1135385/",
+            "name": "Marc Blöbaum",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2465707/",
+            "name": "Hinrich Brüning",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT45M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0062257/",
+            "name": "Ulli Baumann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0381015/",
+            "name": "Marc Hertel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0830253/",
+            "name": "Thomas Stiller",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0440983/",
     "metascore": null,
-    "imdb_votes": 24,
+    "imdb_votes": 26,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "3.9/10 from 24 users",
+    "imdb_rating": "3.7/10 from 26 users",
     "release_date": [],
     "contentRating": null,
     "datePublished": "2005-10-04",
-    "imdb_rating_average": 3.9,
-    "update_at": "2026-03-13T02:49:33"
+    "original_title": "Die Gerichtsmedizinerin",
+    "imdb_rating_average": 3.7,
+    "update_at": "2026-11-21T03:42:09"
 }

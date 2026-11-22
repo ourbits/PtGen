@@ -6,84 +6,134 @@
     "year": "2015",
     "@type": "Movie",
     "genre": [
-        "Documentary",
         "Biography",
+        "Documentary",
         "Sport"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0004707/",
-            "name": "Mario Andretti"
+            "name": "Mario Andretti",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0004708/",
-            "name": "Michael Andretti"
+            "name": "Michael Andretti",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm6777371/",
-            "name": "Dick Barbour"
+            "name": "Dick Barbour",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0094181/",
+            "name": "Bob Bondurant",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1835478/",
+            "name": "Sébastien Bourdais",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001131/",
+            "name": "Patrick Dempsey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005124/",
+            "name": "John Lasseter",
+            "@type": "Person"
         }
     ],
-    "critic": 6,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTk5OTMxMjA2NV5BMl5BanBnXkFtZTgwMTY4ODEzNTE@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/hsTxEODkmcHvVhR9junDH8I43dt.jpg",
     "details": {
+        "Stars": [
+            "Mario Andretti",
+            "Michael Andretti",
+            "Dick Barbour"
+        ],
+        "Genres": [
+            "Biography",
+            "Documentary",
+            "Sport"
+        ],
+        "Writer": [
+            "Nate Adams",
+            "Adam Carolla"
+        ],
+        "Runtime": [
+            "83 min"
+        ],
+        "Director": [
+            "Adam Carolla",
+            "Nate Adams"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 8, 2015 (United States)"
-        ],
-        "Also known as": [
-            "La vida en las carreras de Paul Newman"
-        ],
-        "Official site": [
-            "Official Site - http://www.newmanracingfilm.com/"
+            "2015-05-08"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
-            "Chassy Media",
-            "Mollette",
-            "Sontalia"
+            "Mollette"
         ]
     },
-    "reviews": 8,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1969889/",
-            "name": "Nate Adams"
+            "name": "Nate Adams",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0004805/",
-            "name": "Adam Carolla"
+            "name": "Adam Carolla",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H23M",
     "keywords": [
-        "car",
-        "motorsports sport",
-        "car racing"
+        "car race",
+        "sports",
+        "daytona",
+        "le mans",
+        "racing",
+        "indycar"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0004805/",
-            "name": "Adam Carolla"
+            "name": "Adam Carolla",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1969889/",
-            "name": "Nate Adams"
+            "name": "Nate Adams",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt3377996/",
     "metascore": null,
-    "imdb_votes": 958,
+    "imdb_votes": 1000,
     "popularity": 0,
-    "description": "A documentary chronicling the 35 year car racing career of Paul Newman. The documentary showcases Newman&apos;s racing life as both a prolific driver and owner.",
-    "imdb_rating": "7.6/10 from 958 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "The world knows Paul Newman as an Academy Award winning actor with a fifty-plus year career as one of the most prolific and revered actors in American Cinema. He was also well known for his philanthropy; Newman's Own has given more than four hundred and thirty million dollars to charities around the world. Yet few know the gasoline-fueled passion that became so important in this complex, multifaceted man's makeup. Newman’s deep-seated passion for racing was so intense it nearly sidelined his acting career. His racing career spanned thirty-five years; Newman won four national championships as a driver and eight championships as an owner. Not bad for a guy who didn't even start racing until he was forty-seven years old.",
+    "imdb_rating": "7.6/10 from 1000 users",
+    "release_date": [
+        {
+            "date": "2015-05-08",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2015-05-08",
+    "original_title": "Winning: The Racing Life of Paul Newman",
     "imdb_rating_average": 7.6,
-    "update_at": "2025-04-03T14:00:47"
+    "update_at": "2026-11-21T07:07:20"
 }

@@ -4,72 +4,136 @@
     "name": "Onion News Empire",
     "site": "imdb",
     "year": "2013",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001787/",
-            "name": "Jeffrey Tambor"
+            "name": "Jeffrey Tambor",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0557733/",
-            "name": "Christopher Masterson"
+            "name": "Christopher Masterson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3813115/",
-            "name": "Aja Naomi King"
+            "name": "Aja Naomi King",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0006669/",
+            "name": "William Sadler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0732309/",
+            "name": "Laila Robins",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2091145/",
+            "name": "Cheyenne Jackson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3248211/",
+            "name": "Mabel L'Ecuyer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2049306/",
+            "name": "Jolly Abraham",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0004713/",
+            "name": "Jodi Applegate Kay",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0853688/",
+            "name": "Charles Techman",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTgyNTIyMjc4NV5BMl5BanBnXkFtZTcwODY0NjYzOQ@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/jZebSHJwJEM9emSLFhZhpPQjKJl.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Jeffrey Tambor",
+            "Christopher Masterson",
+            "Aja Naomi King"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Will Graham",
+            "Dan Mirk"
+        ],
+        "Runtime": [
+            "27 min"
+        ],
+        "Director": [
+            "Todd Strauss-Schulson"
         ],
         "Release date": [
-            "April 19, 2013 (United States)"
+            "2013-04-19"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
+            "Tensegrity",
             "Amazon Studios",
-            "Superlative Stimuli",
-            "Tensegrity"
+            "The Onion",
+            "Superlative Stimuli"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2455747/",
-            "name": "Will Graham"
+            "name": "Will Graham",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3287778/",
-            "name": "Dan Mirk"
+            "name": "Dan Mirk",
+            "@type": "Person"
         }
     ],
     "duration": "PT27M",
     "keywords": [
-        ""
+        "news"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0833889/",
-            "name": "Todd Strauss-Schulson"
+            "name": "Todd Strauss-Schulson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2584098/",
     "metascore": null,
-    "imdb_votes": 478,
+    "imdb_votes": 484,
     "popularity": 0,
-    "description": "The journalists at the Onion News Network will do anything to stay at the top of their game. And if they can&apos;t find a great story, they&apos;ll create one.",
-    "imdb_rating": "7/10 from 478 users",
-    "release_date": [],
-    "contentRating": "TV-14",
+    "description": "The journalists at the Onion News Network will do anything to stay at the top of their game. And if they can't find a great story, they'll create one.",
+    "imdb_rating": "7.0/10 from 484 users",
+    "release_date": [
+        {
+            "date": "2013-04-19",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2013-04-19",
-    "imdb_rating_average": 7,
-    "update_at": "2025-09-02T21:35:07"
+    "original_title": "Onion News Empire",
+    "imdb_rating_average": 7.0,
+    "update_at": "2026-11-21T22:28:07"
 }

@@ -4,71 +4,118 @@
     "name": "Bus Story",
     "site": "imdb",
     "year": "2016",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Romance"
+        "Romance",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm4454779/",
-            "name": "Àlex Maruny"
+            "name": "Àlex Maruny",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1017221/",
-            "name": "Diana Gómez"
+            "name": "Diana Gómez",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2447441/",
-            "name": "Àlex Batllori"
+            "name": "Àlex Batllori",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1412072/",
+            "name": "Nacho Loriente",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7620991/",
+            "name": "Encarna Arriaza",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3341559/",
+            "name": "Alzira Gómez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8356995/",
+            "name": "Joaquim Borrell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3691012/",
+            "name": "Albert Pintó",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3047841/",
+            "name": "Geoffrey Cowper",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8356996/",
+            "name": "Miki Sannicolàs",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzYwNDU1ZjgtYjVmZi00NWMzLThlYWQtM2RjOTZjNGIzYzMyXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Àlex Maruny",
+            "Diana Gómez",
+            "Àlex Batllori"
+        ],
+        "Genres": [
+            "Comedy",
+            "Romance",
+            "Short"
+        ],
+        "Writer": [
+            "Jorge Yúdice"
+        ],
+        "Runtime": [
+            "11 min"
+        ],
+        "Director": [
+            "Jorge Yúdice"
+        ],
         "Release date": [
-            "June 26, 2016 (Spain)"
-        ],
-        "Official site": [
-            "Official Facebook - https://www.facebook.com/busstorymovie/"
-        ],
-        "Country of origin": [
-            "Spain"
-        ],
-        "Filming locations": [
-            "Barcelona, Barcelona, Catalonia, Spain"
-        ],
-        "Production company": [
-            "ESCAC Films"
+            "2016"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2198913/",
-            "name": "Jorge Yúdice"
+            "name": "Jorge Yúdice",
+            "@type": "Person"
         }
     ],
     "duration": "PT11M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2198913/",
-            "name": "Jorge Yúdice"
+            "name": "Jorge Yúdice",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt5939306/",
     "metascore": null,
-    "imdb_votes": 31,
+    "imdb_votes": 34,
     "popularity": 0,
-    "description": "As any day on the morning bus, he found the unknown girl completely asleep. He had never talk to her but he knows where she leaves the bus. The problem is that today she doesn&apos;t awake on time and she is gonna lose her stop. Should...",
-    "imdb_rating": "7.6/10 from 31 users",
+    "description": null,
+    "imdb_rating": "7.5/10 from 34 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2016-06-26",
-    "imdb_rating_average": 7.6,
-    "update_at": "2025-03-26T21:56:48"
+    "datePublished": "2016",
+    "original_title": "Bus Story",
+    "imdb_rating_average": 7.5,
+    "update_at": "2026-11-21T04:07:05"
 }
