@@ -5,55 +5,61 @@
     "site": "imdb",
     "year": "1948",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1149453/",
-            "name": "Noboru Kiritachi"
+            "name": "Noboru Kiritachi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1073348/",
-            "name": "Chikako Miyagi"
+            "name": "Chikako Miyagi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1801713/",
-            "name": "Orie Tsusaka"
+            "name": "Orie Tsusaka",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Japanese"
+        "Stars": [
+            "Noboru Kiritachi",
+            "Chikako Miyagi",
+            "Orie Tsusaka"
+        ],
+        "Writer": [
+            "Fuji Yahiro"
+        ],
+        "Runtime": [
+            "96 min"
+        ],
+        "Director": [
+            "Shinzo Makino"
         ],
         "Release date": [
-            "July 1, 1948 (Japan)"
-        ],
-        "Also known as": [
-            "桜御殿"
-        ],
-        "Country of origin": [
-            "Japan"
-        ],
-        "Production company": [
-            "Makino Eiga"
+            "1948"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0297687/",
-            "name": "Fuji Yahiro"
+            "name": "Fuji Yahiro",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H36M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1825145/",
-            "name": "Shinzo Makino"
+            "name": "Shinzo Makino",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0440766/",
@@ -64,7 +70,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1948-07-01",
+    "datePublished": "1948",
+    "original_title": "Sakura goten",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-10T15:44:54"
+    "update_at": "2026-11-22T06:07:31"
 }

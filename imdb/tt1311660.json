@@ -4,63 +4,72 @@
     "name": "Murder Monologue",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0848004/",
-            "name": "William Day"
+            "name": "William Day",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0578777/",
-            "name": "Mark Mench"
+            "name": "Mark Mench",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWFkNTViOWItMmY3OC00NWYzLTk2YjItNTYyZmQwNTA3NDk5XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/l2mD3Q14aeHHDbZvYmVZ6uiRwmC.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "William Day",
+            "Mark Mench"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Anghus Houvouras"
+        ],
+        "Director": [
+            "Anghus Houvouras"
         ],
         "Release date": [
-            "November 12, 2008 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "6 Lower Entertainment"
+            "2008"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1015002/",
-            "name": "Anghus Houvouras"
+            "name": "Anghus Houvouras",
+            "@type": "Person"
         }
     ],
-    "duration": null,
-    "keywords": [
-        ""
-    ],
+    "duration": "PT8M",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1015002/",
-            "name": "Anghus Houvouras"
+            "name": "Anghus Houvouras",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1311660/",
     "metascore": null,
     "imdb_votes": 7,
     "popularity": 0,
-    "description": "A silent story of love, murder, and revenge, Murder Monologue details the final performance of a gifted actor who walks on stage for the last time. His tale is simple retelling the last days of a beautiful young woman whom he fall...",
-    "imdb_rating": "7.7/10 from 7 users",
+    "description": "A silent story of love, murder, and revenge, Murder Monologue details the final performance of a gifted actor who walks on stage for the last time. His tale is simple retelling the last days of a beautiful young woman whom he falls in love with and her demise at the hand of a jealous, vengeful painter.",
+    "imdb_rating": "8.0/10 from 7 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2008-11-12",
-    "imdb_rating_average": 7.7,
-    "update_at": "2025-09-19T09:13:35"
+    "datePublished": "2008",
+    "original_title": "Murder Monologue",
+    "imdb_rating_average": 8.0,
+    "update_at": "2026-11-22T06:42:07"
 }

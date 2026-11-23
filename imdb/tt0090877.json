@@ -5,76 +5,132 @@
     "site": "imdb",
     "year": "1986",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
     "actors": [
         {
-            "url": "https://www.imdb.com/name/nm0933727/",
-            "name": "Lambert Wilson"
+            "url": "https://www.imdb.com/name/nm0761212/",
+            "name": "Dominique Sanda",
+            "@type": "Person"
         },
         {
-            "url": "https://www.imdb.com/name/nm0761212/",
-            "name": "Dominique Sanda"
+            "url": "https://www.imdb.com/name/nm0933727/",
+            "name": "Lambert Wilson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0201638/",
+            "name": "Danielle Darrieux",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0529543/",
-            "name": "Jean-Pierre Léaud"
+            "name": "Jean-Pierre Léaud",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0374906/",
+            "name": "Ingrid Held",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0369202/",
+            "name": "Sabine Haudepin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0797191/",
+            "name": "François Siener",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0561180/",
+            "name": "Marie-Véronique Maurin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0958317/",
+            "name": "Jérôme Zucca",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0078109/",
+            "name": "Roland Bertin",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzczZGE1ZTQtYzY1My00Y2VhLTg0MGEtNDJjMGZhODliNmY0XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Dominique Sanda",
+            "Lambert Wilson",
+            "Danielle Darrieux"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "James Gunn",
+            "Benoît Jacquot"
+        ],
+        "Runtime": [
+            "100 min"
+        ],
+        "Director": [
+            "Benoît Jacquot"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "August 27, 1986 (France)"
-        ],
-        "Also known as": [
-            "With All Hands"
+            "1986-08-27"
         ],
         "Country of origin": [
             "France"
-        ],
-        "Production companies": [
-            "Lyric International",
-            "France 3 Cinéma",
-            "Ognon Pictures"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0344631/",
-            "name": "James Gunn"
+            "name": "James Gunn",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0415245/",
-            "name": "Benoît Jacquot"
+            "name": "Benoît Jacquot",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H40M",
-    "keywords": [
-        "revolver",
-        "murder",
-        "femme fatale",
-        "female nudity",
-        "old rich woman"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0415245/",
-            "name": "Benoît Jacquot"
+            "name": "Benoît Jacquot",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0090877/",
     "metascore": null,
-    "imdb_votes": 71,
+    "imdb_votes": 73,
     "popularity": 0,
     "description": "The romantic and cruel escapades of a gigolo and a mysterious woman.",
-    "imdb_rating": "5.5/10 from 71 users",
-    "release_date": [],
+    "imdb_rating": "5.5/10 from 73 users",
+    "release_date": [
+        {
+            "date": "1986-08-27",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1986-08-27",
+    "original_title": "Corps et biens",
     "imdb_rating_average": 5.5,
-    "update_at": "2025-05-31T13:22:43"
+    "update_at": "2026-11-22T06:00:15"
 }

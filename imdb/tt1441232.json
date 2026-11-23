@@ -3,72 +3,108 @@
     "sid": "tt1441232",
     "name": "Ace in the Hole",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2009",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0004805/",
-            "name": "Adam Carolla"
+            "name": "Adam Carolla",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0781899/",
-            "name": "Pamela Adlon"
+            "name": "Pamela Adlon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2799457/",
-            "name": "Skylar Astin"
+            "name": "Skylar Astin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2093138/",
+            "name": "Jackson Pace",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2070606/",
+            "name": "Windell Middlebrooks",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2383344/",
+            "name": "Tom DeTrinis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1628456/",
+            "name": "Edward Flores",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3470592/",
+            "name": "Ashwin Gore",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Adam Carolla",
+            "Pamela Adlon",
+            "Skylar Astin"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Adam Carolla",
+            "Kevin Hench"
+        ],
+        "Director": [
+            "Ted Wass"
         ],
         "Release date": [
-            "2009 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production companies": [
-            "BermanBraun",
-            "CBS Paramount Network Television",
-            "Jackhole Industries"
+            "2009"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0004805/",
-            "name": "Adam Carolla"
+            "name": "Adam Carolla",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0376247/",
-            "name": "Kevin Hench"
+            "name": "Kevin Hench",
+            "@type": "Person"
         }
     ],
-    "duration": null,
-    "keywords": [
-        ""
-    ],
+    "duration": "PT1H",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0913637/",
-            "name": "Ted Wass"
+            "name": "Ted Wass",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1441232/",
     "metascore": null,
-    "imdb_votes": 79,
+    "imdb_votes": 59,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.5/10 from 79 users",
+    "description": "Examining the search for and capture of Saddam Hussein, using sophisticated technology and old-fashioned police work to close in on his inner circle.",
+    "imdb_rating": "7.3/10 from 59 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 7.5,
-    "update_at": "2025-08-25T01:49:12"
+    "datePublished": "2009",
+    "original_title": "Ace in the Hole",
+    "imdb_rating_average": 7.3,
+    "update_at": "2026-11-22T17:28:39"
 }

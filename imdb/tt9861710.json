@@ -4,55 +4,61 @@
     "name": "Nike: Dream Crazier",
     "site": "imdb",
     "year": "2019",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1102987/",
-            "name": "Serena Williams"
+            "name": "Serena Williams",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1429908/",
-            "name": "LeBron James"
+            "name": "LeBron James",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4212829/",
-            "name": "Colin Kaepernick"
+            "name": "Colin Kaepernick",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjAxNTg5YjQtZTAyZC00YWMzLWFmMDAtZWZjOTM1NGMyMGViXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Serena Williams",
+            "LeBron James",
+            "Colin Kaepernick"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Runtime": [
+            "2 min"
         ],
         "Release date": [
-            "February 24, 2019 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
+            "2019"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": "PT2M",
-    "keywords": [
-        "commercial",
-        "women as subject",
-        "tennis player",
-        "feminism",
-        "reference to nike"
-    ],
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt9861710/",
     "metascore": null,
-    "imdb_votes": 26,
+    "imdb_votes": 28,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "4.7/10 from 26 users",
+    "imdb_rating": "5.1/10 from 28 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2019-02-24",
-    "imdb_rating_average": 4.7,
-    "update_at": "2025-07-30T20:49:17"
+    "datePublished": "2019",
+    "original_title": "Nike: Dream Crazier",
+    "imdb_rating_average": 5.1,
+    "update_at": "2026-11-22T21:28:21"
 }

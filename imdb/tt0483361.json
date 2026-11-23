@@ -1,10 +1,15 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Impossible n'est pas Noël",
+            "country": "French Guiana"
+        }
+    ],
     "sid": "tt0483361",
     "name": "Deck the Halls",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Family"
@@ -12,50 +17,99 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0142000/",
-            "name": "Gabrielle Carteris"
+            "name": "Gabrielle Carteris",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0045584/",
-            "name": "Steve Bacic"
+            "name": "Steve Bacic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0517358/",
-            "name": "Jocelyne Loewen"
+            "name": "Jocelyne Loewen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0688285/",
+            "name": "Ken Pogue",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0859230/",
+            "name": "Maureen Thomas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0191688/",
+            "name": "Steven Culp",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1731880/",
+            "name": "Josh Hayden",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0384417/",
+            "name": "Jonathan Hill",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0086688/",
+            "name": "Penny Blake",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0617054/",
+            "name": "David Mylrea",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGYzNDJmOTktNWMzZC00MDY3LWE4NGYtMjRiM2JiYmY5NDIwXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/w3d7DdguO44aP3k4EDYfOPT0pjS.jpg",
     "details": {
+        "Stars": [
+            "Gabrielle Carteris",
+            "Steve Bacic",
+            "Jocelyne Loewen"
+        ],
+        "Genres": [
+            "Drama",
+            "Family"
+        ],
+        "Writer": [
+            "Mark Sanderson",
+            "Jeffrey Schenck"
+        ],
+        "Runtime": [
+            "87 min"
+        ],
+        "Director": [
+            "George Mendeluk"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "December 12, 2005 (United States)"
-        ],
-        "Also known as": [
-            "Un milagro para los Halls"
+            "2005-08-05"
         ],
         "Country of origin": [
             "Canada"
-        ],
-        "Filming locations": [
-            "British Columbia, Canada"
-        ],
-        "Production companies": [
-            "Shavick Entertainment",
-            "Insight Film Studios",
-            "Regent Entertainment"
         ]
     },
-    "reviews": 12,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0761808/",
-            "name": "Mark Sanderson"
+            "name": "Mark Sanderson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0770848/",
-            "name": "Jeffrey Schenck"
+            "name": "Jeffrey Schenck",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H27M",
@@ -65,18 +119,29 @@
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0578899/",
-            "name": "George Mendeluk"
+            "name": "George Mendeluk",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0483361/",
     "metascore": null,
-    "imdb_votes": 430,
+    "imdb_votes": 445,
     "popularity": 0,
-    "description": "In the tradition of such classic films as &quot;Miracle On 34th Street&quot;, a hip, eccentric marketing genius teaches a widow and her son the miracle of Christmas.",
-    "imdb_rating": "5.4/10 from 430 users",
-    "release_date": [],
-    "contentRating": "TV-PG",
-    "datePublished": "2005-12-12",
+    "description": "In the tradition of such classic films as \"Miracle On 34th Street\", a hip, eccentric marketing genius teaches a widow and her son the miracle of Christmas.",
+    "imdb_rating": "5.4/10 from 445 users",
+    "release_date": [
+        {
+            "date": "2006-12-22",
+            "country": "France"
+        },
+        {
+            "date": "2005-08-05",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "PG",
+    "datePublished": "2005-08-05",
+    "original_title": "Deck the Halls",
     "imdb_rating_average": 5.4,
-    "update_at": "2025-06-14T21:52:34"
+    "update_at": "2026-11-22T14:21:08"
 }

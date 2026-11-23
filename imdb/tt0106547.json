@@ -4,85 +4,161 @@
     "name": "David Copperfield",
     "site": "imdb",
     "year": "1993",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
-        "Family",
-        "Animation"
+        "Animation",
+        "Family"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0002054/",
-            "name": "Sheena Easton"
+            "name": "Sheena Easton",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001456/",
-            "name": "Kelly LeBrock"
+            "name": "Kelly LeBrock",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0502049/",
-            "name": "Julian Lennon"
+            "name": "Julian Lennon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005177/",
+            "name": "Howie Mandel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0545186/",
+            "name": "Joseph Marcell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0551908/",
+            "name": "Andrea Martin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001868/",
+            "name": "Michael York",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0050468/",
+            "name": "Sonja Ball",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0050468/",
+            "name": "Sonja Ball",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0131117/",
+            "name": "Mark Camacho",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjEwYzNmZDctYzRkZi00OGJiLTlmMDEtMDdjMmJlOTRlMGM0XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/6wgwD3snnqGq5Bx85f3dYNajnkv.jpg",
     "details": {
+        "Stars": [
+            "Sheena Easton",
+            "Kelly LeBrock",
+            "Julian Lennon"
+        ],
+        "Genres": [
+            "Animation",
+            "Family"
+        ],
+        "Writer": [
+            "Charles Dickens",
+            "Judith Reeves-Stevens",
+            "Garfield Reeves-Stevens"
+        ],
+        "Runtime": [
+            "92 min"
+        ],
+        "Director": [
+            "Don Arioli"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "December 10, 1993 (United States)"
+            "1993-12-10"
         ],
-        "Also known as": [
-            "Charles Dickens' David Copperfield"
-        ],
-        "Countries of origin": [
-            "France",
-            "Canada"
+        "Country of origin": [
+            "Canada",
+            "France"
         ],
         "Production companies": [
             "CinéGroupe",
-            "PMMP",
-            "Astral-National Financing"
+            "NBC Productions"
         ]
     },
-    "reviews": 7,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0002042/",
-            "name": "Charles Dickens"
+            "name": "Charles Dickens",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0716321/",
-            "name": "Judith Reeves-Stevens"
+            "name": "Judith Reeves-Stevens",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0716320/",
-            "name": "Garfield Reeves-Stevens"
+            "name": "Garfield Reeves-Stevens",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H32M",
     "keywords": [
-        "cheese",
-        "cheese factory",
+        "based on novel or book",
+        "musical",
+        "victorian england",
+        "anthropomorphism",
+        "cartoon cat",
+        "child labor",
+        "cartoon dog",
         "vulture",
-        "robin",
-        "waterfall"
+        "abusive relationship",
+        "animation",
+        "furry",
+        "gender discrimination"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0034860/",
-            "name": "Don Arioli"
+            "name": "Don Arioli",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0106547/",
     "metascore": null,
-    "imdb_votes": 260,
+    "imdb_votes": 275,
     "popularity": 0,
-    "description": "An animated version of the classic David Copperfield story. Filled with music, color, and anthropomorphic versions of the classic characters.",
-    "imdb_rating": "6.3/10 from 260 users",
-    "release_date": [],
+    "description": "A young man journeys from a difficult childhood to maturity, exploring social injustice, personal development, and the complexities of human relationships.",
+    "imdb_rating": "6.3/10 from 275 users",
+    "release_date": [
+        {
+            "date": "1993-12-10",
+            "country": "Brazil"
+        },
+        {
+            "date": "1993-12-10",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1993-12-10",
+    "original_title": "David Copperfield",
     "imdb_rating_average": 6.3,
-    "update_at": "2025-05-04T19:00:30"
+    "update_at": "2026-11-22T23:07:29"
 }

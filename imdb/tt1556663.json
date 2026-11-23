@@ -4,70 +4,91 @@
     "name": "The Pool",
     "site": "imdb",
     "year": "2004",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Romance"
+        "Romance",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0095718/",
-            "name": "James Booth"
+            "name": "James Booth",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0461063/",
-            "name": "Rosalind Knight"
+            "name": "Rosalind Knight",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1373929/",
-            "name": "Jamie Davis"
+            "name": "Jamie Davis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1109007/",
+            "name": "Micaiah Dring",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1776113/",
+            "name": "Richard Frame",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "James Booth",
+            "Rosalind Knight",
+            "Jamie Davis"
+        ],
+        "Genres": [
+            "Romance",
+            "Short"
+        ],
+        "Writer": [
+            "Chris Richards"
+        ],
+        "Runtime": [
+            "7 min"
+        ],
+        "Director": [
+            "Chris Richards"
         ],
         "Release date": [
-            "March 5, 2004 (United Kingdom)"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Filming locations": [
-            "Birmingham, West Midlands, England, UK"
-        ],
-        "Production company": [
-            "Bonneville Pictures"
+            "2004"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1317983/",
-            "name": "Chris Richards"
+            "name": "Chris Richards",
+            "@type": "Person"
         }
     ],
     "duration": "PT7M",
-    "keywords": [
-        "swimming"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1317983/",
-            "name": "Chris Richards"
+            "name": "Chris Richards",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1556663/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "An elderly couple break into a derelict Victorian swimming baths and take a magical dive back into their past.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2004-03-05",
+    "datePublished": "2004",
+    "original_title": "The Pool",
     "imdb_rating_average": 0,
-    "update_at": "2026-02-04T04:49:31"
+    "update_at": "2026-11-22T13:42:07"
 }

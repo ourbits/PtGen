@@ -4,7 +4,7 @@
     "name": "Another Roll in the Hay",
     "site": "imdb",
     "year": "1985",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Adult",
         "Comedy",
@@ -13,81 +13,141 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000183/",
-            "name": "Traci Lords"
+            "name": "Traci Lords",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0249892/",
-            "name": "Paul Thomas"
+            "name": "Paul Thomas",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0249982/",
-            "name": "Eric Edwards"
+            "name": "Eric Edwards",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0039106/",
+            "name": "Rachel Ashley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0853215/",
+            "name": "Stevie Taylor",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0858908/",
+            "name": "Heather Thomas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0057488/",
+            "name": "Kristara Barrington",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm16450050/",
+            "name": "David Dukeham",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm16450050/",
+            "name": "David Dukeham",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0329627/",
+            "name": "Wilfred Hyde Goon",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/j40ZxSWy1FuGQ7o9q00bRtfcLIU.jpg",
     "details": {
+        "Stars": [
+            "Traci Lords",
+            "Paul Thomas",
+            "Eric Edwards"
+        ],
+        "Genres": [
+            "Adult",
+            "Comedy",
+            "Crime"
+        ],
+        "Writer": [
+            "Herman Hoffman",
+            "David I. Frazer",
+            "Svetlana Mischoff"
+        ],
+        "Runtime": [
+            "79 min"
+        ],
+        "Director": [
+            "David I. Frazer",
+            "Svetlana Mischoff"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 22, 1985 (United States)"
-        ],
-        "Also known as": [
-            "Ansias de amar"
+            "1985-12-07"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Southern California, California, USA"
-        ],
-        "Production company": [
-            "Cinetrex"
+        "Production companies": [
+            "Collector's Video"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3286876/",
-            "name": "Herman Hoffman"
+            "name": "Herman Hoffman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0292500/",
-            "name": "David I. Frazer"
+            "name": "David I. Frazer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0841247/",
-            "name": "Svetlana Mischoff"
+            "name": "Svetlana Mischoff",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H19M",
-    "keywords": [
-        "false eyelashes",
-        "milf",
-        "incest",
-        "sex with stepmother",
-        "sex with stepdaughter"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0292500/",
-            "name": "David I. Frazer"
+            "name": "David I. Frazer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0841247/",
-            "name": "Svetlana Mischoff"
+            "name": "Svetlana Mischoff",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0088730/",
     "metascore": null,
-    "imdb_votes": 74,
+    "imdb_votes": 73,
     "popularity": 0,
     "description": "A hitchhiker gets picked up by a farmer and is invited to stay and work on the farm. He gets friendly with the farmers sister; and also there are some shenanigans related to a famous race horse.",
-    "imdb_rating": "6.7/10 from 74 users",
-    "release_date": [],
-    "contentRating": "X",
-    "datePublished": "1985-03-22",
-    "imdb_rating_average": 6.7,
-    "update_at": "2025-03-25T15:45:33"
+    "imdb_rating": "6.8/10 from 73 users",
+    "release_date": [
+        {
+            "date": "1985-12-07",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NC-17",
+    "datePublished": "1985-12-07",
+    "original_title": "Another Roll in the Hay",
+    "imdb_rating_average": 6.8,
+    "update_at": "2026-11-22T23:28:07"
 }

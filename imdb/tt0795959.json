@@ -4,67 +4,125 @@
     "name": "Le notti bianche",
     "site": "imdb",
     "year": "1962",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0900143/",
-            "name": "Monica Vitti"
+            "name": "Monica Vitti",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0097917/",
-            "name": "Giulio Bosetti"
+            "name": "Giulio Bosetti",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2245333/",
-            "name": "Alberto Marescalchi"
+            "name": "Alberto Marescalchi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0124375/",
+            "name": "Manlio Busoni",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0182292/",
+            "name": "Romolo Costa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0337178/",
+            "name": "Sergio Graziani",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0484759/",
+            "name": "Mara Landi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0557806/",
+            "name": "Augusto Mastrantoni",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0666743/",
+            "name": "Andreina Paul",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0681583/",
+            "name": "Ottavia Piccolo",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Italian"
+        "Stars": [
+            "Monica Vitti",
+            "Giulio Bosetti",
+            "Alberto Marescalchi"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Alessandro De Stefani",
+            "Fyodor Dostoevsky"
+        ],
+        "Director": [
+            "Vittorio Cottafavi"
         ],
         "Release date": [
-            "February 9, 1962 (Italy)"
+            "1962-02-09"
         ],
         "Country of origin": [
             "Italy"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0211847/",
-            "name": "Alessandro De Stefani"
+            "name": "Alessandro De Stefani",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0234502/",
-            "name": "Fyodor Dostoevsky"
+            "name": "Fyodor Dostoevsky",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0182913/",
-            "name": "Vittorio Cottafavi"
+            "name": "Vittorio Cottafavi",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0795959/",
     "metascore": null,
-    "imdb_votes": 13,
+    "imdb_votes": 18,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "6.7/10 from 13 users",
-    "release_date": [],
+    "description": "New to Livorno, a man meets a crying woman on a bridge at midnight, in this tale of love and heartbreak. Believed to be lost.",
+    "imdb_rating": "6.6/10 from 18 users",
+    "release_date": [
+        {
+            "date": "1962-02-09",
+            "country": "Italy"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1962-02-09",
-    "imdb_rating_average": 6.7,
-    "update_at": "2025-03-29T14:52:20"
+    "original_title": "Le notti bianche",
+    "imdb_rating_average": 6.6,
+    "update_at": "2026-11-22T05:07:28"
 }

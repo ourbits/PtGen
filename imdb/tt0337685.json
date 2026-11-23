@@ -4,7 +4,7 @@
     "name": "Murphy Brown: TV Tales",
     "site": "imdb",
     "year": "2002",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Documentary"
@@ -12,45 +12,90 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000298/",
-            "name": "Candice Bergen"
+            "name": "Candice Bergen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0179976/",
-            "name": "Pat Corley"
+            "name": "Pat Corley",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0254045/",
-            "name": "Linda Ellerbee"
+            "name": "Linda Ellerbee",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0274170/",
+            "name": "Geraldine A. Ferraro",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0004933/",
+            "name": "Faith Ford",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0453909/",
+            "name": "Charles Kimbrough",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0665123/",
+            "name": "Robert Pastorelli",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0703034/",
+            "name": "Dan Quayle",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005344/",
+            "name": "Joe Regalbuto",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0789470/",
+            "name": "Grant Shaud",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Candice Bergen",
+            "Pat Corley",
+            "Linda Ellerbee"
+        ],
+        "Genres": [
+            "Comedy",
+            "Documentary"
+        ],
+        "Runtime": [
+            "120 min"
+        ],
         "Release date": [
-            "August 26, 2002 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "E! Entertainment Television"
+            "2002"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT2H",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt0337685/",
     "metascore": null,
-    "imdb_votes": 36,
+    "imdb_votes": 32,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "8.9/10 from 36 users",
+    "imdb_rating": "8.7/10 from 32 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2002-08-26",
-    "imdb_rating_average": 8.9,
-    "update_at": "2025-08-28T01:00:35"
+    "datePublished": "2002",
+    "original_title": "Murphy Brown: TV Tales",
+    "imdb_rating_average": 8.7,
+    "update_at": "2026-11-22T20:42:09"
 }

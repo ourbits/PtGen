@@ -13,71 +13,169 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0910040/",
-            "name": "Harriet Walter"
+            "name": "Harriet Walter",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5268420/",
-            "name": "Kimberley Howson"
+            "name": "Kimberley Howson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm4570096/",
-            "name": "David Alexander"
+            "name": "David Alexander",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5256984/",
+            "name": "Charlotte Vega",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4714629/",
+            "name": "Sergei Furmanjuk",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3735694/",
+            "name": "Maksim Demidov",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1875916/",
+            "name": "Tambet Tuisk",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1360837/",
+            "name": "Dan Renton Skinner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2742963/",
+            "name": "Kristo Viiding",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7709676/",
+            "name": "Niall Murphy",
+            "@type": "Person"
         }
     ],
-    "critic": 50,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjBkNzU3YTYtNzk4ZC00OTRjLTg5OGUtMTcyMGE4NjdlN2ZjXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/c4D22vnat4DUm9a9TFPZ0abDEsc.jpg",
     "details": {
+        "Stars": [
+            "Harriet Walter",
+            "Kimberley Howson",
+            "David Alexander"
+        ],
+        "Genres": [
+            "Horror",
+            "Thriller",
+            "War"
+        ],
+        "Writer": [
+            "Ben Parker"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "Ben Parker"
+        ],
         "Language": [
-            "English"
+            "English",
+            "German",
+            "Russian"
         ],
         "Release date": [
-            "September 26, 2022 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Los restos de Hitler"
-        ],
-        "Official site": [
-            "Official site - https://www.ifcfilms.com/films/burial"
+            "2022-09-02"
         ],
         "Country of origin": [
+            "Estonia",
             "United Kingdom"
-        ],
-        "Filming locations": [
-            "Estonia"
         ],
         "Production companies": [
             "Stigma Films",
-            "Allfilm",
-            "Fields Park Media Partners"
+            "Head Gear Films",
+            "Ffilm Cymru Wales",
+            "Altitude Media Group",
+            "National Lottery",
+            "Allfilm"
         ]
     },
-    "reviews": 30,
+    "reviews": 0,
+    "tagline": "Some secrets should stay buried.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3951225/",
-            "name": "Ben Parker"
+            "name": "Ben Parker",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H35M",
     "keywords": [
-        "soldier",
-        "group"
+        "world war ii",
+        "joseph stalin",
+        "werewolf",
+        "nazi occultism",
+        "adolf hitler"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3951225/",
-            "name": "Ben Parker"
+            "name": "Ben Parker",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt13063384/",
-    "metascore": 58,
-    "imdb_votes": 2272,
+    "metascore": null,
+    "imdb_votes": 2430,
     "popularity": 0,
-    "description": "A small group of Russian soldiers have the task of taking Hitler&apos;s discovered remains back to Stalin in Moscow.",
-    "imdb_rating": "5/10 from 2272 users",
-    "release_date": [],
+    "description": "Set in the last days of World War II, a small band of Russian soldiers led by intelligence officer Brana Vasilyeva, who is tasked with trafficking the remains of Hitler back to Stalin in Russia. En route, the unit is attacked by German ‘Werewolf’ partisans and picked off one-by-one. Brana leads her surviving comrades in a last stand to ensure their ‘cargo’ doesn’t fall into the hands of those who would see it buried in order to hide the truth forever.",
+    "imdb_rating": "5.0/10 from 2430 users",
+    "release_date": [
+        {
+            "date": "2023-02-16",
+            "country": "Germany"
+        },
+        {
+            "date": "2022-11-12",
+            "country": "Estonia"
+        },
+        {
+            "date": "2023-02-16",
+            "country": "Spain"
+        },
+        {
+            "date": "2023-04-19",
+            "country": "France"
+        },
+        {
+            "date": "2022-08-29",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "2023-03-02",
+            "country": "South Korea"
+        },
+        {
+            "date": "2022-09-02",
+            "country": "Netherlands"
+        },
+        {
+            "date": "2022-09-02",
+            "country": "Portugal"
+        },
+        {
+            "date": "2022-09-02",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2022-09-26",
-    "imdb_rating_average": 5,
-    "update_at": "2025-09-11T01:28:49"
+    "datePublished": "2022-09-02",
+    "original_title": "Burial",
+    "imdb_rating_average": 5.0,
+    "update_at": "2026-11-22T04:21:07"
 }

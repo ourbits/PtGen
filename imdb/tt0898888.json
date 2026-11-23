@@ -4,59 +4,74 @@
     "name": "3 Wishes",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2048950/",
-            "name": "Terry Coolen"
+            "name": "Terry Coolen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1151938/",
-            "name": "George Green"
+            "name": "George Green",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0449643/",
-            "name": "Amy Kerr"
+            "name": "Amy Kerr",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1763590/",
+            "name": "Laura Kohoot",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Terry Coolen",
+            "George Green",
+            "Amy Kerr"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Chris Cuthbertson"
+        ],
+        "Runtime": [
+            "3 min"
+        ],
+        "Director": [
+            "Chris Cuthbertson"
         ],
         "Release date": [
-            "October 30, 2006 (Canada)"
-        ],
-        "Country of origin": [
-            "Canada"
-        ],
-        "Filming locations": [
-            "Fisherman's Cove, Eastern Passage, Nova Scotia, Canada"
-        ],
-        "Production company": [
-            "Afterdark Productions Inc."
+            "2006-01-01"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1681202/",
-            "name": "Chris Cuthbertson"
+            "name": "Chris Cuthbertson",
+            "@type": "Person"
         }
     ],
     "duration": "PT3M",
-    "keywords": [
-        "genie"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1681202/",
-            "name": "Chris Cuthbertson"
+            "name": "Chris Cuthbertson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0898888/",
@@ -65,9 +80,15 @@
     "popularity": 0,
     "description": "Wishes do come true! 3 Wishes tells the comical story of an encounter between two fishermen and a beautiful Genie that they discover in a strange old bottle that washes up on a deserted beach.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2006-01-01",
+            "country": "Canada"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2006-10-30",
+    "datePublished": "2006-01-01",
+    "original_title": "3 Wishes",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-13T15:26:19"
+    "update_at": "2026-11-22T23:00:44"
 }

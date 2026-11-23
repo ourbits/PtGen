@@ -3,62 +3,123 @@
     "sid": "tt0165632",
     "name": "Aus der Franzosenzeit",
     "site": "imdb",
-    "@type": "Movie",
-    "genre": null,
+    "year": "1981",
+    "@type": "TVMovie",
+    "genre": [
+        "Drama"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0344220/",
-            "name": "Elsa Grube-Deister"
+            "name": "Elsa Grube-Deister",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0375213/",
-            "name": "Martin Hellberg"
+            "name": "Martin Hellberg",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0420468/",
-            "name": "Mike Jehmann"
+            "name": "Mike Jehmann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0464704/",
+            "name": "Ruth Kommerell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0523959/",
+            "name": "Ute Lubosch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0577956/",
+            "name": "Eberhard Mellies",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0593900/",
+            "name": "Gojko Mitić",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0631102/",
+            "name": "Leon Niemczyk",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0720665/",
+            "name": "Peter Reusse",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0937760/",
+            "name": "Gerry Wolff",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Elsa Grube-Deister",
+            "Martin Hellberg",
+            "Mike Jehmann"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Dagmar Damek",
+            "Fritz Reuter",
+            "Rolf Schulz"
+        ],
+        "Runtime": [
+            "100 min"
+        ],
+        "Director": [
+            "Dagmar Damek"
+        ],
         "Language": [
             "German"
         ],
-        "Countries of origin": [
-            "West Germany",
-            "East Germany"
+        "Release date": [
+            "1981-01-01"
         ],
-        "Production companies": [
-            "Allianz Filmproduktion",
-            "Zweites Deutsches Fernsehen (ZDF)",
-            "Österreichischer Rundfunk (ORF)"
+        "Country of origin": [
+            "Germany"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0198699/",
-            "name": "Dagmar Damek"
+            "name": "Dagmar Damek",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0720678/",
-            "name": "Fritz Reuter"
+            "name": "Fritz Reuter",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0776520/",
-            "name": "Rolf Schulz"
+            "name": "Rolf Schulz",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H40M",
     "keywords": [
-        "f rated",
-        "based on novel"
+        "woman director"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0198699/",
-            "name": "Dagmar Damek"
+            "name": "Dagmar Damek",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0165632/",
@@ -67,9 +128,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1981-01-01",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1981-01-01",
+    "original_title": "Aus der Franzosenzeit",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-14T06:35:32"
+    "update_at": "2026-11-22T22:28:30"
 }

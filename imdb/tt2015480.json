@@ -5,55 +5,85 @@
     "site": "imdb",
     "year": "1978",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm12548458/",
-            "name": "Tsuneo Miyagi"
+            "name": "Tsuneo Miyagi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm12548459/",
-            "name": "Takashi Morimoto"
+            "name": "Takashi Morimoto",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0541589/",
-            "name": "Kunitoshi Manda"
+            "name": "Kunitoshi Manda",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm12548460/",
+            "name": "Yôichi Tejima",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1130006/",
+            "name": "Shigehiko Hasumi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0475905/",
+            "name": "Kiyoshi Kurosawa",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/ckAAoCw2LI0e9tOzv9pOQpwLd8s.jpg",
     "details": {
+        "Stars": [
+            "Tsuneo Miyagi",
+            "Takashi Morimoto",
+            "Kunitoshi Manda"
+        ],
+        "Writer": [
+            "Kiyoshi Kurosawa"
+        ],
+        "Runtime": [
+            "45 min"
+        ],
+        "Director": [
+            "Kiyoshi Kurosawa"
+        ],
         "Language": [
             "Japanese"
         ],
         "Release date": [
-            "June 25, 1978 (Japan)"
-        ],
-        "Also known as": [
-            "ＳＣＨＯＯＬ ＤＡＹＳ"
+            "1978-01-01"
         ],
         "Country of origin": [
             "Japan"
         ],
-        "Production company": [
-            "Parodias Unity"
+        "Production companies": [
+            "Palodias Unity"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0475905/",
-            "name": "Kiyoshi Kurosawa"
+            "name": "Kiyoshi Kurosawa",
+            "@type": "Person"
         }
     ],
     "duration": "PT45M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0475905/",
-            "name": "Kiyoshi Kurosawa"
+            "name": "Kiyoshi Kurosawa",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2015480/",
@@ -62,9 +92,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1978-01-01",
+            "country": "Japan"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1978-06-25",
+    "datePublished": "1978-01-01",
+    "original_title": "School Days",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-28T10:42:57"
+    "update_at": "2026-11-22T02:07:28"
 }

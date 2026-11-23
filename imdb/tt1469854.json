@@ -3,62 +3,87 @@
     "sid": "tt1469854",
     "name": "A Stirring Story",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2008",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3536990/",
-            "name": "Michelle Crane"
+            "name": "Michelle Crane",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1382356/",
-            "name": "Scott Crane"
+            "name": "Scott Crane",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3537336/",
-            "name": "Stephanie Macknight"
+            "name": "Stephanie Macknight",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0792610/",
+            "name": "Zachary Ray Sherman",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Michelle Crane",
+            "Scott Crane",
+            "Stephanie Macknight"
         ],
-        "Country of origin": [
-            "United States"
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "John Boucher"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "John Boucher"
+        ],
+        "Release date": [
+            "2008"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2200756/",
-            "name": "John Boucher"
+            "name": "John Boucher",
+            "@type": "Person"
         }
     ],
     "duration": "PT10M",
-    "keywords": [
-        "underground film",
-        "independent film"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2200756/",
-            "name": "John Boucher"
+            "name": "John Boucher",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1469854/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "A prodigal son returns to a family primed for self-destruction.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2008",
+    "original_title": "A Stirring Story",
     "imdb_rating_average": 0,
-    "update_at": "2025-04-25T18:23:01"
+    "update_at": "2026-11-22T12:14:16"
 }

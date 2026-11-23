@@ -5,74 +5,141 @@
     "site": "imdb",
     "year": "1956",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1099672/",
-            "name": "Herbert Richter"
+            "name": "Herbert Richter",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0116350/",
-            "name": "Angela Brunner"
+            "name": "Angela Brunner",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0257057/",
-            "name": "Christoph Engel"
+            "name": "Christoph Engel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0373928/",
+            "name": "Paul Heidemann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1150871/",
+            "name": "Rudi Schiemann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0748969/",
+            "name": "Marianne Rudolph",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0078598/",
+            "name": "Maria Besendahl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0720116/",
+            "name": "Arthur Reppert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0626861/",
+            "name": "Willi Neuenhahn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0674281/",
+            "name": "Dieter Perlwitz",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTEwNTA4MDAtZWQzNy00MGFhLTgzNDItMDdiMTI1ZTYzMTY1XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/heZcQaOeQNyCdpXhZkK2nCtcasj.jpg",
     "details": {
+        "Stars": [
+            "Herbert Richter",
+            "Angela Brunner",
+            "Christoph Engel"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "Writer": [
+            "Kurt Bortfeldt",
+            "Gerhard Neumann",
+            "Günther Rücker"
+        ],
+        "Runtime": [
+            "79 min"
+        ],
+        "Director": [
+            "Günter Reisch"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "March 30, 1956 (East Germany)"
-        ],
-        "Also known as": [
-            "Молодо-зелено"
+            "1956-03-29"
         ],
         "Country of origin": [
             "East Germany"
         ],
-        "Production company": [
-            "Deutsche Film (DEFA)"
+        "Production companies": [
+            "DEFA-Studio für Spielfilme"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0097524/",
-            "name": "Kurt Bortfeldt"
+            "name": "Kurt Bortfeldt",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1190484/",
-            "name": "Gerhard Neumann"
+            "name": "Gerhard Neumann",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0754081/",
-            "name": "Günther Rücker"
+            "name": "Günther Rücker",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H19M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0718383/",
-            "name": "Günter Reisch"
+            "name": "Günter Reisch",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0174800/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "At a GDR farm, VEAB chief Amann bans cabbage in favor of cauliflower, enraging LPG accountant Gritt. Mistaking visiting writer Hans Brauer for a high-level inspector, Amann backpedals, clearing the harvest issue, while Brauer and Gritt spark an unexpected romance.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1956-03-29",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1956-03-30",
+    "datePublished": "1956-03-29",
+    "original_title": "Junges Gemüse",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-29T03:00:18"
+    "update_at": "2026-11-22T08:56:18"
 }

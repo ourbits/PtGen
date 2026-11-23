@@ -3,6 +3,7 @@
     "sid": "tt5106120",
     "name": "Movie Madness",
     "site": "imdb",
+    "year": "2016",
     "@type": "Movie",
     "genre": [
         "Horror",
@@ -11,75 +12,132 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0437263/",
-            "name": "Big Daddy Kane"
+            "name": "Big Daddy Kane",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm6753606/",
-            "name": "Phillip Penza"
+            "name": "Phillip Penza",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm7648099/",
-            "name": "Big Brody"
+            "name": "Big Brody",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7639532/",
+            "name": "Ava Anderfuren",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7639536/",
+            "name": "Jerry Anderfuren",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7639533/",
+            "name": "Triveni Baron",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6753609/",
+            "name": "Audrey Beth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3493941/",
+            "name": "Shawna Craig",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6838140/",
+            "name": "Dan Duke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7481757/",
+            "name": "Doris Gist",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1ODIzMzE0OV5BMl5BanBnXkFtZTgwNzY1MTg2NzE@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/suDQaGC7Gps3fklX8RgOdR6JP40.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Big Daddy Kane",
+            "Phillip Penza",
+            "Big Brody"
+        ],
+        "Genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "Writer": [
+            "Phillip Penza",
+            "Leo Wong"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Big Daddy Kane",
+            "Phillip Penza"
         ],
         "Release date": [
-            "April 2016 (United States)"
+            "2016-04-01"
         ],
-        "Official sites": [
-            "Official Site - http://www.movie-madness.com/",
-            "Official site - http://www.movie-madness.com/"
-        ],
-        "Filming locations": [
-            "Flagstaff, Arizona, USA"
-        ],
-        "Production company": [
-            "Little Books Little Films"
-        ],
-        "Countries of origin": [
+        "Country of origin": [
             "France",
-            "United States"
+            "United States of America"
+        ],
+        "Production companies": [
+            "Little Books Little Films"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm6753606/",
-            "name": "Phillip Penza"
+            "name": "Phillip Penza",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0939216/",
-            "name": "Leo Wong"
+            "name": "Leo Wong",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        "murder"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0437263/",
-            "name": "Big Daddy Kane"
+            "name": "Big Daddy Kane",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm6753606/",
-            "name": "Phillip Penza"
+            "name": "Phillip Penza",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt5106120/",
     "metascore": null,
-    "imdb_votes": 66,
+    "imdb_votes": 71,
     "popularity": 0,
-    "description": "A movie bootlegger stumbles into a theater of murder and madness after it&apos;s taken over by a demonic hitman.",
-    "imdb_rating": "5.4/10 from 66 users",
-    "release_date": [],
-    "contentRating": "R",
-    "datePublished": null,
-    "imdb_rating_average": 5.4,
-    "update_at": "2026-02-22T21:49:24"
+    "description": "A movie bootlegger stumbles into a theater of murder and madness after it's taken over by a demonic hitman.",
+    "imdb_rating": "5.3/10 from 71 users",
+    "release_date": [
+        {
+            "date": "2016-04-01",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2016-04-01",
+    "original_title": "Movie Madness",
+    "imdb_rating_average": 5.3,
+    "update_at": "2026-11-22T22:14:17"
 }
