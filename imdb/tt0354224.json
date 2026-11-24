@@ -4,42 +4,84 @@
     "name": "X Y Z",
     "site": "imdb",
     "year": "1961",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0776711/",
+            "name": "Erik Schumann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0127154/",
+            "name": "Grit Boettcher",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0392436/",
+            "name": "Hans Holt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0295435/",
+            "name": "Hans Karl Friedrich",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Erik Schumann",
+            "Grit Boettcher",
+            "Hans Holt"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Klabund"
+        ],
+        "Runtime": [
+            "65 min"
+        ],
+        "Director": [
+            "Hans-Dieter Schwarze"
         ],
         "Release date": [
-            "December 1, 1961 (West Germany)"
-        ],
-        "Country of origin": [
-            "West Germany"
-        ],
-        "Production companies": [
-            "Bavaria Atelier",
-            "Westdeutscher Rundfunk (WDR)"
+            "1961"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm1323293/",
+            "name": "Klabund",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT1H5M",
-    "keywords": [
-        "based on play"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0777683/",
+            "name": "Hans-Dieter Schwarze",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0354224/",
     "metascore": null,
     "imdb_votes": 18,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "7.5/10 from 18 users",
+    "imdb_rating": "7.2/10 from 18 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1961-12-01",
-    "imdb_rating_average": 7.5,
-    "update_at": "2025-10-09T16:39:09"
+    "datePublished": "1961",
+    "original_title": "X Y Z",
+    "imdb_rating_average": 7.2,
+    "update_at": "2026-11-23T22:14:23"
 }

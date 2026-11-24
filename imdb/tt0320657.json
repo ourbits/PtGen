@@ -4,62 +4,83 @@
     "name": "The Trial of James Earl Ray",
     "site": "imdb",
     "year": "1993",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
-        "Documentary",
-        "Biography"
+        "Biography",
+        "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1186773/",
-            "name": "Earl Caldwell"
+            "name": "Earl Caldwell",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1184833/",
-            "name": "W. Hickman Ewing"
+            "name": "W. Hickman Ewing",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1184902/",
-            "name": "Marvin E. Frankel"
+            "name": "Marvin E. Frankel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0403095/",
+            "name": "Charlayne Hunter-Gault",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1187018/",
+            "name": "William Pepper",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0712858/",
+            "name": "James Earl Ray",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Earl Caldwell",
+            "W. Hickman Ewing",
+            "Marvin E. Frankel"
+        ],
+        "Genres": [
+            "Biography",
+            "Documentary"
+        ],
+        "Runtime": [
+            "180 min"
         ],
         "Release date": [
-            "April 4, 1993 (United States)"
-        ],
-        "Also known as": [
-            "Guilt or Innocence: The Trial of James Earl Ray"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Memphis, Tennessee, USA"
+            "1993-04-04"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": "PT3H",
-    "keywords": [
-        "martin luther king jr. assassination",
-        "judicial system",
-        "assassin",
-        "assassination",
-        "assassination plot"
-    ],
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt0320657/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
     "description": "James Earl Ray, the assassin of Martin Luther King Jr, is given a mock trial in this courtroom drama.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1993-04-04",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1993-04-04",
+    "original_title": "The Trial of James Earl Ray",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-10T13:13:29"
+    "update_at": "2026-11-23T08:56:25"
 }

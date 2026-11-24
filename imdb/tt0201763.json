@@ -5,60 +5,105 @@
     "site": "imdb",
     "year": "1925",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0223616/",
-            "name": "France Dhélia"
+            "name": "France Dhélia",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0198210/",
-            "name": "Lucien Dalsace"
+            "name": "Lucien Dalsace",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0647378/",
-            "name": "Paul Ollivier"
+            "name": "Paul Ollivier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0216379/",
+            "name": "Henriette Delannoy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0137107/",
+            "name": "Léonce Cargue",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1257773/",
+            "name": "Maëthella",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0894290/",
+            "name": "Arlette Verlaine",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1256421/",
+            "name": "Louise Astruc",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2456004/",
+            "name": "Rene Sambreuse",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0891766/",
+            "name": "Véga",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTJkZTRlNjctNTdiNy00NDU4LWIyMTgtODY0OWUxYWQ0MWE0XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/qZ7jkqIbv1v8PJfcE6vGSKaTGQX.jpg",
     "details": {
-        "Languages": [
-            "None",
+        "Stars": [
+            "France Dhélia",
+            "Lucien Dalsace",
+            "Paul Ollivier"
+        ],
+        "Writer": [
+            "Leon Frapie",
+            "Gaston Roudès"
+        ],
+        "Director": [
+            "Gaston Roudès"
+        ],
+        "Language": [
             "French"
         ],
         "Release date": [
-            "October 2, 1925 (France)"
-        ],
-        "Also known as": [
-            "La madrecita"
+            "1925-10-02"
         ],
         "Country of origin": [
             "France"
-        ],
-        "Production company": [
-            "Grandes Productions Cinématographiques"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0292009/",
-            "name": "Leon Frapie"
+            "name": "Leon Frapie",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0745577/",
-            "name": "Gaston Roudès"
+            "name": "Gaston Roudès",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0745577/",
-            "name": "Gaston Roudès"
+            "name": "Gaston Roudès",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0201763/",
@@ -67,9 +112,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1925-10-02",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1925-10-02",
+    "original_title": "La maternelle",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-30T22:00:18"
+    "update_at": "2026-11-23T20:35:07"
 }

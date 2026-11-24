@@ -1,82 +1,155 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Disney's The Fluppy Dogs",
+            "country": "Australia"
+        },
+        {
+            "title": "Disneys sprechende Hunde",
+            "country": "Germany"
+        }
+    ],
     "sid": "tt0090432",
     "name": "Fluppy Dogs",
     "site": "imdb",
     "year": "1986",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
-        "Animation",
         "Adventure",
+        "Animation",
         "Family"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0250616/",
-            "name": "Marshall Efron"
+            "name": "Marshall Efron",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0828186/",
-            "name": "Carl Steven"
+            "name": "Carl Steven",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0607474/",
-            "name": "Cloyce Morrow"
+            "name": "Cloyce Morrow",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0808401/",
+            "name": "Hal Smith",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0808401/",
+            "name": "Hal Smith",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0808401/",
+            "name": "Hal Smith",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0615718/",
+            "name": "Lorenzo Music",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0672178/",
+            "name": "Jessica Pennington",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0082614/",
+            "name": "Michael Rye",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0089454/",
+            "name": "Susan Blu",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjljMTFhMDAtM2E0YS00NGZhLThiNGItNWY2MjljYWM5MjViXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/xxlFBvqVJwzV6CgF6jIdHXYbJFE.jpg",
     "details": {
+        "Stars": [
+            "Marshall Efron",
+            "Carl Steven",
+            "Cloyce Morrow"
+        ],
+        "Genres": [
+            "Adventure",
+            "Animation",
+            "Family"
+        ],
+        "Writer": [
+            "Haskell Barkin",
+            "Bruce Talkington"
+        ],
+        "Runtime": [
+            "45 min"
+        ],
+        "Director": [
+            "Fred Wolf"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 27, 1986 (United States)"
-        ],
-        "Also known as": [
-            "Disneys sprechende Hunde"
+            "1986-11-27"
         ],
         "Country of origin": [
-            "United States"
+            "Japan",
+            "United States of America"
         ],
-        "Production company": [
-            "Disney Television Animation"
+        "Production companies": [
+            "Tokyo Movie Shinsha",
+            "Walt Disney Television"
         ]
     },
-    "reviews": 21,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0055047/",
-            "name": "Haskell Barkin"
+            "name": "Haskell Barkin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0848091/",
-            "name": "Bruce Talkington"
+            "name": "Bruce Talkington",
+            "@type": "Person"
         }
     ],
     "duration": "PT45M",
     "keywords": [
-        "snow adventure",
-        "unsold tv series pilot",
-        "dog",
-        "alternate reality",
-        "animal escapes pound"
+        "portal",
+        "talking dog"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0937747/",
-            "name": "Fred Wolf"
+            "name": "Fred Wolf",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0090432/",
     "metascore": null,
-    "imdb_votes": 375,
+    "imdb_votes": 392,
     "popularity": 0,
-    "description": "A band of dimension hopping humanoid dogs need the help of two kids to return home.",
-    "imdb_rating": "7.4/10 from 375 users",
-    "release_date": [],
-    "contentRating": "TV-G",
+    "description": "Five pastel-colored talking (Fluppy) dogs who arrive through a Fluppy interdimensional doorway. Upon arrival, the dogs befriend 10-year-old Jamie and his neighbor Claire. The friends must help the Fluppy dogs avoid the clutches of the evil exotic-animal collector Wagstaff and find the doorway that will lead them back to their world.",
+    "imdb_rating": "7.3/10 from 392 users",
+    "release_date": [
+        {
+            "date": "1986-11-27",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "G",
     "datePublished": "1986-11-27",
-    "imdb_rating_average": 7.4,
-    "update_at": "2025-06-29T01:13:05"
+    "original_title": "Fluppy Dogs",
+    "imdb_rating_average": 7.3,
+    "update_at": "2026-11-23T11:35:25"
 }

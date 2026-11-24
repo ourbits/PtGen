@@ -3,7 +3,8 @@
     "sid": "tt0401313",
     "name": "Chasing the Dragon",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1982",
+    "@type": "Short",
     "genre": [
         "Drama",
         "Short"
@@ -11,61 +12,115 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0091899/",
-            "name": "Eric Bogosian"
+            "name": "Eric Bogosian",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0041542/",
-            "name": "Alexandra Auder"
+            "name": "Alexandra Auder",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1579788/",
-            "name": "Nancy Dwyer"
-        }
-    ],
-    "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzdmM2I3YzUtOGYzMy00YmJjLWE0MWEtYThjYmI2ZjVjNmVjXkEyXkFqcGc@._V1_.jpg",
-    "details": {
-        "Language": [
-            "English"
-        ],
-        "Country of origin": [
-            "United States"
-        ]
-    },
-    "reviews": 0,
-    "creators": [
-        {
-            "url": "https://www.imdb.com/name/nm0041536/",
-            "name": "Michel Auder"
+            "name": "Nancy Dwyer",
+            "@type": "Person"
         },
         {
-            "url": "https://www.imdb.com/name/nm0091899/",
-            "name": "Eric Bogosian"
+            "url": "https://www.imdb.com/name/nm0301147/",
+            "name": "Nina Gaidarova",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1580004/",
+            "name": "Katy Monier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0624156/",
+            "name": "Alice Neel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0808318/",
+            "name": "Geraldine Smith",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1725806/",
-            "name": "Michael Zwack"
+            "name": "Michael Zwack",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": null,
+    "details": {
+        "Stars": [
+            "Eric Bogosian",
+            "Alexandra Auder",
+            "Nancy Dwyer"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Michel Auder",
+            "Eric Bogosian",
+            "Michael Zwack"
+        ],
+        "Runtime": [
+            "43 min"
+        ],
+        "Director": [
+            "Michel Auder"
+        ],
+        "Release date": [
+            "1982-10-05"
+        ]
+    },
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0041536/",
+            "name": "Michel Auder",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0091899/",
+            "name": "Eric Bogosian",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1725806/",
+            "name": "Michael Zwack",
+            "@type": "Person"
         }
     ],
     "duration": "PT43M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0041536/",
-            "name": "Michel Auder"
+            "name": "Michel Auder",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0401313/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "A &quot;fictional autobiography&quot; presenting the day in the life of a druggie slacker.",
+    "description": "a fictional autobiography in which a day from the artist’s life—filtered, edited, mediated, and performed by another actor—becomes the “ghost” of the person, a doubled identity that can never fully capture its subject. The work also conjures the spectral presence of a long-gone New York City, an uncanny body-double on the verge of austerity and collapse.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1982-10-05",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1982-10-05",
+    "original_title": "Chasing the Dragon",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-12T09:26:06"
+    "update_at": "2026-11-23T03:28:08"
 }

@@ -4,7 +4,7 @@
     "name": "The People",
     "site": "imdb",
     "year": "1972",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Sci-Fi"
@@ -12,75 +12,136 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0200981/",
-            "name": "Kim Darby"
+            "name": "Kim Darby",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000638/",
-            "name": "William Shatner"
+            "name": "William Shatner",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0890215/",
-            "name": "Diane Varsi"
+            "name": "Diane Varsi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0641397/",
+            "name": "Dan O'Herlihy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0884207/",
+            "name": "Chris Valentine",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0046358/",
+            "name": "Johanna Baer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0910288/",
+            "name": "Laurie Walters",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0910175/",
+            "name": "Anne Walters",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0197066/",
+            "name": "Jack Dahlgren",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0884312/",
+            "name": "Stephanie Valentine",
+            "@type": "Person"
         }
     ],
-    "critic": 9,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjA1MzU4ODktOTc3Yy00M2EzLTlmZjgtYjhlMTE5MjkxYzk2XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/oF9i5KHSoNL8PAutzcUlOoLGNvT.jpg",
     "details": {
+        "Stars": [
+            "Kim Darby",
+            "William Shatner",
+            "Diane Varsi"
+        ],
+        "Genres": [
+            "Drama",
+            "Sci-Fi"
+        ],
+        "Writer": [
+            "Zenna Henderson",
+            "James Mitchell Miller"
+        ],
+        "Runtime": [
+            "74 min"
+        ],
+        "Director": [
+            "John Korty"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 22, 1972 (United States)"
-        ],
-        "Also known as": [
-            "Hogar perdido"
+            "1972-01-22"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "St. Mary's Church, Nicasio, California, USA"
+            "United States of America"
         ],
         "Production companies": [
             "American Zoetrope",
-            "Francis Ford Coppola Productions",
-            "Metromedia Producers Corporation (MPC)"
+            "Metromedia Producers Corporation"
         ]
     },
-    "reviews": 34,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0376637/",
-            "name": "Zenna Henderson"
+            "name": "Zenna Henderson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0588537/",
-            "name": "James Mitchell Miller"
+            "name": "James Mitchell Miller",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H14M",
     "keywords": [
-        "harmonica",
-        "child",
-        "school",
+        "based on novel or book",
         "telekinesis",
-        "unsold tv series pilot"
+        "alien",
+        "teacher",
+        "school",
+        "levitation"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0466793/",
-            "name": "John Korty"
+            "name": "John Korty",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0069072/",
     "metascore": null,
-    "imdb_votes": 737,
+    "imdb_votes": 792,
     "popularity": 0,
-    "description": "A teacher takes a job in a small remote community and finds the inhabitants to be strange with unsettling rules imposed on even her young students. On learning more about the people she finds that things are not at all what they s...",
-    "imdb_rating": "5.8/10 from 737 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "A young woman is assigned to teach school in a secluded valley whose inhabitants appear stern, secretive and anti-pleasure. Following two children who disappear to play in the woods, she finds that this is actually a community of extraterrestrials with mild paranormal powers who are attempting to repress and deny their heritage for fear of arousing prejudice and hatred in their human neighbors. Based on a series of novels by the late Zenna Henderson.",
+    "imdb_rating": "5.8/10 from 792 users",
+    "release_date": [
+        {
+            "date": "1972-01-22",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1972-01-22",
+    "original_title": "The People",
     "imdb_rating_average": 5.8,
-    "update_at": "2025-07-20T19:30:10"
+    "update_at": "2026-11-24T01:56:12"
 }

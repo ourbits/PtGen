@@ -1,87 +1,166 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Robbie the Reindeer in Hooves of Fire",
+            "country": "United Kingdom"
+        },
+        {
+            "title": "Das große Rentier-Rennen",
+            "country": "Germany"
+        }
+    ],
     "sid": "tt0219086",
     "name": "Hooves of Fire",
     "site": "imdb",
-    "year": "2000",
-    "@type": "Movie",
+    "year": "1999",
+    "@type": "TVMovie",
     "genre": [
-        "Animation",
         "Adventure",
+        "Animation",
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0005560/",
-            "name": "Robbie Williams"
+            "name": "Robbie Williams",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0641192/",
-            "name": "Ardal O&apos;Hanlon"
+            "name": "Ardal O'Hanlon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0925768/",
-            "name": "Paul Whitehouse"
+            "name": "Paul Whitehouse",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001363/",
+            "name": "Jane Horrocks",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0176869/",
+            "name": "Steve Coogan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0703225/",
+            "name": "Caroline Quentin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0018495/",
+            "name": "Jean Alexander",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0866870/",
+            "name": "Ricky Tomlinson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0406975/",
+            "name": "Rhys Ifans",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0256960/",
+            "name": "Harry Enfield",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyNjA3MDg3OF5BMl5BanBnXkFtZTcwMzgzNjUyMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/r0xVWX3pNNscD9YMn0qXBMl11wl.jpg",
     "details": {
+        "Stars": [
+            "Robbie Williams",
+            "Ardal O'Hanlon",
+            "Paul Whitehouse"
+        ],
+        "Genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "Writer": [
+            "Kevin Cecil",
+            "Andy Riley",
+            "Richard Curtis"
+        ],
+        "Runtime": [
+            "22 min"
+        ],
+        "Director": [
+            "Richard Starzak"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "December 16, 2000 (United States)"
-        ],
-        "Also known as": [
-            "Робби - северный олень: Большие гонки"
+            "1999-12-25"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
         "Production companies": [
-            "British Broadcasting Corporation (BBC)",
+            "BBC",
             "Comic Relief"
         ]
     },
-    "reviews": 22,
+    "reviews": 0,
+    "tagline": "He's running the race of his life... If he can turn up in time!",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0147700/",
-            "name": "Kevin Cecil"
+            "name": "Kevin Cecil",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0726978/",
-            "name": "Andy Riley"
+            "name": "Andy Riley",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0193485/",
-            "name": "Richard Curtis"
+            "name": "Richard Curtis",
+            "@type": "Person"
         }
     ],
     "duration": "PT22M",
     "keywords": [
-        "cult film",
-        "elf",
-        "sleigh",
-        "santa claus",
-        "british animation"
+        "stop motion",
+        "animals",
+        "sport competition",
+        "christmas"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0326450/",
-            "name": "Richard Starzak"
+            "name": "Richard Starzak",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0219086/",
     "metascore": null,
-    "imdb_votes": 1388,
+    "imdb_votes": 1439,
     "popularity": 0,
-    "description": "Robbie, an out-of-condition reindeer, tries to earn a place on Santa&apos;s crack sleigh team.",
-    "imdb_rating": "7.3/10 from 1388 users",
-    "release_date": [],
+    "description": "Robbie the Reindeer arrives at the North Pole, ready to take his place as navigator on Santa's Christmas sleigh team. However, Robbie is soon plagued by doubt regarding his ability, and sets out to regain his self-respect and the admiration of his team-mates.",
+    "imdb_rating": "7.2/10 from 1439 users",
+    "release_date": [
+        {
+            "date": "1999-12-25",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "2000-12-16",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2000-12-16",
-    "imdb_rating_average": 7.3,
-    "update_at": "2025-07-29T09:00:19"
+    "datePublished": "1999-12-25",
+    "original_title": "Hooves of Fire",
+    "imdb_rating_average": 7.2,
+    "update_at": "2026-11-23T05:14:19"
 }

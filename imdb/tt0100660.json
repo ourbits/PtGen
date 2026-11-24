@@ -1,10 +1,23 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Terrys Versprechen",
+            "country": "Austria"
+        },
+        {
+            "title": "The O'Kelley Brothers",
+            "country": "United States of America"
+        },
+        {
+            "title": "A Sons Promise",
+            "country": "South Korea"
+        }
+    ],
     "sid": "tt0100660",
-    "name": "A Son&apos;s Promise",
+    "name": "A Son's Promise",
     "site": "imdb",
     "year": "1990",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Family"
@@ -12,72 +25,132 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0005401/",
-            "name": "Ricky Schroder"
+            "name": "Ricky Schroder",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0028625/",
-            "name": "David Andrews"
+            "name": "David Andrews",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001021/",
-            "name": "Veronica Cartwright"
+            "name": "Veronica Cartwright",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001151/",
+            "name": "Stephen Dorff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0301305/",
+            "name": "Boyd Gaines",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0523198/",
+            "name": "Andrew Lowery",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0595567/",
+            "name": "Donald Moffat",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0551156/",
+            "name": "Ryan Marshall",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0947074/",
+            "name": "Trey Yearwood",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0046298/",
+            "name": "Peirce Baehr",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTk3OTMzMjkxOV5BMl5BanBnXkFtZTcwMDY0NTUxMg@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/ypO8WAhCeTBn32LR0FDqPg7A7Uf.jpg",
     "details": {
+        "Stars": [
+            "Ricky Schroder",
+            "David Andrews",
+            "Veronica Cartwright"
+        ],
+        "Genres": [
+            "Drama",
+            "Family"
+        ],
+        "Writer": [
+            "Bill Stratton",
+            "Robert Inman"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "John Korty"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 5, 1990 (United States)"
-        ],
-        "Also known as": [
-            "The O'Kelley Brothers"
+            "1990-03-05"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
-        "Filming locations": [
-            "Georgia, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Marian Rees Associates"
         ]
     },
-    "reviews": 6,
+    "reviews": 0,
+    "tagline": "Seven brothers stick together... no matter what.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0833623/",
-            "name": "Bill Stratton"
+            "name": "Bill Stratton",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0409139/",
-            "name": "Robert Inman"
+            "name": "Robert Inman",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H35M",
-    "keywords": [
-        "corporal punishment",
-        "belt",
-        "family farm",
-        "based on true story"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0466793/",
-            "name": "John Korty"
+            "name": "John Korty",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0100660/",
     "metascore": null,
-    "imdb_votes": 359,
+    "imdb_votes": 417,
     "popularity": 0,
-    "description": "The touching true story of 15-year-old Terry who promised his dying mother to look after his six younger brothers and keep them together as a family--a man&apos;s job on a boy&apos;s shoulders. He had to face many misfortunes and &quot;parenthoo...",
-    "imdb_rating": "6.8/10 from 359 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "description": "An iron-willed Georgia boy accepts the burden of a man on his young shoulders. Fifteen-year-old Terry O'Kelly is fatherless and his remaining parent, his mother, is dying. Anguished, the soon-to-be orphan makes a surprising grown-up decision: Terry promises to care for his six brothers and vows to keep the family together. Steadfast to his word, Terry takes on the struggles of parenthood, which yields some difficult and unpleasant surprises.",
+    "imdb_rating": "6.7/10 from 417 users",
+    "release_date": [
+        {
+            "date": "1994-08-26",
+            "country": "Czech Republic"
+        },
+        {
+            "date": "1990-03-05",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "1990-03-05",
-    "imdb_rating_average": 6.8,
-    "update_at": "2025-02-11T00:02:36"
+    "original_title": "A Son's Promise",
+    "imdb_rating_average": 6.7,
+    "update_at": "2026-11-23T16:56:17"
 }

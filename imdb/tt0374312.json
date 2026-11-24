@@ -1,10 +1,19 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Θανάσιμο Έπαθλο",
+            "country": "Greece"
+        },
+        {
+            "title": "Eliminator",
+            "country": "Serbia"
+        }
+    ],
     "sid": "tt0374312",
     "name": "The Eliminator",
     "site": "imdb",
     "year": "2004",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Action",
         "Adventure",
@@ -13,31 +22,85 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0740264/",
-            "name": "Michael Rooker"
+            "name": "Michael Rooker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1008015/",
-            "name": "Bas Rutten"
+            "name": "Bas Rutten",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0497086/",
-            "name": "Dana Lee"
+            "name": "Dana Lee",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0430590/",
+            "name": "G. Anthony Joseph",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0615645/",
+            "name": "Wolf Muser",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0747750/",
+            "name": "Marco Ruas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0195702/",
+            "name": "Michael Gregory",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0616992/",
+            "name": "Gareth Myles",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1275607/",
+            "name": "Geoffrey Forward",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1410687/",
+            "name": "Jamal Duff",
+            "@type": "Person"
         }
     ],
-    "critic": 8,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyNDc5NTk0N15BMl5BanBnXkFtZTcwNDk5NzQyMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/gehabQdNDNomS1yAY6WRUzJKwuI.jpg",
     "details": {
+        "Stars": [
+            "Michael Rooker",
+            "Bas Rutten",
+            "Dana Lee"
+        ],
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "Writer": [
+            "David Neilsen"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Ken Barbet"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "July 6, 2004 (United States)"
-        ],
-        "Also known as": [
-            "Varley's Game"
+            "2004-07-06"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
             "Shadowbox Pictures",
@@ -45,36 +108,45 @@
             "Tritan Northstar Entertainment"
         ]
     },
-    "reviews": 14,
+    "reviews": 0,
+    "tagline": "The Hunter Becomes the Hunted.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1412632/",
-            "name": "David Neilsen"
+            "name": "David Neilsen",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
     "keywords": [
-        "jungle adventure",
-        "death",
-        "man",
-        "explosion",
-        "boat"
+        "death game"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0053556/",
-            "name": "Ken Barbet"
+            "name": "Ken Barbet",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0374312/",
     "metascore": null,
-    "imdb_votes": 580,
+    "imdb_votes": 592,
     "popularity": 0,
-    "description": "An ex-Navy SEAL faces his riskiest mission yet when he&apos;s forced to compete for his life in a survival game. The last man standing will take home a 10 million dollar prize, those who fail will die a lonely death in the jungle.",
-    "imdb_rating": "3.5/10 from 580 users",
-    "release_date": [],
+    "description": "Former LAPD cop, Dakota Varley, enters a power boat race seeking the prize of $250,000, but immediately discovers, first hand, that this race's risk matches the prize: one racer is killed, 3 others seriously injured in multiple action-packed crashes and explosions. Varley tries to leave the lake and collect his prize money but is drugged and kidnapped by Dawson and thrown into a different world: a world where survival means everything and no-one follows the rules. Surrounded by heavily-armed men, he soon learns that he and six other victims have been assembled to be contestants in the ultimate survival game: they will be hunted nightly by hunters with rifles until there is one remaining survivor, who will win a $10,000,000 cash prize!",
+    "imdb_rating": "3.5/10 from 592 users",
+    "release_date": [
+        {
+            "date": "2004-07-06",
+            "country": "United States of America"
+        },
+        {
+            "date": "2004-09-03",
+            "country": "US Virgin Islands"
+        }
+    ],
     "contentRating": "R",
     "datePublished": "2004-07-06",
+    "original_title": "The Eliminator",
     "imdb_rating_average": 3.5,
-    "update_at": "2026-04-18T13:14:05"
+    "update_at": "2026-11-23T02:56:22"
 }

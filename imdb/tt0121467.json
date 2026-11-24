@@ -3,52 +3,106 @@
     "sid": "tt0121467",
     "name": "Leben im Winter",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1982",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0591930/",
-            "name": "Brigitte Mira"
+            "name": "Brigitte Mira",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0197108/",
-            "name": "Paul Dahlke"
+            "name": "Paul Dahlke",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0382258/",
-            "name": "Karin Heym"
+            "name": "Karin Heym",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0256903/",
+            "name": "Elisabeth Endriss",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0051214/",
+            "name": "Alfred Balthoff",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0065754/",
+            "name": "Friedrich G. Beckhaus",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1916056/",
+            "name": "Delia Behpour",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0073204/",
+            "name": "Miriam Behpour",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0375918/",
+            "name": "Lisa Helwig",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0460257/",
+            "name": "Vera Kluth",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Brigitte Mira",
+            "Paul Dahlke",
+            "Karin Heym"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Klaus Schlesinger"
+        ],
+        "Runtime": [
+            "99 min"
+        ],
+        "Director": [
+            "Hartmut Griesmayr"
+        ],
+        "Release date": [
+            "1982-01-01"
         ],
         "Country of origin": [
-            "West Germany"
-        ],
-        "Production company": [
-            "Deutsche Buchgemeinschaft, Fernseh-Produktion"
+            "Germany"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0772263/",
-            "name": "Klaus Schlesinger"
+            "name": "Klaus Schlesinger",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H39M",
-    "keywords": [
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0341001/",
-            "name": "Hartmut Griesmayr"
+            "name": "Hartmut Griesmayr",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0121467/",
@@ -57,9 +111,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1982-01-01",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1982-01-01",
+    "original_title": "Leben im Winter",
     "imdb_rating_average": 0,
-    "update_at": "2026-05-28T16:49:22"
+    "update_at": "2026-11-23T07:35:08"
 }

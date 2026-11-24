@@ -4,69 +4,122 @@
     "name": "A Sapateira Prodigiosa",
     "site": "imdb",
     "year": "1968",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0735052/",
-            "name": "Amália Rodrigues"
+            "name": "Amália Rodrigues",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0688134/",
-            "name": "Barreto Poeira"
+            "name": "Barreto Poeira",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0182709/",
-            "name": "Costinha"
+            "name": "Costinha",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0719193/",
+            "name": "Paulo Renato",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0673185/",
+            "name": "Mário Pereira",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0097443/",
+            "name": "Fernanda Borsatti",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0646380/",
+            "name": "Maria Olguim",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0210174/",
+            "name": "Glória de Matos",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0798538/",
+            "name": "Varela Silva",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2212818/",
+            "name": "Alexandre Careto",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWM0YjNjZjYtZjc2NC00NGQ5LTk1YzMtOTBlMzE3MjcxYjU2XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/s8QdvRJSIBmwDGgvZxwRnMRT7lp.jpg",
     "details": {
-        "Language": [
-            "Portuguese"
+        "Stars": [
+            "Amália Rodrigues",
+            "Barreto Poeira",
+            "Costinha"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Carlos Wallenstein"
+        ],
+        "Director": [
+            "Fernando Frazão"
         ],
         "Release date": [
-            "June 11, 1968 (Portugal)"
+            "1968-06-11"
         ],
         "Country of origin": [
             "Portugal"
         ],
-        "Filming locations": [
-            "Lisbon, Portugal"
-        ],
-        "Production company": [
-            "Rádio e Televisão de Portugal (RTP)"
+        "Production companies": [
+            "RTP"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0909009/",
-            "name": "Carlos Wallenstein"
+            "name": "Carlos Wallenstein",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2120157/",
-            "name": "Fernando Frazão"
+            "name": "Fernando Frazão",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0787154/",
     "metascore": null,
-    "imdb_votes": 6,
+    "imdb_votes": 8,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.6/10 from 6 users",
-    "release_date": [],
+    "description": "A young shoemaker marries an older man, but he, jealous, leaves home. The woman opens a tavern and her husband returns in disguise to test her fidelity. Television adaptation of the play by Spanish poet and playwright Federico Garcia Lorca, translated by Carlos Wallenstein and directed by Varela Silva, with Amália Rodrigues in the lead role.",
+    "imdb_rating": "7.2/10 from 8 users",
+    "release_date": [
+        {
+            "date": "1968-06-11",
+            "country": "Portugal"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1968-06-11",
-    "imdb_rating_average": 7.6,
-    "update_at": "2025-02-11T14:30:11"
+    "original_title": "A Sapateira Prodigiosa",
+    "imdb_rating_average": 7.2,
+    "update_at": "2026-11-23T14:28:30"
 }

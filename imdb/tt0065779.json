@@ -3,7 +3,8 @@
     "sid": "tt0065779",
     "name": "The Gifts",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1970",
+    "@type": "Short",
     "genre": [
         "Documentary",
         "Short"
@@ -11,45 +12,67 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001296/",
-            "name": "Lorne Greene"
+            "name": "Lorne Greene",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzgwOTk5OTIzN15BMl5BanBnXkFtZTgwMjE0MTE0MjE@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/dhOhEEM3KcVyckL9WvYPlNiPIab.jpg",
     "details": {
+        "Stars": [
+            "Lorne Greene"
+        ],
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Writer": [
+            "Robert Richter"
+        ],
+        "Runtime": [
+            "29 min"
+        ],
         "Language": [
             "English"
         ],
+        "Release date": [
+            "1970-01-01"
+        ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
-            "Richter-McBride Productions",
-            "U.S. Environmental Protection Agency"
+            "Richter Productions",
+            "Environmental Protection Agency"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0724905/",
-            "name": "Robert Richter"
+            "name": "Robert Richter",
+            "@type": "Person"
         }
     ],
     "duration": "PT29M",
-    "keywords": [
-        "water pollution",
-        "pollution",
-        "independent film"
-    ],
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt0065779/",
     "metascore": null,
-    "imdb_votes": 12,
+    "imdb_votes": 14,
     "popularity": 0,
-    "description": "Water pollution in the United States: an early warning produced for the just established federal Environmental Protection Administration. Narrated by &quot;Bonanza&quot; series TV star Lorne Greene. &quot;The most beautiful film on ugliness ever...",
-    "imdb_rating": "6.4/10 from 12 users",
-    "release_date": [],
+    "description": "The Gifts is a 1970 American short documentary film about water pollution in the United States. The film was produced by Robert McBride for the United States Environmental Protection Agency. It was nominated for an Academy Award for Best Documentary Short.",
+    "imdb_rating": "5.9/10 from 14 users",
+    "release_date": [
+        {
+            "date": "1970-01-01",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 6.4,
-    "update_at": "2025-08-17T20:21:39"
+    "datePublished": "1970-01-01",
+    "original_title": "The Gifts",
+    "imdb_rating_average": 5.9,
+    "update_at": "2026-11-23T11:35:25"
 }

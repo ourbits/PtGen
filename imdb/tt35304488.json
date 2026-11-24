@@ -4,42 +4,102 @@
     "name": "The Sentry",
     "site": "imdb",
     "year": "2025",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Action",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjI3MzJkZTAtYTE4Yi00NmVmLWE5ZmItYTk2OTdmOTVhZjliXkEyXkFqcGc@._V1_.jpg",
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm12712556/",
+            "name": "Dara Phang",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0713393/",
+            "name": "Daniel Raymont",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8159774/",
+            "name": "Tharoth Sam",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8242977/",
+            "name": "Tara Vy",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/83DOe7WSgDCvdp97bxeSucK7asa.jpg",
     "details": {
-        "Languages": [
-            "English",
-            "Central Khmer"
+        "Stars": [
+            "Dara Phang",
+            "Daniel Raymont",
+            "Tharoth Sam"
+        ],
+        "Genres": [
+            "Action",
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Jake Wachtel"
+        ],
+        "Runtime": [
+            "17 min"
+        ],
+        "Director": [
+            "Jake Wachtel"
         ],
         "Release date": [
-            "March 8, 2025 (United States)"
+            "2025-03-08"
         ],
-        "Countries of origin": [
+        "Country of origin": [
             "Cambodia",
             "Norway",
-            "United States"
+            "United States of America"
         ]
     },
     "reviews": 0,
+    "tagline": "Some kills aren't so routine.",
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm10723147/",
+            "name": "Jake Wachtel",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT17M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm10723147/",
+            "name": "Jake Wachtel",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt35304488/",
     "metascore": null,
-    "imdb_votes": 5,
+    "imdb_votes": 11,
     "popularity": 0,
-    "description": "On assignment in Cambodia, a suave super-spy has a haunting encounter with a garrulous guard and must come to terms with the damage he&apos;s inflicted on the local community.",
-    "imdb_rating": "6.6/10 from 5 users",
-    "release_date": [],
+    "description": "A cheeky dismantling of spy tropes and a love letter to Cambodia, THE SENTRY follows a suave Western agent who thinks he's about to make another routine kill. But some stories refuse to be footnotes - and this particular guard isn't finished talking. A genre-bending tale about the extraordinary lives we're trained to overlook.",
+    "imdb_rating": "7.2/10 from 11 users",
+    "release_date": [
+        {
+            "date": "2025-11-23",
+            "country": "Taiwan"
+        },
+        {
+            "date": "2025-03-08",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2025-03-08",
-    "imdb_rating_average": 6.6,
-    "update_at": "2025-11-30T07:50:06"
+    "original_title": "The Sentry",
+    "imdb_rating_average": 7.2,
+    "update_at": "2026-11-23T13:56:15"
 }

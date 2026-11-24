@@ -4,63 +4,100 @@
     "name": "The Monday Night Miracle",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Sport"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1832669/",
-            "name": "Wayne Chrebet"
+            "name": "Wayne Chrebet",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1111562/",
-            "name": "Eric Dickerson"
+            "name": "Eric Dickerson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0260603/",
-            "name": "Boomer Esiason"
+            "name": "Boomer Esiason",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2669391/",
+            "name": "Jay Fiedler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0288599/",
+            "name": "Dan Fouts",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0584279/",
+            "name": "Al Michaels",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0588222/",
+            "name": "Dennis Miller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2667108/",
+            "name": "Vinny Testaverde",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1813860/",
+            "name": "Dave Wannstedt",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Wayne Chrebet",
+            "Eric Dickerson",
+            "Boomer Esiason"
+        ],
+        "Genres": [
+            "Sport"
+        ],
+        "Writer": [
+            "Dennis Miller"
+        ],
+        "Runtime": [
+            "190 min"
         ],
         "Release date": [
-            "May 24, 2007 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Meadowlands, New Jersey, USA"
-        ],
-        "Production company": [
-            "NFL Films"
+            "2007"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0588222/",
-            "name": "Dennis Miller"
+            "name": "Dennis Miller",
+            "@type": "Person"
         }
     ],
     "duration": "PT3H10M",
-    "keywords": [
-        "football"
-    ],
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt1039977/",
     "metascore": null,
     "imdb_votes": 19,
     "popularity": 0,
-    "description": "In front of a sellout stadium with over 78,000 fans in attendance the New York Jets were getting hammered 30-7 with only 12 seconds left in the third quarter. New York Jet Vinny Testaverde had three INT&apos;s, Curtis Martin was also h...",
+    "description": null,
     "imdb_rating": "4.3/10 from 19 users",
     "release_date": [],
-    "contentRating": "TV-G",
-    "datePublished": "2007-05-24",
+    "contentRating": null,
+    "datePublished": "2007",
+    "original_title": "The Monday Night Miracle",
     "imdb_rating_average": 4.3,
-    "update_at": "2026-03-05T19:49:27"
+    "update_at": "2026-11-23T15:42:21"
 }

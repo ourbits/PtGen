@@ -4,76 +4,100 @@
     "name": "Vast",
     "site": "imdb",
     "year": "2011",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0314611/",
-            "name": "Tygo Gernandt"
+            "name": "Tygo Gernandt",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3531098/",
-            "name": "Coosje Smid"
+            "name": "Coosje Smid",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3058021/",
-            "name": "Sigrid ten Napel"
+            "name": "Sigrid ten Napel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0374037/",
+            "name": "Hein van der Heijden",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0855569/",
+            "name": "Pieter van Terheijden",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2Y3YjhlMzctZjUwNy00OTNhLWE1M2UtOGM3ZTc4YjZiNGM3XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": null,
     "details": {
+        "Stars": [
+            "Tygo Gernandt",
+            "Coosje Smid",
+            "Sigrid ten Napel"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Bastiaan Tichler"
+        ],
+        "Runtime": [
+            "49 min"
+        ],
+        "Director": [
+            "Rolf van Eijk"
+        ],
         "Language": [
             "Dutch"
         ],
         "Release date": [
-            "September 24, 2011 (Netherlands)"
-        ],
-        "Also known as": [
-            "Inside"
-        ],
-        "Official site": [
-            "Official Facebook - http://www.facebook.com/?ref=home#!/pages/One-Night-Stand-Vast/160560237335623"
+            "2011-09-25"
         ],
         "Country of origin": [
             "Netherlands"
-        ],
-        "Production company": [
-            "LEV Pictures"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3702743/",
-            "name": "Bastiaan Tichler"
+            "name": "Bastiaan Tichler",
+            "@type": "Person"
         }
     ],
     "duration": "PT49M",
-    "keywords": [
-        "the future",
-        "kickboxing",
-        "detention centre",
-        "self harm",
-        "troubled teen"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2059439/",
-            "name": "Rolf van Eijk"
+            "name": "Rolf van Eijk",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2011356/",
     "metascore": null,
-    "imdb_votes": 76,
+    "imdb_votes": 78,
     "popularity": 0,
-    "description": "Isabel is being admitted in a closed institution for juvenile girls. After a fighting incident, where she ends up in solitary confinement, Isabel promises to change herself. But to be able to handle the future, she has to confront...",
-    "imdb_rating": "7.6/10 from 76 users",
-    "release_date": [],
+    "description": "Isabel, a teenage girl, is being admitted in a closed institution for juveniles. After an incident where she ends up in solitary confinement, she promises to change herself. But before she can handle the future, she has to confront her past.",
+    "imdb_rating": "7.5/10 from 78 users",
+    "release_date": [
+        {
+            "date": "2011-09-25",
+            "country": "Netherlands"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2011-09-24",
-    "imdb_rating_average": 7.6,
-    "update_at": "2025-09-28T17:14:07"
+    "datePublished": "2011-09-25",
+    "original_title": "Vast",
+    "imdb_rating_average": 7.5,
+    "update_at": "2026-11-23T23:14:07"
 }

@@ -4,79 +4,141 @@
     "name": "All Inclusive",
     "site": "imdb",
     "year": "2019",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm4661606/",
-            "name": "Lauri Maijala"
+            "name": "Lauri Maijala",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm6155340/",
-            "name": "Hannamaija Nikander"
+            "name": "Hannamaija Nikander",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1948512/",
-            "name": "Maija Rissanen"
+            "name": "Maija Rissanen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1976942/",
+            "name": "Santtu Karvonen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm9360582/",
+            "name": "Nicole Stiles",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1159308/",
+            "name": "Jukka Jalkanen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1784777/",
+            "name": "Paavo Pyykkönen",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTkwNDY5YTAtNjI0ZC00NGUzLWIwZWYtNTQxYTYwOGQ3YzUwXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/lG2GymnlgMgknueShZuH7FUEvbA.jpg",
     "details": {
+        "Stars": [
+            "Lauri Maijala",
+            "Hannamaija Nikander",
+            "Maija Rissanen"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Teemu Nikki",
+            "Jani Pösö"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Teemu Nikki"
+        ],
         "Language": [
             "Finnish"
         ],
         "Release date": [
-            "May 24, 2019 (France)"
-        ],
-        "Also known as": [
-            "Tout Inclus"
+            "2019-05-24"
         ],
         "Country of origin": [
             "Finland"
         ],
-        "Production company": [
+        "Production companies": [
             "It's Alive Films"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1630429/",
-            "name": "Teemu Nikki"
+            "name": "Teemu Nikki",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3131183/",
-            "name": "Jani Pösö"
+            "name": "Jani Pösö",
+            "@type": "Person"
         }
     ],
     "duration": "PT15M",
     "keywords": [
-        "workplace",
-        "adultery",
-        "revenge",
-        "god",
-        "power"
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1630429/",
-            "name": "Teemu Nikki"
+            "name": "Teemu Nikki",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt10219324/",
     "metascore": null,
-    "imdb_votes": 107,
+    "imdb_votes": 114,
     "popularity": 0,
-    "description": "Bullied by his co-workers and disrespected by nearly everyone else, a sad sack gets the chance to change his life. But, as soon becomes clear, this opportunity may have unexpected ramifications.",
-    "imdb_rating": "6.6/10 from 107 users",
-    "release_date": [],
+    "description": "Kalervo, a bullied, downtrodden white-collar man whom nobody takes seriously, receives an unexpected gift from Annukka. A gift which Kalervo soon realizes has the power to change his life. The bill is due, and payback never tasted sweeter.",
+    "imdb_rating": "6.6/10 from 114 users",
+    "release_date": [
+        {
+            "date": "2020-01-23",
+            "country": "Czech Republic"
+        },
+        {
+            "date": "2019-12-21",
+            "country": "Finland"
+        },
+        {
+            "date": "2019-05-24",
+            "country": "France"
+        },
+        {
+            "date": "2019-06-28",
+            "country": "South Korea"
+        },
+        {
+            "date": "2020-06-16",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2019-05-24",
+    "original_title": "All Inclusive",
     "imdb_rating_average": 6.6,
-    "update_at": "2025-06-07T23:11:35"
+    "update_at": "2026-11-23T04:56:19"
 }

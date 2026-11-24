@@ -4,59 +4,84 @@
     "name": "Blackout",
     "site": "imdb",
     "year": "2011",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0281832/",
-            "name": "Catherine Flemming"
+            "name": "Catherine Flemming",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0696600/",
-            "name": "Eckhard Preuß"
+            "name": "Eckhard Preuß",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3359746/",
-            "name": "Nico Liersch"
+            "name": "Nico Liersch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0777701/",
+            "name": "Michael Schwarzmaier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2456998/",
+            "name": "Oliver Bode",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1173610/",
+            "name": "Julia von Juni",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjAyMjg0NTcwNV5BMl5BanBnXkFtZTgwMzczMzMxNDE@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Catherine Flemming",
+            "Eckhard Preuß",
+            "Nico Liersch"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Carsten Degenhardt"
+        ],
+        "Runtime": [
+            "24 min"
+        ],
+        "Director": [
+            "Carsten Degenhardt"
         ],
         "Release date": [
-            "February 15, 2011 (Germany)"
-        ],
-        "Country of origin": [
-            "Germany"
-        ],
-        "Filming locations": [
-            "Munich, Bavaria, Germany"
-        ],
-        "Production company": [
-            "Blancke & Degenhardt Filmproduktion"
+            "2011"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm4107331/",
-            "name": "Carsten Degenhardt"
+            "name": "Carsten Degenhardt",
+            "@type": "Person"
         }
     ],
     "duration": "PT24M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm4107331/",
-            "name": "Carsten Degenhardt"
+            "name": "Carsten Degenhardt",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1928127/",
@@ -67,7 +92,8 @@
     "imdb_rating": "7.7/10 from 8 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2011-02-15",
+    "datePublished": "2011",
+    "original_title": "Blackout",
     "imdb_rating_average": 7.7,
-    "update_at": "2025-04-05T09:21:48"
+    "update_at": "2026-11-23T17:35:08"
 }

@@ -4,10 +4,12 @@
     "site": "douban_celebrity",
     "roles": [
         "演员",
-        "编剧",
-        "作者"
+        "编剧"
     ],
-    "awards": [],
+    "awards": [
+        "1998年 第21届日本电影学院奖 会长特别奖",
+        "1952年 第2届日本电影蓝丝带奖 最佳女配角 麦秋"
+    ],
     "gender": "女",
     "poster": "https://img1.doubanio.com/view/celebrity/m/public/p1370504386.35.jpg",
     "imdb_id": "nm0837503",
@@ -17,31 +19,31 @@
     "birth_place": "日本,广岛",
     "last_movies": [
         {
+            "id": 38650257,
+            "year": "1991",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2935900219.jpg",
+            "title": "贵族的阶梯",
+            "release": 1
+        },
+        {
+            "id": 38567738,
+            "year": "1990",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2934333914.jpg",
+            "title": "男を金にする女",
+            "release": 1
+        },
+        {
+            "id": 38383654,
+            "year": "1991",
+            "cover": "https://asset.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "title": "私、仕事する女",
+            "release": 1
+        },
+        {
             "id": 37028613,
             "year": "1993",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2933913238.jpg",
             "title": "三十ふり袖",
-            "release": 1
-        },
-        {
-            "id": 37028569,
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/cuphead/movie-static/pics/tv_default_medium.png",
-            "title": "おんいのち",
-            "release": 1
-        },
-        {
-            "id": 36990560,
-            "year": "1987",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2911348896.jpg",
-            "title": "春天的姐妹",
-            "release": 1
-        },
-        {
-            "id": 36449606,
-            "year": "1985",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2893639439.jpg",
-            "title": "花のこころ",
             "release": 1
         },
         {
@@ -55,7 +57,7 @@
             "id": 35882589,
             "year": "1987",
             "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2872181506.jpg",
-            "title": "忠臣蔵・女たち・愛",
+            "title": "忠臣藏：女人们的情与义",
             "release": 1
         },
         {
@@ -75,7 +77,7 @@
         {
             "id": 1304663,
             "year": "1992",
-            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2433107752.jpg",
+            "cover": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2615923357.jpg",
             "title": "墨东绮谭",
             "release": 1
         },
@@ -92,7 +94,10 @@
         "石山春子(本名)"
     ],
     "personage_id": "27222714",
-    "family_member": [],
+    "family_member": [
+        "长广岸郎(前夫)",
+        "石山季彦(夫)"
+    ],
     "celebrity_link": "https://movie.douban.com/celebrity/1016991",
     "personage_link": "https://www.douban.com/personage/27222714/",
     "property_other": [
@@ -104,5 +109,5 @@
     "name_more_other": [
         "すぎむら はるこ"
     ],
-    "update_at": "2025-04-02T00:00:11"
+    "update_at": "2026-11-23T13:28:28"
 }

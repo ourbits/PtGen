@@ -3,53 +3,75 @@
     "sid": "tt0272236",
     "name": "Paradise Lost",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1994",
+    "@type": "TVMovie",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0245727/",
-            "name": "Gwynne Dyer"
+            "name": "Gwynne Dyer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0346057/",
-            "name": "Luis Manuel Guerra"
+            "name": "Luis Manuel Guerra",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0173195/",
-            "name": "Luis Donaldo Colosio"
+            "name": "Luis Donaldo Colosio",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0758344/",
+            "name": "Carlos Salinas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0954153/",
+            "name": "Ernesto Zedillo",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "English",
-            "Spanish"
+        "Stars": [
+            "Gwynne Dyer",
+            "Luis Manuel Guerra",
+            "Luis Donaldo Colosio"
         ],
-        "Country of origin": [
-            "Canada"
+        "Genres": [
+            "Documentary"
+        ],
+        "Writer": [
+            "Gwynne Dyer"
+        ],
+        "Director": [
+            "Josh Freed"
+        ],
+        "Release date": [
+            "1994"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0245727/",
-            "name": "Gwynne Dyer"
+            "name": "Gwynne Dyer",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "democracy",
-        "politics",
-        "mexico",
-        "third world"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0293117/",
-            "name": "Josh Freed"
+            "name": "Josh Freed",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0272236/",
@@ -60,7 +82,8 @@
     "imdb_rating": "7.9/10 from 106 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1994",
+    "original_title": "Paradise Lost",
     "imdb_rating_average": 7.9,
-    "update_at": "2025-09-13T09:13:16"
+    "update_at": "2026-11-23T07:14:06"
 }

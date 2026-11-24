@@ -4,42 +4,48 @@
     "name": "Minut cutanja",
     "site": "imdb",
     "year": "1961",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Documentary",
         "Short"
     ],
+    "actors": [],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Serbo-Croatian"
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Writer": [
+            "Vladimir Pavlovich"
+        ],
+        "Runtime": [
+            "19 min"
+        ],
+        "Director": [
+            "Vladimir Pavlovich"
         ],
         "Release date": [
-            "December 1, 1961 (Yugoslavia)"
-        ],
-        "Country of origin": [
-            "Yugoslavia"
-        ],
-        "Production company": [
-            "Filmske Novosti"
+            "1961"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0667877/",
-            "name": "Vladimir Pavlovich"
+            "name": "Vladimir Pavlovich",
+            "@type": "Person"
         }
     ],
     "duration": "PT19M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0667877/",
-            "name": "Vladimir Pavlovich"
+            "name": "Vladimir Pavlovich",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0870938/",
@@ -50,7 +56,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1961-12-01",
+    "datePublished": "1961",
+    "original_title": "Minut cutanja",
     "imdb_rating_average": 0,
-    "update_at": "2025-03-28T16:44:17"
+    "update_at": "2026-11-23T16:07:32"
 }

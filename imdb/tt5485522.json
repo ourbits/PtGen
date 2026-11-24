@@ -1,9 +1,22 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Drei Zinnen",
+            "country": "Germany"
+        },
+        {
+            "title": "Three Peaks",
+            "country": "Greece"
+        },
+        {
+            "title": "三峰",
+            "country": "Macao"
+        }
+    ],
     "sid": "tt5485522",
     "name": "Three Peaks",
     "site": "imdb",
-    "year": "2019",
+    "year": "2017",
     "@type": "Movie",
     "genre": [
         "Drama"
@@ -11,73 +24,99 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2356421/",
-            "name": "Alexander Fehling"
+            "name": "Alexander Fehling",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0067367/",
-            "name": "Bérénice Bejo"
+            "name": "Bérénice Bejo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm7099376/",
-            "name": "Arian Montgomery"
+            "name": "Arian Montgomery",
+            "@type": "Person"
         }
     ],
-    "critic": 64,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjk1ZTNjZjYtMDkyMi00M2FkLTkyYTQtNjAyNmYwZGI0MzM2XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/hxsFU6dKqA8uZhmUb7TsIV2g6IK.jpg",
     "details": {
-        "Languages": [
+        "Stars": [
+            "Alexander Fehling",
+            "Bérénice Bejo",
+            "Arian Montgomery"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Jan Zabeil"
+        ],
+        "Runtime": [
+            "94 min"
+        ],
+        "Director": [
+            "Jan Zabeil"
+        ],
+        "Language": [
             "German",
             "French",
             "English"
         ],
         "Release date": [
-            "June 28, 2019 (United States)"
+            "2017-08-22"
         ],
-        "Also known as": [
-            "Üç Tepe"
-        ],
-        "Official sites": [
-            "greenwichentertainment - https://greenwichentertainment.com/film/three-peaks/",
-            "Official Facebook - https://facebook.com/dreizinnen.film"
-        ],
-        "Filming locations": [
-            "Dolomites, Italy"
-        ],
-        "Countries of origin": [
-            "Italy",
-            "Germany"
+        "Country of origin": [
+            "Germany",
+            "Italy"
         ],
         "Production companies": [
+            "Rohfilm",
             "Echo Film",
-            "Rohfilm"
+            "ARD"
         ]
     },
-    "reviews": 6,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2215563/",
-            "name": "Jan Zabeil"
+            "name": "Jan Zabeil",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H34M",
-    "keywords": [
-        "girl"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2215563/",
-            "name": "Jan Zabeil"
+            "name": "Jan Zabeil",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt5485522/",
-    "metascore": 57,
-    "imdb_votes": 513,
+    "metascore": null,
+    "imdb_votes": 539,
     "popularity": 0,
-    "description": "Aaron wants to become a family with his girlfriend and her 8-year-old son, but high up in the Italian Dolomites, his attempts to win the boy&apos;s acceptance turn into a dangerous power game.",
-    "imdb_rating": "6/10 from 513 users",
-    "release_date": [],
-    "contentRating": "PG-13",
-    "datePublished": "2019-06-28",
-    "imdb_rating_average": 6,
-    "update_at": "2025-02-11T18:43:27"
+    "description": "Aaron invites his girlfriend Lea and her 8-year-old son Tristan on a trip to the mountains. What could be a starting point of a new life together, slowly turns into difficult territory as the three fight for their positions within the new family.",
+    "imdb_rating": "6.1/10 from 539 users",
+    "release_date": [
+        {
+            "date": "2017-08-22",
+            "country": "Switzerland"
+        },
+        {
+            "date": "2017-12-21",
+            "country": "Germany"
+        },
+        {
+            "date": "2018-09-13",
+            "country": "Greece"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2017-08-22",
+    "original_title": "Three Peaks",
+    "imdb_rating_average": 6.1,
+    "update_at": "2026-11-23T20:56:17"
 }

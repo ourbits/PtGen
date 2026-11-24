@@ -4,63 +4,69 @@
     "name": "Hush",
     "site": "imdb",
     "year": "2015",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Horror"
+        "Horror",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm4177195/",
-            "name": "Alexandra Adornetto"
+            "name": "Alexandra Adornetto",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm6849389/",
-            "name": "Riley Connor"
+            "name": "Riley Connor",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm6447619/",
-            "name": "Kira Halling"
+            "name": "Kira Halling",
+            "@type": "Person"
         }
     ],
-    "critic": 11,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTgzNDY2MDYxMV5BMl5BanBnXkFtZTgwNzY5MDk0NDE@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/g2K20VEdrtmsHutgeBMHrGiwrlt.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Alexandra Adornetto",
+            "Riley Connor",
+            "Kira Halling"
+        ],
+        "Genres": [
+            "Horror",
+            "Short"
+        ],
+        "Writer": [
+            "Michael G. Kehoe"
+        ],
+        "Runtime": [
+            "6 min"
+        ],
+        "Director": [
+            "Michael G. Kehoe"
         ],
         "Release date": [
-            "March 27, 2015 (United States)"
-        ],
-        "Official sites": [
-            "Hush short film web site - http://www.hushthefilm.com/",
-            "Official Website - http://www.hushthefilm.com/"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Los Angeles, California, USA"
-        ],
-        "Production company": [
-            "Taughannock Entertainment"
+            "2015-03-27"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0253107/",
-            "name": "Michael G. Kehoe"
+            "name": "Michael G. Kehoe",
+            "@type": "Person"
         }
     ],
     "duration": "PT6M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0253107/",
-            "name": "Michael G. Kehoe"
+            "name": "Michael G. Kehoe",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt4126046/",
@@ -68,10 +74,16 @@
     "imdb_votes": 23,
     "popularity": 0,
     "description": "A young college graduate discovers the house she is sitting is possessed by a malevolent entity.",
-    "imdb_rating": "7.2/10 from 23 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
+    "imdb_rating": "7.6/10 from 23 users",
+    "release_date": [
+        {
+            "date": "2015-03-27",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2015-03-27",
-    "imdb_rating_average": 7.2,
-    "update_at": "2025-08-17T15:56:07"
+    "original_title": "Hush",
+    "imdb_rating_average": 7.6,
+    "update_at": "2026-11-23T09:00:16"
 }
