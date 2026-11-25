@@ -1,10 +1,15 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Ausgestorben",
+            "country": "Germany"
+        }
+    ],
     "sid": "tt0131319",
-    "name": "Ausgestorben",
+    "name": "Extinct",
     "site": "imdb",
     "year": "1995",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Sci-Fi",
         "Short"
@@ -12,65 +17,112 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0726332/",
-            "name": "Jophi Ries"
+            "name": "Jophi Ries",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001424/",
-            "name": "Udo Kier"
+            "name": "Udo Kier",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0309861/",
-            "name": "Margit Gatzke"
+            "name": "Margit Gatzke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0775631/",
+            "name": "Hans Schrödel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0716726/",
+            "name": "La Georgea",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1239684/",
+            "name": "Paul Weismann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1239370/",
+            "name": "Ralf Christians",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1239882/",
+            "name": "Kathrin Simon",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjdhMDMwZDYtMDhjZi00Y2E5LWJmNTItOGY5ZTQxMDY1MzY2XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/7SIOLhPxfS3oI6PEIHwkmz6SSUp.jpg",
     "details": {
+        "Stars": [
+            "Jophi Ries",
+            "Udo Kier",
+            "Margit Gatzke"
+        ],
+        "Genres": [
+            "Sci-Fi",
+            "Short"
+        ],
+        "Writer": [
+            "Michael Pohl"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Michael Pohl"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "October 27, 1995 (Germany)"
-        ],
-        "Also known as": [
-            "Extinct"
+            "1995-09-19"
         ],
         "Country of origin": [
             "Germany"
-        ],
-        "Production companies": [
-            "Fish Film",
-            "Hochschule für Fernsehen und Film München (HFF)",
-            "Bayerischer Rundfunk (BR)"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0688354/",
-            "name": "Michael Pohl"
+            "name": "Michael Pohl",
+            "@type": "Person"
         }
     ],
     "duration": "PT15M",
     "keywords": [
         "time travel",
-        "virus"
+        "butterfly effect"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0688354/",
-            "name": "Michael Pohl"
+            "name": "Michael Pohl",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0131319/",
     "metascore": null,
-    "imdb_votes": 66,
+    "imdb_votes": 72,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.1/10 from 66 users",
-    "release_date": [],
+    "description": "A scientist of a plague-ridden world goes back to dinosaur times to find an extinct plant that might hold the key to a cure, but bungles up the timelines in doing so.",
+    "imdb_rating": "7.1/10 from 72 users",
+    "release_date": [
+        {
+            "date": "1995-09-19",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1995-10-27",
+    "datePublished": "1995-09-19",
+    "original_title": "Ausgestorben",
     "imdb_rating_average": 7.1,
-    "update_at": "2026-05-31T01:42:31"
+    "update_at": "2026-11-24T19:35:07"
 }

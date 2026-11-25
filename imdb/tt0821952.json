@@ -5,53 +5,83 @@
     "site": "imdb",
     "year": "1923",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1269629/",
-            "name": "Berta Nelson"
+            "name": "Berta Nelson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0535957/",
-            "name": "Luigi Maggi"
+            "name": "Luigi Maggi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2487116/",
-            "name": "A. André"
+            "name": "A. André",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2309982/",
+            "name": "Signore Marini",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2310772/",
+            "name": "Signorina Marini",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2463564/",
+            "name": "Signora Figuer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2462133/",
+            "name": "Leonilda Scelzo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2452590/",
+            "name": "Lena Porter",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "Italian"
+        "Stars": [
+            "Berta Nelson",
+            "Luigi Maggi",
+            "A. André"
+        ],
+        "Writer": [
+            "T. Francis"
+        ],
+        "Director": [
+            "Luigi Maggi"
         ],
         "Release date": [
-            "July 31, 1923 (Italy)"
-        ],
-        "Country of origin": [
-            "Italy"
-        ],
-        "Production company": [
-            "Nelson Film"
+            "1923"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm7498176/",
-            "name": "T. Francis"
+            "name": "T. Francis",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0535957/",
-            "name": "Luigi Maggi"
+            "name": "Luigi Maggi",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0821952/",
@@ -62,7 +92,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1923-07-31",
+    "datePublished": "1923",
+    "original_title": "Ali spezzate",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-27T07:28:09"
+    "update_at": "2026-11-24T16:00:23"
 }

@@ -3,74 +3,96 @@
     "sid": "tt0174512",
     "name": "Bohous",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1968",
+    "@type": "TVShort",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0816332/",
-            "name": "Jirí Sovák"
+            "name": "Jiří Sovák",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0579844/",
-            "name": "Vladimír Mensík"
+            "name": "Vladimír Menšík",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0352937/",
-            "name": "Zdena Hadrbolcová"
+            "name": "Zdena Hadrbolcová",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGZhZGZiZmItNTdhNi00MzYwLWIzMjktOWVlODMxOWM1MmMwXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/p6j6oD8WCUraH6GZh51uCzk3QbB.jpg",
     "details": {
+        "Stars": [
+            "Jiří Sovák",
+            "Vladimír Menšík",
+            "Zdena Hadrbolcová"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "František Vlček"
+        ],
+        "Runtime": [
+            "25 min"
+        ],
+        "Director": [
+            "Petr Schulhoff"
+        ],
         "Language": [
             "Czech"
         ],
         "Release date": [
-            "1968 (Czechoslovakia)"
+            "1968-12-31"
         ],
         "Country of origin": [
             "Czechoslovakia"
         ],
-        "Filming locations": [
-            "Barrandov Studios, Prague, Czech Republic"
-        ],
-        "Production company": [
-            "Televizní Filmová Tvorba"
+        "Production companies": [
+            "Československá televize Praha"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0900663/",
-            "name": "Frantisek Vlcek"
+            "name": "František Vlček",
+            "@type": "Person"
         }
     ],
     "duration": "PT25M",
-    "keywords": [
-        "three hander",
-        "eating contest",
-        "saint bernard dog",
-        "talking to a dog",
-        "talking to an animal"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0776036/",
-            "name": "Petr Schulhoff"
+            "name": "Petr Schulhoff",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0174512/",
     "metascore": null,
-    "imdb_votes": 141,
+    "imdb_votes": 154,
     "popularity": 0,
-    "description": "Alois Randa, the manager of the mountain hotel, is overwhelmed with worries: he is expecting a large number of tourists, he cannot cook and his only employee, Miluska, the maid, is packing her bags. She won&apos;t stand Bohous any long...",
-    "imdb_rating": "7.8/10 from 141 users",
-    "release_date": [],
+    "description": "Alois, manager of a remote mountain inn, loses his maid when she can’t stand his oversized Saint Bernard, Bohouš. When a ravenous guest arrives, Alois makes a wager: if the guest can out-eat Bohouš in one sitting, they earn a free week’s stay; if not, they must serve as the inn’s maid for a week.",
+    "imdb_rating": "7.8/10 from 154 users",
+    "release_date": [
+        {
+            "date": "1968-12-31",
+            "country": "Czechoslovakia"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1968-12-31",
+    "original_title": "Bohous",
     "imdb_rating_average": 7.8,
-    "update_at": "2025-08-16T23:22:02"
+    "update_at": "2026-11-24T21:28:07"
 }

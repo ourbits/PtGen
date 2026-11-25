@@ -4,67 +4,79 @@
     "name": "Carrie Jacobs-Bond",
     "site": "imdb",
     "year": "1933",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Musical",
         "Documentary",
+        "Musical",
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0384222/",
-            "name": "Edwin C. Hill"
+            "name": "Edwin C. Hill",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0093895/",
-            "name": "Carrie Jacobs Bond"
+            "name": "Carrie Jacobs Bond",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1824464/",
-            "name": "Ralph Kirbery"
+            "name": "Ralph Kirbery",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Edwin C. Hill",
+            "Carrie Jacobs Bond",
+            "Ralph Kirbery"
+        ],
+        "Genres": [
+            "Documentary",
+            "Musical",
+            "Short"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "Neil McGuire"
         ],
         "Release date": [
-            "November 2, 1933 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Master Art Products Inc."
+            "1933-11-02"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT10M",
-    "keywords": [
-        "year 1933",
-        "1930s",
-        "20th century",
-        "dog",
-        "composer"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0570271/",
-            "name": "Neil McGuire"
+            "name": "Neil McGuire",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0445270/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "To the accompaniment of pipe organ, Edwin C. Hill narrates the story of one of America&apos;s most successful woman composers, Carrie Jacobs-Bond, who is seen in silent film footage. Mrs. Bond is shown, at age 71, playing with her two ...",
+    "description": "To the accompaniment of pipe organ, Edwin C. Hill narrates the story of one of America's most successful woman composers, Carrie Jacobs-Bond, who is seen in silent film footage. Mrs. Bond is shown, at age 71, playing with her two dogs, walking with friends and practicing the piano at home. Her songs, which were phenomenally popular in the early 20th century, are sung off screen by 34-year-old radio baritone Ralph Kirbery, known in the early 1930s as \"The Dream Singer.\" The songs are \"A Perfect Day\" (1910), \"Just a Wearyin' for You\" (1901) and \"I Love You Truly\" (1906).",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1933-11-02",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1933-11-02",
+    "original_title": "Carrie Jacobs-Bond",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-08T04:42:14"
+    "update_at": "2026-11-24T20:56:13"
 }

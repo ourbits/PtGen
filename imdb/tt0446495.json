@@ -4,57 +4,128 @@
     "name": "Unterwegs zur Familie Mann",
     "site": "imdb",
     "year": "2001",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
+        "Documentary",
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0107048/",
-            "name": "Heinrich Breloer"
+            "name": "Heinrich Breloer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1126691/",
-            "name": "Elisabeth Mann-Borgese"
+            "name": "Elisabeth Mann-Borgese",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0008732/",
+            "name": "Hans Abich",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3073846/",
+            "name": "Klaus Pringsheim Jr.",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1747793/",
+            "name": "Frido Mann",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3073151/",
-            "name": "Hilde Kahn Reach"
+            "name": "Hilde Kahn Reach",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0802561/",
+            "name": "Curt Siodmak",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0624605/",
+            "name": "Charles Neider",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0542814/",
+            "name": "Jindrich Mann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1239549/",
+            "name": "Hans Mayer",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Heinrich Breloer",
+            "Elisabeth Mann-Borgese",
+            "Hans Abich"
+        ],
+        "Genres": [
+            "Documentary",
+            "Drama"
+        ],
+        "Writer": [
+            "Heinrich Breloer",
+            "Horst Königstein"
+        ],
+        "Runtime": [
+            "255 min"
+        ],
+        "Director": [
+            "Heinrich Breloer",
+            "Horst Königstein"
         ],
         "Release date": [
-            "December 22, 2001 (Germany)"
-        ],
-        "Country of origin": [
-            "Germany"
-        ],
-        "Production companies": [
-            "Bavaria Film",
-            "Bayerischer Rundfunk (BR)",
-            "Norddeutscher Rundfunk (NDR)"
+            "2001"
         ]
     },
     "reviews": 0,
-    "creators": [],
-    "duration": null,
-    "keywords": [
-        "tv mini series"
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0107048/",
+            "name": "Heinrich Breloer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0477933/",
+            "name": "Horst Königstein",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT4H15M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0107048/",
+            "name": "Heinrich Breloer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0477933/",
+            "name": "Horst Königstein",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0446495/",
     "metascore": null,
-    "imdb_votes": 27,
+    "imdb_votes": 31,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "8/10 from 27 users",
+    "imdb_rating": "8.5/10 from 31 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2001-12-22",
-    "imdb_rating_average": 8,
-    "update_at": "2026-04-11T11:21:06"
+    "datePublished": "2001",
+    "original_title": "Unterwegs zur Familie Mann",
+    "imdb_rating_average": 8.5,
+    "update_at": "2026-11-24T05:56:06"
 }

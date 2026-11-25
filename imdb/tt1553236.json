@@ -4,39 +4,89 @@
     "name": "Rebrousse-temps",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
-        "Short",
         "Fantasy",
-        "Horror"
+        "Horror",
+        "Short"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm3711177/",
+            "name": "Olivier Chamayou",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3709804/",
+            "name": "Céline Faith Dominguez",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2NjMDcxNGYtYjFlZi00YTQxLWE1YjUtZWJlMDgxODU3NGE5XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Olivier Chamayou",
+            "Céline Faith Dominguez"
+        ],
+        "Genres": [
+            "Fantasy",
+            "Horror",
+            "Short"
+        ],
+        "Writer": [
+            "Ghislaine Pujol"
+        ],
+        "Runtime": [
+            "8 min"
+        ],
+        "Director": [
+            "Ghislaine Pujol",
+            "Florence Chamayou",
+            "Céline Faith Dominguez"
         ],
         "Release date": [
-            "May 14, 2008 (France)"
-        ],
-        "Country of origin": [
-            "France"
+            "2008"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm1666001/",
+            "name": "Ghislaine Pujol",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT8M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm1666001/",
+            "name": "Ghislaine Pujol",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3711595/",
+            "name": "Florence Chamayou",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3709804/",
+            "name": "Céline Faith Dominguez",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1553236/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "We follow the victim of a strange murderer as she is killed backward and dies in pain before the murder itself.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2008-05-14",
+    "datePublished": "2008",
+    "original_title": "Rebrousse-temps",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-21T14:49:27"
+    "update_at": "2026-11-24T10:35:33"
 }

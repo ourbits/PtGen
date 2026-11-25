@@ -4,66 +4,128 @@
     "name": "500 kada",
     "site": "imdb",
     "year": "1981",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0799509/",
-            "name": "Nikola Simic"
+            "name": "Nikola Simić",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0831250/",
-            "name": "Vlastimir &apos;Djuza&apos; Stojiljkovic"
+            "name": "Vlastimir 'Djuza' Stojiljkovic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0812408/",
-            "name": "Ruzica Sokic"
+            "name": "Ružica Sokić",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0548664/",
+            "name": "Olivera Markovic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0420575/",
+            "name": "Djordje Jelisic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0482273/",
+            "name": "Predrag Lakovic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0705577/",
+            "name": "Zarko Radic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0349664/",
+            "name": "Milan 'Lane' Gutovic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0590504/",
+            "name": "Dragoljub Milosavljevic-Gula",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0700684/",
+            "name": "Djordje Pura",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDg1YzJhOWItYmZmZS00YzU2LThiZjAtZTk4MjVlOTZiYTdjXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/aRRTTVbYwdbN275EdxWFrIxiWmF.jpg",
     "details": {
+        "Stars": [
+            "Nikola Simić",
+            "Vlastimir 'Djuza' Stojiljkovic",
+            "Ružica Sokić"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Gordan Mihic"
+        ],
+        "Runtime": [
+            "50 min"
+        ],
+        "Director": [
+            "Milan Jelic"
+        ],
         "Language": [
             "Serbo-Croatian"
         ],
         "Release date": [
-            "September 14, 1981 (Yugoslavia)"
+            "1981-09-14"
         ],
         "Country of origin": [
             "Yugoslavia"
         ],
-        "Production company": [
+        "Production companies": [
             "Radiotelevizija Beograd"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0586235/",
-            "name": "Gordan Mihic"
+            "name": "Gordan Mihic",
+            "@type": "Person"
         }
     ],
     "duration": "PT50M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0420533/",
-            "name": "Milan Jelic"
+            "name": "Milan Jelic",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0199291/",
     "metascore": null,
-    "imdb_votes": 37,
+    "imdb_votes": 42,
     "popularity": 0,
-    "description": "The staff of a company organize the meeting regarding 500 bathtubs which someone mysteriously left in the timber yard. Although it&apos;s obviously someone&apos;s machination behind this, the meeting turns into the feast with music, rather ...",
-    "imdb_rating": "7.5/10 from 37 users",
-    "release_date": [],
+    "description": "The staff of a company organize the meeting regarding 500 bathtubs which someone mysteriously left in the timber yard. Although it's obviously someone's machination behind this, the meeting turns into a feast with music, rather than a night of boring polemics.",
+    "imdb_rating": "7.4/10 from 42 users",
+    "release_date": [
+        {
+            "date": "1981-09-14",
+            "country": "Yugoslavia"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1981-09-14",
-    "imdb_rating_average": 7.5,
-    "update_at": "2025-08-31T14:39:17"
+    "original_title": "500 kada",
+    "imdb_rating_average": 7.4,
+    "update_at": "2026-11-24T15:49:16"
 }

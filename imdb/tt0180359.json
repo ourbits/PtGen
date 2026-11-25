@@ -5,52 +5,119 @@
     "site": "imdb",
     "year": "1962",
     "@type": "TVSeries",
-    "genre": null,
+    "genre": [
+        "Drama"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0121199/",
-            "name": "Götz Burger"
+            "name": "Götz Burger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1779572/",
-            "name": "Claudia Podehl"
+            "name": "Claudia Podehl",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0275381/",
-            "name": "Walter Feuchtenberg"
+            "name": "Walter Feuchtenberg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0420508/",
+            "name": "Erik Jelde",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0240005/",
+            "name": "Gernot Duda",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0104512/",
+            "name": "Peter Brand",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0525025/",
+            "name": "Kurt E. Ludwig",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODNlNzc5MDUtNzMzYy00ZTk5LTgyMDYtOTcyNDZkN2U3YTdlXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Götz Burger",
+            "Claudia Podehl",
+            "Walter Feuchtenberg"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Peter Podehl",
+            "Ulrich Schonger",
+            "Alois Tluchor"
+        ],
+        "Runtime": [
+            "50 min"
+        ],
+        "Director": [
+            "Peter Podehl"
+        ],
         "Language": [
-            "German"
+            "German",
+            "Italian"
         ],
         "Release date": [
-            "November 15, 1962 (West Germany)"
+            "1962-11-15"
         ],
         "Country of origin": [
-            "West Germany"
-        ],
-        "Production company": [
-            "Westdeutscher Rundfunk (WDR)"
+            "Germany"
         ]
     },
     "reviews": 0,
-    "creators": [],
-    "duration": null,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0687934/",
+            "name": "Peter Podehl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0774769/",
+            "name": "Ulrich Schonger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1391995/",
+            "name": "Alois Tluchor",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT50M",
     "keywords": [
-        ""
+        "world war ii"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0687934/",
+            "name": "Peter Podehl",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0180359/",
     "metascore": null,
-    "imdb_votes": 44,
+    "imdb_votes": 47,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "8.2/10 from 44 users",
+    "imdb_rating": "8.0/10 from 47 users",
     "release_date": [],
     "contentRating": null,
     "datePublished": "1962-11-15",
-    "imdb_rating_average": 8.2,
-    "update_at": "2025-09-25T08:07:18"
+    "original_title": "Die Höhlenkinder",
+    "imdb_rating_average": 8.0,
+    "update_at": "2026-11-24T14:42:35"
 }

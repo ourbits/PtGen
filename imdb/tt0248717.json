@@ -4,7 +4,7 @@
     "name": "By Fair Means or Foul",
     "site": "imdb",
     "year": "1915",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Comedy",
         "Short"
@@ -12,55 +12,76 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0863863/",
-            "name": "Fay Tincher"
+            "name": "Fay Tincher",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0095695/",
-            "name": "Elmer Booth"
+            "name": "Elmer Booth",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0275419/",
-            "name": "Bobby Ray"
+            "name": "Bobby Ray",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0936767/",
+            "name": "Chester Withey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1584325/",
+            "name": "Edith Borella",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0203439/",
+            "name": "Max Davidson",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Stars": [
+            "Fay Tincher",
+            "Elmer Booth",
+            "Bobby Ray"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Director": [
+            "Edward Dillon"
         ],
         "Release date": [
-            "April 11, 1915 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Komic Pictures Company"
+            "1915"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0226992/",
-            "name": "Edward Dillon"
+            "name": "Edward Dillon",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0248717/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "The town marshal is in love with Susie, the daughter of Silas Crank. Susie has another admirer: Willie, a friend of Judge Short, who is running for re-election; Silas Crank is his political rival. The town marshal makes life miser...",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1915-04-11",
+    "datePublished": "1915",
+    "original_title": "By Fair Means or Foul",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-26T11:26:26"
+    "update_at": "2026-11-24T04:21:32"
 }

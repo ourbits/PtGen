@@ -4,75 +4,131 @@
     "name": "Red",
     "site": "imdb",
     "year": "2020",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Action",
+        "Short",
         "Thriller"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2404908/",
-            "name": "Beau Fowler"
+            "name": "Beau Fowler",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0714739/",
-            "name": "Ian Reddington"
+            "name": "Ian Reddington",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0510545/",
-            "name": "Jennifer Lim"
+            "name": "Jennifer Lim",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4942550/",
+            "name": "Andrew Leung",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1683737/",
+            "name": "Andrew St Clair James",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4300959/",
+            "name": "Cheryl Burniston",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2721633/",
+            "name": "Sonny Louis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm12024632/",
+            "name": "Evie Templeton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm9710520/",
+            "name": "Millie Power",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3369542/",
+            "name": "Eric Kole",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGMxOTlkNWEtOWNlOC00MjFkLTg4MTAtZDM1ZDM3ZDg0N2M1XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/tVhmmgObWBALnlVDpbrR99Rbsl.jpg",
     "details": {
+        "Stars": [
+            "Beau Fowler",
+            "Ian Reddington",
+            "Jennifer Lim"
+        ],
+        "Genres": [
+            "Action",
+            "Short",
+            "Thriller"
+        ],
+        "Writer": [
+            "Beau Fowler"
+        ],
+        "Director": [
+            "David Newton"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "October 7, 2020 (United Kingdom)"
-        ],
-        "Official site": [
-            "Official Facebook Page - https://www.facebook.com/redactionshort"
+            "2020-10-07"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Production company": [
-            "Ki Films"
+        "Production companies": [
+            "KI Films Ltd"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2404908/",
-            "name": "Beau Fowler"
+            "name": "Beau Fowler",
+            "@type": "Person"
         }
     ],
-    "duration": null,
+    "duration": "PT18M",
     "keywords": [
-        "organ theft",
-        "organ harvesting",
-        "urban legend",
-        "based on urban legend",
-        "father daughter relationship"
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2956073/",
-            "name": "David Newton"
+            "name": "David Newton",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt13372698/",
     "metascore": null,
-    "imdb_votes": 0,
+    "imdb_votes": 83,
     "popularity": 0,
-    "description": "When Daniel, an ex soldier, makes a dangerous choice to find his daughter a matching organ through unofficial channels, he awakes in a bath of ice, missing one of his own kidneys. Discovering he&apos;s trapped in the &apos;Organ Harvesting ...",
-    "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "description": "When an ex-soldier awakes in a bath of ice to discover he’s missing a kidney, and worse - his daughter, he must fight his way through the ‘Organ Harvesting Den’ to find her before it’s too late.",
+    "imdb_rating": "8.6/10 from 83 users",
+    "release_date": [
+        {
+            "date": "2020-10-07",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2020-10-07",
-    "imdb_rating_average": 0,
-    "update_at": "2025-07-09T00:26:33"
+    "original_title": "Red",
+    "imdb_rating_average": 8.6,
+    "update_at": "2026-11-24T07:49:41"
 }

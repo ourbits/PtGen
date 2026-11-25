@@ -4,58 +4,87 @@
     "name": "Zemlja",
     "site": "imdb",
     "year": "1982",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0019609/",
-            "name": "Slobodan Aligrudic"
+            "name": "Slobodan Aligrudic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0084766/",
-            "name": "Jelica Bjeli"
+            "name": "Jelica Bjeli",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0421953/",
-            "name": "Slavka Jerinic"
+            "name": "Slavka Jerinic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0472422/",
+            "name": "Ljiljana Krstic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0631619/",
+            "name": "Svetolik Nikacevic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0705316/",
+            "name": "Milica Radakovic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2805945/",
+            "name": "Prvoslav Zakovski",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Serbo-Croatian"
+        "Stars": [
+            "Slobodan Aligrudic",
+            "Jelica Bjeli",
+            "Slavka Jerinic"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Molina Udovicki"
+        ],
+        "Runtime": [
+            "88 min"
+        ],
+        "Director": [
+            "Nikola Lorencin"
         ],
         "Release date": [
-            "May 17, 1982 (Yugoslavia)"
-        ],
-        "Also known as": [
-            "A föld"
-        ],
-        "Country of origin": [
-            "Yugoslavia"
-        ],
-        "Production company": [
-            "Televizija Novi Sad"
+            "1982"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3516982/",
-            "name": "Molina Udovicki"
+            "name": "Molina Udovicki",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H28M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0520616/",
-            "name": "Nikola Lorencin"
+            "name": "Nikola Lorencin",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1360242/",
@@ -66,7 +95,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1982-05-17",
+    "datePublished": "1982",
+    "original_title": "Zemlja",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-01T10:07:55"
+    "update_at": "2026-11-24T13:42:08"
 }

@@ -4,79 +4,129 @@
     "name": "The Big Premiere",
     "site": "imdb",
     "year": "1940",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Family",
         "Comedy",
+        "Family",
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0086706/",
-            "name": "Robert Blake"
+            "name": "Robert Blake",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0393454/",
-            "name": "Darla Hood"
+            "name": "Darla Hood",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0568757/",
-            "name": "George &apos;Spanky&apos; McFarland"
+            "name": "George 'Spanky' McFarland",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0842813/",
+            "name": "Carl 'Alfalfa' Switzer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0858537/",
+            "name": "Billie 'Buckwheat' Thomas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0443283/",
+            "name": "Darwood Kaye",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0167668/",
+            "name": "Shirley Coates",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0086595/",
+            "name": "Joan Blake",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0227117/",
+            "name": "John Dilson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0340806/",
+            "name": "Eddie Gribbon",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjk1ZWYzNzMtYzhmNS00NTY5LThjZTktYWQyMDZiOWYzN2FhXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/zWIZ6xkVSstuhjMOo61o0VyvTlC.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Robert Blake",
+            "Darla Hood",
+            "George 'Spanky' McFarland"
+        ],
+        "Genres": [
+            "Comedy",
+            "Family",
+            "Short"
+        ],
+        "Writer": [
+            "Hal Law",
+            "Robert A. McGowan"
+        ],
+        "Runtime": [
+            "11 min"
+        ],
+        "Director": [
+            "Edward L. Cahn"
         ],
         "Release date": [
-            "March 9, 1940 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA"
-        ],
-        "Production company": [
-            "Metro-Goldwyn-Mayer (MGM)"
+            "1940-03-09"
         ]
     },
-    "reviews": 10,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0492327/",
-            "name": "Hal Law"
+            "name": "Hal Law",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0569696/",
-            "name": "Robert A. McGowan"
+            "name": "Robert A. McGowan",
+            "@type": "Person"
         }
     ],
     "duration": "PT11M",
-    "keywords": [
-        "our gang",
-        "film premiere",
-        "children",
-        "hollywood",
-        "film in film"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0128715/",
-            "name": "Edward L. Cahn"
+            "name": "Edward L. Cahn",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0032249/",
     "metascore": null,
     "imdb_votes": 122,
     "popularity": 0,
-    "description": "It is a premiere night at the Fox Carthay Circle theater, and the Our Gang show up to observe the festivities. But after the Gang causes a disruption, the police send them scurrying home. Not to worry--the Our Gang stage their own...",
+    "description": "It is a premiere night at the Fox Carthay Circle theater, and the Our Gang show up to observe the festivities. But after the Gang causes a disruption, the police send them scurrying home. Not to worry--the Our Gang stage their own premiere night in the clubhouse barn.",
     "imdb_rating": "6.1/10 from 122 users",
-    "release_date": [],
-    "contentRating": "Approved",
+    "release_date": [
+        {
+            "date": "1940-03-09",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1940-03-09",
+    "original_title": "The Big Premiere",
     "imdb_rating_average": 6.1,
-    "update_at": "2025-03-29T01:00:46"
+    "update_at": "2026-11-25T00:14:08"
 }

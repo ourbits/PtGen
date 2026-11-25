@@ -5,66 +5,98 @@
     "site": "imdb",
     "year": "1972",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2500914/",
-            "name": "Anna Beeke"
+            "name": "Anna Beeke",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2501364/",
-            "name": "Catharina Holland"
+            "name": "Catharina Holland",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2491933/",
-            "name": "Susan Janssen"
+            "name": "Susan Janssen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2045687/",
+            "name": "Katherine Knowles",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0467690/",
+            "name": "Anton Kothuis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0506352/",
+            "name": "Bill Levy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2491816/",
+            "name": "Ans van Campen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1010746/",
+            "name": "Gerard van der Boom",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Anna Beeke",
+            "Catharina Holland",
+            "Susan Janssen"
+        ],
+        "Writer": [
+            "Melvin Clay"
+        ],
+        "Runtime": [
+            "85 min"
+        ],
+        "Director": [
+            "Melvin Clay"
         ],
         "Release date": [
-            "February 4, 1972 (Netherlands)"
-        ],
-        "Also known as": [
-            "Geen Statiegeld"
-        ],
-        "Country of origin": [
-            "Netherlands"
-        ],
-        "Production company": [
-            "Nederlandse Filmmakers Koöperatie"
+            "1972"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0165545/",
-            "name": "Melvin Clay"
+            "name": "Melvin Clay",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H25M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0165545/",
-            "name": "Melvin Clay"
+            "name": "Melvin Clay",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0935074/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Depicts the dehumanization of the modern consumer society and individual resistance to this, as well as loneliness and despair.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1972-02-04",
+    "datePublished": "1972",
+    "original_title": "Overload",
     "imdb_rating_average": 0,
-    "update_at": "2025-10-04T20:13:40"
+    "update_at": "2026-11-24T09:07:42"
 }

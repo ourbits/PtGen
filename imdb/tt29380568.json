@@ -4,50 +4,96 @@
     "name": "The Meal",
     "site": "imdb",
     "year": "2024",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Action",
-        "Drama"
+        "Drama",
+        "Horror"
     ],
-    "critic": 8,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTQxOTRiNjgtM2E5Yi00YTBlLTg2NjktMDJjZGM5N2ZlMWRhXkEyXkFqcGc@._V1_.jpg",
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm14173906/",
+            "name": "Hok Kit Cheng",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm14173972/",
+            "name": "James Hok Tsun Cheng",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0198578/",
+            "name": "Peter Andreas Dam",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10458062/",
+            "name": "Victoria Olsen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10131328/",
+            "name": "Marianne Schmidt",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/g631OzNPBOfe7CMSDe3NrVPjSLb.jpg",
     "details": {
-        "Languages": [
-            "Danish",
-            "Cantonese"
+        "Stars": [
+            "Hok Kit Cheng",
+            "James Hok Tsun Cheng",
+            "Peter Andreas Dam"
+        ],
+        "Genres": [
+            "Action",
+            "Drama",
+            "Horror"
+        ],
+        "Writer": [
+            "Thomas Steen Sørensen"
+        ],
+        "Runtime": [
+            "16 min"
+        ],
+        "Director": [
+            "Thomas Steen Sørensen"
+        ],
+        "Language": [
+            "Danish"
         ],
         "Release date": [
-            "February 9, 2024 (Denmark)"
-        ],
-        "Also known as": [
-            "Måltidet"
-        ],
-        "Official site": [
-            "Producer/writer/director website - https://www.colorrange.com/film/themeal"
-        ],
-        "Country of origin": [
-            "Denmark"
-        ],
-        "Production company": [
-            "Colorrange Media"
+            "2024"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": "A man ordering a special meal",
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm2188483/",
+            "name": "Thomas Steen Sørensen",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT16M",
-    "keywords": [
-        ""
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm2188483/",
+            "name": "Thomas Steen Sørensen",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt29380568/",
     "metascore": null,
     "imdb_votes": 15,
     "popularity": 0,
-    "description": "THE MEAL is an art house action film - a genre you don&apos;t often see in these broad areas, but which is mostly known from the USA, China and Hong Kong. The manuscript was created during the corona epidemic. The film was produced in ...",
+    "description": "An Art House Action movie about a manwho ordered a special meal",
     "imdb_rating": "9.5/10 from 15 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2024-02-09",
+    "datePublished": "2024",
+    "original_title": "The Meal",
     "imdb_rating_average": 9.5,
-    "update_at": "2025-12-04T04:40:09"
+    "update_at": "2026-11-24T08:35:06"
 }

@@ -1,96 +1,344 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "超级狐狸先生",
+            "country": "China"
+        },
+        {
+            "title": "狐狸先生无得顶",
+            "country": "China"
+        },
+        {
+            "title": "O apithanos kyrios Fox",
+            "country": "Greece"
+        },
+        {
+            "title": "ファンタスティックMr. FOX",
+            "country": "Japan"
+        },
+        {
+            "title": "O Fantástico Senhor Raposo",
+            "country": "Portugal"
+        },
+        {
+            "title": "Le Fantastique Mr. Fox",
+            "country": "France"
+        },
+        {
+            "title": "O Fantástico Sr. Raposo",
+            "country": "Brazil"
+        },
+        {
+            "title": "Ֆանտաստիկ պարոն Ֆոքս",
+            "country": "Armenia"
+        },
+        {
+            "title": "A Fantasztikus Róka úr",
+            "country": "Hungary"
+        },
+        {
+            "title": "Бесподобный мистер Фокс",
+            "country": "Russia"
+        },
+        {
+            "title": "Möhtəşəm Cənab Tülkü",
+            "country": "Azerbaijan"
+        },
+        {
+            "title": "Фантастични господин Лисац",
+            "country": "Serbia"
+        },
+        {
+            "title": "Фантастичният господин Фокс",
+            "country": "Bulgaria"
+        }
+    ],
     "sid": "tt0432283",
     "name": "Fantastic Mr. Fox",
     "site": "imdb",
     "year": "2009",
     "@type": "Movie",
     "genre": [
-        "Animation",
         "Adventure",
+        "Animation",
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000123/",
-            "name": "George Clooney"
+            "name": "George Clooney",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000658/",
-            "name": "Meryl Streep"
+            "name": "Meryl Streep",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000195/",
-            "name": "Bill Murray"
-        }
-    ],
-    "critic": 361,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTA1ZTIxZDUtNGFjYS00YTc5LTgzNDMtZWNjYjBlMzI2OTk3XkEyXkFqcGc@._V1_.jpg",
-    "details": {
-        "Languages": [
-            "English",
-            "French"
-        ],
-        "Release date": [
-            "November 25, 2009 (United States)"
-        ],
-        "Also known as": [
-            "El fantástico Sr. Zorro"
-        ],
-        "Official site": [
-            "Official Facebook - https://www.facebook.com/Fantastic-Mr-Fox-134744959738"
-        ],
-        "Filming locations": [
-            "Three Mills Studios, Three Mill Lane, Bow, London, England, UK"
-        ],
-        "Countries of origin": [
-            "United States",
-            "United Kingdom"
-        ],
-        "Production companies": [
-            "Twentieth Century Fox",
-            "Indian Paintbrush",
-            "Regency Enterprises"
-        ]
-    },
-    "reviews": 484,
-    "creators": [
-        {
-            "url": "https://www.imdb.com/name/nm0001094/",
-            "name": "Roald Dahl"
+            "name": "Bill Murray",
+            "@type": "Person"
         },
         {
+            "url": "https://www.imdb.com/name/nm0005403/",
+            "name": "Jason Schwartzman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0938645/",
+            "name": "Wallace Wolodarsky",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0026682/",
+            "name": "Eric Chase Anderson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0002091/",
+            "name": "Michael Gambon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000353/",
+            "name": "Willem Dafoe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005562/",
+            "name": "Owen Wilson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1006741/",
+            "name": "Jarvis Cocker",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/bOVr292mwn3jxr1e0NmUPM1rcjo.jpg",
+    "details": {
+        "Stars": [
+            "George Clooney",
+            "Meryl Streep",
+            "Bill Murray"
+        ],
+        "Genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "Writer": [
+            "Wes Anderson",
+            "Noah Baumbach",
+            "Roald Dahl"
+        ],
+        "Runtime": [
+            "87 min"
+        ],
+        "Director": [
+            "Wes Anderson"
+        ],
+        "Language": [
+            "English",
+            "French",
+            "Latin"
+        ],
+        "Release date": [
+            "2009-10-14"
+        ],
+        "Country of origin": [
+            "United States of America"
+        ],
+        "Production companies": [
+            "Regency Enterprises",
+            "Indian Paintbrush",
+            "American Empirical Pictures"
+        ]
+    },
+    "reviews": 0,
+    "tagline": "Dig the life fantastic.",
+    "creators": [
+        {
             "url": "https://www.imdb.com/name/nm0027572/",
-            "name": "Wes Anderson"
+            "name": "Wes Anderson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000876/",
-            "name": "Noah Baumbach"
+            "name": "Noah Baumbach",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001094/",
+            "name": "Roald Dahl",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H27M",
     "keywords": [
+        "based on novel or book",
+        "tree",
+        "peasant",
         "fox",
-        "stop motion animation",
-        "farmer",
-        "puppet animation",
-        "theft"
+        "villain",
+        "cider",
+        "tale",
+        "farm life",
+        "anthropomorphism",
+        "caper",
+        "revenge",
+        "stop motion",
+        "candid",
+        "3d animation",
+        "dramatic",
+        "intense",
+        "admiring",
+        "ambiguous",
+        "euphoric"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0027572/",
-            "name": "Wes Anderson"
+            "name": "Wes Anderson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0432283/",
-    "metascore": 83,
-    "imdb_votes": 289218,
-    "popularity": 930,
-    "description": "An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers&apos; retaliation.",
-    "imdb_rating": "7.9/10 from 289218 users",
-    "release_date": [],
+    "metascore": null,
+    "imdb_votes": 314053,
+    "popularity": 491,
+    "description": "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
+    "imdb_rating": "7.9/10 from 314053 users",
+    "release_date": [
+        {
+            "date": "2009-12-12",
+            "country": "United Arab Emirates"
+        },
+        {
+            "date": "2010-06-25",
+            "country": "Austria"
+        },
+        {
+            "date": "2010-01-01",
+            "country": "Australia"
+        },
+        {
+            "date": "2009-10-23",
+            "country": "Brazil"
+        },
+        {
+            "date": "2009-11-25",
+            "country": "Canada"
+        },
+        {
+            "date": "2010-05-13",
+            "country": "Germany"
+        },
+        {
+            "date": "2010-03-12",
+            "country": "Estonia"
+        },
+        {
+            "date": "2010-04-22",
+            "country": "Spain"
+        },
+        {
+            "date": "2010-03-26",
+            "country": "Finland"
+        },
+        {
+            "date": "2010-01-23",
+            "country": "France"
+        },
+        {
+            "date": "2009-10-14",
+            "country": "United Kingdom"
+        },
+        {
+            "date": "2010-04-01",
+            "country": "Greece"
+        },
+        {
+            "date": "2010-03-25",
+            "country": "Hong Kong"
+        },
+        {
+            "date": "2010-10-06",
+            "country": "Hungary"
+        },
+        {
+            "date": "2009-10-23",
+            "country": "Ireland"
+        },
+        {
+            "date": "2010-04-02",
+            "country": "Italy"
+        },
+        {
+            "date": "2011-03-19",
+            "country": "Japan"
+        },
+        {
+            "date": "2009-12-24",
+            "country": "South Korea"
+        },
+        {
+            "date": "2009-12-04",
+            "country": "Mexico"
+        },
+        {
+            "date": "2009-11-19",
+            "country": "Malaysia"
+        },
+        {
+            "date": "2010-02-26",
+            "country": "Netherlands"
+        },
+        {
+            "date": "2009-11-25",
+            "country": "Norway"
+        },
+        {
+            "date": "2010-01-01",
+            "country": "New Zealand"
+        },
+        {
+            "date": "2010-04-16",
+            "country": "Poland"
+        },
+        {
+            "date": "2010-01-28",
+            "country": "Portugal"
+        },
+        {
+            "date": "2009-11-20",
+            "country": "Romania"
+        },
+        {
+            "date": "2009-10-14",
+            "country": "Russia"
+        },
+        {
+            "date": "2009-11-19",
+            "country": "Sweden"
+        },
+        {
+            "date": "2009-11-19",
+            "country": "Singapore"
+        },
+        {
+            "date": "2010-01-23",
+            "country": "Taiwan"
+        },
+        {
+            "date": "2009-10-30",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": "PG",
-    "datePublished": "2009-11-25",
+    "datePublished": "2009-10-14",
+    "original_title": "Fantastic Mr. Fox",
     "imdb_rating_average": 7.9,
-    "update_at": "2025-07-11T09:49:27"
+    "update_at": "2026-11-24T12:07:18"
 }

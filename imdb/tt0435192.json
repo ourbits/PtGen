@@ -1,60 +1,135 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Detvanská krev",
+            "country": "Czechoslovakia"
+        },
+        {
+            "title": "Súmrak nad Poľanou",
+            "country": "Czechoslovakia"
+        },
+        {
+            "title": "Súmrak nad Detvou",
+            "country": "Czechoslovakia"
+        }
+    ],
     "sid": "tt0435192",
     "name": "Matkina spoved",
     "site": "imdb",
     "year": "1938",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Drama"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0775628/",
-            "name": "Raoul Schránil"
+            "name": "Raoul Schránil",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0046519/",
-            "name": "Andrej Bagar"
+            "name": "Andrej Bagar",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1779575/",
-            "name": "Ruzena Porubska-Hurbanova"
+            "name": "Ruzena Porubska-Hurbanova",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3245633/",
+            "name": "Ján Sýkora",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0843113/",
+            "name": "Mária Sýkorová",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0276760/",
+            "name": "Štefan Figura",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0690430/",
+            "name": "Beta Poničanová",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1778883/",
+            "name": "Zolo Sebo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4738939/",
+            "name": "Elena Smatková",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0032262/",
+            "name": "Dagmar Appelová",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Raoul Schránil",
+            "Andrej Bagar",
+            "Ruzena Porubska-Hurbanova"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Josef Hobl",
+            "Karel Spelina"
+        ],
+        "Runtime": [
+            "80 min"
+        ],
+        "Director": [
+            "Karel Spelina"
+        ],
         "Language": [
-            "Czech"
+            "Slovak"
         ],
         "Release date": [
-            "October 6, 1938 (Czechoslovakia)"
+            "1938-06-10"
         ],
         "Country of origin": [
             "Czechoslovakia"
         ],
-        "Filming locations": [
-            "AB Barrandov Studios, Prague, Czech Republic"
+        "Production companies": [
+            "Dafa"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1779967/",
-            "name": "Josef Hobl"
+            "name": "Josef Hobl",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0817662/",
-            "name": "Karel Spelina"
+            "name": "Karel Spelina",
+            "@type": "Person"
         }
     ],
-    "duration": null,
+    "duration": "PT1H20M",
     "keywords": [
-        ""
+        "based on play or musical"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0817662/",
-            "name": "Karel Spelina"
+            "name": "Karel Spelina",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0435192/",
@@ -63,9 +138,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1937-09-12",
+            "country": "Czechoslovakia"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1938-10-06",
+    "datePublished": "1938-06-10",
+    "original_title": "Matkina spoved",
     "imdb_rating_average": 0,
-    "update_at": "2026-03-22T10:07:25"
+    "update_at": "2026-11-24T12:14:06"
 }

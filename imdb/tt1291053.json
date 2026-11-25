@@ -4,74 +4,127 @@
     "name": "The Dark Horse",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1241050/",
-            "name": "Alex Castillo"
+            "name": "Alex Castillo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0167850/",
-            "name": "Bill Cobbs"
+            "name": "Bill Cobbs",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1320997/",
-            "name": "Andrea Gabriel"
+            "name": "Andrea Gabriel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0430017/",
+            "name": "Jo Jordan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3309621/",
+            "name": "Taavi Lehtimaki",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1217603/",
+            "name": "Holly M. Martin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0189659/",
+            "name": "Thomas R. Martin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0639917/",
+            "name": "Sean O'Bryan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005344/",
+            "name": "Joe Regalbuto",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3153853/",
+            "name": "Ted West",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Alex Castillo",
+            "Bill Cobbs",
+            "Andrea Gabriel"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Thomas R. Martin",
+            "Kevin Will"
+        ],
+        "Runtime": [
+            "15 min"
+        ],
+        "Director": [
+            "Michael Regalbuto"
         ],
         "Release date": [
-            "September 1, 2008 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Hollywood Park Racetrack - 1050 S. Prairie Avenue, Inglewood, California, USA"
-        ],
-        "Production company": [
-            "The Doorpost Film Project"
+            "2008-09-01"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0189659/",
-            "name": "Thomas R. Martin"
+            "name": "Thomas R. Martin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0929558/",
-            "name": "Kevin Will"
+            "name": "Kevin Will",
+            "@type": "Person"
         }
     ],
     "duration": "PT15M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1381391/",
-            "name": "Michael Regalbuto"
+            "name": "Michael Regalbuto",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1291053/",
     "metascore": null,
-    "imdb_votes": 15,
+    "imdb_votes": 17,
     "popularity": 0,
-    "description": "Gambling addict Neil Davis&apos; life hits rock bottom after being arrested for purse-snatching and being rejected by his family. Out of desperation, he decides to bet the little money he has left on a horse race. On race day, a conver...",
-    "imdb_rating": "7.9/10 from 15 users",
-    "release_date": [],
+    "description": "Gambling addict Neil Davis' life hits rock bottom after being arrested for purse-snatching and being rejected by his family. Out of desperation, he decides to bet the little money he has left on a horse race. On race day, a conversation with a stranger convinces Neil to bet his last money on a long-shot horse. Will Neil, an underdog himself, succeed in betting against all odds? One way or another, this is going to be a life-changing day for him.",
+    "imdb_rating": "7.9/10 from 17 users",
+    "release_date": [
+        {
+            "date": "2008-09-01",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2008-09-01",
+    "original_title": "The Dark Horse",
     "imdb_rating_average": 7.9,
-    "update_at": "2025-06-11T22:13:10"
+    "update_at": "2026-11-25T00:00:15"
 }

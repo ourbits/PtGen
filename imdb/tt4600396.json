@@ -4,54 +4,77 @@
     "name": "Soap",
     "site": "imdb",
     "year": "2015",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2484648/",
-            "name": "Eugenia Caruso"
+            "name": "Eugenia Caruso",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm6085062/",
-            "name": "Rory Finn"
+            "name": "Rory Finn",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm6680060/",
-            "name": "David J. Keogh"
+            "name": "David J. Keogh",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTA4MjgxMzkwOTheQTJeQWpwZ15BbWU4MDY5NDg5NTUx._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/3RJUdQkDnI75cEaGfDtC8EVAau4.jpg",
     "details": {
+        "Stars": [
+            "Eugenia Caruso",
+            "Rory Finn",
+            "David J. Keogh"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Christopher R. Brown"
+        ],
+        "Runtime": [
+            "16 min"
+        ],
+        "Director": [
+            "Christopher R. Brown"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 30, 2015 (United States)"
+            "2015-05-30"
         ],
         "Country of origin": [
             "United Kingdom"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm5889740/",
-            "name": "Christopher R. Brown"
+            "name": "Christopher R. Brown",
+            "@type": "Person"
         }
     ],
     "duration": "PT16M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm5889740/",
-            "name": "Christopher R. Brown"
+            "name": "Christopher R. Brown",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt4600396/",
@@ -60,9 +83,15 @@
     "popularity": 0,
     "description": "When Sami breaks into a house, he is disturbed by Sophia, the owner of the property, who lures the hot criminal into her bathtub.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2015-05-30",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2015-05-30",
+    "original_title": "Soap",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-20T00:52:31"
+    "update_at": "2026-11-24T03:00:28"
 }

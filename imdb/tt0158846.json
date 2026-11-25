@@ -4,79 +4,133 @@
     "name": "Peppermills",
     "site": "imdb",
     "year": "1998",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0108480/",
-            "name": "Anthony Briatico"
+            "name": "Anthony Briatico",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2628588/",
-            "name": "Lenore Conviser"
+            "name": "Lenore Conviser",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0311250/",
-            "name": "Todd Gearhart"
+            "name": "Todd Gearhart",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0002117/",
+            "name": "Paul Guilfoyle",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0388693/",
+            "name": "Wolf Hofer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0677279/",
+            "name": "Liza Jessie Peterson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0866469/",
+            "name": "Mercedes Tomasino",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005532/",
+            "name": "Kate Walsh",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0921173/",
+            "name": "David Wenzel",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/vMmLmggSbw1OC2gaF58YAB9vF4u.jpg",
     "details": {
+        "Stars": [
+            "Anthony Briatico",
+            "Lenore Conviser",
+            "Todd Gearhart"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Brandon Cole",
+            "Isabel Hegner",
+            "Bettina Köster"
+        ],
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "Isabel Hegner"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "February 12, 1998 (Germany)"
-        ],
-        "Also known as": [
-            "Die Pfeffermühlen"
+            "1998-02-12"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Peppermills Productions"
+            "Switzerland",
+            "United States of America"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0170462/",
-            "name": "Brandon Cole"
+            "name": "Brandon Cole",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0373795/",
-            "name": "Isabel Hegner"
+            "name": "Isabel Hegner",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0467388/",
-            "name": "Bettina Köster"
+            "name": "Bettina Köster",
+            "@type": "Person"
         }
     ],
     "duration": "PT12M",
-    "keywords": [
-        "thief",
-        "collecting",
-        "independent film"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0373795/",
-            "name": "Isabel Hegner"
+            "name": "Isabel Hegner",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0158846/",
     "metascore": null,
-    "imdb_votes": 39,
+    "imdb_votes": 41,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "7.3/10 from 39 users",
-    "release_date": [],
+    "description": "The theft of her 257 treasured peppermills leads a woman to reminisce about her past encounters.",
+    "imdb_rating": "7.2/10 from 41 users",
+    "release_date": [
+        {
+            "date": "1998-02-12",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1998-02-12",
-    "imdb_rating_average": 7.3,
-    "update_at": "2025-06-11T10:33:21"
+    "original_title": "Peppermills",
+    "imdb_rating_average": 7.2,
+    "update_at": "2026-11-25T01:14:15"
 }

@@ -5,32 +5,62 @@
     "site": "imdb",
     "year": "1993",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0993576/",
+            "name": "Kanako Kishi",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0994324/",
+            "name": "Yutaka Ikejima",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1069583/",
+            "name": "Shinji Kubo",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDVlNDZmN2QtMWRjYS00ZTY2LWEyMDMtYjRjMTg1NGFmMmVhXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "Japanese"
+        "Stars": [
+            "Kanako Kishi",
+            "Yutaka Ikejima",
+            "Shinji Kubo"
+        ],
+        "Writer": [
+            "Takahisa Zeze"
+        ],
+        "Runtime": [
+            "55 min"
+        ],
+        "Director": [
+            "Minoru Inao"
         ],
         "Release date": [
-            "June 25, 1993 (Japan)"
-        ],
-        "Also known as": [
-            "ワイセツ隠し撮り 夫婦の寝室"
-        ],
-        "Country of origin": [
-            "Japan"
-        ],
-        "Production company": [
-            "Shintoho Company"
+            "1993"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0955270/",
+            "name": "Takahisa Zeze",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT55M",
-    "keywords": [
-        "pinku eiga",
-        "softcore"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0997109/",
+            "name": "Minoru Inao",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2842592/",
     "metascore": null,
@@ -40,7 +70,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1993-06-25",
+    "datePublished": "1993",
+    "original_title": "Waisetsu kakushidori: Fûfu no shinshitsu",
     "imdb_rating_average": 0,
-    "update_at": "2025-11-23T02:45:22"
+    "update_at": "2026-11-24T13:35:06"
 }

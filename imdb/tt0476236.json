@@ -3,72 +3,106 @@
     "sid": "tt0476236",
     "name": "Game over",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1984",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Action",
-        "Fantasy"
+        "Fantasy",
+        "Sci-Fi"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0563461/",
-            "name": "Marc Mazza"
+            "name": "Marc Mazza",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0592443/",
-            "name": "Roger Miremont"
+            "name": "Roger Miremont",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0636658/",
-            "name": "Roxane Nouban"
+            "name": "Roxane Nouban",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0898327/",
+            "name": "Claude Villers",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2M3OTIyNDQtNjQ1Yy00ZGRhLTgxYjgtYjY0YTNmNGQ0YTIxXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/hBSZA8nHRBT40fnw00wxXCyk1eG.jpg",
     "details": {
-        "Language": [
-            "French"
+        "Stars": [
+            "Marc Mazza",
+            "Roger Miremont",
+            "Roxane Nouban"
+        ],
+        "Genres": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "Writer": [
+            "Marc Druez",
+            "Bernard Villiot"
+        ],
+        "Runtime": [
+            "8 min"
+        ],
+        "Director": [
+            "Bernard Villiot"
         ],
         "Release date": [
-            "1984 (France)"
+            "1984-01-01"
         ],
         "Country of origin": [
             "France"
         ],
-        "Production company": [
+        "Production companies": [
             "Bleu Nuit Production"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1183856/",
-            "name": "Marc Druez"
+            "name": "Marc Druez",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0898389/",
-            "name": "Bernard Villiot"
+            "name": "Bernard Villiot",
+            "@type": "Person"
         }
     ],
     "duration": "PT8M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0898389/",
-            "name": "Bernard Villiot"
+            "name": "Bernard Villiot",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0476236/",
     "metascore": null,
     "imdb_votes": 15,
     "popularity": 0,
-    "description": "An unidentified woman on the run from a mysterious bald man seeks sanctuary with Alex, a pinball enthusiast. But when the bald man&apos;s secret is revealed, Alex is left wondering if he should have gotten involved.",
-    "imdb_rating": "5.6/10 from 15 users",
-    "release_date": [],
+    "description": "An unidentified woman on the run from a mysterious bald man seeks sanctuary with Alex, a pinball enthusiast. But when the bald man's secret is revealed, Alex is left wondering if he should have gotten involved.",
+    "imdb_rating": "5.5/10 from 15 users",
+    "release_date": [
+        {
+            "date": "1984-01-01",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 5.6,
-    "update_at": "2025-09-27T13:35:17"
+    "datePublished": "1984-01-01",
+    "original_title": "Game over",
+    "imdb_rating_average": 5.5,
+    "update_at": "2026-11-24T10:07:20"
 }

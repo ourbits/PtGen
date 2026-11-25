@@ -13,72 +13,135 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000991/",
-            "name": "Geneviève Bujold"
+            "name": "Geneviève Bujold",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0005078/",
-            "name": "Stacy Keach"
+            "name": "Stacy Keach",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0151423/",
-            "name": "Leah Chandler"
+            "name": "Leah Chandler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0622553/",
+            "name": "James Naughton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0915851/",
+            "name": "Fritz Weaver",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1261081/",
+            "name": "Shawn McGill",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0104793/",
+            "name": "Peter Brandon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0587960/",
+            "name": "Betty Miller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0533956/",
+            "name": "Aline MacMahon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0957922/",
+            "name": "Louis Zorich",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA1NzY4MzIzNV5BMl5BanBnXkFtZTcwMTIyNjAyMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/Atql8rsz0g3TKJN3ZLY0rv3Y84P.jpg",
     "details": {
+        "Stars": [
+            "Geneviève Bujold",
+            "Stacy Keach",
+            "Leah Chandler"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Music"
+        ],
+        "Writer": [
+            "Jean Anouilh",
+            "Lewis Galantiere",
+            "Sophocles"
+        ],
+        "Runtime": [
+            "89 min"
+        ],
+        "Director": [
+            "Gerald Freedman"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "February 13, 1974 (United States)"
+            "1974-02-13"
         ],
         "Country of origin": [
-            "United States"
+            "United States of America"
         ],
         "Production companies": [
-            "KQED",
-            "Public Broadcasting Service (PBS)"
+            "Broadway Theatre Archive"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0030478/",
-            "name": "Jean Anouilh"
+            "name": "Jean Anouilh",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0301645/",
-            "name": "Lewis Galantiere"
+            "name": "Lewis Galantiere",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0814668/",
-            "name": "Sophocles"
+            "name": "Sophocles",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H29M",
-    "keywords": [
-        "old maid",
-        "sophocles",
-        "foreign language adaptation",
-        "character name in episode title",
-        "episode title spoken by character"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0293177/",
-            "name": "Gerald Freedman"
+            "name": "Gerald Freedman",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0201426/",
     "metascore": null,
-    "imdb_votes": 93,
+    "imdb_votes": 95,
     "popularity": 0,
-    "description": "With fierce originality, this powerful adaptation of the Sophocles tragedy presents a world of honor, treachery and fateful consequences. Acclaimed actress Genevieve Bujold skillfully combines elements of zealotry and idealism in ...",
-    "imdb_rating": "6.8/10 from 93 users",
-    "release_date": [],
-    "contentRating": "TV-G",
+    "description": "A 1974 PBS production of Jean Anouilh's 1944 play \"Antigone\" adapted from the original Sophocles.",
+    "imdb_rating": "6.9/10 from 95 users",
+    "release_date": [
+        {
+            "date": "1974-02-13",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1974-02-13",
-    "imdb_rating_average": 6.8,
-    "update_at": "2025-08-22T17:35:15"
+    "original_title": "Antigone",
+    "imdb_rating_average": 6.9,
+    "update_at": "2026-11-24T15:49:16"
 }

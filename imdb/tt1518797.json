@@ -4,70 +4,86 @@
     "name": "Abrigo",
     "site": "imdb",
     "year": "2009",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1578802/",
-            "name": "Cristovão Campos"
+            "name": "Cristovão Campos",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2216435/",
-            "name": "Diogo Carmona"
+            "name": "Diogo Carmona",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1196647/",
-            "name": "Teresa Tavares"
+            "name": "Teresa Tavares",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2369414/",
+            "name": "Gustavo Vargas",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjA0M2NiNDktODFlNS00NThlLThhNWQtZjk2OGQ1NGE2MTVlXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "Portuguese"
+        "Stars": [
+            "Cristovão Campos",
+            "Diogo Carmona",
+            "Teresa Tavares"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Maximiliaan Dierickx"
+        ],
+        "Runtime": [
+            "18 min"
+        ],
+        "Director": [
+            "Maximiliaan Dierickx"
         ],
         "Release date": [
-            "June 26, 2009 (Belgium)"
-        ],
-        "Country of origin": [
-            "Belgium"
-        ],
-        "Filming locations": [
-            "Lisbon, Portugal"
-        ],
-        "Production company": [
-            "Eyedream"
+            "2009"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3628082/",
-            "name": "Maximiliaan Dierickx"
+            "name": "Maximiliaan Dierickx",
+            "@type": "Person"
         }
     ],
     "duration": "PT18M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3628082/",
-            "name": "Maximiliaan Dierickx"
+            "name": "Maximiliaan Dierickx",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1518797/",
     "metascore": null,
-    "imdb_votes": 18,
+    "imdb_votes": 20,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "6.2/10 from 18 users",
+    "imdb_rating": "6.2/10 from 20 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2009-06-26",
+    "datePublished": "2009",
+    "original_title": "Abrigo",
     "imdb_rating_average": 6.2,
-    "update_at": "2025-04-04T05:00:07"
+    "update_at": "2026-11-24T15:49:34"
 }

@@ -3,7 +3,7 @@
     "sid": "tt1401731",
     "name": "Der Stumme",
     "site": "imdb",
-    "year": "1978",
+    "year": "1976",
     "@type": "Movie",
     "genre": [
         "Drama"
@@ -11,55 +11,108 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0471962/",
-            "name": "Uli Krohm"
+            "name": "Uli Krohm",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3381245/",
-            "name": "Philipp Egli"
+            "name": "Philipp Egli",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0483945/",
-            "name": "Günter Lamprecht"
+            "name": "Günter Lamprecht",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0609224/",
+            "name": "Franz Mosthav",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0928536/",
+            "name": "Ingold Wildenauer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0461796/",
+            "name": "Klaus Knuth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0077955/",
+            "name": "François Berthet",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1174607/",
+            "name": "Roberto Colombo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0296180/",
+            "name": "Josef Fröhlich",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0921174/",
+            "name": "Edgar Wenzel",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "Swiss German",
+        "Stars": [
+            "Uli Krohm",
+            "Philipp Egli",
+            "Günter Lamprecht"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Otto F. Walter",
+            "Gaudenz Meili"
+        ],
+        "Runtime": [
+            "110 min"
+        ],
+        "Director": [
+            "Gaudenz Meili"
+        ],
+        "Language": [
             "German"
         ],
         "Release date": [
-            "July 20, 1978 (West Germany)"
+            "1976-01-01"
         ],
         "Country of origin": [
+            "Germany",
             "Switzerland"
-        ],
-        "Production companies": [
-            "Ciné-Group",
-            "DRS",
-            "Gaudenz Meili Produktion"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2652392/",
-            "name": "Otto F. Walter"
+            "name": "Otto F. Walter",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0576833/",
-            "name": "Gaudenz Meili"
+            "name": "Gaudenz Meili",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H50M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0576833/",
-            "name": "Gaudenz Meili"
+            "name": "Gaudenz Meili",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1401731/",
@@ -68,9 +121,19 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1976-01-01",
+            "country": "Switzerland"
+        },
+        {
+            "date": "1978-07-19",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1978-07-20",
+    "datePublished": "1976-01-01",
+    "original_title": "Der Stumme",
     "imdb_rating_average": 0,
-    "update_at": "2026-03-15T03:00:58"
+    "update_at": "2026-11-24T12:56:17"
 }

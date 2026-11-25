@@ -4,55 +4,102 @@
     "name": "Jedna polovina dana",
     "site": "imdb",
     "year": "1985",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "War"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0493952/",
-            "name": "Danilo Lazovic"
+            "name": "Danilo Lazović",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0834663/",
-            "name": "Milan Strljic"
+            "name": "Milan Strljic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0258577/",
-            "name": "Milan Erak"
+            "name": "Milan Erak",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0822278/",
+            "name": "Tihomir Stanic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0901291/",
+            "name": "Dusan Vojnovic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0705760/",
+            "name": "Zlatko Radojevic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0491551/",
+            "name": "Žarko Laušević",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0896249/",
+            "name": "Branko Vidakovic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0306808/",
+            "name": "Stevan Gardinovacki",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0687196/",
+            "name": "Mihajlo Pleskonjic",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Serbo-Croatian"
+        "Stars": [
+            "Danilo Lazović",
+            "Milan Strljic",
+            "Milan Erak"
+        ],
+        "Genres": [
+            "War"
+        ],
+        "Writer": [
+            "Milenko Vucetic"
+        ],
+        "Runtime": [
+            "81 min"
+        ],
+        "Director": [
+            "Sava Mrmak"
         ],
         "Release date": [
-            "April 15, 1985 (Yugoslavia)"
-        ],
-        "Country of origin": [
-            "Yugoslavia"
-        ],
-        "Production company": [
-            "Televizija Novi Sad"
+            "1985"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0904205/",
-            "name": "Milenko Vucetic"
+            "name": "Milenko Vucetic",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H21M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0610702/",
-            "name": "Sava Mrmak"
+            "name": "Sava Mrmak",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0819776/",
@@ -63,7 +110,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1985-04-15",
+    "datePublished": "1985",
+    "original_title": "Jedna polovina dana",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-11T00:39:09"
+    "update_at": "2026-11-24T22:28:18"
 }

@@ -1,57 +1,74 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Babbleonia: A Documentary",
+            "country": "United States of America"
+        }
+    ],
     "sid": "tt2171769",
     "name": "Babbleonia",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2005",
+    "@type": "VideoObject",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000199/",
-            "name": "Al Pacino"
+            "name": "Al Pacino",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1174603/",
-            "name": "Richard Brown"
+            "name": "Richard Brown",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDMyZmIwNjItODk0OS00ZDVkLTgwZjgtN2M4YjJhOTY0ZDgzXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/1VsfOjGGDy6bfiDul726n855VBl.jpg",
     "details": {
+        "Stars": [
+            "Al Pacino",
+            "Richard Brown"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Runtime": [
+            "54 min"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "2005 (United States)"
+            "2005-07-12"
         ],
         "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "20th Century Fox Home Entertainment"
+            "United States of America"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT54M",
-    "keywords": [
-        "reminiscing",
-        "artist",
-        "talent",
-        "film clip",
-        "new york city"
-    ],
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt2171769/",
     "metascore": null,
-    "imdb_votes": 29,
+    "imdb_votes": 31,
     "popularity": 0,
-    "description": "A retrospective of Al Pacino&apos;s remarkable, lengthy, and well-rounded career in his own words. Follow Pacino through his years as an actor, sense his love of the stage and join him on his foray into directing.",
-    "imdb_rating": "7.7/10 from 29 users",
-    "release_date": [],
+    "description": "A retrospective of Al Pacino's remarkable, lengthy, and well-rounded career in his own words. Follows Pacino through his years as an actor and director.",
+    "imdb_rating": "7.6/10 from 31 users",
+    "release_date": [
+        {
+            "date": "2005-07-12",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 7.7,
-    "update_at": "2026-01-15T22:21:38"
+    "datePublished": "2005-07-12",
+    "original_title": "Babbleonia",
+    "imdb_rating_average": 7.6,
+    "update_at": "2026-11-25T01:56:07"
 }

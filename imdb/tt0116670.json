@@ -3,6 +3,7 @@
     "sid": "tt0116670",
     "name": "American Hero",
     "site": "imdb",
+    "year": "1997",
     "@type": "Movie",
     "genre": [
         "Action",
@@ -12,54 +13,104 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000961/",
-            "name": "Timothy Bottoms"
+            "name": "Timothy Bottoms",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0888727/",
-            "name": "Musetta Vander"
+            "name": "Musetta Vander",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0859327/",
-            "name": "Patrick Thomas"
+            "name": "Patrick Thomas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0179786/",
+            "name": "Jeff Corey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0263577/",
+            "name": "Tom Everett",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0293362/",
+            "name": "Deena Freeman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0323098/",
+            "name": "Bruce Glover",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0736263/",
+            "name": "Daniel Roebuck",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0769039/",
+            "name": "Michele Scarabelli",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0821739/",
+            "name": "Sage Stallone",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzY5MjcwN2QtYmM0NS00ZWU5LTljMmYtOGE3OTYyNjNhODRkXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/rv7tyXOXjRXAkWInolc55HxuSOv.jpg",
     "details": {
+        "Stars": [
+            "Timothy Bottoms",
+            "Musetta Vander",
+            "Patrick Thomas"
+        ],
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "Writer": [
+            "Jeff Burr",
+            "Domonic Muir"
+        ],
+        "Director": [
+            "Jeff Burr"
+        ],
         "Language": [
-            "English"
+            "English",
+            "German"
         ],
-        "Also known as": [
-            "Jack Armstrong"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Los Angeles, California, USA"
+        "Release date": [
+            "1997-06-06"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0123009/",
-            "name": "Jeff Burr"
+            "name": "Jeff Burr",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0611344/",
-            "name": "Domonic Muir"
+            "name": "Domonic Muir",
+            "@type": "Person"
         }
     ],
-    "duration": null,
-    "keywords": [
-        "unreleased film",
-        "cult director",
-        "independent film"
-    ],
+    "duration": "PT1H30M",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0123009/",
-            "name": "Jeff Burr"
+            "name": "Jeff Burr",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0116670/",
@@ -67,10 +118,16 @@
     "imdb_votes": 45,
     "popularity": 0,
     "description": "Jack Armstrong who left the life of violence behind him must use his military skills once again.",
-    "imdb_rating": "6.2/10 from 45 users",
-    "release_date": [],
+    "imdb_rating": "6.3/10 from 45 users",
+    "release_date": [
+        {
+            "date": "1997-06-06",
+            "country": "United States of America"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 6.2,
-    "update_at": "2025-05-23T04:00:11"
+    "datePublished": "1997-06-06",
+    "original_title": "American Hero",
+    "imdb_rating_average": 6.3,
+    "update_at": "2026-11-24T23:35:15"
 }
