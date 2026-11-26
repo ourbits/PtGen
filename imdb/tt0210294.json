@@ -4,7 +4,7 @@
     "name": "Snow Queen",
     "site": "imdb",
     "year": "2002",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Adventure",
         "Family",
@@ -13,62 +13,128 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000403/",
-            "name": "Bridget Fonda"
+            "name": "Bridget Fonda",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0387581/",
-            "name": "Chelsea Hobbs"
+            "name": "Chelsea Hobbs",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0346885/",
-            "name": "Jeremy Guilbaut"
+            "name": "Jeremy Guilbaut",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0936288/",
+            "name": "Robert Wisden",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0134281/",
+            "name": "Wanda Cannon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0166092/",
+            "name": "Jennifer Clement",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0165413/",
+            "name": "Kira Clavell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0423296/",
+            "name": "Saraphina Joachim",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0085428/",
+            "name": "Meghan Black",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0371787/",
+            "name": "Rachel Hayward",
+            "@type": "Person"
         }
     ],
-    "critic": 5,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTI3NTYzNTk1OF5BMl5BanBnXkFtZTcwNzA5NjAyMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/qufo7G0OTQs1hMtO7B5axnCdm4E.jpg",
     "details": {
+        "Stars": [
+            "Bridget Fonda",
+            "Chelsea Hobbs",
+            "Jeremy Guilbaut"
+        ],
+        "Genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "Writer": [
+            "Simon Moore",
+            "Hans Christian Andersen"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "David Wu"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "December 7, 2002 (United States)"
+            "2002-12-07"
         ],
-        "Also known as": [
-            "Снігова королева"
-        ],
-        "Filming locations": [
-            "Cranbrook, British Columbia, Canada"
-        ],
-        "Countries of origin": [
-            "United States",
-            "Germany",
-            "Canada"
-        ],
-        "Production companies": [
-            "Hallmark Entertainment",
-            "Mat 1 Productions",
-            "Canadian Film or Video Production Tax Credit (CPTC)"
+        "Country of origin": [
+            "United States"
         ]
     },
-    "reviews": 30,
-    "creators": [],
-    "duration": null,
+    "reviews": 0,
+    "tagline": "Once a year she rises. For one season she reigns.",
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0601881/",
+            "name": "Simon Moore",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0026153/",
+            "name": "Hans Christian Andersen",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT1H30M",
     "keywords": [
-        "snow adventure",
-        "character name as title",
-        "snow queen character",
-        "tv mini series",
-        "spring the season"
+        "fairy tale"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0398871/",
+            "name": "David Wu",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0210294/",
     "metascore": null,
-    "imdb_votes": 3607,
+    "imdb_votes": 3663,
     "popularity": 0,
-    "description": "A young woman must journey through the seasons to rescue her boyfriend who has been kidnapped by the evil Snow Queen.",
-    "imdb_rating": "6.5/10 from 3607 users",
-    "release_date": [],
-    "contentRating": "TV-G",
+    "description": "Since a bitter winter storm stole the life of Gerda's mother, she and her father have sadly continued to run the remote hotel they call home. Lonely and isolated, Gerda's only joy is Kai, the handsome bellboy. A mysterious guest with an icy stare arrives at the hotel one night, wrapped in fur and diamonds. By daybreak, the \"Snow Queen\" has vanished with Kai! Gerda embarks on a journey of morphing seasons, fantastical creatures, and long-frozen mysteries in a desperate quest to find her stolen love.",
+    "imdb_rating": "6.6/10 from 3663 users",
+    "release_date": [
+        {
+            "date": "2002-12-07",
+            "country": "United States"
+        }
+    ],
+    "contentRating": "PG",
     "datePublished": "2002-12-07",
-    "imdb_rating_average": 6.5,
-    "update_at": "2026-01-15T21:14:23"
+    "original_title": "Snow Queen",
+    "imdb_rating_average": 6.6,
+    "update_at": "2026-11-25T17:07:33"
 }

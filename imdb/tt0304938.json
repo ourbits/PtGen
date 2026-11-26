@@ -4,73 +4,118 @@
     "name": "When Louis Met... Jimmy",
     "site": "imdb",
     "year": "2000",
-    "@type": "Movie",
+    "@type": "TVSpecial",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0857621/",
-            "name": "Louis Theroux"
+            "name": "Louis Theroux",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0767675/",
-            "name": "Jimmy Savile"
+            "name": "Jimmy Savile",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0119281/",
-            "name": "Michael Buerk"
+            "name": "Michael Buerk",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0206005/",
+            "name": "Elizabeth Dawn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1649100/",
+            "name": "John Prescott",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1605233/",
+            "name": "Terry Waite",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1101163/",
+            "name": "Will Yapp",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1101163/",
+            "name": "Will Yapp",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTU5NjIyZjMtMGFkZi00YzdkLTk3ZDMtZDYyMTRlN2E3ODYyXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/AgqnqZi7lAtCE4MJAopmoZTgiQX.jpg",
     "details": {
+        "Stars": [
+            "Louis Theroux",
+            "Jimmy Savile",
+            "Michael Buerk"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Writer": [
+            "Louis Theroux"
+        ],
+        "Runtime": [
+            "49 min"
+        ],
+        "Director": [
+            "Will Yapp"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "April 13, 2000 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Луи встречает: Джимми Сэйвил"
+            "2000-04-13"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
-        "Filming locations": [
-            "Allt na Reigh, Glen Coe, Highland, Scotland, UK"
+        "Production companies": [
+            "BBC"
         ]
     },
-    "reviews": 5,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0857621/",
-            "name": "Louis Theroux"
+            "name": "Louis Theroux",
+            "@type": "Person"
         }
     ],
     "duration": "PT49M",
-    "keywords": [
-        "tv special",
-        "charity worker",
-        "radio dj",
-        "suspected paedophile",
-        "character name in title"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1101163/",
-            "name": "Will Yapp"
+            "name": "Will Yapp",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0304938/",
     "metascore": null,
-    "imdb_votes": 1033,
+    "imdb_votes": 1138,
     "popularity": 0,
     "description": "Louis Theroux spends some time with the eccentric broadcaster and charity fundraiser Sir Jimmy Savile and attempts to get behind the public persona.",
-    "imdb_rating": "7.4/10 from 1033 users",
-    "release_date": [],
+    "imdb_rating": "7.4/10 from 1138 users",
+    "release_date": [
+        {
+            "date": "2000-04-13",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2000-04-13",
+    "original_title": "When Louis Met... Jimmy",
     "imdb_rating_average": 7.4,
-    "update_at": "2025-08-28T01:28:45"
+    "update_at": "2026-11-25T02:21:06"
 }

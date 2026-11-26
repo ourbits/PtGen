@@ -4,7 +4,7 @@
     "name": "Scared Silent",
     "site": "imdb",
     "year": "2002",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Drama"
@@ -12,69 +12,129 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000542/",
-            "name": "Penelope Ann Miller"
+            "name": "Penelope Ann Miller",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0224703/",
-            "name": "Reed Diamond"
+            "name": "Reed Diamond",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0720082/",
-            "name": "Liisa Repo-Martell"
+            "name": "Liisa Repo-Martell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0413263/",
+            "name": "Andrew Jackson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0493327/",
+            "name": "Shannon Lawson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0574160/",
+            "name": "Marnie McPhail",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0564921/",
+            "name": "Sean McCann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0678811/",
+            "name": "Ross Petty",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0002023/",
+            "name": "Matt Craven",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0828148/",
+            "name": "Diana Stevan",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzBjYmI1YTMtMTk0OC00OGQ4LTlhNzAtZjg5NWUzNzYyNTEwXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/veiwf6g37cGmXgS1rBitaSAfZAy.jpg",
     "details": {
+        "Stars": [
+            "Penelope Ann Miller",
+            "Reed Diamond",
+            "Liisa Repo-Martell"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "Richard Leder"
+        ],
+        "Runtime": [
+            "120 min"
+        ],
+        "Director": [
+            "Mike Robe"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 20, 2002 (United States)"
-        ],
-        "Also known as": [
-            "Amordazadas por el miedo"
+            "2002-05-20"
         ],
         "Country of origin": [
             "United States"
         ],
-        "Filming locations": [
-            "Manitoba Legislative Building, Winnipeg, Manitoba, Canada"
-        ],
-        "Production company": [
-            "Von Zerneck-Sertner Films"
+        "Production companies": [
+            "Von Zerneck Sertner Films",
+            "Lifetime"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0496461/",
-            "name": "Richard Leder"
+            "name": "Richard Leder",
+            "@type": "Person"
         }
     ],
     "duration": "PT2H",
     "keywords": [
-        "women&apos;s issues",
-        "women&apos;s liberation",
-        "rape and revenge",
-        "true crime",
-        "husband wife relationship"
+        "based on true story"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0730500/",
-            "name": "Mike Robe"
+            "name": "Mike Robe",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0319920/",
     "metascore": null,
-    "imdb_votes": 285,
+    "imdb_votes": 296,
     "popularity": 0,
-    "description": "In Minnesota, the newlywed Kathy Clifson is happily married with Chief of Police Doug Clifson that wants to adopt her son Brian from her first marriage. When she sees Officer John McCrane near the local high-school, she recognizes...",
-    "imdb_rating": "5.7/10 from 285 users",
-    "release_date": [],
-    "contentRating": "PG-13",
+    "description": "When the newlywed wife of a Minnesota police chief accuses a new officer on his force of raping her several years earlier, it sets the stage for a tense confrontation in this riveting story. Penelope Ann Miller and Reed Diamond star as Kathy and Doug Clifson, a hard-working couple whose lives are torn apart when a new officer, John McCrane, joins the force. Kathy recognizes him as the man who raped her when she was a teenager, and while other women soon come forward saying that McCrane also raped them, the police force closes ranks to protect one of their own.",
+    "imdb_rating": "5.8/10 from 296 users",
+    "release_date": [
+        {
+            "date": "2004-02-06",
+            "country": "France"
+        },
+        {
+            "date": "2002-05-20",
+            "country": "United States of America"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "2002-05-20",
-    "imdb_rating_average": 5.7,
-    "update_at": "2026-05-24T16:28:31"
+    "original_title": "Scared Silent",
+    "imdb_rating_average": 5.8,
+    "update_at": "2026-11-25T02:21:07"
 }

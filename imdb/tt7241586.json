@@ -11,49 +11,84 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0085400/",
-            "name": "Lewis Black"
+            "name": "Lewis Black",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0122987/",
-            "name": "Bill Burr"
+            "name": "Bill Burr",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0176981/",
-            "name": "Dane Cook"
+            "name": "Dane Cook",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0534904/",
+            "name": "Kathleen Madigan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005177/",
+            "name": "Howie Mandel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1166257/",
+            "name": "Ralphie May",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001542/",
+            "name": "Jay Mohr",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1833333/",
+            "name": "James Mullinger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1018708/",
+            "name": "Tammy Pescatelli",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Lewis Black",
+            "Bill Burr",
+            "Dane Cook"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Director": [
+            "Bob Krakower",
+            "Larry Schapiro"
         ],
         "Release date": [
-            "March 3, 2020 (United States)"
-        ],
-        "Official site": [
-            "Official site - http://www.johnpinette.com/"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Boston, Massachusetts, USA"
+            "2020-03-03"
         ]
     },
     "reviews": 0,
-    "duration": null,
-    "keywords": [
-        "performer"
-    ],
+    "tagline": null,
+    "creators": [],
+    "duration": "PT1H20M",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0469366/",
-            "name": "Bob Krakower"
+            "name": "Bob Krakower",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0788556/",
-            "name": "Larry Schapiro"
+            "name": "Larry Schapiro",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt7241586/",
@@ -62,9 +97,15 @@
     "popularity": 0,
     "description": "Remembering influential comedic performer John Pinette, more than just the fat guy from the last episode of Seinfeld.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2020-03-03",
+            "country": "United States"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2020-03-03",
+    "original_title": "John Pinette: You Go Now",
     "imdb_rating_average": 0,
-    "update_at": "2026-04-17T20:21:18"
+    "update_at": "2026-11-25T12:28:31"
 }

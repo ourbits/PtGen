@@ -3,43 +3,92 @@
     "sid": "tt2908846",
     "name": "The Guest",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2013",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Horror",
+        "Short",
         "Thriller"
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTg1NzU3Mzc5MV5BMl5BanBnXkFtZTcwOTYyMTM1OQ@@._V1_.jpg",
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0254644/",
+            "name": "Tara Elliott",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5362985/",
+            "name": "Jordan Gray",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm5668899/",
+            "name": "Isabella Vuckovic",
+            "@type": "Person"
+        }
+    ],
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/9UkTIoKhHgBamV07cqab2m9Qka0.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Tara Elliott",
+            "Jordan Gray",
+            "Isabella Vuckovic"
+        ],
+        "Genres": [
+            "Horror",
+            "Short",
+            "Thriller"
+        ],
+        "Writer": [
+            "Jovanka Vuckovic"
+        ],
+        "Runtime": [
+            "5 min"
+        ],
+        "Director": [
+            "Jovanka Vuckovic"
         ],
         "Release date": [
-            "April 2013 (Canada)"
+            "2013-04-01"
         ],
         "Country of origin": [
             "Canada"
-        ],
-        "Production company": [
-            "She Wolf Films"
         ]
     },
-    "reviews": 1,
-    "creators": [],
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm1281628/",
+            "name": "Jovanka Vuckovic",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT5M",
-    "keywords": [
-        "title directed by female"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm1281628/",
+            "name": "Jovanka Vuckovic",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2908846/",
     "metascore": null,
-    "imdb_votes": 63,
+    "imdb_votes": 70,
     "popularity": 0,
     "description": "A man must face his personal demons as a consequence of a mysterious bargain he has made.",
-    "imdb_rating": "5.7/10 from 63 users",
-    "release_date": [],
+    "imdb_rating": "5.8/10 from 70 users",
+    "release_date": [
+        {
+            "date": "2013-04-01",
+            "country": "Canada"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 5.7,
-    "update_at": "2025-11-14T14:14:08"
+    "datePublished": "2013-04-01",
+    "original_title": "The Guest",
+    "imdb_rating_average": 5.8,
+    "update_at": "2026-11-25T13:35:06"
 }

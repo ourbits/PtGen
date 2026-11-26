@@ -4,79 +4,141 @@
     "name": "United 300",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2169259/",
-            "name": "Scott Burn"
+            "name": "Scott Burn",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0303797/",
-            "name": "Ken Gamble"
+            "name": "Ken Gamble",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2678484/",
-            "name": "Ceilidh Lamont"
+            "name": "Ceilidh Lamont",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0032658/",
+            "name": "Victor of Aquitaine",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1794637/",
+            "name": "Ahren Boulanger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2686531/",
+            "name": "Alphonse Boulanger",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2694184/",
+            "name": "Christopher Bradley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0124920/",
+            "name": "G. Larry Butler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2680125/",
+            "name": "Ryan Caldwell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2684873/",
+            "name": "Shannon Cottrell",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmIzYjcxOTItOGY1Yi00YzE4LWJiMWQtY2VhMmI1YTljZjYwXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
+        "Stars": [
+            "Scott Burn",
+            "Ken Gamble",
+            "Ceilidh Lamont"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "John Carreon",
+            "Daniel Hartley",
+            "Andy Signore"
+        ],
+        "Runtime": [
+            "5 min"
+        ],
+        "Director": [
+            "Andy Signore"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "April 30, 2007 (United States)"
+            "2007-04-30"
         ],
         "Country of origin": [
             "United States"
-        ],
-        "Filming locations": [
-            "Air Hollywood - 13240 Weidner Street, Pacoima, Los Angeles, California, USA"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": "1 Plane. 4 Terrorists. 300 Damn Spartans.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1410262/",
-            "name": "John Carreon"
+            "name": "John Carreon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0366816/",
-            "name": "Daniel Hartley"
+            "name": "Daniel Hartley",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0797520/",
-            "name": "Andy Signore"
+            "name": "Andy Signore",
+            "@type": "Person"
         }
     ],
     "duration": "PT5M",
     "keywords": [
-        "parody comedy",
-        "king leonidas i character",
-        "warrior",
-        "parody",
-        "hijack"
+        "parody"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0797520/",
-            "name": "Andy Signore"
+            "name": "Andy Signore",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1047855/",
     "metascore": null,
     "imdb_votes": 269,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "6.5/10 from 269 users",
-    "release_date": [],
-    "contentRating": null,
+    "description": "King Leonidas and his Spartans encounter a foe during a plane ride.",
+    "imdb_rating": "6.4/10 from 269 users",
+    "release_date": [
+        {
+            "date": "2007-04-30",
+            "country": "United States"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "2007-04-30",
-    "imdb_rating_average": 6.5,
-    "update_at": "2025-02-07T17:00:27"
+    "original_title": "United 300",
+    "imdb_rating_average": 6.4,
+    "update_at": "2026-11-25T06:49:06"
 }

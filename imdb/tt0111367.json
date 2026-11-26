@@ -5,63 +5,116 @@
     "site": "imdb",
     "year": "1994",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0015052/",
-            "name": "Aya Akahori"
+            "name": "Aya Akahori",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0051503/",
-            "name": "Minako Ban"
+            "name": "Minako Ban",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0193459/",
-            "name": "Mickey Curtis"
+            "name": "Mickey Curtis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0359440/",
+            "name": "William Jack Hancock",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0556328/",
+            "name": "Junko Mashina",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0590927/",
+            "name": "Shinichi Minami",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7798724/",
+            "name": "Shinsuke Minami",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0620271/",
+            "name": "Reiko Nakane",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0634580/",
+            "name": "Chika Nomura",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0634594/",
+            "name": "Megu Nomura",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/6qwqMukaeH5Y4esaS1cBRoq6Md1.jpg",
     "details": {
-        "Language": [
-            "Japanese"
+        "Stars": [
+            "Aya Akahori",
+            "Minako Ban",
+            "Mickey Curtis"
+        ],
+        "Writer": [
+            "Kentarô Hachisuka"
+        ],
+        "Runtime": [
+            "70 min"
+        ],
+        "Director": [
+            "Kentarô Hachisuka"
         ],
         "Release date": [
-            "October 14, 1994 (Canada)"
-        ],
-        "Also known as": [
-            "Those Who Would Be Einstein"
+            "1994-10-14"
         ],
         "Country of origin": [
             "Japan"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0352348/",
-            "name": "Kentaro Hachisuka"
+            "name": "Kentarô Hachisuka",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H10M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0352348/",
-            "name": "Kentaro Hachisuka"
+            "name": "Kentarô Hachisuka",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0111367/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "This odd three-parter purports to map the metaphysics of the interpersonal universe, dividing its trio of tales into three, different-toned “planets.”",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1994-10-14",
+            "country": "Canada"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1994-10-14",
+    "original_title": "Tasogare no Einstein",
     "imdb_rating_average": 0,
-    "update_at": "2025-03-07T11:37:08"
+    "update_at": "2026-11-25T13:21:27"
 }

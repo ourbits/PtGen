@@ -4,48 +4,58 @@
     "name": "Un mese in campagna",
     "site": "imdb",
     "year": "1970",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0315984/",
-            "name": "Fosco Giachetti"
+            "name": "Fosco Giachetti",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0667611/",
-            "name": "Luigi Pavese"
+            "name": "Luigi Pavese",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Italian"
+        "Stars": [
+            "Fosco Giachetti",
+            "Luigi Pavese"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Ivan Chekhov"
+        ],
+        "Director": [
+            "Mario Landi"
         ],
         "Release date": [
-            "June 24, 1970 (Italy)"
-        ],
-        "Country of origin": [
-            "Italy"
+            "1970"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0155010/",
-            "name": "Ivan Chekhov"
+            "name": "Ivan Chekhov",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0484761/",
-            "name": "Mario Landi"
+            "name": "Mario Landi",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0392445/",
@@ -56,7 +66,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1970-06-24",
+    "datePublished": "1970",
+    "original_title": "Un mese in campagna",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-27T16:49:12"
+    "update_at": "2026-11-25T05:21:19"
 }

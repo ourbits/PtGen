@@ -4,74 +4,86 @@
     "name": "Let Go",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1482833/",
-            "name": "John Lawrence"
+            "name": "John Lawrence",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2130508/",
-            "name": "Hank Pond"
+            "name": "Hank Pond",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1343822/",
-            "name": "Yolanda Stange"
+            "name": "Yolanda Stange",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2348086/",
+            "name": "Christina Torriente",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "John Lawrence",
+            "Hank Pond",
+            "Yolanda Stange"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Kelly L. King"
+        ],
+        "Runtime": [
+            "8 min"
+        ],
+        "Director": [
+            "Kelly L. King"
         ],
         "Release date": [
-            "July 29, 2006 (United States)"
-        ],
-        "Official site": [
-            "Official site - http://www.letgothemovie.com/"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Salt Lake City, Utah, USA"
-        ],
-        "Production companies": [
-            "Incandescent Productions",
-            "Samaratin Films"
+            "2006"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2132261/",
-            "name": "Kelly L. King"
+            "name": "Kelly L. King",
+            "@type": "Person"
         }
     ],
     "duration": "PT8M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2132261/",
-            "name": "Kelly L. King"
+            "name": "Kelly L. King",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0833975/",
     "metascore": null,
     "imdb_votes": 5,
     "popularity": 0,
-    "description": "Marcus and Eleanor are a young couple who enjoy breezy conversations in bed with intimate memories of the past and a harsh awakening of the present.",
+    "description": null,
     "imdb_rating": "6.4/10 from 5 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2006-07-29",
+    "datePublished": "2006",
+    "original_title": "Let Go",
     "imdb_rating_average": 6.4,
-    "update_at": "2025-05-11T13:13:16"
+    "update_at": "2026-11-25T06:14:33"
 }

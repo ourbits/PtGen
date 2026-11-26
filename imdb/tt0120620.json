@@ -1,5 +1,14 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Bangkok, solo andata",
+            "country": "Italy"
+        },
+        {
+            "title": "Зруйновані замки",
+            "country": "Ukraine"
+        }
+    ],
     "sid": "tt0120620",
     "name": "Brokedown Palace",
     "site": "imdb",
@@ -13,76 +22,160 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000132/",
-            "name": "Claire Danes"
+            "name": "Claire Danes",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000295/",
-            "name": "Kate Beckinsale"
+            "name": "Kate Beckinsale",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000597/",
-            "name": "Bill Pullman"
+            "name": "Bill Pullman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0453492/",
+            "name": "Jacqueline Kim",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001617/",
+            "name": "Lou Diamond Phillips",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0487406/",
+            "name": "Daniel Lapaine",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0023885/",
+            "name": "Tom Amandes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0333888/",
+            "name": "Aimee Graham",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0230335/",
+            "name": "John Doe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0510558/",
+            "name": "Kay Tong Lim",
+            "@type": "Person"
         }
     ],
-    "critic": 45,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDM1NmViY2QtMWZlZC00OTVkLTg0ZjEtMzQzOGNlMDM3OGMyXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/pWxoggA0KCS5oMPDOjIDYZYzryE.jpg",
     "details": {
-        "Languages": [
+        "Stars": [
+            "Claire Danes",
+            "Kate Beckinsale",
+            "Bill Pullman"
+        ],
+        "Genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Writer": [
+            "Adam Fields",
+            "David Arata"
+        ],
+        "Runtime": [
+            "100 min"
+        ],
+        "Director": [
+            "Jonathan Kaplan"
+        ],
+        "Language": [
             "English",
             "Thai"
         ],
         "Release date": [
-            "August 13, 1999 (United States)"
-        ],
-        "Also known as": [
-            "Two Girls"
+            "1999-08-13"
         ],
         "Country of origin": [
             "United States"
         ],
-        "Filming locations": [
-            "Coconut Palace, Pasay City, Metro Manila, Philippines"
-        ],
         "Production companies": [
+            "Two Girls Productions",
             "Fox 2000 Pictures",
             "Adam Fields Productions",
-            "Twentieth Century Fox"
+            "20th Century Fox"
         ]
     },
-    "reviews": 200,
+    "reviews": 0,
+    "tagline": "Their graduation present was a trip to paradise, but they never thought they would land in hell.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0276178/",
-            "name": "Adam Fields"
+            "name": "Adam Fields",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0033153/",
-            "name": "David Arata"
+            "name": "David Arata",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H40M",
     "keywords": [
-        "bangkok thailand",
-        "vacation gone wrong",
+        "prison",
         "thailand",
-        "f rated",
-        "frame up"
+        "vacation",
+        "drugs",
+        "injustice",
+        "trip"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0438279/",
-            "name": "Jonathan Kaplan"
+            "name": "Jonathan Kaplan",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0120620/",
-    "metascore": 44,
-    "imdb_votes": 24525,
+    "metascore": null,
+    "imdb_votes": 25412,
     "popularity": 0,
-    "description": "Two women are arrested for smuggling while vacationing in Thailand.",
-    "imdb_rating": "6.4/10 from 24525 users",
-    "release_date": [],
+    "description": "Best friends Alice and Darlene take a trip to Thailand after graduating high school. In Thailand, they meet a captivating Australian man, who calls himself Nick Parks. Darlene is particularly smitten with Nick and convinces Alice to take Nick up on his offer to treat the two of them to what amounts to a day trip to Hong Kong. In the airport, the girls are seized by the police and shocked to discover that one of their bags contains heroin.",
+    "imdb_rating": "6.4/10 from 25412 users",
+    "release_date": [
+        {
+            "date": "1999-12-23",
+            "country": "Czech Republic"
+        },
+        {
+            "date": "2000-06-01",
+            "country": "Germany"
+        },
+        {
+            "date": "2000-01-05",
+            "country": "France"
+        },
+        {
+            "date": "2000-05-26",
+            "country": "Italy"
+        },
+        {
+            "date": "2000-03-24",
+            "country": "Portugal"
+        },
+        {
+            "date": "1999-08-13",
+            "country": "United States"
+        }
+    ],
     "contentRating": "PG-13",
     "datePublished": "1999-08-13",
+    "original_title": "Brokedown Palace",
     "imdb_rating_average": 6.4,
-    "update_at": "2025-03-27T06:42:04"
+    "update_at": "2026-11-25T08:28:41"
 }

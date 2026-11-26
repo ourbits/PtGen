@@ -11,61 +11,79 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1249840/",
-            "name": "Ann Livingston"
+            "name": "Ann Livingston",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1016474/",
-            "name": "Phillip Owen"
+            "name": "Phillip Owen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1771871/",
-            "name": "Dean Wilson"
+            "name": "Dean Wilson",
+            "@type": "Person"
         }
     ],
-    "critic": 4,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTgzZWM1OTItYzNlOC00ZTExLTllZjQtODY2YWQ4YjMzMzQyXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": null,
     "details": {
+        "Stars": [
+            "Ann Livingston",
+            "Phillip Owen",
+            "Dean Wilson"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Runtime": [
+            "92 min"
+        ],
+        "Director": [
+            "Nettie Wild"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "September 10, 2002 (Canada)"
+            "2002-09-10"
         ],
         "Country of origin": [
             "Canada"
         ],
-        "Filming locations": [
-            "Vancouver, British Columbia, Canada"
-        ],
-        "Production company": [
-            "Canada Wild Productions"
+        "Production companies": [
+            "Téléfilm Canada"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT1H32M",
     "keywords": [
-        "social activism",
-        "drug abuse",
-        "vancouver british columbia canada",
-        "single mother",
-        "salesman"
+        "woman director"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0928370/",
-            "name": "Nettie Wild"
+            "name": "Nettie Wild",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0332618/",
     "metascore": null,
-    "imdb_votes": 102,
+    "imdb_votes": 105,
     "popularity": 0,
-    "description": "Dean Wilson, a drug user and safety advocate, and Ann Livingston, a community organizer driven by her religious convictions, partner together to establish North America&apos;s first safe injection site and advocate for reforms.",
-    "imdb_rating": "7.9/10 from 102 users",
-    "release_date": [],
+    "description": "Dean Wilson may be Canada’s most powerful junkie. He shoots heroin in Vancouver’s downtown Eastside and strategizes with federal health policy advisors. He is the president of a network of street-level drug users demanding that Vancouver open North America’s first safe injection site – the most controversial step of a daring new drug strategy. Users, residents, activists and police clash while Dean struggles to shake his addiction and discovers an unlikely ally in Vancouver’s conservative mayor.",
+    "imdb_rating": "7.6/10 from 105 users",
+    "release_date": [
+        {
+            "date": "2002-09-10",
+            "country": "Canada"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2002-09-10",
-    "imdb_rating_average": 7.9,
-    "update_at": "2025-09-01T21:42:21"
+    "original_title": "FIX: The Story of an Addicted City",
+    "imdb_rating_average": 7.6,
+    "update_at": "2026-11-25T12:14:17"
 }

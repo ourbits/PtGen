@@ -12,51 +12,58 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2092415/",
-            "name": "Jonathan Goodwin"
-        },
-        {
-            "url": "https://www.imdb.com/name/nm3282267/",
-            "name": "Mike Nelson"
+            "name": "Jonathan Goodwin",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1912455/",
-            "name": "Terry Stroud"
+            "name": "Terry Stroud",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3282267/",
+            "name": "Mike Nelson",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjAyODA2MTg4Nl5BMl5BanBnXkFtZTgwMTQ2MzcwMzE@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/tR58rN79en05t9HhfvXauBR7P8U.jpg",
     "details": {
+        "Stars": [
+            "Jonathan Goodwin",
+            "Terry Stroud",
+            "Mike Nelson"
+        ],
+        "Genres": [
+            "Documentary",
+            "Reality-TV"
+        ],
+        "Runtime": [
+            "30 min"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 26, 2009 (United States)"
-        ],
-        "Official site": [
-            "Discovery Channel (United States) - http://dsc.discovery.com/tv/one-way-out/one-way-out.html"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "NorthSouth Productions"
+            "2009-01-26"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
-    "duration": null,
-    "keywords": [
-        "escape"
-    ],
+    "duration": "PT30M",
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt1361778/",
     "metascore": null,
-    "imdb_votes": 90,
+    "imdb_votes": 89,
     "popularity": 0,
-    "description": "A escape artist tries to escape opsticles",
-    "imdb_rating": "7.8/10 from 90 users",
+    "description": "One Way Out is an American reality television series that was produced by NorthSouth Productions for the Discovery Channel. The program stars escape artist Jonathan Goodwin, who performs difficult escape stunts. A pilot episode aired on April 14, 2008, and the series began a ten-part first season on January 26, 2009.",
+    "imdb_rating": "7.9/10 from 89 users",
     "release_date": [],
     "contentRating": null,
     "datePublished": "2009-01-26",
-    "imdb_rating_average": 7.8,
-    "update_at": "2025-09-20T07:07:11"
+    "original_title": "One Way Out",
+    "imdb_rating_average": 7.9,
+    "update_at": "2026-11-25T18:49:19"
 }

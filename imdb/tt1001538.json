@@ -3,64 +3,124 @@
     "sid": "tt1001538",
     "name": "Narcos y perros 4",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2005",
+    "@type": "VideoObject",
     "genre": [
         "Action"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2608654/",
-            "name": "Jesus Antonio"
+            "name": "Jesus Antonio",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1548450/",
-            "name": "Marina Carbajal"
+            "name": "Marina Carbajal",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2597634/",
-            "name": "Raul De La Torre"
+            "name": "Raul De La Torre",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2615523/",
+            "name": "Victor de La Torre",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2628545/",
+            "name": "Los Del Aguila Real",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2610861/",
+            "name": "Don Juan Garcia",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0530399/",
+            "name": "Oscar Lopez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0530121/",
+            "name": "Francisco Javier López",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0577605/",
+            "name": "Bernabé Melendrez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm10038597/",
+            "name": "Fili Michel",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjcwMjQ2ZGYtNWY3Mi00YmYzLTkwM2MtMTBlYzI5ZWE2ZTAzXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/gjqlCH5UipXt4HT6e85WSexJ9JA.jpg",
     "details": {
+        "Stars": [
+            "Jesus Antonio",
+            "Marina Carbajal",
+            "Raul De La Torre"
+        ],
+        "Genres": [
+            "Action"
+        ],
+        "Writer": [
+            "Antonio Herrera",
+            "Francisco Javier López",
+            "Manuel Ramirez"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Francisco Javier López",
+            "Manuel Ramirez"
+        ],
         "Language": [
             "Spanish"
         ],
-        "Country of origin": [
-            "Mexico"
-        ],
-        "Production company": [
-            "JC Films"
+        "Release date": [
+            "2005-12-31"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2175135/",
-            "name": "Antonio Herrera"
+            "name": "Antonio Herrera",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0530121/",
-            "name": "Francisco Javier López"
+            "name": "Francisco Javier López",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1047697/",
-            "name": "Manuel Ramirez"
+            "name": "Manuel Ramirez",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0530121/",
-            "name": "Francisco Javier López"
+            "name": "Francisco Javier López",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1047697/",
-            "name": "Manuel Ramirez"
+            "name": "Manuel Ramirez",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1001538/",
@@ -69,9 +129,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2005-12-31",
+            "country": "Mexico"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2005-12-31",
+    "original_title": "Narcos y perros 4",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-06T04:42:08"
+    "update_at": "2026-11-26T00:21:14"
 }

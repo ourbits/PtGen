@@ -3,60 +3,94 @@
     "sid": "tt0258086",
     "name": "Renaissance",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1970",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0167509/",
-            "name": "Pierre Clémenti"
+            "name": "Pierre Clémenti",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0480942/",
-            "name": "Bernadette Lafont"
+            "name": "Bernadette Lafont",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0958088/",
-            "name": "Zouzou"
+            "name": "Zouzou",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Pierre Clémenti",
+            "Bernadette Lafont",
+            "Zouzou"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Yvan Lagrange"
+        ],
+        "Runtime": [
+            "33 min"
+        ],
+        "Director": [
+            "Yvan Lagrange"
+        ],
         "Language": [
             "French"
         ],
+        "Release date": [
+            "1970-04-21"
+        ],
         "Country of origin": [
             "France"
+        ],
+        "Production companies": [
+            "GREC"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0481415/",
-            "name": "Yvan Lagrange"
+            "name": "Yvan Lagrange",
+            "@type": "Person"
         }
     ],
     "duration": "PT33M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0481415/",
-            "name": "Yvan Lagrange"
+            "name": "Yvan Lagrange",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0258086/",
     "metascore": null,
-    "imdb_votes": 11,
+    "imdb_votes": 13,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "5.4/10 from 11 users",
-    "release_date": [],
+    "description": "A year and a half after \"Le Lit e la vierge\", Zouzou and Pierre Clémenti are in another bed, this time in front of a window, with Sacré-Coeur in the background. Filmed in two days, in July 1970, with a stolen film from the ORTF, this film, a tribute to these two vedettes of the French underground, is of immense beauty. The title is inspired by the silhouette of Pierre Clémenti, evocative, for Lagrange, of the male physicist during the Renaissance. Grandson of Léo Lagrange and nephew of the chief operator Ghislain Cloquet, Yvan Lagrange is two years younger than Philippe Garrel. \"Renaissance\", his first film, shows to what extent his generation was influenced by Garrel.",
+    "imdb_rating": "5.2/10 from 13 users",
+    "release_date": [
+        {
+            "date": "1970-04-21",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
-    "imdb_rating_average": 5.4,
-    "update_at": "2025-03-01T21:28:09"
+    "datePublished": "1970-04-21",
+    "original_title": "Renaissance",
+    "imdb_rating_average": 5.2,
+    "update_at": "2026-11-26T01:00:20"
 }

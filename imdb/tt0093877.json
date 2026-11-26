@@ -1,10 +1,39 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "A Princesa e o Plebeu",
+            "country": "Brazil"
+        },
+        {
+            "title": "Loma Roomassa",
+            "country": "Finland"
+        },
+        {
+            "title": "Vacances romaines",
+            "country": "France"
+        },
+        {
+            "title": "Még egy római vakáció",
+            "country": "Hungary"
+        },
+        {
+            "title": "Vacanze romane 2",
+            "country": "Italy"
+        },
+        {
+            "title": "Vacaciones en Roma",
+            "country": "Spain"
+        },
+        {
+            "title": "Prinsessa på vift",
+            "country": "Sweden"
+        }
+    ],
     "sid": "tt0093877",
     "name": "Roman Holiday",
     "site": "imdb",
     "year": "1987",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Drama",
@@ -13,78 +42,137 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0002018/",
-            "name": "Tom Conti"
+            "name": "Tom Conti",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0005289/",
-            "name": "Catherine Oxenberg"
+            "name": "Catherine Oxenberg",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000893/",
-            "name": "Ed Begley Jr."
+            "name": "Ed Begley Jr.",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0199399/",
+            "name": "Paul Daneman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0040586/",
+            "name": "Eileen Atkins",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0019996/",
+            "name": "Patrick Allen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0560022/",
+            "name": "Francis Matthews",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0727300/",
+            "name": "Shane Rimmer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0612681/",
+            "name": "Christopher Muncke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0393522/",
+            "name": "Tessa Hood",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGQ5Y2UwZDQtMzAzNC00NzFmLWI4MDUtY2UwMTRiNDM2NjQ0XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/mZOlZPYgmiSDAUN7aSe9ojrlWVx.jpg",
     "details": {
+        "Stars": [
+            "Tom Conti",
+            "Catherine Oxenberg",
+            "Ed Begley Jr."
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Ian McLellan Hunter",
+            "Jerry Ludwig",
+            "Dalton Trumbo"
+        ],
+        "Runtime": [
+            "100 min"
+        ],
+        "Director": [
+            "Noel Nosseck"
+        ],
         "Language": [
-            "English"
+            "English",
+            "Italian"
         ],
         "Release date": [
-            "December 28, 1987 (United States)"
-        ],
-        "Also known as": [
-            "Prinsessa på vift"
+            "1987-12-28"
         ],
         "Country of origin": [
+            "Portugal",
             "United States"
         ],
-        "Filming locations": [
-            "Lisbon, Portugal"
-        ],
         "Production companies": [
-            "Jerry Ludwig Enterprises",
             "Paramount Television"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0402848/",
-            "name": "Ian McLellan Hunter"
+            "name": "Ian McLellan Hunter",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0525015/",
-            "name": "Jerry Ludwig"
+            "name": "Jerry Ludwig",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0874308/",
-            "name": "Dalton Trumbo"
+            "name": "Dalton Trumbo",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H40M",
-    "keywords": [
-        "reporter",
-        "remake",
-        "searching for shoes with feet",
-        "camera shot of feet",
-        "foot closeup"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0636495/",
-            "name": "Noel Nosseck"
+            "name": "Noel Nosseck",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0093877/",
     "metascore": null,
-    "imdb_votes": 178,
+    "imdb_votes": 183,
     "popularity": 0,
-    "description": "Remake of the 1953 original. Princess Elysa (Catherine Oxenberg) is touring Rome, and decides to get &quot;out and about&quot; away from her normal life. She meets with an American reporter and his photographer, who show her the sites. The ...",
-    "imdb_rating": "4.9/10 from 178 users",
-    "release_date": [],
+    "description": "Remake of the 1953 original. Princess Elysa is touring Rome, and decides to get \"out and about\" away from her normal life. She meets with an American reporter and his photographer, who show her the sites. The reporter is initially more interested in a story than the Princess, but begins to fall for her.",
+    "imdb_rating": "5.1/10 from 183 users",
+    "release_date": [
+        {
+            "date": "1987-12-28",
+            "country": "United States"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1987-12-28",
-    "imdb_rating_average": 4.9,
-    "update_at": "2025-07-14T15:35:44"
+    "original_title": "Roman Holiday",
+    "imdb_rating_average": 5.1,
+    "update_at": "2026-11-25T12:49:30"
 }

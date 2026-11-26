@@ -5,52 +5,72 @@
     "site": "imdb",
     "year": "1972",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0231671/",
-            "name": "Ottomar Domnick"
+            "name": "Ottomar Domnick",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0661764/",
-            "name": "Wiebke Paritz"
+            "name": "Wiebke Paritz",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1273920/",
-            "name": "Charles Wirths"
+            "name": "Charles Wirths",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Ottomar Domnick",
+            "Wiebke Paritz",
+            "Charles Wirths"
+        ],
+        "Writer": [
+            "Ottomar Domnick"
+        ],
+        "Runtime": [
+            "75 min"
+        ],
+        "Director": [
+            "Ottomar Domnick"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "June 3, 1972 (West Germany)"
+            "1972-06-03"
         ],
         "Country of origin": [
-            "West Germany"
+            "Germany"
         ],
-        "Production company": [
+        "Production companies": [
             "Dr. Ottomar Domnick Verlag und Film"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0231671/",
-            "name": "Ottomar Domnick"
+            "name": "Ottomar Domnick",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H15M",
     "keywords": [
-        ""
+        "experimental"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0231671/",
-            "name": "Ottomar Domnick"
+            "name": "Ottomar Domnick",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0797785/",
@@ -59,9 +79,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1972-06-03",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1972-06-03",
+    "original_title": "Augenblicke",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-31T15:13:36"
+    "update_at": "2026-11-25T17:49:24"
 }

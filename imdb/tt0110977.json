@@ -4,83 +4,139 @@
     "name": "The Return of the Native",
     "site": "imdb",
     "year": "1994",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001876/",
-            "name": "Catherine Zeta-Jones"
+            "name": "Catherine Zeta-Jones",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0654110/",
-            "name": "Clive Owen"
+            "name": "Clive Owen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0829032/",
-            "name": "Ray Stevenson"
+            "name": "Ray Stevenson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0533599/",
+            "name": "Steven Mackintosh",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0804218/",
+            "name": "Claire Skinner",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0737121/",
+            "name": "Paul Rogers",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0687506/",
+            "name": "Joan Plowright",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0408309/",
+            "name": "Celia Imrie",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0043075/",
+            "name": "Richard Avery",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0927835/",
+            "name": "Peter Wight",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTBiZmEyNzItM2FkNS00MThhLTk1YjUtZDA4YjFkMjUyZWNlXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/dQIZoVue8gNRxWpJkvNwwsUjA7a.jpg",
     "details": {
+        "Stars": [
+            "Catherine Zeta-Jones",
+            "Clive Owen",
+            "Ray Stevenson"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Thomas Hardy",
+            "Robert W. Lenski"
+        ],
+        "Runtime": [
+            "101 min"
+        ],
+        "Director": [
+            "Jack Gold"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "December 4, 1994 (United States)"
+            "1994-12-04"
         ],
-        "Also known as": [
-            "Hallmark Hall of Fame: The Return of the Native (#44.1)"
-        ],
-        "Filming locations": [
-            "Exmoor National Park, Devon, England, UK"
-        ],
-        "Countries of origin": [
-            "United States",
-            "United Kingdom"
+        "Country of origin": [
+            "United Kingdom",
+            "United States"
         ],
         "Production companies": [
-            "British Broadcasting Corporation (BBC)",
-            "Craig Anderson Productions",
-            "Hallmark Hall of Fame Productions"
+            "BBC"
         ]
     },
-    "reviews": 29,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0362762/",
-            "name": "Thomas Hardy"
+            "name": "Thomas Hardy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0502225/",
-            "name": "Robert W. Lenski"
+            "name": "Robert W. Lenski",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H41M",
     "keywords": [
-        "heath",
-        "1840s",
-        "bonfire night",
-        "romantic rivalry",
-        "reference to witchcraft"
+        "countryside",
+        "return home",
+        "classic literature"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0324995/",
-            "name": "Jack Gold"
+            "name": "Jack Gold",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0110977/",
     "metascore": null,
-    "imdb_votes": 806,
+    "imdb_votes": 884,
     "popularity": 0,
-    "description": "Reddleman Diggory Venn drives slowly across the heath, carrying a hidden passenger in the back of his van. When darkness falls, the country folk light bonfires on the hills, emphasizing the pagan spirit of the heath and its denizens.",
-    "imdb_rating": "6/10 from 806 users",
-    "release_date": [],
-    "contentRating": "PG",
+    "description": "Eustacia Vye, an exquisite beauty despairing at her boring life on an English moor, sets up a fateful lovers' triangle when she uses her wiles to entice two men, a dashing suitor and a successful man who made his name abroad and returned to his home on the heath.",
+    "imdb_rating": "6.0/10 from 884 users",
+    "release_date": [
+        {
+            "date": "1994-12-04",
+            "country": "United States"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1994-12-04",
-    "imdb_rating_average": 6,
-    "update_at": "2025-02-10T18:09:38"
+    "original_title": "The Return of the Native",
+    "imdb_rating_average": 6.0,
+    "update_at": "2026-11-25T10:00:13"
 }

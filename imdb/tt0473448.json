@@ -4,60 +4,79 @@
     "name": "Sugar-Free",
     "site": "imdb",
     "year": "2001",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1548044/",
-            "name": "Lana Baric"
+            "name": "Lana Barić",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1571068/",
-            "name": "Ajla Frljuckic"
+            "name": "Ajla Frljuckic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1375359/",
-            "name": "Edhem Husic"
+            "name": "Edhem Husic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1566592/",
+            "name": "Mediha Musliovic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1455909/",
+            "name": "Tanja Smoje",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Serbo-Croatian"
+        "Stars": [
+            "Lana Barić",
+            "Ajla Frljuckic",
+            "Edhem Husic"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Ines Tanović"
+        ],
+        "Runtime": [
+            "20 min"
+        ],
+        "Director": [
+            "Ines Tanović"
         ],
         "Release date": [
-            "May 8, 2001 (Bosnia and Herzegovina)"
-        ],
-        "Country of origin": [
-            "Bosnia and Herzegovina"
-        ],
-        "Filming locations": [
-            "Sarajevo, Bosnia-Herzegovina"
-        ],
-        "Production companies": [
-            "Refresh Production",
-            "Sarajevo Dokument"
+            "2001"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1365436/",
-            "name": "Ines Tanovic"
+            "name": "Ines Tanović",
+            "@type": "Person"
         }
     ],
     "duration": "PT20M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1365436/",
-            "name": "Ines Tanovic"
+            "name": "Ines Tanović",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0473448/",
@@ -68,7 +87,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2001-05-08",
+    "datePublished": "2001",
+    "original_title": "Sugar-Free",
     "imdb_rating_average": 0,
-    "update_at": "2026-03-09T06:21:52"
+    "update_at": "2026-11-25T09:00:26"
 }

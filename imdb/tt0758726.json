@@ -4,32 +4,87 @@
     "name": "13 Graves",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1468674/",
-            "name": "Rochelle Aytes"
+            "name": "Rochelle Aytes",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2223570/",
-            "name": "Yazmily Beato"
+            "name": "Yazmily Beato",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0147679/",
-            "name": "Dean Chekvala"
+            "name": "Dean Chekvala",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1309643/",
+            "name": "Claire Coffee",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0171095/",
+            "name": "Kalena Coleman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0188025/",
+            "name": "Anthony 'Treach' Criss",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0206571/",
+            "name": "Roxanne Day",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0246585/",
+            "name": "Guillermo Diaz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0228266/",
+            "name": "David DiSalvio",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2172512/",
+            "name": "John Troy Donovan",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzFmNDliNDYtNmJmMS00NzgwLWJjN2ItZDcwNzcyNjI1YmJmXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/5s6a7NhN2pbw2o3Fh28FwIR2oNE.jpg",
     "details": {
+        "Stars": [
+            "Rochelle Aytes",
+            "Yazmily Beato",
+            "Dean Chekvala"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "J.H. Wyman"
+        ],
+        "Runtime": [
+            "40 min"
+        ],
+        "Director": [
+            "Dominic Sena"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 18, 2006 (United States)"
+            "2006-11-18"
         ],
         "Country of origin": [
             "United States"
@@ -40,31 +95,38 @@
         ]
     },
     "reviews": 0,
+    "tagline": "THE TREASURE HUNT IS ON",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0437249/",
-            "name": "J.H. Wyman"
+            "name": "J.H. Wyman",
+            "@type": "Person"
         }
     ],
     "duration": "PT40M",
-    "keywords": [
-        "tv series pilot"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0784061/",
-            "name": "Dominic Sena"
+            "name": "Dominic Sena",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0758726/",
     "metascore": null,
-    "imdb_votes": 187,
+    "imdb_votes": 182,
     "popularity": 0,
-    "description": "An ex-treasure hunter&apos;s search for his missing brother coincides with a quest for buried Incan gold.",
-    "imdb_rating": "5.1/10 from 187 users",
-    "release_date": [],
+    "description": "An ex-treasure hunter's search for his missing brother coincides with a quest for buried Incan gold.",
+    "imdb_rating": "5.3/10 from 182 users",
+    "release_date": [
+        {
+            "date": "2006-11-18",
+            "country": "United States"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2006-11-18",
-    "imdb_rating_average": 5.1,
-    "update_at": "2025-08-03T17:49:15"
+    "original_title": "13 Graves",
+    "imdb_rating_average": 5.3,
+    "update_at": "2026-11-25T05:42:27"
 }

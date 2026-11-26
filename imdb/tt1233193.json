@@ -4,55 +4,72 @@
     "name": "Capture Claus",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3016149/",
-            "name": "Carl Anderson"
+            "name": "Carl Anderson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2384370/",
-            "name": "Karl Anderson"
+            "name": "Karl Anderson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2572018/",
-            "name": "Mitch Collier"
+            "name": "Mitch Collier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2171475/",
+            "name": "Jacob Scott",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Carl Anderson",
+            "Karl Anderson",
+            "Mitch Collier"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Chris McInroy"
+        ],
+        "Runtime": [
+            "13 min"
+        ],
+        "Director": [
+            "Chris McInroy"
         ],
         "Release date": [
-            "April 3, 2008 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Austin, Texas, USA"
+            "2008"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1556123/",
-            "name": "Chris McInroy"
+            "name": "Chris McInroy",
+            "@type": "Person"
         }
     ],
     "duration": "PT13M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1556123/",
-            "name": "Chris McInroy"
+            "name": "Chris McInroy",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1233193/",
@@ -63,7 +80,8 @@
     "imdb_rating": "7.9/10 from 8 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2008-04-03",
+    "datePublished": "2008",
+    "original_title": "Capture Claus",
     "imdb_rating_average": 7.9,
-    "update_at": "2026-06-10T22:28:33"
+    "update_at": "2026-11-25T12:00:15"
 }
