@@ -4,87 +4,141 @@
     "name": "Westward Ho!",
     "site": "imdb",
     "year": "1988",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
-        "Animation",
         "Adventure",
+        "Animation",
         "Comedy"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0047772/",
-            "name": "Bob Baines"
+            "name": "Bob Baines",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2310147/",
-            "name": "Peter Beck"
+            "name": "Peter Beck",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0189832/",
-            "name": "Claire Crowther"
+            "name": "Claire Crowther",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0386015/",
+            "name": "Phillip Hinton",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2217813/",
+            "name": "Larissa Lambert",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0580005/",
+            "name": "Robert Menzies",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0606743/",
+            "name": "Lloyd Morris",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0871729/",
+            "name": "Noel Trevarthen",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmMxM2ZhMjktM2E5Ny00OTM3LWEzYzktMDIwYjMwNTNhN2MyXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/xjgOM0I2acMJZny52FTGRTFX32.jpg",
     "details": {
+        "Stars": [
+            "Bob Baines",
+            "Peter Beck",
+            "Claire Crowther"
+        ],
+        "Genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "Writer": [
+            "Leonard Lee",
+            "Charles Kingsley",
+            "Alex Nicholas"
+        ],
+        "Runtime": [
+            "55 min"
+        ],
+        "Director": [
+            "Geoff Collins",
+            "Alex Nicholas"
+        ],
         "Language": [
-            "English"
+            "English",
+            "Arabic"
         ],
         "Release date": [
-            "May 1, 1988 (Australia)"
-        ],
-        "Also known as": [
-            "¡Rumbo al oeste!"
+            "1988-01-01"
         ],
         "Country of origin": [
             "Australia"
         ],
-        "Production company": [
+        "Production companies": [
             "Burbank Films Australia"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1726523/",
-            "name": "Leonard Lee"
+            "name": "Leonard Lee",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0455504/",
-            "name": "Charles Kingsley"
+            "name": "Charles Kingsley",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0006806/",
-            "name": "Alex Nicholas"
+            "name": "Alex Nicholas",
+            "@type": "Person"
         }
     ],
     "duration": "PT55M",
-    "keywords": [
-        "comic violence",
-        "swordplay",
-        "swordsman",
-        "captain",
-        "pirate ship"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1643283/",
-            "name": "Geoff Collins"
+            "name": "Geoff Collins",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0006806/",
-            "name": "Alex Nicholas"
+            "name": "Alex Nicholas",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0821815/",
     "metascore": null,
-    "imdb_votes": 31,
+    "imdb_votes": 36,
     "popularity": 0,
-    "description": "A great seafaring adventure featuring the beautiful young lady Rose Salterne, who together with Lucy Oxman is captured by Spanish pirates, launching the nationwide cry for a high-seas chase to win the girls&apos; return.",
-    "imdb_rating": "6.2/10 from 31 users",
-    "release_date": [],
+    "description": "Features the beautiful young lady, Rose Salterne, who together with Lucy Oxman is captured by Spanish pirates, launching the nationwide cry for a high-seas chase to win the girls' return. When the British hero Leigh hears the cry, he takes an unlikely crew to search for Rose and Lucy, braving the wide seas and Spanish pirates. He chases down clues through remote jungle islands with fearsome natives and hidden gold.",
+    "imdb_rating": "6.1/10 from 36 users",
+    "release_date": [
+        {
+            "date": "1988-01-01",
+            "country": "United States"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1988-05-01",
-    "imdb_rating_average": 6.2,
-    "update_at": "2025-02-12T02:43:14"
+    "datePublished": "1988-01-01",
+    "original_title": "Westward Ho!",
+    "imdb_rating_average": 6.1,
+    "update_at": "2026-11-26T21:00:21"
 }

@@ -4,7 +4,7 @@
     "name": "The Late Shift",
     "site": "imdb",
     "year": "1996",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Drama"
@@ -12,74 +12,137 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0383422/",
-            "name": "John Michael Higgins"
+            "name": "John Michael Higgins",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0736263/",
-            "name": "Daniel Roebuck"
+            "name": "Daniel Roebuck",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000870/",
-            "name": "Kathy Bates"
+            "name": "Kathy Bates",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000837/",
+            "name": "Bob Balaban",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000893/",
+            "name": "Ed Begley Jr.",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0432867/",
+            "name": "Peter Jurasik",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0763858/",
+            "name": "Reni Santoni",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0438127/",
+            "name": "John Kapelos",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0318318/",
+            "name": "Steven Gilborn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0315288/",
+            "name": "John Getz",
+            "@type": "Person"
         }
     ],
-    "critic": 12,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjQ2ZjU2NWYtMDVhMi00YzRjLWIxY2YtN2UwNjgwZTViMDBmXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/8qDU1GxN5jOkA0s4rwgaMu9hfNs.jpg",
     "details": {
+        "Stars": [
+            "John Michael Higgins",
+            "Daniel Roebuck",
+            "Kathy Bates"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "Writer": [
+            "Bill Carter",
+            "George Armitage"
+        ],
+        "Runtime": [
+            "95 min"
+        ],
+        "Director": [
+            "Betty Thomas"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "February 24, 1996 (United States)"
-        ],
-        "Also known as": [
-            "天生贏家"
+            "1996-02-24"
         ],
         "Country of origin": [
             "United States"
         ],
-        "Filming locations": [
-            "Chao Krung Thai Restaurant, 111 N. Fairfax Ave. Los Angeles, California, USA"
-        ],
         "Production companies": [
-            "Home Box Office (HBO)",
-            "Northern Lights Entertainment"
+            "Northern Lights Entertainment",
+            "HBO Films"
         ]
     },
-    "reviews": 37,
+    "reviews": 0,
+    "tagline": "Two heads fighting for the late night crown - One head's gotta roll.",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0141488/",
-            "name": "Bill Carter"
+            "name": "Bill Carter",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000786/",
-            "name": "George Armitage"
+            "name": "George Armitage",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H35M",
     "keywords": [
-        "year 1991",
-        "year 1992",
-        "1990s",
-        "reference to niccolo machiavelli",
-        "reference to venezuela"
+        "talk show",
+        "late night",
+        "woman director"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0858525/",
-            "name": "Betty Thomas"
+            "name": "Betty Thomas",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0116835/",
     "metascore": null,
-    "imdb_votes": 3889,
+    "imdb_votes": 4092,
     "popularity": 0,
-    "description": "A dramatization of the rivalry between David Letterman and Jay Leno over which of them would succeed Johnny Carson as the host of &quot;The Tonight Show&quot;.",
-    "imdb_rating": "6.7/10 from 3889 users",
-    "release_date": [],
+    "description": "David Letterman vies with Jay Leno and his manager to succeed Johnny Carson, retiring from \"The Tonight Show.\"",
+    "imdb_rating": "6.7/10 from 4092 users",
+    "release_date": [
+        {
+            "date": "1996-07-24",
+            "country": "Germany"
+        },
+        {
+            "date": "1996-02-24",
+            "country": "United States"
+        }
+    ],
     "contentRating": "R",
     "datePublished": "1996-02-24",
+    "original_title": "The Late Shift",
     "imdb_rating_average": 6.7,
-    "update_at": "2025-01-22T08:49:20"
+    "update_at": "2026-11-27T01:07:12"
 }

@@ -11,73 +11,140 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0392442/",
-            "name": "Jack Holt"
+            "name": "Jack Holt",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0942039/",
-            "name": "Fay Wray"
+            "name": "Fay Wray",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0336339/",
-            "name": "Ralph Graves"
+            "name": "Ralph Graves",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0098376/",
+            "name": "Hobart Bosworth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0439850/",
+            "name": "Roscoe Karns",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0329467/",
+            "name": "Harold Goodwin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0615617/",
+            "name": "Clarence Muse",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0180975/",
+            "name": "Emmett Corrigan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0018685/",
+            "name": "Richard Alexander",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0283170/",
+            "name": "Bess Flowers",
+            "@type": "Person"
         }
     ],
-    "critic": 14,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGQxNzgwYTctOTJjYi00MWNmLWE4NTctOWZjZWIxODZmN2MxXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/45e7kUOTETBB9xp5vkRg28sdmAb.jpg",
     "details": {
+        "Stars": [
+            "Jack Holt",
+            "Fay Wray",
+            "Ralph Graves"
+        ],
+        "Genres": [
+            "Adventure"
+        ],
+        "Writer": [
+            "Frank Wead",
+            "Jo Swerling"
+        ],
+        "Runtime": [
+            "100 min"
+        ],
+        "Director": [
+            "Frank Capra"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "April 4, 1931 (United States)"
-        ],
-        "Also known as": [
-            "Dirižabl"
+            "1931-02-01"
         ],
         "Country of origin": [
             "United States"
         ],
-        "Filming locations": [
-            "San Gabriel Valley, California, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Columbia Pictures"
         ]
     },
-    "reviews": 28,
+    "reviews": 0,
+    "tagline": "GIANT EPIC OF THE AIR!",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0915693/",
-            "name": "Frank Wead"
+            "name": "Frank Wead",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0842485/",
-            "name": "Jo Swerling"
+            "name": "Jo Swerling",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H40M",
     "keywords": [
-        "expedition",
-        "south pole",
-        "dirigible",
-        "u.s. navy",
-        "rescue"
+        "airship",
+        "disaster",
+        "pre-code",
+        "dirigible"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0001008/",
-            "name": "Frank Capra"
+            "name": "Frank Capra",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0021799/",
     "metascore": null,
-    "imdb_votes": 793,
+    "imdb_votes": 912,
     "popularity": 0,
-    "description": "Jack Bradon is tasked to reach the South Pole with a dirigible.",
-    "imdb_rating": "6.3/10 from 793 users",
-    "release_date": [],
-    "contentRating": "Approved",
-    "datePublished": "1931-04-04",
-    "imdb_rating_average": 6.3,
-    "update_at": "2025-04-15T00:39:36"
+    "description": "Dirigible commander Jack Braden and Navy pilot 'Frisky' Pierce fight over the glory associated with a successful expedition to the South Pole and the love of beautiful Helen, Frisky's wife. After Braden's dirigible expedition fails, Frisky tries an expedition by plane. Unfortunately he crashes and strands his party at the South Pole. Braden must decide between a risky rescue attempt by dirigible and remaining safely at home with Helen.",
+    "imdb_rating": "6.4/10 from 912 users",
+    "release_date": [
+        {
+            "date": "1932-02-12",
+            "country": "Ireland"
+        },
+        {
+            "date": "1931-02-01",
+            "country": "Japan"
+        },
+        {
+            "date": "1931-04-03",
+            "country": "United States"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1931-02-01",
+    "original_title": "Dirigible",
+    "imdb_rating_average": 6.4,
+    "update_at": "2026-11-26T12:56:07"
 }

@@ -11,38 +11,52 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0643322/",
-            "name": "Tracy-Ann Oberman"
+            "name": "Tracy-Ann Oberman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0789757/",
-            "name": "Ian Shaw"
+            "name": "Ian Shaw",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0516080/",
-            "name": "Melissa Lloyd"
+            "name": "Melissa Lloyd",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Tracy-Ann Oberman",
+            "Ian Shaw",
+            "Melissa Lloyd"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Runtime": [
+            "30 min"
+        ],
+        "Director": [
+            "Pati Marr"
         ],
         "Release date": [
-            "April 20, 2001 (United Kingdom)"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Production company": [
-            "London Weekend Television (LWT)"
+            "2001"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
-    "duration": null,
-    "keywords": [
-        ""
+    "duration": "PT30M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0550017/",
+            "name": "Pati Marr",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1461350/",
     "metascore": null,
@@ -52,7 +66,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2001-04-20",
+    "datePublished": "2001",
+    "original_title": "Slightly Filthy Show",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-30T07:39:09"
+    "update_at": "2026-11-26T18:00:24"
 }

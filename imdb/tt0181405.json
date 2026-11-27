@@ -3,7 +3,8 @@
     "sid": "tt0181405",
     "name": "Il compagno",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1999",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Romance"
@@ -11,48 +12,78 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0006467/",
-            "name": "Vittorio Amandola"
+            "name": "Vittorio Amandola",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0208569/",
-            "name": "Paolo De Giorgio"
+            "name": "Paolo De Giorgio",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0408234/",
-            "name": "Sabrina Impacciatore"
+            "name": "Sabrina Impacciatore",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0702759/",
+            "name": "Marco Quaglia",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0762246/",
+            "name": "Amanda Sandrelli",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0892890/",
+            "name": "Luca Venantini",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0951825/",
+            "name": "Lucio Zagaria",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Italian"
+        "Stars": [
+            "Vittorio Amandola",
+            "Paolo De Giorgio",
+            "Sabrina Impacciatore"
         ],
-        "Country of origin": [
-            "Italy"
+        "Genres": [
+            "Drama",
+            "Romance"
         ],
-        "Filming locations": [
-            "Torino, Piemonte, Italy"
+        "Writer": [
+            "Cesare Pavese"
         ],
-        "Production company": [
-            "Ager 3"
+        "Director": [
+            "Francesco Maselli"
+        ],
+        "Release date": [
+            "1999"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0667610/",
-            "name": "Cesare Pavese"
+            "name": "Cesare Pavese",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "based on novel"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0556255/",
-            "name": "Francesco Maselli"
+            "name": "Francesco Maselli",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0181405/",
@@ -63,7 +94,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1999",
+    "original_title": "Il compagno",
     "imdb_rating_average": 0,
-    "update_at": "2026-05-23T12:56:14"
+    "update_at": "2026-11-26T23:56:06"
 }

@@ -4,7 +4,7 @@
     "name": "Cruel Doubt",
     "site": "imdb",
     "year": "1992",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Crime",
         "Drama"
@@ -12,54 +12,124 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0001100/",
-            "name": "Blythe Danner"
+            "name": "Blythe Danner",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0569847/",
-            "name": "Matt McGrath"
+            "name": "Matt McGrath",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0036127/",
-            "name": "Denis Arndt"
+            "name": "Denis Arndt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000284/",
+            "name": "Adam Baldwin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0130107/",
+            "name": "R.D. Call",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001199/",
+            "name": "Dennis Farina",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001208/",
+            "name": "Miguel Ferrer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0003910/",
+            "name": "Travis Fine",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0001235/",
+            "name": "William Forsythe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0490103/",
+            "name": "Louise Latham",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDUwNDg1YzYtN2Y3OC00NjNiLTk2NWYtMmEzNDU0ZGFkZmMwXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/3ksBc0vFfxfD6ALnzx4vSPDjtDT.jpg",
     "details": {
+        "Stars": [
+            "Blythe Danner",
+            "Matt McGrath",
+            "Denis Arndt"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "John Gay",
+            "Joe McGinniss"
+        ],
+        "Runtime": [
+            "187 min"
+        ],
+        "Director": [
+            "Yves Simoneau"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 17, 1992 (United States)"
-        ],
-        "Also known as": [
-            "Misshugg"
+            "1992-05-17"
         ],
         "Country of origin": [
             "United States"
-        ],
-        "Production companies": [
-            "NBC Productions",
-            "Susan Baerwald Productions"
         ]
     },
-    "reviews": 19,
-    "creators": [],
-    "duration": null,
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0310775/",
+            "name": "John Gay",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0569384/",
+            "name": "Joe McGinniss",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT3H7M",
     "keywords": [
-        "tv mini series",
-        "two part tv movie",
-        "based on book"
+        "murder",
+        "miniseries",
+        "true crime"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0800533/",
+            "name": "Yves Simoneau",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0104031/",
     "metascore": null,
-    "imdb_votes": 425,
+    "imdb_votes": 449,
     "popularity": 0,
-    "description": "A college student and two friends are accused of murdering one&apos;s stepfather and injuring his mother whom refuses to believe her son had anything to do with the attack.",
-    "imdb_rating": "5.3/10 from 425 users",
+    "description": "A college student and two friends are accused of murdering one's stepfather and injuring his mother whom refuses to believe her son had anything to do with the attack.",
+    "imdb_rating": "5.7/10 from 449 users",
     "release_date": [],
     "contentRating": null,
     "datePublished": "1992-05-17",
-    "imdb_rating_average": 5.3,
-    "update_at": "2025-02-11T05:50:01"
+    "original_title": "Cruel Doubt",
+    "imdb_rating_average": 5.7,
+    "update_at": "2026-11-26T04:42:08"
 }

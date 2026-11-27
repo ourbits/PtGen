@@ -4,46 +4,138 @@
     "name": "Count on Sports",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
-        "Short",
-        "Family"
+        "Family",
+        "Short"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm2636265/",
+            "name": "Kyle Agnew",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0033841/",
+            "name": "Pam Arciero",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0057321/",
+            "name": "Bill Barretta",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0109329/",
+            "name": "Fran Brill",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0109329/",
+            "name": "Fran Brill",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0120362/",
+            "name": "Tyler Bunch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0120362/",
+            "name": "Tyler Bunch",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTUzMjg0NTc3NF5BMl5BanBnXkFtZTgwMjUyNDA2MDE@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/4QnhRMnYu87JmfrOVIbvd0DHOSK.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Kyle Agnew",
+            "Pam Arciero",
+            "Bill Barretta"
+        ],
+        "Genres": [
+            "Family",
+            "Short"
+        ],
+        "Writer": [
+            "Adam Rudman",
+            "Judy Freudberg",
+            "Molly Boylan"
+        ],
+        "Runtime": [
+            "44 min"
+        ],
+        "Director": [
+            "Kevin Clash",
+            "Ken Diego",
+            "Tom Guadarrama"
         ],
         "Release date": [
-            "July 22, 2008 (United States)"
-        ],
-        "Also known as": [
-            "Sesame Street: Count on Sports"
+            "2008-01-01"
         ],
         "Country of origin": [
             "United States"
-        ],
-        "Production companies": [
-            "Sesame Street",
-            "Sesame Workshop"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm1014204/",
+            "name": "Adam Rudman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0294440/",
+            "name": "Judy Freudberg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1014171/",
+            "name": "Molly Boylan",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT44M",
     "keywords": [
-        ""
+        "sports",
+        "puppetry",
+        "elmo",
+        "sesame street"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0165159/",
+            "name": "Kevin Clash",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0225924/",
+            "name": "Ken Diego",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1385279/",
+            "name": "Tom Guadarrama",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1552428/",
     "metascore": null,
     "imdb_votes": 11,
     "popularity": 0,
-    "description": "Numbers, shapes and critical math concepts such as over/under and forward/backwards. All your favorite Sesame Street friends are on the top of their game. Join the Count as he plays golf and races a car in the Transylvania 300. Pr...",
+    "description": "Numbers, shapes and critical math concepts such as over/under and forward/backwards. All your favorite Sesame Street friends are on the top of their game. Join the Count as he plays golf and races a car in the Transylvania 300. Prairie Dawn shows off her soccer skills and then joins Dominic Dawes for a little gymnastics. If you love basketball, don't miss Grover and Vince Carter of the New Jersey Nets explaining \"short\" and \"tall\". And who but Elmo could beat Venus Williams at a game of imaginary tennis? So join the Sesame Street team for lots of sports fun!",
     "imdb_rating": "8.2/10 from 11 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
-    "datePublished": "2008-07-22",
+    "release_date": [
+        {
+            "date": "2008-01-01",
+            "country": "United States"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2008-01-01",
+    "original_title": "Count on Sports",
     "imdb_rating_average": 8.2,
-    "update_at": "2025-11-08T12:14:16"
+    "update_at": "2026-11-26T18:42:23"
 }

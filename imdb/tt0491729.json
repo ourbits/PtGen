@@ -4,78 +4,142 @@
     "name": "Truth",
     "site": "imdb",
     "year": "2006",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
+        "Drama",
         "Thriller"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000258/",
-            "name": "Stephanie Zimbalist"
+            "name": "Stephanie Zimbalist",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0318744/",
-            "name": "Thea Gill"
+            "name": "Thea Gill",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001002/",
-            "name": "Dean Cain"
+            "name": "Dean Cain",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0734094/",
+            "name": "Spencer Rochfort",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0149942/",
+            "name": "Garry Chalk",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1683808/",
+            "name": "Stephen Lobo",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0365768/",
+            "name": "Michelle Harrison",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0360154/",
+            "name": "Peter Hanlon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1026161/",
+            "name": "Dan Payne",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2105759/",
+            "name": "Chandra Berg",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjMxYmZlYTEtYWZjMS00OGRmLWJjZDItNjIxNzFjOWRkZGQ4XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/mhKDKZZCix4vaaJWh3oUuGvdwvW.jpg",
     "details": {
+        "Stars": [
+            "Stephanie Zimbalist",
+            "Thea Gill",
+            "Dean Cain"
+        ],
+        "Genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "Writer": [
+            "Jeff Blyth",
+            "Thomas C. Chapman"
+        ],
+        "Runtime": [
+            "87 min"
+        ],
+        "Director": [
+            "Timothy Bond"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 16, 2006 (United States)"
-        ],
-        "Also known as": [
-            "En busca de la verdad"
+            "2006-01-16"
         ],
         "Country of origin": [
             "Canada"
         ],
-        "Filming locations": [
-            "Maple Ridge, British Columbia, Canada"
-        ],
         "Production companies": [
+            "Regent Entertainment",
             "Insight Film Studios",
-            "Shavick Entertainment",
-            "Regent Entertainment"
+            "Shavick Entertainment"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": "Who can you believe?",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0090015/",
-            "name": "Jeff Blyth"
+            "name": "Jeff Blyth",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0152539/",
-            "name": "Thomas C. Chapman"
+            "name": "Thomas C. Chapman",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H27M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0003403/",
-            "name": "Timothy Bond"
+            "name": "Timothy Bond",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0491729/",
     "metascore": null,
-    "imdb_votes": 187,
+    "imdb_votes": 212,
     "popularity": 0,
-    "description": "A reporter is killed whilst investigating a story &amp; her college friend and former professor join forces to try and find out who killed her.",
-    "imdb_rating": "5.4/10 from 187 users",
-    "release_date": [],
-    "contentRating": "TV-14",
+    "description": "A reporter is killed whilst investigating a story & her college friend and former professor join forces to try and find out who killed her.",
+    "imdb_rating": "5.5/10 from 212 users",
+    "release_date": [
+        {
+            "date": "2006-05-27",
+            "country": "Spain"
+        },
+        {
+            "date": "2006-01-16",
+            "country": "United States"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2006-01-16",
-    "imdb_rating_average": 5.4,
-    "update_at": "2025-03-18T04:12:01"
+    "original_title": "Truth",
+    "imdb_rating_average": 5.5,
+    "update_at": "2026-11-26T23:35:11"
 }

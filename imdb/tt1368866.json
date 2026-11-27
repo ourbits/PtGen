@@ -4,74 +4,87 @@
     "name": "Spuyten Duyvil",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
-        "Short",
-        "Horror"
+        "Horror",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2163532/",
-            "name": "Jack Moran Jr."
+            "name": "Jack Moran Jr.",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2027921/",
-            "name": "Robert Youngren"
+            "name": "Robert Youngren",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3310035/",
-            "name": "Roxy Haji"
+            "name": "Roxy Haji",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Jack Moran Jr.",
+            "Robert Youngren",
+            "Roxy Haji"
+        ],
+        "Genres": [
+            "Horror",
+            "Short"
+        ],
+        "Writer": [
+            "Jan Major",
+            "Eric Norcross"
+        ],
+        "Runtime": [
+            "6 min"
+        ],
+        "Director": [
+            "Eric Norcross"
         ],
         "Release date": [
-            "September 29, 2008 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "New York City, New York, USA"
-        ],
-        "Production company": [
-            "Major Studios"
+            "2008"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3288758/",
-            "name": "Jan Major"
+            "name": "Jan Major",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1166691/",
-            "name": "Eric Norcross"
+            "name": "Eric Norcross",
+            "@type": "Person"
         }
     ],
     "duration": "PT6M",
-    "keywords": [
-        "murder"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1166691/",
-            "name": "Eric Norcross"
+            "name": "Eric Norcross",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1368866/",
     "metascore": null,
     "imdb_votes": 24,
     "popularity": 0,
-    "description": "Tim Longshore and Professor Klyndeski awake to find themselves tied up back to back inside a bathtub, they soon find their lives are in danger when Klyndeski identifies a strange deadly airborne chemical mixture.",
+    "description": null,
     "imdb_rating": "6.9/10 from 24 users",
     "release_date": [],
-    "contentRating": "Unrated",
-    "datePublished": "2008-09-29",
+    "contentRating": null,
+    "datePublished": "2008",
+    "original_title": "Spuyten Duyvil",
     "imdb_rating_average": 6.9,
-    "update_at": "2026-05-26T00:07:40"
+    "update_at": "2026-11-26T09:35:15"
 }

@@ -4,68 +4,91 @@
     "name": "Baby Blues",
     "site": "imdb",
     "year": "2022",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Horror"
+        "Horror",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm8579184/",
-            "name": "Eden Eernissee"
+            "name": "Eden Eernissee",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm12410923/",
-            "name": "Ramsey Thoms"
+            "name": "Ramsey Thoms",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm12101864/",
+            "name": "Cade Holbrook",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm9482916/",
-            "name": "Savannah Raye Jones"
+            "name": "Savannah Raye Jones",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm11144319/",
+            "name": "Cherry O'Neill",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmQxM2M5NTctYWNlMS00OTQxLThmNTktMGNjOGYxMjY1NGQ4XkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Eden Eernissee",
+            "Ramsey Thoms",
+            "Cade Holbrook"
+        ],
+        "Genres": [
+            "Horror",
+            "Short"
+        ],
+        "Writer": [
+            "Philip Cornwall"
+        ],
+        "Runtime": [
+            "24 min"
+        ],
+        "Director": [
+            "Philip Cornwall"
         ],
         "Release date": [
-            "April 7, 2022 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production companies": [
-            "Priceless Pictures",
-            "Red Acres Productions"
+            "2022"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2965600/",
-            "name": "Philip Cornwall"
+            "name": "Philip Cornwall",
+            "@type": "Person"
         }
     ],
     "duration": "PT24M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2965600/",
-            "name": "Philip Cornwall"
+            "name": "Philip Cornwall",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt12930082/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Upon entering the world, little Clover sees a lot.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2022-04-07",
+    "datePublished": "2022",
+    "original_title": "Baby Blues",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-25T21:14:07"
+    "update_at": "2026-11-26T02:56:08"
 }

@@ -4,59 +4,95 @@
     "name": "The Beginning and End of the Universe",
     "site": "imdb",
     "year": "2016",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Documentary"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2629380/",
-            "name": "Jim Al-Khalili"
+            "name": "Jim Al-Khalili",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWQ0OTFhYzctNGQzZS00MTAxLTliOTktODg2NDhkNTg1M2ZlXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/6XNmQzyLllMfx4cM99Cv6BoQdAo.jpg",
     "details": {
+        "Stars": [
+            "Jim Al-Khalili"
+        ],
+        "Genres": [
+            "Documentary"
+        ],
+        "Writer": [
+            "Laura Mulholland"
+        ],
+        "Runtime": [
+            "60 min"
+        ],
+        "Director": [
+            "Nigel Paterson",
+            "Ben Wilson"
+        ],
+        "Language": [
+            "English"
+        ],
         "Release date": [
-            "March 22, 2016 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Начало и конец Вселенной"
-        ],
-        "Official site": [
-            "Official site - http://www.bbc.co.uk/programmes/b07591mr"
+            "2016-03-22"
         ],
         "Country of origin": [
             "United Kingdom"
         ],
         "Production companies": [
-            "British Broadcasting Corporation (BBC)",
-            "The Open University"
+            "BBC"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1718884/",
-            "name": "Laura Mulholland"
+            "name": "Laura Mulholland",
+            "@type": "Person"
         }
     ],
-    "duration": null,
+    "duration": "PT1H",
     "keywords": [
-        "science",
-        "physics",
-        "astronomy",
-        "tv mini series"
+        "galaxy",
+        "supernova",
+        "universe",
+        "cosmos",
+        "relativity",
+        "dark matter",
+        "radio telescope"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm1099265/",
+            "name": "Nigel Paterson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2871012/",
+            "name": "Ben Wilson",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt6083778/",
     "metascore": null,
-    "imdb_votes": 672,
+    "imdb_votes": 698,
     "popularity": 0,
-    "description": "Two documentary movies, the first discuss the theory of the beginning of the universe (big bang theory), while the other includes the ending theories.",
-    "imdb_rating": "7.7/10 from 672 users",
-    "release_date": [],
+    "description": "Prof. Jim Al-Khalili tackles the biggest subject of all, the universe. Through a series of critical observations and experiments that revolutionised our understanding of our world Jim guides us through the greatest cosmic detective story of all. He takes us from the beginning of the universe to the end time and answers the question: where did the universe come from and how will it end?",
+    "imdb_rating": "7.7/10 from 698 users",
+    "release_date": [
+        {
+            "date": "2016-03-22",
+            "country": "United Kingdom"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2016-03-22",
+    "original_title": "The Beginning and End of the Universe",
     "imdb_rating_average": 7.7,
-    "update_at": "2025-02-05T09:50:32"
+    "update_at": "2026-11-26T11:56:24"
 }

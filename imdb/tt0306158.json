@@ -4,82 +4,138 @@
     "name": "The Tunnel",
     "site": "imdb",
     "year": "2001",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Horror",
-        "Mystery"
+        "Mystery",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1111299/",
-            "name": "Casey Wickson"
+            "name": "Casey Wickson",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0442207/",
-            "name": "Lloyd Kaufman"
+            "name": "Lloyd Kaufman",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0096013/",
-            "name": "Mark Borchardt"
+            "name": "Mark Borchardt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1108674/",
+            "name": "Patricia Campbell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0164076/",
+            "name": "Jerry Don Clark",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0992240/",
+            "name": "Erica Jayve Fleming",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1110087/",
+            "name": "Masuimi Max",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1111514/",
+            "name": "Anthony Calianno",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1110252/",
+            "name": "Tamarah Murley",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1110083/",
+            "name": "Thaddeus D. Matula",
+            "@type": "Person"
         }
     ],
-    "critic": 10,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMjY1MzQ3N15BMl5BanBnXkFtZTcwNzM5MzAwMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/oZ3iuSXNy5eyG2JjnSPvEMsdclv.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Casey Wickson",
+            "Lloyd Kaufman",
+            "Mark Borchardt"
+        ],
+        "Genres": [
+            "Horror",
+            "Mystery",
+            "Short"
+        ],
+        "Writer": [
+            "Ramzi Abed",
+            "Casey Wickson"
+        ],
+        "Runtime": [
+            "35 min"
+        ],
+        "Director": [
+            "Ramzi Abed"
         ],
         "Release date": [
-            "November 17, 2001 (United States)"
-        ],
-        "Also known as": [
-            "Le tunnel"
+            "2001-11-17"
         ],
         "Country of origin": [
             "United States"
         ],
-        "Filming locations": [
-            "Terrell, Texas, USA"
-        ],
-        "Production company": [
+        "Production companies": [
             "Bloodshot Pictures"
         ]
     },
-    "reviews": 15,
+    "reviews": 0,
+    "tagline": "Life is a mystery",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0008409/",
-            "name": "Ramzi Abed"
+            "name": "Ramzi Abed",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1111299/",
-            "name": "Casey Wickson"
+            "name": "Casey Wickson",
+            "@type": "Person"
         }
     ],
     "duration": "PT35M",
     "keywords": [
-        "experimental short",
-        "independent short",
-        "silent short",
-        "amnesia",
-        "smoking"
+        "surreal",
+        "short film"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0008409/",
-            "name": "Ramzi Abed"
+            "name": "Ramzi Abed",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0306158/",
     "metascore": null,
-    "imdb_votes": 109,
+    "imdb_votes": 108,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "6.5/10 from 109 users",
-    "release_date": [],
+    "description": "A surreal, dreamlike film exploring love, depression and death.",
+    "imdb_rating": "6.5/10 from 108 users",
+    "release_date": [
+        {
+            "date": "2001-11-17",
+            "country": "United States"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2001-11-17",
+    "original_title": "The Tunnel",
     "imdb_rating_average": 6.5,
-    "update_at": "2025-08-22T19:35:21"
+    "update_at": "2026-11-26T19:28:06"
 }

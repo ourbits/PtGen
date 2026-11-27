@@ -4,71 +4,103 @@
     "name": "Mexican Joyride",
     "site": "imdb",
     "year": "1947",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Family",
         "Animation",
-        "Short"
+        "Comedy",
+        "Family"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000305/",
-            "name": "Mel Blanc"
+            "name": "Mel Blanc",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000305/",
+            "name": "Mel Blanc",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0000305/",
+            "name": "Mel Blanc",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzFlMGVjMTctYWE5OC00NDI3LWFjOGYtOThlMzFhYTc5ZTllXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/8iF7PyogGEJBVjbDDocog7UBQqR.jpg",
     "details": {
+        "Stars": [
+            "Mel Blanc",
+            "Mel Blanc",
+            "Mel Blanc"
+        ],
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "Writer": [
+            "Dave Monahan",
+            "Bill Scott"
+        ],
+        "Runtime": [
+            "7 min"
+        ],
+        "Director": [
+            "Arthur Davis"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "November 29, 1947 (United States)"
-        ],
-        "Also known as": [
-            "El viaje a México"
+            "1947-11-28"
         ],
         "Country of origin": [
             "United States"
         ],
-        "Production company": [
-            "Warner Bros. Cartoon Studios"
+        "Production companies": [
+            "Warner Bros. Cartoons"
         ]
     },
-    "reviews": 4,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0597520/",
-            "name": "Dave Monahan"
+            "name": "Dave Monahan",
+            "@type": "Person"
         },
         {
-            "url": "https://www.imdb.com/name/nm11011594/",
-            "name": "Hubie Karp"
+            "url": "https://www.imdb.com/name/nm0778880/",
+            "name": "Bill Scott",
+            "@type": "Person"
         }
     ],
     "duration": "PT7M",
-    "keywords": [
-        "daffy duck character",
-        "two word title",
-        "gun",
-        "safety zone",
-        "alcoholic beverage"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0204190/",
-            "name": "Arthur Davis"
+            "name": "Arthur Davis",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0039620/",
     "metascore": null,
-    "imdb_votes": 244,
+    "imdb_votes": 275,
     "popularity": 0,
-    "description": "Daffy Duck drives to Mexico for a vacation, and after a harrowing experience with the local cuisine that literally sets his mouth afire, Daffy goes to a bullfight ring to observe the spectacle. When Daffy jeers at the bull, the ho...",
-    "imdb_rating": "7.3/10 from 244 users",
-    "release_date": [],
-    "contentRating": "Approved",
-    "datePublished": "1947-11-29",
+    "description": "Daffy Duck drives to Mexico for a vacation, and after a harrowing experience with the local cuisine that literally sets his mouth afire, Daffy goes to a bullfight ring to observe the spectacle.",
+    "imdb_rating": "7.3/10 from 275 users",
+    "release_date": [
+        {
+            "date": "1947-11-28",
+            "country": "United States"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "1947-11-28",
+    "original_title": "Mexican Joyride",
     "imdb_rating_average": 7.3,
-    "update_at": "2025-06-12T22:28:34"
+    "update_at": "2026-11-26T08:21:15"
 }

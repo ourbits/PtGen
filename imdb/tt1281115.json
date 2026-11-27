@@ -4,73 +4,101 @@
     "name": "Idiot Box",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Sci-Fi"
+        "Sci-Fi",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3091755/",
-            "name": "Michael Massei"
+            "name": "Michael Massei",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2829362/",
-            "name": "Heather Howe"
+            "name": "Heather Howe",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2294564/",
-            "name": "David Landry"
+            "name": "David Landry",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1490504/",
+            "name": "Ted Underwood",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1843771/",
+            "name": "Jon Raymond",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3129988/",
+            "name": "Zach De Silva",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1748725/",
+            "name": "Linda Rheinschild",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTgxODI2MzE5Nl5BMl5BanBnXkFtZTcwNjc4NjI5MQ@@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Michael Massei",
+            "Heather Howe",
+            "David Landry"
+        ],
+        "Genres": [
+            "Sci-Fi",
+            "Short"
+        ],
+        "Writer": [
+            "Lee Citron"
+        ],
+        "Runtime": [
+            "9 min"
+        ],
+        "Director": [
+            "Lee Citron"
         ],
         "Release date": [
-            "August 26, 2008 (United States)"
-        ],
-        "Official site": [
-            "Official site - http://www.milkmanfilms.com/milkman/idiotbox.html"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Los Angeles, California, USA"
-        ],
-        "Production company": [
-            "Milkman Films"
+            "2008"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1729079/",
-            "name": "Lee Citron"
+            "name": "Lee Citron",
+            "@type": "Person"
         }
     ],
     "duration": "PT9M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1729079/",
-            "name": "Lee Citron"
+            "name": "Lee Citron",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1281115/",
     "metascore": null,
     "imdb_votes": 40,
     "popularity": 0,
-    "description": "In an apple pie town of green grass and white picket fences, a failing marriage destroys one family&apos;s chance for that promised American dream in a world perverted by television.",
-    "imdb_rating": "7.2/10 from 40 users",
+    "description": null,
+    "imdb_rating": "7.1/10 from 40 users",
     "release_date": [],
-    "contentRating": "Not Rated",
-    "datePublished": "2008-08-26",
-    "imdb_rating_average": 7.2,
-    "update_at": "2025-08-17T11:00:34"
+    "contentRating": null,
+    "datePublished": "2008",
+    "original_title": "Idiot Box",
+    "imdb_rating_average": 7.1,
+    "update_at": "2026-11-26T17:28:06"
 }

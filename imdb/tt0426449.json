@@ -4,73 +4,132 @@
     "name": "Emilia - Die zweite Chance",
     "site": "imdb",
     "year": "2005",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000919/",
-            "name": "Senta Berger"
+            "name": "Senta Berger",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0766442/",
-            "name": "Peter Sattmann"
+            "name": "Peter Sattmann",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0559052/",
-            "name": "Misel Maticevic"
+            "name": "Misel Maticevic",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0775880/",
+            "name": "Anna Schudt",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0402324/",
+            "name": "Stefan Hunstein",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0473201/",
+            "name": "Maximilian Krückl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0391105/",
+            "name": "Dietrich Hollinderbäumer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0745132/",
+            "name": "Nina Rothemund",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0937828/",
+            "name": "Klaus B. Wolf",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0710922/",
+            "name": "Peter Rappenglück",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmQ3NWYwMWQtYjFiYS00NzUxLThmZTItNDZlYTFlNzE5ZGI2XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/4r0ZwZp2PrfDFm0RNnVsVImz5cd.jpg",
     "details": {
+        "Stars": [
+            "Senta Berger",
+            "Peter Sattmann",
+            "Misel Maticevic"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Gabriela Sperl",
+            "Tim Trageser"
+        ],
+        "Director": [
+            "Tim Trageser"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "October 5, 2005 (Germany)"
+            "2005-10-05"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Filming locations": [
-            "Landsberg am Lech, Bavaria, Germany"
-        ],
-        "Production company": [
-            "TV-60 Filmproduktion"
+        "Production companies": [
+            "TV-60",
+            "ARD"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0818293/",
-            "name": "Gabriela Sperl"
+            "name": "Gabriela Sperl",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0003916/",
-            "name": "Tim Trageser"
+            "name": "Tim Trageser",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0003916/",
-            "name": "Tim Trageser"
+            "name": "Tim Trageser",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0426449/",
     "metascore": null,
     "imdb_votes": 31,
     "popularity": 0,
-    "description": null,
+    "description": "Dr. Emilia Seiler, a consultant at the Bavarian Ministry of Social Affairs and responsible for youth homes in Upper Bavaria, takes over the educational management of a youth home in Landsberg am Lech on an interim basis, as the manager in charge has been suspended.\r The home was founded in accordance with the \"Home instead of detention\" guidelines she had drawn up. She immediately clashes with the home's managing director, Mathias Hartmann, who is primarily interested in the home's balance sheets. But her greatest concern is for Martina, one of the home's residents, who had reported the former director for sexual abuse and is highly suicidal.",
     "imdb_rating": "6.8/10 from 31 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2005-10-05",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2005-10-05",
+    "original_title": "Emilia - Die zweite Chance",
     "imdb_rating_average": 6.8,
-    "update_at": "2025-05-28T09:34:22"
+    "update_at": "2026-11-26T18:56:22"
 }

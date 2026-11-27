@@ -4,7 +4,7 @@
     "name": "The Newcomers",
     "site": "imdb",
     "year": "1964",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Documentary",
         "Family"
@@ -12,58 +12,105 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1358514/",
-            "name": "A.C.H. Smith"
+            "name": "A.C.H. Smith",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1358566/",
-            "name": "Alison Smith"
+            "name": "Alison Smith",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0001779/",
-            "name": "Tom Stoppard"
+            "name": "Tom Stoppard",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7064508/",
+            "name": "Lyn Chadwick",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7064460/",
+            "name": "Derek Balmer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm7064572/",
+            "name": "Frank Williams",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0323962/",
+            "name": "Bob Godfrey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0939606/",
+            "name": "Charles Wood",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0238245/",
+            "name": "Patrick Dromgoole",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0629693/",
+            "name": "Peter Nichols",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "A.C.H. Smith",
+            "Alison Smith",
+            "Tom Stoppard"
+        ],
+        "Genres": [
+            "Documentary",
+            "Family"
+        ],
+        "Runtime": [
+            "140 min"
+        ],
+        "Director": [
+            "John Boorman",
+            "Michael Croucher"
         ],
         "Release date": [
-            "April 30, 1964 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Οι νεοφερμένοι"
-        ],
-        "Official site": [
-            "BBC Genome Website - http://genome.ch.bbc.co.uk/6853ec85e9e04d7d9a501c68eef3f772"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Filming locations": [
-            "Bristol, Gloucestershire, England, UK"
-        ],
-        "Production companies": [
-            "British Broadcasting Corporation (BBC West)",
-            "British Broadcasting Corporation (BBC)"
+            "1964"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
-    "duration": null,
-    "keywords": [
-        "tv mini series"
+    "duration": "PT2H20M",
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0000958/",
+            "name": "John Boorman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1622115/",
+            "name": "Michael Croucher",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0362358/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": "Documentary series on the lives of a young couple in Bristol in the 5 1/2 months leading up to the birth of their twins.",
+    "description": null,
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1964-04-30",
+    "datePublished": "1964",
+    "original_title": "The Newcomers",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-28T09:43:12"
+    "update_at": "2026-11-26T18:42:21"
 }

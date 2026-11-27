@@ -4,70 +4,103 @@
     "name": "Train",
     "site": "imdb",
     "year": "2010",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Crime",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3568281/",
-            "name": "Ali Crosier"
+            "name": "Ali Crosier",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3559427/",
-            "name": "Patricia Donohue"
+            "name": "Patricia Donohue",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2660940/",
-            "name": "Alani Ilongwe"
+            "name": "Alani Ilongwe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2814595/",
+            "name": "Robbie Sublett",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3559677/",
+            "name": "Efren Uribe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1986622/",
+            "name": "DeWanda Wise",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/toyjs26ZAWTYBBwB6UaBuiIB5jf.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Ali Crosier",
+            "Patricia Donohue",
+            "Alani Ilongwe"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Darius Clark Monroe"
+        ],
+        "Runtime": [
+            "7 min"
+        ],
+        "Director": [
+            "Darius Clark Monroe"
         ],
         "Release date": [
-            "January 6, 2010 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
-            "Relative Noise"
+            "2010-01-06"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2346569/",
-            "name": "Darius Clark Monroe"
+            "name": "Darius Clark Monroe",
+            "@type": "Person"
         }
     ],
     "duration": "PT7M",
-    "keywords": [
-        "student film",
-        "african american",
-        "independent film"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2346569/",
-            "name": "Darius Clark Monroe"
+            "name": "Darius Clark Monroe",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1485809/",
     "metascore": null,
-    "imdb_votes": 23,
+    "imdb_votes": 29,
     "popularity": 0,
-    "description": "It&apos;s late, and Carl&apos;s just off from work. As usual, he takes the Brooklyn bound F Train home.",
-    "imdb_rating": "7.5/10 from 23 users",
-    "release_date": [],
-    "contentRating": null,
+    "description": "Late night in New York, Carl takes the Brooklyn bound F train home and runs into trouble in this thought provoking short film about fear and guilt.",
+    "imdb_rating": "7.8/10 from 29 users",
+    "release_date": [
+        {
+            "date": "2010-01-06",
+            "country": "United States"
+        }
+    ],
+    "contentRating": "NR",
     "datePublished": "2010-01-06",
-    "imdb_rating_average": 7.5,
-    "update_at": "2025-07-28T00:50:40"
+    "original_title": "Train",
+    "imdb_rating_average": 7.8,
+    "update_at": "2026-11-26T05:00:19"
 }

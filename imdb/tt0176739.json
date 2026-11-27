@@ -4,7 +4,7 @@
     "name": "The Fury Within",
     "site": "imdb",
     "year": "1998",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama",
         "Family",
@@ -13,75 +13,134 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000639/",
-            "name": "Ally Sheedy"
+            "name": "Ally Sheedy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0541908/",
-            "name": "Costas Mandylor"
+            "name": "Costas Mandylor",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0238688/",
-            "name": "Jodie Dry"
+            "name": "Jodie Dry",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0060561/",
+            "name": "Steve Bastoni",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0077692/",
+            "name": "Vincent Berry",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0446333/",
+            "name": "Desmond Kelly",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0564201/",
+            "name": "Kerry-Ella McAullay",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0096424/",
+            "name": "Emily Borg",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0550180/",
+            "name": "Craig Marriott",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0330139/",
+            "name": "Deni Gordon",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzA2NTAzMGUtOTU5Zi00Y2E1LTg5OWUtNTEwMTcxYjJlZDc5XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/becsZgfxqG4G7IlXAvn6zKjoGgq.jpg",
     "details": {
+        "Stars": [
+            "Ally Sheedy",
+            "Costas Mandylor",
+            "Jodie Dry"
+        ],
+        "Genres": [
+            "Drama",
+            "Family",
+            "Horror"
+        ],
+        "Writer": [
+            "William Bast",
+            "Paul Huson"
+        ],
+        "Runtime": [
+            "91 min"
+        ],
+        "Director": [
+            "Noel Nosseck"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "October 28, 1998 (United States)"
+            "1998-10-28"
         ],
-        "Also known as": [
-            "Raseri"
-        ],
-        "Filming locations": [
-            "Queensland, Australia"
-        ],
-        "Countries of origin": [
-            "United States",
-            "Australia"
+        "Country of origin": [
+            "United States"
         ],
         "Production companies": [
-            "Village Roadshow Pictures",
-            "Wilshire Court Productions"
+            "Paramount Pictures"
         ]
     },
-    "reviews": 6,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0060378/",
-            "name": "William Bast"
+            "name": "William Bast",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0403929/",
-            "name": "Paul Huson"
+            "name": "Paul Huson",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H31M",
     "keywords": [
-        "children",
-        "supernatural power",
         "family relationships",
-        "affair",
-        "dog"
+        "dog",
+        "super power",
+        "extramarital affair"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0636495/",
-            "name": "Noel Nosseck"
+            "name": "Noel Nosseck",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0176739/",
     "metascore": null,
-    "imdb_votes": 212,
+    "imdb_votes": 213,
     "popularity": 0,
-    "description": "A recently separated couple and their children are terrorized by paranormal events.",
-    "imdb_rating": "4.6/10 from 212 users",
-    "release_date": [],
-    "contentRating": "PG-13",
+    "description": "A surburban California family is beset by the power of supernatural subconscious. A bone-chilling thriller with electrifying effects.",
+    "imdb_rating": "4.5/10 from 213 users",
+    "release_date": [
+        {
+            "date": "1998-10-28",
+            "country": "United States"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1998-10-28",
-    "imdb_rating_average": 4.6,
-    "update_at": "2026-02-09T02:21:35"
+    "original_title": "The Fury Within",
+    "imdb_rating_average": 4.5,
+    "update_at": "2026-11-26T08:14:16"
 }

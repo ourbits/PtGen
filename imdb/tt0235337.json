@@ -3,7 +3,7 @@
     "sid": "tt0235337",
     "name": "Le dernier homme",
     "site": "imdb",
-    "year": "1972",
+    "year": "1969",
     "@type": "Movie",
     "genre": [
         "Drama",
@@ -12,66 +12,86 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0099352/",
-            "name": "Jean-Claude Bouillon"
+            "name": "Jean-Claude Bouillon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0868079/",
-            "name": "Sofia Torkeli"
+            "name": "Sofia Torkeli",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0109323/",
-            "name": "Corinne Brill"
+            "name": "Corinne Brill",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4132648/",
+            "name": "Christian Cerland",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODUzYzVhNjctZTUyMy00NWIwLThlNWEtOGYwNTIzNTczOGJmXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/jIWLM8iVZYXiubG9rpYYvFEOhUO.jpg",
     "details": {
+        "Stars": [
+            "Jean-Claude Bouillon",
+            "Sofia Torkeli",
+            "Corinne Brill"
+        ],
+        "Genres": [
+            "Drama",
+            "Sci-Fi"
+        ],
+        "Writer": [
+            "Charles L. Bitsch"
+        ],
+        "Runtime": [
+            "82 min"
+        ],
+        "Director": [
+            "Charles L. Bitsch"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "April 5, 1972 (France)"
-        ],
-        "Also known as": [
-            "The Last Man"
-        ],
-        "Country of origin": [
-            "France"
-        ],
-        "Filming locations": [
-            "Montclus, Gard, France"
-        ],
-        "Production companies": [
-            "Anouchka Films",
-            "Dovidis"
+            "1969-07-16"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0084492/",
-            "name": "Charles L. Bitsch"
+            "name": "Charles L. Bitsch",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H22M",
-    "keywords": [
-        "french science fiction"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0084492/",
-            "name": "Charles L. Bitsch"
+            "name": "Charles L. Bitsch",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0235337/",
     "metascore": null,
-    "imdb_votes": 36,
+    "imdb_votes": 42,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "6.2/10 from 36 users",
-    "release_date": [],
+    "description": "On their return from a mission, three cavers- Jean-Claude, his wife Catherine and Eva - find themselves the only people left alive on earth. A chemical war has caused the death of the population and animals. The trio organize to survive. Jean-Claude and Eva die after coming into contact with corpses. Catherine, who is pregnant, escapes contamination and gives birth to a boy.",
+    "imdb_rating": "6.0/10 from 42 users",
+    "release_date": [
+        {
+            "date": "1969-07-16",
+            "country": "Italy"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1972-04-05",
-    "imdb_rating_average": 6.2,
-    "update_at": "2025-02-10T18:55:36"
+    "datePublished": "1969-07-16",
+    "original_title": "Le dernier homme",
+    "imdb_rating_average": 6.0,
+    "update_at": "2026-11-26T22:07:12"
 }

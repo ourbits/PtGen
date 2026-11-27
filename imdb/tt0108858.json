@@ -4,7 +4,7 @@
     "name": "Middlemarch",
     "site": "imdb",
     "year": "1994",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Drama",
         "Romance"
@@ -12,60 +12,136 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0388061/",
-            "name": "Douglas Hodge"
+            "name": "Douglas Hodge",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0388061/",
+            "name": "Douglas Hodge",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0041411/",
-            "name": "Juliet Aubrey"
+            "name": "Juliet Aubrey",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0041411/",
+            "name": "Juliet Aubrey",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0568329/",
-            "name": "Trevyn McDowell"
+            "name": "Trevyn McDowell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0568329/",
+            "name": "Trevyn McDowell",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0278746/",
+            "name": "Jonathan Firth",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0905554/",
+            "name": "Julian Wadham",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0151463/",
+            "name": "Simon Chandler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0151463/",
+            "name": "Simon Chandler",
+            "@type": "Person"
         }
     ],
-    "critic": 4,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDI4YWE3ZGUtNWQ0YS00MjJiLWI5YzMtMjVhY2EzZWY5Njc2XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/8Gvmop9lI9SnwsG47LICu56UVgH.jpg",
     "details": {
+        "Stars": [
+            "Douglas Hodge",
+            "Douglas Hodge",
+            "Juliet Aubrey"
+        ],
+        "Genres": [
+            "Drama",
+            "Romance"
+        ],
+        "Writer": [
+            "Andrew Davies",
+            "George Eliot",
+            "George Elliot"
+        ],
+        "Runtime": [
+            "54 min"
+        ],
+        "Director": [
+            "Anthony Page"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "April 10, 1994 (United States)"
-        ],
-        "Also known as": [
-            "米德鎮的春天"
-        ],
-        "Filming locations": [
-            "Burghley House, Stamford, Lincolnshire, England, UK"
-        ],
-        "Countries of origin": [
-            "United Kingdom",
-            "United States"
+            "1994-01-12"
         ],
         "Production companies": [
-            "British Broadcasting Corporation (BBC)",
-            "WGBH"
+            "BBC"
         ]
     },
-    "reviews": 17,
-    "creators": [],
-    "duration": null,
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0203577/",
+            "name": "Andrew Davies",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0253652/",
+            "name": "George Eliot",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1071087/",
+            "name": "George Elliot",
+            "@type": "Person"
+        }
+    ],
+    "duration": "PT54M",
     "keywords": [
+        "journalist",
+        "based on novel or book",
+        "industrial revolution",
+        "priest",
+        "miniseries",
+        "hospital",
+        "doctor",
         "period drama",
-        "card game",
-        "dysfunctional marriage",
-        "vote",
-        "victorian era"
+        "19th century"
+    ],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0656108/",
+            "name": "Anthony Page",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0108858/",
     "metascore": null,
-    "imdb_votes": 3032,
+    "imdb_votes": 3276,
     "popularity": 0,
-    "description": "Middlemarch is a story of provincial life on the brink of momentous change and a deeply moving saga about a group of people striving to give meaning and value to their lives during the Industrial Revolution.",
-    "imdb_rating": "7.5/10 from 3032 users",
+    "description": "19th century Great Britain. The Industrial Revolution brings both the promise and fear of change. In the provincial town of Middlemarch, the progressive Dorothea Brooke desperately seeks intellectual fulfillment in a male-dominated society and is driven into an unhappy marriage to the elderly scholar Casaubon. No sooner do they embark on their honeymoon than she meets and develops an instant connection with Casaubon's young cousin, Will Ladislaw. When idealistic Doctor Lydgate arrives, his new methods of medicine sweep him into the battle between conservatives and liberals in town. He quickly becomes enamored of the beautiful, privileged Rosamond Vincy, a woman whose troubles seem bound to destroy him.",
+    "imdb_rating": "7.4/10 from 3276 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1994-04-10",
-    "imdb_rating_average": 7.5,
-    "update_at": "2025-09-04T07:14:47"
+    "datePublished": "1994-01-12",
+    "original_title": "Middlemarch",
+    "imdb_rating_average": 7.4,
+    "update_at": "2026-11-26T19:49:14"
 }

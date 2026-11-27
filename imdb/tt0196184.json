@@ -5,31 +5,100 @@
     "site": "imdb",
     "year": "1917",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm1116204/",
+            "name": "Marie Marchal",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0459888/",
+            "name": "Wilhelm Klitsch",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1049189/",
+            "name": "Hans Rhoden",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0354029/",
+            "name": "Liane Haid",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0251242/",
+            "name": "Karl Ehmann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0106504/",
+            "name": "Egon Brecher",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1115596/",
+            "name": "Leonore Werbion",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1116959/",
+            "name": "Eduard Sekler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1114426/",
+            "name": "Kurt Kochler",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1114321/",
+            "name": "Josephine Josephi",
+            "@type": "Person"
+        }
+    ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "None"
+        "Stars": [
+            "Marie Marchal",
+            "Wilhelm Klitsch",
+            "Hans Rhoden"
+        ],
+        "Writer": [
+            "Ferdinand Raimund"
+        ],
+        "Director": [
+            "Jacob Fleck",
+            "Luise Fleck"
         ],
         "Release date": [
-            "November 2, 1917 (Austria)"
-        ],
-        "Also known as": [
-            "A tékozló"
-        ],
-        "Country of origin": [
-            "Austria"
-        ],
-        "Production company": [
-            "Wiener Kunstfilm"
+            "1917"
         ]
     },
     "reviews": 0,
-    "creators": [],
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0706927/",
+            "name": "Ferdinand Raimund",
+            "@type": "Person"
+        }
+    ],
     "duration": null,
-    "keywords": [
-        "based on play"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0281383/",
+            "name": "Jacob Fleck",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0281389/",
+            "name": "Luise Fleck",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0196184/",
     "metascore": null,
@@ -39,7 +108,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1917-11-02",
+    "datePublished": "1917",
+    "original_title": "Der Verschwender",
     "imdb_rating_average": 0,
-    "update_at": "2025-11-11T02:21:19"
+    "update_at": "2026-11-26T08:28:20"
 }

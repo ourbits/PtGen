@@ -4,7 +4,7 @@
     "name": "I Yam What I Yam: The Story of Popeye the Sailor",
     "site": "imdb",
     "year": "2007",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Documentary",
         "Short"
@@ -12,59 +12,84 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0444786/",
-            "name": "Tom Kenny"
+            "name": "Tom Kenny",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTExZWRjYTEtOGQ0OC00MzU0LThlNGEtMjhiMGI0N2I4ZjA2XkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/dtjdvrpro2njMkx4U3rlWTfOXcp.jpg",
     "details": {
+        "Stars": [
+            "Tom Kenny"
+        ],
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Writer": [
+            "Constantine Nasr",
+            "Mark Nassief"
+        ],
+        "Runtime": [
+            "43 min"
+        ],
+        "Director": [
+            "Constantine Nasr",
+            "Mark Nassief"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "July 31, 2007 (United States)"
+            "2007-07-30"
         ],
         "Country of origin": [
             "United States"
-        ],
-        "Production company": [
-            "New Wave Entertainment"
         ]
     },
-    "reviews": 3,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1044052/",
-            "name": "Constantine Nasr"
+            "name": "Constantine Nasr",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1371552/",
-            "name": "Mark Nassief"
+            "name": "Mark Nassief",
+            "@type": "Person"
         }
     ],
     "duration": "PT43M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1044052/",
-            "name": "Constantine Nasr"
+            "name": "Constantine Nasr",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1371552/",
-            "name": "Mark Nassief"
+            "name": "Mark Nassief",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1324017/",
     "metascore": null,
-    "imdb_votes": 33,
+    "imdb_votes": 37,
     "popularity": 0,
-    "description": "Documentary on the evolution of Popeye the Sailor Man.",
-    "imdb_rating": "7.3/10 from 33 users",
-    "release_date": [],
+    "description": "Documentary about Popeye the Sailor.",
+    "imdb_rating": "7.4/10 from 37 users",
+    "release_date": [
+        {
+            "date": "2007-07-30",
+            "country": "United States"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2007-07-31",
-    "imdb_rating_average": 7.3,
-    "update_at": "2025-05-17T15:36:28"
+    "datePublished": "2007-07-30",
+    "original_title": "I Yam What I Yam: The Story of Popeye the Sailor",
+    "imdb_rating_average": 7.4,
+    "update_at": "2026-11-26T02:07:07"
 }

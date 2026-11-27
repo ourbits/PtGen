@@ -3,55 +3,87 @@
     "sid": "tt7120650",
     "name": "My Boy Oleg",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "2018",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0227317/",
-            "name": "Alex Dimitriades"
+            "name": "Alex Dimitriades",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5702886/",
-            "name": "Uwem Etuknwa"
+            "name": "Uwem Etuknwa",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm7622830/",
-            "name": "Olena Fedorova"
+            "name": "Olena Fedorova",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0322591/",
+            "name": "Diana Glenn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4037913/",
+            "name": "Garikai Jani",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWJhMjE2ZmUtZmNlNS00NTNjLTkwZmItNzBhNmU3N2M4ZTJhXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/yXXtieUFKVQ6GnOZMgeuvhpd9YE.jpg",
     "details": {
+        "Stars": [
+            "Alex Dimitriades",
+            "Uwem Etuknwa",
+            "Olena Fedorova"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Goran Stolevski"
+        ],
+        "Runtime": [
+            "19 min"
+        ],
+        "Director": [
+            "Goran Stolevski"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "2018 (Australia)"
+            "2018-06-06"
         ],
         "Country of origin": [
             "Australia"
         ],
-        "Production company": [
-            "The Dollhouse Pictures"
+        "Production companies": [
+            "Dollhouse Pictures"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3301836/",
-            "name": "Goran Stolevski"
+            "name": "Goran Stolevski",
+            "@type": "Person"
         }
     ],
     "duration": "PT19M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3301836/",
-            "name": "Goran Stolevski"
+            "name": "Goran Stolevski",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt7120650/",
@@ -60,9 +92,15 @@
     "popularity": 0,
     "description": "When a Ukrainian actress arrives in Melbourne for a festival performance, her off stage antics reveal the true nature of her visit.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2018-06-06",
+            "country": "Australia"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "2018-06-06",
+    "original_title": "My Boy Oleg",
     "imdb_rating_average": 0,
-    "update_at": "2025-07-26T18:52:10"
+    "update_at": "2026-11-26T20:49:07"
 }

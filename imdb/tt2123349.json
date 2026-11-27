@@ -3,48 +3,70 @@
     "sid": "tt2123349",
     "name": "Voice Over",
     "site": "imdb",
-    "year": "2012",
-    "@type": "Movie",
+    "year": "2011",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Action",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm3536229/",
-            "name": "Jonathan D. Mellor"
+            "name": "Jonathan D. Mellor",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0040545/",
-            "name": "Féodor Atkine"
+            "name": "Féodor Atkine",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2277514/",
-            "name": "Javier Cidoncha"
+            "name": "Javier Cidoncha",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4792409/",
+            "name": "Luna Montignier Peiro",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm4793422/",
+            "name": "Sergio Perez",
+            "@type": "Person"
         }
     ],
-    "critic": 2,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNzA2ODEzMV5BMl5BanBnXkFtZTcwOTU0MTEzNw@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/A9sH9qUs9HwndG1ZHVdwl9imNWR.jpg",
     "details": {
+        "Stars": [
+            "Jonathan D. Mellor",
+            "Féodor Atkine",
+            "Javier Cidoncha"
+        ],
+        "Genres": [
+            "Action",
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Luiso Berdejo"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "Martín Rosete"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "April 19, 2012 (United States)"
-        ],
-        "Also known as": [
-            "Голос за кадром"
-        ],
-        "Official sites": [
-            "Official Facebook - https://www.facebook.com/pages/Voice-Over/182381888513967",
-            "Official site - http://www.promofest.org/films/voice-over"
+            "2011-11-23"
         ],
         "Country of origin": [
             "Spain"
-        ],
-        "Filming locations": [
-            "Almería, Andalucía, Spain"
         ],
         "Production companies": [
             "Encanta Films",
@@ -52,36 +74,48 @@
             "Kowalski Films"
         ]
     },
-    "reviews": 6,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1084937/",
-            "name": "Luiso Berdejo"
+            "name": "Luiso Berdejo",
+            "@type": "Person"
         }
     ],
     "duration": "PT10M",
     "keywords": [
-        "stressed out",
-        "anxiety",
-        "space capsule",
         "fishing boat",
-        "alien creature"
+        "space capsule",
+        "alien creature",
+        "oxygen depletion"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1274203/",
-            "name": "Martín Rosete"
+            "name": "Martín Rosete",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2123349/",
     "metascore": null,
-    "imdb_votes": 1208,
+    "imdb_votes": 1225,
     "popularity": 0,
-    "description": "Three extreme situations that are actually the same.",
-    "imdb_rating": "7.1/10 from 1208 users",
-    "release_date": [],
-    "contentRating": "Not Rated",
-    "datePublished": "2012-04-19",
+    "description": "I won't tell you whose voice over leads us through three extreme situations that are actually the same. Will you survive?",
+    "imdb_rating": "7.1/10 from 1225 users",
+    "release_date": [
+        {
+            "date": "2011-11-23",
+            "country": "Spain"
+        },
+        {
+            "date": "2012-09-27",
+            "country": "Finland"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2011-11-23",
+    "original_title": "Voice Over",
     "imdb_rating_average": 7.1,
-    "update_at": "2025-07-18T10:39:20"
+    "update_at": "2026-11-26T06:42:17"
 }

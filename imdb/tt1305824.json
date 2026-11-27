@@ -4,72 +4,123 @@
     "name": "Soulmates",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Comedy",
-        "Horror"
+        "Horror",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2608022/",
-            "name": "Cameron Sawyer"
+            "name": "Cameron Sawyer",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0199307/",
-            "name": "Cynthia Dane"
+            "name": "Cynthia Dane",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2988481/",
-            "name": "Shannon Lee Holmes"
+            "name": "Shannon Lee Holmes",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2182347/",
+            "name": "Jenna Finley Moller",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2800839/",
+            "name": "Matthew Watkins",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1715274/",
+            "name": "Turiya Dawn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2348852/",
+            "name": "Stella Doyle",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1208932/",
+            "name": "Tom Flynn",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3159868/",
+            "name": "Leah McKendrick",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3160472/",
+            "name": "Ken Murphy",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjY2Y2UyMWQtMTExYS00ODJmLWJhZDUtYzFlMjYwZTJlNjJjXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Cameron Sawyer",
+            "Cynthia Dane",
+            "Shannon Lee Holmes"
+        ],
+        "Genres": [
+            "Comedy",
+            "Horror",
+            "Short"
+        ],
+        "Writer": [
+            "Tom Flynn"
+        ],
+        "Runtime": [
+            "18 min"
+        ],
+        "Director": [
+            "Tom Flynn"
         ],
         "Release date": [
-            "June 18, 2008 (United States)"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Filming locations": [
-            "Orange, California, USA"
+            "2008-06-08"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1208932/",
-            "name": "Tom Flynn"
+            "name": "Tom Flynn",
+            "@type": "Person"
         }
     ],
     "duration": "PT18M",
-    "keywords": [
-        "witch",
-        "therapist",
-        "hag",
-        "paranormal phenomenon",
-        "insanity"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1208932/",
-            "name": "Tom Flynn"
+            "name": "Tom Flynn",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1305824/",
     "metascore": null,
-    "imdb_votes": 18,
+    "imdb_votes": 19,
     "popularity": 0,
     "description": "A fledgling couples therapist must rely upon his shoddy couples therapy skills in order to survive a blind date with a crazy old witch.",
-    "imdb_rating": "7.3/10 from 18 users",
-    "release_date": [],
+    "imdb_rating": "7.3/10 from 19 users",
+    "release_date": [
+        {
+            "date": "2008-06-08",
+            "country": "United States"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2008-06-18",
+    "datePublished": "2008-06-08",
+    "original_title": "Soulmates",
     "imdb_rating_average": 7.3,
-    "update_at": "2026-02-10T17:00:19"
+    "update_at": "2026-11-26T11:00:18"
 }

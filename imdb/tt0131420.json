@@ -5,70 +5,133 @@
     "site": "imdb",
     "year": "1937",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Drama"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0003585/",
-            "name": "Gustav Knuth"
+            "name": "Gustav Knuth",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0530424/",
-            "name": "Carsta Löck"
+            "name": "Carsta Löck",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0433988/",
-            "name": "Bodo Kaatz"
+            "name": "Bodo Kaatz",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0290458/",
+            "name": "Walter Franck",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0922690/",
+            "name": "Paul Westermeier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0782652/",
+            "name": "Hilde Seipp",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0462443/",
+            "name": "Rudolf Koch-Riehl",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0083758/",
+            "name": "Horst Birr",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0062217/",
+            "name": "Hans Baumann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0921532/",
+            "name": "Otto Wernicke",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
+        "Stars": [
+            "Gustav Knuth",
+            "Carsta Löck",
+            "Bodo Kaatz"
+        ],
+        "Genres": [
+            "Drama"
+        ],
+        "Writer": [
+            "Alfred Karrasch",
+            "Georg C. Klaren"
+        ],
+        "Runtime": [
+            "88 min"
+        ],
+        "Director": [
+            "Jürgen von Alten"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "September 3, 1937 (Germany)"
+            "1937-09-02"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Filming locations": [
-            "Kurische Nehrung, East Prussia, Germany"
-        ],
-        "Production company": [
+        "Production companies": [
             "Minerva-Tonfilm GmbH"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0440099/",
-            "name": "Alfred Karrasch"
+            "name": "Alfred Karrasch",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0458283/",
-            "name": "Georg C. Klaren"
+            "name": "Georg C. Klaren",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H28M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0901874/",
-            "name": "Jürgen von Alten"
+            "name": "Jürgen von Alten",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0131420/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "Christof Peleikis is a seasoned sailor who once served as a helmsman on many ships. Since having a wife and child, he works as a fisherman and lives in a small village. When a ship gets into trouble off the coast one day, Christof rushes to its aid. He manages to save the ship and its crew, but one of the helmsmen is killed. Christof is eventually persuaded by the alluring captain's wife, Evelyn, to take the man's place. Without saying goodbye to his family, he sets sail...",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1937-09-02",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1937-09-03",
+    "datePublished": "1937-09-02",
+    "original_title": "Heimweh",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-20T06:52:29"
+    "update_at": "2026-11-26T02:35:18"
 }

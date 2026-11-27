@@ -4,77 +4,99 @@
     "name": "Sampion",
     "site": "imdb",
     "year": "2010",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
         "Drama",
+        "Short",
         "War"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm2787023/",
-            "name": "Nerman Mahmutovic"
+            "name": "Nerman Mahmutovic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0009900/",
-            "name": "Dejan Acimovic"
+            "name": "Dejan Acimovic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0460739/",
-            "name": "Slaven Knezovic"
+            "name": "Slaven Knezović",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2041861/",
+            "name": "Goran Bogdan",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1904727/",
+            "name": "Ana Maras Harmander",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Languages": [
-            "Croatian",
-            "Bosnian"
+        "Stars": [
+            "Nerman Mahmutovic",
+            "Dejan Acimovic",
+            "Slaven Knezović"
+        ],
+        "Genres": [
+            "Drama",
+            "Short",
+            "War"
+        ],
+        "Writer": [
+            "Miljenko Jergovic",
+            "Marko Susac"
+        ],
+        "Runtime": [
+            "14 min"
+        ],
+        "Director": [
+            "Kristijan Milić"
         ],
         "Release date": [
-            "April 6, 2010 (Croatia)"
-        ],
-        "Country of origin": [
-            "Croatia"
-        ],
-        "Filming locations": [
-            "Zagreb, Croatia"
-        ],
-        "Production companies": [
-            "Akademija Dramskih Umjetnosti (ADU)",
-            "Hrvatska Radiotelevizija (HRT)"
+            "2010"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm3072425/",
-            "name": "Miljenko Jergovic"
+            "name": "Miljenko Jergovic",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3883743/",
-            "name": "Marko Susac"
+            "name": "Marko Susac",
+            "@type": "Person"
         }
     ],
     "duration": "PT14M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0587413/",
-            "name": "Kristijan Milic"
+            "name": "Kristijan Milić",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1637653/",
     "metascore": null,
-    "imdb_votes": 33,
+    "imdb_votes": 35,
     "popularity": 0,
     "description": null,
-    "imdb_rating": "7.3/10 from 33 users",
+    "imdb_rating": "7.3/10 from 35 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2010-04-06",
+    "datePublished": "2010",
+    "original_title": "Sampion",
     "imdb_rating_average": 7.3,
-    "update_at": "2025-08-12T19:35:20"
+    "update_at": "2026-11-26T09:42:08"
 }

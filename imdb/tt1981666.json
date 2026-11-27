@@ -4,42 +4,53 @@
     "name": "Miyuki",
     "site": "imdb",
     "year": "1986",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Drama"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1109651/",
-            "name": "Jirô Karasawa"
+            "name": "Jirô Karasawa",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3447323/",
-            "name": "Sonoko Kawai"
+            "name": "Sonoko Kawai",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1228447/",
-            "name": "Makoto Nonomura"
+            "name": "Makoto Nonomura",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0945275/",
+            "name": "Tatsuo Yamada",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Japanese"
+        "Stars": [
+            "Jirô Karasawa",
+            "Sonoko Kawai",
+            "Makoto Nonomura"
+        ],
+        "Genres": [
+            "Drama"
         ],
         "Release date": [
-            "August 4, 1986 (Japan)"
-        ],
-        "Country of origin": [
-            "Japan"
+            "1986"
         ]
     },
     "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt1981666/",
     "metascore": null,
     "imdb_votes": 0,
@@ -48,7 +59,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1986-08-04",
+    "datePublished": "1986",
+    "original_title": "Miyuki",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-27T16:00:39"
+    "update_at": "2026-11-27T01:35:07"
 }

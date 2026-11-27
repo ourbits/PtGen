@@ -4,7 +4,7 @@
     "name": "A nagy varázslat",
     "site": "imdb",
     "year": "1989",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Drama"
@@ -12,53 +12,99 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0867910/",
-            "name": "Géza Tordy"
+            "name": "Géza Tordy",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0546708/",
-            "name": "Ági Margitai"
+            "name": "Ági Margitai",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0404173/",
-            "name": "Péter Huszti"
+            "name": "Péter Huszti",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0473477/",
+            "name": "Anna Kubik",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0190658/",
+            "name": "Péter Cseke",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0883336/",
+            "name": "László Vajda",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0586627/",
+            "name": "György Miklósy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0843813/",
+            "name": "István Szatmári",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0639092/",
+            "name": "Ferenc Némethy",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0394622/",
+            "name": "László Horesnyi",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Hungarian"
+        "Stars": [
+            "Géza Tordy",
+            "Ági Margitai",
+            "Péter Huszti"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "Writer": [
+            "Eduardo De Filippo",
+            "Katalin Óvári"
+        ],
+        "Director": [
+            "György Lengyel"
         ],
         "Release date": [
-            "January 6, 1989 (Hungary)"
-        ],
-        "Country of origin": [
-            "Hungary"
-        ],
-        "Production company": [
-            "Magyar Televízió Müvelödési Föszerkesztöség (MTV) (I)"
+            "1989"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0208370/",
-            "name": "Eduardo De Filippo"
+            "name": "Eduardo De Filippo",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1222182/",
-            "name": "Katalin Óvári"
+            "name": "Katalin Óvári",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        "foreign language adaptation",
-        "based on play"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0501865/",
-            "name": "György Lengyel"
+            "name": "György Lengyel",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1090242/",
@@ -69,7 +115,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1989-01-06",
+    "datePublished": "1989",
+    "original_title": "A nagy varázslat",
     "imdb_rating_average": 0,
-    "update_at": "2026-04-01T03:14:23"
+    "update_at": "2026-11-26T07:07:06"
 }
