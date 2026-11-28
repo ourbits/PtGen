@@ -4,7 +4,7 @@
     "name": "Bezposrednie polaczenie",
     "site": "imdb",
     "year": "1979",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Comedy",
         "Drama"
@@ -12,69 +12,122 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0958544/",
-            "name": "Ewa Zukowska"
+            "name": "Ewa Zukowska",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0696241/",
-            "name": "Wlodzimierz Press"
+            "name": "Włodzimerz Press",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0467876/",
-            "name": "Ryszard Kotys"
+            "name": "Ryszard Kotys",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2002657/",
+            "name": "Helena Kaminska",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0532699/",
+            "name": "Halina Machulska",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0464522/",
+            "name": "Jacek Koman",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0378812/",
+            "name": "Andrzej Herder",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0667991/",
+            "name": "Boguslawa Pawelec",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2001041/",
+            "name": "Tatiana Press",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0615706/",
+            "name": "Wlodzimierz Musial",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjBhYjgwYTAtYzAwNC00ZjFlLTgxMjktN2E5MTBhNzQ3ZTdiXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/moqgbBHW8hsmObwfYrPgaT8i6GQ.jpg",
     "details": {
+        "Stars": [
+            "Ewa Zukowska",
+            "Włodzimerz Press",
+            "Ryszard Kotys"
+        ],
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "Writer": [
+            "Juliusz Machulski"
+        ],
+        "Runtime": [
+            "49 min"
+        ],
+        "Director": [
+            "Juliusz Machulski"
+        ],
         "Language": [
             "Polish"
         ],
         "Release date": [
-            "October 26, 1979 (Poland)"
-        ],
-        "Also known as": [
-            "Прямая связь"
+            "1979-10-26"
         ],
         "Country of origin": [
             "Poland"
         ],
-        "Filming locations": [
-            "Lódz, Lódzkie, Poland"
-        ],
-        "Production company": [
-            "Zespól Filmowy \"X\""
+        "Production companies": [
+            "Zespół Filmowy \"X\""
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0532702/",
-            "name": "Juliusz Machulski"
+            "name": "Juliusz Machulski",
+            "@type": "Person"
         }
     ],
     "duration": "PT49M",
-    "keywords": [
-        "marriage",
-        "marital problem",
-        "anonymous telephone call",
-        "taxi ride",
-        "taxi driver"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0532702/",
-            "name": "Juliusz Machulski"
+            "name": "Juliusz Machulski",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0388766/",
     "metascore": null,
-    "imdb_votes": 36,
+    "imdb_votes": 37,
     "popularity": 0,
-    "description": "A marital argument between Marek and Halina is suddenly interrupted by a telephone call. An unknown woman cries for help and that makes the couple work things out together again.",
-    "imdb_rating": "6.3/10 from 36 users",
-    "release_date": [],
+    "description": "The marital argument is interrupted by a phone call with a desperate cry for help.",
+    "imdb_rating": "6.3/10 from 37 users",
+    "release_date": [
+        {
+            "date": "1979-10-26",
+            "country": "Poland"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1979-10-26",
+    "original_title": "Bezposrednie polaczenie",
     "imdb_rating_average": 6.3,
-    "update_at": "2026-02-20T02:56:22"
+    "update_at": "2026-11-27T15:14:55"
 }

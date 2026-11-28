@@ -5,60 +5,96 @@
     "site": "imdb",
     "year": "1973",
     "@type": "Movie",
-    "genre": null,
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0645382/",
-            "name": "Naomi Oka"
+            "name": "Naomi Oka",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0014554/",
-            "name": "Keiko Aikawa"
+            "name": "Keiko Aikawa",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3367812/",
-            "name": "Masako Minami"
+            "name": "Masako Minami",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0324828/",
+            "name": "Hiroshi Gojô",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6169708/",
+            "name": "Kaori Hayami",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6169709/",
+            "name": "Hiroko Kitazawa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm6116801/",
+            "name": "Ryôji Nakamura",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0643877/",
+            "name": "Toshihiko Oda",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0757013/",
+            "name": "Mikiko Sakai",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1377580/",
+            "name": "Sayori Shima",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Japanese"
+        "Stars": [
+            "Naomi Oka",
+            "Keiko Aikawa",
+            "Masako Minami"
+        ],
+        "Writer": [
+            "Masayoshi Imako"
+        ],
+        "Runtime": [
+            "66 min"
+        ],
+        "Director": [
+            "Yukihiko Kondô"
         ],
         "Release date": [
-            "December 15, 1973 (Japan)"
-        ],
-        "Also known as": [
-            "女調査員ＳＥＸレポート 婦女暴行"
-        ],
-        "Official sites": [
-            "nikkatsu-romanporno.com - https://www.nikkatsu-romanporno.com/movies/2017/02/25262.php",
-            "Nikkatsu.com - http://www.nikkatsu.com/movie/25262.html"
-        ],
-        "Country of origin": [
-            "Japan"
-        ],
-        "Production company": [
-            "Nikkatsu"
+            "1973"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0408052/",
-            "name": "Masayoshi Imako"
+            "name": "Masayoshi Imako",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H6M",
-    "keywords": [
-        "softcore",
-        "roman porno"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0464915/",
-            "name": "Yukihiko Kondô"
+            "name": "Yukihiko Kondô",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt3419732/",
@@ -69,7 +105,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1973-12-15",
+    "datePublished": "1973",
+    "original_title": "Onna Chosain Sex Report: Fujo Bôkô",
     "imdb_rating_average": 0,
-    "update_at": "2026-03-31T10:49:25"
+    "update_at": "2026-11-27T13:35:37"
 }

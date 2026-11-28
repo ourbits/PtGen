@@ -1,10 +1,10 @@
 {
     "aka": [],
     "sid": "tt0373868",
-    "name": "Go-Go&apos;s from Central Park",
+    "name": "Go-Go's from Central Park",
     "site": "imdb",
     "year": "2001",
-    "@type": "Movie",
+    "@type": "VideoObject",
     "genre": [
         "Documentary",
         "Music"
@@ -12,60 +12,82 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0128428/",
-            "name": "Charlotte Caffey"
+            "name": "Charlotte Caffey",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0137594/",
-            "name": "Belinda Carlisle"
+            "name": "Belinda Carlisle",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0774298/",
-            "name": "Gina Schock"
+            "name": "Gina Schock",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1373275/",
+            "name": "Kathy Valentine",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0005553/",
+            "name": "Jane Wiedlin",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzBkZDk5NzMtMmU1YS00MDJmLTgwYWUtMjhiODlkZDYxZDEzXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/gjoE8999ZCNVNZlzVFebZ2YRhFM.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Charlotte Caffey",
+            "Belinda Carlisle",
+            "Gina Schock"
+        ],
+        "Genres": [
+            "Documentary",
+            "Music"
+        ],
+        "Runtime": [
+            "66 min"
+        ],
+        "Director": [
+            "Dave Diomedi"
         ],
         "Release date": [
-            "December 11, 2001 (United States)"
-        ],
-        "Also known as": [
-            "Go-Go's Live in Central Park"
+            "2001-12-11"
         ],
         "Country of origin": [
             "United States"
-        ],
-        "Filming locations": [
-            "Central Park, Manhattan, New York City, New York, USA"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
+    "creators": [],
     "duration": "PT1H6M",
-    "keywords": [
-        "new york city",
-        "manhattan new york city",
-        "central park manhattan new york city",
-        "rock concert",
-        "girl group"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm1206693/",
-            "name": "Dave Diomedi"
+            "name": "Dave Diomedi",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0373868/",
     "metascore": null,
-    "imdb_votes": 41,
+    "imdb_votes": 38,
     "popularity": 0,
-    "description": "The Go-Go&apos;s reunite for the 2001 &apos;God Bless The Go-Go&apos;s Tour&apos;.",
-    "imdb_rating": "8.1/10 from 41 users",
-    "release_date": [],
+    "description": "The Go-Go's take Central Park by storm in this 2001 concert, their first live performance in decades. Serving up a pleasant mix of songs new and old -- including crowd-pleasers such as \"Vacation,\" \"We Got the Beat\" and \"Our Lips Are Sealed,\" plus a raucous rendition of The Ramones' \"I Wanna Be Sedated\" -- Belinda Carlisle, Jane Wiedlin, Charlotte Caffey, Kathy Valentine and Gina Schock prove they're still the \"It\" girls of pop-rock.",
+    "imdb_rating": "8.1/10 from 38 users",
+    "release_date": [
+        {
+            "date": "2001-12-11",
+            "country": "United States"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2001-12-11",
+    "original_title": "Go-Go's from Central Park",
     "imdb_rating_average": 8.1,
-    "update_at": "2025-05-28T20:35:17"
+    "update_at": "2026-11-27T06:14:06"
 }

@@ -4,7 +4,7 @@
     "name": "My Generation G... G... Gap",
     "site": "imdb",
     "year": "2004",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Animation",
         "Comedy",
@@ -13,66 +13,116 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0048389/",
-            "name": "Dee Bradley Baker"
+            "name": "Dee Bradley Baker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0048389/",
+            "name": "Dee Bradley Baker",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0048389/",
+            "name": "Dee Bradley Baker",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0074036/",
-            "name": "Bob Bergen"
+            "name": "Bob Bergen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0123354/",
-            "name": "Greg Burson"
+            "name": "Greg Burson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0278470/",
+            "name": "Kathryn Fiore",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0534134/",
+            "name": "Tress MacNeille",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0921942/",
+            "name": "Billy West",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0921942/",
+            "name": "Billy West",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTdiM2I0YzMtNzcxYi00OWNlLTkwYzktMjMyODMxM2U1ZDBkXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/7zKkO0BUEvqOIhyqXuejuoOzVvk.jpg",
     "details": {
+        "Stars": [
+            "Dee Bradley Baker",
+            "Dee Bradley Baker",
+            "Dee Bradley Baker"
+        ],
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Kyle Baker"
+        ],
+        "Runtime": [
+            "6 min"
+        ],
+        "Director": [
+            "Dan Povenmire"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "March 31, 2004 (Australia)"
+            "2004-03-30"
         ],
-        "Also known as": [
-            "Bre-bre-brecha generacional"
-        ],
-        "Country of origin": [
-            "United States"
-        ],
-        "Production company": [
+        "Production companies": [
+            "Warner Bros. Pictures",
             "Warner Bros. Animation"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2287036/",
-            "name": "Kyle Baker"
+            "name": "Kyle Baker",
+            "@type": "Person"
         }
     ],
     "duration": "PT6M",
-    "keywords": [
-        "porky pig character",
-        "rock concert",
-        "father daughter relationship",
-        "rock &apos;n&apos; roll",
-        "satire"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0693933/",
-            "name": "Dan Povenmire"
+            "name": "Dan Povenmire",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0381437/",
     "metascore": null,
-    "imdb_votes": 124,
+    "imdb_votes": 166,
     "popularity": 0,
-    "description": "Porky Pig tries to retrieve his daughter from a wild concert.",
-    "imdb_rating": "5.5/10 from 124 users",
-    "release_date": [],
-    "contentRating": "PG",
-    "datePublished": "2004-03-31",
-    "imdb_rating_average": 5.5,
-    "update_at": "2025-08-11T11:27:21"
+    "description": "We see Porky Pig taking his teenage daughter (Peta Pig) to a rock concert. When he realises just how wild the concert is, he will stop at nothing to get inside.",
+    "imdb_rating": "5.3/10 from 166 users",
+    "release_date": [
+        {
+            "date": "2004-03-30",
+            "country": "Australia"
+        }
+    ],
+    "contentRating": null,
+    "datePublished": "2004-03-30",
+    "original_title": "My Generation G... G... Gap",
+    "imdb_rating_average": 5.3,
+    "update_at": "2026-11-27T17:35:07"
 }

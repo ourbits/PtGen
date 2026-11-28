@@ -12,58 +12,84 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0589711/",
-            "name": "Spike Milligan"
+            "name": "Spike Milligan",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0293659/",
-            "name": "Paul Frees"
+            "name": "Paul Frees",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0293659/",
+            "name": "Paul Frees",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjYxZmQ3YzAtYzBiNi00YzQwLWFlNjgtYjc1NzBmYTljNTRkXkEyXkFqcGc@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/6lKBiiTiL4KwRPZbs9mpCC7puIK.jpg",
     "details": {
+        "Stars": [
+            "Spike Milligan",
+            "Paul Frees",
+            "Paul Frees"
+        ],
+        "Genres": [
+            "Animation",
+            "Family"
+        ],
+        "Runtime": [
+            "91 min"
+        ],
+        "Director": [
+            "Dean A. Berko",
+            "Christopher Padilla"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "May 27, 1977 (United States)"
+            "1977-05-27"
         ],
         "Country of origin": [
             "United States"
         ],
-        "Production company": [
+        "Production companies": [
             "Voyage Productions (II)"
         ]
     },
-    "reviews": 6,
+    "reviews": 0,
+    "tagline": "The greatest collection of animated films in the world!",
     "creators": [],
     "duration": "PT1H31M",
-    "keywords": [
-        "compilation of short films",
-        "compilation of animated films",
-        "claymation",
-        "rotoscoping",
-        "compilation film"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0075432/",
-            "name": "Dean A. Berko"
+            "name": "Dean A. Berko",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0655711/",
-            "name": "Christopher Padilla"
+            "name": "Christopher Padilla",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0241436/",
     "metascore": null,
-    "imdb_votes": 130,
+    "imdb_votes": 140,
     "popularity": 0,
-    "description": "A collection of fourteen award winning animated short films including &quot;Moonshadow,&quot; &quot;The Last Cartoon Man,&quot; &quot;Closed Mondays,&quot; and &quot;Cosmic Cartoon&quot;.",
-    "imdb_rating": "7/10 from 130 users",
-    "release_date": [],
+    "description": "A collection of fourteen award winning animated short films including \"Moonshadow,\" \"The Last Cartoon Man,\" \"Closed Mondays,\" and \"Cosmic Cartoon\".",
+    "imdb_rating": "7.0/10 from 140 users",
+    "release_date": [
+        {
+            "date": "1977-05-27",
+            "country": "United States"
+        }
+    ],
     "contentRating": "PG",
     "datePublished": "1977-05-27",
-    "imdb_rating_average": 7,
-    "update_at": "2025-09-01T01:35:29"
+    "original_title": "Fantastic Animation Festival",
+    "imdb_rating_average": 7.0,
+    "update_at": "2026-11-27T19:14:08"
 }

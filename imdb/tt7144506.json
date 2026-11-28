@@ -4,63 +4,83 @@
     "name": "Wild Tides",
     "site": "imdb",
     "year": "2017",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm6259150/",
-            "name": "Bo-Yan Liao"
+            "name": "Bo-Yan Liao",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzdhMGZjNGMtYTUzYy00YzFiLWEyOTMtZjdlZDRiZTA5ZDU5XkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/h7Sy9uTrhB0C16PK0JBle0voCNq.jpg",
     "details": {
+        "Stars": [
+            "Bo-Yan Liao"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Chia-Ping Chen",
+            "Po-shun Lu"
+        ],
+        "Runtime": [
+            "25 min"
+        ],
+        "Director": [
+            "Po-shun Lu"
+        ],
         "Language": [
-            "Min Nan"
+            "Chinese"
         ],
         "Release date": [
-            "March 17, 2017 (Hong Kong)"
-        ],
-        "Official site": [
-            "Official Facebook - https://www.facebook.com/tidesinwild/"
-        ],
-        "Country of origin": [
-            "Taiwan"
+            "2017-07-09"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm8819994/",
-            "name": "Chia-Ping Chen"
+            "name": "Chia-Ping Chen",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm8785358/",
-            "name": "Po-shun Lu"
+            "name": "Po-shun Lu",
+            "@type": "Person"
         }
     ],
     "duration": "PT25M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm8785358/",
-            "name": "Po-shun Lu"
+            "name": "Po-shun Lu",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt7144506/",
     "metascore": null,
-    "imdb_votes": 17,
+    "imdb_votes": 19,
     "popularity": 0,
-    "description": "In the village, the boy offers help but is turned down by everyone. Later his friend asks him to help on their fish farm and take the motor to the neighbouring village afterwards. But he loses the key and is determined to find it ...",
-    "imdb_rating": "6.6/10 from 17 users",
-    "release_date": [],
+    "description": "In the village, the boy offers help but is turned down by everyone. Later his friend asks him to help on their fish farm and take the motor to the neighbouring village afterwards. But he loses the key and is determined to find it although the tide is coming in.",
+    "imdb_rating": "6.5/10 from 19 users",
+    "release_date": [
+        {
+            "date": "2017-07-09",
+            "country": "Taiwan"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2017-03-17",
-    "imdb_rating_average": 6.6,
-    "update_at": "2025-07-26T20:49:10"
+    "datePublished": "2017-07-09",
+    "original_title": "Wild Tides",
+    "imdb_rating_average": 6.5,
+    "update_at": "2026-11-28T00:28:22"
 }

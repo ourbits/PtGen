@@ -1,71 +1,84 @@
 {
-    "aka": [],
+    "aka": [
+        {
+            "title": "Paul McCartney: Wingspan",
+            "country": "United States"
+        }
+    ],
     "sid": "tt0281372",
     "name": "Wingspan",
     "site": "imdb",
     "year": "2001",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
-        "Documentary",
         "Biography",
+        "Documentary",
         "Music"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0005200/",
-            "name": "Paul McCartney"
+            "name": "Paul McCartney",
+            "@type": "Person"
         },
         {
-            "url": "https://www.imdb.com/name/nm0481836/",
-            "name": "Denny Laine"
-        },
-        {
-            "url": "https://www.imdb.com/name/nm1221789/",
-            "name": "Denny Seiwell"
+            "url": "https://www.imdb.com/name/nm0565363/",
+            "name": "Heather McCartney",
+            "@type": "Person"
         }
     ],
-    "critic": 1,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTE3MTcyMV5BMl5BanBnXkFtZTcwMzEyNTkxMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/tqTZSSny7MM6oGQTNDZ0zIPy8P7.jpg",
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Paul McCartney",
+            "Heather McCartney"
+        ],
+        "Genres": [
+            "Biography",
+            "Documentary",
+            "Music"
+        ],
+        "Runtime": [
+            "120 min"
+        ],
+        "Director": [
+            "Alistair Donald"
         ],
         "Release date": [
-            "May 11, 2001 (United States)"
+            "2001-05-11"
         ],
-        "Official site": [
-            "Official site - http://www.paulmccartney.com/wings.htm"
-        ],
-        "Production company": [
+        "Production companies": [
             "MPL Communications"
-        ],
-        "Countries of origin": [
-            "United States",
-            "United Kingdom"
         ]
     },
-    "reviews": 5,
+    "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": "PT2H",
-    "keywords": [
-        "musician",
-        "rock music"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0232009/",
-            "name": "Alistair Donald"
+            "name": "Alistair Donald",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0281372/",
     "metascore": null,
-    "imdb_votes": 209,
+    "imdb_votes": 234,
     "popularity": 0,
-    "description": "The story of Paul McCartney&apos;s post-Beatles musical career, encompassing the Wings era.",
-    "imdb_rating": "7.9/10 from 209 users",
-    "release_date": [],
+    "description": "When the most famous and influential pop band in the world, the Beatles, broke up in 1970, hardly anyone expected that resident heartthrob Paul McCartney could follow up with another highly successful rock band. With the formation of Wings, however, Paul and his wife Linda did just that. WINGSPAN is a riveting documentary look at McCartney's labor of love which combines a musical history with the McCartney family history. Through rare behind-the-scenes footage, home movies, and intimate family photos, the story of the band who dared to write \"Jet\" unfolds.",
+    "imdb_rating": "7.9/10 from 234 users",
+    "release_date": [
+        {
+            "date": "2001-05-11",
+            "country": "United States"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2001-05-11",
+    "original_title": "Wingspan",
     "imdb_rating_average": 7.9,
-    "update_at": "2025-05-25T03:28:04"
+    "update_at": "2026-11-27T14:07:21"
 }

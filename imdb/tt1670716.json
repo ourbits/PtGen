@@ -4,7 +4,7 @@
     "name": "Tod einer Schülerin",
     "site": "imdb",
     "year": "2010",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Crime",
         "Drama"
@@ -12,74 +12,139 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0104966/",
-            "name": "Matthias Brandt"
+            "name": "Matthias Brandt",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0362896/",
-            "name": "Corinna Harfouch"
+            "name": "Corinna Harfouch",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1433005/",
-            "name": "Adrian Topol"
+            "name": "Adrian Topol",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3940733/",
+            "name": "Max Dominik",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0933740/",
+            "name": "Lavinia Wilson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0503479/",
+            "name": "Peter Lerchbaumer",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3546045/",
+            "name": "Laura Berlin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0088744/",
+            "name": "Kirsten Block",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0374481/",
+            "name": "Jürgen Heinrich",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0350351/",
+            "name": "Robert Gwisdek",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDRmMWZlODEtMzNjOC00ZjBmLWFjYzItN2YyMDY2MjNhZjUzXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/35L954t79EhjlmZKQdM5AIqDY98.jpg",
     "details": {
+        "Stars": [
+            "Matthias Brandt",
+            "Corinna Harfouch",
+            "Adrian Topol"
+        ],
+        "Genres": [
+            "Crime",
+            "Drama"
+        ],
+        "Writer": [
+            "Ulrich Woelk",
+            "Silke Zertz"
+        ],
+        "Runtime": [
+            "90 min"
+        ],
+        "Director": [
+            "Mark Schlichter"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "October 4, 2010 (Germany)"
-        ],
-        "Also known as": [
-            "Der Test"
+            "2010-10-04"
         ],
         "Country of origin": [
             "Germany"
         ],
-        "Filming locations": [
-            "Berlin, Germany"
-        ],
         "Production companies": [
-            "Zweites Deutsches Fernsehen (ZDF)",
-            "teamWorx Television & Film"
+            "ZDF",
+            "teamWorx"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1871209/",
-            "name": "Ulrich Woelk"
+            "name": "Ulrich Woelk",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0996052/",
-            "name": "Silke Zertz"
+            "name": "Silke Zertz",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H30M",
     "keywords": [
-        "death",
-        "police chopper",
         "police",
         "darkness",
-        "classroom"
+        "classroom",
+        "teacher",
+        "murder",
+        "teenage girl",
+        "dead woman",
+        "couple",
+        "death"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0772325/",
-            "name": "Mark Schlichter"
+            "name": "Mark Schlichter",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1670716/",
     "metascore": null,
-    "imdb_votes": 108,
+    "imdb_votes": 109,
     "popularity": 0,
-    "description": "When promiscuous student Katja is murdered the detectives hone in on her teacher Alex who claims he is innocent though he confesses to his wife Susanne that he had an affair with the girl. But if Alex did not kill her who did?",
-    "imdb_rating": "6.5/10 from 108 users",
-    "release_date": [],
+    "description": "Alex Berger, a respected teacher, is shaken when a student he once slept with is found murdered by a lakeside in his small Brandenburg town, prompting police to order mass DNA testing. As detectives close in, Alex confesses the affair to his wife but insists he’s innocent of the murder, while the strain threatens to tear his family apart.",
+    "imdb_rating": "6.5/10 from 109 users",
+    "release_date": [
+        {
+            "date": "2010-10-04",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2010-10-04",
+    "original_title": "Tod einer Schülerin",
     "imdb_rating_average": 6.5,
-    "update_at": "2025-06-24T18:15:29"
+    "update_at": "2026-11-27T18:56:26"
 }

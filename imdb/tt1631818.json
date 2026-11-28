@@ -4,59 +4,84 @@
     "name": "Stimmen",
     "site": "imdb",
     "year": "2008",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1907306/",
-            "name": "Stephan Möller-Titel"
+            "name": "Stephan Möller-Titel",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2068730/",
-            "name": "Greta Galisch de Palma"
+            "name": "Greta Galisch de Palma",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2863615/",
-            "name": "Sabine Fürst"
+            "name": "Sabine Fürst",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1830741/",
+            "name": "Elisabeth Hart",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm3862550/",
+            "name": "Grit Schuhmacher",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1456214/",
+            "name": "Stefan Wancura",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "German"
+        "Stars": [
+            "Stephan Möller-Titel",
+            "Greta Galisch de Palma",
+            "Sabine Fürst"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Klaus-Gregor Eichhorn"
+        ],
+        "Runtime": [
+            "35 min"
+        ],
+        "Director": [
+            "Klaus-Gregor Eichhorn"
         ],
         "Release date": [
-            "May 24, 2008 (Germany)"
-        ],
-        "Country of origin": [
-            "Germany"
-        ],
-        "Filming locations": [
-            "Chemnitz, Saxony, Germany"
-        ],
-        "Production company": [
-            "Chemnitzer Filmwerkstatt e.V."
+            "2008"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0251528/",
-            "name": "Klaus-Gregor Eichhorn"
+            "name": "Klaus-Gregor Eichhorn",
+            "@type": "Person"
         }
     ],
     "duration": "PT35M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0251528/",
-            "name": "Klaus-Gregor Eichhorn"
+            "name": "Klaus-Gregor Eichhorn",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1631818/",
@@ -67,7 +92,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2008-05-24",
+    "datePublished": "2008",
+    "original_title": "Stimmen",
     "imdb_rating_average": 0,
-    "update_at": "2026-05-13T02:21:22"
+    "update_at": "2026-11-27T21:56:13"
 }

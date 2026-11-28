@@ -4,47 +4,48 @@
     "name": "FIFA Club World Cup UAE 2009",
     "site": "imdb",
     "year": "2019",
-    "@type": "TVSeries",
+    "@type": "TVMiniSeries",
     "genre": [
         "Sport"
     ],
     "actors": [
         {
-            "url": "https://www.imdb.com/name/nm8532013/",
-            "name": "FC Barcelona"
-        },
-        {
             "url": "https://www.imdb.com/name/nm10643207/",
-            "name": "Estudiantes de La Plata"
+            "name": "Estudiantes de La Plata",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm11577520/",
-            "name": "Atlante F.C."
+            "name": "Atlante F.C.",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm8532013/",
+            "name": "FC Barcelona",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Estudiantes de La Plata",
+            "Atlante F.C.",
+            "FC Barcelona"
+        ],
+        "Genres": [
+            "Sport"
         ],
         "Release date": [
-            "December 9, 2019 (United Arab Emirates)"
-        ],
-        "Country of origin": [
-            "United Arab Emirates"
-        ],
-        "Production company": [
-            "FIFA"
+            "2019"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
     "duration": null,
-    "keywords": [
-        "tv mini series",
-        "fifa club world cup"
-    ],
+    "keywords": [],
+    "directors": [],
     "imdb_link": "https://www.imdb.com/title/tt28074003/",
     "metascore": null,
     "imdb_votes": 0,
@@ -53,7 +54,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "2019-12-09",
+    "datePublished": "2019",
+    "original_title": "FIFA Club World Cup UAE 2009",
     "imdb_rating_average": 0,
-    "update_at": "2026-02-18T01:00:25"
+    "update_at": "2026-11-27T16:07:41"
 }

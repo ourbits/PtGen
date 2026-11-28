@@ -4,7 +4,7 @@
     "name": "The Stingiest Man in Town",
     "site": "imdb",
     "year": "1978",
-    "@type": "Movie",
+    "@type": "TVMovie",
     "genre": [
         "Animation",
         "Drama",
@@ -13,80 +13,158 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0000527/",
-            "name": "Walter Matthau"
+            "name": "Walter Matthau",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0098014/",
-            "name": "Tom Bosley"
+            "name": "Tom Bosley",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0000942/",
-            "name": "Theodore Bikel"
+            "name": "Theodore Bikel",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0607666/",
+            "name": "Robert Morse",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0206376/",
+            "name": "Dennis Day",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0293659/",
+            "name": "Paul Frees",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0293659/",
+            "name": "Paul Frees",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0293659/",
+            "name": "Paul Frees",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0577608/",
+            "name": "Sonny Melendrez",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0166895/",
+            "name": "Debra Clinger",
+            "@type": "Person"
         }
     ],
-    "critic": 4,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTM3MDU3MzI1MF5BMl5BanBnXkFtZTcwNzkzNjAwMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/9fg5lZyW2FPMLAnaYoGFEVyJrS8.jpg",
     "details": {
+        "Stars": [
+            "Walter Matthau",
+            "Tom Bosley",
+            "Theodore Bikel"
+        ],
+        "Genres": [
+            "Animation",
+            "Drama",
+            "Family"
+        ],
+        "Writer": [
+            "Janice Torre",
+            "Romeo Muller",
+            "Charles Dickens"
+        ],
+        "Runtime": [
+            "49 min"
+        ],
+        "Director": [
+            "Jules Bass",
+            "Arthur Rankin Jr."
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "December 23, 1978 (United States)"
+            "1978-12-23"
         ],
-        "Also known as": [
-            "町一番のけちんぼう"
-        ],
-        "Countries of origin": [
-            "United States",
-            "Japan"
+        "Country of origin": [
+            "Japan",
+            "United States"
         ],
         "Production companies": [
             "Rankin/Bass Productions",
             "Topcraft"
         ]
     },
-    "reviews": 14,
+    "reviews": 0,
+    "tagline": "Meet Scrooge...",
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0868377/",
-            "name": "Janice Torre"
+            "name": "Janice Torre",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0612239/",
-            "name": "Romeo Muller"
+            "name": "Romeo Muller",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0002042/",
-            "name": "Charles Dickens"
+            "name": "Charles Dickens",
+            "@type": "Person"
         }
     ],
     "duration": "PT49M",
     "keywords": [
-        "ghost",
-        "miser",
-        "christmas carol",
-        "2d animation",
-        "bug"
+        "based on novel or book",
+        "magic",
+        "holiday",
+        "charity",
+        "uncle nephew relationship",
+        "employer employee relationship",
+        "christmas spirit",
+        "christmas",
+        "drastic change of life",
+        "talking animal",
+        "fantasy",
+        "animation",
+        "ghost story for christmas",
+        "forgiveness and reconciliation"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0060072/",
-            "name": "Jules Bass"
+            "name": "Jules Bass",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0710230/",
-            "name": "Arthur Rankin Jr."
+            "name": "Arthur Rankin Jr.",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0227562/",
     "metascore": null,
-    "imdb_votes": 629,
+    "imdb_votes": 723,
     "popularity": 0,
-    "description": "This version of the story is told from the perspective of B.A.H. Humbug. After Ebenezer Scrooge refuses to assist the poor or have Christmas Dinner with his nephew, he is visited by the ghost of his one time business partner and f...",
-    "imdb_rating": "6.5/10 from 629 users",
-    "release_date": [],
-    "contentRating": "TV-PG",
+    "description": "An animated adaptation of A Christmas Carol from Arthur Rankin Jr. and Jules Bass -- the duo behind some of the most enduring Christmas specials ever (including Rudolph the Red-Nosed Reindeer). Reinvented as a 49-minute musical, this charming cartoon stars the voice of Walter Matthau as the bedeviled Scrooge and Tom Bosley as the Jiminy Cricket-type narrator, B. Humbug, Esq. It features animation by Japanese studio Topcraft, known for their work on other Rankin/Bass films such as The Hobbit, The Flight of Dragons, and The Last Unicorn.",
+    "imdb_rating": "6.4/10 from 723 users",
+    "release_date": [
+        {
+            "date": "1978-12-23",
+            "country": "United States"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "1978-12-23",
-    "imdb_rating_average": 6.5,
-    "update_at": "2025-07-05T10:07:27"
+    "original_title": "The Stingiest Man in Town",
+    "imdb_rating_average": 6.4,
+    "update_at": "2026-11-27T14:14:08"
 }

@@ -3,58 +3,68 @@
     "sid": "tt0455319",
     "name": "Die alte Schere",
     "site": "imdb",
-    "@type": "Movie",
+    "year": "1916",
+    "@type": "Short",
     "genre": [
         "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0726020/",
-            "name": "Nelly Ridon"
+            "name": "Nelly Ridon",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1728998/",
-            "name": "Hedwig Wiese"
+            "name": "Hedwig Wiese",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0937041/",
-            "name": "Emil Wittig"
+            "name": "Emil Wittig",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "None"
+        "Stars": [
+            "Nelly Ridon",
+            "Hedwig Wiese",
+            "Emil Wittig"
+        ],
+        "Genres": [
+            "Short"
+        ],
+        "Writer": [
+            "Luise del Zopp"
+        ],
+        "Director": [
+            "Rudolf Del Zopp"
         ],
         "Release date": [
-            "July 1916 (Germany)"
-        ],
-        "Also known as": [
-            "Eva und Martha"
+            "1916-01-01"
         ],
         "Country of origin": [
             "Germany"
-        ],
-        "Production company": [
-            "Eiko Film GmbH"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm1818289/",
-            "name": "Luise del Zopp"
+            "name": "Luise del Zopp",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0216031/",
-            "name": "Rudolf Del Zopp"
+            "name": "Rudolf Del Zopp",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0455319/",
@@ -63,9 +73,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1916-01-01",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
-    "datePublished": null,
+    "datePublished": "1916-01-01",
+    "original_title": "Die alte Schere",
     "imdb_rating_average": 0,
-    "update_at": "2025-09-16T19:56:20"
+    "update_at": "2026-11-27T03:49:14"
 }

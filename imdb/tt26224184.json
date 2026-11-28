@@ -4,7 +4,7 @@
     "name": "That Day, on the River",
     "site": "imdb",
     "year": "2023",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Documentary",
         "Short"
@@ -12,53 +12,88 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm14462570/",
-            "name": "Lei Jiaqi"
+            "name": "Lei Jiaqi",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm5794645/",
-            "name": "Lei Lei"
+            "name": "Lei Lei",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm14547054/",
-            "name": "Yue Lu"
+            "name": "Yue Lu",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzlhYzk4MmUtMjA3MS00MjRkLTk3NDAtMmVmZGNlMWY1N2IzXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/aHNSLwEOUlRqiq3u6KvTmuoznMp.jpg",
     "details": {
+        "Stars": [
+            "Lei Jiaqi",
+            "Lei Lei",
+            "Yue Lu"
+        ],
+        "Genres": [
+            "Documentary",
+            "Short"
+        ],
+        "Writer": [
+            "Lei Lei"
+        ],
+        "Runtime": [
+            "39 min"
+        ],
+        "Director": [
+            "Lei Lei"
+        ],
+        "Language": [
+            "Chinese"
+        ],
         "Release date": [
-            "February 19, 2023 (Germany)"
+            "2023-02-16"
         ],
         "Country of origin": [
             "China"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm5794645/",
-            "name": "Lei Lei"
+            "name": "Lei Lei",
+            "@type": "Person"
         }
     ],
     "duration": "PT39M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm5794645/",
-            "name": "Lei Lei"
+            "name": "Lei Lei",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt26224184/",
     "metascore": null,
     "imdb_votes": 5,
     "popularity": 0,
-    "description": "Searching for the house his father grew up in childhood rural China using a mix of found footage, collage, and animation techniques: a moving account of all the things the father thinks he was not good at.",
+    "description": "Searching for the house his father grew up in, director Lei Lei charts the story of a childhood in rural China using a mix of found footage, collage, and animation techniques: a moving account of all the things the father thinks he was not good at.",
     "imdb_rating": "6.4/10 from 5 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2023-02-16",
+            "country": "Germany"
+        },
+        {
+            "date": "2023-09-16",
+            "country": "South Korea"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "2023-02-19",
+    "datePublished": "2023-02-16",
+    "original_title": "That Day, on the River",
     "imdb_rating_average": 6.4,
-    "update_at": "2025-04-12T06:22:41"
+    "update_at": "2026-11-27T16:29:22"
 }

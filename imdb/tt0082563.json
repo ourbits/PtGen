@@ -5,65 +5,126 @@
     "site": "imdb",
     "year": "1981",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Comedy"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0753641/",
-            "name": "Lena Ræder"
+            "name": "Lena Ræder",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0391502/",
-            "name": "Hannes Holm"
+            "name": "Hannes Holm",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0266143/",
-            "name": "Gunnar Falk"
+            "name": "Gunnar Falk",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0061171/",
+            "name": "Nadala Batiste",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0147439/",
+            "name": "José María Cañete",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0418284/",
+            "name": "Marianne Jansson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0418861/",
+            "name": "Francisco Jarque",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0499689/",
+            "name": "Friedhelm Lehmann",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0899920/",
+            "name": "Leon Vitali",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjYxMDIzZWUtZTBiNC00YmYxLTk5MDctNzRjN2EwZWRhZDJhXkEyXkFqcGc@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/4cCoGI4NkCHpmFXfcwu3UKCptfP.jpg",
     "details": {
+        "Stars": [
+            "Lena Ræder",
+            "Hannes Holm",
+            "Gunnar Falk"
+        ],
+        "Genres": [
+            "Comedy"
+        ],
+        "Writer": [
+            "Birgitta Svensson"
+        ],
+        "Runtime": [
+            "106 min"
+        ],
+        "Director": [
+            "Birgitta Svensson"
+        ],
+        "Language": [
+            "Swedish"
+        ],
         "Release date": [
-            "February 9, 1981 (Sweden)"
+            "1981-02-09"
         ],
         "Country of origin": [
             "Sweden"
         ],
         "Production companies": [
             "Drakfilm Produktion",
-            "Institut del Cinema Català (ICC)",
-            "SVT Drama"
+            "FICC",
+            "SVT Drama",
+            "Svenska Filminstitutet",
+            "SF Studios"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0841106/",
-            "name": "Birgitta Svensson"
+            "name": "Birgitta Svensson",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H46M",
-    "keywords": [
-        "love",
-        "interrail",
-        "train travel",
-        "f rated"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0841106/",
-            "name": "Birgitta Svensson"
+            "name": "Birgitta Svensson",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0082563/",
     "metascore": null,
-    "imdb_votes": 19,
+    "imdb_votes": 22,
     "popularity": 0,
-    "description": "Eva is inter railing through Europe to meet her boyfriend Klaus in Amsterdam and then travel on to Spain. On the way, Bosse she joins and eventually falls in love with Eva.",
-    "imdb_rating": "4.9/10 from 19 users",
-    "release_date": [],
+    "description": "Eva is 18 years old and decides to go inter railing through Europe after she has finished school. She has decided to meet up with Klaus in Amsterdam but things get more complicated when she meets Bosse on the way.",
+    "imdb_rating": "4.8/10 from 22 users",
+    "release_date": [
+        {
+            "date": "1981-02-09",
+            "country": "Sweden"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1981-02-09",
-    "imdb_rating_average": 4.9,
-    "update_at": "2025-09-15T08:13:14"
+    "original_title": "Inter Rail",
+    "imdb_rating_average": 4.8,
+    "update_at": "2026-11-27T05:28:24"
 }

@@ -4,7 +4,7 @@
     "name": "Between Meals",
     "site": "imdb",
     "year": "1926",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Comedy",
         "Short"
@@ -12,55 +12,95 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0663613/",
-            "name": "James Parrott"
+            "name": "James Parrott",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0425409/",
-            "name": "Ernest Morrison"
+            "name": "Ernest Morrison",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0746516/",
-            "name": "George Rowe"
+            "name": "George Rowe",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0428753/",
+            "name": "Mark Jones",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0110393/",
+            "name": "Ethel Broadhurst",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0525174/",
+            "name": "Sam Lufkin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0707814/",
+            "name": "Jobyna Ralston",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjA2MDRjNmMtN2JjMi00MGQ4LTlmNjktNDlmZWYzODgxYzgzXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Languages": [
-            "None",
-            "English"
+        "Stars": [
+            "James Parrott",
+            "Ernest Morrison",
+            "George Rowe"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Runtime": [
+            "10 min"
+        ],
+        "Director": [
+            "Ray Grey"
         ],
         "Release date": [
-            "January 3, 1926 (United States)"
+            "1926-01-03"
         ],
         "Country of origin": [
             "United States"
         ],
-        "Production company": [
+        "Production companies": [
             "Hal Roach Studios"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
-    "duration": null,
-    "keywords": [
-        ""
-    ],
+    "duration": "PT10M",
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0336894/",
-            "name": "Ray Grey"
+            "name": "Ray Grey",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0416539/",
     "metascore": null,
-    "imdb_votes": 13,
+    "imdb_votes": 8,
     "popularity": 0,
-    "description": "Paul and his little pal &quot;Sunshine Sammy&quot; are traveling across the continent and their arrival in a small town is disclosed by the opening of a man hole cover on the top of an empty tank car. Not having much coin of the realm, the ...",
-    "imdb_rating": "5.3/10 from 13 users",
-    "release_date": [],
+    "description": "James Parrott & Ernest Morrison gets chased around a lot. Filmed in 1921 and copyrighted in 1922, but not released until 1926.",
+    "imdb_rating": "5.8/10 from 8 users",
+    "release_date": [
+        {
+            "date": "1926-01-03",
+            "country": "United States"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1926-01-03",
-    "imdb_rating_average": 5.3,
-    "update_at": "2025-07-24T02:30:15"
+    "original_title": "Between Meals",
+    "imdb_rating_average": 5.8,
+    "update_at": "2026-11-27T09:28:09"
 }

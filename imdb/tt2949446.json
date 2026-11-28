@@ -4,71 +4,115 @@
     "name": "Lay Me Down",
     "site": "imdb",
     "year": "2014",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
-        "Short",
-        "Drama"
+        "Drama",
+        "Short"
     ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm1875238/",
-            "name": "Jessica Barden"
+            "name": "Jessica Barden",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm2806024/",
-            "name": "Eleanor Gecks"
+            "name": "Eleanor Gecks",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0212567/",
-            "name": "Brian Deacon"
+            "name": "Brian Deacon",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2195685/",
+            "name": "Nicholas Keith",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2507221/",
+            "name": "Clive Myrie",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm2043349/",
+            "name": "Adam Ratcliffe",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQwODMzMTc3Ml5BMl5BanBnXkFtZTgwNjY0NjcwMDE@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/rJpCLCZZBABIi25qDPs2aUVuFdW.jpg",
     "details": {
+        "Stars": [
+            "Jessica Barden",
+            "Eleanor Gecks",
+            "Brian Deacon"
+        ],
+        "Genres": [
+            "Drama",
+            "Short"
+        ],
+        "Writer": [
+            "Eleanor Gecks",
+            "Lucy Tcherniak"
+        ],
+        "Runtime": [
+            "12 min"
+        ],
+        "Director": [
+            "Lucy Tcherniak"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "January 19, 2014 (United Kingdom)"
+            "2014-01-19"
         ],
         "Country of origin": [
             "United Kingdom"
-        ],
-        "Production company": [
-            "Run Rabbit Films"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm2806024/",
-            "name": "Eleanor Gecks"
+            "name": "Eleanor Gecks",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm3370884/",
-            "name": "Lucy Tcherniak"
+            "name": "Lucy Tcherniak",
+            "@type": "Person"
         }
     ],
     "duration": "PT12M",
     "keywords": [
-        ""
+        "woman director"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm3370884/",
-            "name": "Lucy Tcherniak"
+            "name": "Lucy Tcherniak",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2949446/",
     "metascore": null,
-    "imdb_votes": 16,
+    "imdb_votes": 19,
     "popularity": 0,
     "description": "A curious relationship between two girls and the dark secret that binds them.",
-    "imdb_rating": "5.5/10 from 16 users",
-    "release_date": [],
-    "contentRating": "TV-MA",
+    "imdb_rating": "5.5/10 from 19 users",
+    "release_date": [
+        {
+            "date": "2014-01-19",
+            "country": "United Kingdom"
+        }
+    ],
+    "contentRating": null,
     "datePublished": "2014-01-19",
+    "original_title": "Lay Me Down",
     "imdb_rating_average": 5.5,
-    "update_at": "2025-07-02T11:52:26"
+    "update_at": "2026-11-27T14:56:09"
 }

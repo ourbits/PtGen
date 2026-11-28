@@ -4,58 +4,124 @@
     "name": "De fil en aiguille",
     "site": "imdb",
     "year": "1960",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [
+        "Comedy",
+        "Romance",
+        "TV Movie"
+    ],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0845393/",
-            "name": "Gérard Séty"
+            "name": "Gérard Séty",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0634159/",
-            "name": "Philippe Noiret"
+            "name": "Philippe Noiret",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0477742/",
-            "name": "Jean-Pierre Kérien"
+            "name": "Jean-Pierre Kérien",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0308888/",
+            "name": "Micheline Gary",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0054675/",
+            "name": "Simone Barillier",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0547440/",
+            "name": "Christian Marin",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1621083/",
+            "name": "Roger Pera",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0273876/",
+            "name": "Michel Ferrand",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm1135412/",
+            "name": "Serge Bossac",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0897632/",
+            "name": "Marco Villa",
+            "@type": "Person"
         }
     ],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/iBv3Q5FNnXQ8YvZ07E23IQBli03.jpg",
     "details": {
+        "Stars": [
+            "Gérard Séty",
+            "Philippe Noiret",
+            "Jean-Pierre Kérien"
+        ],
+        "Genres": [
+            "Comedy",
+            "Romance",
+            "TV Movie"
+        ],
+        "Writer": [
+            "René Clair",
+            "André Gillois",
+            "Jérôme Géronimi"
+        ],
+        "Director": [
+            "Lazare Iglesis"
+        ],
         "Language": [
             "French"
         ],
         "Release date": [
-            "November 20, 1960 (France)"
+            "1960-11-20"
         ],
         "Country of origin": [
             "France"
+        ],
+        "Production companies": [
+            "Radio-Télévision Française"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0163229/",
-            "name": "René Clair"
+            "name": "René Clair",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0224545/",
-            "name": "André Gillois"
+            "name": "André Gillois",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0167242/",
-            "name": "Jérôme Géronimi"
+            "name": "Jérôme Géronimi",
+            "@type": "Person"
         }
     ],
     "duration": null,
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0407157/",
-            "name": "Lazare Iglesis"
+            "name": "Lazare Iglesis",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0309499/",
@@ -64,9 +130,15 @@
     "popularity": 0,
     "description": null,
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "1960-11-20",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1960-11-20",
+    "original_title": "De fil en aiguille",
     "imdb_rating_average": 0,
-    "update_at": "2025-06-22T23:39:08"
+    "update_at": "2026-11-27T12:14:33"
 }

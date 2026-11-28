@@ -4,57 +4,74 @@
     "name": "Camping Out",
     "site": "imdb",
     "year": "1932",
-    "@type": "Movie",
+    "@type": "Short",
     "genre": [
         "Animation",
         "Short"
     ],
+    "actors": [],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/nr9FiilJXfVVC1xo6RM6DWz5URm.jpg",
     "details": {
+        "Genres": [
+            "Animation",
+            "Short"
+        ],
+        "Writer": [
+            "Dick Huemer"
+        ],
+        "Runtime": [
+            "7 min"
+        ],
+        "Director": [
+            "Dick Huemer"
+        ],
         "Language": [
             "English"
         ],
         "Release date": [
-            "August 10, 1932 (United States)"
+            "1932-08-09"
         ],
         "Country of origin": [
             "United States"
         ],
-        "Production company": [
+        "Production companies": [
             "Charles Mintz Productions"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0400056/",
-            "name": "Dick Huemer"
+            "name": "Dick Huemer",
+            "@type": "Person"
         }
     ],
     "duration": "PT7M",
-    "keywords": [
-        "blackface",
-        "bellows",
-        "washboard",
-        "turtle",
-        "tree"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0400056/",
-            "name": "Dick Huemer"
+            "name": "Dick Huemer",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0150025/",
     "metascore": null,
-    "imdb_votes": 25,
+    "imdb_votes": 26,
     "popularity": 0,
-    "description": "A Columbia animated short. Scrappy and Oopie go camping.",
-    "imdb_rating": "4.9/10 from 25 users",
-    "release_date": [],
+    "description": "Scrappy, his little brother, and the dog take the car and drive to the camping grounds.",
+    "imdb_rating": "5.1/10 from 26 users",
+    "release_date": [
+        {
+            "date": "1932-08-09",
+            "country": "United States"
+        }
+    ],
     "contentRating": null,
-    "datePublished": "1932-08-10",
-    "imdb_rating_average": 4.9,
-    "update_at": "2025-05-22T11:11:55"
+    "datePublished": "1932-08-09",
+    "original_title": "Camping Out",
+    "imdb_rating_average": 5.1,
+    "update_at": "2026-11-27T08:00:47"
 }

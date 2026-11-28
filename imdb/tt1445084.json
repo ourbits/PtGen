@@ -4,57 +4,78 @@
     "name": "Pedon kuva",
     "site": "imdb",
     "year": "1965",
-    "@type": "Movie",
-    "genre": null,
+    "@type": "TVMovie",
+    "genre": [],
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0649363/",
-            "name": "Matti Oravisto"
+            "name": "Matti Oravisto",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0802965/",
-            "name": "Pehr-Olof Sirén"
+            "name": "Pehr-Olof Sirén",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0489864/",
-            "name": "Iris-Lilja Lassila"
+            "name": "Iris-Lilja Lassila",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0464760/",
+            "name": "Keijo Komppa",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0904897/",
+            "name": "Emma Väänänen",
+            "@type": "Person"
         }
     ],
     "critic": 0,
     "poster": null,
     "details": {
-        "Language": [
-            "Finnish"
+        "Stars": [
+            "Matti Oravisto",
+            "Pehr-Olof Sirén",
+            "Iris-Lilja Lassila"
+        ],
+        "Writer": [
+            "Tore Zetterholm",
+            "Brita Polttila"
+        ],
+        "Runtime": [
+            "75 min"
+        ],
+        "Director": [
+            "Mauno Hyvönen"
         ],
         "Release date": [
-            "May 5, 1965 (Finland)"
-        ],
-        "Country of origin": [
-            "Finland"
-        ],
-        "Production company": [
-            "Yleisradio (YLE)"
+            "1965"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0955194/",
-            "name": "Tore Zetterholm"
+            "name": "Tore Zetterholm",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm1142434/",
-            "name": "Brita Polttila"
+            "name": "Brita Polttila",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H15M",
-    "keywords": [
-        ""
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0405384/",
-            "name": "Mauno Hyvönen"
+            "name": "Mauno Hyvönen",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt1445084/",
@@ -65,7 +86,8 @@
     "imdb_rating": "0/10 from 0 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1965-05-05",
+    "datePublished": "1965",
+    "original_title": "Pedon kuva",
     "imdb_rating_average": 0,
-    "update_at": "2025-05-19T11:13:18"
+    "update_at": "2026-11-27T22:21:32"
 }

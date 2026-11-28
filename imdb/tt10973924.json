@@ -5,44 +5,58 @@
     "site": "imdb",
     "year": "2018",
     "@type": "Movie",
-    "genre": null,
+    "genre": [
+        "Documentary"
+    ],
+    "actors": [],
     "critic": 0,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/original/qXLhMrznG1EHx2T2m1TSRIfcBtY.jpg",
     "details": {
+        "Genres": [
+            "Documentary"
+        ],
+        "Director": [
+            "Oliver Page"
+        ],
         "Release date": [
-            "August 2, 2018 (France)"
+            "2018-08-02"
         ],
-        "Official site": [
-            "This is a link to the distributors website. - https://www.offthefence.com/Brand/2236/forgotten-forests-of-malaysia-the"
-        ],
-        "Country of origin": [
-            "United Kingdom"
-        ],
-        "Production company": [
-            "Backwards Roll Productions"
+        "Production companies": [
+            "France•5"
         ]
     },
     "reviews": 0,
+    "tagline": null,
     "creators": [],
-    "duration": null,
+    "duration": "PT53M",
     "keywords": [
-        ""
+        "malaysia",
+        "jungle",
+        "monkey",
+        "nature documentary"
     ],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm2896825/",
-            "name": "Oliver Page"
+            "name": "Oliver Page",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt10973924/",
     "metascore": null,
     "imdb_votes": 0,
     "popularity": 0,
-    "description": null,
+    "description": "Explore one of the most ancient forests on Earth through the eyes of its youngest inhabitants. Follow a baby proboscis monkey, translucent spiderlings, and a captivating orchid mantis from infancy to adulthood in this vibrant jungle world.",
     "imdb_rating": "0/10 from 0 users",
-    "release_date": [],
+    "release_date": [
+        {
+            "date": "2018-08-02",
+            "country": "France"
+        }
+    ],
     "contentRating": null,
     "datePublished": "2018-08-02",
+    "original_title": "Forgotten Forests of Malaysia",
     "imdb_rating_average": 0,
-    "update_at": "2025-08-17T04:52:14"
+    "update_at": "2026-11-28T02:00:27"
 }

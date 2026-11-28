@@ -4,43 +4,87 @@
     "name": "The Bus Stop",
     "site": "imdb",
     "year": "1991",
-    "@type": "Movie",
+    "@type": "TVShort",
     "genre": [
-        "Short",
-        "Comedy"
+        "Comedy",
+        "Short"
+    ],
+    "actors": [
+        {
+            "url": "https://www.imdb.com/name/nm0000100/",
+            "name": "Rowan Atkinson",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0003741/",
+            "name": "Robin Driscoll",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0956126/",
+            "name": "Matilda Ziegler",
+            "@type": "Person"
+        }
     ],
     "critic": 0,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmU5NmM3ZDItZjg2ZS00OWYwLThkMjEtZjU0NDlkODg5NjJiXkEyXkFqcGc@._V1_.jpg",
+    "poster": null,
     "details": {
-        "Language": [
-            "English"
+        "Stars": [
+            "Rowan Atkinson",
+            "Robin Driscoll",
+            "Matilda Ziegler"
+        ],
+        "Genres": [
+            "Comedy",
+            "Short"
+        ],
+        "Writer": [
+            "Richard Curtis",
+            "Thomas Szabo"
+        ],
+        "Runtime": [
+            "6 min"
+        ],
+        "Director": [
+            "Olivier Jean-Marie"
         ],
         "Release date": [
-            "November 15, 1991 (United Kingdom)"
-        ],
-        "Also known as": [
-            "Mr. Bean: The Bus Stop"
-        ],
-        "Country of origin": [
-            "United Kingdom"
+            "1991"
         ]
     },
-    "reviews": 1,
+    "reviews": 0,
+    "tagline": null,
+    "creators": [
+        {
+            "url": "https://www.imdb.com/name/nm0193485/",
+            "name": "Richard Curtis",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0843604/",
+            "name": "Thomas Szabo",
+            "@type": "Person"
+        }
+    ],
     "duration": "PT6M",
-    "keywords": [
-        "1990s",
-        "mr. bean character",
-        "dvd extra"
+    "keywords": [],
+    "directors": [
+        {
+            "url": "https://www.imdb.com/name/nm0419829/",
+            "name": "Olivier Jean-Marie",
+            "@type": "Person"
+        }
     ],
     "imdb_link": "https://www.imdb.com/title/tt2065480/",
     "metascore": null,
-    "imdb_votes": 1239,
+    "imdb_votes": 1321,
     "popularity": 0,
-    "description": "Mr. Bean tries to get first in line at the bus stop.",
-    "imdb_rating": "8/10 from 1239 users",
+    "description": null,
+    "imdb_rating": "8.0/10 from 1321 users",
     "release_date": [],
     "contentRating": null,
-    "datePublished": "1991-11-15",
-    "imdb_rating_average": 8,
-    "update_at": "2025-10-30T04:35:08"
+    "datePublished": "1991",
+    "original_title": "The Bus Stop",
+    "imdb_rating_average": 8.0,
+    "update_at": "2026-11-27T12:49:06"
 }

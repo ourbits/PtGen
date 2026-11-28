@@ -12,25 +12,81 @@
     "actors": [
         {
             "url": "https://www.imdb.com/name/nm0856917/",
-            "name": "Anna Thalbach"
+            "name": "Anna Thalbach",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0748964/",
-            "name": "Lars Rudolph"
+            "name": "Lars Rudolph",
+            "@type": "Person"
         },
         {
             "url": "https://www.imdb.com/name/nm0293802/",
-            "name": "Matthias Freihof"
+            "name": "Matthias Freihof",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0462871/",
+            "name": "Chajim Koenigshofen",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0146153/",
+            "name": "Bruno Cathomas",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0310699/",
+            "name": "Cathlen Gawlich",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0260245/",
+            "name": "Esther Esche",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0903961/",
+            "name": "Ulrich Voß",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0902550/",
+            "name": "Iris von Kluge",
+            "@type": "Person"
+        },
+        {
+            "url": "https://www.imdb.com/name/nm0761171/",
+            "name": "Herbert Sand",
+            "@type": "Person"
         }
     ],
-    "critic": 3,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTk0NTYwMzIwNF5BMl5BanBnXkFtZTcwMjUxNTAyMQ@@._V1_.jpg",
+    "critic": 0,
+    "poster": "https://image.tmdb.org/t/p/original/exqUcAHd9BvumW3mCpJWH7b7Cwl.jpg",
     "details": {
+        "Stars": [
+            "Anna Thalbach",
+            "Lars Rudolph",
+            "Matthias Freihof"
+        ],
+        "Genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "Writer": [
+            "Jan Ralske"
+        ],
+        "Runtime": [
+            "88 min"
+        ],
+        "Director": [
+            "Jan Ralske"
+        ],
         "Language": [
             "German"
         ],
         "Release date": [
-            "October 16, 1997 (Germany)"
+            "1997-10-16"
         ],
         "Country of origin": [
             "Germany"
@@ -38,38 +94,43 @@
         "Production companies": [
             "Deutsche Film- und Fernsehakademie Berlin (DFFB)",
             "Luna-Film",
-            "Mitteldeutscher Rundfunk (MDR)"
+            "MDR",
+            "Sender Freies Berlin"
         ]
     },
-    "reviews": 2,
+    "reviews": 0,
+    "tagline": null,
     "creators": [
         {
             "url": "https://www.imdb.com/name/nm0707791/",
-            "name": "Jan Ralske"
+            "name": "Jan Ralske",
+            "@type": "Person"
         }
     ],
     "duration": "PT1H28M",
-    "keywords": [
-        "rural setting",
-        "post communism",
-        "unemployment",
-        "german reunification"
-    ],
+    "keywords": [],
     "directors": [
         {
             "url": "https://www.imdb.com/name/nm0707791/",
-            "name": "Jan Ralske"
+            "name": "Jan Ralske",
+            "@type": "Person"
         }
     ],
     "imdb_link": "https://www.imdb.com/title/tt0126547/",
     "metascore": null,
     "imdb_votes": 17,
     "popularity": 0,
-    "description": null,
-    "imdb_rating": "5.8/10 from 17 users",
-    "release_date": [],
+    "description": "While life in a provincial town in eastern Germany near the Polish border has virtually come to a standstill, a dynamic young entrepreneur, his wife, and a laconic, resigned dropout strive to make a new start. But their dreams of revitalizing the region with a train station bistro and spa business fade away in (self-)deception, hangovers, and small escapes.",
+    "imdb_rating": "5.9/10 from 17 users",
+    "release_date": [
+        {
+            "date": "1997-10-16",
+            "country": "Germany"
+        }
+    ],
     "contentRating": null,
     "datePublished": "1997-10-16",
-    "imdb_rating_average": 5.8,
-    "update_at": "2025-04-09T10:08:09"
+    "original_title": "Not a Love Song",
+    "imdb_rating_average": 5.9,
+    "update_at": "2026-11-27T22:42:16"
 }
